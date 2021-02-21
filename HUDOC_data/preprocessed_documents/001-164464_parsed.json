@@ -1,0 +1,927 @@
+{
+    "__articles": "3;5;5-1;5-1-c;5-3;5-4;13;13+3",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);No violation of Article 5 - Right to liberty and security (Article 5-1 - Deprivation of liberty;Article 5-1-c - Reasonable suspicion);Violation of Article 5 - Right to liberty and security (Article 5-3 - Reasonableness of pre-trial detention);Violation of Article 5 - Right to liberty and security (Article 5-4 - Procedural guarantees of review);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Degrading treatment;Prohibition of torture)",
+    "applicability": "",
+    "appno": "50130/12",
+    "article": [
+        "13",
+        "3",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Deprivation of liberty",
+                "Article 5-1-c - Reasonable suspicion"
+            ],
+            "element": "No violation of Article 5 - Right to liberty and security",
+            "type": "no-violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-4 - Procedural guarantees of review"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-164464.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 50130/12) against Hungary lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Hungarian national, Mr J\u00e1nos Bandur (\u201cthe applicant\u201d), on 1 August 2012.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr T. Fazekas, a lawyer practising in Budapest. The Hungarian Government (\u201cthe Government\u201d) were represented by Mr Z. Tall\u00f3di, Agent, Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Relying on Articles 3 and 13 of the Convention, the applicant complained about the conditions of his pre-trial detention and the absence of an effective domestic remedy in this regard. Moreover, he submitted under Article 5 \u00a7\u00a7 1, 3 and 4 of the Convention, that his detention had been unjustified and unduly protracted and that the proceedings concerning his applications for release were unfair.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 9 January 2014 the complaints concerning Articles 3 and 13 of the Convention were communicated to the Government. On 19 February 2015 the complaints concerning Article\u00a05\u00a0\u00a7\u00a7\u00a01, 3 and 4 of the Convention were communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 \u00a7 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Criminal proceedings conducted against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicant was born in 1963 and lives in Buda\u00f6rs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 29 August 2011 the representative of a limited liability company lodged a criminal complaint against unknown persons for having allegedly stolen goods belonging to the company worth 11,000,000 Hungarian forints (HUF) (approximately 34,400 euros (EUR)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0In connection with the criminal complaint, investigations were opened in respect of two individuals on suspicion of forgery of public documents and aggravated fraud.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 1 June 2012 the Tatab\u00e1nya Police Department issued a warrant for the arrest of the applicant in connection with the ongoing criminal proceedings, since the applicant was unreachable at his permanent address.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Apparently, at the time the arrest warrant was issued the applicant had a lawyer appointed for him, as required by Article\u00a0527 \u00a7 2 of the Code of Criminal Procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 8 June 2012 the applicant voluntarily appeared at J\u00e1szf\u00e9nyszaru police station, where he was questioned as a suspect on charges of aggravated fraud. He was suspected of having been hired as a part-time truck driver by a transport company, and instead of transferring the goods to their assigned destination, he had left them at an unidentified location. The applicant gave a detailed account of events, substantiated by information from his mobile telephone. His lawyer also submitted that although the applicant had gone abroad several times for short periods that had been solely because of his work as a truck driver. He had had no intention to circumvent the investigations and had resided at the same address for years.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0The applicant was placed in police custody on the same day on the grounds that a warrant had been issued for his arrest. He complained against the measure, arguing that he had not been present at his permanent address as he worked as a truck driver abroad. He also stated that he had steady employment and a permanent address, that the alleged offence of which he was suspected was of a minor nature, that he had voluntarily appeared before the investigation authorities, and that he had given a detailed account of events. Therefore, there were no grounds to believe that he would abscond or commit any other crime. He also maintained that the only evidence against him was that his personal details had allegedly been registered erroneously by the company where he had been employed as a driver.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The complaint was dismissed by the Tatab\u00e1nya district prosecutor\u2019s office on 14 June 2012.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In those and the ensuing proceedings the applicant was represented by a lawyer of his choice.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 8 June 2012 the Tatab\u00e1nya Police department filed an application with the head of the Tatab\u00e1nya District Prosecutor\u2019s Office seeking the applicant\u2019s placement in pre-trial detention. The application specified that the applicant had submitted false personal information (name and ID card number) when receiving the goods, which were supposed to be transported by the applicant to a specific place but had gone missing following their hand-over.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The Kom\u00e1rom-Esztergom County public prosecutor\u2019s office applied for the applicant\u2019s pre-trial detention on the same day. It argued that the applicant was suspected of committing aggravated fraud as he had been the driver of the truck containing the missing goods and had used false information to identify himself when the goods in question had been handed over to him. Furthermore, he had been arrested under a warrant because he had been unreachable at his domicile. Further investigative steps were also necessary and there was a risk that he would obstruct the gathering of evidence by influencing witnesses or that he would abscond.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 9 June 2012 the Tatab\u00e1nya District Court held a detention hearing. The application of the public prosecutor\u2019s office was presented to the applicant\u2019s lawyer orally during the hearing. The court ordered the applicant\u2019s detention on remand until 9 July 2012 under Article\u00a0129 \u00a7\u00a02\u00a0(b) and (c) of the Code of Criminal Procedure. According to the court\u2019s reasoning, the applicant, in cooperation with another suspect, had transferred the missing goods to an unidentified location and had submitted false information about his identity. Referring to the arrest warrant, the court also held that there were grounds to believe that the applicant would abscond, obstruct the investigations or commit further offences. It further stated, without any additional reasoning, that less restrictive measures could not be applied.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The applicant appealed, arguing that the conditions for pre-trial detention had not been fulfilled because there was neither a well-founded suspicion that he had committed a criminal act nor any risk of his absconding or colluding with others. He reiterated that he had voluntarily cooperated with the police, both as regards his arrest and the giving of evidence. Furthermore, his personal circumstances, that is, the fact that his mother and brother were ill, his permanent employment and residence, which had been the same for forty years, also excluded the risk of his absconding. He further submitted that he had not been informed of any evidence justifying his detention on remand. Alternatively, the applicant requested his release and that he be placed under house arrest or under an obligation not to leave a certain area.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The first-instance decision was upheld on appeal, without further reasoning, by the Tatab\u00e1nya High Court on 14 June 2012.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 3 July 2012, on the application of the public prosecutor\u2019s office, the applicant\u2019s detention was extended until 9 September 2012 by the District Court. The court found that there remained a well-founded suspicion that the applicant had committed aggravated fraud. Furthermore, the risk of his absconding remained since the applicant had been arrested under a warrant. Finally, there was a risk of collusion given the ongoing investigations and the need to question further witnesses, and the applicant\u2019s denial of the offence. The application of the prosecutor\u2019s office for a prolongation of the applicant\u2019s pre-trial detention, dated 2 July 2012, was served on the applicant following the first-instance decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The first-instance decision was upheld on appeal on 20 July 2012 by the Tatab\u00e1nya High Court, without further reasoning.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0In parallel, on 2 July 2012 the applicant applied for release from pre-trial detention or, alternatively, to be placed under house arrest or under an obligation not to leave a certain area. He reiterated that he had no criminal record, gave financial assistance to his elderly parents and his brother, who had Down syndrome and with whom he also shared a house, had a permanent job and that his residence had not changed for forty years. He also submitted that he had voluntarily cooperated with the police giving a detailed account of the events and handling over documentary evidence in his possession. He further pointed out that the evidence obtained by the police supported his version of the events, thus there were no grounds to believe that he would have obstructed the investigations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "A request by the prosecutor\u2019s office, dated 5 July 2012, seeking the maintenance of the coercive measure was not served on the applicant at all.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0The applicant\u2019s application for release was dismissed by the District Court on 9\u00a0July 2012. It reiterated in essence the same reasoning as in its decision of 3 July 2012 without any consideration for the application of a less restrictive measure. On appeal, on 9 August 2012, the Tatab\u00e1nya High Court partly upheld the applicant\u2019s appeal, finding that there was no risk of his absconding owing to his personal circumstances, namely his mother\u2019s fragile health and his brother\u2019s illness, and the fact that he had voluntarily appeared before the police following the issuing of the arrest warrant. Nonetheless, the High Court upheld the first-instance decision to prolong the applicant\u2019s pre-trial detention owing to a risk of collusion, adding that there were no grounds for choosing another, less restrictive, preventive measure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 28 August 2012 the investigation was closed and the case file was presented to the defence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 7 September 2012 the prosecutor\u2019s office released the applicant from pre-trial detention on the grounds that no specific reason (such as a risk of collusion) existed for his further detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 25 June 2015 the Tatab\u00e1nya District Court acquitted the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Conditions of the applicant\u2019s pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0The applicant was detained in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison from 9 June to 7\u00a0September 2012. During that time he was held in a cell measuring 41.09\u00a0sq. m with eighteen sleeping places. On 31 July 2012 there were eight inmates (5.1 sq. m per person); on 9 June, between 26 June and 2 July, 1\u00a0and\u00a010 August and 26 August and 7 September 2012 there were nine inmates (4.5 sq. m per person); between 10 and 11 June and 3 and 6\u00a0July\u00a02012 there were ten inmates (4.1 sq. m per person); between 12 and 21\u00a0June, 20 and 30 July and 11 and 25 August 2012 there were eleven inmates (3.7 sq. m per person); between 22 and 25 June and between 7 and 15\u00a0July 2012 there were twelve inmates (3.4 sq. m per person); and between 15 and 20 July 2012 there were thirteen inmates (3.1 sq. m per person). During the summer, the temperature in the prison cell rose to 30\u02daC during the day time, occasionally reaching 35\u02daC. The cell was equipped with a separate toilet. The applicant could only leave the cell for one hour of outdoor exercise every day. Inmates were able to take a shower once a week for about five to ten minutes.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "24.\u00a0\u00a0 Act no. XIX of 1998 on the Code of Criminal Procedure provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(2)\u00a0\u00a0Pre-trial detention of a defendant may take place in a procedure related to a criminal offence punishable by imprisonment, and only under the following conditions: ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0if, owing to the risk of escaping or absconding, or for other reasons, there is reasonable cause to believe that the presence of the defendant in procedural actions cannot be otherwise ensured,",
+                                "elements": []
+                            },
+                            {
+                                "content": "c)\u00a0\u00a0if there is reasonable cause to believe that if left at liberty, the defendant would frustrate, obstruct or jeopardise the gathering of evidence, especially by means of influencing or intimidating witnesses, or by the destruction, falsification or concealment of physical evidence or documents, ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "d)\u00a0\u00a0if there is reasonable cause to believe that if left at liberty, the defendant would carry out the attempted or planned criminal offence or commit another criminal offence punishable by imprisonment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(2) The suspect, counsel for the defence or victim may also inspect any expert opinion gathered during the investigation, but they may only inspect other documents if it does not harm the interests of the investigation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) After the conclusion of an investigation, the prosecutor or (unless the prosecutor provides otherwise) the investigating authority shall hand over the bound documents of the investigation to the suspect and counsel for the defence in a room designated for that purpose. The suspect and counsel for the defence shall be enabled to inspect all the documents \u2013 with the exception of those treated confidentially \u2013 that may serve as the basis for pressing charges.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) Anyone affected by an act or omission of a prosecutor or investigating authority may lodge an objection within eight days of receiving the relevant information.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) The investigating judge shall hold a hearing if an application pertains to the following subjects:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "b) extension of pre-trial detention or house arrest, where, as compared to the previous decision, the reason for the extension is a new circumstance in the application,...\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 3 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0Relying on Articles 3 and 13 of the Convention, the applicant complained that the conditions of his detention in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison were inhuman and degrading and that he did not have an effective domestic remedy for his grievances. The invoked provisions of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0The Government submitted that there was an effective remedy to address the applicant\u2019s grievances under Article 3, which he had not availed himself of. They submitted in particular that the applicant had not brought a claim for compensation to the domestic courts in respect of non-pecuniary damage for a violation of his personality rights on account of the allegedly inhuman conditions of his detention, under Article 84 of the [Old] Civil Code. The Government also referred to Articles 6 and 7 of Decree\u00a0no.\u00a06/1996. (VII.12.) dealing with complaints to the governor of the prison and the public prosecutor. For that reason, his complaint under Article 3 should be rejected for non-exhaustion of domestic remedies, whereas the complaint under Article 13 read in conjunction with Article\u00a03 was manifestly ill-founded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicant contested these views, arguing in essence that the remedy suggested by the Government was not effective, since on all but one occasion such claims had been dismissed. Even in the one successful case it was unclear to what extent the award had corresponded to the actual grievance of overcrowded prison conditions. Therefore, his complaint about the inhuman physical circumstances of his detention should be declared admissible, since there was no effective remedy available for him to exhaust.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court considers that the issue of exhaustion of domestic remedies is closely linked to the merits of the applicant\u2019s complaint that he did not have at his disposal an effective remedy for the complaint that he was being subjected to inhuman and degrading treatment by being detained in inadequate conditions. The Court thus finds it necessary to join the Government\u2019s objection to the merits of the applicant\u2019s complaint under Article 13 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court further notes that the applicant\u2019s complaints under Articles 3 and 13 of the Convention are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Exhaustion of domestic remedies and alleged violation of Article 13 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0The Court reiterates that the effect of Article 13 is to require the provision of a remedy at national level allowing the competent domestic authority both to deal with the substance of the relevant Convention complaint and to grant appropriate relief, although Contracting States are afforded some discretion as to the manner in which they conform to their obligations under this provision. However, such a remedy is only required in respect of grievances which can be regarded as arguable in terms of the Convention (see Iliya Stefanov v. Bulgaria, no. 65755/01, \u00a7\u00a056, 22\u00a0May\u00a02008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court has already examined the same objection based on the exhaustion of domestic remedies, raised by the Government in the case of Varga and Others v. Hungary (nos. 14097/12, 45135/12, 73712/12, 34001/13, 44055/13, and 64586/13, 10 March 2015). It considered their arguments in the context of those particular applicants and in respect of other actual or potential applicants with similar complaints (ibid., \u00a7\u00a7 51-59) and found that the applicants could not be required to avail themselves of the civil remedy or complaint to the higher authority in question. The Court also held that overcrowding in Hungarian detention facilities was of a structural nature (ibid., \u00a7 63).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0Having declared the applicant\u2019s claim of inadequate conditions of detention admissible (see paragraph 29 above), and in view of the seriousness of his allegations, the Court finds that it was \u201can arguable claim\u201d. Accordingly, the respondent State had an obligation to ensure that an effective remedy was available to deal with the substance of his complaint. Taking into account the circumstances of the present case and the aforementioned case-law, the Court sees no reason to depart from its previous findings on the issue. It concludes that the legal avenues put forward by the Government did not constitute an effective remedy that could have been used to prevent the alleged violations or their continuation and provide the applicant with adequate and sufficient redress for his complaints under Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the above, the Court dismisses the Government\u2019s objection of non-exhaustion of domestic remedies and finds that the applicant did not have at his disposal an effective domestic remedy for his complaints, in breach of Article 13 read in conjunction with Article 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Alleged violation of Article 3 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0The applicant maintained that he had been subjected to inhuman and degrading treatment because he had been detained in cells in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison which were small and which had no fresh air. Furthermore, he had been kept in his cell for twenty-three hours a day and only had access to a shower once a week.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Government disagreed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0Article 3 of the Convention requires States to ensure that a person is detained in conditions which are compatible with respect for his human dignity and that the manner and method of the execution of the measure do not subject him to distress or hardship of an intensity exceeding the unavoidable level of suffering inherent in detention (see Kud\u0142a v. Poland [GC], no. 30210/96, \u00a7 94, ECHR 2000-XI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Court reiterates, in particular, that a serious lack of space in a prison cell weighs heavily as a factor to be taken into account for the purpose of establishing whether the detention conditions described are \u201cdegrading\u201d within the meaning of Article 3 and may disclose a violation, both alone or taken together with other shortcomings (see, amongst many other authorities, Karalevi\u010dius v. Lithuania, no. 53254/99, \u00a7\u00a7 39-40, 7\u00a0April\u00a02005; Ananyev and Others v. Russia nos. 42525/07 and 60800/08, \u00a7\u00a0143, 10 January 2012; and Varga and Others v. Hungary, no. 14097/12, \u00a7\u00a7\u00a073-\u00a077, 10 March 2015). When assessing conditions of detention, account has to be taken of the cumulative effects of those conditions, as well as of the specific allegations made by the applicant (see Dougoz v. Greece, no.\u00a040907/98, \u00a7 46, ECHR 2001-II, and Idalov v. Russia [GC], no.\u00a05826/03, \u00a7\u00a094, 22 May 2012). The length of time a person is detained in the particular conditions also has to be considered (see, among other authorities, Alver\u00a0v.\u00a0Estonia, no. 64812/01, 8 November 2005).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0In particular, the Court has already held that the brevity of a period spent in a situation which was otherwise less than adequate was a factor because of which the impugned conditions were held not to have attained the threshold of severity required to characterise the treatment as inhuman and degrading (see Fetisov and Others v. Russia, nos. 43710/07, 6023/08, 11248/08, 27668/08, 31242/08 and 52133/08, \u00a7 138, 17 January 2012; Dmitriy Rozhin v.\u00a0Russia, no. 4265/06, \u00a7 53, 23 October 2012; Kurkowski v.\u00a0Poland, no.\u00a036228/06, \u00a7 67, 9 April 2013; Sergey Chebotarev v. Russia, no.\u00a061510/09, \u00a7 45, 7 May 2014; and Anatoliy Kuzmin v. Russia, no.\u00a028917/05, \u00a7 44, 25 June 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0In the instant case, the Court notes that the applicant was allowed a one-hour period of outdoor exercise daily, but that otherwise he was not allowed to leave his cell. The cell was also not equipped with proper ventilation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court further notes that the applicant was kept in a cell which was designed for eighteen inmates and measured 41.09 sq. m, allowing at certain periods of the applicant\u2019s detention some three square meters of floor space per inmate. Furthermore, given that the cell also contained sanitary facilities, furniture and fittings, the personal space available to detainees was further reduced.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Of the other elements relevant for the assessment of the conditions of detention, special attention must be paid to the availability and duration of outdoor exercise and the conditions in which prisoners could take it. The Court has found a violation of Article 3 because the lack or short duration of outdoor exercise was a factor that further exacerbated the situation of the applicant, who was confined to his cell for all or the rest of his time (see Ananyev and Others v. Russia, nos. 42525/07 and 60800/08, \u00a7\u00a7 149-151, 10\u00a0January 2012, and the case-law cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the lack of personal space afforded to the applicant, combined with the lack of adequate access to outdoor activities for almost three months of his detention, the Court finds that the conditions of the applicant\u2019s detention in in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison from 3 July 2012 until 7\u00a0September 2012 amounted to degrading treatment. Accordingly, there has been a violation of Article 3 of the Convention in this respect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 1 (c) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "43.\u00a0\u00a0Relying on Article 5 \u00a7 1 (c) of the Convention, the applicant complained that his arrest had been unlawful, since there had been no reasonable suspicion against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 5 \u00a7 1 (c) of the Convention reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention, and that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "45.\u00a0\u00a0The applicant argued that he had not been arrested and detained on a \u201creasonable suspicion\u201d of having committed an offence. In his submission, the investigation authorities had failed to carry out a house search or any other background check to collect information about him before issuing an arrest warrant. Furthermore, the facts of the case, in particular the circumstances in which he had gained possession of the allegedly stolen goods, did not substantiate that there existed a \u201creasonable suspicion\u201d against him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Government contended that the deprivation of the applicant\u2019s liberty had been compatible with the Convention, there being a reasonable suspicion that he had committed the criminal offence of aggravated fraud. The authorities ordering the applicant\u2019s custody and pre-trial detention had found that there had existed a \u201creasonable suspicion\u201d against the applicant, supported by concrete information emerging in the investigation, in particular the fact that the applicant had used a false identity during the hand-over of the goods, which had gone missing following that hand-over.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "47.\u00a0\u00a0The Court reiterates that Article 5 \u00a7 1 of the Convention requires in the first place that detention be \u201clawful\u201d, which includes the condition of compliance with a procedure prescribed by law. The Convention here essentially refers back to national law and states the obligation to conform to the substantive and procedural rules thereof, but it requires in addition that any deprivation of liberty should be consistent with the purpose of Article\u00a05, namely to protect individuals from arbitrariness (see, Medvedyev\u00a0and Others v. France [GC], no. 3394/03, \u00a7 79, ECHR 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0It further reiterates that under Article 5 \u00a7 1 (c) a person may be detained in the context of criminal proceedings only for the purpose of bringing him before the competent legal authority on reasonable suspicion of his having committed an offence. A \u201creasonable suspicion\u201d that a criminal offence has been committed presupposes the existence of facts or information that would satisfy an objective observer that the person concerned may have committed an offence (see W\u0142och v. Poland, no.\u00a027785/95, \u00a7 108, ECHR 2000XI). Thus, facts which raise a suspicion need not be of the same level as those necessary to justify a conviction or even the bringing of a charge, which comes at the next stage of the process of criminal investigation (see Murray v. the United Kingdom, 28\u00a0October\u00a01994, \u00a7 55, Series A no. 300A).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0Turning to the circumstances of the present case, the Court observes that the applicant was taken into custody on 8 June 2012 on suspicion of aggravated fraud; and that the police acted on the basis of an arrest warrant. He was placed in pre-trial detention on 9 June 2012 by decision of the Tatab\u00e1nya District Court. Both measures were based on information, gathered by the investigating authorities, according to which the applicant, when receiving the goods in question, had availed himself of false personal information, including name and ID card number, and that the goods had gone missing following their hand-over to the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0For the Court, there was nothing unreasonable or arbitrary in the domestic authorities\u2019 suspecting the applicant of fraud at that stage of the investigation. It therefore finds that the domestic authorities did not fail to make a genuine inquiry into the basic facts and their presumption about the existence of a reasonable offence has been based on concrete facts (see Erdag\u00f6z v. Turkey, 22 October 1997, \u00a7 51, Reports of Judgments and Decisions 1997VI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The Court is thus satisfied that the applicant\u2019s detention was lawful and that he was detained on reasonable suspicion of having committed an offence, within the meaning of Article 5 \u00a7 1 (c) of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0It follows that there has been no violation of Article 5 \u00a7 1 (c) with respect to the applicant\u2019s arrest and detention on 8 and 9 June 2012.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0The applicant alleged a breach of Article 5 \u00a7 3 of the Convention in that the authorities had not justified his pre-trial detention on any relevant ground. In particular, the domestic authorities had failed to examine his personal circumstances when extending his pre-trial detention. Article\u00a05 \u00a7\u00a03 of the Convention, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "55.\u00a0\u00a0The applicant contended that his pre-trial detention had not been based on relevant and sufficient reasons. He stressed that when ordering and extending his detention throughout the period at issue the domestic courts had failed to cite any compelling reasons to justify his deprivation of liberty.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0Firstly, there was no well-founded suspicion, supported by competent and substantial evidence, that he had committed a crime. Moreover, the domestic authorities had merely reiterated the grounds of his detention without making the necessary assessment of the particular factual circumstances of the case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The applicant further argued that the domestic courts had never given any genuine consideration to the possibility of replacing pre-trial detention with a less severe preventive measure. Lastly, the applicant pointed out that even if it could be accepted that there had been a risk of collusion that risk had certainly ceased to exist as of 28 August 2012, when the investigations had ended. However, he had only been released on 7\u00a0September 2012.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Government argued that the applicant\u2019s pre-trial detention had been in full compliance with the requirements of the relevant domestic law and had been based on relevant and sufficient reasons. In particular, the pre-trial detention had lasted only as long as had been absolutely necessary, namely from 9 June 2012 to 7 September 2012. Moreover, on each occasion the domestic authorities had examined the necessity of keeping the applicant in detention as well as the particular circumstances of the case and his personal situation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0In the Government\u2019s view, there was no doubt that throughout the period of the applicant\u2019s pre-trial detention there had existed a reasonable suspicion that he had committed the offence in question. Moreover, during the investigation the domestic authorities had relied on a justified fear that he might abscond, but once that risk had no longer existed they had not used that ground to extend his detention. The domestic authorities had also found that the particular nature of the offence, the applicant\u2019s denial of having committed the crime, and the needs of the investigation had suggested that the applicant might obstruct the gathering of evidence. The domestic courts had examined the possibility of applying less restrictive preventive measures, but had found them insufficient in view of the circumstances of the case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "60.\u00a0\u00a0The Court reiterates that under the second limb of Article\u00a05 \u00a7\u00a03, a person charged with an offence must always be released pending trial unless the State can show that there are \u201crelevant and sufficient\u201d reasons to justify his continuing detention (see Ya\u011fc\u0131 and Sarg\u0131n v. Turkey, 8 June 1995, \u00a7 52, Series A no. 319A). The question of whether a period of time spent in pre-trial detention is reasonable cannot be assessed in the abstract. Whether it is reasonable for an accused person to remain in detention must be assessed on the facts of each case, according to its specific features. Continued detention can only be justified in a given case if there are actual indications of a genuine requirement of public interest which, notwithstanding the presumption of innocence, outweighs the rule of respect for individual liberty laid down in Article 5 of the Convention (see Kud\u0142a v.\u00a0Poland [GC], no.\u00a030210/96, \u00a7 110, ECHR 2000-XI, and Zimin v. Russia, no.\u00a048613/06, \u00a7\u00a030, 6 February 2014).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0The existence and persistence of a reasonable suspicion that the person arrested has committed an offence is a conditio sine qua non for the lawfulness of the continued detention (see Labita v. Italy [GC], no.\u00a026772/95, \u00a7\u00a0153, ECHR 2000IV). However, after a certain period of time that reason alone no longer suffices. In such cases, the Court must establish whether the other grounds given by the judicial authorities continued to justify the deprivation of liberty. Where such grounds were \u201crelevant\u201d and \u201csufficient\u201d, the Court must also ascertain whether the competent national authorities displayed \u201cspecial diligence\u201d in the conduct of the proceedings (ibid., \u00a7\u00a7 152-153). Justification for any period of detention, no matter how short, must be convincingly demonstrated by the authorities (see Idalov v. Russia [GC], no. 5826/03, \u00a7 140, 22 May 2012). When deciding whether a person should be released or detained, the authorities are obliged to consider alternative measures for ensuring his appearance at trial (see Jab\u0142onski v. Poland, no. 33492/96, \u00a7\u00a083, 21\u00a0December 2000).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0Turning to the facts of the present case, the Court notes that the applicant\u2019s detention had been ordered on 9 June 2012 and was terminated by the decision of the prosecutor\u2019s office on 7 September 2012. The competent judicial authorities justified the imposition of detention by noting that there was a persistent suspicion that the applicant was guilty of fraud (see paragraphs 13 and 16 above) and that there existed a risk of absconding and collusion.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The Court accepts that the suspicion against the applicant of having committed fraud may have persisted throughout the period of his pre-trial detention. Yet the Court does not accept that it could constitute a \u201crelevant and \u201csufficient\u201d ground for his being held in custody for the entire relevant period.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0As regards the risk of absconding, the judicial authorities referred to the applicant having been arrested under a warrant (see paragraphs 13 and 16 above). However, they did not point to any factor capable of showing that the risks relied on actually existed. They also failed to establish that the applicant \u2013 who had no criminal record, had lived at the same address for forty years and supported family members \u2013 posed a danger. No account was taken of the fact that the applicant was employed as a truck driver, which justified his absence from Hungary, and that he voluntarily appeared at the police station, having learnt about the warrant for his arrest. The High Court decision of 9 August 2012 (see paragraph 19 above) no longer referred to the risk of his absconding, based on the fact that the applicant had voluntarily appeared before the police and owing to his sibling\u2019s illness and his mother\u2019s old age. Those were circumstances that were already known to the courts when issuing their previous decisions. However, they paid no heed to those facts, which were supportive of the applicant\u2019s specific applications for release.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0As regards the risk of collusion, in the decisions of 9 June and 3\u00a0July\u00a02012 the investigating judges found that it was necessary to question a number of witnesses and that it was probable that the applicant would suborn them. The High Court decision of 9 August 2012 merely referred to a risk of collusion to conclude that the applicant\u2019s continued detention was necessary, given the number of suspects in the case and the nature of the criminal act.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0Moreover, the domestic courts, although mentioning briefly the unavailability of other, less severe, measures, failed to thoroughly examine the possibility of applying them, either by rejecting them at the outset (see paragraphs 13 and 19 above) or by ignoring the applicant\u2019s request for their application (see paragraph 19 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0Based on the above, the Court finds that the domestic authorities failed to establish and convincingly demonstrate the existence of specific facts in support of their conclusions on the particular grounds for detention. Since the reasons relied upon by the authorities were not \u201csufficient\u201d for the above reasons \u2013 and because of the authorities\u2019 apparent failure duly to consider alternative, less stringent measures for ensuring the applicant\u2019s appearance at trial (see Aleksandr Dmitriyev v. Russia, no. 12993/05, \u00a7\u00a7\u00a053\u00a0to 59, 7 May 2015, and Jab\u0142onski, cited above, \u00a7 83) \u2013 it is not necessary to examine whether the proceedings were conducted with \u201cspecial diligence\u201d by the authorities (see paragraph\u00a060 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0Having regard to the foregoing considerations, the Court finds that the authorities failed to justify the applicant\u2019s continued deprivation of liberty. There has accordingly been a violation of Article 5 \u00a7 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a04 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "69.\u00a0\u00a0The applicant complained of various defects in the proceedings concerning his detention, namely the detention orders of 9 June, and 3\u00a0and\u00a09\u00a0July 2012. He referred to Article 5 \u00a7 4 in that connection, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government submitted that the applicant had not exhausted the relevant domestic remedies. He had failed to lodge a complaint against the measures taken by the prosecutor\u2019s office, pursuant to Article 196 \u00a7 1 of the Code of Criminal Procedure, which could have served as a basis for challenging the alleged prosecutorial omission.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant disagreed. He submitted that a complaint against the late delivery or non-delivery of the prosecutor\u2019s decisions could not have remedied the fact that the court decisions had already been taken without his having had the possibility to learn the content of those documents and the underlying evidence. Furthermore, such a complaint would not have had a suspensive effect on the decisions on his pre-trial detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court reiterates that the rule on exhaustion of domestic remedies referred to in Article 35 \u00a7 1 of the Convention obliges applicants to first use the remedies that are normally available and sufficient in the domestic legal system to enable them to obtain redress for the breaches they have alleged. The existence of the remedies must be sufficiently certain, in practice as well as in theory, failing which they will lack the requisite accessibility and effectiveness. However, Article 35 \u00a7 1 does not require that recourse should be had to remedies which are inadequate or ineffective (see Aksoy v. Turkey, 18\u00a0December 1996, \u00a7\u00a7\u00a051-52, Reports 1996-VI).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0The Court observes that pursuant to Article\u00a0196 \u00a7\u00a01 anyone affected by an act or omission of a prosecutor or investigating authority may lodge an objection within eight days of receiving information about such an act or omission, if it directly violates his or her rights or interests. Such an objection may be dealt with by the authority responsible for the act or omission within three days, or by a higher-instance authority within fifteen days, following notification. However, the Court is not convinced that this procedure can in the circumstances be considered an effective remedy whose lack of use falls foul of Article 35 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The Court notes that in the present case the applicant\u2019s complaint concerned the late delivery or non-delivery of prosecutorial applications, an omission of which he only learnt once the decisions on his pre-trial detention had already been taken. The Court does not see how a complaint about a prosecutorial omission, subsequent to court decisions, could have remedied the grievance that the applicant could not take cognisance of the content of the application. The Government also failed to demonstrate that such a complaint could have enabled the applicant to obtain the prosecution\u2019s applications in due time. Thus, for the Court, the remedy proposed by the Government cannot be regarded as \u201cavailable and sufficient\u201d. It follows that this complaint cannot be rejected for non-exhaustion of domestic remedies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "76.\u00a0\u00a0The applicant maintained his complaints that the detention hearings in his case had not complied with the minimum procedural requirements. More specifically, as regards the first detention order, neither he nor his defence counsel had received the prosecution\u2019s first application for his pre-trial detention prior to the court session on 9 June 2012. As to the court decision of 3 July 2012, the applicant submitted that he had only received the prosecution\u2019s application to prolong the coercive measure after the court had rendered its decision. He also maintained that the prosecution\u2019s request to dismiss his application for release, of 2 July 2012, had not been served on him at all. Thus, he had had no chance to learn the content of those applications and had not been able to present any material arguments before the court. The lack of access to the criminal file and the failure to serve the prosecution\u2019s submissions beforehand had then resulted in a situation in which the defence had remained completely unaware of the prosecution\u2019s arguments.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0The Government submitted that pursuant to Articles 193 \u00a7\u00a01 and 186 \u00a7\u00a02 of the Code of Criminal Procedure, during the investigation phase a suspect\u2019s right of access to documents was restricted and only those documents whose disclosure was not contrary to the interests of the investigations could be examined. Furthermore, no other documents than those in the investigation file which were essential in order to effectively challenge the lawfulness of detention were supposed to be disclosed to a suspect or his counsel. According to the Government, in the present case the prosecutor\u2019s application had been based on the applicant\u2019s own testimony, thus he had had sufficient information to challenge the prosecutor\u2019s request and it had not been absolutely necessary for him to have access to the entire investigation file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0The Government also argued that the applicant and his defence counsel had been served with the prosecution\u2019s application of 8 June 2012 at the court session of 9 June 2012, thus they had had an opportunity to express their position. Moreover, the prolongation of the applicant\u2019s pre-trial detention had taken place without a court hearing on 3\u00a0July 2012 because no new circumstances had been brought up by the prosecutor\u2019s office. Therefore, although the prosecution\u2019s application had only been served on the applicant after the decision had been taken, he should have been aware of its contents because it had contained no new information when compared with the previous one.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "79.\u00a0\u00a0 The Court notes that arrested or detained persons are entitled to a review bearing upon the procedural and substantive conditions which are essential for the \u201clawfulness\u201d of their deprivation of liberty, within the meaning of the Convention. A court examining an appeal against detention must provide guarantees of a judicial procedure. The proceedings must be adversarial and must always ensure \u201cequality of arms\u201d between the parties, the prosecutor and the detained person. Equality of arms is not ensured if counsel is denied access to the investigation file in so far as that access is essential in order effectively to challenge the lawfulness of his client\u2019s detention (see Garcia Alva v. Germany, no. 23541/94, \u00a7\u00a039, 13\u00a0February\u00a02001). Those requirements are derived from the right to an adversarial trial, as laid down in Article 6 of the Convention, which means, in a criminal case, that both the prosecution and the defence must be given the opportunity to have knowledge of and comment on the observations filed and the evidence adduced by the other party. According to the Court\u2019s case-law, it follows from the wording of Article 6 \u2013 and particularly from the autonomous meaning to be given to the notion of \u201ccriminal charge\u201d \u2013 that this provision has some application to pre-trial proceedings (see Imbrioscia v.\u00a0Switzerland, 24 November 1993, \u00a7 36, Series A no. 275). It is thus clear that, in view of the dramatic impact of the deprivation of liberty on the fundamental rights of the person concerned, proceedings conducted under Article 5 \u00a7 4 of the Convention should in principle also meet, to the greatest extent possible in the circumstances of an ongoing investigation, the basic requirements of a fair trial, such as the right to an adversarial procedure. While national law may satisfy this requirement in various ways, whatever method is chosen should ensure that the other party will be aware that observations have been filed and will have a real opportunity to comment on them (see Lietzow v. Germany, no. 24479/94, \u00a7 44, ECHR\u00a02001I).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0In the instant case, the Court observes that the applicant applied for release on 2 July 2012. Moreover, on 10 June and 3 July 2012 he appealed against the court decisions ordering or prolonging his pre-trial detention. According to the applicant\u2019s submissions, unrefuted by the Government, the defence was not provided with the prosecution\u2019s applications in any of those proceedings in due time. For the first detention hearing, which took place before the Tatab\u00e1nya District Court on 9 June 2012, the prosecution application was only made available during the court session (see paragraph\u00a013 above). Later, when the delivery of decisions prolonging the coercive measure or dismissing an application for release took place without a court session, the defence was either not provided with the prosecution applications prior to the court decision or was not given them at all (see paragraphs 16 and 18 above). Furthermore, in the present case it is not disputed that neither the applicant nor his counsel was given access to the criminal file or the material presented by the prosecutor to the court deciding the issues of the applicant\u2019s remand in custody and the lawfulness of his continued detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0As regards the applicant\u2019s complaint that he had no access to the documents submitted by the prosecution at the hearing of 9 June 2012, the Court accepts that the nature of a first detention hearing is such that the time to examine the case file and prepare arguments may be reduced to a minimum in order to allow the court to take the decision \u201cspeedily\u201d, as Article\u00a05 requires (see Khodorkovskiy v. Russia, no.\u00a05829/04, \u00a7 221, 31\u00a0May\u00a02011). The Court also acknowledges the Government\u2019s argument that the need for criminal investigations to be conducted efficiently may imply that part of the information collected during them has to be kept secret (see paragraph 77 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "However, these legitimate goals cannot be pursued at the expense of substantial restrictions on the rights of the defence (see Galambos v.\u00a0Hungary, no. 13312/12, \u00a7 33, 21 July 2015). Furthermore, where full disclosure of the case file is not possible, Article 5 \u00a7 4 requires that the difficulties this causes are counterbalanced in such a way that the individual still has a possibility effectively to challenge the allegations against him (see Piechowicz v. Poland, no. 20071/07, \u00a7 203, 17 April 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0In so far as the subsequent detention orders are concerned, the Court notes the Government\u2019s argument that pursuant to Article\u00a0210 \u00a7 1 (b) of the Code of Criminal Procedure, where no new circumstances are mentioned in a prosecution application for the maintenance of a coercive measure, the District Court could decide without a hearing. Given that the proceedings were carried out by a written procedure, the applicant should have known that no new arguments had been raised by the prosecutor\u2019s office and thus he must have been aware of the fact that the content of the prosecution\u2019s application did not differ from the previous ones.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0It is true, as the Government pointed out, that the prosecution\u2019s application of 8 June 2012 presented at the first detention hearing of 9\u00a0June\u00a02012 gave some details about the facts justifying the suspicion against the applicant and the specific reasons for his detention on remand. However, as the Court has previously held, it is difficult for a lawyer to defend his client\u2019s interests when the former has only a vague idea of what could be in the materials relied on by the prosecution and submitted to the court (see Khodorkovskiy, cited above, \u00a7 228). In the Court\u2019s opinion, it is not really possible for a suspect to challenge properly the reliability of the account of the facts provided by the prosecution without knowing of the evidence on which it is based.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "This requires that the suspect be given a sufficient opportunity to take cognisance of statements and other pieces of evidence underlying them, such as the results of ongoing investigations (see Lietzow, cited above, \u00a7\u00a046).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0In the light of the above, the Court notes that the applicant and his lawyer did not have the chance to take cognisance of the content of the prosecution\u2019s requests to prolong the coercive measures and to dismiss his application for release before the decision of the court. It also notes, that until 28 August 2012 neither the applicant nor his lawyer had been given access to the criminal file and to the evidence on the basis of which the lawfulness of his detention and his requests for release had been examined. Consequently, since the defence was not able to present any material arguments before the court in an informed manner, the Court considers that the applicant could not effectively exercise his defence rights in the proceedings concerning his remand in custody and the review of the lawfulness of his pre-trial detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0Accordingly, there has been a violation of Article 5 \u00a7 4 of the Convention because the principle of equality of arms was not respected.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "86.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "87.\u00a0\u00a0The applicant claimed 10,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The Government contested that claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The Court considers that the applicant must have suffered non-pecuniary damage on account of the violations found and awards him, on an equitable basis, EUR 6,500, plus any tax that may be chargeable on that amount, under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "90.\u00a0\u00a0The applicant also claimed EUR 3,150 for the costs and expenses incurred before the Court. This sum corresponds to 21 hours of legal work billable by his lawyer at an hourly rate of EUR 150, excluding value added tax.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The Government contested the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 2,100 for the costs and expenses incurred before it.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins, unanimously, the Government\u2019s objection as to the alleged non-exhaustion of domestic remedies in respect of the applicant\u2019s complaint under Article 3 to the merits of his complaint under Article 13 and dismisses it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares, unanimously, the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds, by five votes to two, that there has been a violation of Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds, unanimously, that there has been no violation of Article 5 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds, unanimously, that there has been a violation of Article 5 \u00a7 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds, unanimously, that there has been a violation of Article 5 \u00a7 4 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds, unanimously, that there has been a violation of Article 13 read in conjunction with Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds, by six votes to one,",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months of the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Dismisses, unanimously, the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 5 July 2016, pursuant to Rule\u00a077 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the joint partly dissenting opinion of Judges K\u016bris and KucskoStadlmayer is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": " P.P.A.",
+                        "elements": []
+                    },
+                    {
+                        "content": "M.T.\n",
+                        "elements": []
+                    },
+                    {
+                        "content": "1. In our opinion, the Court could have taken a more balanced approach and found that Article 3 of the Convention had not been violated.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2. One can admit that \u201cthe duration and availability of the outdoor exercise and the conditions in which [the applicant] could take it\u201d (paragraph 41) were problematic. The majority also point out that\u00a0\u201c[t]he Court has found a violation of Article 3 because the lack or short duration of outdoor exercise was a factor that further exacerbated the situation of the applicant, who was confined to his cell for all or the rest of his time\u201d (ibid.). But then they conclude, that \u201c[i]n the light of the lack of personal space afforded to the applicant, combined with the lack of adequate access to outdoor activities for almost three months of his detention, the Court finds that the conditions of the applicant\u2019s detention in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison from 3 July 2012 until 7 September 2012 amounted to degrading treatment\u201d (paragraph 42, emphasis added).",
+                        "elements": []
+                    },
+                    {
+                        "content": "3. In the judgment, that lack of space has not been shown. In paragraph\u00a023, where the facts pertaining to the applicant\u2019s personal space in the cell are listed, it is indicated that the applicant disposed of between 3.1 and 5.1 sq. m of personal space and during some periods more than 4 sq. m, and even 5 sq. m of personal space. This is clearly within the limits accepted by the Court in its case-law.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4. In Ananyev and Others v. Russia (nos. 42525/07 and 60800/08, \u00a7 145, 10 January 2012) the Court found that \u201cwhereas the provision of four square metres remains the desirable standard of multi-occupancy accommodation, the Court has found that where the applicants have at their disposal less than three square metres of floor surface, the overcrowding must be considered to be so severe as to justify of itself a finding of a violation of Article 3\u201d. This was confirmed in Canali v. France (no. 40119/09, \u00a7 49, 25 April 2013: \u201c... the personal living space in the present case does not justify, in itself, a finding of a violation of Article 3 of the Convention ..., such a violation only being found where applicants have individually had less than 3 sq. m\u201d) and several other judgments. The assumption of \u201ca lack of space\u201d in our case is therefore not convincing.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5. In this context it is misleading for paragraph 42 of the judgment to cite Ananyev (cited above), \u00a7\u00a7 149-151. In these paragraphs the Court had quoted CPT standards providing for \u201cat least one hour of exercise in the open air every day\u201d. The outdoor exercise available to the applicants in that case, limited to one hour per day, had \u201cexacerbated\u201d their situation because they were afforded less than three square metres of personal space (ibid., \u00a7\u00a0166, emphasis added). Consequently, the applicants\u2019 situation in Ananyev was significantly different from the present case.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6. However, even if one assumes (though it is not clear on what grounds) that there really was a \u201clack of personal space\u201d, a number of other factors also have to be taken into account (further elaborated in Ananyev, cited above, \u00a7\u00a7 153-159), not excluding the relative short duration of the applicant\u2019s stay in Sz\u00e9kesfeh\u00e9rv\u00e1r Prison. This assessment is absent (see paragraphs 41 and 42). Thus, the finding of a violation of Article 3 is not sufficiently substantiated and does not seem to be well balanced.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7. The Court should not be satisfied by such reasoning where the analysis of various relevant conditions is replaced by a mechanistic general reference to the effect that \u201c[t]he Court has found a violation of Article 3\u201d in previous cases (as in paragraph 41). It does not allow one to come even close to a proper assessment of the cumulative effect of various conditions of detention in the case actually under consideration.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Especially if, as mentioned above, one of the conditions, probably the decisive one, has not been convincingly established.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "president"
+        },
+        {
+            "name": "Andr\u00e1s Saj\u00f3",
+            "role": "judges"
+        },
+        {
+            "name": "Krzysztof Wojtyczek",
+            "role": "judges"
+        },
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "judges"
+        },
+        {
+            "name": "Iulia Motoc",
+            "role": "judges"
+        },
+        {
+            "name": "Gabriele Kucsko-Stadlmayer",
+            "role": "judges"
+        },
+        {
+            "name": "Marko Bo\u0161njak",
+            "role": "judges"
+        },
+        {
+            "name": "Marialena Tsirli",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF BANDUR v. HUNGARY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-164464.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2016:0705JUD005013012",
+    "externalsources": [],
+    "extractedappno": [
+        "50130/12",
+        "65755/01",
+        "14097/12",
+        "45135/12",
+        "73712/12",
+        "34001/13",
+        "44055/13",
+        "64586/13",
+        "30210/96",
+        "53254/99",
+        "42525/07",
+        "60800/08",
+        "40907/98",
+        "5826/03",
+        "64812/01",
+        "43710/07",
+        "6023/08",
+        "11248/08",
+        "27668/08",
+        "31242/08",
+        "52133/08",
+        "4265/06",
+        "36228/06",
+        "61510/09",
+        "28917/05",
+        "3394/03",
+        "27785/95",
+        "48613/06",
+        "26772/95",
+        "33492/96",
+        "12993/05",
+        "23541/94",
+        "24479/94",
+        "5829/04",
+        "13312/12",
+        "20071/07",
+        "40119/09"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-164464",
+    "judgementdate": "05/07/2016 00:00:00",
+    "kpdate": "05/07/2016 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "448",
+        "93",
+        "405",
+        "404",
+        "337",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "7",
+    "paragraphs": [
+        "5-1-c",
+        "3",
+        "5-3",
+        "5-4",
+        "5-1",
+        "5",
+        "13"
+    ],
+    "parties": [
+        "BANDUR",
+        "HUNGARY"
+    ],
+    "rank": "1562.84057617188",
+    "representedby": [
+        "FAZEKAS T."
+    ],
+    "respondent": "HUN",
+    "respondentOrderEng": "20",
+    "scl": [],
+    "separateopinion": "TRUE",
+    "sharepointid": "447157",
+    "typedescription": "15"
+}

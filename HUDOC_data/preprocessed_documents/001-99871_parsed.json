@@ -1,0 +1,849 @@
+{
+    "__articles": "6;6-1;6-2;35;41",
+    "__conclusion": "Remainder inadmissible;No violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Civil rights and obligations;Dispute;Fair hearing);Violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Civil rights and obligations;Dispute;Reasonable time);No violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-2 - Presumption of innocence);Pecuniary damage - claim dismissed (Article 41 - Causal link;Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "41;47",
+    "appno": "9143/08",
+    "article": [
+        "6",
+        "41",
+        "35"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-2 - Presumption of innocence"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Civil rights and obligations",
+                "Dispute",
+                "Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Causal link",
+                "Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-99871.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 9143/08) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Croatian national, Mr Hrvoje \u0160iki\u0107 (\u201cthe applicant\u201d), on 31 December 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mrs D. Kaplan, a lawyer practising in Nova Gradi\u0161ka. The Croatian Government (\u201cthe Government\u201d) were represented by their Agent, Ms \u0160. Sta\u017enik.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 2 March 2009 the President of the First Section decided to communicate the complaint concerning the length and the unfairness of the proceedings on the applicant's dismissal as well as the complaint concerning the applicant's right to be presumed innocent to the Government. It was also decided to examine the merits of the application at the same time as its admissibility (Article 29 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1965 and lives in Vinkovci.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 13 November 2001 the Vukovar State Attorney's Office (Op\u0107insko dr\u017eavno odvjetni\u0161tvo u Vukovaru) indicted the applicant in the Vukovar Municipal Court (Op\u0107inski sud u Vukovaru) of the criminal offence of abuse of position and authority (zlouporaba polo\u017eaja i ovlasti). On 11 December 2001 a representative of the State Attorney's Office withdrew the charges against the applicant, stating that the facts of the case did not show that the applicant had committed any criminal offence liable to public prosecution. Hence, the Municipal Court dismissed the charges against him on 11 December 2001. The relevant part of this judgment reads as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cIn respect of the defendant Hrvoje \u0160iki\u0107 ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Pursuant to Article 353(3) of the Code of Criminal Procedure,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "the indictment is dismissed",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "that he:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "on the night of 10 to 11 December 1999, in Vukovar, in his capacity as vice-chief of traffic crime-scene investigation and as chief constable of the Vukovar Police Station, after [having received] a report of a road accident caused by police officer M.V. while driving a police car ...[and] with the intention of helping M.V. avoid responsibility [for the accident] and to conceal the whole incident, did not allow the obligatory on-site inspection to be carried out although he had personally visited the site of the accident and ordered the officers in charge, S.M. and R.M., not to register the said accident in the events register. He certified the register with his signature, thus confirming that during the shift there had been no incidents to be registered, although he knew that it was not true",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Reasoning",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "At a hearing held on 11 December 2001 the Deputy Vukovar Municipality State Attorney, G.D., withdrew the charges against the defendant ... on grounds that he had not committed the said criminal offence, or any other criminal offence liable to public prosecution.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Proceedings concerning the applicant's dismissal",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0On 29 October 2001 a criminalist of the Vukovar Police Station (Policijska postaja Vukovar) drew up a report on the events of the night of 10\u00a0to 11 December 1999. On 30 October 2001 the applicant was removed from his post. On the same day the Vukovar-Srijemska Police Department lodged a request with the Vukovar Police Station that disciplinary proceedings against the applicant be instituted. On 11 December 2001 the applicant made his statement to an officer of the Vukovar-Srijemska Police Department (Policijska uprava vukovarko srijemska), in the presence of his counsel. However, subsequently no disciplinary proceedings were instituted against the applicant. Instead, in a decision of 7 January 2002 the Minister of the Interior (Ministar unutarnjih poslova Republike Hrvatske), on the basis of the police reports and the written record of the applicant's statement given on 11 December 2001, dismissed the applicant with effect from 31\u00a0January 2002 on the ground that in respect of the road accident which had occurred on the night of 10 to 11 December 1999 he had acted contrary to his duties as a policeman. The applicant lodged an appeal on 18 February 2002 and the impugned decision was quashed by the  (Upravni sud Republike Hrvatske) on 12 September 2002.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0In a fresh decision of the Minister of the Interior on 8 January 2003 the applicant was again dismissed with effect from 31 January 2002. It was found that on the night of 10 to 11 December 1999, in his capacity as vice-chief for traffic crime-scene investigation and as chief constable of the Vukovar Police Station, he had disregarded his duties in relation to a road accident caused by a police car. After arriving at the scene, the applicant had let those implicated leave the scene of the accident without calling the crime-scene team in order to carry out an on-site inspection. He had further failed to institute adequate proceedings against the perpetrator of the road misdemeanour. He had also instructed the police officers involved to make a deal concerning compensation to the injured party. Furthermore, he had signed the events register, in respect of that night, stating that there had been no incidents to report. Afterwards, he had allowed and arranged for the unauthorised repair of the police car.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The relevant part of the decision reads as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAs a police officer the defendant ... was under a duty to control and supervise the legality of the acts of other police officers. However, as to the incident in question he acted entirely contrary to this duty and thus allowed the person who had caused the road accident in question to avoid responsibility for it, which clearly shows a disregard for his duties ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Furthermore, the defendant violated laws regulating the [police] service in that he acted contrary to section 176 of the Road Safety Act (Zakon o sigurnosti prometa na cestama, Official Gazette no. 59/1996) which requires drivers who have been implicated in a road accident causing lesser material damage to vehicles to immediately remove those vehicles from the road in order to enable the unhindered movement of traffic and to inform the nearest police station of the accident and to wait for the arrival of an official authorised to carry out an on-site inspection.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 123 (2) of the Police Act (Zakon o policiji) provides that obstruction of duties under paragraph 1 of that section amounts to a transgression of police authority or disregard for the same when a police officer is, according to that Act, obliged to apply [his authority, the obstruction] of which has then caused damage to natural or legal persons or State bodies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As to the case in question, it has been clearly established that the defendant, as a police officer, failed to carry out his police duties in the manner prescribed by the Police Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It has also been clearly established that [this] caused damage, both non-pecuniary, (to the reputation of the police), and pecuniary, by causing delays in the proceedings, the lack of sanctions against the perpetrator of a traffic misdemeanour as well as damage to the police vehicle which was not repaired in an adequate manner.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The material damage was caused by a transgression and disregard of police duties by Hrvoje \u0160iki\u0107 in that he failed to enforce a fine, in accordance with the Road Safety Act, against the driver of the police car, M.V. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 14 February 2003 the applicant appealed against the above decision to the , challenging the decision on his dismissal. He argued that his right to be presumed innocent had been violated because in the criminal proceedings against him the charges against him which concerned the same facts as those that had served as a basis for his dismissal had been withdrawn. He further complained that prior to adopting a decision on his dismissal the Ministry of the Interior had not conducted any proceedings and had not given him an opportunity to be heard in these proceedings, to question witnesses or adduce evidence. He did not ask for an oral hearing before the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 15 May 2003 the  upheld the decision on the applicant's dismissal. In his subsequent constitutional complaint of 18\u00a0August 2003 the applicant complained, inter alia, that his right to a fair trial and his right to be presumed innocent had been infringed. On 13\u00a0June 2007 the  (Ustavni sud Republike Hrvatske) dismissed the complaint as being ill-founded. The relevant part of the decision reads:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cArticle 28 of the Constitution provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Everyone is innocent and no one shall hold him or her guilty of a criminal offence until proved so in a final judgment by a court of law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The case-file shows that the decision on dismissal and the judgment of the Administrative Court are not based on the applicant's criminal responsibility for a criminal offence, but on the finding that the applicant had transgressed his police authority and disregarded his duty, which resulted in a breach of the regulations on the [police] service and a lack of compliance with the duties within the competence of the Ministry of the Interior.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Relying on the principles established in its decision no. U-III-2220/2002 of 15\u00a0September 2004 (Official Gazette nos. 141/04 and 6/05), the Constitutional Court finds that, despite his acquittal in the criminal proceedings against him, the applicant's dismissal on the grounds under section 123 of the Police Act did not violate his constitutional right under Article 28 of the Constitution.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "10.\u00a0\u00a0Section 123 of the Police Act (Zakon o policiji, Official Gazette no.\u00a0129/2000) reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 123",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Minister of the Interior ... adopts a decision on dismissal from service after obtaining the opinion of the [officer's in question] hierarchical superior.",
+                                "elements": []
+                            },
+                            {
+                                "content": "There is no right to an appeal against the decision under paragraph 3. Instead, administrative proceedings may be instituted before the Administrative Court of the .\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0The Administrative Disputes Act (Zakon o upravnim sporovima, Official Gazette nos. 53/1991, 9/1992 and 77/1992) regulates the procedure before the . Section 34 provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe court decides administrative disputes in a non-public session.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The court may decide to hold an oral hearing on account of the complexity of the dispute or if it otherwise finds it useful for better clarification of the matter at issue.",
+                                "elements": []
+                            },
+                            {
+                                "content": "For the same reasons a party may ask that an oral hearing be held.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0The Constitutional Court's decision no. U-III-2220/2002 of 15\u00a0September 2004 (Official Gazette nos. 141/04 and 6/05), in so far as relevant, reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe case-file shows that the judgments of the disciplinary courts and the  did not rely on the applicant's criminal responsibility for a criminal offence, but found the applicant's conduct while not on duty, by which he had violated the rules of service and committed a grave breach of work discipline, improper.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The responsibility for grave breaches of work discipline in disciplinary proceedings may be established without a decision of a criminal court, irrespective of the possibility that a breach of work discipline may at the same time amount to a criminal offence. In disciplinary proceedings the features of a breach of work discipline are established and do not require that at the same time the requirements of a criminal offence are met. In that respect disciplinary responsibility is broader than criminal responsibility.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Therefore, despite his acquittal in the criminal proceedings against him, finding the applicant guilty of committing a grave breach of work discipline did not violate his constitutional right under Article 28 of the Constitution.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "13.\u00a0\u00a0The applicant firstly complained that the proceedings concerning his dismissal had been unfair on account of the wrong interpretation of relevant domestic laws by the national authorities and on account of his inability to participate in these proceedings, to question witnesses and adduce evidence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0He also complained that the proceedings on his dismissal him had exceeded the reasonable time requirement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The relevant part of Article 6 reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair ... hearing within a reasonable time by an independent and impartial tribunal established by law...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties' arguments",
+                                        "elements": [
+                                            {
+                                                "content": "15.\u00a0\u00a0The Government argued that Article 6 was not applicable to the proceedings at issue, since they concerned the dismissal of a State official.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0The applicant argued that Article 6 was applicable.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "17.\u00a0\u00a0As to the applicability of Article 6 \u00a7 1 of the Convention to the proceedings concerning dismissal of a civil servant the Court has held that, in principle, there can be no justification for the exclusion from the guarantees of Article\u00a06 of ordinary labour disputes, such as those relating to salaries, allowances or similar entitlements, on the basis of the special nature of the relationship between the particular civil servant and the State in question. There will, in effect, be a presumption that Article\u00a06 applies. It will be for the respondent Government to demonstrate, first, that an applicant who is a civil servant does not have a right of access to a court under national law and, second, that the exclusion of the rights under Article\u00a06 for the civil servant is justified (see Vilho Eskelinen and Others v.\u00a0Finland [GC], no. 63235/00, \u00a7 62, ECHR 2007-...).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0In the present case, the proceedings concerned the applicant's dismissal from the police. While in the above-mentioned Vilho Eskelinen judgment the Court gave a non-exhaustive list of examples of \u201cordinary labour disputes\u201d to which Article 6 should in principle apply, it did not exclude other labour-related proceedings from applicability of that Article. The Court has constantly held that proceedings in which the right to continue to exercise a profession is at stake give rise to \u201ccontestations\u201d (disputes) over civil rights within the meaning of Article 6 \u00a7 1\u00a0 (see Philis v.\u00a0Greece (no. 2), 27 June 1997, \u00a7 45, Reports of Judgments and Decisions 1997IV; Gautrin and Others v. France, 20 May 1998, \u00a7 35, Reports of Judgments and Decisions 1998III; and W.R. v. Austria, no. 26602/95, \u00a7\u00a7\u00a025 \u2013 31, 21 December 1999).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0Furthermore, the Eskelinen test, as regards the question whether the applicant had access to a court in respect of proceedings concerning his dismissal, is to be answered in the affirmative. The Court notes in this respect that the applicant's case was examined by the Ministry of the Interior and after that by the  and the . The Croatian system thus secured the applicant's \u201cright to a court\u201d, of which the right of access constitutes one aspect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0It follows that Article 6 is applicable under its civil head to the proceedings in question (see Melek Sima Y\u0131lmaz v.\u00a0Turkey, no.\u00a037829/05, \u00a7\u00a019, 30 September 2008; Oluji\u0107 v. Croatia, no.\u00a022330/05, \u00a7\u00a7 34 and 44, 5\u00a0February 2009; and Bayer v. Germany, no. 8453/04, \u00a7 39, 16 July 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0The Court further considers that the applicant's complaints concerning the lack of an oral hearing in and the length of the proceedings concerning his dismissal are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It considers that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Fairness of the proceedings",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties' arguments",
+                                "elements": [
+                                    {
+                                        "content": "22.\u00a0\u00a0The applicant argued that the proceedings on his dismissal had been unfair on account of the wrong interpretation of relevant domestic laws by the national authorities and on account of his inability to participate in these proceedings, to question witnesses and adduce evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The Government argued that the applicant had made his statement on 11 December 2001 at the Vukovarsko-Srijemska Police Department in the presence of his counsel.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0In so far as the applicant's complaint relates to the assessment of facts and application of the law by the national authorities, the Court notes that it concerns the outcome of the proceedings on the applicant's dismissal. In this respect the Court reiterates that, according to Article 19 of the Convention, its duty is to ensure the observance of the engagements undertaken by the Contracting Parties to the Convention. In particular, it is not its function to deal with errors of fact or law allegedly committed by a national court unless and in so far as they may have infringed rights and freedoms protected by the Convention. Moreover, while Article 6 of the Convention guarantees the right to a fair hearing, it does not lay down any rules on the admissibility of evidence or the way it should be assessed, which are therefore primarily matters for regulation by national law and the national courts (see Schenk v. Austria, judgment of 12 July 1988, Series A no.\u00a0140, \u00a7\u00a7 45-46, and Garcia Ruiz v. Spain, no. 30544/96, Reports of Judgments and Decisions 1999-I, \u00a7 28).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The Court notes that the applicant also referred to his inability to participate in the proceedings on his dismissal and notes that indeed no oral hearing took place in the proceedings at issue at any stage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0In this respect the Court reiterates that Article 6 guarantees the right to a fair hearing by a tribunal. The Court notes that the applicant's case was decided at the first instance by the Ministry of the Interior, acting as an administrative body. This body, being one of the ministries of the Croatian Government and thus vested with executive powers, cannot be regarded as a tribunal within the meaning of Article 6 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The case was then examined by the  and the . The  decides cases in sessions and does not hold hearings. Therefore, the issue that arises before this Court concerns the applicant's right to an oral hearing in the proceedings before the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The Court notes that section 34 of the Administrative Disputes Act establishes as a rule that the  decides the cases before it in a closed session. Exceptionally, it may hold an oral hearing. It also establishes the right of a party to the proceedings before that court to request that an oral hearing be held.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The Court further notes that in his action lodged with the  on 14 February 2003 the applicant did not request that an oral hearing be held. He has not submitted to the Court any other proof showing that he made such a request at any later stage of the proceedings before the . The Court therefore takes it as established that the applicant did not request an oral hearing before the . It must therefore be deemed that he waived unequivocally his right to a hearing. Moreover, his case did not in the Court's view give rise to questions of public interest making such a hearing necessary (see Schuler-Zgraggen v. Switzerland, 24 June 1993, \u00a7 58, Series A no. 263; Zumtobel v.\u00a0Austria, 21 September 1993, \u00a7 34, Series A no. 268A; and Fischer v.\u00a0Austria, 26 April 1995, \u00a7 44, Series A no. 312).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0Accordingly, there has been no breach of the requirements of Article\u00a06 \u00a7 1 of the Convention in the circumstances of the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Length of the proceedings",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties' arguments",
+                                "elements": [
+                                    {
+                                        "content": "31.\u00a0\u00a0The applicant argued that the length of the proceedings on his dismissal, and in particular those before the , had exceeded the reasonable time requirement under Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The Government argued that the proceedings had been concluded within a reasonable time.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "33.\u00a0\u00a0The Court has recognised that in administrative proceedings the period to be taken into consideration may even start to run prior to the court proceedings, if preliminary administrative proceedings were a precondition of the former (see, among other authorities, Janssen v. Germany, no.\u00a023959/94, \u00a7\u00a040, 20\u00a0December 2001, and K\u00f6nig v. Germany, judgment of 28 June 1978, Series A no. 27, \u00a7\u00a098). In the instant case a request to institute the disciplinary proceedings against the applicant was submitted on 30\u00a0October 2001 but disciplinary proceedings were never instituted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0Instead, the Minister of the Interior adopted a decision on the applicant's dismissal. Against this decision, the applicant lodged an appeal with the  on 18 February 2002. The Court therefore considers that it was then that a \u201cdispute\u201d within the meaning of Article 6 \u00a7\u00a01 arose (see, mutatis mutandis, Janssen, cited above, \u00a7\u00a040). The period in question ended on 13 June 2007 when the  adopted its decision. It thus lasted five years, three months and twenty-five days during which four decisions concerning the applicant's dismissal were given at two judicial levels of jurisdiction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court reiterates that the reasonableness of the length of those proceedings is to be assessed in the light of the particular circumstances of the case, regard being had to the criteria laid down in the Court's case-law, in particular the complexity of the case, the applicant's conduct and that of the competent authorities, and the importance of what was at stake for the applicant in the litigation (see S\u00fc\u00dfmann v. Germany, 16\u00a0September 1996, pp.\u00a01172-73, \u00a7 48, Reports of Judgments and Decisions 1996-IV, and Gast and Popp v. Germany, no 29357/95, \u00a7 70, ECHR 2000).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0While the present case was speedily decided by the administrative body involved as well as by the , where the proceedings lasted for some months at each instance, the same cannot be said of the length of proceedings before the , which lasted for three years, nine months and twenty-five days.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0Although the Court accepts that its role of guardian of the Constitution makes it particularly necessary for a Constitutional Court sometimes to take into account considerations other than the mere chronological order in which cases are entered on the list, such as the nature of a case and its importance in political and social terms, the Court finds that a period exceeding three years and nine months to decide on the applicant's case and in particular in view of what was at stake for the applicant, namely his dismissal from work, and the global length which amounted to some five years, was excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0Accordingly, the Court considers that in the present case there has been a violation of Article 6 \u00a7 1 of the Convention on account of the length of the proceedings.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "39.\u00a0\u00a0The applicant complained under Article 6 \u00a7 2 of the Convention that his right to be presumed innocent had been violated because he had been dismissed on account of the same facts in respect of which the criminal proceedings against him had been opened and the charges subsequently dropped on the grounds that he had not committed a criminal offence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The relevant part of Article 6 reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties' arguments",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0The Government maintained that Article 6 \u00a7 2 was not applicable since the proceedings concerning the applicant's dismissal could not be regarded as proceedings concerning the determination of a criminal charge against him. The proceedings at issue had examined the compatibility of the applicant's conduct with his duties as a public official in the police force.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The applicant contested these arguments and stressed the identical factual basis of the criminal proceedings against him and the grounds for his dismissal.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court notes at the outset that the applicant was indicted before the Vukovar Municipal Court on charges that, as vice-chief for traffic crime-scene investigation and as chief constable of the Vukovar Police Station, he had disregarded his duty in relation to a road accident caused by a police car and thus committed the criminal offence of abuse of position and authority. Therefore, for the purposes of Article 6 the applicant was charged with a criminal offence, which warrants the application of that provision in respect of those criminal proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The question remains whether there were links between the criminal proceedings and the parallel proceedings concerning the applicant's dismissal that would justify extending the scope of Article 6 \u00a7 2 to cover the latter.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0In this connection the Court reiterates that the scope of Article 6 \u00a7\u00a02 is not limited to pending criminal proceedings against an applicant (see Allenet de Ribemont v. France, 10\u00a0February 1995, Series A no. 308, \u00a7\u00a035, and Diamantides v.  (no. 2), no. 71653/01, \u00a7\u00a7 34-35). The Court has also found the provision applicable to judicial decisions taken after the discontinuation of such proceedings (see, in particular, the following judgments: Minelli v. Switzerland, 25 March 1983, Series A no. 62, and Lutz, Englert and N\u00f6lkenbockhoff v. Germany, 25 August 1987, Series\u00a0A no.\u00a0123), or following an acquittal (see Sekanina v. Austria, 25\u00a0August 1993, Series A no. 266A; Rushiti v. Austria, no. 28389/95, 21 March 2000; and Lamanna v. Austria, no. 28923/95, 10 July 2001). Those judgments concerned proceedings relating to such matters as an accused's obligation to bear court costs and prosecution expenses, a claim for reimbursement of his (or his heirs') necessary costs, or compensation for unlawful detention, matters which were found to constitute a consequence and the concomitant of the criminal proceedings. The scope of Article 6 \u00a7 2 also extends to various administrative proceedings conducted simultaneously with criminal proceedings against an applicant or after the conclusion of criminal proceedings ending without a guilty verdict (see Stavropoulos v. Greece, no.\u00a035522/04, 27 September 2007, Paraponiaris v.\u00a0Greece, no.\u00a042132/06, 25\u00a0September 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court further reiterates that the Convention is intended to guarantee not rights that are theoretical or illusory but rights that are practical and effective (see Airey v.\u00a0Ireland, 9 October 1979, Series\u00a0A no.\u00a032, \u00a7\u00a024, and Puig Panella v. Spain, no. 1483/02, \u00a7 50, 25 April 2006).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0As to the present case the Court notes that the proceedings concerning the applicant's dismissal ran parallel to the criminal proceedings against him and that the findings of the administrative bodies had no influence or prejudicial effect on the criminal investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0However, the Court considers that where criminal proceedings end prior to a formal indictment, irrespective of the ground for their discontinuation, the lack of a person's criminal conviction shall, in compliance with the principle of the presumption of innocence, be preserved in any other proceedings of whatever nature, including proceedings on that person's dismissal from public service (see, mutatis mutandis, Y v. Norway, no.\u00a056568/00, \u00a7\u00a041, ECHR 2003II (extracts). Therefore, Article 6 \u00a7 2 applies in the circumstances of the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Court further notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It also notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties' arguments",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The applicant maintained that the decision on his dismissal amounted to a violation of his right to be presumed innocent in that the administrative authorities had found that he had committed an act factually identical to a criminal offence in respect of which charges against him had been dropped on the grounds that he had not committed any criminal offence liable to public prosecution.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0The Government argued that the criminal proceedings against the applicant concerned the criminal offence of abuse of position and authority while the administrative authorities and the  had conducted the proceedings concerning the applicant's dismissal on the grounds that he had committed a grave breach of work discipline. The criminal responsibility and the responsibility for breaches of the work discipline were independent of each other and the lack of the former did not exclude the existence of the latter. The features of a criminal offence and a breach of work discipline may overlap but, irrespective of one's criminal responsibility, the administrative bodies deciding on breaches of official duty were independent in their assessment of facts and evidence and in reaching their conclusions as to an individual's disciplinary responsibility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0In the applicant's case the bodies deciding in the proceedings on the applicant's dismissal had not been bound by the findings or the result of the criminal proceedings. They had conducted their own assessment, on the basis of the evidence available to them, of the applicant's conduct in his capacity as a police officer.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court's case-law establishes that the presumption of innocence is infringed if a statement of a public official concerning a person charged with a criminal offence reflects the opinion that he is guilty, unless he has been proved so according to law. It suffices, even in the absence of any formal finding, that there is some reasoning to suggest that the official regards that person as guilty (see Daktaras v. Lithuania, no.\u00a042095/98, \u00a7\u00a041, ECHR 2000-X, and A.L. v. Germany, no. 72758/01, \u00a7 31, 28\u00a0April 2005). Whether a statement of a public official is in breach of the principle of the presumption of innocence must be determined in the context of the particular circumstances in which the statement was made (see Daktaras, cited above, \u00a7 43). The scope of Article 6 \u00a7 2 is moreover not limited to pending criminal proceedings, but extends to judicial decisions taken after a prosecution has been discontinued (see N\u00f6lkenbockhoff, cited above, \u00a7\u00a037; and Capeau, cited above, \u00a7 25) or after an acquittal (see, in particular, Sekanina v. Austria, cited above, \u00a7 30; O. v. Norway, no. 29327/98, ECHR 2003-II and Grabchuk v. Ukraine, no. 8599/02, \u00a7 42, 21 September 2006).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0As to the present case, the Court notes that in dismissing the applicant's complaint the  relied, inter alia, on a different standard of proof required in disciplinary proceedings from that required for a conviction of a criminal offence. The Court reiterates that it has accepted the justifiability of similar reasoning in the context of civil tort liability. In respect of the latter the Court has held that (Y v. Norway, cited above):",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c41.\u00a0\u00a0 ... the fact that an act which may give rise to a civil compensation claim under the law of tort is also covered by the objective constitutive elements of a criminal offence could not, notwithstanding its gravity, provide a sufficient ground for regarding the person allegedly responsible for the act in the context of a tort case as being \u201ccharged with a criminal offence\u201d. Nor could the fact that evidence from the criminal trial is used to determine civil law consequences of the act warrant such characterisation. Otherwise, as rightly pointed out by the Government, Article 6 \u00a7 2 would give a criminal acquittal the undesirable effect of pre-empting the victim's possibilities of claiming compensation under the civil law of tort, entailing an arbitrary and disproportionate limitation on his or her right of access to court under Article 6 \u00a7 1 of the Convention. This again could give an acquitted perpetrator, who would be deemed responsible according the civil burden of proof, the undue advantage of avoiding any responsibility for his or her actions. Such an extensive interpretation would not be supported either by the wording of Article 6 \u00a7 2 or any common ground in the national legal systems within the Convention community. On the contrary, in a significant number of Contracting States, an acquittal does not preclude establishing civil liability in relation to the same facts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Thus, the Court considers that, while the acquittal from criminal liability ought to be maintained in the compensation proceedings, it should not preclude the establishment of civil liability to pay compensation arising out of the same facts on the basis of a less strict burden of proof (see, mutatis mutandis, X v. Austria, no. 9295/81, Commission decision of 6 October 1992, Decisions and Reports (D.R.) 30, p. 227; M.C. v. the United Kingdom, no. 11882/85, decision of 7 October 1987, D.R. 54, p. 162).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0However, if the national decision on compensation contains a statement imputing the criminal liability of the respondent party, this could raise an issue falling within the ambit of Article 6 \u00a7 2 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court will therefore examine the question whether the domestic courts acted in such a way or used such language in their reasoning as to create a clear link between the criminal case and the ensuing compensation proceedings as to justify extending the scope of the application of Article 6 \u00a7 2 to the latter.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court firstly notes that in the proceedings concerning the applicant's dismissal he was not found guilty of a criminal offence but of a breach of work discipline.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0As to the findings in the criminal proceedings against the applicant, the Court notes that the charges against the applicant were dropped because a representative of the State Attorney's Office deemed that the conduct of the applicant on the critical occasion had not amounted to a criminal offence liable to public prosecution. However, in those proceedings it was not established that the applicant had not committed the acts in question. No assessment was made in that connection. In these circumstances, the bodies conducting the proceedings on the applicant's dismissal were free to make their own assessment as to whether the applicant had acted in the manner held against him. The Ministry of the Interior found that the applicant had not properly registered and reported a road accident involving a police vehicle. These findings sufficed to establish a breach of work discipline by the applicant. The Court considers that the administrative body was empowered to and capable of establishing independently the facts of the case before it. In doing so the Court does not consider that any statement was made that would call into question the applicant's right to be presumed innocent.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0In view of this, the Court considers that the decision on the applicant's dismissal did not run contrary to the right guaranteed under Article 6 \u00a7 2 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "57.\u00a0\u00a0The applicant further complained that he had no effective remedy at his disposal in respect of his complaint about the fairness of the proceedings concerning his dismissal and his complaint concerning his right to be presumed innocent. He relied on Article\u00a013 of the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "58.\u00a0\u00a0The Court notes at the outset that the applicant's complaint under Article 13 of the Convention is linked to his complaints under Article 6 of the Convention, which are twofold (see paragraph 23 above). The Court will proceed by examining these two aspects of the alleged violation of Article\u00a013 separately.",
+                                "elements": []
+                            },
+                            {
+                                "content": "59.\u00a0\u00a0As regards the applicant's complaints concerning the fairness of the proceedings on his dismissal, the Court notes that it was open to him to lodge an appeal against the first-instance decision, an administrative complaint and a constitutional complaint.",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0As regards the applicant's complaint concerning the violation of his right to be presumed innocent, the Court notes that it was open to him to lodge a constitutional complaint.",
+                                "elements": []
+                            },
+                            {
+                                "content": "61.\u00a0\u00a0In connection with both aspects of Article 13, the Court reiterates that this provision does not guarantee the success of a remedy used.",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0Having regard to the above, the Court considers that this part of the application is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "63.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "64.\u00a0\u00a0The applicant claimed 59,000 euros (EUR) in respect of pecuniary and EUR 30,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0The Government argued that there had been no ground for awarding any pecuniary damage. As regards the claim in respect of non-pecuniary damage, they deemed the sum claimed excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Court does not discern any causal link between the violation found and the pecuniary damage alleged; it therefore rejects this claim. On the other hand, it awards the applicant EUR 3,100 in respect of non-pecuniary damage plus any tax that may be chargeable to him.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0The applicant also claimed EUR 3,000 for his legal representation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0The Government made no comments as regards the amount claimed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0According to the Court's case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the information in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 2,000 for the proceedings before it, plus any tax that may be chargeable to the applicant on this amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning the fairness and the length of the proceedings on the applicant's dismissal as well as the complaint concerning his right to be presumed innocent admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7 1 of the Convention in respect of the fairness of the proceedings on the applicant's dismissal;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the length of proceedings on the applicant's dismissal;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, which are to be converted into Croatian kunas at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant's claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 15 July 2010, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Christos Rozakis",
+            "role": "president"
+        },
+        {
+            "name": "Nina Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Anatoly Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Dean Spielmann",
+            "role": "judges"
+        },
+        {
+            "name": "Sverre Erik Jebens",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF \u0160IKI\u0106 v. CROATIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-99871.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2010:0715JUD000914308",
+    "externalsources": [],
+    "extractedappno": [
+        "9143/08",
+        "141/04",
+        "6/05",
+        "63235/00",
+        "26602/95",
+        "37829/05",
+        "22330/05",
+        "8453/04",
+        "30544/96",
+        "23959/94",
+        "29357/95",
+        "71653/01",
+        "28389/95",
+        "28923/95",
+        "35522/04",
+        "42132/06",
+        "1483/02",
+        "56568/00",
+        "42095/98",
+        "72758/01",
+        "29327/98",
+        "8599/02",
+        "9295/81",
+        "11882/85"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Section 34 of the Administrative Disputes Act"
+    ],
+    "itemid": "001-99871",
+    "judgementdate": "15/07/2010 00:00:00",
+    "kpdate": "15/07/2010 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "13",
+        "41",
+        "101",
+        "136",
+        "406",
+        "325",
+        "14",
+        "216",
+        "31",
+        "577",
+        "283",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "6-1",
+        "35",
+        "6",
+        "6-2",
+        "41"
+    ],
+    "parties": [
+        "\u0160IKI\u0106",
+        "CROATIA"
+    ],
+    "rank": "743.801025390625",
+    "representedby": [
+        "KAPLAN D."
+    ],
+    "respondent": "HRV",
+    "respondentOrderEng": "9",
+    "scl": [
+        "Vilho Eskelinen and Others v. Finland [GC], no. 63235/00, \u00a7 62, ECHR 2007",
+        "\nGarcia Ruiz v. Spain, no. 30544/96, Reports of Judgments and Decisions 1999-I, \u00a7 28\nGast and Popp v. Germany, no 29357/95, \u00a7 70, ECHR 2000\nDiamantides v. Greece (no. 2), no. 71653/01, \u00a7\u00a7 34-35",
+        "\nY v. Norway, no. 56568/00, \u00a7 41, ECHR 2003 II (extracts)\nDaktaras v. Lithuania, no. 42095/98, \u00a7 41, ECHR 2000-X",
+        "\nMelek Sima Y\u0131lmaz v. Turkey, no. 37829/05, \u00a7 19, 30 September 2008",
+        "\nK\u00f6nig v. Germany, judgment of 28 June 1978, Series A no. 27, \u00a7 98\nAirey v. Ireland, 9 October 1979, Series A no. 32, \u00a7 24",
+        "\nMinelli v. Switzerland, 25 March 1983, Series A no. 62",
+        "\nLutz, Englert and N\u00f6lkenbockhoff v. Germany, 25 August 1987, Series A no. 123",
+        "\nSchenk v. Austria, judgment of 12 July 1988, Series A no. 140, \u00a7\u00a7 45-46",
+        "\nSchuler-Zgraggen v. Switzerland, 24 June 1993, \u00a7 58, Series A no. 263",
+        "\nSekanina v. Austria, 25 August 1993, Series A no. 266 A",
+        "\nZumtobel v. Austria, 21 September 1993, \u00a7 34, Series A no. 268 A",
+        "\nAllenet de Ribemont v. France, 10 February 1995, Series A no. 308, \u00a7 35",
+        "\nFischer v. Austria, 26 April 1995, \u00a7 44, Series A no. 312\nS\u00fc\u00dfmann v. Germany, 16 September 1996, pp. 1172-73, \u00a7 48, Reports of Judgments and Decisions 1996-IV",
+        "\nPhilis v. Greece (no. 2), 27 June 1997, \u00a7 45, Reports of Judgments and Decisions 1997 IV",
+        "\nGautrin and Others v. France, 20 May 1998, \u00a7 35, Reports of Judgments and Decisions 1998 III",
+        "\nW.R. v. Austria, no. 26602/95, \u00a7\u00a7 25 \u2013 31, 21 December 1999",
+        "\nRushiti v. Austria, no. 28389/95, 21 March 2000",
+        "\nLamanna v. Austria, no. 28923/95, 10 July 2001\nJanssen v. Germany, no. 23959/94, \u00a7 40, 20 December 2001",
+        "\nA.L. v. Germany, no. 72758/01, \u00a7 31, 28 April 2005\nPuig Panella v. Spain, no. 1483/02, \u00a7 50, 25 April 2006\nGrabchuk v. Ukraine, no. 8599/02, \u00a7 42, 21 September 2006",
+        "\nStavropoulos v. Greece, no. 35522/04, 27 September 2007",
+        "\nParaponiaris v. Greece, no. 42132/06, 25 September 2008",
+        "\nOluji\u0107 v. Croatia, no. 22330/05, \u00a7\u00a7 34 and 44, 5 February 2009",
+        "\nBayer v. Germany, no. 8453/04, \u00a7 39, 16 July 2009\n"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "414253",
+    "typedescription": "15"
+}

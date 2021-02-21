@@ -1,0 +1,1066 @@
+{
+    "__articles": "8;8-1;10;10-1;10-2;41",
+    "__conclusion": "Violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom to receive information);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "3",
+    "appno": "10090/16",
+    "article": [
+        "10",
+        "8",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom to receive information"
+            ],
+            "element": "Violation of Article 10 - Freedom of expression-{general}",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - finding of violation sufficient",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-201896.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 10090/16) against Ukraine lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Ukrainian NGO, the Centre for Democracy and the Rule of Law (\u0426\u0435\u043d\u0442\u0440 \u0434\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0445\u043e\u0432\u0435\u043d\u0441\u0442\u0432\u0430 \u043f\u0440\u0430\u0432\u0430 \u2013 \u201cthe applicant organisation\u201d), on 8\u00a0February 2016.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant organisation was represented by Ms\u00a0V.\u00a0Volodovska, a lawyer practising in Kyiv. The Ukrainian Government (\u201cthe Government\u201d) were represented by their Agent, Mr I. Lishchyna.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant organisation alleged that the authorities had denied it access to the information it needed for its activities, in breach of Article\u00a010 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 11\u00a0September 2018 notice of the application was given to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant organisation in a Ukrainian NGO. It has been active since 2005 and, when the application was lodged, was called Media Law Institute. It has its offices in Kyiv.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Background: the 2014 elections",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0On 26 October 2014 parliamentary elections were held in Ukraine. They followed presidential elections in May 2014.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0By law, as part of the registration to stand in elections all candidates for Parliament had to file their curricula vitarum (\u201cCVs\u201d) with the Central Election Commission (\u201cthe CEC\u201d). Brief information about all candidates, extracted from the CVs, was then published on the CEC\u2019s website (see\u00a0paragraph 38 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 8 November 2014 the CEC finished counting the votes and announced that the electoral lists of six parties had crossed the electoral barrier and would be represented in Parliament.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0Of the six individuals in the first positions of the lists five had previously held public office:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0Mr Y. Boyko, an MP from 2007 to 2010, Energy Minister and Deputy Prime Minister from 2010 to early 2014. He was the first on the list of the Opposition Bloc;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0mayor of Kyiv Mr V. Klitschko, who, prior to his election as mayor in June 2014, had been an MP and a leader of a parliamentary group since 2012 \u2013 the Petro Poroshenko Bloc\u2019s list;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0Mr O. Lyashko, an MP since 2006 and a presidential candidate in 2014 \u2013 the Radical Party\u2019s list;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0Ms Y. Tymoshenko, a former Prime Minister and candidate in the 2010 and 2014 presidential elections \u2013 the Batkivshchyna (\u201cFatherland\u201d) Party\u2019s list;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0the then Prime Minister of Ukraine Mr A. Yatsenyuk, who, prior to his taking the office of Prime Minister in February 2014, had been an MP and who had been a presidential candidate in 2010 and, before that, the speaker of Parliament and Foreign Minister \u2013 the Narodny Front\u2019s (\u201cPeople\u2019s Front\u201d) list;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0The sixth was Ms G. Hopko, who was the first on the list of the Samopomich (\u201cSelf-reliance\u201d) Party and who had never before occupied any public office.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Information request and refusal",
+                                "elements": [
+                                    {
+                                        "content": "11.\u00a0\u00a0On 10 November 2014 the applicant organisation asked the Central Election Commission to provide it, by email, with copies of the CVs of the above six individuals. It relied on the Access to Public Information Act and the Parliamentary Elections Act, arguing that the CVs constituted public information. It provided no indication as to how the documents would be used.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 17 November 2014 the CEC refused to provide copies. Instead it provided only the information which had already been published on the CEC\u2019s website. In a four-page decision the CEC cited the following grounds for the refusal:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0the CEC referred to the broad definition of confidential information concerning private life contained in the Constitutional Court\u2019s 2012 decision concerning respect for private life (see paragraphs 46 to 48 below);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0the Parliamentary Elections Act specified, in listing the information about candidates to be published on the CEC\u2019s website (see paragraph\u00a038 below), which information about candidates was public;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0under the Access to Public Information Act (see paragraphs 32 and 33 below) the CEC could only use the personal data provided to it for the purpose for which it had been provided and could only disclose confidential information with the consent of the persons whom it concerned;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0the CEC lacked the candidates\u2019 consent for disclosure of any other information about them contained in their CVs, specifically: (a) work history, (b) history of any work for the public, including elected positions, (c) family, (d) address and (e) telephone number (see paragraph 37 below);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0the applicant organisation\u2019s information request did not identify any need to disclose that information without the candidates\u2019 consent for reasons of national security, economic welfare and human rights.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Court proceedings",
+                                "elements": [
+                                    {
+                                        "content": "13.\u00a0\u00a0The applicant organisation appealed against that decision to the Kyiv Circuit Administrative Court. Its arguments are set out in paragraphs 14 to 19 below.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The applicant organisation argued that the CVs constituted public information subject to disclosure under the Access to Public Information Act. It relied in particular on section 63 of the Parliamentary Elections Act, which defined all information submitted to the CEC by candidates as \u201copen\u201d (see paragraph 38 below). It also argued that just because not all information submitted by the candidates to the CEC had to be published on its website did not mean that, as public information, it did not have to be disclosed on request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The Access to Public Information Act and the Data Protection Act specified that information regarding performance of functions by public officials could not be designated as confidential (see paragraphs 31 and 40 below). The requested information concerning education, work history, history of work for the public and the families of the individuals concerned was crucial for assessing the level of their competence and potential conflicts of interest as MPs and so fell within the definition of information which the Data Protection Act exempted from being designated confidential (see paragraph 40 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0That information was also of public interest as it concerned the leaders of the most popular political parties. The applicant organisation, as the founder of the civic movement Chesno focused on transparency and integrity in the electoral process, and was interested in that data as it was engaged in constant supervision of the electoral process, and collection and dissemination of information about the candidates for elected office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The applicant organisation pointed out that, in any case, before the elections Mr Klitschko and Ms Hopko had themselves published their full CVs on the websites of their parties showing that they had not objected to their being disclosed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The applicant organisation also stated that it had tried to obtain this information about the candidates even prior to the elections but its email enquiries had been ignored so it had had to renew its request after the elections.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0The CEC had failed to engage in the three-step balancing exercise the Access to Public Information Act required in order to justify refusal of an information request (see paragraph 30 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The CEC responded that the legislation it had applied had been the result of the implementation in domestic law of Articles 8 and 10 of the Convention. In examining the information request, the CEC had come to the conclusion that the applicant organisation had been interested in the entirety of the information contained in the CVs, including the confidential elements, namely addresses, telephone numbers, family, date and place of birth and work history.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 8 June 2015 the Circuit Court dismissed the applicant organisation\u2019s claim for the reasons set out in paragraphs 22 to 24 below.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0Referring to section 11 of the Information Act (see paragraph\u00a041 below) the court held that the information contained in the CVs was, as a general rule, confidential and could only be disclosed where the law specifically provided for this. The Information Act allowed disclosure of information which was in the public interest, notably where it was necessary for citizens to exercise their rights (see paragraph 42 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On the facts, the applicant organisation had failed to prove that the information it had been seeking had been necessary for voters to exercise their right to vote effectively. Notably, information about candidates had been published on the CEC\u2019s website as required by the Parliamentary Elections Act. Reading that Act in context (see paragraphs 37 and 38 below) it was evident that the candidates had provided consent only to the disclosure of the information the Act required to be published on the CEC website. This implied that there had been no consent to the disclosure of the other information or that it could not be disclosed without consent.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0The court added that Article 10 of the Convention, as explained by the Court in Von Hannover (no. 2) v. Germany (no. 59320/00, \u00a7\u00a7\u00a063-64, 24\u00a0June 2004), allowed the limitation of the freedom of speech in the interest of ensuring respect for Article 8 rights. To be sure, there was greater scope for limitation of politicians\u2019 right to private life in order to ensure that the press could perform its role of public \u201cwatchdog\u201d, but this was not unlimited and therefore the CEC, as the holder of information, had had to take into account the limits on disclosure of private information imposed by law. The fact that two of the individuals concerned had disclosed their CVs in a different context had not changed the court\u2019s findings because there had been no proof that those individuals had consented to the disclosure of their CVs submitted to the CEC.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The applicant organisation appealed, maintaining essentially the same arguments. It also argued that, while the Information Act (see\u00a0paragraph 41 below) indeed classified information on education as confidential, no law declared work history, including history of work in the public interest as confidential. As regards family, that information had to be disclosed already anyway as part of the declaration of income and assets envisaged by the anti-corruption legislation (see paragraph 44 below). Disagreeing with the first-instance court\u2019s assessment that the information in question was not necessary for the exercise of the constitutional rights of citizens, the applicant organisation pointed out that the individuals concerned were leaders of major parties who, by putting themselves forward as candidates, opened themselves up to heightened scrutiny.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0In the latter connection the applicant organisation relied on the resolution of the Parliamentary Assembly of the Council of Europe of 25\u00a0December 2008 no. 1165 on the right to privacy (see paragraph\u00a053 below). The court\u2019s reliance on the Von Hannover judgment had been erroneous since the information the applicant organisation was asking for did not concern the private and family life of the concerned individuals but their education, job and public history and families, information which was necessary to assess their competence in office and possible conflicts of interest.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 17 August 2015 the Kyiv Administrative Court of Appeal upheld the first-instance court\u2019s judgment. Invoking the Constitutional Court\u2019s decision of 2012 (see paragraphs 46 to 48 below) it held that the information found in the CVs was confidential. There was no consent for its disclosure. Pursuant to the Access to Public Information Act (see paragraph\u00a032 below) such information could only be disclosed in the interests of national security, economic welfare or human rights. The applicant organisation had failed to prove that the disclosure of the information was needed for the exercise of its own or of voters\u2019 constitutional rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The applicant organisation appealed on points of law, raising essentially the same arguments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0On 8 September 2015 the High Administrative Court refused to institute proceedings for review of the lower courts\u2019 decisions on points of law, holding, without detailed reasoning, that there was no indication of error of law in them.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "Access to Public Information Act 2011",
+                                "elements": [
+                                    {
+                                        "content": "30.\u00a0\u00a0Section 6(2) provides that access to information can be restricted provided three circumstances are combined:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0the restriction would be in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2)\u00a0\u00a0disclosure of the information can harm such interest to a significant extent (\u0440\u043e\u0437\u0433\u043e\u043b\u043e\u0448\u0435\u043d\u043d\u044f \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u043c\u043e\u0436\u0435 \u0437\u0430\u0432\u0434\u0430\u0442\u0438 \u0456\u0441\u0442\u043e\u0442\u043d\u043e\u0457 \u0448\u043a\u043e\u0434\u0438 \u0446\u0438\u043c \u0456\u043d\u0442\u0435\u0440\u0435\u0441\u0430\u043c);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3)\u00a0\u00a0the harm from disclosure outweighs the public interest in receiving the information.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 6(7) provides that restrictions are imposed on information and not on documents. If a document contains information the access to which is restricted, then that information which is not restricted must be disclosed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Sections 7(1) and 13(2) provide that information presenting public interest cannot be designated as confidential.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0Section 7(2) provides that confidential information can only be disclosed with the consent of the person concerned or, in the absence of consent, only in the interests of national security, economic welfare and human rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0Section 10 provides that holders of information about individuals have to use it only for the purposes and in a manner provided by law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0Section 19 sets forth a procedure for requesting information. Pursuant to section 19(5) an information request has to contain the following information:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0a general description of the information or the name, identifying details of the document (number and/or date) or the content of the document requested, if they are known to the requesting party;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0name of the requesting party, his or her contact details and signature.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Parliamentary Elections Act 2011",
+                                "elements": [
+                                    {
+                                        "content": "35.\u00a0\u00a0Section 9 states that any citizen of Ukraine who has reached 21 years of age and has lived in Ukraine for the last five years and who has no unexpunged criminal record for intentional crime can stand as a candidate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0Section 13 guarantees the accessibility of the information concerning elections, including the right for voters to examine information about candidates.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0Section 54 provides that the CEC must register candidates provided that they have submitted certain documents, including:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0a CV in hard and electronic copy;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0\u0441onsent for publication of \u201cbiographical information\u201d (\u0437\u0433\u043e\u0434\u0443 \u043d\u0430 \u043e\u043f\u0440\u0438\u043b\u044e\u0434\u043d\u0435\u043d\u043d\u044f \u0431\u0456\u043e\u0433\u0440\u0430\u0444\u0456\u0447\u043d\u0438\u0445 \u0432\u0456\u0434\u043e\u043c\u043e\u0441\u0442\u0435\u0439 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0443\u0447\u0430\u0441\u0442\u044e \u0443 \u0432\u0438\u0431\u043e\u0440\u0430\u0445);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0a declaration of income, assets and obligations as required by the Prevention of Corruption Act (see paragraph 44 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The CV has to contain the information which is then published on the CEC website (see paragraph 38 below). In addition, it has to contain the information concerning the applicant\u2019s:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0education;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0work history (\u0442\u0440\u0443\u0434\u043e\u0432\u0443 \u0434\u0456\u044f\u043b\u044c\u043d\u0456\u0441\u0442\u044c);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0history of any work for the public, including in elected positions (\u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0443 \u0440\u043e\u0431\u043e\u0442\u0443 (\u0443 \u0442\u043e\u043c\u0443 \u0447\u0438\u0441\u043b\u0456 \u043d\u0430 \u0432\u0438\u0431\u043e\u0440\u043d\u0438\u0445 \u043f\u043e\u0441\u0430\u0434\u0430\u0445))",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0family (\u0441\u043a\u043b\u0430\u0434 \u0441\u0456\u043c\u2019\u0457);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0address (\u0430\u0434\u0440\u0435\u0441\u0443 \u043c\u0456\u0441\u0446\u044f \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f);",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(vi)\u00a0\u00a0telephone number.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0Section 63(2) provides that the information contained in the documents filed with the CEC in the course of candidate\u2019s registration should be \u201copen\u201d (accessible) (\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f, \u0449\u043e \u043c\u0456\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u0443 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0445, \u043f\u043e\u0434\u0430\u043d\u0438\u0445 \u0434\u043e \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0457 \u0432\u0438\u0431\u043e\u0440\u0447\u043e\u0457 \u043a\u043e\u043c\u0456\u0441\u0456\u0457 \u0434\u043b\u044f \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442\u0456\u0432, \u0454 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u043e\u044e) and that the following \u201cbiographical information\u201d should be published on the CEC\u2019s website:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0name,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0date of birth,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0citizenship and period of residence in Ukraine,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0(current) occupation and employer (\u0432\u0456\u0434\u043e\u043c\u043e\u0441\u0442\u0456 \u043f\u0440\u043e \u043f\u043e\u0441\u0430\u0434\u0443 (\u0437\u0430\u043d\u044f\u0442\u0442\u044f), \u043c\u0456\u0441\u0446\u0435 \u0440\u043e\u0431\u043e\u0442\u0438),",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0party membership,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(vi)\u00a0\u00a0place of residence (\u043c\u0456\u0441\u0446\u0435 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f),",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(vii)\u00a0\u00a0information on whether the candidate has a criminal record,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(viii)\u00a0\u00a0who nominated the candidate (self-nomination or the nominating party).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Presidential Elections Act 1999",
+                                "elements": [
+                                    {
+                                        "content": "39.\u00a0\u00a0At the material time section 50 of the Act required presidential candidates to submit declarations disclosing their income and assets and those of their family members (see paragraph 44 below), which the CEC was required to publish in national newspapers and on its website.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Data Protection Act 2010",
+                                "elements": [
+                                    {
+                                        "content": "40.\u00a0\u00a0Section 5 provides that personal data can be designated as confidential by law or by the person concerned. However, data concerning performance of the functions by public officials cannot be designated as confidential.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Information Act 1992",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0Section 11 of the Act, as worded at the relevant time, designated the following non-exhaustive list of categories of information about individuals as confidential: ethnic origin, education, civil status, religious convictions, state of health, address, date and place of birth. It also provided that confidential information could not be disclosed without the consent of the person concerned, except were provided by law in the interests of national security, economic welfare and protection of human rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0Section 29 provided that information the access to which is restricted could, nevertheless, be disclosed if the disclosure was in the public interest and the right of the public to know outweighed the potential harm from disclosure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0 Section 38 of the Act provided that information could be fully owned or used by individuals, legal entities and the State. The owner of the information can dispose of it as he or she sees fit within the limits of the law. One of the grounds on which ownership rights in information vests is creation of the information by the owner.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Prevention of Corruption Act 2011 (in force at the relevant time)",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0Sections 4 and 12 of the Act required a wide range of public officials, including MPs, civil servants and municipal officials to annually, up to 1 April, declare their income, assets and obligations on the form approved by the Act. Information contained in the declarations of a range of high-ranking officials, including members of the Government and Parliament, was to be published online.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0An Annex to the Act contained a form of the declaration of income, assets and obligations. Other than fields for financial information (income from various sources, real and movable property, and so forth) the form contained fields for:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0name;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0address;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0current position;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0information on family members: full name, tax number and the number of the internal identification documents (\u0441\u0435\u0440\u0456\u044f \u0442\u0430 \u043d\u043e\u043c\u0435\u0440 \u043f\u0430\u0441\u043f\u043e\u0440\u0442\u0430 \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0438\u043d\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) for each family member.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Constitutional Court",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0In its decision of 20 January 2012 the Constitutional Court provided an official interpretation of Articles 32 and 34 of the Constitution, which guaranteed respectively the right to respect for private life and freedom of speech.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The court held that all information about private and family life was confidential. Information about private and family life covered all information about relations of a monetary and non-monetary nature, events, relations associated with a person and his or her family except for information about performance by public officials of their functions. In particular, it covered information about ethnicity, education, civil status, religious convictions, health, property, address, date and place of birth, information about events in day-to-day, intimate, professional, business and other aspects of life.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0The court went on to note that public authorities could only use and disclose such information in cases provided by laws enacted by Parliament in the interests of national security, economic welfare and human rights.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "High Administrative Court\u2019s guidelines concerning access to public information",
+                                "elements": [
+                                    {
+                                        "content": "49.\u00a0\u00a0Resolution of the Plenary of the HAC of 29 September 2016\u00a0no.\u00a010 contains the guidelines to be followed by administrative courts in resolving disputes related to access to public information. The relevant parts of the guidelines are summarised in paragraphs 50 to 52 below.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0Point 5.8 of the resolution stated that, if the law imposed certain minimum requirements on individuals seeking to occupy certain public positions, such as education, work experience, mastery of foreign languages or absence of a criminal record, then such information could not be designated as confidential (it cited the Data Protection Act, see paragraph\u00a040 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0In point 9.3 the HAC illustrated the meaning of section 6(7) of the Access to Public Information Act (see paragraph 30 above) with the following example. Because declarations under the Prevention of Corruption Act (see paragraph 45 above) contained confidential information, in the event of a request for disclosure of such a declaration, a copy of the declaration must be given to the requesting party with the parts containing the confidential information redacted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0In point 9.4 the HAC explained that, in requesting a copy of a document, the person was not required to identify the specific information which the person was seeking to obtain from that document. A document or its part containing unrestricted information could be an object of an information request in its own right. Under the Access to Public Information Act (see\u00a0paragraph 34 above), it was sufficient for the requesting party to identify the document he or she was requesting.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Relevant international material",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0Resolution of the Parliamentary Assembly of the Council of Europe of 25 December 2008 no. 1165 on the right to privacy reads, in the relevant part:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c6. The Assembly is aware that personal privacy is often invaded, even in countries with specific legislation to protect it, as people\u2019s private lives have become a highly lucrative commodity for certain sectors of the media. The victims are essentially public figures, since details of their private lives serve as a stimulus to sales. At the same time, public figures must recognise that the position they occupy in society \u2013 in many cases by choice \u2013 automatically entails increased pressure on their privacy.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7. Public figures are persons holding public office and/or using public resources and, more broadly speaking, all those who play a role in public life, whether in politics, the economy, the arts, the social sphere, sport or in any other domain.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8. It is often in the name of a one-sided interpretation of the right to freedom of expression, which is guaranteed in Article 10 of the European Convention on Human Rights, that the media invade people\u2019s privacy, claiming that their readers are entitled to know everything about public figures.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9. Certain facts relating to the private lives of public figures, particularly politicians, may indeed be of interest to citizens, and it may therefore be legitimate for readers, who are also voters, to be informed of those facts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10. It is therefore necessary to find a way of balancing the exercise of two fundamental rights, both of which are guaranteed in the European Convention on Human Rights: the right to respect for one\u2019s private life and the right to freedom of expression.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "54.\u00a0\u00a0The applicant organisation complained that the authorities had denied it access to the information it needed for the effective exercise of its freedom of expression, in breach of Article\u00a010 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "55.\u00a0\u00a0While the Government have not raised an objection as regards the applicability of Article 10 of the Convention, the Court considers that it has to address this issue of its own motion. The questions relating to the applicability of Article 10 and the existence of interferences, the latter forming part of the merits of the relevant complaints, are often inextricably linked (see Magyar Helsinki Bizotts\u00e1g v.\u00a0Hungary [GC], no.\u00a018030/11, \u00a7\u00a7\u00a071 and 117, 8 November 2016, and also, as regards the applicability of Article 8 of the Convention, see Denisov v.\u00a0Ukraine [GC], no.\u00a076639/11, \u00a7\u00a092, 25 September 2018). As it has previously explained in the latter case concerning Article 8, since the question of applicability is an issue of the Court\u2019s jurisdiction ratione materiae, as a general rule the relevant analysis should be carried out at the admissibility stage, unless there is a particular reason to join this question to the merits (ibid., \u00a7 93).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the present case, the question of whether the grievance of which the applicant organisation complained falls within the scope of Article\u00a010 is closely linked to the merits of its complaint. The present case also raises a novel issue at the domestic level and is one of the first cases following the judgment of the Grand Chamber in Magyar Helsinki Bizotts\u00e1g to examine the questions of applicability of Article 10 of the Convention in the context of access to information and the circumstances in which refusal of access to certain information may be considered an interference with the right to freedom of expression guaranteed by that provision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Accordingly, the Court decides to examine the question of applicability of Article 10 of the Convention together with that pertaining to the existence of interference under this provision on the merits of the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court notes that the application is not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "The applicant organisation\u2019s submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Existence of an interference",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0As they had been submitted by the candidates themselves, their CVs had included first-hand comprehensive information that could have given the public a broad understanding of the education and professional background of the party leaders, their family and work connections. By contrast, the information available on the CEC\u2019s website and provided to the applicant organisation had been limited to the information showing that the individuals in question had met the minimum legislative requirements to stand as candidates: minimum age (21), residence in Ukraine (five years) and absence of criminal convictions (see paragraph 35 above). The information disclosed had only showed their current position at the time of registration as candidates but not their work history. It had also showed that they had had university-level education but had not indicated either the name of the university or their academic specialisation. Thus the most valuable information, that concerning education and work history, had been restricted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0The period right after elections was still sensitive and attracted great public attention. Heads of party lists were likely to occupy senior positions. The elections of 2014 had taken place after the EuroMaidan events, in which Parliament had played a role. Therefore, the newly elected MPs had attracted particular scrutiny.\u00a0Therefore, the information had met the public-interest test.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The applicant organisation had been founded in 2005, defining itself as a \u201cthink-and-act tank\u201d, focusing its efforts on \u201cdevelopment of independent media, support of civil platforms and movements\u201d, development and implementation of laws, protection of freedom of expression and achieving accountability of government. In 2011 the applicant organisation had co-founded the Chesno movement, a coalition of NGOs aimed at increasing the accountability of Ukrainian politicians. The first campaign of the movement had started in 2011 and had been aimed at cleansing Parliament of unscrupulous deputies by pointing out discrepancies between their declared income and lifestyles. The movement\u2019s focus in 2014 had been to evaluate how Parliament had changed in the first parliamentary elections since the EuroMaidan events. In making the information about politicians publicly available the applicant organisation had wanted to \u201cdraw attention to matters of public interest and to create and support a platform for public debate on political issues\u201d thus performing its role as a \u201cwatchdog\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The applicant organisation had wished to provide the public with information on the background of the politicians who had led the parties that had won the 2014 parliamentary elections. The applicant organisation had wished to rely in its analysis on the first-hand official information supplied by the candidates themselves and which, therefore, could be perceived with confidence by the public.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0An additional purpose had been to establish a general precedent to make the CVs of all candidates for political or other public positions free to access. The applicant organisation had not wanted to create an excessive burden and had only asked for the CVs of the leaders of parliamentary parties rather than those of all 450 MPs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0While most of the politicians concerned had previously occupied high office, their CVs had never been published, making it harder to verify the information disseminated about them by the media and assess whether there were any facts in their biographies which had not previously attracted public attention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The applicant organisation was particularly interested in the MPs\u2019 educational background. This was motivated by previous scandals which involved alleged falsification of educational credentials by former ministers of social policy, justice, transport, the former head of the presidential office and others.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The exact work history was also important as it was needed to verify the source of the politician\u2019s assets which they had declared and published under the Prevention of Corruption Act and Presidential Elections Act (see paragraphs 44 and 39 above) within the framework of presidential elections in which Mr Boyko, Mr\u00a0Klychko, Mr\u00a0Lyashko, Ms\u00a0Tymoshenko and Mr\u00a0Yatsenyuk had previously participated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0Lastly, the applicant organisation pointed out that the information it had sought had been ready and available.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Prescribed by law",
+                                "elements": [
+                                    {
+                                        "content": "66.\u00a0\u00a0As far as education and phone numbers were concerned, section\u00a011 of the Information Act and section 34 of the Telecommunications Act indeed defined that information as confidential.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0However, the applicant organisation argued that there had been no basis in domestic law for restricting access to work history or family members.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0In particular, there had been no provisions in domestic law that had defined work history as confidential information.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0Information on family members had had to be disclosed in the declarations required by the Prevention of Corruption Act (see paragraphs\u00a044 and 45 above). Since most of the persons concerned had previously held public office, their declarations, including the parts concerning their family members, had had to be disclosed, and in fact the declarations of Mr\u00a0Boyko, Mr Lyashko and Ms Tymoshenko had been disclosed by the CEC on its website within the context of the 2014\u00a0presidential elections in accordance with the Presidential Elections Act (see paragraph 39 above).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Necessary in a democratic society",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0There had been no pressing social need to restrict access to the CVs, in particular to the information about the politicians\u2019 education, work history and family members. Given their status as public figures and leaders of political parties planning to become MPs those individuals had to be more tolerant of publicity. The domestic authorities had failed to assess this aspect of the situation. The fact that the information had been formally requested only after the elections had not distracted from these considerations since the individuals concerned had been leaders of political parties who had managed to be elected to the Parliament and thus had been likely to take part in the formation of the governing coalition and the Government. The information about their education and job history had been directly related to their fitness for political functions. Moreover, information about their family members had already been disclosed anyway.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant organisation could accept the need to protect the addresses and phone numbers which the CVs had contained but that goal could have been achieved by redacting that information. Section 6(7) of the Access to Public Information Act and the HAC\u2019s guidelines of 29\u00a0September 2016 provided for that possibility (see paragraphs 30 and 51 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The domestic courts had failed to conduct a proper analysis of the public interest in the disclosure of the requested information and whether there had been grounds to believe that its disclosure could have caused substantial harm to the legitimate interests of others, even though this had been required by the Access to Public Information Act (see paragraph\u00a030 above). Instead of conducting this analysis the domestic courts had limited themselves to verifying whether there were legal grounds for classifying the information as confidential.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0Accordingly, there had been no pressing social need for the interference, it had not been proportionate and the domestic authorities had failed to provide relevant and sufficient grounds for it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government\u2019s submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Existence of an interference",
+                                "elements": [
+                                    {
+                                        "content": "74.\u00a0\u00a0There had been no interference with the applicant organisation\u2019s freedom of expression.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0To be sure, information about candidates for Parliament was of great public importance. However, the applicant organisation had not sought information about them but actual copies of their CVs. Those copies, however, had contained confidential information. The CEC had in fact provided the applicant organisation with information from the CVs which had not been confidential (see paragraph 12 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0Given that this had been published and the information had been requested after the elections had already been held meant that the applicant organisation was exaggerating the importance of the information it had sought. The available information had been sufficient to inform the public.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Prescribed by law and legitimate aim",
+                                "elements": [
+                                    {
+                                        "content": "77.\u00a0\u00a0The interference had been prescribed by law, which had prohibited the disclosure of the confidential information the applicant organisation had requested. The applicant organisation, as an organisation which had taken part in the development of the Access to Public Information Act, had had to have known the limits on the disclosure of confidential information it had contained.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0According to the Court\u2019s case-law (citing Lingens v. Austria, 8\u00a0July 1986, \u00a7 42., Series A no. 103) even politicians not acting in their private capacity had a right to respect for their reputation. The denial of the applicant organisation\u2019s request had thus pursued the aim of safeguarding the politicians\u2019 rights to protection of their personal and confidential information under Article 8 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Necessary in a democratic society",
+                                "elements": [
+                                    {
+                                        "content": "79.\u00a0\u00a0The applicant organisation had been requesting confidential personal information of individuals. At that time they had not yet become MPs. They had not consented to the disclosure. The applicant organisation had stated that its goal had been to inform the public about the candidates but by the time it had requested the information the elections had already been held. There was no reason to believe that the disclosure would have been in the interests of national security, economic welfare or safeguarding human rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0Non-confidential information had actually been provided to the applicant organisation, allowing it to disseminate that information. There was no reason to believe that as a result the applicant organisation had been put in any worse position in terms of being able to inform the public on the matters of general interest.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Relevant general principles",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court has clarified and summarised the principles to be applied in assessing whether the denial of access to information constitutes an interference with freedom of expression in the case of Magyar Helsinki Bizotts\u00e1g, cited above, \u00a7\u00a7 149-80).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0In accordance with that judgment, whether and to what extent the denial of access to information constitutes an interference with an applicant\u2019s freedom-of-expression rights must be assessed in each individual case and in the light of its particular circumstances (ibid., \u00a7\u00a0158). Four criteria are relevant in this assessment:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0the purpose of the information request;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0the nature of the information sought;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0the particular role of the seeker of the information in \u201creceiving and imparting\u201d it to the public; and",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0whether the information sought is ready and available.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0In order for Article 10 to come into play, it must be ascertained whether the information sought was in fact necessary for the exercise of freedom of expression (ibid., \u00a7 158).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0The information, data or documents to which access is sought must generally meet a publicinterest test in order to prompt a need for disclosure under the Convention. Such a need may exist where,\u00a0inter alia, disclosure provides transparency on the manner of conduct of public affairs and on matters of interest for society as a whole and thereby allows participation in public governance by the public at large (ibid., \u00a7 161).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0The Court has emphasised that the definition of what might constitute a subject of public interest will depend on the circumstances of each case. The public interest relates to matters which affect the public to such an extent that it may legitimately take an interest in them, which attract its attention or which concern it to a significant degree, especially in that they affect the well-being of citizens or the life of the community. This is also the case with regard to matters which are capable of giving rise to considerable controversy, which concern an important social issue, or which involve a problem that the public would have an interest in being informed about. The public interest cannot be reduced to the public\u2019s thirst for information about the private life of others, or to an audience\u2019s wish for sensationalism or even voyeurism. In order to ascertain whether a document relates to a subject of general importance, it is necessary to assess the document as a whole, having regard to the context in which it appears (ibid, \u00a7\u00a0162).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0In this connection, the privileged position accorded by the Court in its case-law to political speech and debate on questions of public interest is relevant. The rationale for allowing little scope under Article 10 \u00a7 2 of the Convention for restrictions on such expressions, likewise militates in favour of affording a right of access under Article 10 \u00a7 1 to such information held by public authorities (ibid., \u00a7 163).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0An important consideration is whether the person seeking access to the information in question does so with a view to informing the public in the capacity of a public \u201cwatchdog\u201d. This does not mean, however, that a right of access to information ought to apply exclusively to NGOs and the press. A high level of protection also extends to academic researchers and authors of literature on matters of public concern. Given the important role played by the Internet in enhancing the public\u2019s access to news and facilitating the dissemination of information, the function of bloggers and popular users of the social media may be also assimilated to that of \u201cpublic watchdogs\u201d in so far as the protection afforded by Article 10 is concerned (ibid., \u00a7 168).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The fact that the information requested is ready and available constitutes an important criterion in the overall assessment of whether a refusal to provide the information can be regarded as an \u201cinterference\u201d with the freedom to \u201creceive and impart information\u201d as protected by that provision (ibid., \u00a7 170).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The principles relevant to assessing whether an interference with freedom of expression was \u201cprescribed by law\u201d have recently been summarised in Satakunnan Markkinap\u00f6rssi Oy and Satamedia Oy\u00a0v.\u00a0Finland ([GC], no. 931/13, \u00a7\u00a7 142-45, 27 June 2017).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0The principles concerning the question of whether an interference with freedom of expression is \u201cnecessary in a democratic society\u201d are summarised in Magyar Helsinki Bizotts\u00e1g (cited above, \u00a7\u00a0187).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Application of the above principles to the present case",
+                                "elements": [
+                                    {
+                                        "content": "91.\u00a0\u00a0The Court notes at the outset that domestically the applicant organisation sought copies of the CVs in question and not merely information from those CVs. Apart from the information already published by the CEC, the CVs contained the following information about the candidates (see paragraph 37 above):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0education;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0work history;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0history of work for the public, including in elected positions;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0list of family members;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0address;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0telephone number.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0In its submissions before the Court the applicant organisation conceded that the candidates\u2019 addresses and phone numbers could not have been disclosed (see paragraphs 66 and 71 above). As to the list of family members, the applicant organisation itself pointed out that that information had been available from alternative sources (see paragraphs 69 above) and failed to explain why it could not have obtained it from those sources. Accordingly, the Court does not consider that the applicant organisation has made an arguable case that there has been an interference with its Article\u00a010 rights on that account.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "93.\u00a0\u00a0Accordingly, the question which remains for the Court to resolve is whether the failure to disclose to the applicant organisation the information about the education and work history (including the history of work at public institutions) which the political leaders had included in their official CVs submitted to the CEC as part of the election process involved an interference with and a breach the applicant organisation\u2019s rights under Article 10 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0In this context the Court observes that at the domestic level the applicant organisation requested not only particular information contained in the CVs but rather copies of the CVs themselves (see paragraph\u00a011 above). However, domestic law, notably section 6(7) of the Access to Public Information Act (see paragraph 30 above), as subsequently confirmed by the HAC, provided that in such cases it was up to the authorities themselves to make a selection between various pieces of information contained in the requested document and disclose only that information which could be disclosed: either by redacting the document requested and providing its redacted copy (as suggested by the HAC, see paragraph 51 above) or extracting the relevant information from the documents, as the CEC did and providing the extracted information (see paragraph 12 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "95.\u00a0\u00a0The relevant question before the Court, therefore, is whether by refusing to provide the applicant organisation with information about the education and work history contained in the CVs of candidates for Parliament the respondent State breached its right to freedom of expression.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0The Court reiterates at the outset that Article\u00a010 does not confer on individuals a right to access State-held information but such a right may arise, firstly, where disclosure of the information is imposed by a judicial order (which was absent in the present case) and, secondly, in circumstances where access to the information is instrumental for the exercise of the right to freedom of expression and where its denial constitutes an interference with that right (see Magyar Helsinki Bizotts\u00e1g, cited above, \u00a7 156). The Court, with reference to the criteria set out in Magyar Helsinki Bizotts\u00e1g and summarised in paragraph 82 above, will proceed to examine whether such an interference occurred in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "97.\u00a0\u00a0As to the purpose of the information request, the Court takes note of the applicant organisation\u2019s explanation in that connection: in particular its concern regarding the integrity of candidates for high office, in the light of previous controversies regarding the educational qualifications of senior officials and the need to match the information about the candidates\u2019 assets with first-hand information, provided by the candidates themselves, about their work history (see paragraphs 59 to 64 above). It recognises that this purpose was only clearly explained in the proceedings before the domestic courts and not when the information request was first made.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0Given the extensive public exposure of the individuals concerned, the Court finds that considerable information about their education and work history was already in the public domain. However, the applicant organisation explained, rather convincingly, that it needed specifically this information as presented first-hand by the candidates for MPs themselves. The Government did not argue that that specific information had been available from other sources at the time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0The Court also considers, for the same reasons, that the information the applicant organisation sought met the public-interest test. The individuals concerned \u2013 leading politicians \u2013 were public figures of particular prominence. The Court accepts that the public had an interest in their background and integrity in the immediate post-election context.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0The role of the applicant organisation as an NGO playing an important \u201cwatchdog\u201d function has not been contested.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0Neither is it in dispute that the information it sought was ready and available.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0Therefore, by refusing to disclose to the applicant organisation the information on the top candidates\u2019 education and work history contained in their official CVs filed with the CEC within the framework of them standing as candidates for Parliament, the domestic authorities impaired its exercise of its freedom to receive and impart information, in a manner striking at the very substance of its Article 10 rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "103.\u00a0\u00a0The Court reiterates that an interference with an applicant\u2019s rights under Article 10 \u00a7 1 will infringe the Convention if it does not meet the requirements of paragraph 2 of Article 10. It should therefore be determined whether it was \u201cprescribed by law\u201d, whether it pursued one or more of the legitimate aims set out in that paragraph, and whether it was \u201cnecessary in a democratic society\u201d in order to achieve those aims (see, for example, \u00d6sterreichische Vereinigung zur Erhaltung, St\u00e4rkung und Schaffung\u00a0v.\u00a0Austria, no. 39534/07, \u00a7 37, 28 November 2013).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0The applicant organisation conceded (see paragraph 66 above) that the restriction on disclosure of information concerning education was \u201cprescribed by law\u201d, namely section 11 of the Information Act (see paragraphs 21-22 and 41 above). The Court sees no reason to hold otherwise.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "105.\u00a0\u00a0As far as work history was concerned, the domestic decisions do not contain any specific indication as to why the CEC and the domestic courts considered that information restricted. This stemmed from the fact that they considered the CVs largely as a block without necessarily distinguishing between particular elements. However, in rejecting the information request, the CEC relied essentially on two arguments which are applicable as easily to work history as to several other elements found in the CVs (see paragraph 12 (i) and (ii) above):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i) the CEC considered that all information in the CVs which the Parliamentary Elections Act did not require to be published on the CEC website was not public and could not be disclosed, and",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii) the CEC relied on the broad definition of confidential information about private life contained in the Constitutional Court\u2019s decision of 2012 (see paragraphs 46 to 48 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0The domestic courts largely followed the same reasoning (see paragraphs 21-24 and 27 above). They also held that the open-ended definition of confidential information in section 11 of the Information Act covered all information in the CVs which was not, by law, publishable on the CEC\u2019s website (see paragraphs 21-24 and 41 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0It can, indeed, be asked whether domestic law, as interpreted by the courts, was \u201cforeseeable\u201d. Neither section 11 of the Information Act nor any other law explicitly listed work history as confidential information. The definition found in the Constitutional Court\u2019s decision is so general as to capture all possible information about individuals (see paragraphs 41 and 46 to 48 above). At the same time the Parliamentary Elections Act labelled all information filed with the CEC in the process of the candidates\u2019 registration as \u201copen\u201d (see paragraph 38 above). On the face of it, this would include the CVs and, to a layman, could imply that the information could be freely accessed by the public.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0At the same time, the Court reiterates that many laws are inevitably couched in terms which, to a greater or lesser extent, are vague, and whose interpretation and application are questions of practice (see Satakunnan Markkinap\u00f6rssi Oy and Satamedia Oy, cited above, \u00a7\u00a0143). The role of adjudication vested in the national courts is precisely to dissipate such interpretational doubts as may remain. The Court\u2019s power to review compliance with domestic law is thus limited, as it is primarily for the national authorities, notably the courts, to interpret and apply domestic law (ibid., \u00a7 144). Unless the interpretation is arbitrary or manifestly unreasonable, the Court\u2019s role is confined to ascertaining whether the effects of that interpretation are compatible with the Convention (see\u00a0Radomilja and Others v. Croatia [GC], nos. 37685/10 and 22768/12, \u00a7\u00a0149, 20 March 2018).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0The domestic courts\u2019 interpretation that, by requiring only some information submitted by the candidates to be published, the Parliamentary Elections Act implicitly barred the disclosure of any other information cannot be said to be manifestly unreasonable. Likewise, the open-ended nature of the list of confidential information contained in section 11 of the Information Act does not necessarily raise a question in itself. It is indeed true that work history, unlike education, is not explicitly mentioned in that provision. However, that provision is of a general nature. There may well be certain contexts in which it may be reasonable and, indeed, even imperative to interpret such a general provision as preventing disclosure of information about work history of an individual, so as to respect his or her right to privacy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0What raises most doubt as to the foreseeability of the domestic courts\u2019 interpretation is precisely the fact that the information in question concerned the most prominent politicians and was provided by them to the CEC in the context of the parliamentary election campaign. Those matters are more appropriately examined as a question of \u201cnecessity in a democratic society\u201d (see\tInstytut Ekonomichnykh Reform\u00a0v.\u00a0Ukraine, no.\u00a061561/08, \u00a7\u00a039, 2 June 2016).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0The same goes for the applicant organisation\u2019s argument (see paragraph 72 above) that the CEC and the domestic courts had failed to conduct an adequate balancing exercise, despite the requirement of domestic law to that effect (see paragraph 30 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0Accordingly, the Court rejects the applicant organisation\u2019s argument that the interference was not prescribed by law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0The Court is likewise prepared to accept the Government\u2019s submissions (see paragraph 78 above), not specifically contested on this point by the applicant organisation, that the interference pursued the legitimate aim of protecting the privacy rights of others (see Magyar Helsinki Bizotts\u00e1g, \u00a7 186, and \u00d6sterreichische Vereinigung, \u00a7\u00a039, both cited above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0The Court must first determine whether the disclosure of the information about the political leaders\u2019 education and work history, which the applicant organisation sought, engaged those individuals\u2019 \u201cprivate life\u201d within the meaning of Article 8 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "115.\u00a0\u00a0In this context the Court notes that that information, while it constituted personal data, related to the political leaders\u2019 education and professional activities, much of them in the public sphere (see Magyar Helsinki Bizotts\u00e1g, cited above, \u00a7 194). For the reasons set out in paragraph\u00a0117 (old) below, the disclosure of that information would not have subjected the political leaders to public exposure to a degree surpassing that which they could possibly have foreseen when registering as candidates at the top of the lists of the parties contesting the parliamentary elections (compare ibid., \u00a7\u00a0195).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "116.\u00a0\u00a0Accordingly, the Court considers that the Government have not shown that the interests of the political leaders were of such a nature and degree as could warrant bringing Article 8 into play in a balancing exercise against the effective exercise of the applicant organisation\u2019s right protected by paragraph 1 of Article 10. Nonetheless, the protection of personal information of the political leaders constitutes a legitimate aim permitting a restriction on freedom of expression under paragraph 2 of that provision. Thus, the salient question is whether the means used to protect those interests were proportionate to the aim sought to be achieved (compare ibid., \u00a7 196).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0As the Court noted above, the individuals concerned were public figures of particular prominence (see paragraph 99 above). They submitted their CVs in the context of putting their candidacies forward in a national parliamentary election, thus inevitably exposing their qualifications and record to close public scrutiny. Moreover, they did so in the context where domestic law at the time designated information they submitted to the CEC as \u201copen\u201d (see paragraphs 38 above), even though the domestic courts interpreted that provision restrictively (see paragraphs 107 and 109 above respectively).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0The Court finds that, as regards information relating to the candidates\u2019 education and work history, the domestic courts failed to conduct an adequate balancing exercise, comparing the harm any potential disclosure could do to the politicians\u2019 interest in non-disclosure of this information with the consequences for effective exercise of the applicant organisation\u2019s freedom of expression. They apparently attempted to take the latter aspect of the balancing exercise into account, concluding that the need for disclosure in terms of effective exercise of voting rights had not been shown. However, there was no attempt to assess the former aspect of the balancing exercise: the degree of potential harmful impact on the politicians\u2019 privacy. It was not even explained how the privacy of those two politicians who of their own will had published their CVs could have been harmed under the circumstances (see paragraph 24 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0Of course, the applicant organisation made the authorities\u2019 task in conducting a balancing exercise somewhat more difficult by failing, initially, to cite any reasons for its request (see paragraphs 11 and 12\u00a0(v) above). However, it has to be taken into account that reasons were not a required element of an information request under domestic law (see paragraph 34 above) and, once it received a refusal, the applicant organisation explained its reasons in the proceedings before the domestic courts (see paragraphs 16 and 97 above). There is no indication that the domestic courts were prevented, by any rules of the domestic law or other considerations, from taking that additional information into account and possibly reassessing the CEC\u2019s conclusions in that light (compare, mutatis mutandis, Les Authentiks and Supras Auteuil 91 v. France, nos.\u00a04696/11 and 4703/11, \u00a7 51, 27 October 2016).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "120.\u00a0\u00a0Therefore, the decision to deny the applicant organisation access to the information about the education and work history of the political leaders contained in their CVs they had filed with the CEC in the context of parliamentary election campaign was not \u201cnecessary in a democratic society\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0There has, accordingly, been a violation of Article 10 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "122.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "123.\u00a0\u00a0The applicant organisation considered that the finding of a violation would be sufficient just satisfaction for the non-pecuniary damage it suffered.",
+                                "elements": []
+                            },
+                            {
+                                "content": "124.\u00a0\u00a0The Court sees no reason to disagree and holds that the finding of a violation constitutes in itself sufficient just satisfaction for any non-pecuniary damage sustained by the applicant organisation.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 10 of the Convention on account of the decision to deny the applicant organisation access to the information about the education and work history of political leaders contained in their CVs filed with the election authorities;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant organisation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 26 March 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "S\u00edofra O\u2019Leary",
+            "role": "president"
+        },
+        {
+            "name": "Gabriele Kucsko-Stadlmayer",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Andr\u00e9 Potocki",
+            "role": "judges"
+        },
+        {
+            "name": "Yonko Grozev",
+            "role": "judges"
+        },
+        {
+            "name": "L\u04d9tif H\u00fcseynov",
+            "role": "judges"
+        },
+        {
+            "name": "Anja Seibert-Fohr",
+            "role": "judges"
+        },
+        {
+            "name": "Claudia Westerdiek",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF CENTRE FOR DEMOCRACY AND THE RULE OF LAW v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-201896.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:0326JUD001009016",
+    "externalsources": [],
+    "extractedappno": [
+        "10090/16",
+        "59320/00",
+        "18030/11",
+        "76639/11",
+        "931/13",
+        "39534/07",
+        "37685/10",
+        "22768/12",
+        "61561/08",
+        "4696/11",
+        "4703/11"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Section 11 of the Information Act 1992",
+        "Parliamentary Elections Act 2011"
+    ],
+    "itemid": "001-201896",
+    "judgementdate": "26/03/2020 00:00:00",
+    "kpdate": "26/03/2020 00:00:00",
+    "kpthesaurus": [
+        "451",
+        "429",
+        "149",
+        "161",
+        "265",
+        "379",
+        "316",
+        "216",
+        "577",
+        "283"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "10-2",
+        "8",
+        "8-1",
+        "10",
+        "10-1",
+        "41"
+    ],
+    "parties": [
+        "CENTRE FOR DEMOCRACY AND THE RULE OF LAW",
+        "UKRAINE"
+    ],
+    "rank": "5219.42626953125",
+    "representedby": [
+        "VOLODOVSKA V."
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [
+        "Denisov v. Ukraine [GC], no. 76639/11, \u00a7 92, 25 September 2018",
+        "Instytut Ekonomichnykh Reform v. Ukraine, no. 61561/08, \u00a7 39, 2 June 2016",
+        "Les Authentiks and Supras Auteuil 91 v. France, nos. 4696/11 and 4703/11, \u00a7 51, 27 October 2016",
+        "Magyar Helsinki Bizotts\u00e1g v. Hungary [GC], no. 18030/11, 8 November 2016",
+        "\u00d6sterreichische Vereinigung zur Erhaltung, St\u00e4rkung und Schaffung v. Austria, no. 39534/07, \u00a7 37, 28 November 2013",
+        "Radomilja and Others v. Croatia [GC], nos. 37685/10 and 22768/12, \u00a7 149, 20 March 2018",
+        "Satakunnan Markkinap\u00f6rssi Oy and Satamedia Oy v. Finland [GC], no. 931/13, \u00a7\u00a7 142-145, 27 June 2017"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "497199",
+    "typedescription": "15"
+}

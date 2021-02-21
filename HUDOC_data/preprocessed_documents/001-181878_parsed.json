@@ -1,0 +1,674 @@
+{
+    "__articles": "3;5;5-1;5-1-a;8;8-1;13;13+3",
+    "__conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Degrading treatment;Prohibition of torture);Violation of Article 5 - Right to liberty and security (Article 5-1 - Procedure prescribed by law;Article 5-1-a - After conviction);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-a - After conviction)",
+    "applicability": "",
+    "appno": "34473/05",
+    "article": [
+        "13",
+        "3",
+        "8",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for family life"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention",
+                "Article 5-1-a - After conviction"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-181878.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 34473/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mr Mikhail Ivanovich Trepashkin (\u201cthe applicant\u201d), on 19 September 2005.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms Ye. Liptser, a lawyer practising in Moscow. The Russian Government (\u201cthe Government\u201d) were represented initially by Mr\u00a0P.\u00a0Laptev, Ms V. Milinchuk, Mr G.\u00a0Matyushkin, former Representatives of the Russian Federation to the European Court of Human Rights, and then by their successor in that office, Mr M. Galperin.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 6 October 2011 the complaints concerning the conditions of the applicant\u2019s detention, his detention under a prison regime, the alleged unlawfulness of his arrest, and his allocation to a remote penal establishment were communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1957 and lives in Moscow. He is a former FSB (Russian security service) officer.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Conviction and sentencing",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 19 May 2004 the Military Court of the Moscow Circuit found the applicant guilty of the disclosure of State secrets and the illegal possession of ammunition and sentenced him to four years\u2019 imprisonment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 13 September 2004 the Supreme Court of the Russian Federation upheld the applicant\u2019s conviction on appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0According to the Government, on 26\u00a0May 2005 the Federal Penitentiary Service of the Russian Federation (the \u201cFSIN\u201d) decided that the applicant should serve his sentence in correctional settlement facility (\u043a\u043e\u043b\u043e\u043d\u0438\u044f-\u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435) no.\u00a0IK-13 in Nizhniy Tagil, Sverdlovsk Region, located approximately 1,800 km away from his family home in Moscow. The Government did not submit a copy of this decision.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Release on parole and re-arrest",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0On 19 August 2005 the Tagilstroyevskiy District Court of Nizhniy Tagil ordered the applicant\u2019s release on parole. The court heard a representative of the prison administration and the prosecutor, who considered the applicant\u2019s release on parole to be possible. The prosecutor did not appeal and on 29\u00a0August 2005 the relevant decision became final. On 30\u00a0August 2005 the applicant was released.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 31\u00a0August 2005 the prosecutor asked the District Court to reinstate the requisite time-limit to permit him to appeal against the decision of 19\u00a0August 2005, noting that he had received a copy thereof only five days after its delivery.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 1 September 2005 the District Court reinstated a time-limit for the prosecutor\u2019s appeal. The court relied on the relevant provision of the rules of criminal procedure which provided for such reinstatement if there had been a delay of at least five days before a party to the proceedings had received a copy of the impugned decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 16 September 2005 the Sverdlovsk Regional Court dismissed the applicant\u2019s appeal against the decision of 1 September 2005 and quashed the decision of 19\u00a0August 2005, remitting the matter for fresh consideration.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 18 September 2005 a group of police officers broke arrested the applicant in his flat in Moscow.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 21 September 2005 the applicant was transported back to correctional settlement facility no.\u00a0IK-13 and was placed in a disciplinary cell.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 24 November 2005 the District Court re-examined the applicant\u2019s application for parole and dismissed it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 15\u00a0March 2006 the Regional Court upheld the decision of 24\u00a0November 2005 on appeal.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Conditions of the applicant\u2019s detention in correctional settlement facility no.\u00a0IK-13",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s detention in a disciplinary cell",
+                                        "elements": [
+                                            {
+                                                "content": "16.\u00a0\u00a0Upon arrival at the facility on 28\u00a0July 2005 the applicant was placed in cell no.\u00a08 in the disciplinary block. On 9\u00a0August 2005 he was transferred to one of the dormitories. He was released from the facility on 30\u00a0August 2005.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0Following his arrest on 18\u00a0September 2005, the applicant was taken back to the facility on 22\u00a0September 2005. Upon arrival, he was again placed in cell no.\u00a08 in the disciplinary block. On 30\u00a0September 2005 he was transferred to one of the dormitories.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Description provided by the Government",
+                                        "elements": [
+                                            {
+                                                "content": "18.\u00a0\u00a0According to the Government, cell no.\u00a08 measured 8 sq. m and was equipped with four sleeping places. From 28\u00a0July to 8\u00a0August 2005 the applicant was detained in the cell alone and from 8 to 9\u00a0August 2005 two other inmates were held together with the applicant. The cell was equipped with both natural and artificial ventilation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0At all times the applicant was provided with an individual sleeping place and bed sheets. He was allowed two hours\u2019 exercise per day in a specially designated area.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0The cell had windows with opening vents. The metal bars on the windows did not prevent daylight from entering the cell. The electric light in the cell was on constantly and at night low-voltage bulbs were used to maintain lighting. The cell had central heating and a cold water supply system. There was a tank with boiled potable water. A 110 cm high brick wall and a plywood door separated the toilet from the living area of the cell. The distance between the toilet and the dining table/nearest sleeping place was at least 1.5 m. Hygiene and food provision both met the statutory standards.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Description provided by the applicant",
+                                        "elements": [
+                                            {
+                                                "content": "21.\u00a0\u00a0According to the applicant and statements from other inmates submitted by the applicant, cell no.\u00a08 measured 2.5 m by 3.5 m and housed between 3 and 7 inmates. A large part of the cell was occupied by a cupboard where mattresses and pillows were stored during the daytime. No bed linen was provided. There was no toilet paper, soap or detergent for cleaning the toilet. There was no place to keep personal belongings. The cell was infested with mice and woodlice. The electric light was permanently on.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0In the summer, the cell was very hot and humid and the ventilation did not work. The electric lighting was insufficient. There was no drinking water available. The only source of water was a tap above the toilet, which was a hole in the floor. The tap water was used for \u201cflushing\u201d away faeces, washing and drinking. It was of very poor quality. The toilet was not separated from the living area of the cell. Once a week the inmates received a basin of hot water for washing their clothes.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0From 6 a.m. to 10 p.m. the bunk beds were folded up and attached to the wall. The inmates could only stand or squat, or sit on a narrow ledge which ran along the edge of the cell in order to let their feet rest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The inmates did not receive newspapers. Nor was there a radio in the cell. Food was of very poor quality and scarce. The daily outdoor exercise lasted between fifteen and forty minutes.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0The applicant\u2019s complaint about placement in a disciplinary cell",
+                                        "elements": [
+                                            {
+                                                "content": "25.\u00a0\u00a0On an unspecified date the applicant complained to the prosecutor, alleging that detaining him in such a disciplinary cell was in contravention of the applicable laws.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0On 22 November 2005 the prosecutor dismissed the complaint. He advised the applicant that at the material time the facility did not have a quarantine area in which newly arrived convicts could be placed for the purpose of medical checks. He further informed the applicant that, following a report by the prosecutor, the administration had made the necessary arrangements to set up a proper quarantine area in the facility. Lastly, the prosecutor explained that the applicant was entitled to contest the prosecutor\u2019s findings in a court or before a superior prosecutor.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 3 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "27.\u00a0\u00a0On his application form of 1\u00a0November 2005, the applicant complained about the conditions of his detention in disciplinary cell no.\u00a08 in correctional settlement facility no.\u00a0IK-13 in Nizhniy Tagil from 28\u00a0July to 9\u00a0August and from 22 to 30\u00a0September 2005. In his submissions of 20\u00a0March 2012, the applicant complained about the conditions of his detention in disciplinary cell no.\u00a01 in the same facility in 2006. He referred to Articles 3 and 13 of the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0The Government submitted that the applicant had failed to institute a civil action for damages resulting from the allegedly inhuman conditions of his detention. They also considered that the conditions of the applicant\u2019s detention in a disciplinary cell had not attained the requisite minimum level of severity to raise an issue under Article\u00a03 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0The applicant maintained his complaints.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "30.\u00a0\u00a0In so far as the Government may be understood to suggest that the applicant\u2019s complaint should be dismissed for his failure to exhaust available domestic remedies, the Court reiterates that the Russian legal system does not have an effective remedy for such a complaint (see Ananyev and Others v.\u00a0Russia, nos. 42525/07 and 60800/08, \u00a7\u00a7\u00a0100-19, 10\u00a0January 2012, and Sergey Babushkin v. Russia, no. 5993/08, \u00a7\u00a7\u00a038-45, 28 November 2013) and dismisses the Government\u2019s objection.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The Court further notes that the applicant\u2019s complaint concerns several periods of detention. In the circumstances of the case, it is unable to conclude that those periods constituted a \u201ccontinuing\u201d situation (compare Fetisov and Others v. Russia, nos. 43710/07 and 3 others, \u00a7\u00a077, 17 January 2012) and will consider whether the applicant complied with the six-month rule in respect of each such period.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The Court observes that the applicant lodged the complaint in respect of the periods 28\u00a0July to 9\u00a0August 2005 and 22 to 30\u00a0September 2005 on 1\u00a0November 2005. It finds that the applicant thus complied with the six-month rule in respect of this part of the application. The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0As to the applicant\u2019s placement in a disciplinary cell during various periods between 17\u00a0January and 21\u00a0July 2006, the Court observes that this part of the complaint was not raised until 20\u00a0March 2012. Therefore, it must be rejected as lodged out of time in accordance with Article\u00a035 \u00a7\u00a7\u00a01 and\u00a04 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Article\u00a03",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0The general principles relating to the detention conditions of detainees are well established in the Court\u2019s case-law and have been summarised in the case of Ananyev (see Ananyev and Others, cited above, \u00a7\u00a7\u00a0139-42).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court notes that it has already examined in an earlier case against Russia a complaint about the conditions of detention in cell no.\u00a08 in correctional settlement facility no.\u00a0IK-13 in Nizhniy Tagil in August 2005 (see Dmitriy Rozhin v. Russia, no. 4265/06, \u00a7\u00a7\u00a052-53, 23 October 2012). In Rozhin, the Court established that the applicant had been detained in the lack of personal space or privacy. Nevertheless, taking into account the cumulative effect of the conditions of Mr Rozhin\u2019s detention and the brevity of the detention period (11 days), the Court concluded that those conditions, although far from adequate, did not reach the threshold of severity required to classify the treatment as inhuman or degrading within the meaning of Article\u00a03 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The Court discerns nothing in the material submitted by the parties that would allow it to reach a different conclusion in the present case. On two occasions the applicant was detained in the same cell as Mr Rozhin. The periods of his detention lasted 12 and 8 days respectively. For 22 hours per day the applicant was confined to his cell where he was held under cramped and insalubrious conditions. The Court acknowledges that the applicant may have endured distress and hardship as a result of his detention in such conditions. Nevertheless, in the circumstances of the case, the Court does not consider that they reached the threshold of severity required for the treatment to be classified as inhuman or degrading within the meaning of Article 3 of the Convention (compare Fetisov and Others, cited above, \u00a7\u00a7\u00a0137-38).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Court therefore concludes that there has been no violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s detention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Article\u00a013",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0The Court notes that, although it has not found a violation of Article\u00a03 of the Convention in the present case, an \u201carguable claim\u201d clearly arises for the purpose of Article 13 of the Convention (compare Andrei Georgiev v. Bulgaria, no. 61507/00, \u00a7\u00a7\u00a063-68, 26 July 2007). It further notes that it has previously established that no effective remedy exists in Russian law enabling applicants to complain about the conditions of their detention in correctional settlement facility no. IK-13 in Nizhniy Tagil, Sverdlovsk Region (see paragraph 30 above). Accordingly, there has been a violation of Article 13 in conjunction with Article 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a01\u00a0(a) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "39.\u00a0\u00a0The applicant alleged under Articles\u00a05\u00a0\u00a7 1\u00a0(c) and\u00a013 of the Convention that he had been detained under a prison regime from 28\u00a0July to 9\u00a0August 2005 and from 22 to 30\u00a0September 2005 in contravention of the applicable domestic regulations. He further complained under Articles\u00a05\u00a0\u00a7\u00a01\u00a0(c), 8 and\u00a013 of the Convention that his arrest on 18\u00a0September 2005 had been unlawful. Lastly, the applicant complained under Article\u00a06 of the Convention that the national courts had reinstated a time-limit to permit the prosecutor to appeal against the decision of 19\u00a0August 2005 and had then quashed the said decision in contravention of the principle of legal certainty. The Court will examine the complaints under Article\u00a05\u00a0\u00a7\u00a01\u00a0(a) of the Convention which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court[.]\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "40.\u00a0\u00a0As regards the applicant\u2019s placement in a disciplinary cell upon his arrival, the Government submitted that, under the applicable regulations, convicts were to be placed in quarantine upon arrival at a correctional settlement facility. Due to the absence of such quarantine quarters in facility no.\u00a0IK-13 in Nizhniy Tagil, the applicant had been placed in a disciplinary block but, during the relevant periods of detention, he had not been subjected to a prison regime. As to the applicant\u2019s arrest on 18\u00a0September 2005, the Government submitted that, since the court order authorising the applicant\u2019s release on parole had been quashed on 16\u00a0September 2005 on appeal, with that appeal judgment becoming effective immediately, the applicant had been bound to continue serving the sentence imposed by the judgment of 19\u00a0May 2004. Therefore, on 18\u00a0September 2005 he had been re-arrested and taken back to the facility. The reinstatement of a time-limit permitting the prosecutor to appeal against the decision of 19\u00a0August 2005 had been conducted in strict accordance with the applicable rules of criminal procedure. In any event, the Government considered that the applicant had not brought his grievances concerning his arrest on 18\u00a0September 2005 to the attention of domestic courts or the prosecutor\u2019s office and that the complaint should be dismissed for the applicant\u2019s failure to exhaust the domestic remedies.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0The applicant maintained his complaints.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Detention from 28\u00a0July to 9\u00a0August 2005 and from 22 to 30\u00a0September 2005",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court observes, and the parties did not argue to the contrary, that the applicant did not appeal against the prosecutor\u2019s decision of 22\u00a0November 2005. Accordingly, there are grounds for considering that he has failed to exhaust the available domestic remedies. However, under Rule\u00a055 of the Rules of Court, any plea of inadmissibility must be raised by the respondent Contracting Party in its written or oral observations on the admissibility of the application. Accordingly, the normal practice of the Convention organs has been, where a case has been communicated to the respondent Government, not to declare the application inadmissible for failure to exhaust domestic remedies unless this matter has been raised by the Government in their observations (see K. and T. v. Finland [GC], no.\u00a025702/94, \u00a7 145, ECHR 2001-VII, and N.C. v. Italy [GC], no.\u00a024952/94, \u00a7\u00a044, ECHR 2002X).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0In the present case, no such plea of inadmissibility was made by the Government in their written observations. It follows that \u2012 despite the Court\u2019s well-established case-law that the applicant is required to bring his grievances to the attention of a competent domestic court before raising them before the Court \u2012 the applicant\u2019s complaint in this respect cannot be rejected by the Court on the grounds that the domestic remedies have not been exhausted.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Court notes that this part of the application is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court observes that it has examined a similar situation in respect of the same penal institution in an earlier case against Russia (see Dmitriy Rozhin, cited above, \u00a7\u00a7\u00a060-61). In that case, the Court took into account the national courts\u2019 finding that the applicant, who had been ordered to serve his sentence in a correctional settlement facility, had been placed in a prison-type cell in contravention of applicable laws, and found that during the period under consideration the applicant\u2019s detention had not been \u201cin accordance with a procedure prescribed by law\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0Having examined the material submitted by the parties, the Court sees no reason to hold otherwise in this case. It notes that proper quarantine quarters at the correctional settlement were not set up until November 2005 and that the applicant had been detained, as claimed, in a prison-type cell upon arrival, in contravention of applicable laws. It thus finds that from 28\u00a0July to 9\u00a0August and from 22 to 30\u00a0September 2005 the applicant\u2019s detention was not \u201cin accordance with the procedure prescribed by law\u201d, and there has, accordingly, been a violation of Article\u00a05\u00a0\u00a7\u00a01\u00a0(a) of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Re-arrest on 18\u00a0September 2005",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "47.\u00a0\u00a0As to the Government\u2019s argument that the applicant failed to bring his grievances to the attention of a competent court or a prosecutor, the Court notes that, as explained by the Government, on 16\u00a0September 2005 the appeal court quashed the decision of 19\u00a0August 2005 authorising the applicant\u2019s release on parole. The appeal court\u2019s decision came into effect immediately. The Government did not explain why, in such circumstances, it was incumbent on the applicant to lodge another complaint, and whether the remedies referred to were capable of affording appropriate redress or producing a preventive effect. Accordingly, the Court dismisses the Government\u2019s objection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0It notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The Court reiterates that the expressions \u201clawful\u201d and \u201cin accordance with a procedure prescribed by law\u201d in Article 5 \u00a7 1 essentially refer back to national law and state the obligation to conform to the substantive and procedural rules thereof. However, the \u201clawfulness\u201d of detention under domestic law is not always the decisive element. The Court must also be satisfied that detention during the period under consideration was compatible with the purpose of Article 5 \u00a7 1 of the Convention, which is to prevent persons from being deprived of their liberty in an arbitrary fashion (see, among other authorities, Khudoyorov v. Russia, no.\u00a06847/02, \u00a7\u00a0124, ECHR 2005X (extracts)).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0The Court must, moreover, ascertain whether the domestic law is itself in conformity with the Convention, including the general principles expressed or implied therein. On this last point the Court stresses that, where deprivation of liberty is concerned, it is particularly important that the general principle of legal certainty be satisfied. It is therefore essential that the conditions for deprivation of liberty under domestic law be clearly defined and that the law itself be foreseeable in its application, so that it meets the standard of \u201clawfulness\u201d set by the Convention, a standard which requires that all law be sufficiently precise to allow the person \u2013 if need be, with appropriate advice \u2013 to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see Je\u010dius v.\u00a0Lithuania, no.\u00a034578/97, \u00a7 56, ECHR 2000IX, and Baranowski v.\u00a0Poland, no.\u00a028358/95, \u00a7\u00a7 50-52, ECHR 2000III).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0Turning to the circumstances of the present case, the Court observes that on 16\u00a0September 2005 the Regional Court quashed the decision authorising the applicant\u2019s release on parole and remitted the matter to the District Court for fresh consideration. The Regional Court\u2019s decision, however, remained silent as to the applicant\u2019s situation pending a new parole hearing. The Regional Court did not indicate whether and when the applicant should be remanded in custody. Nor did it specify the period or the grounds for such detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court accepts that the applicant\u2019s situation was not entirely typical. The decision authorising his release on parole came into force and the applicant was released. At the time when the prosecutor appealed against the said decision, the applicant was already at liberty. In such circumstances, the Court considers that it was incumbent on the Regional Court, when quashing the decision on the applicant\u2019s release on parole, to address the issue of the applicant\u2019s obligations as regards serving his sentence pending a new parole hearing. The Regional Court\u2019s failure to address this issue is tantamount to overriding Article 5, a provision which makes detention an exceptional departure from the right to liberty and one that is permissible only in exhaustively enumerated and strictly defined cases (compare, among other authorities, Khudoyorov, cited above, \u00a7\u00a0142, and Vasiliy Vasilyev v. Russia, no.\u00a016264/05, \u00a7 73, 19 February 2013). Lastly, the Court notes that the Government have not relied on any specific domestic legal provision that would allow the judge to dispense with the delivery of a ruling on the applicant\u2019s remand in custody following his release on parole.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0The Court therefore considers that there has been a violation of Article 5 \u00a7 1\u00a0(a) of the Convention on account of the applicant\u2019s re-arrest on 18\u00a0September 2005.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Reinstatement of a time-limit permitting the prosecutor\u2019s appeal",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court observes, and the Government has indicated in their submissions, that on 16\u00a0September 2005 the Regional Court dismissed the applicant\u2019s appeal against the decision of 1\u00a0September 2005 whereby the Town Court reinstated a time-limit, thus permitting the prosecutor to appeal. In such circumstances, the Court considers that the applicant made use of the remedies available to him at domestic level and concludes that the Government\u2019s objection of non-exhaustion must therefore be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The Court further notes that it has found that the applicant\u2019s re-arrest on 18\u00a0September 2005 following the quashing of the decision authorising his release on parole amounted to a violation of Article\u00a05\u00a0\u00a7\u00a01\u00a0(a). In such circumstances it does not consider it necessary to examine separately the applicant\u2019s grievances concerning the reinstatement of the time-limit permitting the prosecutor\u2019s appeal and the subsequent quashing of the decision authorising his release on parole.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION ON ACCOUNT OF THE APPLICANT\u2019S ALLOCATION TO A PENAL INSTITUTION IN NIZHNIY TAGIL",
+                        "elements": [
+                            {
+                                "content": "56.\u00a0\u00a0The applicant complained that the authorities\u2019 decision to send him to a penal institution located in Nizhniy Tagil, Sverdlovsk Region, had been incompatible with Article\u00a08 of the Convention, which reads, is so far as relevant, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his ... family life ....",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "57.\u00a0\u00a0The Government contested that argument. They submitted that, pursuant to national laws, former law enforcement officers convicted of a criminal offence were, for safety reasons, to serve their sentences in establishments designated to house only former judiciary and lawenforcement officers. At the time of the applicant\u2019s conviction, such establishments did not exist in Russia. Former law enforcement officers had been allocated to a number of penal institutions with sections to accommodate them. The number of offenders that could be allocated to those sections was limited. The applicant had been sent to the Sverdlovsk Region since there was no suitable facility available for him closer to his family home in Moscow. The Government also considered that the applicant\u2019s complaint should be dismissed for his failure to raise it at the domestic level before a court or a prosecutor.",
+                                "elements": []
+                            },
+                            {
+                                "content": "58.\u00a0\u00a0The applicant challenged the veracity of the Government\u2019s submissions. He claimed that at the time of his conviction there had existed a specialised correctional settlement for accommodating former law enforcement officers in the Smolensk Region, which was much closer to his family home in Moscow. Alternatively, he could have been allocated to a penal institution in the Ryazan Region which had a section for accommodating former law enforcement officers.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0As regards the Government\u2019s objection that the applicant had failed to exhaust effective domestic remedies in respect of his complaint and that it had been incumbent on him to complain to a prosecutor or a court, the Court observes that the applicant was ordered to serve his sentence in an establishment located some 1,800 km away from his place of residence pursuant to the FSIN\u2019s decision of 26\u00a0May 2005 (see paragraph\u00a07 above). However, having examined the evidentiary materials submitted by the Government, the Court is unable to establish whether in the circumstances it would indeed have been possible for the applicant to appeal against the said decision. The Government has not submitted any material to the Court that would enable it to establish whether the applicant was aware of the existence of the FSIN\u2019s decision, and, if so, whether he would have been provided with an opportunity to challenge it. Nor has the Court been familiarised with its contents, no copy of it having been produced by the Government. In such circumstances, the Court cannot accept that the appeal against that decision which the Government claimed the applicant was required to lodge would have been readily available or accessible to him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0It follows that the applicant cannot be said to have failed to exhaust domestic remedies in respect of his complaint. The Government\u2019s objection regarding the non-exhaustion of domestic remedies must therefore be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court also notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The principles as regards prisoners\u2019 right to private and family life are well-established in the Court\u2019s case-law and have been summarised, inter alia, in the case of Polyakova and Others (see Polyakova and Others v.\u00a0Russia, no.\u00a035090/09 and 3 others, \u00a7\u00a7\u00a084-89, 7 March 2017).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The Court accepts, and it is not disputed by the parties, that, in the circumstances of the case in question the authorities\u2019 decision to allocate the applicant to a remote establishment for the purposes of serving his sentence amounted to an interference with his right to respect for family life (see, by contrast, McCotter v. the United Kingdom, no. 20479/92, Commission decision of 1\u00a0September 1993).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The Court further notes that the thrust of the applicant\u2019s complaint is the alleged arbitrariness of the authorities\u2019 decision to allocate him to such a remote establishment. He did not argue that their decision had had no basis in domestic law or that the quality of the applicable law had fallen short of Convention standards. In such circumstances \u2012 and bearing in mind that the Court\u2019s task is to examine the issues raised in a particular case before it (compare Sommerfeld v. Germany [GC], no. 31871/96, \u00a7\u00a086, ECHR\u00a02003VIII (extracts), and Taxquet v. Belgium [GC], no. 926/05, \u00a7\u00a083, in fine, ECHR 2010) \u2012 the Court considers that it is possible to dispense with a ruling as to the quality of applicable law. It notes that this question is, in any event, closely related to the broader issue of whether the interference was necessary in a democratic society. Furthermore, in view of the fact that the applicant was a former law-enforcement officer, the Court can accept that his allocation to the penal institution in Nizhniy Tagil was intended to ensure the safety and security of his person (compare Khodorkovskiy and Lebedev v. Russia, nos. 11082/06 and 13772/05, \u00a7\u00a7\u00a0843-45, 25 July 2013).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0In determining whether or not the impugned measure was \u201cnecessary in a democratic society\u201d, the Court will consider whether, in the light of the case as a whole, the reasons adduced to justify it were relevant and sufficient and whether the measure was proportionate to the legitimate aim pursued (see, for example, Peck v. the , no. 44647/98, \u00a7\u00a076, ECHR\u00a02003I). The Court further reiterates that whilst Article\u00a08 of the Convention contains no explicit procedural requirement, the decisionmaking process leading to the measure of interference must be fair and such as to afford due respect to the interests safeguarded by Article\u00a08 (see McMichael v. the United Kingdom, 24 February 1995, \u00a7\u00a087, Series\u00a0A no.\u00a0307B).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Court notes that the Government\u2019s submissions remain silent as to the procedure employed by the authorities when the decision concerning the applicant\u2019s placement in the penal institution in Nizhniy Tagil was made. From the documents submitted by the Government it is apparent only that the relevant decision was made by the FSIN. There is nothing in the evidentiary materials before the Court to suggest that the applicant could have attended the relevant hearing, if any. Nor was he provided with any opportunity to make submissions to the decision body or to object to the decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0Accordingly, in the Court\u2019s opinion, when deciding to send the applicant some 1,800 km away from his family, the domestic authorities did not ensure a proper balance of interests between those of the applicant and those of the public, and the applicant was not provided with an opportunity to be heard on a matter of importance. Nor did the Government demonstrate that there were compelling concerns preventing such an opportunity being granted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0As a result, the applicant did not know whether the decision complied with the law and what the reasoning behind it was, even though such information could have been important for him. In that connection, the Court emphasises that any interference with family life is serious and the person affected should in principle be able to have the proportionality and reasonableness of the measure determined by an independent decisionmaking body in the light of the relevant principles of Article 8 of the Convention. However, the applicant was not afforded such an opportunity.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The above considerations are sufficient for the Court to conclude that the applicant was not able to ascertain whether the interference with his rights set out in Article\u00a08 was carried out in accordance with due process. The domestic authorities did not provide an effective review of the lawfulness and necessity of the contested measure and failed to furnish sufficient safeguards against arbitrariness within the meaning of Article\u00a08\u00a0\u00a7\u00a02 of the Convention. There has therefore been a violation of Article\u00a08 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "70.\u00a0\u00a0Lastly, the applicant alleged under Article\u00a03 of the Convention that he had not been provided with proper medical assistance while in custody. He also alleged that the authorities had failed to comply with their obligations set out in Article\u00a034 of the Convention. However, on the basis of the material in its possession and in so far as those complaints fall within its competence, the Court finds that there is no appearance of a violation of the rights and freedoms set out in the Convention. It follows that this part of the application must be rejected as manifestly ill-founded, pursuant to Article\u00a035 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "71.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "72.\u00a0\u00a0The applicant did not submit a claim for just satisfaction. Accordingly, the Court considers that there is no call to award him any sum on that account.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints concerning the conditions and lawfulness of the applicant\u2019s detention from 28 July to 9\u00a0August and from 22 to 30\u00a0September 2005, the alleged lack of an effective remedy in respect of the applicant\u2019s complaint about the conditions of detention, the lawfulness of the applicant\u2019s re-arrest on 18 September 2005, the revocation of the applicant\u2019s release on parole and the applicant\u2019s allocation to a penal institution in Nizhniy Tagil admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention on account of the lack of an effective remedy in respect of the applicant\u2019s complaint under Article\u00a03 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 5\u00a0\u00a7\u00a01\u00a0(a) of the Convention on account of the applicant\u2019s placement in a disciplinary cell from 28\u00a0July to 9\u00a0August and from 22 to 30\u00a0September 2005;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 5\u00a0\u00a7\u00a01\u00a0(a) of the Convention on account of the applicant\u2019s re-arrest on 18\u00a0September 2005;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there is no need to examine the complaint under Article\u00a05\u00a0\u00a7\u00a01\u00a0(a) of the Convention concerning the reinstatement of a timelimit for the prosecutor\u2019s appeal and the subsequent quashing of the decision authorising the applicant\u2019s release on parole;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention on account of the applicant\u2019s allocation to the penal institution in Nizhniy Tagil.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 3 April 2018, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "president"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "Jolien Schukking",
+            "role": "judges"
+        },
+        {
+            "name": "Fato\u015f Arac\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF TREPASHKIN v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-181878.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:0403JUD003447305",
+    "externalsources": [],
+    "extractedappno": [
+        "34473/05",
+        "42525/07",
+        "60800/08",
+        "5993/08",
+        "43710/07",
+        "4265/06",
+        "61507/00",
+        "25702/94",
+        "24952/94",
+        "6847/02",
+        "34578/97",
+        "28358/95",
+        "16264/05",
+        "35090/09",
+        "20479/92",
+        "31871/96",
+        "926/05",
+        "11082/06",
+        "13772/05",
+        "44647/98"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-181878",
+    "judgementdate": "03/04/2018 00:00:00",
+    "kpdate": "03/04/2018 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "448",
+        "220",
+        "339",
+        "18",
+        "451",
+        "425",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "5-1-a",
+        "3",
+        "8",
+        "8-1",
+        "5-1",
+        "5",
+        "13"
+    ],
+    "parties": [
+        "TREPASHKIN",
+        "RUSSIA"
+    ],
+    "rank": "2321.00952148438",
+    "representedby": [
+        "LIPTSER Ye."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "473654",
+    "typedescription": "15"
+}

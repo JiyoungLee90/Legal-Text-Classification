@@ -1,0 +1,490 @@
+{
+    "__articles": "6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Criminal proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "51894/14;52073/14",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-200555.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in two applications (nos. 51894/14 and 52073/14) against the Slovak Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Slovak companies, framipek s.r.o. and AGRORACIO Senica, a.s. (\u201cthe applicant companies\u201d), on 13 and 15\u00a0July 2014, respectively.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant companies were represented by Mr B. Fridrich, a lawyer practising in Bratislava. The Government of the Slovak Republic (\u201cthe Government\u201d) were represented by their Agent, Ms M. Piro\u0161\u00edkov\u00e1.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 2 June 2017 notice of the applications were given to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The Government objected to the examination of the applications by a Committee. After having considered the Government\u2019s objection, the Court rejects it.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The first applicant company, framipek s.r.o., is a limited liability company with its registered office in \u0160enkvice. The second applicant company, AGRORACIO Senica, a.s., is a joint stock company with its registered office in Senica \u010c\u00e1\u010dov. On 20 January 2017 the second applicant company changed its name to BALVI INVEST a. s. and its registered office to Bratislava.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0In 2000 both applicant companies concluded business contracts with a company B. with a view to obtaining financial investment and provided it with a sum of money. However, the latter company failed to perform the contracts whereby both applicant companies withdrew.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 18 October 2002 criminal proceedings were brought against an unknown person who, acting in the name of the company B., had concluded contracts with at least fifty-two businesses, had received sums of money from them but failed to perform the contracts. Thus, those businesses had suffered the equivalent of some 390,000 euros (EUR) worth of damage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 6\u00a0November 2002 and 29 May 2003, respectively, the statutory representatives of the applicant companies were interviewed by the Bansk\u00e1 Bystrica Regional Police Directorate in connection with the above-mentioned criminal proceedings. They specified three representatives of the company B., that is J. B., P. M. and B. \u0160., who had been present during the negotiation of the contested business contracts. During the interviews the statutory representatives of the applicant companies lodged civil-party claims for damages and specified the sums claimed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0At the beginning of the interview of 6\u00a0November 2002, the statutory representative of the first applicant company, M. \u010c., stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cI am self-employed, the co-owner and only statutory representative of the company framipek s.r.o. with its registered office in \u0160enkvice ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "After having described the negotiations with the representatives of the company B., he formulated his claim as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cHaving been informed under Article 43 of the [1961] Code of Criminal Procedure I\u00a0declare that I request to be paid the amount of SKK 510,766.90 [ca. EUR 16,954] as compensation for damage I incurred by the offence.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The statutory representative of the second applicant company, M. J., formulated the claim as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cFinally, as a statutory representative of the company Agroratio Senica s.r.o. Senica \u2013 \u010c\u00e1\u010dov, I declare that by the actions of the representatives of the company B. ... I incurred damage in the amount of SKK 1,035,672 [ca. EUR 34,378]. Having been informed under Article 43 of the [1961] Code of Criminal Procedure I state that I request to be reimbursed the abovementioned sum.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 29 December 2008 the criminal proceedings were discontinued on the ground that they did not concern a criminal offence. This decision was overturned by the Prosecutor General following an application lodged by some of the aggrieved parties, including the second applicant company. During subsequent investigation the documentary evidence was secured, witness statements obtained and bank account statements and other correspondence attached to the case file.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 7 December 2009 charges for a criminal offence of embezzlement were brought against two representatives of the company B., J. B. and P. M. Later, on 29 March 2010, that decision was quashed and the case remitted to the investigator for further examination.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 28 February 2013, the Bratislava I Police District Department discontinued the criminal proceedings again since there was no case to address. The decision was delivered on the applicant companies on 19\u00a0April 2013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0Both applicant companies challenged the discontinuation of the proceedings before the Bratislava Regional Prosecutor\u2019s Office which, on 5\u00a0August 2013, dismissed the interlocutory appeal of the first applicant company as unfounded and that of the second applicant company as belated. This decision was delivered on the first applicant company on 9\u00a0August 2013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On 3 and 8 October 2013 both applicant companies lodged constitutional complaints with the Constitutional Court, challenging the length of the proceedings before the law enforcement authorities in so far as they concerned their third-party claims for damages.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 12 December 2013 the Constitutional Court (files nos.\u00a0II.\u00a0\u00daS\u00a0660/2013 and II. \u00daS 661/2013) rejected both complaints, noting that an aggrieved party claiming damages in the criminal proceedings only benefited from the right to a hearing within a reasonable time under Article\u00a06 of the Convention after charges had been brought against a specific person. In that regard, the Constitutional Court observed that no charges against any specific person had been brought in the present case. Therefore, the applicant companies did not benefit from the constitutional guarantees relied upon.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "17. The relevant domestic law and practice regarding the third-party claims attached to the criminal proceedings are summarised in Javor and\u00a0Javorov\u00e1 v. Slovakia (no. 42360/10, \u00a7\u00a7 17 et seq., 15\u00a0September 2015).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0JOINDER OF THE APPLICATIONS",
+                        "elements": [
+                            {
+                                "content": "18.\u00a0\u00a0The Court considers that the two applications should be joined in accordance with Rule 42 \u00a7 1 of the Rules of Court, given their common factual and legal background.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE\u00a06\u00a0\u00a7\u00a01 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "19.\u00a0\u00a0The applicant companies complained that the length of the proceedings on their third-party claim for damages attached to the criminal proceedings had been incompatible with the \u201creasonable time\u201d requirement, laid down in Article\u00a06\u00a0\u00a7 1 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "20.\u00a0\u00a0The Government objected that the applications are incompatible ratione materiae with the provisions of the Convention. They relied on the position taken by the Constitutional Court in its decisions of 12\u00a0December 2013 and on the Court\u2019s decision in Podhradsk\u00fd v. Slovakia (no. 10212/11, 25\u00a0August 2015), considering that the applicant companies could not benefit from Article 6 guarantees because under the domestic law such guarantees only extended to compensation claims in criminal proceedings after charges had been brought against a specific person, whereas the criminal proceedings in the present cases were led against unknown persons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0The Government further challenged the formulation of the thirdparty claims by the applicant companies and argued that they had not directed their claims against specific persons. In the case of the first applicant company they also pointed out that its representative had not filed the compensation claim on behalf of the company.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0Referring to the Court\u2019s judgment in Javor and Javorov\u00e1 v. Slovakia (no. 42360/10, 15 September 2015), the applicant companies submitted that Article 6 guarantees apply to the third-party claims attached to the criminal proceedings from the moment those were made and in so far as they were joined to a criminal complaint against a specific defendant. They further argued that during the interviews their statutory representatives had specifically mentioned the names of the representatives of the company B. with whom they had negotiated and therefore their claims for damages were made against specific individuals.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0The Court reminds that the applicability of the reasonable time requirement under Article 6 \u00a7 1 of the Convention to the civil party claims for damages attached to the criminal proceedings in Slovakia was established in its previous case-law (see Javor and Javorov\u00e1, cited above, \u00a7\u00a7 46-48, with further references). The Court has also resolved the determination of the specific moment of the pre-trial stage of the proceedings from which a thirdparty claimant may benefit from the guarantees in question, namely the moment when his or her claims are made (ibid., \u00a7 48). In addition, the Court ruled that to be considered as having been properly made, such claim has to specify its defendant, legal basis and amount (ibid., \u00a7 63). Finally, the Court concluded that the above said guarantees apply to the third-party claims for damages only in so far as they are joined to a criminal complaint against a specific defendant or made subsequently to it (ibid., \u00a7 66).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0Turning to the first part of the Government\u2019s objection to the applicability of Article 6, the Court notes that it has already examined the same arguments in Javor and Javorov\u00e1 and concluded (ibid., 66) that Article 6 guarantees apply to third-party claims attached to the criminal proceedings from the moment they are made, regardless of whether criminal charges were brought against a specific person. It sees no reason to depart from this approach in the present case and therefore dismisses this part of the Government\u2019s objection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0The Government further objected that the statutory representatives of the applicant companies failed to direct their claims for damages against specific persons. The Court observes that during the interviews held on 6\u00a0November 2002 and 29 May 2003, respectively, the statutory representatives of the applicant companies specifically mentioned three representatives of the company B. who had been present during the negotiation of the contested business contracts (see paragraph 8 above). It therefore considers that they had specified the defendants and had properly submitted their third-party claim for damages.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0Furthermore, the Government asserted that the statutory representative of the first applicant company had not filed the claim for damages on behalf of the company. Referring to the wording of the interview held on 6\u00a0November 2002 (see paragraph 9 above) and to the fact that the domestic authorities had no doubt that the first applicant company was an aggrieved party in the criminal proceedings, the Court is satisfied that the claim for damages was lodged on behalf of the first applicant company. This part of the Government\u2019s objection must therefore likewise to be dismissed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The Court concludes that the complaint under Article 6 \u00a7 1 is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention, it is not inadmissible on any other grounds and must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "28.\u00a0\u00a0The applicant companies argued that the proceedings lasted too long due to inadequate and unprofessional approach of the law enforcement authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The Government disagreed and argued that the case was complex. They submitted a list of procedural steps taken by the domestic authorities in the impugned proceedings, including around 100 witness examinations and several requests for legal assistance from abroad, in particular from the Commonwealth of the Bahamas, United States of America, Antigua and Barbuda and Hungary.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicants and the relevant authorities and what was at stake for the applicants in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0It considers that, when assessing the reasonableness of the length of examination of the third-party claims attached to the criminal proceedings in the present case, regard should be had to the specific features of the given procedural framework, including the fact that the determination of a third-party claim in criminal proceedings in Slovakia is an auxiliary matter to the primary function of such proceedings which is to apply criminal law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The proceedings on the applicant companies\u2019 thirdparty claims commenced on 6 November 2002 and 29 May 2003, respectively, when their representatives had made their claims for damages, and ended with the discontinuation of the criminal proceedings with a final effect for the first applicant company on 9 August 2013 and for the second applicant company on 19\u00a0April 2013. Thus the proceedings lasted more than ten years and nine months in respect of the first applicant company and nearly ten years in respect of the second applicant company, without having gone beyond the pre-trial stage of the criminal proceedings and without having led to a single decision on the applicant companies\u2019 claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The Court observes that the impugned criminal proceedings were complex, involving 50 aggrieved parties, around 100 witnesses and multiple requests for international legal assistance. It has not been alleged, and the Court has found no indication, that the applicants contributed to the length of the proceedings. As regards the conduct of the authorities, they regularly carried out investigation steps, examined witnesses, imposed fines on those who had failed to appear for witness examination and cooperated with foreign authorities. Nevertheless, the Court is unable to ignore that the entire proceedings lasted around ten years.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the length of the proceedings under review did not comply with the \u201creasonable time\u201d requirement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There has accordingly been a violation of Article 6 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE\u00a013 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "35.\u00a0\u00a0The applicant companies complained that they did not have an effective remedy in connection with their complaint, contrary to Article 13 of the Convention in conjunction with Article 6 of the Convention. Article\u00a013 reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0The applicant companies asserted that they had been deprived of an effective remedy in regard to their complaint about the length of proceedings. They relied on Article 13 of the Convention and referred to the case of B\u00edro v. Slovakia (no.2) (no. 57678/00, 27 June 2006) where the Court found a violation of this provision in similar circumstances.",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0The Government argued that the applicants had no arguable claim under Article 13 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "38.\u00a0\u00a0In light of the above the Court notes that this complaint is linked to the one already examined and must therefore be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0The Court reiterates that Article 13 guarantees an effective remedy before a national authority for an alleged breach of the requirement under Article 6 \u00a7 1 to hear a case within a reasonable time (Kud\u0142a v. Poland [GC], no. 30210/96, \u00a7 156, ECHR 2000-XI).",
+                                "elements": []
+                            },
+                            {
+                                "content": "40.\u00a0\u00a0On 12 December 2013 the Constitutional Court declared inadmissible the constitutional complaints of the applicant companies concerning the length of the proceedings on their third-party claims for compensation attached to criminal proceedings, considering that they did not enjoy a right to have their claims determined expeditiously because no charges against a specific person had been brought.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0The Court has already found that such position of the Constitutional Court as regards the applicability of the Article 6 guarantees to third-party claims prior to the bringing of charges against a specific person lacks the basis in the practice of the ordinary courts on which it relies (see Javor and\u00a0Javorov\u00e1, cited above, \u00a7 58); it has also observed that, once a criminal complaint is lodged, the law enforcement authorities in Slovakia are under a duty to follow it through (see see Javor and Javorov\u00e1, cited above, \u00a7 65).",
+                                "elements": []
+                            },
+                            {
+                                "content": "42.\u00a0\u00a0It follows from the above considerations that the constitutional complaint made under Article 127 of the Constitution is ineffective in respect of the complaints concerning the length of proceedings on third-party claims for damages in situations where no criminal charges have been brought (see, mutatis mutandis, B\u00edro (no.2), cited above, \u00a7 57).",
+                                "elements": []
+                            },
+                            {
+                                "content": "43.\u00a0\u00a0The Court concludes that the applicant companies have not had at their disposal an effective remedy in relation to their length-of-proceedings complaint.",
+                                "elements": []
+                            },
+                            {
+                                "content": "There has accordingly been a violation of Article 13 of the Convention in conjunction with Article 6.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "44.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "45.\u00a0\u00a0The applicant companies claimed 10,000 euros (EUR) each in respect of non-pecuniary damage for the violation of Article 6 \u00a7 1 of the Convention and EUR 4,000 euros each in respect of non-pecuniary damage for the violation of Article 13 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0The Government contested these claims and submitted that should the Court find a violation of the Convention, it shall award compensation for non-pecuniary damage in an adequate manner.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The Court considers that the applicant companies must have sustained non-pecuniary damage. Ruling on an equitable basis and taking into account all circumstances of the case, it awards EUR 7,300 to the first applicant company and EUR 6,400 to the second applicant company, plus any tax that may be chargeable, in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The applicant companies claimed EUR\u00a01,638 and EUR\u00a01,470, respectively, in respect of legal costs incurred in the proceedings before the Court. In addition, they claimed EUR\u00a01,020 each in respect of legal costs incurred at the domestic level. Furthermore, the second applicant company claimed EUR\u00a068.30 in respect of the costs related to obtaining photocopies of the documents from the investigation file.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Government contested the claims in respect of legal costs incurred at the domestic level as insufficiently specified and asked the Court to dismiss this part of the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award EUR 2,658 to the first applicant company and EUR 2,558 to the second applicant company, plus any tax that may be chargeable to the applicant companies, covering costs under all heads.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to join the applications;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the applications admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article\u00a06\u00a0\u00a7\u00a01 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention in conjunction with Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant companies, within three months, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant companies\u2019 claims for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 28 January 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and\u00a03 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Dmitry Dedov",
+            "role": "president"
+        },
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "judges"
+        },
+        {
+            "name": "Gilberto Felici",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF FRAMIPEK S.R.O. v. SLOVAKIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-200555.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:0128JUD005189414",
+    "externalsources": [],
+    "extractedappno": [
+        "51894/14",
+        "52073/14",
+        "42360/10",
+        "10212/11",
+        "30979/96",
+        "57678/00",
+        "30210/96"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-200555",
+    "judgementdate": "28/01/2020 00:00:00",
+    "kpdate": "28/01/2020 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "6",
+        "6-1",
+        "13"
+    ],
+    "parties": [
+        "FRAMIPEK S.R.O.",
+        "SLOVAKIA"
+    ],
+    "rank": "4741.24267578125",
+    "representedby": [
+        "FRIDRICH B."
+    ],
+    "respondent": "SVK",
+    "respondentOrderEng": "42",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "495544",
+    "typedescription": "15"
+}

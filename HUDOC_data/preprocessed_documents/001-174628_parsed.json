@@ -1,0 +1,386 @@
+{
+    "__articles": "6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Civil proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "57405/15",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-174628.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 57405/15) against the Slovak Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Slovak national, Mr Tibor Ivan (\u201cthe applicant\u201d), on 11\u00a0November 2015.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms A. Havelkov\u00e1, a lawyer practising in \u017dilina. The Government of the Slovak Republic (\u201cthe Government\u201d) were represented by their Agent, Ms M. Piro\u0161\u00edkov\u00e1.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 2 March 2016 the application was communicated to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The Government objected to the examination of the application by a\u00a0Committee. Having considered the Government\u2019s objection, the Court rejects it.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1960 and lives in Martin.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 20 October 2011 the applicant lodged a claim with the Martin District Court (\u201cthe District Court\u201d) (file no. 10 C 60/2012), seeking payment of his wages plus interest in connection with the termination of his employment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 17 February 2012 the District Court issued a payment order in summary proceedings. As the defendant challenged the order, the matter fell to be determined by the court in ordinary proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0It took the District Court more than eight months to deal with an application by the applicant to change the particulars of claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0In October 2014 the applicant lodged a complaint with the Constitutional Court under Article 127 of the Constitution, contesting the length of the proceedings before the District Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0On 28 April 2015 the Constitutional Court rejected his complaint (file no.\u00a0III. \u00daS 172/20150), on the grounds that, prior to lodging his constitutional complaint, the applicant had failed to exhaust ordinary remedies, in particular lodging a complaint with the President of the District Court under the Courts Act (Law no. 757/2004 Coll.).",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Constitutional Court referred to the Court\u2019s previous case-law in I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1 v. Slovakia (no. 30189/07, 12 June 2012), and tried to distinguish that case from the applicant\u2019s case. It observed that the case of I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1 concerned proceedings lasting more than six years, which was substantially longer than the duration of the proceedings in the applicant\u2019s case (three years). The Constitutional Court further stated that only in cases where the length of proceedings was prima facie excessive at the time of lodging a constitutional complaint was it not necessary to lodge a complaint with the president of a court, and therefore the applicant should have lodged a complaint with the President of the District Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0In the meantime, the District Court had appointed an expert in economics, accountancy and tax, and had ordered the applicant to pay fees in advance for the expert evidence. That order was challenged by the applicant before the \u017dilina Regional Court, but to no avail. The appointed expert then prepared her opinion between June and September 2015.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0Subsequently, the District Court scheduled a hearing for 16\u00a0March\u00a02016. On that date the District Court delivered a judgment by which it granted the applicant\u2019s claim in part and dismissed the remainder of the claim. A written judgment was delivered to the applicant two months later. However, in their submissions to the Court the parties failed to specify the exact date when the judgment was served on the applicant, and they did not provide appropriate evidence to confirm this. They also did not inform the Court about any possible further development in the proceedings.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 AND ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "13.\u00a0\u00a0The applicant complained that the length of the proceedings had been incompatible with the \u201creasonable time\u201d requirement. In this respect, he relied on Article 6 \u00a7 1 and Article 13 of the Convention, the relevant parts of which read:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a\u00a0... hearing within a reasonable time by [a] ... tribunal...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "14.\u00a0\u00a0The Government disagreed. They referred to the Constitutional Court\u2019s finding that, before lodging his constitutional complaint, the applicant had failed to raise the issue of the length of the proceedings with the President of the District Court, in order to give the President a chance to\u00a0remedy the situation. Since the length of the proceedings in the present case had been shorter than that of proceedings previously assessed by the Court (see, for example, I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1, cited above), the requirement to lodge a\u00a0complaint with the President of the District Court prior to taking the case to the Constitutional Court had been justified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Consequently, the Government, pointing out the difference between the previous case of I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1 (cited above) and the applicant\u2019s case, sought guidance from the Court in order to clarify the issue.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The applicant disagreed. He reiterated that the length of the civil proceedings in his case had already been prima facie excessive at the time he had lodged his constitutional complaint. He further stated that the Constitutional Court\u2019s approach in differentiating between the specific lengths of proceedings also ran counter to the legal certainty principle, since the Constitutional Court was not unified on this subject. In addition, he pointed out that, for a remedy to be effective, it should offer redress for proceedings of any length \u2013 those lasting three years as well as those lasting twenty years, otherwise this was incompatible with the requirements of the very notion of effectiveness.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0At the outset, the Court observes that it is unclear from the Government\u2019s submission on which inadmissibility ground of the Convention they wished to rely. However, it also notes that they referred to the Constitutional Court\u2019s inadmissibility decision which principally dealt with the applicant\u2019s having made use of the constitutional remedy in accordance with the applicable rules, in particular the rule of exhaustion of ordinary remedies (see paragraphs 10 and 14 above). Therefore, the Court is of the view that the Government\u2019s objection in fact concerned the requirement to exhaust domestic remedies under Article 35 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0In this connection, the Court recalls that in I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1 (cited above, \u00a7\u00a7 77\u201391), in respect of the applicants\u2019 length-of-proceedings complaint, it thoroughly examined their compliance with the exhaustion requirement under Article 35 \u00a7 1 of the Convention. It also reiterated those principles in detail in a recent judgment (see Gre\u0161\u00e1kov\u00e1 v. Slovakia (dec.) [Committee], no. 77164/12, \u00a7\u00a7 16-20, 22 November 2016), and sees no need to repeat them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0Turning to the facts of the present case, the Court considers that the applicant\u2019s situation is similar to that of Mr I\u0161tv\u00e1n and Ms I\u0161tv\u00e1nov\u00e1 and Ms\u00a0Gre\u0161\u00e1kov\u00e1 from the point of view of exhaustion requirement under Article 35 \u00a7 1 of the Convention. This is so because his access to the Constitutional Court under Article 127 of the Constitution became dependent on his exhaustion of a\u00a0complaint to the President of the District Court under the Courts Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0Thus, in so far as the Government\u2019s objection of nonexhaustion of domestic remedies in the present case has been substantiated, the Court finds no relevant distinction between this case and other cases, such as I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1 and Gre\u0161\u00e1kov\u00e1. Accordingly, their objection must be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Having regard to its established case-law on this subject, the Court finds that the Article 6 \u00a7 1 complaint is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention, and that no other grounds for declaring it inadmissible have been established. Accordingly, it must be declared admissible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court considers that the complaint under Article 13 of the Convention, which is linked to the complaint under Article\u00a06 \u00a7 1, must likewise be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "22.\u00a0\u00a0The parties have not made any separate observations on the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case, and with reference to the following criteria: the complexity of the case, the conduct of the applicant and the relevant authorities, and what was at stake for the applicant in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0The Court has frequently found violations of Article 6 \u00a7 1 of the Convention in cases raising issues similar to the one in the present case (see Frydlender, cited above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0In the present case, the period to be taken into consideration began on 20 October 2011 and ended on 16 March 2016, when the District Court delivered its judgment (see paragraph 12 above). It thus lasted four years, four months and twentyseven days at one level of jurisdiction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0Having examined all the material submitted to it, the Court considers that the Government have not put forward any fact or argument capable of persuading it to reach a different conclusion in the present case. Having regard to its case-law on the subject, the Court considers that, in the instant case, the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Accordingly, there has been a breach of Article 6 \u00a7 1.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Furthermore, the Court notes that the Government have submitted no observations at all in respect of the Article 13 complaint. In view of the conclusions reached above as regards the exhaustion of domestic remedies in respect of the complaint under Article 6 \u00a7 1 of the Convention, the Court finds, as it has previously in similar circumstances (see I\u0161tv\u00e1n and I\u0161tv\u00e1nov\u00e1, cited above, \u00a7 113), that the applicant did not have an effective remedy in respect of his complaint regarding the length of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Accordingly, there has also been a violation of Article 13, in conjunction with Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "28.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0The applicant requested to be awarded pecuniary damage of 2,500\u00a0euros (EUR) consisting of lost wages and associated claims. He also claimed EUR 30,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The Government contended that there was no causal link between the pecuniary damage alleged by the applicant and the alleged breach of Article 6 \u00a7 1 of the Convention. They further submitted that the claim in respect of nonpecuniary damage was overstated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The Court observes that the applicant has not shown the existence of a causal link between the violation found and the pecuniary damage alleged. It therefore dismisses this claim. On the other hand, the Court considers that the applicant must have sustained non-pecuniary damage. Ruling on an equitable basis, it awards him EUR 2,600 under that head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The applicant also claimed EUR 1,540.90 for costs and expenses incurred before the Constitutional Court and before the Court. He supported his claim by providing contracts for legal assistance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The Government requested that the Court only grant the applicant compensation for reasonably incurred costs and expenses which were supported by relevant documents.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0Regard being had to the documents in its possession and to its caselaw, the Court considers it reasonable to award the sum of EUR 1,540 to cover costs under all heads.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention, in conjunction with Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a\u00a0rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 27 June 2017, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Helen Keller",
+            "role": "president"
+        },
+        {
+            "name": "Pere Pastor Vilanova",
+            "role": "judges"
+        },
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF IVAN v. SLOVAKIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-174628.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0627JUD005740515",
+    "externalsources": [],
+    "extractedappno": [
+        "57405/15",
+        "30189/07",
+        "77164/12",
+        "30979/96"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-174628",
+    "judgementdate": "27/06/2017 00:00:00",
+    "kpdate": "27/06/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "6",
+        "6-1",
+        "13"
+    ],
+    "parties": [
+        "IVAN",
+        "SLOVAKIA"
+    ],
+    "rank": "1911.083984375",
+    "representedby": [
+        "HAVELKOVA A."
+    ],
+    "respondent": "SVK",
+    "respondentOrderEng": "42",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "465541",
+    "typedescription": "15"
+}

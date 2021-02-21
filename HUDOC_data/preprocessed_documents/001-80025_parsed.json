@@ -1,0 +1,1410 @@
+{
+    "__articles": "2;2-1;3;5;5-1;13;13+2;38;41",
+    "__conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Deprivation of liberty;Liberty of person;Security of person);Violation of Article 13+2 - Right to an effective remedy (Article 13 - Effective remedy) (Article 2 - Right to life;Article 2-1 - Effective investigation);Violation of Article 38 - Examination of the case-{general} (Article 38 - Examination of the case);Pecuniary and non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "74237/01",
+    "article": [
+        "3",
+        "38",
+        "2",
+        "5",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Effective investigation"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Deprivation of liberty",
+                "Liberty of person",
+                "Security of person"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "38",
+            "base_article": "38",
+            "details": [
+                "Article 38 - Examination of the case"
+            ],
+            "element": "Violation of Article 38 - Examination of the case-{general}",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary and non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-80025.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 74237/01) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Asmart Baysayeva (\u201cthe applicant\u201d), on 24 August 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by lawyers of the Stichting Russian Justice Initiative (\u201cSRJI\u201d), an NGO based in the Netherlands with a representative office in . The Russian Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0P.\u00a0Laptev, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that her husband had disappeared after being detained by Russian servicemen in  in March 2000. She relied on Articles 2, 3, 5, 6 and 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0By a decision of 1 December 2005, the Court declared the application admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The applicant and the Government each filed further written observations (Rule 59 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "6.\u00a0\u00a0The applicant, Asmart Magomedovna Baysayeva, was born in 1958 and lives in the village of Pobedinskoye, Grozny district, .",
+                        "elements": []
+                    },
+                    {
+                        "content": "A.\u00a0\u00a0The circumstances of the case",
+                        "elements": [
+                            {
+                                "content": "7.\u00a0\u00a0The facts of the case, as submitted by the parties, may be summarised as follows.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0\u00a0\u201cDisappearance\u201d of the applicant's husband",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0The applicant lives in the village of Pobedinskoye in the  district. The applicant's husband, Shakhid Baysayev, born in 1939, worked in the neighbouring  (also referred to sometimes as Sobachevki) as a mechanic with a municipal transport company. The applicant had been married to her husband for 25 years and had five children.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 2 March 2000 the applicant's husband left for work at about 6.30\u00a0a.m. The road to the  went through a Russian military checkpoint, at that time known as checkpoint no. 53, near which a military unit had been stationed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0At about 10 a.m. the same day the applicant heard sounds of shooting and explosions from the road. She went out and saw a convoy of military cars under attack on the road. She later learned that the convoy of the OMON (special police forces) from the town of , Moscow Region, had been under attack. The fighting lasted until about 1\u00a0p.m. It was later reported that the troops had been mistakenly ambushed by other detachments of the Russian forces, and in particular by OMON forces from  and a military unit from the Sverdlovsk Region. As a result of the fighting, more than twenty servicemen were killed and more than thirty wounded. The fighting was followed the same day by a \u201csweeping\u201d operation (zachistka) in the , from where the attack had come.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0During the fighting and for the remainder of that day until nightfall checkpoint no.\u00a053 remained closed and the road to Podgornoye was blocked. The applicant remained about 500 metres away from the checkpoint until about 8 p.m. that day, but was not able to get through to Podgornoye. Her husband did not come home that night. The applicant has not seen her husband since.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The next day at about 5 a.m. she went to the checkpoint and saw the aftermath of the fighting \u2013 burned cars from the convoy, soldiers' bodies and blood stains. On that day and in the days immediately following it the applicant questioned numerous witnesses trying to find out about her husband. She did not keep records of these conversations, as at that time she could not have imagined that it would be useful.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0From the witnesses' statements the applicant learned that the \u201csweeping\u201d operation in Podgornoye had resulted in a large number of persons \u2013 over fifty \u2013 being detained by the Russian military. All of them had been taken to the Staropromyslovskiy Temporary District Department of the Interior (VOVD) in . One of the witnesses told the applicant that he had seen her husband, Shakhid Baysayev, being taken away by the Russian servicemen in the village. The witness described the applicant's husband as being in pain \u2013 his appearance suggested that he had been beaten.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 4 March 2000 the applicant met with several men who had been detained in Podgornoye on 2 March and later released. They identified the applicant's husband from a photograph and confirmed that he had been detained by the soldiers at checkpoint no.\u00a053 and then taken away. They had not seen him at the VOVD where they had been taken.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0Other witnesses told the applicant that her husband had finished work in Podgornoye and had been returning home, but that the soldiers had not let him through because of the fighting. He had returned to Podgornoye and been detained during the \u201csweeping\u201d operation. Apparently, the applicant's husband had witnessed the killing by the soldiers of two brothers O. and had tried to intervene on their behalf. The soldiers had beaten him up, put a sack over his head and driven him away. In September 2000 the local authorities of Podgornoye village issued a certificate to the applicant confirming that two brothers O. had been killed on 2 March 2000 during a \u201csweeping\u201d operation in the village. The applicant submitted that she had later found the O.s' house in Podgornoye locked and abandoned and had been told by local residents that their father had been killed by an unknown gunman about a month before the killing of the brothers, and their mother had been suffering from a severe mental disorder since the deaths of her family members. The applicant did not find any of the O.s' relatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0Further witnesses told the applicant that they had seen her husband at checkpoint no.\u00a053 during the fighting, covered in blood.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The applicant attempted to find out at the checkpoint whether her husband had been detained there, but the soldiers told her that they had been brought in as replacements after the fighting of 2 March 2000 and were not aware of any detainees.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The Government submitted in their memorial of 28 April 2004 that it had been established that on 2 March 2000 in the  fighting had taken place involving servicemen of the federal forces, which had resulted in the deaths of servicemen of the OMON detachments from Sergiyev Posad. Immediately after the fighting a special operation had been conducted in Podgornoye aimed at identifying members of the illegal armed groups who had participated in the ambush. The detainees had been taken to the Staropromyslovskiy VOVD, but Shakhid Baysayev was not listed among them. Nor was his name on the list of persons who had been detained by other detachments of the Ministry of the Interior in the Northern Caucasus.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Search for Shakhid Baysayev and investigation",
+                                "elements": [
+                                    {
+                                        "content": "19.\u00a0\u00a0Starting on 2 March 2000, the applicant applied on numerous occasions to the prosecutors at various levels, the Ministry of the Interior, the administrative authorities in Chechnya, the Special Representative of the Russian President in the  for Rights and Freedoms and to other authorities and public figures. The applicant submitted several dozen copies of her letters stating the facts of her husband's disappearance and asking for assistance and details on the investigation. She also personally visited the Grozny Town Prosecutor's Office (to which she often had to walk \u2013 about 35 km one way), the Staropromyslovskiy VOVD and the main Russian military base in Khankala.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The applicant received very little substantive information from the official bodies about the investigation into her husband's disappearance. On several occasions the applicant was sent copies of letters forwarding her requests to the relevant prosecutor's office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 3 March 2000 the applicant went to the Staropromyslovskiy VOVD and talked to its head, Mr D. He called one of the officers, who confirmed that he had seen the man on the photograph \u2013 the applicant's husband - but said that he had never been brought to the VOVD. He told the applicant that her husband would be brought to the VOVD on 7 March at 11\u00a0a.m. and released. On 7 March 2000 the applicant returned to the VOVD and waited until 5 p.m., but received no news of her husband. She was then told that officer D. had left  after completion of his mission.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 4 March 2000 the applicant addressed the investigator of the Grozny Town Prosecutor's Office, Mr M., who had apparently been investigating the killing of the brothers O., and asked him to help her find her husband.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 8 March 2000 the applicant addressed the head of the Staropromyslovskiy VOVD and the head of the Staropromyslovskiy District Authority, asking them to help her to find her husband.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 16 March 2000 the applicant attempted to gain access to the military prosecutor's office in Khankala, but was not allowed to enter the compound.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 30 March 2000 the applicant wrote to the Grozny Town Prosecutor, the military commander of Chechnya, the military prosecutor of Chechnya and the mayor of , asking them to take measures to establish her husband's whereabouts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 31 May 2000 the Chechnya Prosecutor's Office wrote to the head of the Department of the Interior in , asking the department to organise a search for thirty missing persons at the request of their relatives, one of whom was the applicant. The letter asked the department to inform the persons concerned of the results of the investigation. A copy of that letter was forwarded to the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 1 June 2000 the applicant visited the Grozny Town Prosecutor's Office. The investigator talked to her and asked her to come back in two weeks. When the applicant returned, the investigator told her that her husband had been detained by servicemen of the Podolsk OMON on 2\u00a0March 2000 and taken to their base near Podgornoye between 12 and 2\u00a0p.m. that day. He also told the applicant that a videotape existed proving this information. The Grozny Town Prosecutor's Office had opened a criminal case under Article 126, part one of the Criminal Code (kidnapping). The applicant submitted that the investigator who gave her this information had stopped working there in September, and that after he had left the case had not progressed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 28 June 2000 the applicant addressed the Special Representative of the Russian President in the Chechen Republic for Rights and Freedoms and the Prosecutor of the , asking them to take measures to find out her husband's whereabouts and inform her of any results.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0Since the applicant did not receive any news of her husband, and knowing the circumstances of his detention, she concluded that he was probably no longer alive. She therefore also started to search for his body in places where persons who had been killed during the conflict were buried.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0Before 5 May 2000 the applicant, together with servicemen of the Staropromyslovskiy VOVD and the Ministry for Emergency Situations (Emercom), travelled on several occasions to a location near checkpoint no.\u00a053, from where they transported over three dozen bodies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The applicant also accompanied the VOVD servicemen to another location, where dead bodies, apparently dumped by federal servicemen, had been brought. She also went to other villages, including Komsomolskoye and Znamenskoye. The applicant submitted that she had seen about 400 dead bodies, but had not found her husband.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0The videotape and photographs of Shakhid Baysayev",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0On an unspecified date at the beginning of August 2000, at about 5\u00a0p.m., the applicant was walking home. On the road not far from checkpoint no.\u00a053 a white \u201cZhiguli\u201d car stopped near her. A man in the car, wearing military uniform and a balaclava mask, told her in Russian, which he spoke without any accent, to kneel down with her back to the car. When the applicant obeyed, he told her that if she wanted to know who was behind her husband's disappearance she should bring him five thousand roubles the next day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The applicant collected the money. On the next day she saw the same car at the same place. This time a different man was inside. He showed her on a small TV set inside the car extracts from a videotape, in which the applicant recognised her husband. In the footage Shakhid Baysayev was shown lying on the ground, being kicked by a soldier, being ordered to stand up and being escorted by the military. The soldiers were talking to him in a harsh and aggressive tone, threatening him and using obscene language. The screen showed the date of his detention \u2013 02.03.2000. After the applicant had given the unknown man the money, he gave her photographs made from the video. He also gave her a sketch map of four burial places, including that of her husband. The applicant asked for the videotape and was told that she would have to pay 1,000 US dollars for it. She was also told that the tape was known to the prosecutor's office under registration number 49030.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0The next day the applicant travelled to the Grozny Prosecutor's Office and talked to an investigator. She gave him the map and told him about the videotape on which her husband had been depicted after his \u201cdisappearance\u201d. The investigator confirmed that he had known about the tape and that a copy of the tape was probably in the Chechnya Prosecutor's Office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0One week later the applicant managed to buy the videotape, having paid 1,000 US dollars for it. The meeting was organised in the same way \u2013 a white \u201cZhiguli\u201d car stopped alongside her on the road and the applicant talked to a man inside. The footage (a copy and a transcript of which were submitted to the Court) is about three minutes long. It shows a group of several dozen soldiers wearing camouflage and with guns and ammunition walking across a field. At one point they cross a small railroad and a low barrier. Then the camera turns towards the direction where they are walking and shows the only civilian, whom the applicant recognised as her husband. He is at first lying on the ground, then a soldier kicks him and orders him to stand up. The soldiers address him with threatening remarks, using obscene language. He is wearing a dark brown sheepskin coat and a yellow fur hat and his clothes are dirty. He is escorted by the soldiers towards partially destroyed buildings, where more soldiers are gathering, all in full gear. The applicant's husband appears for about one and a half minutes, then the camera turns to film the soldiers (who seem to be returning from a mission) and at least six bodies in camouflage on stretchers, some covered with blankets, others exposed. The tape also shows military equipment, some of it burnt, and a bus.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Further investigation",
+                                "elements": [
+                                    {
+                                        "content": "36.\u00a0\u00a0On 23 August 2000 the applicant, together with an investigator from the Grozny Town Prosecutor's Office, travelled to the location indicated on the map. The place was within the military compound near checkpoint no.\u00a053, and the military did not let them into the compound.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 7 September 2000 the Grozny Town Prosecutor's Office informed the applicant that the persons responsible for the kidnapping of her husband could not be identified, but that investigative measures were being carried out.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0On 10 September 2000 the Chechnya Prosecutor's Office informed the applicant that a preliminary investigation was being conducted by the Grozny Town Prosecutor's Office. Her oral statement about the alleged burial place would be verified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0On 19 September 2000 the Grozny Town Prosecutor's Office informed the applicant that on 14 September 2000 the criminal investigation into the kidnapping of her husband by unknown persons in camouflage had been adjourned owing to a failure to identify those responsible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0On 20 September 2000 the Pobedinskoye village authorities issued a certificate to the applicant confirming that she had applied to the authorities on 3 March 2000 on account of her husband's detention during a \u201csweeping\u201d operation on 2 March 2000 following the ambush of the \u201cMoscow OMON\u201d. The note confirmed that the \u201csweeping\u201d operation in Sobachevki had taken place on 2 March 2000 between 12 p.m. and 2.30\u00a0p.m.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0On an unspecified date at the end of September 2000 the applicant, together with investigator M. from the Grozny Town Prosecutor's Office and a police escort, again went to the presumed burial site. They were allowed into the military compound, but the investigator refused to instigate the search, apparently because the location was inexact and the area too big.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0On 9 October 2000 the Prosecutor General's Office informed the applicant that her request concerning the search for her husband had been forwarded to the Chechnya Prosecutor's Office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0On 29 October and 3 December 2000 the Chechnya Prosecutor's Office forwarded the applicant's requests concerning her husband's unlawful detention to the Grozny Town Prosecutor's Office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0On 23 November 2000 the Ministry of the Interior forwarded her request to the Department of the Interior in .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0On 9 December 2000 the military prosecutor of military unit no.\u00a020102 forwarded the applicant's request concerning the whereabouts of her husband to the head of the  district VOVD, on the ground that the issue fell outside the jurisdiction of the military prosecutor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0In March 2001 the NGO Human Rights Watch issued a report entitled \u201cThe 'Dirty War' in : Forced Disappearances, Torture and Summary Executions\u201d, which listed Shakhid Baysayev as one of the victims of \u201cforced disappearances\u201d following detention by Russian servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0On 23 April 2001 the Grozny Town Prosecutor's Office provided the applicant with a progress report in criminal investigation no. 12048. The note stated that on 10 May 2000 the Office had opened a criminal investigation under Article 126, part 1 of the Criminal Code. The investigation was based on the detention of Shamid [sic] Baysayev by unknown persons in camouflage on 2 March 2000 at about 12\u00a0a.m. near the . The investigative measures had failed to establish the whereabouts of Baysayev. The investigation was adjourned and later resumed on unspecified dates.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0In April 2001 the Joint Working Group on , comprised of members of the Parliamentary Assembly of the Council of Europe and members of the State Duma, reported that the criminal investigation in the case concerning the disappearance of Sh. Baysayev was continuing, but no progress had been reported.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0On 28 June 2001 the Grozny District Court granted the applicant's request to declare her husband a missing person.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0On 17 August 2001 the Human Rights Watch forwarded a copy of the videotape purchased by the applicant to the Prosecutor General's Office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0In autumn 2001 the applicant again applied to the Grozny Town Prosecutor's Office. She requested the prosecutors to resume the investigation in the case concerning her husband's disappearance, to identify the persons on the videotape and to obtain witness statements from them in relation to her husband's detention and disappearance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0On 29 November 2001 the applicant learned in the Grozny Town Prosecutor's Office that the criminal case concerning her husband's disappearance had again been adjourned. On 7 December 2001 she again applied to the Grozny Town Prosecutor's Office, requesting the resumption of the investigation and the inspection of the alleged burial site.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0On 8 December 2001 the applicant, together with investigator Leushev and a crime-scene investigator from the Grozny Town Prosecutor's Office, travelled to the location of checkpoint no. 53. There they found the building to which the soldiers had led Shakhid Baysayev on the videotape. At the building they discovered several pieces of clothing and a human bone. At one location near a tree the investigators suggested that the sunken earth indicated a burial place. They started excavations and soon found a piece of brown cloth, resembling a piece of rotten sheepskin coat. The investigators stopped the excavations at that point, collected the items they had found and agreed with the military that they would come back the next day with a video camera. The applicant then returned home using the regular bus service.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0On 9 December 2001 investigators from the Grozny Town Prosecutor's Office came to the applicant's house and asked her to accompany them to the office. The applicant agreed, thinking that she would have to identify the body of her husband. However, on the way to the office she was told that, the day before, the car in which investigator Leushev and the crime-scene investigator had been travelling had been blown up before it had reached the Prosecutor's Office. Both had been killed in the explosion. The incident was reported in the Russian press.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0Once at the Grozny Town Prosecutor's Office, the applicant was brought into a room with two officers of the prosecution service, who only gave her their first names \u2013 Mikhail and Zukhari. They suggested that the applicant had been involved in the blowing-up of the prosecutors' car. They told her not to insist on further investigations and to stop searching for her husband's body, or risk her own safety and that of her children. The applicant, who perceived the threat to be real, refrained from contacts with the law-enforcement bodies for some time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0In 2003 the applicant, acting in person and through her representative the SRJI, tried to obtain information about developments in the case. In response to several requests, the Grozny Town Prosecutor's Office wrote to the SRJI on 15 August 2003 stating that criminal investigation no.\u00a012048 had established that, on the evening of 2\u00a0March\u00a02000, Shakhid Baysayev had been caught in the shooting near the , had been wounded and had then been driven away by unknown persons. The investigation had been adjourned for failure to identify those responsible. Attached to the letter was a decision granting victim status to the applicant, dated 15 January 2002 and countersigned by her.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The applicant submitted that in 2003 she had on several occasions met with an employee of the Grozny Town Prosecutor's Office on the premises of the Zavodskoy District Court. The employee had publicly called her a \u201cmurderer\u201d and accused her of being involved in the death of the two officers of the prosecution service in December 2001. This had caused her severe emotional distress.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0In February 2004 the application was communicated to the Russian Government, who were requested at that time to submit a copy of investigation file no.\u00a012048. In April 2004 the Government submitted about one-third of the file (judging by the page numbers) and stated that nothing else has been disclosed to them by the prosecutor's office. In December 2005 the Court declared the application admissible and reiterated its request to be provided with the entire file. It also asked the Government to provide an update of the investigation since March 2004. In March 2006 the Government submitted an additional 45 pages from the file, produced between March 2004 and February 2006, and containing the decisions to adjourn and reopen the case. The Government stated that disclosure of the remaining documents would be in violation of Article 161 of the Code of Criminal Procedure and would lead to a breach of military secrets and disclosure of the names and addresses of third parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Government also stated that in June 2005 the investigation had collected a number of photographs of servicemen of the OMON units from the Moscow Region who had been on mission in  in March 2000. In June and December 2005 more than sixty-five servicemen from these units had been questioned and had confirmed that on 2 March 2000 they had been in the convoy which had come under attack that day. However they stated that they had not taken part in the subsequent mopping-up operation and that they had not been aware of Mr Baysayev's disappearance. The Government did not submit any documents relating to these interviews.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0Between 2004 and 2006 the applicant on more than a dozen occasions applied to the Staropromyslovskiy District Prosecutor's Office, the Chechnya Prosecutor's Office and the Prosecutor General's Office with requests for information about the fate of her husband and for news of the investigation. She submitted that during one of her personal visits to the Staropromyslovskiy District Prosecutor's Office, in September 2005, an investigator had yelled at her and told her that he \u201chad enough of her\u201d. After that the applicant had on several occasions requested the senior prosecutors to transfer the investigation to another prosecutor's office, but to no avail. She had received responses from the Staropromyslovskiy District Prosecutor's Office telling her that the investigation had been adjourned or reopened.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0On 28 October 2005 the applicant wrote to the OMON unit in Sergiyev Posad, stating the circumstances of her husband's disappearance and asking for any information that could help establish his whereabouts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0On 9 February 2006 the applicant submitted a complaint to the Staropromyslovskiy District Court alleging negligence on the part of the district prosecutor's office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0On 13 February 2006 the applicant requested the district court to declare her husband dead.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0It appears that the investigation into Shakhid Baysayev's abduction was adjourned and reopened more than twelve times. The investigation was carried out by the Grozny Town Prosecutor's Office, and then by the Staropromyslovskiy District Prosecutor's Office. The investigation did not identify the persons or the detachment responsible for the abduction and no one was charged with the crimes (see Part B below for a description of the documents in the investigation file). The Government submitted in their latest memorial of 14 March 2006 that the investigation was continuing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicant also submitted that on 22 March 2004 a prosecutor from the Staropromyslovskiy District Prosecutor's Office had visited her at her home and asked her to sign a statement saying that she had not been subjected to any threats after her application to the European Court of Human Rights. The applicant felt that she was being put under pressure and agreed to write a statement with the following content: \u201cWhen I lodged the application with the Court in  nobody threatened me\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The applicant submitted that she had suffered from a heart condition since the first military campaign of 1994-96, when her daughter and daughter-in-law had been killed and her son had been wounded by the explosion of a shell. At that time the applicant had suffered her first attack of cardiac neurosis. On 2 November 1999 she had been wounded in the leg. Since the \u201cdisappearance\u201d of her husband her health had worsened significantly, and she required regular treatment and injections. On 13\u00a0February 2004 she had had a stroke. She suffered from restlessness, anxiety and insomnia. The applicant did not submit any medical documents.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "B.\u00a0\u00a0Documents submitted by the parties",
+                        "elements": [
+                            {
+                                "content": "1.\u00a0\u00a0Documents from the investigation file",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0On two occasions the Government submitted to the Court a part of the investigation file in criminal case no.\u00a012048 which comprised three volumes. They stated that only these documents had been submitted by the Prosecutor General's Office. The documents may be summarised as follows:",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0Decision to open a criminal investigation",
+                        "elements": [
+                            {
+                                "content": "68.\u00a0\u00a0On 10 May 2000 a prosecutor from the Grozny Town Prosecutor's Office opened a criminal investigation into the abduction of Shakhid Baysayev on 2 March 2000 in Podgornoye by unidentified persons wearing camouflage. The decision referred to Article 126, part 1 of the Criminal Code (kidnapping).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0Statements by the applicant",
+                        "elements": [
+                            {
+                                "content": "69.\u00a0\u00a0The file contains the applicant's letter of 30 March 2000 to the Grozny Town Prosecutor's Office stating the known details of her husband's disappearance and asking for assistance in finding him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "70.\u00a0\u00a0On 29 June 2000 the applicant was questioned as a witness. She repeated the circumstances of her husband's detention by the military servicemen of which she was aware and confirmed that she had had no news of him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "71.\u00a0\u00a0On 8 September 2000 the applicant was questioned once more. She made detailed submissions about her husband's apprehension, based on the witnesses' statements. According to her, her husband had been put in an armoured personnel carrier and taken to checkpoint no. 53, manned by OMON. The applicant gave evidence about her conversation with Mr D. at the Staropromyslovskiy VOVD. The applicant also stated that she had attempted to get to the checkpoint with another policeman from the VOVD, Major Ch., but that they had been fired upon when they tried to approach. She told the investigators about the videotape depicting her husband's detention and the map of the alleged place of burial, as well as the circumstances under which she had obtained them. She submitted a request to inspect the site. On the same day the applicant was granted victim status in the proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "72.\u00a0\u00a0On 21 March 2004 the applicant was again questioned about her husband's disappearance, about the videotape and the map of his alleged place of burial and about the attempts in 2000 and 2001 to find the site as indicated on the map. On the same day the applicant was again granted victim status.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(c)\u00a0\u00a0Documents related to the search for Shakhid Baysayev",
+                        "elements": [
+                            {
+                                "content": "73.\u00a0\u00a0On 5 June 2000 the investigators requested the Ministry of the Interior to check whether Shakhid Baysayev had been detained in their facilities. In reply, four District Departments of the Interior in Grozny, the Operational Brigade of the Ministry of the Interior for the Northern Caucasus (based in Northern Ossetia) and the Federal Security Service for  responded that he had never been detained by them and that there was no information about him in their databases.",
+                                "elements": []
+                            },
+                            {
+                                "content": "74.\u00a0\u00a0On 17 June 2000 the Staropromyslovskiy VOVD replied to the investigators and stated that they could not find witnesses to the events surrounding Shakhid Baysayev's abduction and that the latter was reported to be a man of good conduct.",
+                                "elements": []
+                            },
+                            {
+                                "content": "75.\u00a0\u00a0It appears that the investigators tried to verify the information about the alleged witnessing by the applicant's husband of the killing of two brothers O. on 2 March 2000. On 22 March 2004 the Staropromyslovskiy District Prosecutor's Office stated that there was no criminal case pending with that office concerning the murder of \u201cbrothers A. [the names were similar to the ones indicated by the applicant except for the first letter]\u201d, or the discovery in March 2000 of two unidentified male bodies.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(d)\u00a0\u00a0Examination of the site",
+                        "elements": []
+                    },
+                    {
+                        "content": "(e)\u00a0\u00a0Examination of the videotape",
+                        "elements": [
+                            {
+                                "content": "79.\u00a0\u00a0On 18 March 2003 the prosecutor of the Staropromyslovskiy District Prosecutor's Office ordered the investigation to collect the videotape stored at the Prosecutor's Office of the .",
+                                "elements": []
+                            },
+                            {
+                                "content": "80.\u00a0\u00a0On 22 March 2003 the videotape was viewed in the presence of the applicant, who recognised the person depicted in it as her husband.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(f)\u00a0\u00a0Statements by the local residents",
+                        "elements": [
+                            {
+                                "content": "81.\u00a0\u00a0In February and March 2004 investigators questioned about a dozen residents of the villages of Podgornoye, where the applicant's husband had been detained, and Pobedinskoye, where he had lived. The residents stated that on 2 March 2000 there had been fighting at around midday, followed by a \u201csweeping\u201d operation in Podgornoye. Most of the villagers questioned did not know or had not seen Shakhid Baysayev, but they stated that several men from Podgornoye had been detained on that day and later released. They were also aware of the applicant's search for him, because she had come to the village, asked the residents about him and posted search notices with photographs of her husband. Two residents of Podgornoye testified to having seen Shakhid Baysayev on 2 March 2000 in  during the sweeping operation, and one of Baysayev's colleagues testified that he had left the office together with the rest of the workers after the shooting broke out.",
+                                "elements": []
+                            },
+                            {
+                                "content": "82.\u00a0\u00a0The Government submitted in their memorial that over fifty witnesses had been questioned during the investigation. Thirteen statements were submitted to the Court.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(g)\u00a0\u00a0Informing the applicant",
+                        "elements": [
+                            {
+                                "content": "83.\u00a0\u00a0On 9 June 2000 the Grozny Town Prosecutor's Office informed the applicant that a criminal case had been opened by that office into her husband's abduction.",
+                                "elements": []
+                            },
+                            {
+                                "content": "84.\u00a0\u00a0On 7 September 2000 the Grozny Town Prosecutor's Office wrote to the applicant and stated that the criminal investigation into her husband's abduction was pending, but that no information about his whereabouts had been obtained.",
+                                "elements": []
+                            },
+                            {
+                                "content": "85.\u00a0\u00a0On 10 September 2000 the Chechnya Prosecutor's Office wrote a similar letter to the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "86.\u00a0\u00a0On 4 April 2003 the applicant wrote to the Grozny Town Prosecutor's Office asking to be informed of developments in the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "87.\u00a0\u00a0It appears that the prosecutors informed the applicant on several occasions of the adjournment and resumption of the investigation in criminal case no. 12048 \u2013 once in 2000, twice in 2004, four times in 2005 and once in 2006.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(h)\u00a0\u00a0The prosecutors' orders",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0At different stages of the proceedings several orders were issued by the supervising prosecutors detailing the steps to be taken by the investigators. On 9 November 2000 the prosecutor ordered that the site indicated by the applicant be examined with search dogs, that the videotape mentioned by the applicant be obtained and viewed, that the officers in the Sverdlovsk Region who had served at the Staropromyslovskiy VOVD and the servicemen of the Podolsk OMON who had manned roadblock no. 53 be questioned and that the custody records of the Staropromyslovskiy VOVD for 2 and 3 March 2000 be examined. On 3 December 2001 the prosecutor again ordered an investigation of all the circumstances of Mr Baysayev's disappearance. On 15 December 2001 a prosecutor from the Grozny Town Prosecutor's Office ordered criminal case file no. 12048 to be reconstructed following its destruction in a terrorist act of 8 December 2001.",
+                                "elements": []
+                            },
+                            {
+                                "content": "89.\u00a0\u00a0On 22 February 2004 the prosecutor of the Staropromyslovskiy District of Grozny ordered the investigators, among other things, to examine the site where Baysayev had allegedly been buried, to obtain and view the videotape, to identify and question witnesses among local residents who lived near the scene of the fighting and who had been detained on 2\u00a0March\u00a02000, to view the videotape together with the senior officers of the OMON detachments in order to identify the servicemen, and to identify the military units involved in apprehending the applicant's husband. On the same day the investigation was entrusted to an investigative group composed of four investigators from the Staropromyslovskiy District Prosecutor's Office.",
+                                "elements": []
+                            },
+                            {
+                                "content": "90.\u00a0\u00a0On 17 March 2004 the prosecutor of the Staropromyslovskiy District of Grozny noted that the investigation had established that on 2 March 2000 Shakhid Baysayev had been detained by unidentified armed men in camouflage uniform after the fighting in Podgornoye which had involved federal troops. According to the videotape submitted by the applicant, the unidentified men had escorted the applicant's husband to the industrial site near the road where the fighting had occurred. The prosecutor ordered that steps be taken to review the materials of the criminal case concerning the attack on the OMON servicemen, to collect information from the Ministry of the Interior and the Ministry of Defence about the units that had been stationed at the industrial site where Baysayev had been taken, to identify the servicemen depicted on the videotape by viewing it together with the commanders of the relevant units, and to question those servicemen and evaluate their actions. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "91.\u00a0\u00a0On 13 January 2005 the same prosecutor ordered the investigation to gather personal information about the victim and to forward his photograph and a search request to all the district prosecutor's offices in , to the local agencies of the Ministry of Justice and to hospitals, and to take steps in order to identify those responsible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "92.\u00a0\u00a0On 14 June 2005 the same prosecutor ordered the investigation to identify and question the servicemen of the OMON unit from  who might have been involved in apprehending Mr Baysayev.",
+                                "elements": []
+                            },
+                            {
+                                "content": "93.\u00a0\u00a0On 5 December 2005 the same prosecutor ordered the investigation to question 63 servicemen of the OMON unit from Podolsk, to question the servicemen of the OMON unit from Sergiyev Posad, to identify the persons depicted in the videotape and to carry out an expert examination of the videotape in order to identify the persons who had apprehended the applicant's husband. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "94.\u00a0\u00a0The investigation into the case was adjourned and reopened at least twelve times. The last document in the case file is dated 2 February 2006. It extended the investigation into Mr Baysayev's disappearance until 2\u00a0March\u00a02006 and again ordered that the servicemen of the two OMON units be questioned and the persons depicted in the videotape identified.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Information from the regional courts",
+                                "elements": [
+                                    {
+                                        "content": "95.\u00a0\u00a0The Government submitted letters from the Supreme Court of Ingushetia, the , the  and the , dated March 2004. The letters stated that there were no criminal or civil cases in the respective regions in which the applicant was involved or which concerned the kidnapping of her husband. The Supreme Court of Chechnya wrote a letter on 19 March 2004 stating that the applicant had not applied to any court in Chechnya with complaints, but that criminal case no.\u00a012048 was pending before the Staropromyslovskiy District Prosecutor's Office in , and that the investigation had been extended until 12 May 2004.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Materials related to the ambush of 2 March 2000",
+                                "elements": [
+                                    {
+                                        "content": "96.\u00a0\u00a0The applicant submitted a number of press reports concerning the trial of two senior officers of the Ministry of the Interior for criminal negligence entailing grave consequences - 22 deaths and 33 wounded among the policemen of the OMON detachment from Sergiyev Posad, Moscow Region. According to these reports, it had been established that the fighting on 2 March 2000 in Podgornoye occurred when the convoy of the OMON going into Grozny on mission had been attacked by officers of the Staropromyslovskiy VOVD, staffed by policemen from the Sverdlovsk Region, and by the OMON detachments from Podolsk, Moscow Region stationed at the checkpoint in Podgornoye. The fighting was said to have been the result of provocation by the illegal paramilitaries who had managed to feed false information to the troops stationed in Podgornoye about the expected passage of fighters disguised as federal servicemen.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "97.\u00a0\u00a0Until 1 July 2002 criminal-law matters were governed by the 1960 Code of Criminal Procedure of the . Since 1 July 2002 the old Code has been replaced by the Code of Criminal Procedure of the Russian Federation (CCP).",
+                                "elements": []
+                            },
+                            {
+                                "content": "98.\u00a0\u00a0Article 161 of the new CCP prohibits the disclosure of information from the preliminary investigation file. Under part 3 of the Article, information from the investigation file may be divulged only with the permission of a prosecutor or investigator and only in so far as it does not infringe the rights and lawful interests of the participants in the criminal proceedings or prejudice the investigation. Divulging information about the private lives of participants in criminal proceedings without their permission is prohibited.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT'S PRELIMINARY OBJECTION",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Arguments of the parties",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "99.\u00a0\u00a0The Government requested the Court to declare the case inadmissible as the applicant had failed to exhaust domestic remedies. The Government submitted that the investigation into the circumstances of Shakhid Baysayev's detention was continuing and that examination of the complaint by the  would be premature. The Government also referred to the Constitution and other legal instruments which permitted an appeal to the courts in respect of actions by the authorities which infringed citizens' rights. Referring to the replies from the regional courts mentioned above, the Government argued that the applicant had failed to avail herself of that remedy.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "100.\u00a0\u00a0The applicant disagreed with the Government's objection. First, she referred to the special circumstances that had existed in  in 2000, when the functioning of the law-enforcement agencies had been seriously disrupted.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0Second, she claimed the existence of an administrative practice of non-compliance with the requirement to investigate effectively abuses committed by Russian servicemen and members of the police in . She referred to complaints submitted to the Court by other persons claiming to be victims of such abuses, and to documents of the Council of Europe and NGO and media reports. She argued that this administrative practice made the potentially effective domestic remedies inadequate, ineffective and illusory.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "102.\u00a0\u00a0Finally, she submitted that in any event she had complied with the requirement to exhaust by applying to the prosecutor's office and requesting a criminal investigation. Moreover, as was clear from the facts of the case, she had actively participated in the investigation and submitted to the prosecutors all the information in her possession which might lead to the solving of the crime. Despite her efforts, no proper investigation had taken place. In her view, the Government had failed to demonstrate how an application to a court or to a public prosecutor could be effective in view of the investigators' failure to act, especially given that the supervising prosecutors had on several occasions criticised the conduct of the investigation and issued instructions that had not been complied with.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "103.\u00a0\u00a0In the present case the Court took no decision about exhaustion of domestic remedies at the admissibility stage, having found that this question was too closely linked to the merits. It will now proceed to examine the arguments of the parties in the light of the Convention provisions and its relevant practice.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0The Court recalls that the rule of exhaustion of domestic remedies referred to in Article\u00a035\u00a0\u00a7\u00a01 of the Convention obliges applicants first to use the remedies that are normally available and sufficient in the domestic legal system to enable them to obtain redress for the breaches alleged. The existence of the remedies must be sufficiently certain, in practice as well as in theory, failing which they will lack the requisite accessibility and effectiveness. Article\u00a035\u00a0\u00a7\u00a01 also requires that the complaints intended to be brought subsequently before the Court should have been made to the appropriate domestic body, at least in substance and in compliance with the formal requirements laid down in domestic law, but not that recourse should be had to remedies which are inadequate or ineffective (see Aksoy v. Turkey judgment of 18 December 1996, Reports of Judgments and Decisions 1996VI, pp. 2275-76, \u00a7\u00a7\u00a051-52, and Akdivar and Others v. Turkey, judgment of 16 September 1996, Reports 1996IV, p. 1210, \u00a7\u00a7\u00a065-67).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "105.\u00a0\u00a0The Court emphasises that the rule of exhaustion of domestic remedies must be applied with some degree of flexibility and without excessive formalism. It has further recognised that the rule of exhaustion is neither absolute nor capable of being applied automatically; for the purposes of reviewing whether it has been observed, it is essential to have regard to the circumstances of the individual case. This means, in particular, that the Court must take realistic account not only of the existence of formal remedies in the legal system of the Contracting State concerned but also of the general context in which they operate, as well as the personal circumstances of the applicant. It must then examine whether, in all the circumstances of the case, the applicant did everything that could reasonably be expected of him or her to exhaust domestic remedies (see the Akdivar and Others judgment, cited above, p. 1211, \u00a7\u00a069, and the Aksoy judgment, cited above, p. 2276, \u00a7\u00a7 53 and 54).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0The Court observes that the Russian legal system provides, in principle, two avenues of recourse for the victims of illegal and criminal acts attributable to the State or its agents, namely civil procedure and criminal remedies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0As regards a civil action to obtain redress for damage sustained through alleged illegal acts or unlawful conduct on the part of State agents, the Court recalls that the Government suggested that the applicant could have lodged a complaint with a district court. The Government did not refer to any examples in which such courts had been able, in the absence of any results from the criminal investigation such as the identity of the potential defendant, to consider the merits of a claim relating to alleged serious criminal acts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0The Court further recalls that even assuming that the applicant had brought such proceedings and had been successful in recovering civil damages from a State body, this would still not resolve the issue of effective remedies in the context of claims brought under Article 2 of the Convention. A civil court is unable to pursue any independent investigation and is incapable, without the benefit of the conclusions of a criminal investigation, of making any meaningful findings as to the perpetrators of fatal assaults, still less to establish their responsibility (see Khashiyev and Akayeva v.\u00a0, nos. 57942/00 and 57945/00, \u00a7\u00a0119-121, 24 February 2005). Furthermore, a Contracting State's obligation under Articles\u00a02 and 13 of the Convention to conduct an investigation capable of leading to the identification and punishment of those responsible in cases of fatal assault might be rendered illusory if, in respect of complaints under those Articles, an applicant were required to exhaust an action leading only to an award of damages (see Ya\u015fa v.\u00a0Turkey, judgment of 2\u00a0September 1998, Reports 1998VI, p.\u00a02431, \u00a7\u00a074).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0In the light of the above, the Court finds that the applicant was not obliged to pursue the civil remedies suggested by the Government in order to exhaust domestic remedies, and the preliminary objection is in this respect unfounded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0As regards criminal-law remedies, the Court observes that the applicant complained to the law-enforcement agencies as soon as her husband disappeared and that an investigation has been pending since May\u00a02000. The applicant and the Government disagree as to the effectiveness of this investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0The Court considers that this limb of the Government's preliminary objection raises issues concerning the effectiveness of the criminal investigation which are closely linked to the merits of the applicant's complaints. Thus, it considers that these matters fall to be examined below under the substantive provisions of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "112.\u00a0\u00a0The applicant alleged that her husband had been unlawfully killed by agents of the State. She also submitted that the authorities had failed to carry out an effective and adequate investigation into the circumstances of his disappearance. She relied on Article\u00a02 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone's right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged failure to protect the right to life of Shakhid Baysayev",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "113.\u00a0\u00a0The applicant submitted that there could be no reasonable doubt that Russian servicemen had detained Shakhid Baysayev on 2 March 2000 and then deprived him of his life. In support of this allegation she referred to the unchallenged evidence, in particular the videotape dated 2 March 2000 which had shown the applicant's husband being escorted by military servicemen, the fact that a sweeping operation had taken place on that day in Podgornoye and that a number of persons had been detained, and the statements by the eyewitnesses concerning Baysayev's detention, including the statement from a VOVD official made in the applicant's presence to officer D. The applicant believed that it had been established with a great degree of certainty that there had been an intentional deprivation of her husband's life, as he had been detained in a life-threatening situation more than six years ago and no news has been received of him since. The applicant stressed that the Government had failed to provide an alternative version of events and that it was known from the public reports of the trial of senior OMON officers that the fighting on 2 March 2000 had involved two groups of members of the federal forces; accordingly, there could have been no other armed men in camouflage involved in the sweeping operation immediately afterwards.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "114.\u00a0\u00a0The Government argued that there was no conclusive evidence to support the applicant's allegations that the authorities had been responsible for the detention of Shakhid Baysayev or for his death, or that he was indeed dead.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "115.\u00a0\u00a0The Court recalls that it has developed a number of general principles relating to the establishment of facts in dispute and, in particular, when facing allegations of disappearance under Article 2 of the Convention (for a summary of these see Bazorkina v. , no. 69481/01, \u00a7\u00a0103-109, 27 July 2006). In the light of these principles, the Court identifies certain crucial elements in the present case that should be taken into account when deciding whether Shakhid Baysayev can be presumed dead and whether his death can be attributed to the authorities.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "116.\u00a0\u00a0The applicant submitted that her husband had been detained by servicemen during a security operation. In support of her version of events she referred to a number of factual elements, none of which has been disputed by the Government. In particular, the parties do not contest that Shakhid Baysayev was detained on 2 March 2000 in the  by armed men in camouflage uniform. The Government also do not dispute that, in the aftermath of clashes involving the servicemen stationed in that village, there was a security operation in Podgornoye on 2\u00a0March 2000. It is further uncontested that a number of persons were detained in the village during this operation, although it appears that no custody records have been produced in respect of Shakhid Baysayev or any other detained persons. As the prosecutors' orders cited above attest, the domestic investigation focused on this version of events and on several occasions attempted to identify the servicemen and the units involved. The Government did not suggest that the persons who detained Baysayev belonged to the illegal paramilitaries, and there is no material available to the Court which could support such a conclusion. The Court can therefore consider it established that Shakhid Baysayev's apprehension coincided with a special security operation carried out in Podgornoye on 2\u00a0March\u00a02000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "117.\u00a0\u00a0An additional strong element in support of the applicant's allegations comes from the videotape supplied by her. It does not appear that the investigation questioned the means by which the applicant claims to have obtained the videotape, namely that she paid a considerable sum of money to a person who also knew of the alleged burial place of her husband (see paragraphs 32-35 above). Although the names of the servicemen and the unit to which they belonged have not been established, at no point did the authorities dispute the fact that the video depicted servicemen of the federal forces and the applicant's husband. Two clearly identified detachments \u2013 OMON units from the towns of  and Sergiyev Posad \u2013 were under suspicion. In view of this, the Court cannot but conclude that Shakhid Baysayev was last seen being apprehended by State servicemen.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "118.\u00a0\u00a0There has been no news of the applicant's husband since 2\u00a0March\u00a02000. His name was not found in any of the detention facilities' records. Finally, the Government did not submit any plausible explanation as to what had happened to him after his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "119.\u00a0\u00a0The Court notes with great concern that a number of cases have come before it which suggest that the phenomenon of \u201cdisappearances\u201d is well known in  (see the Bazorkina v. Russia judgment, cited above; Imakayeva v. Russia, no. 7615/02, 9 November 2006; and Luluyev and Others v. Russia, no. 69480/01, 9 November 2006). A number of international reports point to the same conclusion (see paragraph 46 above). The Court agrees with the applicant that, in the context of the conflict in , when a person is detained by unidentified servicemen without any subsequent acknowledgement of detention, this can be regarded as life-threatening. The absence of Shakhid Baysayev or any news from him for over six years supports this assumption. Moreover, the stance of the prosecutor's office and the other law-enforcement authorities after the news of his detention had been communicated to them by the applicant significantly contributed to the likelihood of his disappearance, as no necessary actions were taken in the crucial first days or weeks after his detention. Their behaviour in the face of the applicant's well-established complaints gives a strong presumption of at least acquiescence in the situation and raises strong doubts as to the objectivity of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "120.\u00a0\u00a0For the above reasons the Court considers that it has been established beyond reasonable doubt that Shakhid Baysayev must be presumed dead following unacknowledged detention by State servicemen. Consequently, the responsibility of the respondent State is engaged. Noting that the authorities do not rely on any ground of justification in respect of the use of lethal force by their agents, it follows that liability for his presumed death is attributable to the respondent Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0Accordingly, there has been a violation of Article 2 on that account in respect of Shakhid Baysayev.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged inadequacy of the investigation into Shakhid Baysayev's abduction",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "122.\u00a0\u00a0The applicant alleged that the investigation into the circumstances of her husband's detention and death had fallen short of the standards of the European Convention and of the national legislation. She argued that a number of important steps, such as providing a transcript of the videotape, had been taken with an unjustified delay or only after communication of the complaint to the respondent Government, and in a manner which had undermined their effectiveness. The applicant observed that she had been granted victim status four times, whereas no other member of Shakhid\u00a0Baysayev's family had been granted such status despite their requests. A number of important investigative actions had never been taken, most notably the identification and questioning of the persons who appeared in the videotape, the servicemen who had manned checkpoint no. 53 or those who had conducted the sweeping operation on 2 March 2000. The investigation had failed to consider the evidence indicating that Baysayev's detention and killing had been carried out by federal servicemen. The applicant pointed to the fact that over six years had passed without the investigation producing any known results and to the fact that it had been adjourned and reopened on numerous occasions. The supervising prosecutors had criticised its conduct and given instructions which were not complied with; this, in the applicant's view, supported her allegation of its ineffectiveness. The authorities had systematically failed to inform the applicant of the progress of the proceedings and she had been given no information about important procedural steps. Finally, the applicant contended that the Government's failure to submit a substantial part of the investigation file without a proper explanation strengthened the suspicion that the investigation had been ineffective.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0The Government disagreed. They referred to the difficult situation in  in general, the fact that two members of the prosecutor's office had died during a terrorist attack while investigating the case and the fact that the criminal case file had been destroyed and then reconstructed. The investigation had been carried out in accordance with the domestic legislation, the applicant had been granted victim status and her submissions had been carefully verified. The investigation had taken steps to identify and question the servicemen depicted in the videotape provided by the applicant. Despite the efforts of the domestic investigation, the identity of the persons who had detained Shakhid Baysayev remained unknown and the whereabouts of the applicant's husband or his body had not been established.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "124.\u00a0\u00a0The Court has on many occasions stated that the obligation to protect the right to life under Article 2 of the Convention also requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force (see, among many authorities, the Kaya v. Turkey judgment of 19\u00a0February\u00a01998, Reports 1998-I, p. 329, \u00a7\u00a0105). It has developed a number of guiding principles to be followed for an investigation to comply with the Convention requirements (for a summary of these see the Bazorkina judgment, cited above, \u00a7\u00a7\u00a0117-119).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0In the present case, an investigation was carried out into the kidnapping of the applicant's husband. The Court must assess whether that investigation met the requirements of Article 2 of the Convention. In this respect the Court notes that its knowledge of the criminal proceedings at issue is limited to the materials from the investigation file selected by the respondent Government (see paragraphs 58-59 above). Drawing inferences from the respondent Government's behaviour when evidence is being obtained (see Ireland v. the United Kingdom, judgment of 18 January 1978, Series A no. 25, p. 64-65, \u00a7\u00a0161), the Court will assess the merits of the complaint on the basis of the available documents and other submissions made by the parties.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0The Court first notes that the authorities were immediately made aware of Shakhid Baysayev's apprehension because the applicant personally visited the VOVD and the prosecutor's offices in the days following her husband's disappearance on 2 March 2000. However, the investigation was opened only on 10 May 2000. When the investigation did begin, it was plagued by inexplicable delays in performing the most essential tasks. The applicant was not questioned until the end of June 2000. The local residents were questioned only in February and March 2004, and the servicemen of the OMON units from the Moscow Region only in June and December 2005, after communication of the complaint to the respondent Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "127.\u00a0\u00a0Such delays by themselves compromised the effectiveness of the investigation and could not but have had a negative impact on the prospects for arriving at the truth. While accepting that some explanation for these delays can be found in the exceptional circumstances that have prevailed in  and to which the Government refer, the Court finds that in the present case they clearly exceeded any acceptable limitations on efficiency that could be tolerated in dealing with such a serious crime.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0Other elements of the investigation call for comment. In the present case there existed a unique piece of evidence in the form of a videotape which showed the applicant's husband being apprehended by servicemen and which could have played a key role in the investigation. It was available to the authorities as far back as 2000. The Court finds it astonishing that in February 2006 the persons depicted in it had still not been identified by the investigation, let alone questioned (see the prosecutors' orders in paragraphs 88-94 above). It appears that in June 2005 the investigation collected photographs of the servicemen of the OMON units from the Moscow Region, but no information has been provided to the Court about a follow-up to this action. It does not appear that the investigation identified and questioned the servicemen of the military units who manned roadblock no.\u00a053 or those who carried out the \u201csweeping\u201d operation in Podgornoye. It also appears that the information referred to by the applicant about the possible burial place of her husband was not adequately pursued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0Many of these omissions were evident to the prosecutors, who on several occasions ordered certain steps to be taken. However, these instructions were either not followed or were followed with an unacceptable delay. Finally, as to the manner in which the investigation was conducted, the Court notes that in six years the investigation was adjourned and reopened at least twelve times. The applicant, notwithstanding her procedural status as a victim, was not duly informed of its progress, and the only information communicated to her concerned the adjournment and reopening of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0In the light of the foregoing, and with regard to the inferences drawn from the respondent Government's presentation of evidence, the Court finds that the authorities failed to carry out an effective criminal investigation into the circumstances surrounding the disappearance and presumed death of Shakhid Baysayev. The Court accordingly dismisses the Government's preliminary objection as regards the applicant's failure to exhaust domestic remedies within the context of the criminal investigation, and holds that there has been a violation of Article 2 also in this respect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "131.\u00a0\u00a0The applicant alleged that Shakhid Baysayev had been subjected to inhuman and degrading treatment and that the authorities had failed to investigate this allegation. She also complained that the suffering to which she had been subjected as a result of her husband's disappearance constituted treatment prohibited by the Convention. She relied on Article 3, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Alleged violation of Article 3 in respect of Shakhid Baysayev",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "132.\u00a0\u00a0The applicant complained of a violation of both the material and procedural aspects of Article 3 of the Convention in relation to her husband. She submitted that the videotape showed her husband being kicked by the soldiers, who had used obscene and threatening language towards him. She submitted that persons detained in  were regularly subjected to treatment in violation of Article 3. The authorities had failed to conduct a proper investigation into these allegations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "133.\u00a0\u00a0The Government did not submit any comments on Article 3, stating only that the identity of the persons who had detained Shakhid Baysayev remained unknown.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "134.\u00a0\u00a0The Court recalls that allegations of ill-treatment must be supported by appropriate evidence. To assess this evidence, the Court adopts the standard of proof \u201cbeyond reasonable doubt\u201d but adds that such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Ireland v. the United Kingdom, cited above, pp.\u00a064-65, \u00a7 161 in fine).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "135.\u00a0\u00a0The Court has found it established that the applicant's husband was detained on 2\u00a0March 2000 by federal forces and that no reliable news of him has been received since that date. The Court has also considered that, in view of all the known circumstances, he can be presumed dead and that the responsibility for his death lies with the State authorities (see paragraphs 115-121 above). However, the exact way in which he died and whether he was subjected to ill-treatment while in detention have not been elucidated.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "136.\u00a0\u00a0The Court considers that neither the witness statements collected by the applicant nor the video recording viewed by the Court contain evidence to support the allegations that Shakhid Baysayev was ill-treated upon arrest. The specific episode depicted in the videotape to which the applicant refers does not in itself appear to attain the threshold of severity required by Article 3.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "137.\u00a0\u00a0In conclusion, since the information before it does not enable the Court to find beyond all reasonable doubt that the applicant's husband was subjected to ill-treatment, the Court cannot conclude that here has been a violation of Article\u00a03 of the Convention on this account.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "138.\u00a0\u00a0In the absence of any reliable information about the alleged illtreatment or about the manner in which Shakhid Baysayev died, the Court does not deem it necessary to make a separate finding under Article 3 in respect of the alleged deficiencies of the investigation, since it examines this aspect under the procedural aspect of Article 2 (above) and under Article 13 of the Convention (below).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Alleged violation of Article 3 in respect of the applicant",
+                                "elements": [
+                                    {
+                                        "content": "139.\u00a0\u00a0The applicant submitted, with reference to the Court's practice, that she herself had been a victim of treatment falling within the scope of Article\u00a03 as a result of the anguish and emotional distress she had suffered in connection with the disappearance of her husband and as a result of the authorities' complacency. The applicant underlined that the inability to bury her husband had aggravated her distress, in view of the importance of a prompt funeral in the Islamic religious tradition. She also referred to the deterioration of her own health as a result of the suffering she had endured.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "140.\u00a0\u00a0The Court reiterates that the question whether a family member of a \u201cdisappeared person\u201d is a victim of treatment contrary to Article 3 will depend on the existence of special factors which gives the suffering of the applicant a dimension and character distinct from the emotional distress which may be regarded as inevitably caused to relatives of a victim of a serious human-rights violation. Relevant elements will include the proximity of the family tie, the particular circumstances of the relationship, the extent to which the family member witnessed the events in question, the involvement of the family member in the attempts to obtain information about the disappeared person and the way in which the authorities responded to those enquiries. The Court would further emphasise that the essence of such a violation does not mainly lie in the fact of the \u201cdisappearance\u201d of the family member but rather concerns the authorities' reactions and attitudes to the situation when it is brought to their attention. It is especially in respect of the latter that a relative may claim directly to be a victim of the authorities' conduct (see Orhan v. , no. 25656/94, \u00a7\u00a0358, 18 June 2002).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "141.\u00a0\u00a0In the present case, the Court notes that the applicant is the wife of the disappeared individual, Shakhid Baysayev. The applicant was not herself an eyewitness to the detention, but she obtained a videotape showing the date of her husband's apprehension, which showed him surrounded by hostile servicemen. For more than six years she has not had any news of him. During this period the applicant has applied to various official bodies with inquiries about her husband, both in writing and in person. Despite her attempts, the applicant has never received any plausible explanation or information as to what became of her husband following his detention on 2\u00a0March 2000. The responses received by the applicant mostly denied the State's responsibility for her husband's apprehension or simply informed her that an investigation was ongoing. The Court's findings under the procedural aspect of Article 2 are also of direct relevance here (see paragraphs 124-130 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0In view of the above, the Court finds that the applicant suffered, and continues to suffer, distress and anguish as a result of the disappearance of her husband and of her inability to find out what happened to him. The manner in which her complaints have been dealt with by the authorities must be considered to constitute inhuman treatment contrary to Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "143.\u00a0\u00a0The Court concludes therefore that there has been a violation of Article 3 of the Convention in respect of the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "144.\u00a0\u00a0Under Article 5 the applicant submitted that Shakhid Baysayev had been subjected to unacknowledged detention, in violation of the principles defined by Article 5 as a whole. Article 5 provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0the lawful arrest or detention of a person for non- compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "145.\u00a0\u00a0The Court has previously found that unacknowledged detention is a complete negation of the guarantees against arbitrary detention of an individual and discloses a most grave violation of Article 5. Bearing in mind the responsibility of the authorities to account for individuals under their control, Article 5 requires them to take effective measures to safeguard against the risk of disappearance and to conduct a prompt and effective investigation into an arguable claim that a person has been taken into custody and has not been seen since (see the Orhan judgment, cited above, \u00a7\u00a7 367-369).",
+                                "elements": []
+                            },
+                            {
+                                "content": "146.\u00a0\u00a0It is established that the applicant's husband was detained on 2\u00a0March 2000 by the federal authorities and has not been seen since. His detention was not logged in any custody records and there exists no official trace of his subsequent whereabouts or fate. In accordance with the Court's practice, this fact in itself must be considered a most serious failing, since it enables those responsible for an act of deprivation of liberty to conceal their involvement in a crime, to cover their tracks and to escape accountability for the fate of a detainee. Furthermore, the absence of detention records, noting such matters as the date, time and location of detention, the name of the detainee as well as the reasons for the detention and the name of the person effecting it, must be seen as incompatible with the very purpose of Article 5 of the Convention (see the Orhan judgment, cited above, \u00a7\u00a0371).",
+                                "elements": []
+                            },
+                            {
+                                "content": "147.\u00a0\u00a0The Court further considers that the authorities should have been alert to the need to investigate more thoroughly and promptly the applicant's complaints that her husband had been detained by the security forces and taken away in life-threatening circumstances. It notes that the applicant turned to the relevant authorities immediately after her husband's apprehension. However, the Court's reasoning and findings in relation to Article 2 above, in particular as regards the delays in opening and conducting the investigation, leave no doubt that the authorities failed to take prompt and effective measures to safeguard Shakhid Baysayev against the risk of disappearance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "148.\u00a0\u00a0Accordingly, the Court finds that Shakhid Baysayev was held in unacknowledged detention in the complete absence of the safeguards contained in Article 5 and that there has therefore been a violation of the right to liberty and security of person guaranteed by that provision.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "149.\u00a0\u00a0The applicant stated that she had been deprived of access to a court, contrary to the provisions of Article 6 of the Convention. In so far as relevant, Article 6 provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a fair ... hearing ... by [a] ... tribunal...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "150.\u00a0\u00a0The applicant alleged that she had had no effective access to a court because a civil claim for damages would depend entirely on the outcome of the criminal investigation into her husband's disappearance. In the absence of any findings, she could not effectively apply to a court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "151.\u00a0\u00a0The Government disputed this allegation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "152.\u00a0\u00a0The Court finds that the applicant's complaint under Article 6 concerns, essentially, the same issues as those discussed under the procedural aspect of Article 2 and of Article 13. It should also be noted that the applicant submitted no information which would prove her alleged intention to apply to a domestic court with a claim for compensation. In such circumstances, the Court finds that no separate issues arise under Article 6 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLES 2, 3 AND 5",
+                        "elements": [
+                            {
+                                "content": "153.\u00a0\u00a0The applicant complained that she had had no effective remedy in respect of the violations alleged under Articles 2, 3 and 5 of the Convention. She referred to Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "154.\u00a0\u00a0The Government disagreed. They stated that under Article 13 the applicant had unrestricted access to the domestic proceedings, namely to the courts which were competent to review her complaints in accordance with Article 46 of the Constitution and other legal instruments.",
+                                "elements": []
+                            },
+                            {
+                                "content": "155.\u00a0\u00a0The Court reiterates that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they might happen to be secured in the domestic legal order. Given the fundamental importance of the rights guaranteed by Articles\u00a02 and 3 of the Convention, Article\u00a013 requires, in addition to the payment of compensation where appropriate, a thorough and effective investigation capable of leading to the identification and punishment of those responsible for the deprivation of life and infliction of treatment contrary to Article\u00a03, including effective access for the complainant to the investigation procedure leading to the identification and punishment of those responsible (see Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7\u00a0161-162, ECHR 2002-IV; Assenov and Others, cited above, \u00a7\u00a0114 et seq.; and S\u00fcheyla Ayd\u0131n v. , no. 25660/94, \u00a7\u00a0208, 24 May 2005). The Court further reiterates that the requirements of Article\u00a013 are broader than a Contracting State's obligation under Article 2 to conduct an effective investigation (see Orhan cited above, \u00a7\u00a0384, and Khashiyev and Akayeva, cited above, \u00a7\u00a0183).",
+                                "elements": []
+                            },
+                            {
+                                "content": "156.\u00a0\u00a0In view of the Court's findings above with regard to Articles\u00a02 and\u00a03, these complaints are clearly \u201carguable\u201d for the purposes of Article\u00a013 (see Boyle and Rice v. the United Kingdom, judgment of 27\u00a0April 1988, Series A no.\u00a0131, \u00a7\u00a052). The applicant should accordingly have been able to avail herself of effective and practical remedies capable of leading to the identification and punishment of those responsible and to an award of compensation, for the purposes of Article\u00a013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "157.\u00a0\u00a0However, in circumstances where, as here, the criminal investigation into the disappearance and probable death was ineffective (see paragraphs 124-130 above), and where the effectiveness of any other remedy that may have existed, including the civil remedies suggested by the Government, was consequently undermined, the Court finds that the State has failed in its obligation under Article\u00a013 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "158.\u00a0\u00a0Consequently, there has been a violation of Article 13 of the Convention in connection with Articles 2 and 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "159.\u00a0\u00a0As regards the applicant's reference to Article 5 of the Convention, the Court recalls its findings of a violation of this provision set out above. In the light of this it considers that no separate issues arise in respect of Article\u00a013 taken in conjunction with Article 5 of the Convention, which itself contains a number of procedural guarantees related to the lawfulness of detention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0OBSERVANCE OF Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the convention",
+                        "elements": [
+                            {
+                                "content": "160.\u00a0\u00a0The applicant argued that the Government's failure to submit the documents requested by the Court, namely the entire criminal investigation file, disclosed a failure to comply with their obligations under Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention. The relevant parts of those Articles provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 34",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 38",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0If the Court declares the application admissible, it shall",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0pursue the examination of the case, together with the representatives of the parties, and if need be, undertake an investigation, for the effective conduct of which the States concerned shall furnish all necessary facilities.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "161.\u00a0\u00a0The applicant invited the Court to conclude that the Government had failed in their obligations under Article 38 on account of their refusal to submit all the documents from the investigation file in response to the Court's requests (see above). She noted that their reference to Article 161 of the Code of Criminal Procedure was not sufficient to justify that refusal. In her view, by virtue of their handling of the Court's request for documents, the Government had additionally failed to comply with their obligations under Article 34.",
+                                "elements": []
+                            },
+                            {
+                                "content": "162.\u00a0\u00a0The Government noted that the available documents from the investigation file and other relevant materials had been submitted to the Court. The submission of other documents would be incompatible with Article 161 of the Code of Criminal Procedure.",
+                                "elements": []
+                            },
+                            {
+                                "content": "163.\u00a0\u00a0The Court reiterates that it is of the utmost importance for the effective operation of the system of individual petition instituted under Article 34 of the Convention that States should furnish all necessary facilities to make possible a proper and effective examination of applications (see Tanr\u0131kulu v. Turkey [GC], no. 23763/94, \u00a7\u00a070, ECHR\u00a01999IV). This obligation requires the Contracting States to furnish all necessary facilities to the Court, whether it is conducting a fact-finding investigation or performing its general duties as regards the examination of applications. Failure on a Government's part to submit such information which is in their hands, without a satisfactory explanation, may not only give rise to the drawing of inferences as to the well-foundedness of the applicant's allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article\u00a038\u00a0\u00a7\u00a01\u00a0(a) of the Convention (see Timurta\u015f v. Turkey, no. 23531/94, \u00a7 66, ECHR 2000-VI).",
+                                "elements": []
+                            },
+                            {
+                                "content": "164.\u00a0\u00a0In accordance with the principles enumerated in its case-law, the Court agrees that a failure to submit information which is crucial to the establishment of facts may give rise to a separate finding under Article 38 of the Convention. In a case where the application raises issues of grave unlawful actions by State agents, as well as where the adequacy of the investigation is in question, the documents of the criminal investigation are fundamental to the establishment of the facts and their absence may prejudice the Court's proper examination of the complaint.",
+                                "elements": []
+                            },
+                            {
+                                "content": "165.\u00a0\u00a0In the present case, the Government submitted about one-third of the file in response to communication of the complaints. In December 2005 the Court declared the application admissible and reiterated its request to be provided with the entire file. It also asked the Government to provide an update of the investigation since March 2004. In March 2006 the Government submitted the decisions to adjourn and reopen the case issued between March 2004 and February 2006 (see paragraph 58 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "166.\u00a0\u00a0The Court first remarks that the provisions of Article 161 of the Code of Criminal Procedure, to which the Government refer, do not preclude disclosure of the documents from a pending investigation file, but rather set out a procedure for and limits to such disclosure. The Government failed to specify the nature of the documents and the grounds on which they could not be disclosed (see, for similar conclusions, Mikheyev v. Russia, no.\u00a077617/01, \u00a7\u00a0104, 26 January 2006). The Court also recalls that in a number of comparable cases reviewed and pending before the Court, similar requests have been made to the Russian Government and the documents from the investigation files have been submitted without a reference to Article 161 (see, for example, Khashiyev and Akayeva v. Russia cited above, \u00a7\u00a046; Magomadov and Magomadov v. Russia (dec.), no. 58752/00, 24 November 2005). For these reasons the Court considers the Government's explanations concerning the disclosure of the case file insufficient to justify the withholding of the key information requested by the Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "167.\u00a0\u00a0The Court points out that the above-mentioned obligation under Article 38 of the Convention to assist the Court in its investigation of the application becomes applicable after the case has been declared admissible. Noting that the Government failed to comply with the request and to furnish almost any documents from the case-file after the admissibility decision, the Court considers that there has been a breach of Article 38 of the Convention as regards the submission of the documents requested by the Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "168.\u00a0\u00a0As to Article 34 of the Convention, its main objective is to ensure the effective operation of the right of individual petition. There is no indication in the present case that there has been any hindrance of the applicant's right to individual petition, either in the form of interference with the communication between the applicant and the Court or the applicant's representation before the Convention institutions, or in the form of undue pressure placed on the applicant. The Court is of the opinion that the failure to submit the full set of documents requested raises no separate issues under Article 34, especially as it follows from the case-law cited above that the Court regards its provisions as a sort of lex generalis in relation to the provisions of Article 38, which specifically oblige States to cooperate with the Court.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VIII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "169.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "170.\u00a0\u00a0The applicant claimed damages in respect of the loss of her husband's earnings from the time of his disappearance. She claimed a total of 33,448 Russian roubles (RUR) (968 euros (EUR)) under this head.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "171.\u00a0\u00a0The applicant stated that her husband had been the breadwinner of the family and that a significant portion of his earnings would have been spent on supporting their three youngest children until the age of 18. The applicant assumed that each child could claim 25 % of Shakhid Baysayev's earnings. Their youngest child reached the age of 18 in August 2005.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "172.\u00a0\u00a0She submitted that her husband had worked as a mechanic with the Staropromyslovskiy District Transport Department, earning an annual wage of RUR\u00a019,200. She assumed that he would have worked there until the closure of the Department in March 2001 and would have earned RUR\u00a019,584, taking into account an average inflation rate of 12\u00a0%. The applicant's husband had also received a pension of RUR 457 in March\u00a02000, which was later increased. The applicant calculated that his pension earnings up to August 2005, taking into account the inflation rate, would have amounted to RUR\u00a05,637.74. The applicant assumed that she could have counted on 75% of her husband's future wages (RUR\u00a014,688) and, progressively, on 75, 50 and 25 % of his pension (RUR\u00a018,800) until the majority of their children.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "173.\u00a0\u00a0The applicant also requested compensation for the 1,000 US dollars (EUR 764) she had paid for the videotape depicting her husband's apprehension.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "174.\u00a0\u00a0The Government regarded these claims as based on supposition and unfounded. With regard to the sum of 1,000 US dollars, the Government noted that the applicant had paid the amount of her own free will and that the authorities could not be held responsible for that act.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "175.\u00a0\u00a0The Court reiterates that there must be a clear causal connection between the damage claimed by the applicant and the violation of the Convention, and that this may, in the appropriate case, include compensation in respect of loss of earnings (see, among other authorities, \u00c7ak\u0131c\u0131 v.  [GC], no. 23657/94, \u00a7\u00a0127, ECHR 1999IV). Having regard to its above conclusions, there is indeed a direct causal link between the violation of Article\u00a02 in respect of the applicant's husband and the loss by the applicant and her children of the financial support which he could have provided. The Court finds that the loss of earnings also applies to dependants and considers it reasonable to assume that the applicant's husband would have received the earnings and that the applicant would have benefited from them. The Court also perceives a direct causal link between the violations found in the present case, and in particular the absence of an effective investigation, and the applicant's eventual decision to pay a considerable sum of money for evidence directly pertaining to the circumstances of his apprehension.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "176.\u00a0\u00a0Having regard to the applicant's submissions, the Court awards her EUR\u00a01,732 in respect of pecuniary damage, plus any tax that may be chargeable on that amount.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Non-pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "177.\u00a0\u00a0The applicant claimed EUR\u00a080,000 in respect of non-pecuniary damage for the suffering she had endured as a result of the loss of her husband, the indifference shown by the authorities towards her, the latter's failure to provide any information about his fate and the impossibility of burying him. She recalled that their children had lost their father and that her own health had deteriorated significantly as a result of the emotional distress.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "178.\u00a0\u00a0The Government found the amount claimed to be excessive.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "179.\u00a0\u00a0The Court has found a violation of Articles 2, 5 and 13 of the Convention on account of the unacknowledged detention and presumed death of the applicant's husband in the hands of the authorities. The applicant herself has been found to be a victim of a violation of Article 3 of the Convention in relation to the emotional anguish endured by her. The Court thus accepts that she has suffered non-pecuniary damage which cannot be compensated for solely by the findings of violations. Ruling on an equitable basis, as required by Article\u00a041 of the Convention, it awards the applicant EUR\u00a050,000, plus any tax that may be chargeable on the above amount.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "180.\u00a0\u00a0The applicant was represented by lawyers from the SRJI. She submitted that the costs included research in Ingushetia and in , at a rate of EUR 50 per hour, and the drafting of legal documents submitted to the  and domestic authorities at a rate of EUR 50 per hour for SRJI junior staff and EUR 150 per hour for senior staff.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "181.\u00a0\u00a0The applicant claimed EUR 12,993.09 in respect of costs and expenses related to her legal representation. This included:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 4,200 for preparation and translation of the application to the ECHR;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 150 for submission of the transcript of the videotape;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 2,625 for preparation of the applicant's reply to the Government's memorial;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 3,525 for preparation of the applicant's reply following the ECHR admissibility decision;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 1,174 in connection with the translation of the applicant's submissions;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 250 for the preparation of legal documents submitted to the domestic law-enforcement agencies;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 316.70 for postal expenses;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 752.50 for administrative costs (7% of legal fees).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "182.\u00a0\u00a0The Government did not dispute the details of the calculations submitted by the applicant, but contended that the sum claimed was excessive for a non-profit organisation such as the applicant's representative, the SRJI.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "183.\u00a0\u00a0The Court has to establish, first, whether the costs and expenses indicated by the applicant were actually incurred and, second, whether they were necessary (see McCann and Others v. the United Kingdom, judgment of 27 September 1995, Series A no.\u00a0324, \u00a7\u00a0220).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "184.\u00a0\u00a0The Court notes that, under a contract entered into by the applicant on 16 October 2005, she agreed to pay her representative those costs and expenses incurred in representing her before the Court, subject to delivery by the Court of a final judgment concerning the present application and to payment by the Russian Federation of the legal costs, should these be granted by the Court. The rates were established at 50 EUR per hour for junior lawyers from the SRJI and 150 EUR per hour for senior staff from the SRJI and outside experts, plus 7% for administrative costs. The Court is satisfied that these rates are reasonable and reflect the expenses actually incurred by the applicant's representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "185.\u00a0\u00a0Further, it has to be established whether the costs and expenses incurred by the applicant for legal representation were necessary. The Court notes that the case was relatively complex, involved a fair amount of documentary evidence and required a certain amount of research and preparation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "186.\u00a0\u00a0In these circumstances and having regard to the details of the claims submitted by the applicant, the Court awards her EUR\u00a012,994 as claimed, together with any value-added tax that may be chargeable.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "187.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of the disappearance of Shakhid Baysayev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of the failure to conduct an effective investigation into the circumstances in which Shakhid Baysayev disappeared;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article\u00a03 of the Convention in respect of the failure to protect the applicant's husband from inhuman and degrading treatment;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that no separate issues arise under Article\u00a03 of the Convention in respect of the investigation into the allegations of ill-treatment;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article\u00a03 of the Convention in respect of the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 of the Convention in respect of Shakhid Baysayev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that no separate issues arise under Article\u00a06 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention in respect of the alleged violations of Articles 2 and 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that no separate issues arise under Article 13 of the Convention in respect of the alleged violation of Article 5;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that there has been a failure to comply with Article 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds that there is no need to examine separately the applicant's complaints under Article 34 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 5 April 2007, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrC.L. Rozakis",
+            "role": "president"
+        },
+        {
+            "name": "MrL. Loucaides",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "MrK. Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "MrD. Spielmann",
+            "role": "judges"
+        },
+        {
+            "name": "MrS.E. Jebens",
+            "role": "judges"
+        },
+        {
+            "name": "Mr S. Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "01/12/2005 00:00:00",
+    "docname": "CASE OF BAYSAYEVA v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-80025.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2007:0405JUD007423701",
+    "externalsources": [],
+    "extractedappno": [
+        "74237/01",
+        "57942/00",
+        "57945/00",
+        "69481/01",
+        "7615/02",
+        "69480/01",
+        "25656/94",
+        "38361/97",
+        "25660/94",
+        "23763/94",
+        "23531/94",
+        "77617/01",
+        "58752/00",
+        "23657/94"
+    ],
+    "importance": "3",
+    "introductiondate": "24/08/2001 00:00:00",
+    "issue": [],
+    "itemid": "001-80025",
+    "judgementdate": "05/04/2007 00:00:00",
+    "kpdate": "05/04/2007 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "595",
+        "231",
+        "350",
+        "193",
+        "448",
+        "93",
+        "228",
+        "459",
+        "444",
+        "110",
+        "121",
+        "523",
+        "216",
+        "577",
+        "283",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "38",
+        "2",
+        "5-1",
+        "5",
+        "13",
+        "41"
+    ],
+    "parties": [
+        "BAYSAYEVA",
+        "RUSSIA"
+    ],
+    "rank": "579.929931640625",
+    "representedby": [
+        "STICHTING RUSSIAN JUSTICE INITIATIVE"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Akdivar and Others v. Turkey, judgment of 16 September 1996, Reports 1996-IV, p. 1210, \u00a7\u00a7 65-67, and p. 1211, \u00a7 69",
+        "Aksoy v. Turkey judgment of 18 December 1996, Reports of Judgments and Decisions 1996-VI, pp. 2275-76, \u00a7\u00a7 51-52, and p. 2276, \u00a7\u00a7 53 and 54",
+        "Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7 161-162, ECHR 2002-IV",
+        "Bazorkina v. Russia, no. 69481/01, \u00a7\u00a7 103-109 and 117-119, 27 July 2006",
+        "Boyle and Rice v. the United Kingdom, judgment of 27 April 1988, Series A no. 131, \u00a7 52",
+        "\u00c7akici v. Turkey [GC], no. 23657/94, \u00a7 127, ECHR 1999-IV",
+        "Imakayeva v. Russia, no. 7615/02, 9 November 2006",
+        "Ireland v. the United Kingdom, judgment of 18 January 1978, Series A no. 25, p. 64-65, \u00a7 161",
+        "Kaya v. Turkey judgment of 19 February 1998, Reports 1998-I, p. 329, \u00a7 105",
+        "Khashiyev and Akayeva v. Russia, nos. 57942/00 and 57945/00, \u00a7 46, \u00a7\u00a7 119-121 and \u00a7 183, 24 February 2005",
+        "Luluyev and Others v. Russia, no. 69480/01, 9 November 2006",
+        "Magomadov and Magomadov v. Russia (dec.), no. 58752/00, 24 November 2005",
+        "McCann and Others v. the United Kingdom, judgment of 27 September 1995, Series A no. 324, \u00a7 220",
+        "Mikheyev v. Russia, no. 77617/01, \u00a7 104, 26 January 2006",
+        "Orhan v. Turkey, no. 25656/94, \u00a7 358, and \u00a7 383, 18 June 2002",
+        "S\u00fcheyla Aydin v. Turkey, no. 25660/94, \u00a7 208, 24 May 2005",
+        "Tanrikulu v. Turkey [GC], no. 23763/94, \u00a7 70, ECHR 1999-IV",
+        "Timurts? v. Turkey, no. 23531/94, \u00a7 66, ECHR 2000-VI",
+        "Yasa v. Turkey, judgment of 2 September 1998, Reports 1998-VI, p. 2431, \u00a7 74"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "393652",
+    "typedescription": "15"
+}

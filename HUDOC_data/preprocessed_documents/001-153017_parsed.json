@@ -1,0 +1,730 @@
+{
+    "__articles": "8;8-1;8-2;35;35-3;41;P1-1;P1-1-1",
+    "__conclusion": "Preliminary objection joined to merits and dismissed (Article 35-3 - Ratione materiae);Remainder inadmissible;Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life);Violation of Article 1 of Protocol No. 1 - Protection of property (Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions);Pecuniary and non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Pecuniary damage;Just satisfaction)",
+    "applicability": "55",
+    "appno": "44958/05",
+    "article": [
+        "8",
+        "41",
+        "35",
+        "p1-1"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 35-3 - Ratione materiae"
+            ],
+            "element": "Preliminary objection joined to merits and dismissed",
+            "type": "other"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for family life"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "article": "p1-1",
+            "base_article": "p1-1",
+            "details": [
+                "Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions"
+            ],
+            "element": "Violation of Article 1 of Protocol No. 1 - Protection of property",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary and non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-153017.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 44958/05) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Romanian national, Ms Parasca Zaie\u0163 (\u201cthe applicant\u201d), on 14 October 2005.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by Mr\u00a0M. Ardelean, a lawyer practising in Timisoara. The Romanian Government (\u201cthe Government\u201d) were represented by their Agent, Mrs\u00a0I.\u00a0Cambrea, from the Ministry of Foreign Affairs.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Relying on Articles 6 and 8 of the Convention the applicant alleged that her right to respect for her family life had been violated because of the unlawful annulment of her adoption. Under Article 1 of Protocol\u00a0No.\u00a01 to the Convention the applicant complained that as a direct consequence of the annulment of her adoption she had lost title to the five hectares of forest she had inherited from her adoptive mother.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 6 October 2011 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1955 and lives in S\u0103v\u00e2r\u0219in.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0She was adopted on 25 February 1972, at the age of seventeen.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The applicant\u2019s adoptive mother also had another adopted daughter, H.M. The applicant\u2019s mother died in 1986.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0In 2003, the two sisters were jointly granted title to ten hectares of forest, based on their entitlement through adoption to inherit land which had been expropriated from their grandmother.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0Subsequently, the applicant brought an action for division of the land between the sisters.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0While the proceedings were ongoing, H.M. brought an action for annulment of the applicant\u2019s adoption. She claimed that the main aim pursued by her adoptive mother when she had sought to adopt the applicant had been to ensure emotional and financial support for her in old age and help with everyday activities. H.M. averred that the only aim pursued by the applicant in agreeing to the adoption had been to obtain inheritance rights.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0The applicant submitted that the main reason why her sister had lodged the action for the annulment of her adoption had been to preclude her from inheriting half of the ten hectares of land and to keep all the property inherited from their adoptive mother for herself. In this respect she claimed that the lawfulness of the adoption order had never been questioned before, although it had been issued thirty-two years previously. She concluded that the misunderstandings which had arisen between her and her sister after the death of their adoptive mother could not justify the annulment of an adoption concluded in accordance with the law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0In his final oral submissions before the first-instance court the applicant\u2019s lawyer raised the objection of lack of locus standi of the plaintiff. He contended that H.M. had not proved a legitimate and current interest in seeking the annulment of her sister\u2019s adoption.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 7 December 2004 the Suceava County Court dismissed the applicant\u2019s objection and declared the applicant\u2019s adoption void, finding that it had not had a purpose envisioned by the Family Code. It held that the only aim of the applicant\u2019s adoption had been the fulfilment of the patrimonial interests of the adoptive mother and the adopted child, and that it had not been intended to ensure a better life for the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The applicant lodged an appeal on points of law, maintaining that she had lived with her adoptive mother since she was nine years old, although the adoption order had only been issued in 1972 when she was seventeen. She submitted that the family relationship established between her and her adoptive mother since she was nine had been proved by witness statements which were in the case file, and that it was also attested to in the report drafted by the authorities when they carried out a social investigation in connection with her adoption.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0The judgment of the court of first instance was upheld by a decision of the Suceava Court of Appeal rendered on 15 April 2005. A dissenting opinion to that decision stated that the adoption had not been improper, as its main aim had been the welfare of the applicant, who had been born into a family with eight children and a difficult financial situation.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC AND INTERNATIONAL LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Relevant domestic law",
+                                "elements": [
+                                    {
+                                        "content": "16.\u00a0\u00a0The relevant provisions of the Family Code concerning adoption were repealed by Government Emergency Ordinance no. 25/1997, (GEO\u00a0no. 25/1997) published in the Official Gazette no. 120 of 12\u00a0June\u00a01997. The relevant provisions concerning the annulment of adoption were as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(2) An adoption may be cancelled at the request of an adoptee who has reached the age of ten, or the Child Protection Commission in the adoptee\u2019s area if the annulment of the adoption is in the best interests of the adoptee.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The Adoption Act (Law\u00a0no.\u00a0273/2004) repealed GEO no. 25/1997 and entered into force on 1 January 2005. The relevant provisions, as in force at the relevant time, read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) A court may annul an adoption order if the adoption was sought for a reason other than the protection of the best interests of the adoptee or if the conditions provided for by law were not observed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) The court may dismiss a request for the annulment of an adoption if it considers that maintaining the adoption is in the best interests of the adoptee.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAny interested person may request the annulment of an adoption. After the adoptee obtains his or her full legal capacity, he or she is the only person who can challenge the validity of the adoption.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Relevant international standards",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0European Convention on the Adoption of Children, opened for signature in Strasbourg on 24 April 1967 and ratified by Romania on 18 May 1993",
+                                        "elements": [
+                                            {
+                                                "content": "\u201c(1) Adoption confers on the adopter in respect of the adopted person the rights and obligations of every kind that a father or mother has in respect of a child born in lawful wedlock.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Adoption confers on the adopted person in respect of the adopter the rights and obligations of every kind that a child born in lawful wedlock has in respect of his father or mother.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(2) When the rights and obligations referred to in paragraph\u00a01 of this article are created, any rights and obligations of the same kind existing between the adopted person and his father or mother or any other person or body shall cease to exist. Nevertheless, the law may provide that the spouse of the adopter retains his rights and obligations in respect of the adopted person if the latter is his legitimate, illegitimate or adopted child.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "In addition the law may preserve the obligation of the parents to maintain (in the sense of l\u2019obligation d\u2019entretenir and l\u2019obligation alimentaire) or set up in life or provide a dowry for the adopted person if the adopter does not discharge any such obligation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(3) As a general rule, means shall be provided to enable the adopted person to acquire the surname of the adopter either in substitution for, or in addition to, his own.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(4) If the parent of a child born in lawful wedlock has a right to the enjoyment of that child\u2019s property, the adopter\u2019s right to the enjoyment of the adopted person\u2019s property may, notwithstanding paragraph\u00a01 of this article, be restricted by law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(5) In matters of succession, in so far as the law of succession gives a child born in lawful wedlock a right to share in the estate of his father or mother, an adopted child shall, for the like purposes, be treated as if he were a child of the adopter born in lawful wedlock.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0European Convention on the Adoption of Children (Revised), opened for signature on 27\u00a0November 2008 and ratified by Romania on 2\u00a0January 2012",
+                                        "elements": [
+                                            {
+                                                "content": "18.\u00a0\u00a0The legal and social changes that have occurred in Europe since the first Council of Europe Convention on child adoption have led a large number of States parties to amend their adoption laws. As a result, certain provisions of the 1967 Convention have gradually become outdated. With that in mind, a revised Convention was drawn up in line with the social and legal developments whilst taking the child\u2019s best interests into account.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0The Council of Europe\u2019s European Convention on the Adoption of Children (Revised) was opened for signature on 27 November 2008. Romania signed it on 4 March 2009 and ratified it on 2 January 2012.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c(1) Upon adoption a child shall become a full member of the family of the adopter(s) and shall have in regard to the adopter(s) and his, her or their family the same rights and obligations as a child of the adopter(s) whose parentage is legally established. The adopter(s) shall have parental responsibility for the child. The adoption shall terminate the legal relationship between the child and his or her father, mother and family of origin.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c(1) An adoption may be revoked or annulled only by decision of the competent authority. The best interests of the child shall always be the paramount consideration.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(2) An adoption may be revoked only on serious grounds permitted by law before the child reaches the age of majority.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(3) An application for annulment must be made within a period prescribed by law.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT\u2019S PRELIMINARY OBJECTION",
+                        "elements": [
+                            {
+                                "content": "20.\u00a0\u00a0The Government invited the Court to reject the application on the ground that the applicant had failed to comply with the requirement under Article 35 \u00a7 1 of the Convention to submit the application within six months. They submitted that although the applicant had sent a first letter to the Court on 12 October 2005, a duly completed application form had been submitted only on 17 January 2006. They concluded that as the six-month limit for submitting an application to the Court had expired on 15\u00a0October\u00a02005 the application was out of time.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0The applicant disagreed. She submitted that after she had sent her application on 14 October 2005 she had completed and returned the official application form within the deadline set by the Court. Therefore, she was asking the Court to dismiss this objection as unfounded.",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0From the analysis of the material submitted by the applicant the Court notes that she had sent a letter containing all the relevant information for submitting an application on 14 October 2005. On 19 December 2005 the Court informed the applicant that her application had been registered and asked her to fill in a standard application form within six weeks of reception of the Court\u2019s letter. The applicant returned a duly completed application form on 17 January 2006. The Court, therefore, finds no reason to conclude that the applicant did not comply with the six-month time-limit, and rejects the Government\u2019s preliminary objection.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 6\u00a0\u00a7 1 AND 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "23.\u00a0\u00a0The applicant complained that her right to respect for her private and family life had been violated because of the annulment of her adoption by unlawful decisions of the domestic courts. She relied on Articles 6 \u00a7 1 and 8 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0The Court reiterates that it has previously held that whilst Article 8 contains no explicit procedural requirements, the decision-making process leading to measures of interference must be fair and such as to afford due respect to the interests safeguarded by Article 8 (see Kutzner v. Germany, no.\u00a046544/99, \u00a7 56, ECHR 2002I, and Kurochkin v. Ukraine, no. 42276/08, \u00a7 31, 20\u00a0May\u00a02010).",
+                                "elements": []
+                            },
+                            {
+                                "content": "25.\u00a0\u00a0The Court therefore considers that the applicant\u2019s complaints fall to be examined solely under Article 8 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0The Government submitted that Article 8 of the Convention was not applicable to the applicant\u2019s case, and asked the Court to dismiss the application as inadmissible ratione materiae. In this connection they contended that in the instant case the family relationship to be protected under Article\u00a08 had not arisen from a lawful and genuine adoption.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The applicant disagreed, and maintained that the relationship built between her and her adoptive mother could be considered sufficient to be covered and protected by Article 8 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The Court notes that the instant case concerns the proceedings for the annulment of the applicant\u2019s adoption order, thirty-one years after it had been issued. The domestic courts\u2019 decisions by which the applicant\u2019s adoption was declared void directly affected her private and family life. The Court considers that the applicant\u2019s complaint relates to her private and family life and falls within the scope of Article 8 of the Convention. Therefore, the Government\u2019s objection has to be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The Court further notes that this complaint is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It also notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0The applicant argued that the adoption had been concluded in accordance with the legal provisions in force at that time. A social investigation had been carried out and witness statements recorded. She also pointed out that she had been raised and educated by her adoptive mother since she was nine years old, and stated that their relationship had been based on affection, responsibility, and mutual moral and material support. The applicant submitted that the annulment of her adoption had represented an intrusion in her family life which had no legitimate aim and was disproportionate and arbitrary.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0As regards the legal proceedings for the annulment of her adoption, the applicant claimed that her sister had not had locus standi to lodge the action for annulment and that the reasons provided by the domestic courts for allowing the action had not been relevant and sufficient. The applicant did not agree that she had to raise the objection of lack of locus standi of her sister again before the appeal court. She argued that on the basis of the principle of the active role of the courts, provided for by Article 129\u00a0\u00a7 5 of the Romanian Code of Civil Procedure, the appeal court should have taken into account the objection raised at the lower level of jurisdiction, as it related to an absolute and peremptory objection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The Government considered that the measure complained of was lawful, pursued a legitimate interest and was necessary and proportionate. They pointed out that the reasons adduced by the domestic courts for the annulment of the adoption were relevant and sufficient.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0As regards the locus standi of the applicant\u2019s sister to lodge a claim seeking the annulment of adoption, the Government pointed out that the applicant had not raised this objection again before the appeal court.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0The Court reiterates that the relations between an adoptive parent and an adopted child are as a rule of the same nature as the family relations protected by Article 8 of the Convention, and that such a relationship, arising from a lawful and genuine adoption, may be deemed sufficient to attract such respect as may be due for family life under Article\u00a08 of the Convention (see Pini and Others v. Romania, nos. 78028/01 and 78030/01, \u00a7\u00a7 140 and 148, ECHR 2004V (extracts)).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0In the instant case, the Court considers that the annulment of the adoption order, thirty-one years after it had been issued, at the request of the applicant\u2019s sister, amounted to an interference with the applicant\u2019s right to respect for her family life as guaranteed by Article 8 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0Such an interference can be considered justified only if the conditions of the second paragraph of Article 8 are satisfied. It must be \u201cin accordance with the law\u201d, have an aim which is legitimate under that paragraph, and must be \u201cnecessary in a democratic society\u201d for the aforesaid aim (see Smith\u00a0and Grady v. the United Kingdom, nos. 33985/96 and 33986/96, \u00a7\u00a072, ECHR 1999VI). The notion of necessity implies that the interference corresponds to a pressing social need and, in particular, that it is proportionate to the legitimate aim pursued (see Saviny\u00a0v.\u00a0Ukraine, no.\u00a039948/06, \u00a7 47, 18\u00a0December 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The expression \u201cin accordance with the law\u201d under Article 8 \u00a7 2 requires first that the impugned measure should have some basis in domestic law; it also refers to the quality of the law in question, requiring that it should be compatible with the rule of law and accessible to the person concerned, who must, moreover, be able to foresee its consequences for him (see Liberty and Others v. the United Kingdom, no. 58243/00, \u00a7 59, 1\u00a0July\u00a02008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0Regarding whether the interference was in accordance with the law, the Court notes that at the time the applicant\u2019s sister lodged her action the relevant provisions concerning adoption were to be found in GEO\u00a0no.\u00a025/1997 (see paragraph 16 above). On 26 June 2004, after the firstinstance court had delivered its judgment but while the application for the annulment of the applicant\u2019s adoption was before the appeal court, the Adoption Act (see paragraph 17 above) entered into force.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Court observes that the decisions concerning the annulment of the applicant\u2019s adoption were taken upon an application by her sister, also adopted by the applicant\u2019s adoptive mother. In this connection the applicant claimed before the first-instance court that her sister had no locus standi to challenge the adoption order. The applicant based her objection on the provisions of the Code of Civil Procedure, and claimed that her sister had not proved a legitimate interest for lodging her application. The firstinstance court had dismissed the applicant\u2019s objection, holding that the applicant\u2019s sister had a legitimate interest in obtaining the annulment of the adoption, as the applicant and her sister were parties to the proceedings for the partition of ten hectares of forest (see paragraph 9 above) inherited from their adoptive mother. The Court notes that under Article 22 of GEO\u00a025/1997, in force at that time, only an adoptee who had reached the age of ten or the Child Protection Commission could challenge the adoption order, and then only on condition that the cancellation served the best interests of the child.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court also notes that the applicant did not raise the objection of lack of locus standi again before the appeal court. The appeal court had rendered its final decision on 15 April 2005, three months after the Adoption Act had entered into force. Section 57 of the Adoption Act states that after an adoptee obtains full legal capacity only the adoptee can seek annulment of his or her adoption. The Court considers that although the applicant had not cited these provisions before the appeal court, the latter court should have raised this objection proprio motu, on the basis of the active role the courts have to play in the administration of justice, especially because the lack of locus standi is a peremptory and absolute objection in civil proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0In the light of the foregoing the Court is doubtful that the measure at issue applied by the authorities was in accordance with the law within the meaning of Article 8 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0As regards the legitimate interest pursued by the domestic courts, the Court notes that the annulment of the applicant\u2019s adoption did not serve the interests of either the adopted child or the adoptive mother. The main consequence of the annulment was the disruption of the applicant\u2019s family tie with her already dead mother and the loss of her inheritance rights to the benefit of her sister. Taking into account that the annulment proceedings were brought by the applicant\u2019s sister in order to keep for herself the whole land inherited from their adoptive mother, the Court also expresses doubts that a legitimate aim was pursued by the impugned decisions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court reiterates that in order to determine whether the impugned measures were \u201cnecessary in a democratic society\u201d, it has to consider whether, in the light of the case as a whole, the reasons adduced to justify them were relevant and sufficient for the purposes of Article 8 \u00a7 2 (see Kutzner, cited above, \u00a7\u00a065, and Moser\u00a0v.\u00a0Austria, no. 12643/02, \u00a7 64, 21\u00a0September 2006).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0In doing so, it is not the Court\u2019s task to substitute itself for the domestic authorities, but rather to review under the Convention the decisions that those authorities have taken in their exercise of their power of assessment (see K. and T. v. Finland [GC], no. 25702/94, \u00a7 154).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Even assuming that the authorities enjoy a wide margin of appreciation in assessing the need for the annulment of the adoption (see mutatis mutandis, Kurochkin v. Ukraine, no. 42276/08, \u00a7 52, 20 May 2010 and Ageyevy v. Russia, no. 7075/10, \u00a7 127, 18 April 2013), the Court must still be satisfied in this particular case that there are circumstances which justify the annulment of the applicant\u2019s adoption thirty-one years after the adoption order had been issued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Court further notes that where the existence of a family tie has been established the State must in principle act in a manner calculated to enable that tie to be maintained. Splitting up a family is an interference of a very serious order. Such a step must be supported by sufficiently sound and weighty considerations not only in the interests of the child (see Scozzari and Giunta\u00a0v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 148, ECHR\u00a02000VIII) but also in respect of the legal certainty.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Turning to the facts of the present case, the Court observes that the reason for the annulment of the adoption of the applicant\u00a0was based on the domestic courts\u2019 consideration that the only aim of the applicant\u2019s adoption had been the furtherance of the patrimonial interests of the adoptive mother and the adopted child, and the adoption had not been intended to ensure a better life for the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Court notes that as a general rule the legal provisions governing adoption are designed primarily for the benefit and protection of children. Usually, child welfare officials will seek a termination order on the basis of a judicial ruling that the parent is unfit to rear the child and that severance of the legal status would serve the child\u2019s interests. The annulment of adoption is not envisaged as a measure against the adopted child and cannot be interpreted in the sense of disinheriting an adopted child eighteen years after the death of her adoptive mother and thirty-one years after the adoption order had been issued. In this respect the Court also notes that under section 57 of the Adoption Act, which entered into force on 1 January 2005, only the adopted child may challenge the validity of the adoption after the adoptee has obtained his or her full legal capacity.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0If subsequent evidence reveals that a final adoption order was based on fraudulent or misleading evidence, the interests of the child should remain paramount in establishing a process to deal with any damage caused to the adoptive parent as a result of the wrongful order.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0In the light of the foregoing, in the Court\u2019s opinion the findings of the domestic courts on the annulment of the adoption of the applicant were not supported by relevant and sufficient reasons justifying such an interference in the applicant\u2019s family life. The arguments contained in the court decisions are rather vague and do not provide sufficient justification for the application of such a radical measure by the courts in respect of the applicant\u2019s family rights.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that there has been a violation of Article 8 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "52.\u00a0\u00a0The applicant further complained that her property rights had been infringed, as, after the annulment of her adoption, she lost title to the five hectares of forest she had inherited from her adoptive mother.",
+                                "elements": []
+                            },
+                            {
+                                "content": "She relied on Article 1 of Protocol No. 1 to the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The objection of non-exhaustion of domestic remedies",
+                                        "elements": [
+                                            {
+                                                "content": "53.\u00a0\u00a0The Government maintained that the applicant had not exhausted the domestic remedies afforded. They noted that the applicant had not filed an appeal against the judgment rendered by the C\u00e2mpulung Moldovenesc District Court on 22 September 2006. They also pointed out that the action for division of the land between the sisters lodged by the applicant had been dismissed on the ground that the applicant had failed to pursue her action.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The applicant maintained that the proceedings referred to by the Government had not had any prospect of success after the annulment of her adoption.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court notes that the annulment of the applicant\u2019s adoption by a final decision of 15 April 2005 had as direct consequence the loss of the applicant\u2019s inheritance rights. Therefore, the Court considers that the continuation of the civil proceedings concerning the land inherited from the applicant\u2019s adoptive mother could not provide any redress for the violations alleged by the applicant. Therefore the Court dismisses the Government\u2019s preliminary objection of non-exhaustion.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The objection rationae materiae",
+                                        "elements": [
+                                            {
+                                                "content": "56.\u00a0\u00a0The Government submitted that the applicant had no possession as the ownership title which conferred her right to the land had been annulled by a final decision of a domestic court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The applicant contested the Government\u2019s argument.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Court considers that the objection is closely linked to the merits of the applicant\u2019s complaint. It will therefore deal with the objection in its examination of the merits below. It also notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0The applicant maintained that by allowing the action for the annulment of the adoption and subsequently the action for the annulment of the ownership title to the land the Romanian State had abusively and disproportionally interfered with her property right over the land.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Government submitted that if the Court considered that there was an interference with the applicant\u2019s rights, such interference was legal, justified and proportionate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0Having regard to its reasoning and findings under Article 8 and in view of the fact that the alleged violation of Article 1 of Protocol No. 1 is the direct outcome of the proceedings that gave rise to the breach of Article\u00a08 of the Convention, the Court rejects the Government\u2019s objection as to incompatibility ratione materiae and finds that there has also been a violation of Article 1 of Protocol No. 1 to the Convention (compare and contrast, Marckx v. Belgium, 13 June 1979, \u00a7 63, Series A no. 31; Inze v.\u00a0Austria, 28 October 1987, \u00a7\u00a7 38-40, Series A no. 126; Mazurek v.\u00a0France, no.\u00a034406/97, \u00a7\u00a7 41-43, ECHR 2000II, and Fabris v. France [GC], no. 16574/08, \u00a7\u00a7 51-55, ECHR 2013 (extracts)).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "62.\u00a0\u00a0Lastly, the applicant complained under Article 6 \u00a7 1 of the Convention of bias on the part of the domestic judges. Relying on Article 14 of the Convention the applicant alleged discriminatory treatment between herself and her sister with regard to inheritance rights following the annulment of her adoption.",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0The Court has examined these complaints as submitted by the applicant. However, having regard to all the material in its possession, and in so far as they fall within its jurisdiction, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application must be rejected as manifestly ill-founded, pursuant to Article\u00a035 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "64.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicant claimed 30,000 euros (EUR) in compensation for pecuniary damage. She submitted that this amount represented the financial impact of the loss of use of the five hectares of forest she had inherited. She also claimed EUR 10,000 in compensation for non-pecuniary damage, representing the suffering related to the cancelling of her adoption.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government argued that the applicant had not submitted any documents to support her claim for pecuniary damages, and that therefore this claim should be dismissed as speculative. As regards the amount requested by the applicant in compensation for non-pecuniary damage the Government submitted that the amount was too high.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The Court reiterates that a judgment in which it finds a breach imposes on the respondent State a legal obligation to put an end to the breach and make reparation for its consequences in such a way as to restore as far as possible the situation existing before the breach (see Iatridis\u00a0v.\u00a0Greece (just satisfaction) [GC], no. 31107/96, \u00a7 32, ECHR\u00a02000XI). If one or more heads of damage cannot be calculated precisely or if the distinction between pecuniary and non-pecuniary damage proves difficult, the Court may decide to make a global assessment (see Comingersoll\u00a0S.A.\u00a0v.\u00a0Portugal [GC], no. 35382/97, \u00a7 29, ECHR 2000IV).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0The Court has found a violation of Articles 8 and 1 of Protocol No. 1 on account of the annulment of the applicant\u2019s adoption and the consequent loss of her inheritance rights. In addition to a degree of pecuniary loss, the applicant must have also suffered distress as a result of these circumstances. Therefore, the Court considers it reasonable to award the applicant a total of EUR\u00a030,000 to cover all heads of damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The applicant also claimed EUR 550 for costs and expenses incurred before the domestic courts and EUR 1,500 for those incurred before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government contended that according to the documents submitted by the applicant she had paid only EUR 738 to the lawyer who had represented her before the Court, and that the amount of EUR 1,500 should therefore not be granted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 1,200 for costs and expenses.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits the Government\u2019s objection as to the inadmissibility ratione materiae of the applicant\u2019s complaint under Article 1 of Protocol No. 1 to the Convention and rejects it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the applicant\u2019s complaints concerning her right to family life and the right to peaceful enjoyment of her possessions admissible, and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 1 of Protocol No. 1 to the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 24 March 2015, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "judges"
+        },
+        {
+            "name": "J\u00e1n \u0160ikuta",
+            "role": "judges"
+        },
+        {
+            "name": "Dragoljub Popovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": "Johannes Silvis",
+            "role": "judges"
+        },
+        {
+            "name": "Iulia Antoanella Motoc",
+            "role": "judges"
+        },
+        {
+            "name": "Marialena Tsirli",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF ZAIE\u0162 v. ROMANIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-153017.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2015:0324JUD004495805",
+    "externalsources": [],
+    "extractedappno": [
+        "44958/05",
+        "46544/99",
+        "42276/08",
+        "78028/01",
+        "78030/01",
+        "33985/96",
+        "33986/96",
+        "39948/06",
+        "58243/00",
+        "12643/02",
+        "25702/94",
+        "7075/10",
+        "39221/98",
+        "41963/98",
+        "34406/97",
+        "16574/08",
+        "31107/96",
+        "35382/97"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [
+        "Article 22 of the Government Emergency Ordinance (\u201cGEO\u201d) no. 25/1997",
+        "Section 57 of Law no. 273/2004 (the \u201cAdoption Act\u201d)",
+        "Code of Civil Procedure"
+    ],
+    "itemid": "001-153017",
+    "judgementdate": "24/03/2015 00:00:00",
+    "kpdate": "24/03/2015 00:00:00",
+    "kpthesaurus": [
+        "451",
+        "425",
+        "203",
+        "268",
+        "319",
+        "14",
+        "398",
+        "216",
+        "577",
+        "283",
+        "305",
+        "369",
+        "304"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "8",
+        "8-1",
+        "35-3",
+        "8-2",
+        "35",
+        "P1-1-1",
+        "41",
+        "P1-1"
+    ],
+    "parties": [
+        "ZAIE\u0162",
+        "ROMANIA"
+    ],
+    "rank": "1263.51159667969",
+    "representedby": [
+        "ARDELEAN M."
+    ],
+    "respondent": "ROU",
+    "respondentOrderEng": "37",
+    "scl": [
+        "Ageyevy v. Russia, no. 7075/10, \u00a7 127, 18 April 2013",
+        "Comingersoll S.A. v. Portugal [GC], no. 35382/97, \u00a7 29, ECHR 2000 IV",
+        "Fabris v. France [GC], no. 16574/08, \u00a7\u00a7 51-55, ECHR 2013 (extracts)",
+        "Iatridis v. Greece (just satisfaction) [GC], no. 31107/96, \u00a7 32, ECHR 2000 XI",
+        "Inze v. Austria, 28 October 1987, \u00a7\u00a7 38-40, Series A no. 126",
+        "K. and T. v. Finland [GC], no. 25702/94, \u00a7 154, ECHR 2001 VII",
+        "Kurochkin v. Ukraine, no. 42276/08, 20 May 2010",
+        "Kutzner v. Germany, no. 46544/99, ECHR 2002 I",
+        "Liberty and Others v. the United Kingdom, no. 58243/00, \u00a7 59, 1 July 2008",
+        "Marckx v. Belgium, 13 June 1979, \u00a7 63, Series A no. 31",
+        "Mazurek v. France, no. 34406/97, \u00a7\u00a7 41-43, ECHR 2000 II",
+        "Moser v. Austria, no. 12643/02, \u00a7 64, 21 September 2006",
+        "Pini and Others v. Romania, nos. 78028/01 and 78030/01, \u00a7\u00a7 140 and 148, ECHR 2004 V (extracts)",
+        "Saviny v. Ukraine, no. 39948/06, \u00a7 47, 18 December 2008",
+        "Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 148, ECHR 2000 VIII",
+        "Smith and Grady v. the United Kingdom, nos. 33985/96 and 33986/96, \u00a7 72, ECHR 1999 VI"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "414006",
+    "typedescription": "15"
+}

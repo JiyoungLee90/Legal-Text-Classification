@@ -1,0 +1,610 @@
+{
+    "__articles": "6;6-1;13;29;29-3;34;35;35-1;35-3;35-4;41",
+    "__conclusion": "Violation of Art. 6-1 (length of proceedings);Violation of Art. 13;Remainder inadmissible;Pecuniary damage - financial award;Non-pecuniary damage - financial award",
+    "applicability": "",
+    "appno": "4773/02",
+    "article": [
+        "13",
+        "34",
+        "29",
+        "35",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "length of proceedings"
+            ],
+            "element": "Violation of Art. 6-1",
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "element": "Violation of Art. 13",
+            "type": "violation"
+        },
+        {
+            "element": "Remainder inadmissible",
+            "type": "other"
+        },
+        {
+            "element": "Pecuniary damage - financial award",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - financial award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-70532.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 4773/02) against  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Ukrainian national, Mr Viktor Grigoryevich Sychev (\u201cthe applicant\u201d), on 12\u00a0March 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Ukrainian Government (\u201cthe Government\u201d) were represented by their Agent, Mrs Valeria Lutkovska.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 7 September 2004 the Court declared the application partly inadmissible and decided to communicate the complaint concerning the non-execution of the judgments given in favour of the applicant\u00a0and the lack of effective remedies in this respect\u00a0to the Government. Under the provisions of Article 29 \u00a7 3 of the Convention, it decided to examine the merits of the application at the same time as its admissibility.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1941 and lives in , the Donetsk Region.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0On 14 September 1999 the Tsentralny District Court of Gorlovka awarded the applicant UAH 10,798.45 (approximately EUR 1,800) against the Lenina coal-mine (a State-owned entity, hereafter \u201cthe LCM\u201d) for arrears in industrial disablement benefits. The judgment became effective and was sent for execution to the Gorlovka City Bailiffs\u2019 Service (hereafter \u201cthe Bailiffs\u2019 Service\u201d). On 5 October 1999 the Bailiffs\u2019 Service instituted enforcement proceedings in the applicant\u2019s case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 31 October 2000 the Tsentralny District Court of Gorlovka, referring to the decision of the Donetsk Regional Court of Arbitration (hereafter \u201cthe Court of Arbitration\u201d) of 21 December 1998, whereby the LCM was declared bankrupt, ordered the Bailiffs\u2019 Service to transfer the writ of execution to the LCM\u2019s liquidation commission. According to the aforementioned decision of the Court of Arbitration the liquidation commission in issue was to be comprised of representatives of the LCM\u2019s main creditors, including the State Pension Fund, the State Property Fund, the State Tax Administration and several State owned companies.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 17 November 2000 the applicant was informed by the Donetsk Regional Department of Justice that it was impossible to transfer the writ of execution to the liquidation commission as no such commission had in fact been created.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 26 January 2001 the Court of Arbitration\u2019s judge, at the applicant\u2019s request, informed him that the commission had not produced the liquidation balance, as it was supposed to do under the bankruptcy law. The court, however, indicated that the national legislation envisaged no time-limit for that, neither did it provide any sanctions for the commission\u2019s inactivity.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 8 February 2001 the Court of Arbitration ordered the liquidation commission to produce the abovementioned balance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0On 26 February 2001 the meeting of the LCM\u2019s creditors acknowledged that no liquidation commission had been established.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 20 March 2001 the Court of Arbitration, at the request of the Ordena Zhovtnevoy Revolutsiyy State Company, suspended the bankruptcy proceedings pending the supervisory review of its decision of 21\u00a0December\u00a01998.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 27 March 2001 the applicant\u2019s writ of execution was sent to the newly created liquidation commission.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 2 July 2001 the supervisory court quashed the decision of 21\u00a0December 1998 and remitted the case for fresh consideration.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 29 August 2001 the  (a former Donetsk Regional Court of Arbitration) extended the term of office of the liquidation commission and, following its proposal appointed a new trustee to run the bankruptcy programme. However, the writs of execution issued against the LCM were returned to the Bailiffs\u2019 Service without enforcement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0The Bailiffs\u2019 Service recommenced the enforcement proceedings in the applicant\u2019s case. On numerous occasions in 2001 and 2002 they attached the assets belonging to the LCM. In 2002 the applicant was paid a total of 7,533.55 (approximately EUR 1,245) in several instalments.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 28 December 2002 the Ministry of Fuel and Energy ordered that several coal-mines, including the LCM, merge into the Artemvugillia State Company. Accordingly, the Bailiffs\u2019 Service undertook to replace the debtor in the applicant\u2019s enforcement case. The proceedings resumed in 20\u00a0May\u00a02003 when the Bailiffs\u2019 Service levied on the Artemvugillia\u2019s bank accounts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 29 November 2004 the Bailiffs\u2019 Service terminated the enforcement proceedings as the judgment in the applicant\u2019s favour had been enforced in full. In his letter of 28 January 2005 the applicant alleged that that was not the case since the LCM still owed him UAH\u00a0927 (approximately EUR 155).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "1. \u00a0Law of 14\u00a0May\u00a01992 \u201con the Restoration of a Debtor\u2019s Solvency or the Declaration of Bankruptcy\u201d",
+                                "elements": [
+                                    {
+                                        "content": "18.\u00a0\u00a0Under Article 22 of the Law (\u0417\u0430\u043a\u043e\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u201c\u041f\u0440\u043e \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u043f\u043b\u0430\u0442\u043e\u0441\u043f\u0440\u043e\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0456 \u0431\u043e\u0440\u0436\u043d\u0438\u043a\u0430 \u0430\u0431\u043e \u0432\u0438\u0437\u043d\u0430\u043d\u043d\u044f \u0439\u043e\u0433\u043e \u0431\u0430\u043d\u043a\u0440\u0443\u0442\u043e\u043c\u201d), the decision to commence the liquidation proceedings is taken by the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0According to Article 24 of the Law the  appoints a trustee to run the liquidation programme and members of the liquidation commission. The  also considers the complaints about the actions and omissions of the trustee and the liquidation commission and performs other duties, conferred upon it by virtue of this Law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0Article 25 of the Law provides that the trustee controls the bankrupt\u2019s property, chairs the liquidation commission and directs the liquidation programme.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0Under Article 32 of the Law, after having completed the liquidation programme, the trustee produces to the Commercial Court the account of his administration of the bankrupt\u2019s property and the liquidation balance.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Law of  of 24\u00a0March\u00a01998 \u201con the State Bailiffs\u2019 Service\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Decrees of the President",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0The Decree of 15\u00a0December 1999 created the Ministry of Fuel and Energy (the \u201cMFE\u201d), following the abolition of the Ministry of the Coal-Mining Industry of Ukraine which had previously had responsibility for the management of State-owned coal-mining enterprises.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 14\u00a0April 2000 the President, by decree, approved the Statute of the MFE.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0In accordance with the Decrees of 25\u00a0May and 6\u00a0July 2004, the Cabinet of Ministers was ordered to intensify its work related to the State\u2019s support of the coal-mining industry. In particular, in his Decree of 6\u00a0July 2004, the President ordered the MFE to facilitate the payment of compensation provided by the State for the salary debt of State-owned enterprises.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Acts of the Cabinet of Ministers",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0In accordance with the Decree of the Cabinet of Ministers on \u201cthe management of State-owned property\u201d of 15\u00a0December 1992, State-owned enterprises are prohibited from transferring property within their management to other enterprises or private persons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0In accordance with the Decree No.\u00a0397-p of the Cabinet of Ministers of 19\u00a0July 2002, the State was to pay the compensation awarded to miners as a result of damage caused by occupational disease. The MFE was allocated UAH\u00a010,000,000 from the State budget for this purpose.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0In accordance with the General Agreement between the Cabinet of Ministers, the All-Ukrainian Union of Employers and Entrepreneurs and the Professional Trade Unions of 19\u00a0April 2004, the State undertook to pay compensation for the salary debt owed to persons employed in the coal-mining industry before 1\u00a0November 2004.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Acts of the Ministry of Fuel and Energy",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0By Order No.\u00a0449 of 2\u00a0August 2004, the MFE reorganised the structure of the State Enterprise \u201cArtemvugillia\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0Pursuant to Order No.\u00a0256 of the MFE, the Deputy Minister was made responsible for the control and management of State-owned coal-mining enterprises. A special Department within the MFE was created for this.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Pursuant to Order No.\u00a0598 of 15\u00a0October 2002, the MFE had the right to approve changes in the statutes of enterprises within its jurisdiction and appoint the managers of those enterprises, as well as to instruct them on the performance of particular duties.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a fair and public hearing ... by an independent and impartial tribunal established by law.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0The Government contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s allegations that the judgment has not been enforced in full",
+                                        "elements": [
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court notes that according to the documents provided by the Government the judgment in issue was enforced in full in November 2004, when the coal mine transferred the remainder of the awarded amount to the applicant\u2019s account.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The applicant\u2019s victim status",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0The Government stressed that as the judgment of 26\u00a0April 2000 had been executed by the national authorities in full, the applicant could no longer be considered a victim of a violation of his rights under Article\u00a06 \u00a7\u00a01. They therefore proposed that the application be declared inadmissible or struck out of the Court\u2019s list of cases.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The applicant disagreed.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0The exhaustion of domestic remedies",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a.\u00a0The submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "40.\u00a0\u00a0The Government submitted that the applicant had failed to exhaust domestic remedies as required by Article 35 \u00a7 1 of the Convention. They maintained that the applicant had failed to challenge the liquidation commission\u2019s inactivity before the Court of Arbitration and apply to any domestic court against the Bailiffs\u2019 Service to challenge the allegedly inadequate enforcement of the judgment in his favour. With respect to the latter argument the Government supplied several examples where the creditors lodged successful claims against the bailiffs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0The applicant contested this submission, stating that he had no effective remedies to exhaust in his particular situation. He maintained that the non-enforcement of the judgment given in his favour had been caused by the lack of funds in possession of the State enterprise and insufficiency of allocations from the State budget for payment of salaries and benefits of the employees in the coal mining industry. Therefore, the applicant alleged that challenging the bailiffs\u2019 actions before the domestic court was redundant and ineffective.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b. The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "42.\u00a0\u00a0The Court reiterates that the purpose of Article 35 \u00a7 1 of the Convention is to afford the Contracting States the opportunity of preventing or putting right the violations alleged against them before those allegations are submitted to the Court. However, the only remedies to be exhausted are those which are effective. It is incumbent on the Government claiming non-exhaustion to satisfy the Court that the remedy was an effective one, available in theory and in practice at the relevant time (see Khokhlich v.\u00a0Ukraine, no. 41707/98, \u00a7 149, 29 April 2003).\u00a0",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0Insofar as the Government argue that the applicant should have challenged the inactivity of those involved in the LCM\u2019s liquidation procedure before the Court of Arbitration, the Court notes that on 26\u00a0January\u00a02001 the Court of Arbitration\u2019s judge informed the applicant that the national legislation envisaged no time-limit for the liquidation commission to complete the liquidation programme, neither did the law provide any sanctions for the commission\u2019s inactivity. The Court observes that neither the Government\u2019s submissions before it, nor domestic legislation in force at the material time give any grounds to conclusively rebut this argument. The Government, while giving examples of creditors\u2019 successful litigations against the Bailiffs\u2019 Service, were unable to present any such case regarding liquidation commissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court recalls in this respect its case-law according to which an applicant is excused from pursuing a domestic remedy if he/she shows that on the basis of well-established case-law it would be of no avail (see Rudzinska v. Poland (dec.), no. 45223/99, 7 September 1999). Therefore, the Government\u2019s argument must be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0To the extent that the Government contended that the applicant had not exhausted domestic remedies as he did not lodge a claim with the domestic courts to challenge the inactivity of the Bailiffs\u2019 Service, the Court recalls its recent case-law on this issue (see Voytenko v. Ukraine, cited above, \u00a7\u00a7\u00a028-31; Shmalko v. Ukraine, cited above, \u00a7\u00a7 37-39). It finds no reason to distinguish the present application from these previous cases. In particular, the Court finds the examples supplied by the Government from the domestic case-law of limited assistance because they concerned procedural flaws attributable to the Bailiffs\u2019 Service, whereas in the present case the delay in the enforcement of the judgment was caused by the insufficiency of State funds allocated for the relevant purposes, rather than by the misconduct of a bailiff (see Dubenko v. Ukraine, no.\u00a074221/01, \u00a7\u00a7\u00a013, 24-32 and 39, 11 January 2005).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0Therefore, the Court concludes that the applicant was absolved from pursuing the remedies invoked by the Government and has therefore complied with the requirements of Article 35 \u00a7 1.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Conclusions as to the admissibility of the complaint under Article 6\u00a0\u00a7 1 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "47.\u00a0\u00a0The Court considers, in the light of the parties\u2019 submissions, that the applicant\u2019s complaint under Article\u00a06 \u00a7\u00a01 of the Convention raises serious issues of fact and law under the Convention, the determination of which requires an examination of the merits. The Court concludes therefore that the complaint cannot be rejected as being manifestly ill-founded within the meaning of Article\u00a035 \u00a7\u00a03 of the Convention. No other ground for declaring it inadmissible has been established.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The Government maintained that until 29 August 2001, when the writ of execution was transferred from the LCM\u2019s liquidation commission to the Bailiffs\u2019 Service, the delay in the execution had been caused by the liquidation commission\u2019s inactivity, for which the State bears no responsibility under the Convention. They further considered that after the indicated date the State Bailiffs took all necessary steps under domestic legislation to enforce the judgment and the delay in its enforcement was mainly due to the LCM and its successor, the Artemvugillia Company\u2019s lack of funds. The latter factor, in the Government\u2019s opinion, also could not be attributable to the authorities despite the State\u2019s ownership of those companies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The applicant contested these arguments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The Court, in the first place, recalls that the rights secured by Article\u00a06 \u00a7\u00a01 would be illusory if a Contracting State\u2019s domestic legal system allowed a final, binding judicial decision to remain inoperative to the detriment of one party. The execution of a judgment given by any court must therefore be regarded as an integral part of the \u201ctrial\u201d for the purposes of Article\u00a06 (Hornsby v. Greece, judgment of 19\u00a0March 1997, Reports of judgments and decisions 1997-II, p. 510, \u00a7\u00a040).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court accepts the argument advanced by the Government that two separate periods should be distinguished in the enforcement proceedings in the applicant\u2019s case.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a. The enforcement proceedings before 29 August 2001",
+                                "elements": [
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court observes that it is common ground that all writs of execution issued against the LCM had to be handled by its liquidation commission as from the moment the company was declared bankrupt (that is to say 21 December 1998). However, due to the inactivity of its court appointed members it was no\tt until March 2001 that the liquidation commission commenced to operate. The Government argues that the liquidation commission was a private-law body and thus the State cannot be held accountable for its actions or omissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court recalls that the responsibility of a State is engaged if a violation of one of the rights and freedoms defined in the Convention is the result of non-observance by that State of its obligation under Article\u00a01 to secure those rights and freedoms in its domestic law to everyone within its jurisdiction (see, mutatis mutandis, Young, James and Webster v.\u00a0the United Kingdom, judgment of 13 August 1981, Series\u00a0A no.\u00a044, p.\u00a020, \u00a7 49). The State cannot absolve itself from responsibility ratione personae by delegating its obligations to private bodies or individuals (see, mutatis mutandis, Costello-Roberts v. the United Kingdom, judgment of 25\u00a0March 1993, Series\u00a0A no. 247-C, p. 58, \u00a7 27). The undertakings given by a Contracting State under Article 1 of the Convention include, in addition to the duty to refrain from interfering with enjoyment of the rights and freedoms guaranteed, positive obligations to take appropriate steps to ensure respect for those rights and freedoms within its territory (see Z. v.\u00a0the United Kingdom [GC], no. 29392/95, \u00a7\u00a073, ECHR\u00a02001V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court does not find it necessary to embark on a discussion of whether the liquidation commission was or was not in itself a State authority for the purposes of Article 34 \u00a7 1 of the Convention. It suffices to note that the body in question exercised certain State powers at least as regards the execution of court judgments. The Court notes in this respect that the fact that a State chooses a form of delegation in which some of its powers are exercised by another body cannot be decisive for the question of State responsibility ratione personae. In the Court\u2019s view, the exercise of State powers which affects Convention rights and freedoms raises an issue of State responsibility regardless of the form in which these powers happen to be exercised, be it for instance by a body whose activities are regulated by private law (see Wos v. Poland (dec.), no. 22860/02, ECHR 2005...).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The Court further considers that the situation when a body to which the State powers to enforce court judgments were delegated enjoys unfettered discretion in its activity, namely, when it is not subject to any effective judicial or administrative control is unacceptable from the point of view of Article 6 \u00a7 1 read in conjunction with Article 1 of the Convention. In the present case the domestic legislation, while formally putting the activity of the liquidation commission under the Court of Arbitration\u2019s supervision, provided no sanctions for its failure to act, depriving this safeguard of any practical value in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court recalls that Article 6 \u00a7 1 imposes on Contracting States the duty to organise their legal systems in such a way that their authorities can meet its requirements (see, mutatis mutandis, Podbielski v. Poland, judgment of 30 October 1998, Reports of Judgments and Decisions 1998VIII, p. 3395 \u00a7 38). In the light of the above facts and considerations the Court finds that the almost two-year period of total inactivity in the execution of a court judgment was due to the State\u2019s failure to establish an effective system of enforcement of court judgments given against the company undergoing bankruptcy proceeding.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b. The period after 29 August 2001",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0The Court notes that on 29 August 2001 the applicant\u2019s writ of execution was transferred to the Bailiffs\u2019 Office for enforcement, which was finally completed on 29 November 2004, that is to say after the communication of the application to the respondent Government. The Court recalls that a similar situation has already been examined by the Court in a number of judgments (see among many others Romashov v. Ukraine, no. 67534/01, \u00a7 43, 27 July 2004; and Dubenko v. Ukraine, no. 74221/01, \u00a7\u00a045, 11 January 2005) where it was found that the applicant should not be prevented from benefiting from the decision given in his/her favour, which was of major importance to him/her, on the ground of the State enterprise\u2019s alleged financial difficulties. The Court finds no reason to reach a different conclusion in the present case.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "c. The general conclusion",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0Having regard to the above consideration\u00a0the Court is of the opinion that by failing for five years and two months to take the necessary measures to comply with the aforementioned judgment, the State authorities partly deprived the provisions of Article\u00a06 \u00a7\u00a01 of the Convention of their useful effect.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0There has accordingly been a violation of Article\u00a06 \u00a7\u00a01 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "60.\u00a0\u00a0The applicant next complained that he had no effective remedies in respect of his complaint under Article 6 \u00a7 1 of the Convention. He relied on Article\u00a013 of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "61.\u00a0\u00a0The Court notes that this complaint is linked to the one examined above and must therefore likewise be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0The Government submitted that the applicant had an opportunity to challenge the liquidation commission\u2019s inactivity before the Court of Arbitration and to lodge a claim with the domestic courts to challenge the inactivity of the Bailiffs, or to seek compensation for material and moral damage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0The Court refers to its findings (at paragraphs 42-46 above) in the present case concerning the Government\u2019s argument regarding domestic remedies. For the same reasons, the Court concludes that the applicant did not have an effective domestic remedy, as required by Article 13 of the Convention, to redress the damage created by the delay in the present proceedings. Accordingly, there has been a breach of this provision.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "64.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": " A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicant did not specify any fixed amount of damages, claiming compensation for the losses he allegedly incurred due to inflation for pecuniary damage and leaving the amount of non-pecuniary damage at the Court\u2019s discretion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government found the applicant\u2019s claims unjustified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67. Making its assessment on equitable basis, as required by Article 41 of the Convention, the Court considers it reasonable to award the applicant a global sum of EUR\u00a02,480 in respect of damages",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "68.\u00a0\u00a0The applicant did not submit any claim under this head within the set time-limit; the Court therefore makes no award in this respect.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR 2,480 (two thousand four hundred and eighty euros) in respect of pecuniary and non-pecuniary damage, to be converted into the national currency of the respondent State at the rate applicable at the date of settlement, plus any tax that may be chargeable;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 11 October 2005, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrJ.-P. Costa",
+            "role": "president"
+        },
+        {
+            "name": "MrI. Cabral Barreto",
+            "role": "judges"
+        },
+        {
+            "name": "MrV. Butkevych",
+            "role": "judges"
+        },
+        {
+            "name": "MrsA. Mularoni",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Fura-Sandstr\u00f6m",
+            "role": "judges"
+        },
+        {
+            "name": "MsD. Jo\u010dien\u0117",
+            "role": "judges"
+        },
+        {
+            "name": "MrD. Popovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Mr S. Naismith",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "20/09/2005 00:00:00",
+    "docname": "CASE OF SYCHEV v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-70532.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2005:1011JUD000477302",
+    "externalsources": [],
+    "extractedappno": [
+        "4773/02",
+        "18966/02",
+        "60750/00",
+        "41707/98",
+        "45223/99",
+        "74221/01",
+        "29392/95",
+        "22860/02",
+        "67534/01"
+    ],
+    "importance": "4",
+    "introductiondate": "12/03/2001 00:00:00",
+    "issue": [
+        "Law of 14 May 1992 on the Restoration of a Debtor's Solvency or the Declaration of Bankruptcy, Articles 22, 24-25 and 32",
+        "Law of 24 March 1998 on the State Bailiffs' Service, Articles 11 and 13"
+    ],
+    "itemid": "001-70532",
+    "judgementdate": "11/10/2005 00:00:00",
+    "kpdate": "11/10/2005 00:00:00",
+    "kpthesaurus": [
+        "14",
+        "128",
+        "400",
+        "619",
+        "183",
+        "498",
+        "445",
+        "113",
+        "136",
+        "406",
+        "444",
+        "110",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "35-4",
+        "13",
+        "34",
+        "29",
+        "35-1",
+        "35-3",
+        "41",
+        "6-1",
+        "35",
+        "6",
+        "29-3"
+    ],
+    "parties": [
+        "SYCHEV",
+        "UKRAINE"
+    ],
+    "rank": "526.747314453125",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [
+        "Costello-Roberts v. the United Kingdom, judgment of 25 March 1993, Series A no. 247-C, p. 58, \u00a7 27",
+        "Dubenko v. Ukraine, no. 74221/01, \u00a7 13, \u00a7\u00a7 24-32, \u00a7 45, \u00a7 39, 11 January 2005",
+        "Hornsby v. Greece, judgment of 19 March 1997, Reports of judgments and decisions 1997-II, p. 510, \u00a7 40",
+        "Khokhlich v. Ukraine, no. 41707/98, \u00a7 149, 29 April 2003",
+        "Podbielski v. Poland, judgment of 30 October 1998, Reports of Judgments and Decisions 1998 VIII, p. 3395 \u00a7 38",
+        "Romashov v. Ukraine, no. 67534/01, \u00a7 43, 27 July 2004",
+        "Rudzinska v. Poland (dec.), no. 45223/99, 7 September 1999",
+        "Shmalko v. Ukraine, no. 60750/00, judgment of 20 July 2004, \u00a7 34, \u00a7\u00a7 37-39",
+        "Voytenko v. Ukraine, no. 18966/02, judgment of 6 June 2004, \u00a7\u00a7 28-31, \u00a7 35",
+        "Wos v. Poland (dec.), no. 22860/02, ECHR 2005-...",
+        "Young, James and Webster v. the United Kingdom, judgment of 13 August 1981, Series A no. 44, p. 20, \u00a7 49",
+        "Z v. the United Kingdom [GC], no. 29392/95, \u00a7 73, ECHR 2001-V"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "332307",
+    "typedescription": "15"
+}

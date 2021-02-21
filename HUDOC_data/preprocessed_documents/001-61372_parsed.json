@@ -1,0 +1,423 @@
+{
+    "__articles": "6;6-1;41;P1-1;P1-1-1",
+    "__conclusion": "Violation of P1-1;Violation of Art. 6-1;Pecuniary damage - financial award;Non-pecuniary damage - financial award;Costs and expenses partial award - domestic proceedings;Costs and expenses partial award - Convention proceedings",
+    "applicability": "",
+    "appno": "58607/00",
+    "article": [
+        "6",
+        "41",
+        "p1-1"
+    ],
+    "conclusion": [
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "element": "Violation of Art. 6-1",
+            "type": "violation"
+        },
+        {
+            "element": "Pecuniary damage - financial award",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - financial award",
+            "type": "other"
+        },
+        {
+            "element": "Costs and expenses partial award - domestic proceedings",
+            "type": "other"
+        },
+        {
+            "element": "Costs and expenses partial award - Convention proceedings",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-61372.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 58607/00) against the Italian Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe\u00a0Convention\u201d) by an Italian national, Mr Gastone Serafini (\u201cthe\u00a0applicant\u201d), on 13 June 2000. ",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mrs C. Serafini, a lawyer practising in Rome. The Italian Government (\u201cthe Government\u201d) were represented by their Agent, Mr U. Leanza and by their co-Agent, Mr V. Esposito",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 28 February 2002 the Court declared the application admissible.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1929 and lives in Rome.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0He is the owner of a flat in Rome, which he had let to O.S.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0In a writ served on the tenant on 28 October 1992, the applicant informed the tenant of his intention to terminate the lease and summoned her to appear before the Rome Magistrate.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0By a decision of 3 March 1993, which was made enforceable on the same day, the Rome Magistrate upheld the validity of the notice to quit and ordered that the premises be vacated by 3 March 1994. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 9 April 1994, the applicant served notice on the tenant requiring her to vacate the premises. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 26 April 1994, he served notice on the tenant informing her that the order for possession would be enforced by a bailiff on 24 May 1994.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0Between 24 May 1994 and 26 November 1999, the bailiff made nineteen attempts to recover possession. Each attempt proved unsuccessful, as the applicant was not entitled to police assistance in enforcing the order for possession.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 26 November 1999, the applicant recovered possession of the flat.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "12.\u00a0\u00a0Since 1947 the public authorities in Italy have frequently intervened in residential tenancy legislation with the aim of controlling rents. This has been achieved by rent freezes (occasionally relaxed when the Government decreed statutory increases), by the statutory extension of all current leases and by the postponement, suspension or staggering of the enforcement of orders for possession. The relevant domestic law concerning the extension of tenancies, the suspension of enforcement and the staggering of evictions is described in the Court's judgment in the case of Immobiliare Saffi v. Italy [GC], no. 22774/93, \u00a7\u00a7 18-35, ECHR 1999-V.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The system of control of the rents",
+                                "elements": [
+                                    {
+                                        "content": "13.\u00a0\u00a0As regards the control of the rents, the evolution of the Italian legislation may be summarised as follows.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The first relevant measure was the Law no. 392 of 27 July 1978 which provided machinery for \u201cfair rents\u201d (the so-called equo canone) on the basis of a number of criteria such as the surface of the flat and its costs of realisation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The second step of the Italian authorities dated August 1992. It was taken in the view of progressive liberalisation of the market of tenancies. Accordingly, a legislation relaxing on rent levels restrictions (the so-called patti in deroga) entered into force. Owners and tenants were in principle given the opportunity to derogate from the rent imposed by law and to agree on a different price.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0Lastly, Law no. 431 of 9 December 1998 reformed the tenancies and liberalised the rents.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Obligations of the tenant in the case of late restitution",
+                                "elements": [
+                                    {
+                                        "content": "17.\u00a0\u00a0The tenant is under a general obligation to refund the owner any damages caused in the case of late restitution of the flat. In this regard, Article 1591 of the Italian Civil Code provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe tenant who fails to vacate the immovable property is under an obligation to pay the owner the agreed amount until the date when he leaves, together with other remaining damages.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0However, Law no. 61 of 1989 set out, inter alia, a limit to the compensation claimable by the owner entitling him to a sum equal to the rent paid by the tenant at the time of the expiration of the lease, proportionally increased according to the cost of living (Article 24 of Law\u00a0no.\u00a0392 of 27 July 1978) plus 20%, along the period of inability to dispose of the possession of the flat.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0In the judgment no. 482 of 2000, the Constitutional Court was called upon to decide whether such a limitation complied with the Constitution. The Constitutional Court held that it was compatible with the Constitution with regard to periods of time during which the suspension of the evictions was determined by law. The Constitutional Court explained that the introduction of that limitation was intended to settle the tenancies of the time of the emergency legislation, when the housing shortage made the suspension of the enforcement necessary. While evictions were suspended ex lege, the law predetermined the quantum of the reimbursement chargeable to the tenant, both measures being temporary and exceptional. Besides, the interests of the owner were counterbalanced by the exemption for him from the burden to prove the damages.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The Constitutional Court declared the limitation to the compensation claimable by the owner unconstitutional with regard to cases where the impossibility for the owner to repossess the flat depended on the conduct of the tenant and was not due to a legislative intervention. Accordingly, it opened the way to owners for the institution of civil proceedings in order to obtain full reparation of the damages caused by the tenant.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1 AND OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "21.\u00a0\u00a0The applicant complained of his prolonged inability to recover possession of his flat, owing to the lack of police assistance. He alleged a violation of his right of property, as guaranteed by Article 1 of Protocol No. 1 to the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0The applicant also alleged a breach of Article 6 \u00a7 1 of the Convention, the relevant part of which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0The Court has previously examined a number of cases raising issues similar to those in the present case and found a violation of Article\u00a01 of Protocol No. 1 and Article 6 \u00a7 1 of the Convention (see Immobiliare Saffi, cited above, \u00a7\u00a7 46-75; Lunari v. Italy, no. 21463/93, \u00a7\u00a7\u00a034-46, 11\u00a0January 2001; Palumbo v. Italy, no. 15919/89, \u00a7\u00a7 33-48, 30 November 2000).",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0The Court has examined the present case and finds that there are no facts or arguments from the Government which would lead to any different conclusion in this instance. It notes that the applicant had to wait approximately five years and six months after the first attempt of the bailiff before being able to repossess the flat.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Consequently, there has been a violation of Article 1 of Protocol No. 1 and of Article 6 \u00a7 1 of the Convention in the present case.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Pecuniary damage",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0The applicant sought, firstly, reparation for the pecuniary damage he had sustained, which he calculated as follows: ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "- 45,000,000 Italian lire (ITL) [23,240.56 euros (EUR)], the sum being the loss of rent for a period of fifty-nine months, from January 1995 to November 1999. The applicant submitted this amount as the result of the difference between the market value rent \u2013 as offered in January\u00a01995 by S.M. \u2013 and the rent imposed by law;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "- ITL 150,000,000 [EUR 77,468.53], for the reimbursement of the damage due to the impossibility to sell the flat. The applicant submitted a declaration in which P.C. offers to buy \u2013 in June 1994 - the flat at issue at the price of ITL 320,000,000 [EUR 165,266.21]. The applicant also submitted that he had to buy a new flat for his daughter and had to pay, in 1996, a sum equivalent to fifty per cent of the total price of the new flat which was ITL\u00a0286,000,000 [EUR\u00a0147,706.67]; ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "- ITL 10,000,000 [EUR 5,164.57], the sum being twenty per cent of the rent that the tenant did not pay because economically disadvantaged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The Government contested those claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The Court considers that the applicant must be awarded compensation for the pecuniary damage resulting from the loss of rent for the period of time related to the violations found.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the light of the evidence before it and having regard to the period concerned, it decides to award him on an equitable basis EUR 300 under this head and rejects any other claim.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Non-pecuniary damage",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0The applicant claimed ITL 30,000,000 [EUR 15,493.71] for the non-pecuniary damage. He also left the matter to the Court's discretion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The Government contested the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The Court considers that the applicant must have sustained some non-pecuniary damage. Ruling on an equitable basis, it awards him EUR\u00a03,000 under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The applicant also claimed reimbursement of his legal costs and expenses as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "ITL 20,000,000 [EUR 10,329.14] for the costs of the enforcement proceedings;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "ITL 30,000,000 [EUR 15,493.71] for the costs and expenses before the Court. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0As regards the costs of the enforcement proceedings, the Government contested the claim. As regards the costs and expenses before the Court, the Government did not make any submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0 On the basis of the information in its possession and the Court's case-law, the Court considers it reasonable to award the applicant the sum of EUR 1,000 for the costs of the enforcement proceedings and EUR 2,000 for the proceedings before the Court. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court awards a total sum of EUR 3,000 for legal costs and expenses.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "36.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Holds that there has been a violation of Article 1 of Protocol No. 1 to the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final according to Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Dismisses the remainder of the applicant's claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 16 October 2003, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrC.L. Rozakis",
+            "role": "president"
+        },
+        {
+            "name": "MrsF. Tulkens",
+            "role": "judges"
+        },
+        {
+            "name": "MrsN. Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrE. Levits",
+            "role": "judges"
+        },
+        {
+            "name": "MrsS. Botoucharova",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MrV. Zagrebelsky",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF SERAFINI v. ITALY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-61372.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2003:1016JUD005860700",
+    "externalsources": [],
+    "extractedappno": [
+        "58607/00",
+        "22774/93",
+        "21463/93",
+        "15919/89"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-61372",
+    "judgementdate": "16/10/2003 00:00:00",
+    "kpdate": "16/10/2003 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "7",
+        "40",
+        "113",
+        "369",
+        "304",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "P1-1-1",
+        "6-1",
+        "6",
+        "41",
+        "P1-1"
+    ],
+    "parties": [
+        "SERAFINI",
+        "ITALY"
+    ],
+    "rank": "470.3359375",
+    "representedby": [],
+    "respondent": "ITA",
+    "respondentOrderEng": "23",
+    "scl": [
+        "Immobiliare Saffi v. Italy [GC], no. 22774/93, \u00a7\u00a7 18-35 and 46-75, ECHR 1999-V",
+        "Lunari v. Italy, no. 21463/93, 11 January 2001, \u00a7\u00a7 34-46",
+        "Palumbo v. Italy, no. 15919/89, 30 November 2000, \u00a7\u00a7 33-48"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "318545",
+    "typedescription": "15"
+}

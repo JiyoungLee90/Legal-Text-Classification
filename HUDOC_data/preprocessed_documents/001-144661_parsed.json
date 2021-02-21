@@ -1,0 +1,848 @@
+{
+    "__articles": "3;8;8-1",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for private life)",
+    "applicability": "",
+    "appno": "22015/10",
+    "article": [
+        "3",
+        "8"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for private life"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-144661.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 22015/10) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Romanian national, Mr C\u0103t\u0103lin Voicu (\u201cthe applicant\u201d), on 12 April 2010.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr D. Cazacu, Mr I. Iord\u0103chescu, Mr N. \u015eerban and Mr M. Dinu, lawyers practising in Bucharest. The Romanian Government (\u201cthe Government\u201d) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 7 June 2011 the complaints concerning the applicant\u2019s handcuffing in public, public exposure during the trial and the alleged lack of review of the preventive measures imposed on him during the trial were communicated to the Government and the remainder of the application was declared inadmissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 11 December 2012 additional complaints about the conditions of the applicant\u2019s pre-trial detention (lodged on 13 December 2011) and transport during detention (lodged on 12 April 2011) were communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1965 and lives in Bucharest. At the time of the facts of the case, the applicant was in private legal practice and was a senator.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 10 December 2009 the Anti-Corruption Department of the Prosecutor\u2019s Office attached to the High Court of Cassation and Justice (referred to herein as \u201cthe prosecutor\u201d and \u201cthe DNA\u201d) started criminal proceedings against the applicant (urm\u0103rirea penal\u0103) on suspicion of trading in influence (traffic de influen\u0163\u0103). In particular, the prosecutor alleged that: (i) the applicant had accepted 200,000 euros (EUR) from a businessman, C.C., in return for using his connection to Judge F.C. of the High Court of Cassation and Justice in order to influence the outcome of a case pending before that court which concerned a dispute between C.C.\u2019s company and a state agency; and (ii) that he had accepted money from M.L., under the pretext of providing legal services through his law firm, in order to facilitate M.L.\u2019s access to the head of the police with the aim of discussing criminal investigations that were being conducted against M.L.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 11 December 2009 the applicant was returning home during the day in a car belonging to the Senate. Close to his home, his route was blocked by another car. Several armed individuals jumped out, dragged the applicant from his car and, in front of his neighbours and a crowd of passers-by, handcuffed him and put him in their car. He was then taken to the DNA\u2019s headquarters, where he was informed of the criminal proceedings against him. The applicant gave a statement to the prosecutor.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0At the DNA\u2019s headquarters, the applicant found out that he had been under investigation for a crime against national security. However, the prosecutor had decided on 27 November 2009 not to prosecute that offence. The evidence gathered in that investigation, in particular through intercepting the applicant\u2019s telephone, had led the investigators to suspect the commission by the applicant of the crimes of corruption for which he was currently under investigation by the DNA.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On the same date, the prosecutor issued an order prohibiting the applicant from leaving town for thirty days.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0Upon the applicant\u2019s request, on 12 January 2010 the prosecutor sent him a copy of the decision of 27 November 2009.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 9 March 2010 the prosecutor sought, through the Minister of Justice, Parliament\u2019s approval to arrest the applicant. On the same date, the DNA issued a press release informing the public that it had sought authorisation for the arrest.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The leaks to the press",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0From the moment the DNA informed the public about the proceedings against the applicant, the media took great interest in the case. Numerous panel discussions were broadcast and journalists and politicians commented publicly on the events.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0Excerpts from conversations between the defendants which had been obtained through telephone tapping during a criminal surveillance operation conducted prior to the criminal prosecution made it into the newspapers before the applicant and his co-accused had been committed for trial. Those excerpts gave the impression that the applicant and Judge F.C. had tried to manipulate some of the judges from the panel ruling in a commercial case involving C.C., and had reported back to the latter on the progress of those alleged manoeuvres. In the conversations among them, the applicant and the codefendants expressed in strong terms their disappointment that the outcome had not been favourable to C.C., and made assumptions as to whether the remaining judges on the panel had been influenced by someone else.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The transcripts of telephone conversations intercepted during the surveillance operation first appeared in the press between 18 and 22 March 2010.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0Other pieces of evidence from the prosecution file were likewise published and commented on in the press.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s arrest and pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": "16.\u00a0\u00a0On 24 March 2010 the Senate met to discuss the prosecutor\u2019s request. The applicant was unable to take part in the session, as he was in the hospital at the time. The Senate allowed the prosecutor\u2019s request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0Upon obtaining the Senate\u2019s approval, the prosecutor submitted a detention order to the High Court of Cassation and Justice, which examined it in private on 30 March 2010 and endorsed it. The applicant was arrested on the same day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The High Court then took a statement from the applicant and proceeded to examine the prosecutor\u2019s application for the applicant\u2019s pretrial detention. It heard arguments from the parties, reviewed the evidence presented by the prosecutor and concluded that there were serious indications and evidence in the file that the applicant had committed the crimes of which he was accused and that he had abused his important official position, thereby damaging the reputation of the legislature and the judiciary, as well as undermining the public\u2019s trust in the judicial system. It therefore considered that the specific danger that the applicant posed to the public order was serious enough to justify his detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0Upon the applicant\u2019s appeal, by a final decision of 2 April 2010 the High Court, sitting as a ninejudge bench, upheld the previous decision. At the applicant\u2019s request, this hearing was held in secret and journalists and the public were removed from the courtroom. The High Court found that the evidence lawfully included in the file justified a reasonable suspicion that the applicant had committed the crimes under investigation. It also dismissed the applicant\u2019s argument as to procedural flaws, in so far as it found that the prosecutor had heard the applicant on 11 December 2009 and considered that his right to mount a defence had not been disregarded because of the mere fact that a certain lapse of time had passed between the date of his statement and that of the arrest order.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The applicant sought his conditional release. On 12 April 2010 the High Court dismissed his application, on the grounds that the evidence in the file indicated that he had tried to influence one of the witnesses and to create false evidence in his defence. It also considered that the reasons underlying the court decision to place him in pre-trial detention were still valid, given that, in particular, such a short time had passed since that decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "This decision became final on 16 April 2010, when the High Court dismissed the applicant\u2019s appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The High Court examined the applicant\u2019s pre-trial detention on ten\u00a0more occasions and the applicant repeatedly applied for release pending trial conditioned on the obligation not to leave town (decisions of 23 April, 25\u00a0May, 16\u00a0June, 14 July, 10 September, 6 October, 16 November 2010, 12\u00a0January, 9 February and 4 March 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The High Court considered that the evidence in the file offered a reasonable indication that the applicant had committed the crimes he was accused of and that his continued detention was needed given the difficulty involved in investigating such crimes. It also referred to his attempt to influence witnesses, to his personal situation (first time on trial, family situation), his personality, his office during the alleged commission of the offences, and the nature and severity of the crimes under investigation. The High Court also took into account the fact that the proceedings on the merits had only recently started, on 20 May 2010.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It referred to the European Court\u2019s case-law and the relevant Council of Europe texts, and considered that the grounds for the applicant\u2019s detention were still valid and the time spent in pre-trial detention was not excessive within the meaning of Article 5 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "For these reasons, it did not consider it opportune to substitute the preventive measure that had been applied with a less strict measure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0The appeals lodged by the applicant against each of these court orders were dismissed by a different panel of the High Court on 26\u00a0April, 31\u00a0May, 21 June, 22\u00a0July, 30 September, 13 October and 29\u00a0November 2010, 20 January, 28 February and 14 March 2011 respectively.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 4 April 2011 the High Court examined a new application for release on probation lodged by the applicant and decided that he could be released. It held that the vast majority of the evidence for the prosecution had already been heard in court, thus the risk of the applicant trying to influence witnesses was no longer acute. The court ordered him not to leave town and not to contact his co-accused.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0However, on 11 April 2011 the decision was quashed and a fivejudge panel of the High Court dismissed the applicant\u2019s application for release. The High Court examined the suitability of releasing the applicant in the particular circumstances of the case, considered the evidence before it and referred to the Court\u2019s case-law on the subject. It considered that the severity of the crimes allegedly committed and the particular circumstances in which they had occurred, coupled with the applicant\u2019s attempts to influence a witness, were sufficient factors to justify extending the applicant\u2019s detention pending trial, which remained the only adequate preventive measure. It also considered that the overall length of the measure remained reasonable in the applicant\u2019s particular situation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On four more occasions (27 April, 11 May, 8 June and 12 July 2011) the High Court was called to examine the necessity of keeping the applicant in detention and each time it decided to release him pending trial for the same reasons as those advanced on 4 April 2011. The High Court replaced the measure with the obligation not to leave town.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "However, each order, save for the last one, was quashed by a five-judge panel of the High Court and the applicant\u2019s detention was extended (on 29\u00a0April, 24 May and 17 June 2011 respectively).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 18 July 2011 the High Court dismissed an appeal lodged by the prosecutor against the court order of 12 July 2011.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As a consequence, the applicant was released from detention on the same day.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The conditions of the applicant\u2019s pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": "27.\u00a0\u00a0The applicant was arrested on 30 March 2010 and remained in pretrial detention until 12 July 2011. He described the overall conditions of his detention as follows: it was very cold in the cell, hot water was only available for one hour a week and basic hygiene was lacking. He had to share a 9 sq. m cell with ten other inmates and the lack of space triggered violent clashes within the cell.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The Prison Administration submitted a full record of the applicant\u2019s stay in prison, giving details of the cells the applicant was kept in, their occupancy and the facilities offered. According to this information, the applicant was held in Bucharest Remand Centre No. 1 (\u201cBucharest Remand Centre\u201d) on 30 March 2010 and again from 16\u00a0April 2010 to 13 July 2010. He was held in two separate cells, one of 9 sq. m with four beds and another of 14.57 sq. m with six beds. The cells were at full occupancy at that time. Each cell was equipped with beds, a table, chairs, a squat toilet, a sink with cold and hot water and a shower separated from the living space by a curtain. The inmates cleaned the cell themselves with products provided by the administration or purchased by them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The applicant described these cells as badly lit and ventilated, humid and foul smelling. He further explained that because the toilet was not partitioned off from the beds, the inmates lacked privacy when using it. The tap for washing dishes and clothes and for showering was placed above the toilet and the water ran straight into the toilet. There was frequently no running water at all, which rendered it impossible to flush the toilet. The hot water was never sufficient for all of the inmates to take showers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The records show that from 30\u00a0March to 16 April 2010 the applicant was held in Jilava Prison Hospital in a hospital room measuring 30 sq. m which was equipped with five beds and had access to hot water twice a week.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The applicant spent the remainder of his pre-trial detention in Bucharest-Rahova Prison, where he was held, at his request and because of his position as a senator, in a cell for vulnerable individuals. The cell measured 24.59 sq. m, had eight bunk beds and was at full occupancy at that time. The cell had a window which allowed in natural light and ventilation. The detainees had at their disposal a table, benches, shelves and a TV set. Adjacent to the cell there was a bathroom equipped with a toilet, sinks and a shower. Cold water was continually available and hot water was available twice a week. The cell was heated to 18oC during the winter. The applicant explained that it was very hot in the summer and very cold in the winter; the heating system was old and broke down frequently, leaving the cells brutally cold. Hot water was scarce and there was never enough for all of the inmates to take showers.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The conditions of the applicant\u2019s transport during detention",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0On 28 February 2011 the applicant was transported from BucharestRahova Prison to the prosecutor\u2019s office in Pite\u015fti and back, a trip of around two hours each way. According to the applicant, they left in the morning from Bucharest-Rahova Prison. He was transported in the back of a prison van. Although the outside temperature was no more than 2-3oC, there was no heating in the van; in addition cold air from outside was able to enter the van through two hatches in the roof which could not be closed completely. There was insufficient light in the van because there were no windows in the detainee\u2019s compartment, the only source of light being a small window separating the detainee\u2019s compartment from the driver\u2019s cabin. The applicant, who was alone in the back of the van, had nothing to sit on or lean against, thus having to stand up during the entire journey with nothing to hold on to.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "When the van arrived in Pite\u015fti and returned to Bucharest, he was allowed to stretch, warm up and do some physical exercise.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The Prison Administration informed the Government that the applicant had been transported in a van designed for transporting sixteen people, as follows: two people in the forward cabin, ten detainees on chairs in a separate compartment, and four guards in another separate compartment in the back of the van. The van had natural and artificial ventilation, a heating system, and artificial light, which was kept on throughout each journey in order to allow the guards to keep watch over the detainees. The applicant had been transported alone, thus having ten chairs at his disposal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The journey had started at 8.45 am and ended at 1.35 pm.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0In his observations in reply to the official information supplied by the Prison Administration, the applicant explained that the back of the van where he had been held had been completely opaque without any natural light and that the artificial lighting and the heating system had not been working. He reiterated that the two hatches on the roof had remained open during the journey, resulting in freezing temperatures inside the van. The guards had had blankets to cover themselves during the journey, but he had not been given one. In addition, the seats in the detainees\u2019 compartment had not been fitted with safety belts, which had made it difficult to keep his balance.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC AND INTERNATIONAL LAW",
+                        "elements": [
+                            {
+                                "content": "35.\u00a0\u00a0The relevant findings and recommendations of the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (\u201cthe CPT\u201d) and the reports by the Council of Europe Commissioner for Human Rights, made following numerous visits to Romanian prisons, including Bucharest-Rahova Prison, are summarised in Iacov Stanciu v. Romania (no. 35972/05, \u00a7\u00a7 125-1299, 24\u00a0July 2012).",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0The Standard Minimum Rules for the Treatment of Prisoners, adopted on 30 August 1955 by the First United Nations Congress on the Prevention of Crime and the Treatment of Offenders, held at Geneva, and approved by the Economic and Social Council by its resolution 663 C (XXIV) of 31 July 1957 and 2076 (LXII) of 13 May 1977 (U.N. Doc. A/CONF/611, annex I, with amendments), in so far as relevant, read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c45.\u00a0\u00a0(1) When the prisoners are being removed to or from an institution, they shall be exposed to public view as little as possible, and proper safeguards shall be adopted to protect them from insult, curiosity and publicity in any form.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0The transport of prisoners in conveyances with inadequate ventilation or light, or in any way which would subject them to unnecessary physical hardship, shall be prohibited.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(3)\u00a0\u00a0The transport of prisoners shall be carried out at the expense of the administration and equal conditions shall obtain for all of them.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0The CPT assessed the conditions of transport of detainees by large capacity vans in Craiova and Ploie\u015fti Prisons in 2006 (CPT/Inf (2008) 41). The journeys examined lasted for around one hour to ninety minutes. It found that the vans offered insufficient space (8 sq. m for forty people in the central compartment and 0.6 sq. m to 0.9 sq. m for the individual compartments at the back of the van). Some of the individual compartments had no natural light or ventilation. In its response, the State informed the CPT that all vans that were unsuitable for the transport of detainees had been taken out of use. The CPT acknowledged the improvement and urged the State to not overcrowd the vans and to ensure that all compartments were properly lit and ventilated.",
+                                "elements": []
+                            },
+                            {
+                                "content": "38.\u00a0\u00a0Under Article 36 of the Use of Public Roads Act (Government Emergency Ordinance no. 195/2002), drivers and passengers must wear a seat belt in any seat fitted with one.",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0The relevant excerpts from domestic law and practice concerning possible legal avenues for seeking redress in respect of a leak of non-public information from a prosecution file are described in C\u0103\u015funeanu v.\u00a0Romania, no.\u00a022018/10, \u00a7\u00a7\u00a035-41, 16\u00a0April 2013. In addition, in its Article 277, the new Criminal Code establishes criminal liability for leaking evidence and official documents from a criminal file while criminal investigations are in progress, if such an offence is committed by a civil servant who has become aware of such information by virtue of his work. The offence is punishable by one month to one year in prison or by imposition of a criminal fine.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION ON ACCOUNT OF BEING HANDCUFFED IN PUBLIC",
+                        "elements": [
+                            {
+                                "content": "40.\u00a0\u00a0The applicant complained under Article 3 of the Convention that he had been handcuffed whilst being taken from official buildings to court during his pre-trial detention. The press had been present and had immediately started to ask him questions about his detention. He considered that this treatment had been disproportionate and had not been necessary in the circumstances of the case. Article 3 reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 position",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government raised an objection of non-exhaustion of domestic remedies. In their view, the applicant should have lodged either a complaint about being handcuffed in public under Law no. 275/2006, or a criminal complaint for abuse of office or ill-treatment against the police officers who had caused him to be exposed to the press.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The applicant contested the effectiveness of those remedies in his case.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Court reiterates that the purpose of the exhaustion rule is to afford the Contracting States the opportunity of preventing or putting right the violations alleged against them before those allegations are submitted to it. However, the only remedies which Article 35 of the Convention requires to be exhausted are those that relate to the breaches alleged and at the same time are available and sufficient. The existence of such remedies must be sufficiently certain, not only in theory but also in practice, failing which they will lack the requisite accessibility and effectiveness. It falls to the respondent State to establish that these various conditions are satisfied (see, among many other authorities, Selmouni v. France [GC], no. 25803/94, \u00a7\u00a7\u00a074-75, ECHR 1999-IV, and Vu\u010dkovi\u0107 and Others v. Serbia [GC], no.\u00a017153/11, \u00a7 \u00a7\u00a7 69-77, 25 March 2014).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court reiterates that it has recently examined identical complaints, raised by F.C. and C.C., the applicant\u2019s co-defendants in the domestic proceedings (see Costiniu v.\u00a0Romania (dec.), no. 22016/10, 19\u00a0February 2013, and C\u0103\u015funeanu, cited above, \u00a7\u00a7 44-48). In those cases, it found that the interested parties had had effective remedies at their disposal with which to complain that they had been exposed wearing handcuffs in public.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court has no reasons to depart, in the present case, from those findings and reaffirms that the applicant should have complained to the authorities about the fact that he had been kept handcuffed in public places (see Costiniu (dec.), cited above, \u00a7 35, and C\u0103\u015funeanu, cited above, \u00a7 48).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It follows that this complaint must be rejected under Article 35 \u00a7\u00a7 1 and 4 of the Convention for non-exhaustion of domestic remedies.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION ON ACCOUNT OF THE CONDITIONS OF THE APPLICANT\u2019S PRE-TRIAL DETENTION",
+                        "elements": [
+                            {
+                                "content": "46.\u00a0\u00a0Again citing Article 3 of the Convention, the applicant complained of the conditions of his detention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "47.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 position",
+                                        "elements": [
+                                            {
+                                                "content": "48.\u00a0\u00a0The applicant reiterated that he had been detained in poor conditions, lacking in basic hygiene and personal space.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0Relying on the information from the prison records, the Government contested the applicant\u2019s allegations on this point.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "50.\u00a0\u00a0The Court refers to the principles established in its case-law regarding conditions of detention (see, for instance, Kud\u0142a v. Poland [GC], no.\u00a0, \u00a7\u00a7 90-94, ECHR 2000XI; Kalashnikov v. Russia, no.\u00a0, \u00a7\u00a7 97 et seq., ECHR 2002-VI; and Iacov Stanciu, cited above, \u00a7\u00a7 165-170). It reiterates, in particular, that ill-treatment must attain a minimum level of severity if it is to fall within the scope of Article 3; the assessment of this minimum is, in the nature of things, relative: it depends on all the circumstances of the case, such as the nature and context of the treatment, the manner and method of its execution, its duration, its physical or mental effects and, in some instances, the sex, age and state of health of the victim (see Kud\u0142a, cited above, \u00a7 91).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The Court has considered extreme lack of space as a central factor in its analysis of whether an applicant\u2019s detention conditions complied with Article 3 (see Karalevi\u010dius v. Lithuania, no. , \u00a7 39, 7 April 2005). In a series of cases the Court has considered that a clear case of overcrowding is a sufficient element for concluding that Article 3 of the Convention was violated (see Colesnicov v. Romania, no. , \u00a7\u00a7\u00a07882, 21 December 2010, and Budaca v. Romania, no. , \u00a7\u00a7\u00a04045, 17 July 2012). Moreover, it has already found violations of Article 3 of the Convention on account of the physical conditions of detention in Romanian detention facilities, including Bucharest Remand Centre and Bucharest-Rahova Prison, especially with respect to overcrowding and lack of hygiene (see, for example, C\u0103\u015funeanu, cited above, \u00a7 62, and Geanopol v. Romania, no.\u00a01777/06, \u00a7 66, 5 March 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0In the case at hand, the Court observes, based on all the material at its disposal, that the personal space allowed to the applicant in detention fell short of the requirements set in the case-law. The Government have failed to put forward any argument that would allow the Court to reach a different conclusion.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0Moreover, the applicant\u2019s submissions in respect of the overcrowded and unhygienic conditions correspond to the general findings by the CPT in respect of Romanian prisons (see paragraph 35 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court concludes that the conditions of detention caused the applicant harm that exceeded the unavoidable level of suffering inherent in detention and have thus reached the minimum level of severity necessary to constitute degrading treatment within the meaning of Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "There has accordingly been a violation of Article 3 of the Convention in respect of the material conditions of the applicant\u2019s pre-trial detention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION ON ACCOUNT OF THE CONDITIONS OF TRANSPORT DURING DETENTION",
+                        "elements": [
+                            {
+                                "content": "55.\u00a0\u00a0The applicant complained that the conditions in which he had been transported from the prison in Bucharest to the prosecutor\u2019s office in Pite\u015fti during his detention had constituted inhuman and degrading treatment prohibited by Article 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "57.\u00a0\u00a0The applicant reiterated that he had felt grossly humiliated by the conditions of transport between the prison and the prosecutor\u2019s office. He refuted the description of the prisoner transport van offered by the Government (paragraph 33 above), but submitted that he was unable to bring further evidence to support his allegations, as such evidence was exclusively in the hands of the authorities.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Government contested the applicant\u2019s assertions about the conditions of transport and pointed out that he had failed to present any proof of his statements. They contended that the applicant had been transported alone, in good conditions, with heating and artificial light throughout the journey. They sent a copy of the van\u2019s registration card and car inspection record.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "59.\u00a0\u00a0The Court reiterates that allegations of ill-treatment must be supported by appropriate evidence. In assessing evidence, the Court has generally applied the standard of proof \u201cbeyond reasonable doubt\u201d. However, such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Salman v. Turkey [GC], no. 21986/93, \u00a7 100, ECHR 2000VII). The Court reiterates that Convention proceedings, such as the present application, do not in all cases lend themselves to a rigorous application of the principle affirmanti incumbit probatio (he who alleges something must prove that allegation) because in certain instances the respondent Government alone have access to information capable of corroborating or refuting allegations. A failure on a Government\u2019s part to submit such information without a satisfactory explanation may give rise to the drawing of inferences as to the validity of the applicant\u2019s allegations (see Ahmet \u00d6zkan and Others v. Turkey, no. 21689/93, \u00a7 426, 6\u00a0April 2004).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0Turning to the facts of the present case, the Court notes that the applicant complained about the shortcomings of prisoner transport. He referred to one single occurrence (see, in contrast, Khudoyorov v. Russia, no. 6847/02, \u00a7 119, ECHR\u00a02005X (extracts)). He gave two descriptions of the conditions of his transport, which coincide in so far as they refer to a lack of light and heating in the vehicle, but differ concerning his ability to sit down during the journey. Whereas in the applicant\u2019s first letter he complained that he had had to stand during the journey to and from the prosecutor\u2019s office, in his second set of submissions he complained of a lack of seatbelts, which he asserted had rendered it difficult to keep his balance while seated (see paragraphs 32 and 34 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0The Government presented the technical specifications of the van and a detailed description of the conditions inside it, which comply with the CPT requirements (see paragraph 33 above). This information contradicted the applicant\u2019s description. The Court attaches relevance to the CPT\u2019s acknowledging that after 2008 inappropriate vehicles were no longer used for the transport of detainees (see paragraph 37 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The Court further reiterates that the UN Standard Minimum Rules for the Treatment of Prisoners recommend that transport be organised in conditions of adequate ventilation and light and without unnecessary physical hardship for detainees (see paragraph 36 above). Moreover, the CPT recommends that vans be fitted with adequate seating and fixtures that would prevent prisoners from losing their balance when the vehicle moves (see CPT/Inf (2002) 36 [Slovenia], \u00a7\u00a095). The national legislation does not require that seat belts be fitted to all available seats in a car (see paragraph 38 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0In these circumstances, the absence of seatbelts alone cannot lead to a violation of Article 3. Nevertheless, the Court can envisage how, in complete darkness, the absence of seat belts might cause detainees to lose their balance, thus putting them in a humiliating situation. In addition, a lack of heating on a winter day could add to the distress suffered by a detainee during his or her transport. It remains to be ascertained if that was the case in the present application.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The parties\u2019 versions differ on this point. While the applicant claimed that he had been transported in complete darkness and cold, the Government argued, based on official documents, that the heating and artificial light systems in the vehicle had been functioning properly. It is regrettable that the applicant did not raise the matter with the authorities at the time: he did not complain, either to the prosecutor when he arrived in Pite\u015fti, or to the postsentencing judge, after his return to Rahova Prison. The Court does not have enough evidence to consider whether such remedies could be effective either as preventive or as compensatory measures in cases of improper conditions of transport not caused by systemic flaws (see Guliyev v. Russia, no.\u00a024650/02, \u00a7 54, 19 June 2008); the response by the authorities would nevertheless have provided valuable information allowing for a better assessment of the situation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0Furthermore, there is no evidence in the applicant\u2019s prison medical records that he needed special care after the journey. While the existence or not of such consequences for the applicant\u2019s health is not a prerequisite for finding a violation, such records would have allowed the Court to draw inferences as to the conditions of the applicant\u2019s transport.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0Lastly, assuming that there was no heating in the van, the agents should have given the applicant a blanket or, failing that, the applicant could have asked them for one. However, nothing in the applicant\u2019s submissions indicates that he did so and was refused.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0In the light of the particular circumstances of the case, the Court considers that there is not enough evidence to conclude that the applicant was transported in conditions that breached the requirements of Article 3 of the Convention (see also, mutatis mutandis, Ali v. Romania (no. 2), no.\u00a030595/09, \u00a7 46, 15 October 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Consequently there has been no violation of Article 3 of the Convention on this account.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "68.\u00a0\u00a0The applicant complained that the courts had refused to take into consideration other preventive measures that would have been less restrictive than pretrial detention. He relied on Article 5 \u00a7 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be ... entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 position",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The Government averred that the applicant\u2019s continued detention had been justified in the light of the weighty evidence against him, had been reviewed at regular intervals by the courts and had not been unreasonably lengthy. They pointed out that the first preventive measure taken against the applicant had been less restrictive, but that later on his detention had become necessary as he had attempted to tamper with the evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The applicant contended that the arguments brought forth by the domestic courts to dismiss his repeated requests for reassessment of the preventive measure had been purely formal, repetitive, standardised and had failed to take into account the real situation in the case and the advancement of the proceedings.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The Court makes reference to the principles it has established in its case-law concerning the acceptable justifications for pre-trial detention and the length of such a measure. In particular, it reiterates that a person charged with an offence must always be released pending trial unless the State can show that there are \u201crelevant and sufficient\u201d reasons to justify continued detention. Justification for any period of detention, no matter how short, must be convincingly demonstrated by the authorities. Quasiautomatic prolongation of detention contravenes the guarantees set forth in Article\u00a05\u00a0\u00a7\u00a03 (see B\u0103lteanu v. Romania, no. 142/04, \u00a7\u00a062, 16 July 2013 with further reference).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court has developed in its case-law four fundamental justifications for detention pending trial: the danger of absconding, of tampering with evidence, of repetition of the offence(s), or of disturbance to the public order (see Calmanovici v. Romania, no. 42250/02, \u00a7 93, 1 July 2008; Georgiou v. Greece (dec.), no. 8710/08, 22 March 2011; and the cases cited therein). Furthermore, whether a period of time spent in pre-trial detention is reasonable cannot be assessed in the abstract. Whether it is reasonable for an accused to remain in detention must be assessed on the facts of each case and according to its specific features. Continued detention can be justified in a given case only if there are actual indications of a genuine requirement of public interest which, notwithstanding the presumption of innocence, outweighs the rule of respect for individual liberty laid down in Article 5 of the Convention (see Idalov v.\u00a0Russia [GC], no. 5826/03, \u00a7 139, 22 May 2012; McKay v. the United Kingdom [GC], no. 543/03, \u00a7\u00a7 42 and 45, ECHR 2006X; and Bujac v.\u00a0Romania, no. 37217/03, \u00a7 68, 2 November 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0In the present case, the Court notes that the applicant was first ordered not to leave town (see paragraph 9 above) and was only placed in pre-trial detention two months later, on 30 March 2010 (see paragraph 17 above). His detention was subsequently reassessed roughly every month until he was finally released pending trial on 18 July 2011 (see paragraph 26 above). Therefore, the applicant spent a total amount of one year, three months and nineteen days in pre-trial detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The Court will look into the manner in which the domestic courts assessed the necessity of maintaining the measure and the grounds they gave for not changing it into a more lenient one.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0The Court notes that the domestic courts based their decision to keep the applicant in detention mainly: (i) on the fear that he would try to tamper with evidence; and (ii) on the impact of the alleged crimes on the public order. In doing so, they undertook an examination of the particular circumstances of the case and gave specific reasons based on the applicant\u2019s personal situation (see paragraph 10 above). They also examined on each occasion the opportunity to apply a more lenient preventive measure (see, in contrast, Gon\u021ba v. Romania, no. 38494/04, \u00a7 57, 1 October 2013, and paragraphs 21 and 24 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0It is to be noted that the reasons given by the domestic courts remained the same throughout the proceedings (attempts to tamper with evidence and impact on the public order). However, the Court considers that such an occurrence was legitimate, notably given the relatively short period of time between the two examinations by those courts of the reasons for extending the applicant\u2019s detention (see Medin\u0163u v. Romania (dec.), no.\u00a05623/04, \u00a7 47, 13 November 2012; Georgiou, cited above; and B\u0103lteanu, \u00a7\u00a069, cited above). Moreover, their reasoning was neither succinct nor formulaic, and took into account developments in the trial proceedings (see, in contrast, Begu v. Romania, no. 20448/02, \u00a7 86, 15 March 2011, and paragraph 21 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0In the light of the particular circumstances of the case, the Court considers that the domestic authorities offered relevant and sufficient reasons for not changing the preventive measure into a less strict one and thus for extending the applicant\u2019s pre-trial detention, which, overall, was not excessively long.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "78.\u00a0\u00a0The applicant complained that the authorities had leaked excerpts from the prosecution file to the press \u2013 in particular, transcripts of telephone conversations that had been intercepted by the authorities during a surveillance operation. He relied on Article 8 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "79.\u00a0\u00a0The Government raised a plea of non-exhaustion of domestic remedies. They argued that there was no evidence that the applicant had brought the issue of the alleged breach of his right to respect for his private life before the domestic courts. In their view, he could have lodged a criminal complaint for abuse of office or disclosure of professional secrets. Such an action had been used by a co-accused; the mere fact that it had been unsuccessful in that case did not in itself render the remedy ineffective.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "They also argued that an action lodged under the Audiovisual Act (Law no. 504/2002) or an action lodged under the general tort law, namely Articles 998 and 999 of the former Civil Code taken in conjunction with Decree No. 31/1954, would have constituted effective remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0The applicant contested those arguments.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The Court reiterates that it has recently examined an identical complaint, raised by C.C., the applicant\u2019s co-defendant in the domestic proceedings (see C\u0103\u015funeanu, cited above, \u00a7\u00a7 63-97). In that case, it found that the interested parties had had no effective remedy at their disposal to complain about the leak of information from the prosecution file to the media (see C\u0103\u015funeanu, cited above, \u00a7 72).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0The Court has no reasons to depart, in the present case, from those findings. It therefore dismisses the Government\u2019s objection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The Court further notes that this complaint is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention, nor is it inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "84.\u00a0\u00a0The Government averred that any communication to the press during the criminal proceedings had been in accordance with the applicable domestic regulations and the Council of Europe recommendations in the matter, and developed the same line of reasoning as in C\u0103\u015funeanu (cited above, \u00a7\u00a7 77-79). In addition they pointed out that the DNA had drawn the attention of the media institutions to the risks that they exposed themselves to when publishing information which was not officially confirmed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The applicant contested those arguments.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "86.\u00a0\u00a0The Court reiterates that in the case C\u0103\u015funeanu, cited above, which raised an identical problem, it concluded that there had been a violation of Article 8 of the Convention in so far as the respondent State had failed in their obligation to safeguard the information in their possession in order to secure the applicant\u2019s right to respect for his private life, and likewise failed to offer any means of redress once the breach of his rights occurred (see C\u0103\u015funeanu, cited above, \u00a7 97).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0The Court has no reasons to depart, in the present case, from those findings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "There has consequently been a violation of Article 8 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "89.\u00a0\u00a0The applicant claimed:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0The Government argued that there was no causal link between the complaints raised with the Court and the pecuniary losses alleged. They also considered that the applicant had failed to substantiate the existence of any nonpecuniary damage and that the amount he had claimed in respect thereof was excessive. In their view, the acknowledgement of a violation of the Convention would represent in itself sufficient just satisfaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The Court reiterates that in the present case it has found a violation of Articles 3 (conditions of detention) and 8 of the Convention. In this context, the Court does not discern any causal link between the violation found and the pecuniary damage alleged; it therefore rejects this claim. On the other hand, it awards the applicant EUR\u00a04,500 in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "92.\u00a0\u00a0The applicant made no claim under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints raised under Article 3 concerning the conditions of the applicant\u2019s pre-trial detention and transport during detention and that raised under Article 8 concerning the leak to the press of non-public information admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s pre-trial detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s transport while in detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of nonpecuniary damage, to be converted into the respondent State\u2019s currency at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 10 June 2014, pursuant to Rule\u00a077\u00a0\u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Alvina Gyulumyan",
+            "role": "judges"
+        },
+        {
+            "name": "J\u00e1n \u0160ikuta",
+            "role": "judges"
+        },
+        {
+            "name": "Dragoljub Popovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "judges"
+        },
+        {
+            "name": "Johannes Silvis",
+            "role": "judges"
+        },
+        {
+            "name": "Iulia Antoanella Motoc",
+            "role": "judges"
+        },
+        {
+            "name": "Santiago Quesada",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF VOICU v. ROMANIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-144661.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2014:0610JUD002201510",
+    "externalsources": [],
+    "extractedappno": [
+        "22015/10",
+        "35972/05",
+        "22018/10",
+        "25803/94",
+        "17153/11",
+        "22016/10",
+        "30210/96",
+        "47095/99",
+        "53254/99",
+        "36479/03",
+        "57260/10",
+        "1777/06",
+        "21986/93",
+        "21689/93",
+        "6847/02",
+        "24650/02",
+        "30595/09",
+        "142/04",
+        "42250/02",
+        "8710/08",
+        "5826/03",
+        "543/03",
+        "37217/03",
+        "38494/04",
+        "5623/04",
+        "20448/02"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-144661",
+    "judgementdate": "10/06/2014 00:00:00",
+    "kpdate": "10/06/2014 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "193",
+        "451",
+        "429"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "3",
+        "8",
+        "8-1"
+    ],
+    "parties": [
+        "VOICU",
+        "ROMANIA"
+    ],
+    "rank": "1128.40832519531",
+    "representedby": [
+        "CAZACU D.",
+        "IORDACHESCU I.",
+        "SERBAN N.",
+        "DINU M."
+    ],
+    "respondent": "ROU",
+    "respondentOrderEng": "37",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "388014",
+    "typedescription": "15"
+}

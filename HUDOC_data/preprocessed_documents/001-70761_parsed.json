@@ -1,0 +1,663 @@
+{
+    "__articles": "2;3;6;6-1;29;29-3;37;37-1-c;P1-1;P1-1-1",
+    "__conclusion": "Struck out of the list (first applicant);Violation of Art. 6-1;Violation of P1-1;Remainder inadmissible",
+    "applicability": "",
+    "appno": "68029/01",
+    "article": [
+        "37",
+        "3",
+        "2",
+        "p1-1",
+        "29",
+        "6"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "first applicant"
+            ],
+            "element": "Struck out of the list",
+            "type": "other"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "element": "Violation of Art. 6-1",
+            "type": "violation"
+        },
+        {
+            "element": "Remainder inadmissible",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-70761.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 68029/01) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Russian nationals, Mr Petr Prokhorovich Kutepov and Mr Mikhail Ivanovich Anikeyenko, on 9 February 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Russian Government (\u201cthe Government\u201d) were represented by Mr P. Laptev, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 31 August 2004 the Court decided to communicate the complaint concerning the quashing of the judgment of 23 September 1999 to the Government. Under the provisions of Article 29 \u00a7 3 of the Convention, it decided to examine the merits of the application at the same time as its admissibility.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 4 October 2005 the Court decided that a hearing in the case was unnecessary (Rule 59 \u00a7 3 of the Rules of Court).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicants were born in 1928 and 1930 respectively. The second applicant lives in .",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0The applicants received old-age pensions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0Original court proceedings",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0In 1999 the applicants sued the Pension Fund Agency of Belgorod (\u201cthe Agency\u201d) alleging that their pensions had been calculated in breach of a scheme for the calculation of retirement benefits \u2013 the \u201cIndividual Pensioner Coefficient\u201d (\u201cIPC\u201d) \u2013 introduced by the Pensions Law of 1997. The applicants maintained that they were entitled to an IPC of 0.7, whilst the Agency only applied an IPC of 0.525.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 27\u00a0May\u00a01999 the Oktyabrskiy District Court of Belgorod (\u201cthe Oktyabrskiy District Court\u201d) dismissed the applicants\u2019 claims as unfounded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 27\u00a0July\u00a01999 the Civil Section of the  (\u201cthe \u201d) set aside the above judgment on appeal and remitted the case for a new examination.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 23\u00a0September\u00a01999 the Oktyabrskiy District Court found in the applicants\u2019 favour. It held that the Agency had misinterpreted the Pensions Law and that the IPC to be applied in the applicants\u2019 case should be 0.7. The court ordered the Agency to increase the applicants\u2019 pension by RUR\u00a0642.84 and awarded them arrears of RUR\u00a03,222.6.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 16\u00a0November\u00a01999 the  dismissed the defendant\u2019s appeal, and the judgment of 23\u00a0September\u00a01999 became final.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0Enforcement proceedings",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0On 3\u00a0December\u00a01999 enforcement proceedings commenced.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 13\u00a0January\u00a02000 the Agency requested the court to suspend the enforcement pending the outcome of the proceedings before the Supreme Court of Russia concerning similar pension cases.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 14\u00a0February\u00a02000 the Western Circuit Court of Belgorod (\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0443\u0434 \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0433\u043e \u043e\u043a\u0440\u0443\u0433\u0430 \u0433. \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0430, \u201cthe Western Circuit Court\u201d) dismissed the request, having established no grounds for suspending the enforcement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On an unspecified date the Agency filed a new request to postpone the execution of the judgment of 23\u00a0September\u00a01999. On 17\u00a0March\u00a02000 the Western Circuit Court granted the request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 18\u00a0April\u00a02000, upon the order of the same court, the enforcement proceedings were resumed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On an unspecified date the Agency again applied for a stay of the enforcement, referring to the lack of funds. On 19\u00a0June\u00a02000 the Western Circuit Court rejected this request as groundless.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 29\u00a0June\u00a02000 the acting President of the  ordered a stay of enforcement, as on an unspecified date an extraordinary appeal had been brought against the judgment of 23\u00a0September\u00a01999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 29\u00a0September\u00a02000 the President of the  set aside the above order, following the withdrawal of the extraordinary appeal. The enforcement proceedings re-commenced.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "3.\u00a0Proceedings for review due to the discovery of new circumstances",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0On 19\u00a0May\u00a02000 the Agency filed an application to re-consider the judgment of 23\u00a0September\u00a01999 on account of newly-discovered circumstances. It stated that on 29\u00a0December\u00a01999 the Ministry of Labour had passed an instruction clarifying the application of the Pensions Law which had gone against the interpretation of that law by the courts in the applicants\u2019 case. The Agency maintained that it had been unaware of these circumstances when the judgment of 23\u00a0September\u00a01999 had been given and, therefore, the judgment should be re-considered.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 15\u00a0June\u00a02000 the Western Circuit Court of Belgorod disallowed the Agency\u2019s application, having noted that the instruction in question was not newly-discovered evidence within the meaning of the domestic law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 10\u00a0October\u00a02000 the  overturned the decision of 15\u00a0June\u00a02000 on appeal and remitted the case for a new consideration.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 2 November 2000 the Presidium of the  set aside the decision of 10 October 2000, referring to a number of procedural irregularities and remitted the case to the appeal instance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0During a new examination, on 21\u00a0November\u00a02000, the  again quashed the decision of 15\u00a0June\u00a02000 and ordered the first instance to consider the case afresh.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "4.\u00a0Supervisory review proceedings",
+                                "elements": [
+                                    {
+                                        "content": "25.\u00a0\u00a0On an unspecified date the President of the  lodged an extraordinary appeal against the decision of 27\u00a0July\u00a01999, the judgment of 23\u00a0September\u00a01999, the decision of 16\u00a0November\u00a01999 and the decision of 21\u00a0November\u00a02000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 1\u00a0February\u00a02001 the Presidium of the Belgorod Regional Court, having examined the extraordinary appeal in the supervisory review proceedings, quashed the aforementioned decisions and judgment and upheld the judgment of 27\u00a0May\u00a01999 and the decision of 15\u00a0June\u00a02000, thus reinstating the applicants\u2019 IPC at 0.525 and annulling the previously awarded increase as well as the arrears.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "5.\u00a0Proceedings against the bailiffs",
+                                "elements": [
+                                    {
+                                        "content": "27.\u00a0\u00a0On an unspecified date the applicants filed a claim against the Belgorod Regional Department of the Ministry of Justice, seeking compensation for pecuniary and non-pecuniary damage for the bailiffs\u2019 failure to enforce the judgment of 23\u00a0September\u00a01999 within a reasonable time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 5\u00a0April\u00a02001 the Eastern Circuit Court of Belgorod (\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0443\u0434 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u043a\u0440\u0443\u0433\u0430 \u0433. \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0430) rejected the action. The court found that the delays in the enforcement proceedings had not been imputable to the bailiffs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0On 5\u00a0June\u00a02001 the  upheld this judgment on appeal.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "30.\u00a0\u00a0Under the Code of Civil Procedure of 1964, which was in force at the material time, judgments became final as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 208. Coming into force of judgments",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cCourt judgments shall become legally binding on the expiration of the time-limit for lodging a cassation appeal if no such appeal has been lodged. If the judgment is not quashed following a cassation appeal, it shall become legally binding when the higher court delivers its decision...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0The only further means of recourse was the special supervisory-review procedure that enabled courts to reopen final judgments:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 319. Judgments, decisions and rulings amenable to supervisory review",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cFinal judgments, decisions and rulings of all Russian courts shall be amenable to supervisory review on an application lodged by the officials listed in Article 320 of the Code.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "32.\u00a0\u00a0The power of officials to lodge an application (protest) depended on their rank and territorial jurisdiction:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 320. Officials who may initiate supervisory review",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cApplications may be lodged by:",
+                                "elements": []
+                            },
+                            {
+                                "content": "1. The Prosecutor General \u2013 against judgments, decisions and rulings of any court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. The President of the Supreme Court \u2013 against rulings of the Presidium of the Supreme Court and judgments and decisions of the Civil Chamber of the Supreme Court acting as a court of first instance;",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Deputy Prosecutors General \u2013 against judgments, decisions and rulings of any court other than rulings of the Presidium of the Supreme Court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "4. Vice-Presidents of the Supreme Court \u2013 against judgments and decisions of the Civil Chamber of the Supreme Court acting as a court of first instance;",
+                                "elements": []
+                            },
+                            {
+                                "content": "5. The Prosecutor General, Deputy Prosecutor General, the President and Vice-Presidents of the Supreme Court \u2013 against judgments, decisions and rulings of any court other than rulings of the Presidium of the Supreme Court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "6. The President of the Supreme Court of an autonomous republic, regional court, city court, court of an autonomous region or court of an autonomous district, the Public Prosecutor of an autonomous republic, region, city, autonomous region or an autonomous district \u2013 against judgments and decisions of district (city) people\u2019s courts and against decisions of civil chambers of, respectively, the Supreme Court of an autonomous republic, regional court, city court, court of an autonomous region or court of an autonomous district that examined the case on appeal.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0The power to lodge such applications was discretionary, that is to say it was solely for the official concerned to decide whether or not a particular case warranted supervisory review.",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0Under Article 322 officials listed in Article 320 who considered that a case deserved closer examination could, in certain circumstances, obtain the case file in order to establish whether good grounds for lodging an application existed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "35.\u00a0\u00a0Article 323 of the Code empowered the relevant officials to stay the execution of the judgment, decision or ruling in question until the supervisory review proceedings had been completed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0Courts hearing applications for supervisory review had extensive jurisdiction in respect of final judgments:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 329. Powers of supervisory-review court",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe court that examines an application for supervisory review may:",
+                                "elements": []
+                            },
+                            {
+                                "content": "1. Uphold the judgment, decision or ruling and dismiss the application;",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. Quash all or part of the judgment, decision or ruling and order a fresh examination of the case at first or cassation instance;",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Quash all or part of the judgment, decision or ruling and terminate the proceedings or leave the claim undecided;",
+                                "elements": []
+                            },
+                            {
+                                "content": "4. Uphold any of the previous judgments, decisions or rulings in the case;",
+                                "elements": []
+                            },
+                            {
+                                "content": "5. Quash or vary the judgment of the court of first or cassation instance or of a court that has carried out supervisory review and deliver a new judgment without remitting the case for re-examination if substantive laws have been erroneously construed and applied.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "41. The grounds for setting aside final judgments were as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 330. Grounds for setting aside judgments on supervisory review",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...",
+                                "elements": []
+                            },
+                            {
+                                "content": "1. wrongful application or interpretation of substantive laws;",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. significant breach of procedural rules which led to delivery of unlawful judgment, decision or ruling...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0There was no time-limit for lodging an application for supervisory review, and, in principle, such applications could be lodged at any time after a judgment had become final.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0STRIKING OUT OF THE LIST",
+                        "elements": [
+                            {
+                                "content": "38.\u00a0\u00a0On 11 November 2004 the second applicant informed the Court that the first applicant had died in a car accident in 2003.",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0Regard being had to the absence of any heirs who wish to pursue the first applicant\u2019s application or any reasons which would require a continuation of the examination of the case (see, by way of contrast, Karner v. Austria, judgment of 24 July 2003, Reports of Judgments and Decisions 2003-IX, \u00a7 28), the Court, in so far as the first applicant\u2019s complaint is concerned, strikes the application out of its list, in accordance with Article\u00a037 \u00a7 1 (c) of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION AND ARTICLE 1 OF PROTOCOL NO. 1 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "Article\u00a06\u00a0\u00a7\u00a01",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 1 of Protocol No. 1",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government contested the admissibility of the application as being incompatible ratione materiae with the provisions of the Convention. They referred to the cases of Schouten and Meldrum v. Netherlands (dec., nos. 19005/91 and 19006/91, 9 December 1994) and Finkelberg v.\u00a0Latvia (dec., no. 55091/00, 18 October 2001) and argued that the second applicant\u2019s pension dispute had involved the interpretation of pension legislation rather than the determination of his right to pension benefits, and that the manner of the calculation of an old-age pension belonged to the public law domain.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The second applicant disagreed with the Government and maintained his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The Court firstly notes that a dispute as to the amount of an applicant\u2019s pension entitlement is of a pecuniary nature and undeniably concerns a civil right within the meaning of Article 6 \u00a7 1 (see Schuler-Zgraggen v. Switzerland, judgment of 24 June 1993, Series A no. 263, p.\u00a017, \u00a7 46; Massa v. Italy, judgment of 24 August 1993, Series A no.\u00a0265B, p. 20, \u00a7 26; S\u00fc\u00dfmann v. Germany, judgment of 16\u00a0September\u00a01996, Reports of Judgments and Decisions\u00a0\u00a01996-IV, p. 1170, \u00a7 42 and, as a recent authority, Tri\u010dkovi\u0107 v. Slovenia, no.\u00a0\u00a039914/98, \u00a7 40, 12 June 2001). As regards the case-law cited by the Government, it is not directly relevant to the case at issue as the Finkelberg case concerned tax and not pension matters, whilst Schouten and Meldrum related to the applicability of Article 6 \u00a7 1 to disputes over employers\u2019 contributions under social-security schemes, as distinct from entitlement to benefits under such schemes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0On the facts, the Court observes that when having brought the proceedings against the pension authority, the second applicant sought the increase in his old-age pension and did not attempt to challenge, as such, any legislative provision. This being so, the Court concludes that the second applicant\u2019s dispute was of a pecuniary nature and determined his civil rights within the meaning of Article 6\u00a0\u00a7\u00a01. It also finds that the second applicant\u2019s \u201cpossessions\u201d, within the meaning of Article 1 of Protocol No. 1, were engaged. Accordingly, the Government\u2019s objection must be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "Article 6 \u00a7 1 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "46.\u00a0\u00a0The Government alleged that the judgment in the second applicant\u2019s favour had been quashed by the Presidium of the  with a view to correcting a judicial error. The Government referred to the fact that the second applicant\u2019s dispute about his pension increase had been a part of a complex general problem caused by the vagueness of the Federal Law on Calculating and Upgrading State Pensions. The ambiguity was eliminated by an instruction passed on 29\u00a0December 1999 by the Ministry of Labour and Social Development to clarify how this law should be interpreted and applied. All disputes similar to the second applicant\u2019s one were resolved in accordance with this instruction thereafter. Furthermore, the lawfulness of the instruction was later confirmed by the Supreme Court of Russia on 24 April, 25 May and 3 August 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0The second applicant contested the Government\u2019s allegations and maintained his complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c51. ... the Court reiterates that the right to a fair hearing before a tribunal as guaranteed by Article 6 \u00a7 1 of the Convention must be interpreted in the light of the Preamble to the Convention, which declares, in its relevant part, the rule of law to be part of the common heritage of the Contracting States. One of the fundamental aspects of the rule of law is the principle of legal certainty, which requires, among other things, that where the courts have finally determined an issue, their ruling should not be called into question...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court notes that the supervisory review of the judgment ... was set in motion by the President of the Belgorod Regional Court \u2013 who was not party to the proceedings ... As with the situation under Romanian law examined in Brum\u0103rescu, the exercise of this power by the President was not subject to any time-limit, so that judgments were liable to challenge indefinitely.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court reiterates that Article 6 \u00a7 1 secures to everyone the right to have any claim relating to his civil rights and obligations brought before a court or tribunal. In this way it embodies the \u201cright to a court\u201d, of which the right of access, that is the right to institute proceedings before courts in civil matters, constitutes one aspect. However, that right would be illusory if a \u2019s domestic legal system allowed a final, binding judicial decision to remain inoperative to the detriment of one party. It would be inconceivable that Article 6 \u00a7 1 should describe in detail procedural guarantees afforded to litigants \u2013 proceedings that are fair, public and expeditious \u2013 without protecting the implementation of judicial decisions; to construe Article 6 as being concerned exclusively with access to a court and the conduct of proceedings would be likely to lead to situations incompatible with the principle of the rule of law which the Contracting States undertook to respect when they ratified the Convention (see Hornsby v. Greece, judgment of 19 March 1997, Reports of Judgments and Decisions 1997II, p. 510, \u00a7 40).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The Court considers that the right of a litigant to a court would be equally illusory if a \u2019s legal system allowed a judicial decision which had become final and binding to be quashed by a higher court on an application made by a State official.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c...judicial systems characterised by the objection (protest) procedure and, therefore, by the risk of final judgments being set aside repeatedly, as occurred in the instant case, are, as such, incompatible with the principle of legal certainty that is one of the fundamental aspects of the rule of law for the purposes of Article 6 \u00a7 1 of the Convention, read in the light of Brum\u0103rescu ...\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Article 1 of Protocol No. 1 to the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "53.\u00a0\u00a0The Government contended that the second applicant had not acquired property since the judgment which conferred a title on him had been unlawful. They concluded that Article 1 of Protocol No. 1 had not been violated by the quashing of the judgment of 23 September 1999.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The applicant disagreed with the Government\u2019s arguments and maintained his complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court reiterates that the Convention does not guarantee, as such, the right to an old-age pension or any social benefit in a particular amount (see, for example, Aunola v. Finland (dec.), no. 30517/96, 15 March 2001). However a \u201cclaim\u201d \u2013 even concerning a pension \u2013 can constitute a \u201cpossession\u201d within the meaning of Article 1 of Protocol No. 1 where it has a sufficient basis in national law, for example where it is confirmed by a final court judgment (see Pravednaya v. Russia, no.\u00a069529/01, \u00a7 38, 18\u00a0November 2004, and Kopeck\u00fd v. Slovakia judgment, [GC], no.\u00a044912/98, \u00a7\u00a035, ECHR 2004-...).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The judgment of the Oktyabrskiy District Court of 23\u00a0September\u00a01999 as upheld by the  on 16\u00a0November 1999 provided the second applicant with an enforceable claim to receive an increased pension with an IPC of 0.7 and arrears of RUR\u00a03,222.6. It became final and binding after it had been upheld on appeal, and enforcement proceedings were instituted. In the Court\u2019s view, the applicant therefore had a \u201cpossession\u201d for the purposes of Article 1 of Protocol No. 1.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The Court finds that the quashing on 1 February 2001 of the judgment of 23 September 1999 deprived the second applicant of his entitlement to the increased pension, and therefore constituted an interference with the applicant\u2019s right to the peaceful enjoyment of possessions guaranteed by Article 1 of Protocol No. 1 (see Brum\u0103rescu v.\u00a0Romania [GC], no. 28342/95, \u00a7 74, ECHR 1999-VII, and Pravednaya, cited above, \u00a7 39).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0While the Court accepts that this measure was lawful and pursued the public interest (such as, for example, an efficient and harmonised State pension scheme), its compliance with the requirement of proportionality is open to question.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0It is true that recalculation of a pension and its subsequent reduction does not, as such, violate Article\u00a01 of Protocol\u00a0No.\u00a01 (Skorkiewicz v Poland (dec.), no.\u00a039860/98, 1 June 1998). However, backdating the recalculation with the effect that the sums due were reduced involved an individual and excessive burden for the applicant and was incompatible with Article 1 of the Protocol. In this respect, the Court recalls the aforementioned Pravednaya judgment where it was said:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c40.\u00a0\u00a0 ... The \u201cpublic interest\u201d may admittedly include an efficient and harmonised State pension scheme, for the sake of which the State may adjust its legislation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0However, the State\u2019s possible interest in ensuring a uniform application of the Pensions Law should not have brought about the retrospective recalculation of the judicial award already made. The Court considers that by depriving the applicant of the right to benefit from the pension in the amount secured in a final judgment, the State upset a fair balance between the interests at stake (see, mutatis mutandis, Pressos Compania Naviera S.A. and Others v. Belgium, judgment of 20\u00a0November\u00a01995, Series A no. 332, \u00a7 43).\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0The Court does not find it necessary to depart from its conclusions in that judgment and concludes that there has been a violation of Article 1 of Protocol No. 1 in the present case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "61.\u00a0\u00a0The second applicant further relied on Article 2 of the Convention in that the present amount of his old-age pension was insufficient to maintain a proper living standard.",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0The Court recalls that the Convention does not guarantee, as such, the right to a certain living standard. It further notes that a complaint about a wholly insufficient amount of pension and the other social benefits may, in principle, raise an issue under Article 3 of the Convention which prohibits inhuman or degrading treatment. However, on the basis of the material in its possession, the Court finds no indication that the amount of the second applicant\u2019s pension has caused such damage to his physical or mental health capable of attaining the minimum level of severity falling within the ambit of Article 3 of the Convention, or that he faces any \u201creal and immediate risk\u201d either to his physical integrity or his life, which would warrant the application of Article 2 of the Convention in the present case (see, in a similar context, Larioshina v. Russia (dec.), no. 56869/00, 23 April 2002 or Volkova v. Russia (dec.), no. 48758/99, 18 November 2003).",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7\u00a03 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "64.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "65.\u00a0\u00a0The applicant did not submit any claims for just satisfaction. Accordingly, the Court considers that there is no call to award him any sum on that account.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to strike the application out of its list of cases, in so far as the first applicant\u2019s complaint is concerned;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaint concerning the quashing of the final judgment in the second applicant\u2019s favour admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 1 of Protocol No. 1 to the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 25 October 2005, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrJ.-P. Costa",
+            "role": "president"
+        },
+        {
+            "name": "MrA.B. Baka",
+            "role": "judges"
+        },
+        {
+            "name": "MrI. Cabral Barreto",
+            "role": "judges"
+        },
+        {
+            "name": "MrR. T\u00fcrmen",
+            "role": "judges"
+        },
+        {
+            "name": "MrV. Butkevych",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MsD. Jo\u010dien\u0117",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "04/10/2005 00:00:00",
+    "docname": "CASE OF KUTEPOV AND ANIKEYENKO v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-70761.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2005:1025JUD006802901",
+    "externalsources": [],
+    "extractedappno": [
+        "68029/01",
+        "19005/91",
+        "19006/91",
+        "55091/00",
+        "39914/98",
+        "52854/99",
+        "30517/96",
+        "69529/01",
+        "44912/98",
+        "28342/95",
+        "39860/98",
+        "56869/00",
+        "48758/99"
+    ],
+    "importance": "4",
+    "introductiondate": "09/02/2001 00:00:00",
+    "issue": [
+        "Code of Civil Procedure 1964, Articles 208, 319-320, 322-323, 329-330"
+    ],
+    "itemid": "001-70761",
+    "judgementdate": "25/10/2005 00:00:00",
+    "kpdate": "25/10/2005 00:00:00",
+    "kpthesaurus": [
+        "369",
+        "304",
+        "445",
+        "40",
+        "113",
+        "136",
+        "609",
+        "59",
+        "449",
+        "350"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "37",
+        "P1-1-1",
+        "3",
+        "2",
+        "29",
+        "6-1",
+        "6",
+        "37-1-c",
+        "29-3",
+        "P1-1"
+    ],
+    "parties": [
+        "KUTEPOV AND ANIKEYENKO",
+        "RUSSIA"
+    ],
+    "rank": "527.97119140625",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Aunola v. Finland (dec.), no. 30517/96, 15 March 2001",
+        "Brumarescu v. Romania [GC], no. 28342/95, \u00a7 74, ECHR 1999-VII",
+        "Finkelberg v. Latvia, (dec.), no. 55091/00, 18 October 2001",
+        "Kopeck\u00fd v. Slovakia judgment, [GC], no. 44912/98, \u00a7 35, ECHR 2004-...",
+        "Larioshina v. Russia (dec.), no. 56869/00, 23 April 2002",
+        "Massa v. Italy, judgment of 24 August 1993, Series A no. 265-B, p. 20, \u00a7 26",
+        "Pravednaya v. Russia, no. 69529/01, \u00a7 38, \u00a7 39, 18 November 2004",
+        "Ryabykh v. Russia, no. 52854/99, \u00a7\u00a7 51-56, ECHR 2003-IX",
+        "Schouten and Meldrum v. Netherlands, (dec.), nos. 19005/91 and 19006/91, 9 December 1994",
+        "Schuler-Zgraggen v. Switzerland, judgment of 24 June 1993, Series A no. 263, p. 17, \u00a7 46",
+        "Skorkiewicz v Poland (dec.), no. 39860/98, 1 June 1998",
+        "Sovtransavto Holding v. Ukraine, judgment of 25 July 2002, Reports of Judgments and Decisions 2002-VII, \u00a7 77",
+        "S\u00fc\u00dfmann v. Germany, judgment of 16 September 1996, Reports of Judgments and Decisions 1996-IV, p. 1170, \u00a7 42",
+        "Trickovic v. Slovenia, no. 39914/98, \u00a7 40, 12 June 2001",
+        "Volkova v. Russia (dec.), no. 48758/99, 18 November 2003"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "332396",
+    "typedescription": "14"
+}

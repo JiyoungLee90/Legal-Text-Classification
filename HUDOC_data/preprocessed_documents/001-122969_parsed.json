@@ -1,0 +1,1824 @@
+{
+    "__articles": "2;2-1;3;5;5-1;13;13+2;13+3;35;38;41",
+    "__conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;No violation of Article 38 - Examination of the case-{general} (Article 38 - Examination of the case);Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman punishment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention);Violation of Article 13+2 - Right to an effective remedy (Article 13 - Effective remedy) (Article 2-1 - Life;Article 2 - Right to life);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Degrading treatment;Inhuman treatment;Prohibition of torture);Pecuniary and non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "11554/07;56745/08;61274/09;7862/08",
+    "article": [
+        "3",
+        "38",
+        "2",
+        "35",
+        "5",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Art. 35"
+            ],
+            "element": "Remainder inadmissible",
+            "type": "other"
+        },
+        {
+            "article": "38",
+            "base_article": "38",
+            "details": [
+                "Article 38 - Examination of the case"
+            ],
+            "element": "No violation of Article 38 - Examination of the case-{general}",
+            "type": "no-violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Effective investigation"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman punishment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2-1 - Life",
+                "Article 2 - Right to life"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2-1 - Life",
+                "Article 2 - Right to life"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "element": "Pecuniary and non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-122969.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in four applications (see Annex I) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by Russian nationals (\u201cthe applicants\u201d), on the dates indicated in Annex I.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented before the Court by Mr D. Itslayev, a lawyer practising in Grozny, lawyers of Stichting Russian Justice Initiative (SRJI), an NGO based in the Netherlands with a representative office in Russia (in partnership with the NGO Astreya). The Russian Government (\u201cthe Government\u201d) were represented by Mr\u00a0G.\u00a0Matyushkin, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged that their eight relatives had disappeared in Grozny or Grozny District, Chechnya, between 2000 and 2002 in four unrelated episodes and that no effective investigation had taken place.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 22 March 2011 the Court decided to communicate the applications to the Government. It was also decided to rule on the admissibility and merits of the applications at the same time (Article 29\u00a0\u00a7\u00a01).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASES",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0Two applicants in case no. 56745/08 reside in Austria; the remaining applicants live in different districts of the .",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0The applicants are close relatives of eight individuals who disappeared in the Chechen Republic after being apprehended by groups of armed men whom the applicants believed to have belonged to the Russian military or security forces. In all cases the applicants\u2019 relatives were abducted in Grozny or the Grozny District of the  between 2000 and 2002. In one case (Gakayev and Others, no. \u00a056745/08), two bodies of the victims have been found with signs of violent deaths. In each case a criminal investigation file was opened by the local prosecutor\u2019s office. Afterwards, the proceedings were suspended and resumed on several occasions. Judging from the documents submitted by the parties, the investigations consisted mainly of collecting the applicants\u2019 testimonies, forwarding inquiries and making formal requests to the authorities in Chechnya and the North Caucasus to carry out operative search measures.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0At the end of 2011 the investigation in each case remained pending without having produced any tangible results as to the whereabouts of the applicants\u2019 missing relatives or the identity of the perpetrators of the crimes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0In their observations the Government did not challenge the essential facts as presented by the applicants, but noted that as the investigations were pending, it would be premature to draw any conclusions about the exact circumstances of the cases. They argued further that there was no evidence to prove beyond reasonable doubt that State agents had been involved in the abduction and/or subsequent killing of the applicants\u2019 relatives, or that the missing persons were dead.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0Summaries of the facts relevant to each complaint are set out below. The personal data of the applicants and their disappeared relatives and some other key facts are summarised in the attached table (Annex I).",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Application no. 11554/07, Kaykharova v. Russia",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Abduction of Gelani Kaykharov",
+                                        "elements": [
+                                            {
+                                                "content": "10.\u00a0\u00a0Gelani (also referred to as \u201cGilani\u201d) Kaykharov, the second applicant (his wife) and their minor daughter lived at 4 Vagonnaya Street in the Oktyabrskiy District of Grozny, in a single-storey apartment block. The building was located near the Oktyabrskiy District department of the interior (\u201cthe Oktyabrskiy ROVD\u201d), the district military commander\u2019s office and the local administration office. In 2002 military checkpoints manned by Russian servicemen were located on the roads leading to and from .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "11.\u00a0\u00a0According to the two applicants of this application, on the night of 20 December 2002 the second applicant, Gelani Kaykharov and their minor daughter were at home. At about 5 a.m. approximately eight to ten men wearing camouflage uniforms, gloves, masks and black hats and armed with automatic weapons, jumped over the fence of the apartment block, broke through the doors and burst into the apartment. The men neither identified themselves nor produced any documents. They spoke Russian without an accent. They locked the second applicant in her bedroom with the child. She heard one of the men ordering her husband to put clothes on and to dress warmly. The second applicant called out from the room to ask where her husband was being taken. One of the men answered that they would run a check on his identity and would then release him by 9\u00a0a.m.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "12.\u00a0\u00a0As soon as the intruders left the house, the second applicant went outside the building. She saw her husband being led on foot along Dalnyaya Street (adjacent to the Oktyabrskiy ROVD building) by the same group of armed men. She later discovered that some of her family\u2019s belongings, such as clothing, medicines and silverware, had disappeared. Various documents, including her daughter\u2019s birth certificate, her husband\u2019s passport and his car registration documents, were also gone.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0At about 4.45 a.m. on the same date the first applicant (Gelani Kaykharov\u2019s mother) went to the ROVD in order to apply for a new passport. On her way she passed her son\u2019s house and noticed two military vehicles \u2013 a large white armoured UAZ jeep and a smaller grey UAZ car with two blue stripes on the side and without a registration plate \u2013 parked nearby. The registration number of the white UAZ jeep was either 307 or 317 \u2013 the car was dirty so the numbers were partly obscured. On the same day the first applicant noticed the same two UAZ vehicles parked outside the ROVD building.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0There has been no news of Gelani Kaykharov since 20 December 2002.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0In support of their statements, the applicants submitted the following documents: the second applicant\u2019s account dated 13 September 2006; a complaint by Mr A. Kh, Gelani\u2019s father, dated 20 December 2002; the first applicant\u2019s complaints to the authorities dated 15\u00a0January, 30 May and 17\u00a0June 2003, containing a detailed description of the events; and witness testimonies by Mr M. (dated 10 September 2006), Mr Kh. (submitted on 11\u00a0September 2006) and Mr G. (given on 12 September 2006).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Official investigation",
+                                        "elements": [
+                                            {
+                                                "content": "16.\u00a0\u00a0The Government submitted a copy of the entire criminal case file no.\u00a052159 on the abduction of Gelani Kaykharov (588 pages). The relevant information may be summarised as follows.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Opening of a criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "17.\u00a0\u00a0On 20\u00a0December 2002 the first applicant complained about the abduction to the Oktyabrskiy ROVD in the following terms:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cI ask you to search for my son, Gilani Arturovich Kaykharov, born in 1972, who on the night of 20\u00a0December 2002 was taken away by armed men in camouflage uniforms in an unknown direction...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On the same date the investigator of the ROVD examined the crime scene. No evidence such as fingerprints or tyre tracks was collected. The investigator questioned the applicants and several other witnesses and forwarded the materials to the Grozny prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 25 December 2002 the Grozny prosecutor\u2019s office opened an investigation into the disappearance of Gelani Kaykharov under Article 126 \u00a7\u00a02 of the Criminal Code of the  (aggravated kidnapping). The case file was assigned no.\u00a052159.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Main witness statements taken by the investigator",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0On 20 December 2002 the investigator of the Oktyabrskiy ROVD collected statements from several persons. The first applicant stated that at 5.40 a.m. on the same date the second applicant had come to her house in tears and told her that a group of approximately eight to ten armed masked men in camouflage uniforms had broken into their home and abducted Gelani.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The second applicant stated that on 20 December 2002 she had been at home with her husband and their minor daughter. At 4.20 a.m. approximately eight to ten armed masked men in camouflage uniforms had burst into their apartment. They spoke Russian without an accent. They searched the house and took Gelani\u2019s passport, their child\u2019s birth and medical certificates, family photos and some of their belongings. One of the abductors told her that they would carry out an identity check and release Gelani by 9\u00a0a.m. on the same day. She had not seen any cars, but had seen the abductors leading Gilani on foot down the street.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0Their neighbours, A.K., R.K and Sh.K., stated that they had heard nothing during the night of Gelani\u2019s abduction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0Between 10 and 13 January 2003 the investigator again questioned the applicants and several other witnesses. R.K., in addition to his initial submissions, stated that on 19\u00a0November 2002 he and Gelani had been called to the prosecutor\u2019s office to give evidence as witnesses in the investigation of the murder of V.\u2019s family.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0An officer of the ROVD, Mr M.M., stated that he did not know Gelani\u2019s whereabouts, but had been sent by the investigator to deliver a summons to Gelani so that he could be questioned as a witness in the case of the murder of V.\u2019s family.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 29 March 2006 the first applicant stated that during the search for her son, she had found out from N.S., the deputy head of the criminal investigation division of the Oktyabrskiy ROVD, that her son had been suspected of the murder of V.\u2019s family. N.S. also said that to his knowledge her son was being beaten in order to extract information from him but had not confessed. However, N.S. told her that he did not know where Gelani was being detained and promised to help in his search. Thereafter, N.S. had avoided meeting her. The first applicant subsequently learnt from I., the head of the criminal investigation division of the ROVD, about the involvement of N.S. in her son\u2019s abduction. She also submitted that in July 2005 at the premises of the Grozny administration, V.M., the deputy head of the military commander\u2019s office, had showed her a register in which her son\u2019s name and the date of his conviction (25 June 2003) had been recorded.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Main investigative steps",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0On 10 January 2003 the first applicant was granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 15 January 2003 the investigator sent requests to the  department of the Federal Security Service (\u201cthe FSB\u201d) and the military commander\u2019s office of the Oktyabrskiy District about Gelani Kaykharov\u2019s arrest and detention. Both agencies replied that they had no information on the subject. The investigator also asked the ROVD to carry out operative search measures in order to establish Gelani Kaykharov\u2019s whereabouts and to identify his abductors. The ROVD replied that it was not possible to establish Mr Kaykharov\u2019s whereabouts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0On 2 August 2003 the ROVD informed the investigator that on 29\u00a0March 2003 Gelani Kaykharov\u2019s name had been added to the list of persons wanted on suspicion of involvement in the robbery and murder of V.\u2019s family in September 2002.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0On 18 August 2003 the first applicant complained to a number of prosecutors\u2019 offices. The relevant parts of her complaint read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cBetween 20 December 2002 and 17 June 2003 I have addressed law-enforcement agencies on numerous occasions asking them to search for my son, Kaykharov Gelani Arturovich, who was abducted by unidentified men in masks and camouflage uniforms armed with machine guns ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On 17 June 2003 I again addressed the issue concerning the abduction of my son to the prosecutor of the Oktyabrskiy District, [R.]. After examination of the case file, the prosecutor [R.] told me that my son was alive and was detained in the SIZO of the Tsentralniy District of Grozny and that the criminal case had been assigned to [D.]...I addressed [D.] who denied the existence of such a criminal case...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0In response to the first applicant\u2019s inquiries the investigative authorities on several occasions informed her that they were taking steps to establish Gelani Kaykharov\u2019s whereabouts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0On 27 March 2004 the first applicant complained to the prosecutor\u2019s office of the Chechen Republic and other State agencies about the abduction of her son. She noted that the operation had been led by N.S. and that despite her numerous complaints to various prosecutor\u2019s offices and other law-enforcement agencies, neither N.S. nor his colleagues had been questioned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0On 10 September 2004 the Criminal Investigations Department of the Ministry of the Interior of Chechnya informed the first applicant that a warrant had been issued for the arrest of N.S. on suspicion of unspecified crimes in , but that his whereabouts were unknown.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0On 21 December 2004 the investigator asked the ROVD for N.S.\u2019s service history and residential address in order to question him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0On 15 January 2005 the ROVD provided the investigator with copies of N.S.\u2019s employment records.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0On 3 April 2006 the ROVD informed the investigator of the following:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... it has been established that [N.S.], the former deputy head of the criminal investigation division of the VOVD, resident of , with the rank of Police Major, was involved in [Gelani]\u2019s abduction. [N.S.] arrested [Gelani] and brought him to the [premises of the ROVD].",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "At present [N.S.] has been put on the federal wanted list ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0On 4 April 2006 the second applicant was granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 28 September 2006 the investigator informed the department of the interior of the Yaroslavl Region (\u201cthe UVD\u201d) that N.S., who had been involved in Gelani Kaykharov\u2019s abduction, had been seconded to  by their department, and asked them to establish his whereabouts and provide his residential address.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0On 31 May 2007 the UVD informed the investigator that it was not possible to establish N.S.\u2019s whereabouts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0On 9 October 2008 the investigator showed the second applicant photographs from which she identified N.S.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0On 21 October 2008 the Oktyabrskiy ROVD informed the investigator that it was not possible to establish N.S.\u2019s whereabouts. The relevant parts of the report read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c...The prosecutor\u2019s office of  asked the UVD to provide information concerning [N.S.] to which they replied that the Police Major [N.S.], was not listed among the officers of the UVD. Nor is [N.S.] listed in [the database of registered residents] of the  region. Therefore, it is logical to assume that the documents in the name of [N.S.] are false, that such a person does not exist and that this individual is an officer of the secret services ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0It appears that the investigation is still pending.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Application no. 7862/08, Muzayeva and Others v. ",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Abduction of Suleyman Surguyev, Adam Suleymanov and Mirza Elmurzayev",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0In 1999 the three applicants of this application and their relatives mentioned above were living in the Stroiteley settlement in Grozny. In January 2000, when the hostilities began in , about thirty local residents, including the first applicant, Suleyman Surguyev, Adam Suleymanov and Mirza Elmurzayev, hid in the basement of school no. 50. By the end of January 2000 the Chechen fighters had left the settlement, and by the beginning of February 2000 it was under the control of the federal forces.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0According to the applicants, in the afternoon of 2 February 2000 three APCs arrived at the school building and several armed servicemen wearing camouflage uniforms got out. They ordered everyone to leave the basement, forced the men to stand up against a wall and searched them. Then they took Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev and another man, , to an infantry fighting vehicle (\u201cIFV\u201d) with the registration number 318. When the neighbours attempted to intervene, one of the servicemen, addressed by his colleagues as S., removed the safety pin from a hand grenade and threw it at the crowd; it exploded but no one was hurt.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The first applicant asked where the men were being taken. A serviceman replied that the four men were being taken for \u201cinterrogation\u201d. The vehicles then left the schoolyard, taking Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev and  with them. The settlement inhabitants ran after the vehicles, but were stopped by gunfire from two other IFVs parked near the school. One of the soldiers told the first applicant that the men were being taken to a military unit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0On 3 February 2000 military servicemen under the command of Major A. went to the schoolyard. Major A. told the first applicant and her mother that the previous day the four arrested men had been taken to a military base. He suggested that the women went to the military unit and discussed the detainees\u2019 release on their personal guarantee. On the same day the servicemen took the first applicant and four other women to a military base located within half an hour\u2019s drive from the school. The first applicant submitted that they had passed the Karpinka settlement and a cemetery on their way to the base.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0Once the women arrived, the servicemen told the first applicant that the detainees were no longer there and the women should leave. On the way back one soldier told the applicant that the detainees had been transferred to \u201cAlkhan-Kala\u201d. The first applicant thought that he must have meant Khankala, the headquarters of the Russian military forces in .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0On 7 March 2000 the Itogi magazine published an article about \u201cfiltration points\u201d where individuals whom the federal authorities suspected of being linked to illegal armed groups were taken. It was accompanied by a picture of four men detained in a pit guarded by two armed servicemen. The applicants identified them as Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev and ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The applicants furnished the following documents in support of their submissions: the first applicant\u2019s account dated 3 August 2007; a witness testimony by R.A. dated 8\u00a0September 2007; an account by witness A.M. given on 23 September 2007; and a testimony by witness Kh.T., produced on 20\u00a0September 2007. The applicants also submitted a copy of the article published in the Itogi magazine together with the photograph.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Official investigation",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The Government submitted a copy of the entire criminal case file no.\u00a010/01/0412-02 on the abduction of Suleyman Surguyev, Adam Suleymanov and Mirza Elmurzayev (221\u00a0pages). The relevant information may be summarised as follows.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Opening of a criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0On 10 March 2000 F.D. reported the abduction of her spouse, Adam Suleymanov, to the Zavodskoy temporary department of the interior of  (\u201cthe Zavodskoy VOVD\u201d). On 15 March 2000 the first and third applicants also reported the abduction of their sons, Suleyman Surguyev and Mirza Elmurzayev, to the Zavodskoy VOVD.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0On 13 and 19 March 2000 the investigator decided not to open a criminal investigation into the complaints for lack of corpus delicti.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0On 10 and 17 November 2000 the  prosecutor\u2019s office quashed the above decision and ordered a criminal investigation into the abduction of Suleyman Surguyev (case no. 12276), Adam Suleymanov (case no. 12779) and Mirza Elmurzayev (case no. 12258).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Main witness statements taken by the investigators",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0On 15 March 2000 several witnesses were questioned by the investigator. The first applicant stated that on 2 February 2000 armed servicemen from regiment no. 245 of the Ural military circuit had arrived at the school in an IFV with registration number 318. There were twenty women and eight men in the basement, and the servicemen checked the documents of all present. Afterwards, they moved in the direction of the stadium, where a fight had taken place. Some time later the same group returned, forced the men to stand up against a wall and searched them. The group, led by Se., put Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev and another man, S.A., in the IFV and took them to \u201cSolyanaya balka\u201d (a military unit) for questioning. The first applicant further noted that on 6 February 2000 the\u00a0same serviceman, Se., had visited them in the basement of the school. He said that he had taken the abducted men in the heat of the moment and they would be released once their identities had been checked. On 17 February 2000 A.A., the head of the administration of Zavodskoy District, told the first applicant that he had learnt from the commander of the military unit, F., that the abducted men had been detained in Naurskaya village.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0N.K., M.M. and M.R. stated that on 2 February 2000, armed men had arrived in an IFV with registration number 318 at the school where they had been living. They had burst into the basement and taken four men away.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The third applicant stated that following her return to  on 16\u00a0February 2000, she had learnt from others that her husband had been abducted by armed men from a military unit of the Ural circuit.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0F.D., Adam Suleymanov\u2019s spouse, was questioned on 14 November 2000. She stated that on 2 February 2000 four servicemen had come to check their documents and had abducted her husband with three other men. The servicemen came from a military unit of the Ural circuit and the commander\u2019s name was Se. They took the men away in the IFV with the registration number 318.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Main investigative steps",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0On 16 November 2000 the third applicant was granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0On 29 November 2000 the first applicant was granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0On 20 December 2000 the criminal cases on the abduction of Suleyman Surguyev and Adam Suleymanov were joined under no. 12276.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0On 21 December 2000 the criminal case was forwarded to the military prosecution office of . The case file was registered under no. 14/33/0023-01.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0On 14 February 2001 a military prosecutor of military unit no.\u00a020102 ordered an extension of the investigation in order to question the commander of regiment no. 245, to identify the vehicle with registration number 318 and to establish the whereabouts of the abducted men.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The investigation was further resumed and suspended on several occasions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0 On 15 January 2002 the investigator decided to append a copy of the Itogi magazine to the material evidence of the criminal case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0On 10 April 2001 the military prosecutor decided to suspend the investigation as being time-barred. The relevant parts of the decision read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cOn 2 February 2000 during a passport check of the local residents, unidentified servicemen found among others [Adam Suleymanov], [Suleyman Surguyev], [Mirza Elmurzayev] and [S. A.]. On the same day those men were taken away in an armoured vehicle with registration number 318 in an unknown direction...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...The most probable version [of the crime] is that Suleymanov and Surguyev were abducted by servicemen of military unit no. 69771...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The military unit of the Ural military circuit that took part in the military actions in  in February 2000 was unit no. 69771 [which was] withdrawn to Yekaterinburg on 2 May 2000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "According to the statements of V.Ch., the deputy commander of that unit, the first battalion had an armoured vehicle with the registration number 318...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0On 25 May 2001 the investigator ordered the examination of the record book of weapons and equipment of military unit no. 69771. According to the report, the military vehicle with the registration number 318 was listed among the vehicles attached to that unit.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0On 15 June 2001 the criminal case on the abduction of Mirza Elmurzayev was joined to case no. 14/33/0023-01. On the same date the investigation was suspended for failure to identify the perpetrators, but later resumed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0On 4 March 2002 the military prosecutor of military unit no. 20102 decided to forward the criminal case for jurisdiction to the military prosecutor\u2019s office of the Privolzhsk-Ural military circuit. The relevant parts of the decision read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cOn 29 January 2000 during persistent military actions ... on the western outskirts of  in the vicinity of school no. 50... the battalion of motorised infantry regiment no. 276 incurred the loss of four servicemen ... whose bodies were left on the battlefield ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On 2 February 2000 during military actions an assault group consisting of sixteen servicemen commanded by [Se.] found the bodies of the above servicemen ... afterwards [Se. ] ordered them to arrest [Surguyev], [Suleymanov], [S.A.] and [Elmurzayev], who were found in the basement of school no. 50, and to bring them to the command post of regiment no. 276, in order to check their possible involvement in the killing of the servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The investigation has established that the above persons were forced at gunpoint from the basement of school no. 50, put in IFV number 318 and taken to the command post of the regiment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Upon arrival [Se.] reported to [U.] and [E]., the commander and the deputy commander of the regiment... afterwards under [E.]\u2019s instructions the civilians were put in a pit specially dug for this purpose located at the command post.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "These circumstances were proved by the witness statements of [Se.] [and other officers] of the regiment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It was established that between 3 and 5 February 2000 the above persons were indeed held in a pit located at the command post under the guard of the servicemen ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It appears from the statements of [U.], the former commander of military unit no. 69771, that on 3 February 2000 after it had been reported that there was no information about the involvement of the detained men in the illegal armed units, [U.] ordered their release. However, he does not remember to whom he gave that order.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It was also established that on 5 February 2000 ... military journalist [S.] had taken a photograph of the detained persons. This photograph was published in the Itogi magazine on 7 March 2000 ... and the photographed men were further identified by their relatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It was established that the guard of the command post of the regiment was assigned to a separately deployed platoon of military unit no. 69771 ... commanded by [O.] who performed tasks and instructions given by [U.] ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "At present [U.] is serving in military unit no. ... stationed in Chebarkul, the Chelyabinsk Region. Other servicemen of [O.]\u2019s platoon also live mainly in the  and Kurgansk Regions...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Having regard to the data collected by the investigation, it is necessary to carry out investigative and operative measures in respect of [O.] and [other servicemen]...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0On 9 December 2002 the criminal case with a new number, 10/01/041202, was assigned to the military prosecutor\u2019s office of the Yekaterinburg Garrison, who suspended and then, upon the applicants\u2019 complaints, resumed the investigation. It transpires from the case file that throughout the investigation, and up until September 2008, the applicants regularly complained to various authorities about the abduction of their relatives and the procrastination in the criminal inquiry, and sought access to the investigation case file. Their complaints were routinely forwarded to the relevant investigative authorities, who informed them of the suspensions and reopening of the proceedings. The case is pending at present.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Application no. 56745/08, Gakayev and Others v. ",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Abduction of Markha Gakayeva, Raisa Gakayeva and Zavalu Tazurkayev",
+                                        "elements": [
+                                            {
+                                                "content": "69.\u00a0\u00a0The facts of this application are linked to the application Luluyev and Others v.\u00a0Russia (no. 69480/01, ECHR 2006XIII (extracts)) in that the three relatives of the ten applicants in the present case were abducted together with Nura Luluyeva, a relative of Turko Luluyev, on 3 June 2000 at Mozdokskaya Street in Grozny.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0According to the applicants, on 3 June 2000 Markha Gakayeva and Raisa Gakayeva, along with their cousin Nura Luluyeva, went to the market place at  in the northern part of . Markha Gakayeva had 30,000 Russian roubles (RUB) with her.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0Between 7 a.m. and 9 a.m. that morning an armoured personnel carrier (\u201cAPC\u201d) with the registration number 110 appeared at the market. It was accompanied by two other vehicles: a Ural truck and a UAZ all-terrain vehicle. A group of servicemen wearing camouflage uniforms and masks and armed with machine guns disembarked from the vehicles. The servicemen detained several persons, mostly women, put sacks over their heads and loaded them into the APC. Markha Gakayeva, Raisa Gakayeva, Nura Luluyeva and Zavalu Tazurkayev were among those detained.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The eighth and the ninth applicants (the wife and daughter of Zavalu Tazurkayev), informed of the events by a neighbour, called the Leninskiy temporary district department of the interior (\u201cthe Leninskiy VOVD\u201d), which was situated a few hundred metres from the scene. When the police appeared and tried to intervene, the soldiers started shooting in the air with a machine gun. They told the police that a special operation was being carried out at the market place. Having received this explanation the police left the site. The APC then drove away.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0On 24 February 2001 the blindfolded bodies of Nura Luluyeva, Markha Gakayeva and Raisa Gakayeva were found in a mass grave in Zdorovye, an abandoned holiday village on the outskirts of Grozny, less than one kilometre from the Khankala military base.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0The fate and whereabouts of Zavalu Tazurkayev have not been established; his relatives have had no news of him since his abduction.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0The applicants refer to the eighth applicant\u2019s written testimony dated 18\u00a0March 2007, the seventh, ninth and tenth applicants\u2019 written statements dated 26 March 2007, and the testimonies of the eighth applicant\u2019s sisters, K.T. and L. Ya., dated 22 and 26 March 2007, in support of their account of the events.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Official investigation",
+                                        "elements": [
+                                            {
+                                                "content": "76.\u00a0\u00a0The Government submitted a copy of the entire criminal case file no.\u00a012073 on the abduction and murder of Nura Luluyeva, Markha Gakayeva and Raisa Gakayeva and the abduction of Zavalu Tazurkayev (2,550 pages). The relevant information may be summarised as follows.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Opening of a criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "77.\u00a0\u00a0On 6 June 2000 the eighth applicant wrote to the prosecutor\u2019s office with a request to investigate her husband\u2019s disappearance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0On 23 June 2000 the  prosecutor\u2019s office opened a criminal investigation into the abduction of Nura Luluyeva, Raisa Gakayeva, Markha Gakayeva, Zavalu Tazurkayev and M.S.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Main witness statements taken by the investigators",
+                                "elements": [
+                                    {
+                                        "content": "79.\u00a0\u00a0On 6 June 2000 T.S. stated that she had witnessed the events. At\u00a09\u00a0a.m. on 3 June 2000 near 15 Mozdokskaya street in Grozny she saw masked servicemen arresting civilians\u00a0\u2013 three women and one man. She ran to the local department of the interior to alert the police. When the police appeared at the scene, the soldiers opened fire and the police could not stop them. Afterwards, she found out that the abducted persons had been Nura Luluyeva, Markha Gakayeva, Raisa Gakayeva and Zavalu Tazurkayev.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0S.L., the spouse of Nura Luluyeva, stated that he had learnt from his wife\u2019s relative that between 8 a.m. and 9 a.m. on 3 June 2000 his wife and two other women had been apprehended by masked servicemen in Mozdokskaya street in . They had been taken away in an APC.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0The eighth applicant stated that on 5 June 2000 she had found out that on 3 June 2000 her husband, Zavalu Tazurkayev, had been apprehended by masked servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The ninth applicant stated that on 3 June 2000 while at work she had heard shouts coming from nearby and had seen an APC driving away with a large group of armed men.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0The tenth applicant (daughter of Zavalu Tazurkayev) stated that on 3 June 2000 she and her father had been at home when a woman had visited them searching for her husband. Zavalu Tazukayev went out to help her. Shortly afterwards, the woman returned and told her that her father had been apprehended.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0K.T. submitted that on 3 June 2000, after she had learnt that a military operation was being carried out near her house and that a relative of hers had been apprehended, she had arrived at the scene and seen armed men in an APC. When she, together with other local residents, attempted to approach the servicemen, they started shooting in the air. Afterwards, the APC drove away in the direction of the 9th city hospital.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0On 10 May 2004 S.L. was additionally questioned by the investigator. The relevant parts of his statements read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cTo my initial statements given at the first questioning as a victim, I can only add that as a lawyer I cannot understand the conduct of certain prosecution and interior officers whose job, according to the law, is to identify and punish those responsible. First of all, I could not seek the opening of an investigation into the abduction of my wife, , and her sisters, Gakayevy, for a long time, even though there were many witnesses [of the abduction]. The criminal case was opened only on 23\u00a0June 2000 whereas the abduction had taken place on 3 June 2000 and I had reported it on 3 June 2000. I contacted [B.], the acting prosecutor of , several times. He was always drunk and threatened me that if I bothered him, people would search for me as well. After the criminal investigation was opened, investigators and high officials of the prosecution office told me during informal meetings that the military were preventing them from uncovering the truth and conducting the necessary operative search measures... At the Leninskiy VOVD of  there were ... [officers K., M. and U.] ... who tried to help me. At the beginning they were actively involved in the search for the abducted persons. It was them who established that the abducted persons had been driven away in an APC with the registration number 110 of regiment no. 245 of the Sofrinskiy brigade and that serviceman [F.] had been driving that APC. However, after a while they told me that they sympathised with me but they valued their own lives and they were afraid to continue to handle this case ...\u201d.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Main investigative steps",
+                                "elements": [
+                                    {
+                                        "content": "86.\u00a0On 6 July 2000 the investigator examined the crime scene. No evidence was collected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0On 9 August 2000 the Grozny prosecutor\u2019s office informed the eighth applicant that criminal proceedings had been instituted in accordance with Article 126 \u00a7\u00a02 of the Criminal Code under file no. 12073.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0On 26 November 2000 the eighth applicant and, at some time in December 2000, the seventh applicant (husband of Raisa Gakayeva) were granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0On 2 March 2001 a forensic examination of the bodies (see paragraph 73 above) was carried out at the premises of the\u00a0Ministry for Emergency Situations (Emercom) in Grozny.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0On 4 March 2001 the seventh applicant and three other relatives went to the Emercom premises to identify the bodies. The bodies were in an advanced stage of decomposition and the relatives could only identify them by earrings and clothes. The body of Raisa Gakayeva was also identified by a gold tooth. On the same date the relatives transported the bodies to the Gudermes District and buried them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0On the same date the sixth applicant (son of Raisa Gakayeva) was granted victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0On 15 May 2003 Mr S.G., another relative of Markha Gakayeva and Raisa Gakayeva, was granted victim status in criminal case no. 12073.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "93.\u00a0\u00a0On 9 November 2006 the European Court of Human Rights delivered the judgment in the case of Luluyev and Others v. Russia (cited above) concerning the disappearance of Nura Luluyeva.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0The investigation was suspended and resumed on several occasions. The investigators mainly carried out additional questioning of witnesses and re-sent information requests. It transpires from the case file that the applicants regularly complained to various State bodies about the abduction and killing of their relatives and the delays in the investigation, and sought access to the criminal case file. The latest such request seen by the Court was dated 2\u00a0April 2008, when the applicants sent the Investigative Committee of the Russian Federation an inquiry about the progress of the investigation and requested access to the criminal case file. The investigation is still pending.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Civil proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "95.\u00a0\u00a0On 26 March 2002 the seventh applicant brought civil proceedings against the Russian Government claiming non-pecuniary damage caused as a result of the abduction and killing of his wife by State agents. There is no information about the outcome of the proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Application no. 61274/09, Vagapova v. ",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Abduction of Shaaman Vagapov",
+                                        "elements": [
+                                            {
+                                                "content": "96.\u00a0According to the sole applicant in this application, who is the wife of Shaaman Vagapov, on 23 February 2000 her husband was driving his KAMAZ lorry with the registration number C059AB from the village of Ilyinskoye to Petropavlovskaya, in the Grozny District.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0At 1 p.m. Shaaman Vagapov was stopped by military servicemen at a checkpoint located approximately one kilometre from Ilyinskoye. The applicant submitted that the checkpoint had only been set up on 23 February 2000 for about an hour. It was manned by servicemen aged between 30 and 50 \u2013 none of them were conscripts \u2013armed with automatic weapons. One serviceman was of Asian origin and spoke Chechen. A Ural lorry and an UAZ car were parked next to it. The servicemen took Shaaman Vagapov and his lorry to the military base in Khankala.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0The applicant has had no news of her husband ever since.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0In support of her allegations, the applicant provided the following documents: her complaints to the authorities containing a detailed description of the events, dated 5\u00a0September 2000 and 15 April 2002, and an account by Shaaman Vagapov\u2019s mother, dated 29 July 2000.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Official investigation",
+                                        "elements": [
+                                            {
+                                                "content": "100.\u00a0\u00a0The Government submitted a copy of the entire criminal case file no. 18059 on the abduction of Shaaman Vagapov (213 pages). The following information may be summarily drawn from the case file.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Opening of a criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "101.\u00a0\u00a0The case file does not contain a copy of the applicant\u2019s first complaint about the abduction of Shaaman Vagapov. However, it follows from a copy of the applicant\u2019s complaint to the Special Envoy, dated 29\u00a0July 2000, that she reported her husband\u2019s abduction at 2 p.m. on 23\u00a0February 2000 to the temporary department of the interior of the Grozny District (\u201cthe Grozny District VOVD\u201d), but no action was taken despite her repeated and numerous complaints. Moreover, a copy of her complaint to the General Prosecutor\u2019s Office of the  (\u201cthe General Prosecutor\u2019s Office\u201d), which was received by the latter on 19 October 2000, reads in the relevant parts as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... During [the past] 6-7 months I have been writing numerous complaints about the fact that on 23\u00a0February 2000 my husband, Shaaman Vagapov, born in 1964, was stopped at a checkpoint and driven away in his own KAMAZ lorry in the direction of Khankala. The complaints were sent to the following State bodies within an hour of his abduction and on the following day:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Prosecutor of the  District ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The head of the police department of the Grozny District ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The head of the temporary government of the  ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The acting prosecutor of the  ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The head of the department of the interior of the  ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Special Envoy of the Russian President in the  for rights and freedoms ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "I do not know about the stage of the search for my husband since the above-mentioned agencies did not find it necessary to meet with me, or to inform me in writing. Therefore, I have come to the conclusion that no one was looking for my husband, a father of five children. This terrible conclusion has led me to apply to you ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... I would like to submit to you the information which the relatives, friends of [my] husband and residents of the same village have collected:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On 23 February 2000 a military checkpoint was set up within a few minutes about one kilometre away from Ilyinskoye, the Grozny District. [The checkpoint] existed only for one hour on 23\u00a0February 2000 and afterwards was not located there.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There were no conscripts. According to eyewitnesses, these were heavily built servicemen aged between 30 and 50.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "One of these servicemen was of Asian origin and spoke a little Chechen, and asked our shepherd to give him several cows.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "These servicemen had automatic weapons with silencers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "At the checkpoint the servicemen had a Ural and a grey UAZ-469 car; neither vehicle had a registration plate. All the witnesses have expressed their willingness to provide assistance in identifying the servicemen. 30-40 minutes after the events, [his] brothers followed [Shaaman Vagapov] and established that [Shaaman Vagapov]\u2019s white KAMAZ accompanied by Ural and UAZ vehicles had driven through three checkpoints and entered Khankala, where naturally the relatives are not allowed to enter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On their way back through these checkpoints the relatives were told that the servicemen accompanying the KAMAZ lorry had introduced themselves as counter-intelligence officers. The KAMAZ lorry stayed on the territory of [the military base in] Khankala for three days, but the law-enforcement officers of the Grozny District whom I had addressed did not take any measures to return to the children their innocent detained father.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "[My] husband\u2019s relatives, by their own efforts, managed to establish that the servicemen were from the 20th division of the Volgograd intelligence battalion of military unit no. 12209, which had been stationed on the  ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0On 30 October 2000 the VOVD sent inquiries to various lawenforcement agencies about Shamaan Vagapov\u2019s possible arrest.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "103.\u00a0\u00a0On 4 November 2000 the VOVD forwarded the materials concerning the disappearance of the applicant\u2019s husband to the  district prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0On 14 November 2000 the  district prosecutor\u2019s office initiated a criminal investigation into the disappearance of Shaaman Vagapov. The file was assigned no. 18059.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Main witness statements taken by the investigators",
+                                "elements": [
+                                    {
+                                        "content": "105.\u00a0\u00a0On 27 November 2000 the applicant was questioned and stated that on 23 February 2000 her husband had driven his white KAMAZ lorry to Novy-Tsentoroy. She had had no news of him ever since. She learnt that on 23 February 2000 servicemen of the 20th division from Volgograd, who were stationed in Khankala, had manned a checkpoint near Ilyinskoye.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0On 26 February 2001 S.U., an Ilyinskoye resident stated that at 10.30 a.m. on 23\u00a0February 2000 he had been grazing cattle when he had seen a Ural lorry without registration plates parking at the military checkpoint. Servicemen got out of the vehicle and two armed men in camouflage uniforms approached him saying that they would take some cattle from him. At around 12 noon he saw Shaaman Vapagov in his white KAMAZ driving from Ilyinskoe. The Ural lorry blocked the road and stopped Shaaman, who got out of the lorry with his documents. Then two servicemen got into the KAMAZ, seated Shaaman between them and drove away in the direction of Petropavlovskaya village.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0On 27 February 2001 M.D., Shaaman\u2019s brother, was questioned and stated that on 23 February 2000 he had been at home when his neighbour had come and told him that armed men in camouflage uniforms driving the Ural lorry had stopped his brother\u2019s vehicle at the exit of Ilyinskoye. He and his neighbour then drove there. However, when they arrived, the checkpoint and servicemen were no longer there. They drove to the checkpoints in Petropavlovskaya and Novy-Tsentoroy, where police officers told them that the white KAMAZ lorry accompanied by Ural and UAZ vehicles had passed those checkpoints and that the persons inside had identified themselves as servicemen of a counter-intelligence division. M.D. and his neighbour drove further in the direction of , but at a checkpoint near Primykaniye they were stopped and not allowed to go any further.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Main investigative steps taken by the authorities",
+                                "elements": [
+                                    {
+                                        "content": "108.\u00a0\u00a0On 27 November 2000 the applicant was questioned and granted victim status in criminal case no. 18059.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0On 19 January 2001 the military prosecutor\u2019s office of the Volgograd Garrison informed the investigator that, according to the information provided by the acting head of military unit no. 12209, no servicemen of that unit had been stationed on 23 February 2000 at the checkpoint located near Ilyinskoye in the Grozny District.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0On 26 and 27 February 2001 the investigator questioned S.U., a local resident, and M.D., Shamaan Vagapov\u2019s brother (see above). It appears that no further investigative steps were taken until 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0On 26 January 2005 the investigation was resumed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0In February and March 2005 the investigator questioned several police officers, who stated that they had no information about Shaaman Vagapov\u2019s abduction. Later, the investigator also sent inquiries to various law-enforcement agencies, but received no pertinent information in reply.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0On 16 October 2009 the investigator examined the crime scene. The investigation is still pending.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "114.\u00a0\u00a0For a recent summary, see Aslakhanova and Others v. Russia (nos.\u00a02944/06, 8300/07, 50184/07, 332/08 and 42509/10, \u00a7\u00a7 43-59, 18\u00a0December 2012).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0JOINDER OF THE APPLICATIONS",
+                        "elements": [
+                            {
+                                "content": "115.\u00a0\u00a0In accordance with Rule 42\u00a0\u00a7\u00a01 of the Rules of Court, the Court has decided to join the applications, given their similar factual and legal background.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0THE GOVERNMENT\u2019S PRELIMINARY OBJECTIONS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Compliance with the six-month rule",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0In their observations the Government submitted that none of the applicants had complied with the six-month rule. They noted, in particular, that the applicants had failed to appeal against the investigators\u2019 decisions by way of judicial review, and the application of the six-month rule was triggered by the appeal decision, which had not been given in the applicants\u2019 cases.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The applicants",
+                                "elements": [
+                                    {
+                                        "content": "117.\u00a0\u00a0The applicants noted that the investigation in their case had been suspended and reopened approximately twenty times. In such circumstances it would be unreasonable to expect them to have challenged each decision suspending the criminal investigation. According to the applicants, they had participated in the investigation and had not unduly delayed in lodging their application before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0The applicants stated that there had been no excessive and unexplained delays in the submission of their applications to the Court. After the criminal investigations had been instituted they had had no reason to doubt their effectiveness. They also drew attention to their lack of legal knowledge, as they had not had the means to hire a lawyer and the Russian legislation did not provide victims with the right to free legal assistance. Moreover, whenever the applicants found out that the investigations had been suspended, they addressed various State officials requesting that the investigation be resumed. As soon as the applicants had realised that the investigations were ineffective owing to the delays, they applied to the Court. Referring to the case Varnava and Others v.  [GC] (nos.\u00a016064/90, 16065/90, 16066/90, 16068/90, 16069/90, 16070/90, 16071/90, 16072/90 and 16073/90, ECHR 2009), they also argued that the six-month rule did not apply to continuing situations such as in cases of enforced disappearances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0The applicants submitted that they had taken all the steps which could have been expected of them within reasonable time-limits to initiate the search for their missing relatives. There had been no excessive or unexplained delays on their behalf in submitting their complaint to the Court. Moreover, they argued that the violations of Article 2 were of a continuing nature. Referring to the case Varnava and Others (cited above), they noted that the six-month rule did not apply to continuing situations such as in cases of enforced disappearances. Lastly, they stated that there had been no considerable lapses of time or significant delays and lulls in the investigation activity, which could have an impact on the application of the six-month time-limit. The investigation had been pending for more than eleven years and had been suspended and resumed on numerous occasions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "120.\u00a0\u00a0The Court first notes that the Government failed to indicate, in any of the cases, a particular date or decision which could serve as a trigger for the calculation of the six-month time-limit. Moreover, it appears from the Government\u2019s argument on exhaustion of domestic remedies (below) that they consider the pending criminal investigations to be effective. Thus, their argument in this respect appears to be inconsistent with their position on the exhaustion of domestic remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0Nevertheless, the Court reiterates that the purpose of the six-month rule is to promote security of law and to ensure that cases raising issues under the Convention are dealt with within a reasonable time. It ought also to protect the authorities and other persons concerned from being under any uncertainty for a prolonged period of time. The rule also affords the prospective applicant time to consider whether to lodge an application and, if so, to decide on the specific complaints and arguments to be raised (see, for example, Worm v.\u00a0Austria, 29 August 1997, \u00a7\u00a7 32 and 33, Reports of Judgments and Decisions 1997-V). The rule should ensure that it is possible to ascertain the facts of the case before that possibility fades away, making a fair examination of the question at issue next to impossible (see Baybora and Others v. Cyprus (dec.), no. 77116/01, 22 October 2002, and Abuyeva and Others v. , no. 27065/05, \u00a7 175, 2 December 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0Normally, the six-month period runs from the final decision in the process of exhaustion of domestic remedies. Where it is clear from the outset, however, that no effective remedy was available to the applicant, the period runs from the date of the acts or measures complained of. Article 35 \u00a7 1 cannot be interpreted, however, in a manner which would require an applicant to bring a complaint before the Court before his position in connection with the matter has been finally determined at the domestic level. Where, therefore, an applicant avails himself of an apparently existing remedy and only subsequently becomes aware of circumstances which render the remedy ineffective, it may be appropriate for the purposes of Article 35 \u00a7 1 to calculate the six-month time-limit from the date when the applicant first became, or ought to have become, aware of those circumstances (see, among others, Zenin v. Russia (dec.), no. 15413/03, 24\u00a0September 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0In a number of cases concerning ongoing investigations into the deaths of applicants\u2019 relatives the Court has examined the period of time from which the applicant could or should start doubting the effectiveness of a remedy and its bearing on the six-month time-limit provided for in Article 35 \u00a7 1 of the Convention (see \u015e\u00fckran Ayd\u0131n and Others v. Turkey (dec.), no.\u00a046231/99, 26 May 2005; Elsanova v. Russia (dec.) no.\u00a057952/00, 15\u00a0November 2005; and Narin v. Turkey, no. 18907/02, \u00a7 50, 15 December 2009). The determination of whether the applicant in a given case has complied with this admissibility criteria will depend on the circumstances of the case and other factors, such as the diligence and interest displayed by the applicants as well as the adequacy of the investigation in question (see Narin, cited above, \u00a7 43, and Abuyeva and Others, cited above, \u00a7 174).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0In cases concerning disappearances, the Court has held that allowances must be made for the uncertainty and confusion that frequently mark the aftermath of a disappearance (see Varnava, cited above, \u00a7\u00a7\u00a016263). The nature of the investigations into disappearances is such that the relatives of a disappeared person may be justified in waiting lengthy periods of time for the national authorities to conclude their investigations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0However, as explained in the above-cited Varnava judgment:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c165.\u00a0\u00a0... the Court considers that applications can be rejected as out of time in disappearance cases where there has been excessive or unexplained delay on the part of applicants once they have, or should have, become aware that no investigation has been instigated or that the investigation has lapsed into inaction or become ineffective and, in any of those eventualities, there is no immediate, realistic prospect of an effective investigation being provided in the future. Where there are initiatives being pursued in regard to a disappearance situation, applicants may reasonably await developments which could resolve crucial factual or legal issues. Indeed, as long as there is some meaningful contact between families and authorities concerning complaints and requests for information, or some indication, or realistic possibility, of progress in investigative measures, considerations of undue delay will not generally arise. However, where there has been a considerable lapse of time, and there have been significant delays and lulls in investigative activity, there will come a moment when the relatives must realise that no effective investigation has been, or will be provided. When this stage is reached will depend, unavoidably, on the circumstances of the particular case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "166. In a complex disappearance situation such as the present, arising in a situation of international conflict, where it is alleged that there is a complete absence of any investigation or meaningful contact with the authorities, it may be expected that the relatives bring the case within, at most, several years of the incident. If there is an investigation of sorts, even if sporadic and plagued by problems, the relatives may reasonably wait some years longer until hope of progress being made has effectively evaporated. Where more than ten years has elapsed, the applicants would generally have to show convincingly that there was some ongoing, and concrete, advance being achieved to justify further delay in coming to . Stricter expectations would apply in cases where the applicants have direct domestic access to the investigative authorities.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0Applying the above principles, the Court recently found in the case of Er\u00a0and\u00a0Others v. Turkey (no. 23016/04, \u00a7\u00a7 55-58, 31 July 2012) that the applicants who had waited for a period of almost ten years after the disappearance of their relative before lodging their application had complied with the six-month rule because an investigation, even if sporadic, was being conducted at the national level. The Court reached similar conclusions in another case, where the domestic investigation into the events had been pending for over eight years without any significant periods of inactivity by the time of the application to Strasbourg, and where the applicants were doing all that could be expected of them to assist the authorities (see Bozk\u0131r and Others v. , no. 24589/04, \u00a7 49, 26\u00a0February 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "127.\u00a0\u00a0On the contrary, the Court has declared inadmissible applications where the applicants waited for more than ten years to lodge their complaints, and where there had been, for a long time, no elements allowing them to believe that the investigation would be effective (see Yeti\u015fen and Others v. Turkey (dec.), no. 21099/06, 10 July 2012; Findik v.\u00a0Turkey and Omer v.  (decs.), nos. 33898/11 and 35798/11, 9 October 2012; and Ta\u015f\u00e7i and Duman v. Turkey (dec.), no. 40787/10, 9 October 2012). In A\u00e7\u0131\u015f v.  (no.\u00a07050/05, \u00a7\u00a7 41-42, 1 February 2011) the Court rejected as out of time an Article 2 complaint which had been introduced more than twelve years after the kidnapping and disappearance of the applicants\u2019 relative, because the applicants had not shown that any concrete advance was being made in the investigation to justify the delay of more than ten years.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0Turning to the circumstances of the cases at hand, the Court notes that the applicants lodged their complaints with the Court within a period ranging from four years and two months in the case of Kaykharova (no.\u00a011554/07) to nine years and seven months in the case of Vagapova (no.\u00a061274/09). In each of the cases the investigations were formally pending at the time when their complaints were lodged before the Court. The applicants in each of the cases maintained reasonable contact with the authorities, cooperated with the investigation and, where appropriate, took steps in order to achieve a more effective outcome of the proceedings. Taking into account the above-mentioned case-law in respect of disappearance complaints, the overall duration of the proceedings in each of the cases does not justify the application of the admissibility criteria under Article 35 \u00a7 1.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0The Court discerns certain periods of inactivity in the course of the proceedings, when it seems that no new information was communicated to or sought from the investigation authorities by the applicants. The longest such period occurred in the case of Vagapova, no.\u00a061274/09, where it amounted to four years (see paragraph 110 above). Such period of inactivity could be considered significant enough to raise suspicions about the continuing effectiveness of the investigation. However, the Court notes that, as it follows from the documents that it has examined, the proceedings in case no.\u00a061274/09 were resumed as a result of the applicant\u2019s complaints in 2005, following which a number of relevant measures have been taken (see paragraph 112 above). In view of these circumstances, and bearing in mind the specific context of disappearance cases, the Court is unable to conclude that the periods of inactivity in this case were such that the application should be rejected for failure to comply with the six-month rule.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0Lastly, the Court finds that it should address the situation in the case of Gakayev and Others, no.\u00a056745/08, where the bodies of two out of three missing persons were discovered and identified in 2001. The question arises as to whether the relatives of Raisa Gakayeva and Markha Gakayeva should be placed under a more stringent obligation to pursue their complaints and to apply to the Court sooner, since they had learnt of their relatives\u2019 deaths. The Court has previously concluded that the discovery of the remains bearing signs of violence and buried in circumstances highly suggestive of extra-judicial execution or murder trigger a renewed obligation on the authorities to take investigative steps to identify the remains, the likely cause and circumstances of death and the identity of the perpetrators of any unlawful violence. The finding of the bodies in a particular location, bearing signs from which the cause of death may be ascertained and allowing the pursuit of leads that might possibly lead to identification of those responsible for the killings must be regarded as crucial evidence casting new light on the case (see Charalambous and Others v.\u00a0Turkey (dec.), nos. 46744/07 et al., \u00a7\u00a058, 1 June 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "131.\u00a0\u00a0However, in the present case the circumstances in which all four victims (including Nura Luluyeva) were abducted and killed were never elucidated and the finding of the bodies was preceded by a significant period during which they, too, had been considered missing. The applicants maintained relatively regular contacts with the investigating authorities throughout the period in question, and thus it does not appear that they perceived the remedy as ineffective. The Court does not find that it could penalise the relatives of the identified victims for not having grasped the ineffectiveness of the investigation sooner, as in the present case this would constitute a rather artificial distinction.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "132.\u00a0\u00a0Having examined the documents in the cases at hand, the Court finds that the conduct of each of the applicants vis-\u00e0-vis the investigation has been determined not by their perception of the remedy as ineffective, but rather by their expectation that the authorities would, of their own motion, provide them with an adequate answer in the face of their serious complaints. They furnished the investigating authorities with timely and sufficiently detailed accounts of their relatives\u2019 abductions, assisted them with finding witnesses and other evidence and fully cooperated in other ways. They thus reasonably expected further substantive developments from the investigation. It could not be said that they failed to show the requisite diligence by waiting for the pending investigation to yield results (see, mutatis mutandis, Abuyeva and Others, cited above, \u00a7 179).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "133.\u00a0\u00a0The Court thus considers that an investigation, albeit a sporadic one, was being conducted during the periods in question in each of the four cases, and that the applicants did all that could be expected of them to assist the authorities (see Varnava and Others, cited above, \u00a7 166, and Er and Others, cited above, \u00a7 60). In the light of the foregoing, the Court dismisses the Government\u2019s objection as to the admissibility of these complaints based on the six-month time-limit.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Exhaustion of domestic remedies",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "134.\u00a0\u00a0The Government argued that the applications should be dismissed due to the applicants\u2019 failure to exhaust domestic remedies. They stressed that the applicants had had, and currently had, various remedies at their disposal to which they could have recourse with respect to the ongoing investigation. They further noted that the applicants had failed to appeal against the investigators\u2019 decisions by way of judicial review. They also stated that that the investigations were still pending and it was premature to conclude that the applicants had exhausted domestic remedies and that the remedies had not been effective.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The applicants",
+                                "elements": [
+                                    {
+                                        "content": "135.\u00a0\u00a0The applicants argued that the investigations had been pending for a long time without producing any tangible results. This remedy had proved to be ineffective and their complaints had been futile.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "136.\u00a0\u00a0In a recent judgment the Court concluded that the non-investigation of disappearances that occurred, principally, in Chechnya between 1999 and 2006 constitutes a systemic problem and that criminal investigations are not an effective remedy in this respect (see Aslakhanova and Others, cited above, \u00a7\u00a7\u00a0217 and 219).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "137.\u00a0\u00a0In such circumstances, and noting the absence of tangible progress in any of the criminal investigations over the years, the Court concludes that this objection should be dismissed, since the remedy relied on by the Government was ineffective in the circumstances.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0THE COURT\u2019S ASSESSMENT OF THE EVIDENCE AND THE ESTABLISHMENT OF THE FACTS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicants",
+                                        "elements": [
+                                            {
+                                                "content": "138.\u00a0\u00a0The applicants in all the cases maintained that it was beyond reasonable doubt that the men who had taken away their relatives had been State agents. In support of this assertion they referred to the evidence contained in their submissions and the criminal investigation files. They submitted that they had each made a prima facie case that their relatives had been abducted by State agents and that the essential facts underlying their complaints had not been challenged by the Government. In view of the absence of any news of their six missing relatives for a long time and the life-threatening nature of unacknowledged detention in Chechnya at the relevant time, they asked the Court to consider dead their relatives whose whereabouts have not been established.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "139.\u00a0\u00a0The Government did not contest the essential facts of each case as presented by the applicants. At the same time, they claimed that during the investigation no information had been obtained proving beyond reasonable doubt that State agents had been involved in the abductions and deaths. The mere fact that the abductors had been armed and had worn camouflaged uniforms without distinctions was not enough to presume so.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0General principles",
+                                        "elements": [
+                                            {
+                                                "content": "140.\u00a0\u00a0A number of principles have been developed in the Court when it is faced with the task of establishing facts on which the parties disagree (see El Masri v. \u201cthe \u201d [GC], no.\u00a039630/09, \u00a7\u00a7 151-53, 13 December 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "141.\u00a0\u00a0More specifically, the Court has adjudicated a series of cases concerning allegations of disappearances in the Russian Northern Caucasus. Applying the above-mentioned principles, it has concluded that it would be sufficient for the applicants to make a prima facie case of abduction of the missing person by servicemen, thus falling within the control of the authorities, and it would then be for the Government to discharge their burden of proof either by disclosing the documents in their exclusive possession or by providing a satisfactory and convincing explanation of how the events in question occurred (see, among many examples, Aziyevy v.\u00a0Russia, no. 7626/01, \u00a7 74, 20 March 2008; Utsayeva and Others v.\u00a0Russia, no. 29133/03, \u00a7 160, 29 May 2008; and Khutsayev and Others v.\u00a0Russia, no.\u00a016622/05, \u00a7 104, 27 May 2010). If the Government failed to rebut this presumption, this would entail a violation of Article 2 in its substantive part. Conversely, where the applicants failed to make a prima facie case, the burden of proof could not be reversed (see, for example, Tovsultanova v.\u00a0Russia, no. 26974/06, \u00a7\u00a7 77-81, 17 June 2010; Movsayevy v.\u00a0Russia, no.\u00a020303/07, \u00a7 76, 14 June 2011; and Shafiyeva v. Russia, no.\u00a049379/09, \u00a7\u00a071, 3 May 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "142.\u00a0\u00a0The Court has also made findings of fact to the effect that a missing person could be presumed dead. Having regard to the previous cases concerning disappearances in Chechnya and Ingushetia which have come before it, the Court has found that in the particular context of the conflict, when a person was detained by unidentified State agents without any subsequent acknowledgment of the detention, this could be regarded as lifethreatening (see, among many others, Bazorkina v. Russia, no.\u00a069481/01, 27 July 2006; Imakayeva v. Russia, no. 7615/02, ECHR\u00a02006XIII (extracts); Luluyev and Others, cited above; Akhmadova and Sadulayeva v. Russia, no. 40464/02, 10 May 2007; and Velkhiyev and Others v. Russia, no. 34085/06, 5 July 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "143.\u00a0\u00a0Turning to the cases at hand, the Court finds the following.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Application no. 11554/07, Kaykharova v. ",
+                                        "elements": [
+                                            {
+                                                "content": "144.\u00a0\u00a0The second applicant witnessed her husband\u2019s abduction by a group of armed and masked men who had burst into their apartment in  during the curfew hours. The first applicant witnessed two military vehicles, in all probability used by the abductors, which she later saw at the Oktyabrskiy ROVD. The applicants immediately alerted the lawenforcement authorities, which were eventually able to identify N.S., who at the time occupied the position of deputy head of the ROVD, was in charge of their relative\u2019s arrest and was later put on the wanted list in relation to this incident (see paragraphs 11-13 and 35 above). However, the true identity and the whereabouts of N.S. have not been established by the investigation, most probably because he was using a \u201ccover name\u201d as a member of the security services (see paragraph 40 above). No other potential perpetrators have been identified, and the fate of the detainee remains unknown.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "145.\u00a0\u00a0The Government referred to the unfinished nature of the criminal investigation and to the lack of evidence of special operations and of the detention or death of the applicants\u2019 relative. However, the Court considers that the fact that the investigation has failed to progress beyond establishment of the basic facts should not be detrimental to the applicants\u2019 arguments. The Government further alluded to the possibility that the abductors might not have been State servicemen. However, this suggestion is not supported by any credible evidence reviewed by the Court and stands in contradiction to the established facts of the case, in particular concerning N.S.\u2019s involvement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "146.\u00a0\u00a0Bearing in mind the general principles outlined above, the Court finds it sufficiently established that Gelani Kaykharov was taken into custody by State agents on 20 December 2002. In the absence of any news of him since that date and given the life-threatening nature of such detention (see paragraph 142 above), the Court also finds that Gelani Kaykharov could be presumed dead following his unacknowledged detention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Application no. 7862/08, Muzayeva and others v. ",
+                                        "elements": [
+                                            {
+                                                "content": "147.\u00a0\u00a0The documents reviewed by the Court contain sufficient evidence to attest that Suleyman Surguyev, Adam Suleymanov and Mirza Elmurzayev were detained on 2\u00a0February 2000 at school no.\u00a050 in a suburb of  by a detachment of military unit no.\u00a069771 and brought to that unit\u2019s headquarters. On 5 February 2000 a journalist photographed them being detained in a pit; the relatives later identified the three men by the photograph published in the Itogi magazine (see paragraphs 43- 48, 53-56 and 64 above). Their fate and whereabouts after 5 February 2000 are unknown, and none of the perpetrators has been identified or charged.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "148.\u00a0\u00a0The Government referred to the unfinished nature of the criminal investigation and to the lack of evidence that the applicants\u2019 relatives were dead. However, the Court considers that that argument is insufficient to discharge their burden of proof in a case where there is prima facie evidence of State control over the disappeared prisoners. The Court finds it established that Suleyman Surguyev, Adam Suleymanov and Mirza Elmurzayev were taken into custody by State agents on 2 February 2000 and subsequently disappeared. For the reasons summarised above (see paragraph 142 above), they can be presumed dead.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Application no. 56745/08, Gakayev and others v. Russia",
+                                        "elements": [
+                                            {
+                                                "content": "149.\u00a0\u00a0Numerous witness statements produced by the applicants and collected by the investigation describe the circumstances in which several individuals were detained on 3\u00a0June 2000 at the Grozny market by a group of military servicemen, who were driving an APC and used automatic weapons (see paragraphs 71, 75, 79 and 82-84 above). The bodies of some of the detainees were found in a mass grave on the outskirts of , in the vicinity of a large military base. The bodies bore signs of violent death (see paragraphs 73, 89 and 90 above). The body of Zavalu Tazukayev has not been found.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "150.\u00a0\u00a0The Court has already found that there existed a body of evidence attaining the standard of proof \u201cbeyond reasonable doubt\u201d, which made it possible to hold the State authorities responsible for Nura Luluyeva\u2019s death (see Luluyev and Others, cited above, \u00a7\u00a085). It does not find anything which could alter this conclusion in respect of the persons who were detained together with her: Markha Gakayeva, Raisa Gakayeva and Zavalu Tazurkayev. Lastly, in the circumstances of the case, the Court finds that Mr\u00a0Tazurkayev can be presumed dead.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0Application no. 61274/09, Vagapova v. ",
+                                        "elements": [
+                                            {
+                                                "content": "151.\u00a0\u00a0The applicant consistently alleged, before both the Court and the domestic authorities, that on 23 February 2000 her husband had been detained by a group of servicemen on the road near Ilyinskoye, and that he and his truck had been taken in the direction of the Khankala military base. She gave the investigator information about the route the abductors had taken, as well as the possible provenance and identification number of the military unit involved. She identified other witnesses who had seen the group and indicated the passage of the vehicles through certain roadblocks on their way to the military base. The investigation collected two separate witness statements corroborating that information (see paragraphs 101 and 105-107 above). Bearing in mind the difficulties associated with obtaining the evidence and the fact that, often, little evidence can be submitted by applicants in support of their applications owing to the involvement of military or security forces, the Court is satisfied that a prima facie case of abduction by State agents has been made.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "152.\u00a0\u00a0The Government referred to the unfinished criminal investigation and the lack of information about the participation of military servicemen in the operation. They alluded to the possibility that the perpetrators could have been other than State agents. The Court finds that those arguments are insufficient to discharge their burden of proof in a case where there is prima facie evidence of State control over the disappeared person. As to the possibility that the applicant\u2019s husband could have been abducted by common criminals, it is at variance with the available witness statements and has not been seriously pursued by the domestic investigation. The Court therefore rejects it as a mere conjecture which has no support in the case file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "153.\u00a0\u00a0In view of the above, the Court concludes that Shaaman Vagapov was detained by State agents on 23 February 2000 and subsequently disappeared. For the reasons summarised above (see paragraph 142 above), he can be presumed dead.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Conclusions",
+                                "elements": [
+                                    {
+                                        "content": "154.\u00a0\u00a0The Court finds that in all cases the applicants\u2019 relatives were abducted by armed men in uniforms, displaying conduct characteristic of security operations. Their conduct and appearance, their ability to pass through roadblocks and their use of vehicles, in all probability, attest that these could not be anyone other than State servicemen. The applicants\u2019 allegations are supported by the witness statements collected by them and by the investigations. In their submissions to the authorities the applicants consistently maintained that their relatives had been abducted by State agents. The domestic investigations accepted as fact the version of events as presented by the applicants and took steps to check whether the lawenforcement agencies had been involved in the abductions. As it appears from the documents, the investigations regarded the possibility of abduction by servicemen as the only, or at least the main, plausible explanation of the events (see Aslakhanova and Others, cited above, \u00a7\u00a0113).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "155.\u00a0\u00a0In summary, the facts of the cases contain sufficient elements to enable the Court to make findings about the carrying out of security operations and thus about the State\u2019s exclusive control over the detainees (see, among many others, Betayev and Betayeva v.\u00a0Russia, no. 37315/03, \u00a7\u00a7\u00a069-70, 29 May 2008, and Aslakhanova and Others, cited above, \u00a7 114). The Government\u2019s arguments are limited to references to the unfinished criminal investigations, or are of a speculative nature and stand in contradiction to the evidence reviewed by the Court. In any case, they are insufficient to discharge them of the burden of proof which has been shifted to them in such cases.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "156.\u00a0\u00a0The detention in life-threatening circumstances of Gelani Kaykharov, Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev, Zavalu Tazurkayev and Shaaman Vagapov and the long absence of any news of them lead the Court to conclude that they can be presumed dead.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "157.\u00a0\u00a0The applicants complained under Article 2 of the Convention that their relatives had disappeared after having been detained by State agents and that the domestic authorities had failed to carry out an effective investigation into the matter. Article 2 reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone\u2019s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "158.\u00a0\u00a0The Government contended that the domestic investigations had obtained no evidence that the detainees had been held under State control or that the missing persons were dead. They further noted that the mere fact that the investigative measures had not produced any specific results, or had given only limited ones, did not mean that there were any omissions on the part of the investigative authorities. They claimed that all necessary measures were being taken to comply with the obligation to conduct an effective investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "159.\u00a0\u00a0The applicants reiterated their complaints.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "160.\u00a0\u00a0The Court considers, in the light of the parties\u2019 submissions, that the complaints raise serious issues of fact and law under the Convention, the determination of which requires an examination of the merits. The complaint under Article 2 of the Convention must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The alleged violation of the right to life of the applicants\u2019 relatives",
+                                "elements": [
+                                    {
+                                        "content": "161.\u00a0\u00a0The Court has already found it established that the applicants\u2019 eight family members died, or could be presumed dead, following their unacknowledged detention by State agents. The liability for their deaths rests with the respondent State. Noting that the Government do not rely on any grounds for the justification of the deaths, the Court finds that there have been violations of Article 2 in its substantive aspect in respect of Gelani Kaykharov, Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev, Markha Gakayeva, Raisa Gakayeva, Zavalu Tazurkayev and Shaaman Vagapov.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The alleged inadequacy of the investigation into the abduction",
+                                "elements": [
+                                    {
+                                        "content": "162.\u00a0\u00a0The Court has already found that a criminal investigation does not constitute an effective remedy in respect of disappearances which have occurred, in particular, in Chechnya between 1999 and 2006 and that such a situation constitutes a systemic problem under the Convention (see Aslakhanova and Others, cited above, \u00a7\u00a7 217 and 219). In the cases at hand, as in many previous similar cases reviewed by the Court, the investigations have been pending for many years without bringing about any significant developments as to the identities of the perpetrators or the fate of the applicants\u2019 missing relatives. While the obligation to investigate effectively is one of means and not of results, the Court notes that the proceedings in each of the criminal files have been plagued by a combination of the same defects as enumerated in the Aslakhanova and Others judgment (cited above, \u00a7\u00a7\u00a012325). Each of the cases at hand was affected by delays arising out of regular decisions to adjourn the investigations without taking the most obvious steps, which followed by periods of inactivity. These delays further diminished the prospects of solving the crimes. No meaningful steps have been taken in any of the criminal cases to identify and question the servicemen who could have witnessed, registered or participated in the operations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "163.\u00a0\u00a0In the light of the foregoing, the Court finds that the authorities failed to carry out effective criminal investigations into the circumstances of the disappearance and death of the applicants\u2019 relatives. Accordingly, there has been a violation of Article 2 in its procedural aspect.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLES 3, 5 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "164.\u00a0\u00a0The applicants complained of violations of Articles 3 and 5 of the Convention, as a result of the mental suffering caused to them by the disappearance of their relatives and the unlawfulness of detention. They also argued that, contrary to Article 13 of the Convention, they had no available domestic remedies against the violations claimed, in particular those under Articles 2 and 3. These Articles read, in so far as relevant:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 3",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 5",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Everyone arrested or detained in accordance with the provisions of paragraph 1 (c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4. Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5. Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 13",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "165.\u00a0\u00a0The Government contested those arguments.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "166.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "167.\u00a0\u00a0The Court has found on many occasions that a situation of enforced disappearance gives rise to a violation of Article 3 in respect of the close relatives of the victim. The essence of such a violation does not lie mainly in the fact of the \u201cdisappearance\u201d of the family member but rather concerns the authorities\u2019 reactions and attitudes to the situation when it is brought to their attention (see Orhan v. Turkey, no. 25656/94, \u00a7 358, 18 June 2002, and Imakayeva, cited above, \u00a7 164). Where the news about the missing person\u2019s death was preceded by a sufficiently long period when he or she had been deemed disappeared, there exists a distinct period during which the applicants sustained uncertainty, anguish and distress characteristic to the specific phenomenon of disappearances (see Luluyev and Others, cited above, \u00a7 115).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "168.\u00a0\u00a0Equally, the Court has found on many occasions that unacknowledged detention is a complete negation of the guarantees contained in Article 5 and discloses a particularly grave violation of its provisions (see \u00c7i\u00e7ek v. Turkey, no. 25704/94, \u00a7 164, 27 February 2001, and Luluyev, cited above, \u00a7 122).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "169.\u00a0The Court reiterates its findings regarding the State\u2019s responsibility for the abductions and the failure to carry out a meaningful investigation into the fates of the persons who had disappeared. It finds that the applicants, who are their close relatives, must be considered victims of a violation of Article 3 of the Convention on account of the distress and anguish which they suffered, and/or continue to suffer, as a result of their inability to ascertain the fate of their family members and of the manner in which their complaints have been dealt with. For the reasons indicated above, this conclusion applies in full to the applicants who are close relatives of Markha Gakayeva and Raisa Gakayeva (see Luluyev and Others, cited above, \u00a7 115).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "170.\u00a0\u00a0The Court furthermore confirms that since it has been established that the applicants\u2019 relatives were detained by State agents, apparently without any legal grounds or acknowledgement of such detention, this constitutes a particularly grave violation of the right to liberty and security of persons enshrined in Article 5 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "171.\u00a0\u00a0The Court reiterates its findings of the general ineffectiveness of the criminal investigations in cases such as those under examination. In the absence of the results of the criminal investigation, any other possible remedy becomes inaccessible in practice.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "172.\u00a0\u00a0The Court thus finds that the applicants in these cases did not dispose of an effective domestic remedy for their grievances under Articles 2 and 3, in breach of Article\u00a013 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 38 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "173.\u00a0\u00a0The applicants in Muzayeva and Others\u00a0v.\u00a0 (application no.\u00a07862/08) believed that a number of military servicemen had been questioned during the criminal investigation. However, no records of their statements were submitted to the Court, even though they were the most important documents in the criminal case. Therefore, the applicants invited the Court to find a breach of Article 38 of the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court shall examine the case together with the representatives of the parties and, if need be, undertake an investigation, for the effective conduct of which the High Contracting Parties concerned shall furnish all necessary facilities.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "174.\u00a0\u00a0The Court reiterates that it is of utmost importance for the effective operation of the system of individual petition instituted by Article 34 that States should furnish all necessary facilities to make possible a proper and effective examination of applications (see Tanr\u0131kulu v. Turkey [GC], no.\u00a023763/94, \u00a7 70, ECHR 1999-IV, Velikova v. Bulgaria, no. 41488/98, \u00a7\u00a077, ECHR 2000VI). This obligation requires the Contracting States to furnish all necessary facilities to the Court, whether it is conducting a factfinding investigation or performing its general duties as regards the examination of applications. A failure on a Government\u2019s part to submit such information which is in their hands without a satisfactory explanation may not only give rise to the drawing of inferences as to the wellfoundedness of the applicants\u2019 allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article 38 of the Convention (see Medova, cited above, \u00a7\u00a076, and Timurta\u015f v. , no. 23531/94, \u00a7 66 and 70, ECHR 2000VI).",
+                                "elements": []
+                            },
+                            {
+                                "content": "175.\u00a0\u00a0Turning to the circumstances of the present case, the Court notes that the Government alleged that the entire criminal investigation file had been produced (see paragraph 49 above). In any event, the Court notes that it asked the Government to produce such relevant documents from the investigation file which were capable of rebutting the applicants\u2019 allegations that their missing relatives had been abducted by State servicemen, including witness statements.",
+                                "elements": []
+                            },
+                            {
+                                "content": "176.\u00a0\u00a0Having regard to the above, and to the conclusions as to the double violation of Article 2 (see paragraphs 161 and 162 above), the Court finds that the allegedly incomplete nature of certain documents and information did not prevent it from examining the case (see Khatsiyeva and Others v.\u00a0Russia, no. 5108/02, \u00a7 168, 17 January 2008, and Giuliani and Gaggio v.\u00a0Italy [GC], no.\u00a023458/02, \u00a7 234, ECHR 2011 (extracts)).",
+                                "elements": []
+                            },
+                            {
+                                "content": "177.\u00a0\u00a0There has accordingly been no breach of Article 38 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "178.\u00a0\u00a0The applicants in application no. 61274/09 complained, in addition, about breach of their property rights under Article 1 of Protocol No. 1; and applicants in application no. 11554/07 \u2013 about violation of Article 14 in conjunction with Articles 2, 3 and 5. However, in the light of all the material in its possession, and in so far as the matters complained of are within its competence, the Court finds that these complaints do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols.",
+                                "elements": []
+                            },
+                            {
+                                "content": "179.\u00a0\u00a0It follows that these complaints are manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VIII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "180.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicants\u2019 claims",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Damage",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Application no. 11554/07, Kaykharova v. ",
+                                "elements": [
+                                    {
+                                        "content": "181.\u00a0\u00a0The first and second applicants of this application claimed 550,148 and 1,844,751\u00a0Russian roubles (RUB) respectively in respect of pecuniary damage for the loss of financial support by the breadwinner. They based their calculation on the subsistence level provided for by Russian law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "182.\u00a0\u00a0The applicants jointly claimed 70,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application no. 7862/08, Muzayeva and Others\u00a0v.\u00a0",
+                                "elements": [
+                                    {
+                                        "content": "183.\u00a0\u00a0In respect of non-pecuniary damage the three applicants of this application asked the Court to award them an amount that it would deem reasonable and appropriate to the level of pain and suffering that was inflicted on the applicants by the disappearance of their close relatives.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Application no. 56745/08, Gakayev and others v. Russia",
+                                "elements": [
+                                    {
+                                        "content": "184.\u00a0\u00a0The third applicant of this application claimed RUB 741,699, the fourth applicant claimed RUB 6393, the sixth\u00a0- RUB 16,860, the eighth - RUB 377,721, the ninth \u2013 RUB\u00a010,506 and the tenth - RUB 16,860, in respect of pecuniary damage for the loss of financial support by the breadwinners. They based their calculation on the subsistence level provided for by Russian law. The seventh applicant also claimed RUB\u00a015,000 for travel expenses incurred in the course of the search for his wife. The\u00a0applicants further claimed RUB 8,000 for the reimbursement of expenses incurred for the burial of Markha and Raisa Gakayeva.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "185.\u00a0\u00a0In respect of non-pecuniary damage the applicants jointly claimed EUR 300,000.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0Application no. 61274/09, Vagapova v. ",
+                                "elements": [
+                                    {
+                                        "content": "186.\u00a0\u00a0The applicant of this application asked the Court to award her nonpecuniary damage in the amount that the Court would find appropriate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Costs and expenses",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Application no 11554/07, Kaykharova v. ",
+                                "elements": [
+                                    {
+                                        "content": "187.\u00a0\u00a0The applicants were represented by SRJI. The aggregate claim in respect of costs and expenses related to their legal representation amounted to EUR 8,132, which included the drafting of legal documents, translation services, and administrative and postal costs. They submitted copies of the legal representation contract and an invoice with a breakdown of the costs incurred.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application no. 7862/08, Muzayeva and Others\u00a0v.\u00a0",
+                                "elements": [
+                                    {
+                                        "content": "188.\u00a0\u00a0The applicants were represented by D. Itslayev, a lawyer practising in . The aggregate claim in respect of costs and expenses related to their legal representation amounted to EUR 7,294, which included the drafting of legal documents submitted to the Court, translation services, and administrative and postal costs. They submitted a copy of the legal representation contract with a breakdown of the costs incurred.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Application no. 56745/08, Gakayev and Others v. ",
+                                "elements": [
+                                    {
+                                        "content": "189.\u00a0\u00a0The applicants were represented by SRJI. The aggregate claim in respect of costs and expenses related to their legal representation amounted to EUR 8,161, which included the drafting of legal documents for the Court, translation, and administrative and postal costs. They submitted copies of the legal representation contracts and invoices with a breakdown of the costs incurred.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0Application no. 61274/09, Vagapova v. ",
+                                "elements": [
+                                    {
+                                        "content": "190.\u00a0\u00a0The applicant was represented by D. Itslayev, a lawyer practising in . The aggregate claim in respect of costs and expenses related to the applicant\u2019s legal representation amounted to EUR 3,217, which included the drafting of legal documents submitted to the Court, translation services, and administrative and postal costs. She submitted a copy of the legal representation contract with a breakdown of the costs incurred.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "191.\u00a0\u00a0The Court reiterates that there must be a clear causal connection between the damages claimed by the applicants and the violation of the Convention, and that this may, where appropriate, include compensation in respect of loss of earnings. The Court further finds that the loss of earnings applies to close relatives of the disappeared persons, including spouses, elderly parents and minor children (see, among other authorities, Imakayeva, cited above, \u00a7 213).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "192.\u00a0\u00a0Wherever the Court finds a violation of the Convention, it may accept that the applicants have suffered non-pecuniary damage which cannot be compensated for solely by the findings of violations, and make a financial award.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "193.\u00a0\u00a0As to the costs and expenses, the Court has to establish first whether the costs and expenses indicated by the applicant\u2019s representatives were actually incurred and, second, whether they were necessary (see McCann and Others v. the United Kingdom, 27\u00a0September 1995, \u00a7 220, Series A no. 324, and Fadeyeva v. Russia, no. 55723/00, \u00a7 147, ECHR\u00a02005\u2011IV).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "194.\u00a0\u00a0Having regard to its above conclusions, the principles enumerated above and the parties\u2019 submissions, the Court awards the amounts to the applicants as detailed in Annex II, plus any tax that may be chargeable to the applicants on these amounts. The awards in respect of the costs and expenses are to be paid into the representatives\u2019 bank accounts, as identified by the applicants.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "195.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to join the applications;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaints under Articles 2, 3, 5 and 13 admissible, and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a substantive violation of Article 2 of the Convention in respect of the applicants\u2019 relatives: Gelani Kaykharov, Suleyman Surguyev, Adam Suleymanov, Mirza Elmurzayev, Markha Gakayeva, Raisa Gakayeva, Zavalu Tazurkayev and Shaaman Vagapov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a procedural violation of Article 2 of the Convention in respect of the failure to investigate effectively the disappearance and deaths of the applicants\u2019 relatives;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention in respect of the applicants, on account of their relatives\u2019 disappearance and the authorities\u2019 response to their suffering;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 5 of the Convention in respect of the applicants\u2019 eight relatives, on account of their unlawful detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds there has been a violation of Article 13 of the Convention in conjunction with Articles 2 and 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been no breach of Article 38 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article 44 \u00a7 2 of the Convention, the amounts indicated in Annex II, plus any tax that may be chargeable, to be converted into Russian roubles at the rate applicable at the date of settlement, save in respect of costs and expenses to the applicants represented by SRJI;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 1 August 2013, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "ANNEX I",
+                        "elements": []
+                    },
+                    {
+                        "content": "Details of the applications",
+                        "elements": []
+                    },
+                    {
+                        "content": "\nANNEX II",
+                        "elements": []
+                    },
+                    {
+                        "content": "Awards made by the Court under Article 41",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Isabelle Berro-Lef\u00e8vre",
+            "role": "president"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Mirjana Lazarova Trajkovska",
+            "role": "judges"
+        },
+        {
+            "name": "Julia Laffranque",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF KAYKHAROVA AND OTHERS v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-122969.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2013:0801JUD001155407",
+    "externalsources": [],
+    "extractedappno": [
+        "11554/07",
+        "7862/08",
+        "56745/08",
+        "61274/09",
+        "69480/01",
+        "2944/06",
+        "8300/07",
+        "50184/07",
+        "332/08",
+        "42509/10",
+        "16064/90",
+        "16065/90",
+        "16066/90",
+        "16068/90",
+        "16069/90",
+        "16070/90",
+        "16071/90",
+        "16072/90",
+        "16073/90",
+        "77116/01",
+        "27065/05",
+        "15413/03",
+        "46231/99",
+        "57952/00",
+        "18907/02",
+        "23016/04",
+        "24589/04",
+        "21099/06",
+        "33898/11",
+        "35798/11",
+        "40787/10",
+        "7050/05",
+        "46744/07",
+        "39630/09",
+        "7626/01",
+        "29133/03",
+        "16622/05",
+        "26974/06",
+        "20303/07",
+        "49379/09",
+        "69481/01",
+        "7615/02",
+        "40464/02",
+        "34085/06",
+        "37315/03",
+        "25656/94",
+        "25704/94",
+        "23763/94",
+        "41488/98",
+        "23531/94",
+        "5108/02",
+        "23458/02",
+        "55723/00"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-122969",
+    "judgementdate": "01/08/2013 00:00:00",
+    "kpdate": "01/08/2013 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "595",
+        "231",
+        "350",
+        "90",
+        "192",
+        "193",
+        "448",
+        "220",
+        "444",
+        "110",
+        "14",
+        "121",
+        "523",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "38",
+        "2",
+        "35",
+        "5-1",
+        "5",
+        "13",
+        "41"
+    ],
+    "parties": [
+        "KAYKHAROVA AND OTHERS",
+        "RUSSIA"
+    ],
+    "rank": "1013.30169677734",
+    "representedby": [
+        "ITSLAYEV D.",
+        "STICHTING RUSSIAN JUSTICE INITIATIVE"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Abuyeva and Others v. Russia, no. 27065/05, 2 December 2010",
+        "A\u00e7is v. Turkey, no. 7050/05, \u00a7\u00a7 41-42, 1 February 2011",
+        "Akhmadova and Sadulayeva v. Russia, no. 40464/02, 10 May 2007",
+        "Aslakhanova and Others v. Russia, nos. 2944/06, 8300/07, 50184/07, 332/08 and 42509/10, \u00a7\u00a7 43-59, 18 December 2012",
+        "Aziyevy v. Russia, no. 7626/01, \u00a7 74, 20 March 2008",
+        "Baybora and Others v. Cyprus (dec.), no. 77116/01, 22 October 2002",
+        "Bazorkina v. Russia, no. 69481/01, 27 July 2006",
+        "Betayev and Betayeva v. Russia, no. 37315/03, \u00a7\u00a7 69-70, 29 May 2008",
+        "Bozkir and Others v. Turkey, no. 24589/04, \u00a7 49, 26 February 2013",
+        "Charalambous and Others v. Turkey (dec.), nos. 46744/07 et al., \u00a7 58, 1 June 2010",
+        "\u00c7i\u00e7ek v. Turkey, no. 25704/94, \u00a7 164, 27 February 2001",
+        "El Masri v. \u201cthe former Yugoslav Republic of Macedonia\u201d [GC], no. 39630/09, \u00a7\u00a7 151-53, 13 December 2012",
+        "Elsanova v. Russia (dec.) no. 57952/00, 15 November 2005",
+        "Er and Others v. Turkey, no. 23016/04, \u00a7\u00a7 55-58, 31 July 2012",
+        "Fadeyeva v. Russia, no. 55723/00, \u00a7 147, ECHR 2005-IV",
+        "Findik v. Turkey and Omer v. Turkey (decs.), nos. 33898/11 and 35798/11, 9 October 2012",
+        "Giuliani and Gaggio v. Italy [GC], no. 23458/02, \u00a7 234, ECHR 2011 (extracts)",
+        "Imakayeva v. Russia, no. 7615/02, ECHR 2006-XIII (extracts)",
+        "Khatsiyeva and Others v. Russia, no. 5108/02, 17 January 2008",
+        "Luluyev and Others v. Russia (no. 69480/01, ECHR 2006-XIII (extracts)",
+        "McCann and Others v. the United Kingdom, 27 September 1995, \u00a7 220, Series A no. 324",
+        "Medova v. Russia, no. 25385/04, \u00a7 76, 15 January 2009",
+        "Movsayevy v. Russia, no. 20303/07, \u00a7 76, 14 June 2011",
+        "Narin v. Turkey, no. 18907/02, 15 December 2009",
+        "Orhan v. Turkey, no. 25656/94, \u00a7 358, 18 June 2002",
+        "Shafiyeva v. Russia, no. 49379/09, \u00a7 71, 3 May 2012",
+        "S\u00fckran Aydin and Others v. Turkey (dec.), no. 46231/99, 26 May 2005",
+        "Tanrikulu v. Turkey [GC], no. 23763/94, \u00a7 70, ECHR 1999-IV",
+        "Tas\u00e7i and Duman v. Turkey (dec.), no. 40787/10, 9 October 2012",
+        "Timurtas v. Turkey, no. 23531/94, \u00a7 66 and 70, ECHR 2000-VI",
+        "Tovsultanova v. Russia, no. 26974/06, \u00a7\u00a7 77-81, 17 June 2010",
+        "Utsayeva and Others v. Russia, no. 29133/03, \u00a7 160, 29 May 2008",
+        "Varnava and Others v. Turkey [GC], nos. 16064/90, 16065/90, 16066/90, 16068/90, 16069/90, 16070/90, 16071/90, 16072/90 and 16073/90, ECHR 2009",
+        "Velikova v. Bulgaria, no. 41488/98, \u00a7 77, ECHR 2000-VI",
+        "Velkhiyev and Others v. Russia, no. 34085/06, 5 July 2011",
+        "Worm v. Austria, 29 August 1997, \u00a7\u00a7 32 and 33, Reports of Judgments and Decisions 1997-V",
+        "Yetisen and Others v. Turkey (dec.), no. 21099/06, 10 July 2012"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "427357",
+    "typedescription": "15"
+}

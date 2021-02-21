@@ -1,0 +1,731 @@
+{
+    "__articles": "5;5+5-1;5-1;5-1-f;5-4;5-5;35;35-1;41",
+    "__conclusion": "Preliminary objection joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Remainder inadmissible;Violation of Article 5+5-1 - Right to liberty and security (Article 5-5 - Compensation) (Article 5-1 - Deprivation of liberty;Article 5-1-f - Extradition;Article 5 - Right to liberty and security);Violation of Article 5 - Right to liberty and security (Article 5-4 - Speediness of review);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "41970/11",
+    "article": [
+        "41",
+        "35",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 35-1 - Exhaustion of domestic remedies"
+            ],
+            "element": "Preliminary objection joined to merits and dismissed",
+            "type": "other"
+        },
+        {
+            "article": "5-1",
+            "base_article": "5",
+            "details": [
+                "Article 5-5 - Compensation"
+            ],
+            "element": "Violation of Article 5+5-1 - Right to liberty and security",
+            "mentions": [
+                "Article 5-1 - Deprivation of liberty",
+                "Article 5-1-f - Extradition",
+                "Article 5 - Right to liberty and security"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-4 - Speediness of review"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-145015.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 41970/11) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by Mr Aleksandr Anatolyevich Shcherbina (\u201cthe applicant\u201d), on 8 July 2011. The applicant\u2019s nationality is the subject of controversy between the parties.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms\u00a0Negoryukhina, a lawyer practising in Moscow. The Russian Government (\u201cthe Government\u201d) were represented by Mr\u00a0G. Matyushkin, the Representative of the Russian Federation at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that his extradition to Kazakhstan put him at risk of ill-treatment and that his detention in Russia pending extradition to Kazakhstan was unlawful.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 18 November 2011 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Background",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicant was born in 1970 in the town of Kustanay, in the Kazakh Soviet Socialist Republic, a constituent member of the Soviet Union. From 1988 to 1990 he served in the Soviet Army in Vladivostok. In 1990 he enrolled as a student at the military academy in the town of Ryazan in Russia. When the Soviet Union was dissolved in 1991, Kazakhstan became an independent State. Under Kazakh law, all those who were permanent residents of Kazakhstan in 1991 acquired Kazakh citizenship. A similar law was enacted in the Russian Federation. In 1992 the applicant left the military academy and for personal reasons returned to Kazakhstan. He had a USSR passport and was married to a Russian woman.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0In 1998 the applicant was convicted in Kazakhstan for armed robbery. According to him, he was wrongly accused and ill-treated by the investigating officers. He claimed that the conditions of his detention in Kazakhstan were very poor, that prison officials ill-treated him and other convicts, that he was subjected to discrimination as an ethnic Russian and that prison officials extorted money from him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicant served part of the sentence in a prison and was later transferred to an \u201copen colony\u201d, where convicts could move around unguarded. In 2001, when he was on leave from the colony, he fled to Russia. He explains that he feared for his life and for the lives of his relatives. In Kazakhstan he was put on the wanted list.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0Upon his arrival in Russia the applicant obtained a false Russian passport. He lived and worked in Russia under a false name using that passport. The applicant\u2019s real identity was discovered in 2007; he was sentenced by a judge to a fine for forgery of an official document, but remained in Russia.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0The applicant claims that he tried to regularise his residence status. In particular, he claims that he was eligible for Russian nationality, since in 1991 (when the law on Kazakh nationality was enacted) he had been residing in Russia, not Kazakhstan.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Extradition proceedings; detention pending extradition",
+                                "elements": [
+                                    {
+                                        "content": "10.\u00a0\u00a0In 2007 the Kazakh authorities requested the extradition of the applicant to Kazakhstan. On 2 May 2007 the applicant was arrested and detained in Russia in connection with that request, but on 5 October 2007 he was released on the order of Judge K. No extradition followed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0It appears that some time later the Kazakh authorities renewed their request. On 28\u00a0February 2011 the applicant was detained again upon the orders of the Kaluga town prosecutor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 30 March 2011 the applicant challenged the detention order before the court. The case was received by Judge K. from the Sverdlovskiy District Court, who set the date of the first hearing for 8 April 2011.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0At the hearing of 8 April 2011 the prosecutor challenged Judge\u00a0K. on the ground that she had already participated in the examination of the applicant\u2019s extradition case earlier, in 2007, when she had ordered his release. It is unclear whether the applicant or his lawyer objected to the replacement of the judge.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 15 April 2011 Judge N. from the Sverdlovskiy District Court of Kostroma examined the applicant\u2019s complaint and ruled that the prosecutor\u2019s detention order of 28 February 2011 was unlawful. The District Court found that under Russian law a prison sentence handed down by a foreign court was not sufficient for a person to be detained without a detention order issued by a court in Russia. The District Court ordered the prosecutor to take measures in order to rectify the situation complained of.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0At the same hearing the prosecutor filed a request with the District Court seeking the applicant\u2019s detention pending extradition. The District Court examined it on the spot and ruled that the applicant was to be detained to prevent him from absconding.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 28 April 2011 that detention order was quashed by the Kostroma Regional Court as unsubstantiated. The Regional Court noted, in particular, that in view of the applicant\u2019s profile and his previous behaviour (namely, the fact that after his first arrest pending extradition in 2007 he had continued to live openly at his officially known address) there was no reason to suppose that he would flee. The applicant was released, and house arrest was imposed on him. He was required to stay at home during the night.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0In the meantime, on 5 April 2011, the Deputy Prosecutor General ordered the applicant\u2019s extradition to Kazakhstan. The applicant challenged that decision before the court. He referred to the facts which, in his view, made him eligible for Russian nationality. He also claimed that if he returned to Kazakhstan he risked being subjected to ill-treatment by the prison authorities. In support of this argument he invoked reports by various human rights defence groups and international organisations concerning the human rights situation in Kazakhstan, in particular in the area of the rights of prisoners.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 6 May 2011 the Kostroma Regional Court, in the presence of the applicant and his lawyer, examined the applicant\u2019s extradition case on the merits. In particular, it examined his allegations about the risk of illtreatment in Kazakhstan, the fact that he had been serving a sentence for an ordinary criminal offence and the fact that the Kazakh authorities had given assurances to the Russian authorities that he would not be illtreated. The extradition order was upheld.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 4 July 2011 the Supreme Court of the Russian Federation upheld the decision of the Regional Court. It noted, in particular, that the applicant had been convicted of an offence which was not political in nature and had not tried to seek refugee status in Russia because of the alleged persecution, preferring instead to live there under another name. The fact that he had been granted leave from the colony was at odds with his allegations that he had been ill-treated there. The Supreme Court further examined reports by international organisations and NGOs on ill-treatment and poor conditions of detention in Kazakh prisons but concluded that they were not sufficient to show that the applicant personally ran the risk of ill-treatment.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Attempts to acquire Russian nationality",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0In 2011 the applicant asked the Migration Service to grant him Russian nationality. He claims that it was not his first attempt to that end, but the case file contains no documents in support of his claim. The Migration Service replied that in view of his background (in particular, the fact that at the time of the collapse of the USSR his permanent place of residence was in Kazakhstan) he was not eligible for automatic conversion of his USSR passport to a Russian passport, and that he had not satisfied the formal criteria for lodging a naturalisation request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The applicant challenged the refusal of the Migration Service in court. He claimed, in particular, that in 1991 he was studying in Russia and was therefore eligible for Russian nationality. On 28 July 2011 the Sverdlovskiy District Court of Kostroma dismissed his complaint. The applicant\u2019s appeal against the decision of 28 July 2011 is still pending.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0It is unclear whether or not the applicant has been extradited.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Civil Code: liability for damage",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0The general provisions of the Civil Code on tort read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Damage inflicted on the person or property of an individual ... shall be compensated for in full by the person who inflicted the damage ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The person who inflicted the damage shall be liable for it unless he proves that the damage was inflicted through no fault of his ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cDamage caused to an individual ... as a result of unlawful action or inaction by a State authority ... or official ... must be compensated for. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Damage caused to an individual as a result of unlawful conviction, unlawful institution of criminal proceedings, unlawful application of a preventive measure in the form of placement in custody or an undertaking not to leave the place of residence, or the unlawful application of an administrative penalty in the form of detention or community service shall be compensated for in full, irrespective of the fault of the officials or agencies ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Damage sustained by an individual ... as a result of unlawful actions by ... the investigative bodies and the prosecution ..., which did not result in the consequences listed in paragraph 1 of the present Article, shall be compensated for on the grounds and according to the procedure provided by Article 1069 of the Code. Damage sustained by an individual in the framework of the administration of justice shall be compensated for provided that the judge\u2019s guilt has been established in a final criminal conviction.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0Chapter 59 part 4 of the Civil Code concerns compensation for nonpecuniary damage. It contains the following provision:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cCompensation for non-pecuniary damage shall be made irrespective of the fault of the tortfeasor when:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... the damage has been caused to an individual as a result of unlawful conviction, unlawful institution of criminal proceedings, unlawful application of a preventive measure in the form of placement in custody ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0Article 1099 of the Code establishes that the general principles of compensation of non-pecuniary damage are governed by Article\u00a0151 of the Code. Article 151 \u00a7 2 stipulates, in particular, that \u201cwhen defining the amount of compensation to be granted for non-pecuniary damage the court must take into account the extent of the fault of the tortfeasor ...\u201d.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Code of Criminal Procedure: the \u201cright to rehabilitation\u201d",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0Article 133 of the Code of Criminal Procedure governs the exercise of the \u201cright to rehabilitation\u201d which is, in essence, the restoration of the person to the status quo ante following an acquittal or discontinuance of the criminal proceedings. This right includes the right to compensation in respect of pecuniary and non-pecuniary damage and the restoration of labour, pension, housing and other rights. The damage must be compensated for in full, irrespective of the fault of the investigator, prosecutor or court (paragraph\u00a01). Paragraph 2 confers the \u201cright to rehabilitation\u201d on defendants who have been acquitted, against whom charges have been dropped, in respect of whom proceedings have been discontinued or whose convictions have been quashed in their entirety or in part. However, no right to compensation arises where the prosecution is terminated on \u201cnon-rehabilitation\u201d grounds, such as in the case of an amnesty or where the prosecution has become time-barred (Article 133 paragraph 4). Paragraph\u00a03 provides that \u201cany individual who has been unlawfully subjected to preventive measures in criminal proceedings shall have the right to rehabilitation\u201d. In a judgment acquitting an individual a court has to mention explicitly that he has the right to \u201crehabilitation\u201d (Article\u00a0134). A claim for compensation of pecuniary damage is to be lodged with the same authority which issued the decision to acquit or the decision to terminate the criminal prosecution (Article 135 \u00a7 2), whereas any claims for monetary compensation of non-pecuniary damage are to be lodged with civil courts and examined under the relevant provisions of the Code of Civil Procedure (Article\u00a0136 \u00a7 2).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7\u00a7 1 and 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "27.\u00a0\u00a0The applicant complained that his detention pending extradition from 28\u00a0February 2011 to 28 April 2011 was unlawful. He referred to Article\u00a05 \u00a7 1 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of ... a person against whom action is being taken with a view to deportation or extradition.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0In addition, the Court decided ex officio that the applicant\u2019s complaint about his detention between 28\u00a0February and 15 April 2011 raised an issue under Article 5 \u00a7 5 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "29.\u00a0\u00a0The Government conceded that the applicant\u2019s detention from 28\u00a0February to 15 April 2011 had been unlawful, as confirmed by the decision of the Sverdlovskiy District Court of the latter date. However, on the same day the applicant was re-detained pursuant to a court decision. That decision was reversed on 28\u00a0April 2011 by the Kostroma Regional Court and the applicant was released.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The \u201cunlawfulness\u201d of the applicant\u2019s detention pending extradition was acknowledged by the decision of the Kostroma Regional Court of 28\u00a0April 2011. Therefore, the applicant lost his victim status. Having obtained an acknowledgement of the \u201cunlawfulness\u201d of his detention, the applicant could have sued the State for damages pursuant to Article\u00a01070 of the Civil Code and its Chapter 59 part 4 (on non-pecuniary damage). Furthermore, the Government maintained that Article 133 of the Code of Criminal Proceedings, in force as from 1 July 2002, does not limit compensation for damage to situations of \u201crehabilitation\u201d, that is, where the person was acquitted. Other situations (falling outside the \u201crehabilitation\u201d logic) would be decided pursuant to the general rules of civil law. The same is provided by Article 136 of the Code of Criminal Procedure (cited in paragraph 26 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Government reiterated that Article 1170 part 1 and 1100 paragraph\u00a03 (quoted in paragraph 24 above) provide for the strict liability of the State (irrespective of the fault of the State officials involved in the decision-making process) for unlawful detention of a person in custody; they do not condition that liability upon the acquittal of the defendant or discontinuation of the proceedings on other \u201crehabilitating\u201d grounds.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0Thus, the strict liability of the State for \u201cunlawful\u201d detention would also come into play in cases which are not covered by the notion of \u201crehabilitation\u201d. The Government concluded that the applicant could have sued the State for damages as a result of his unlawful detention and that he failed to use this legal avenue.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0In conclusion the Government contended that the applicant\u2019s complaints were manifestly ill-founded.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0The applicant maintained that his detention from 28 February to 28\u00a0April 2011 had been unlawful. Furthermore, the review of the legality of his detention had not been \u201cspeedy\u201d. Articles 133 and 134 of the Code of Criminal Procedure had prevented him from seeking compensation for his unlawful detention since he did not belong to the list of persons entitled to such compensation.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court notes that the present case concerns two distinct periods of detention. The first lasted from 28 February 2011 until 15\u00a0April 2011. That first period of detention was authorised by an order of the prosecutor.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The ensuing period of the applicant\u2019s detention was covered by the detention order issued by the Sverdlovskiy District Court on 15\u00a0April 2011. That period ended on 28 April 2011 when the court of appeal (the Kostroma Regional Court) decided that there was no reason to keep the applicant in custody and that the applicant was to be placed under the house arrest, with the possibility of leaving his flat during the daytime. The Court observes that the applicant\u2019s complaint concerns only the period between 28\u00a0February and 28\u00a0April 2011, i.e. until the moment when the applicant\u2019s detention in the remand prison pending the outcome of the detention proceedings was replaced with the house arrest. Accordingly, the scope of the Court\u2019s examination will be limited to his period.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Court reiterates that the first period of the applicant\u2019s detention in 2011 was authorised by the order of the prosecutor of 28 February 2011.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The Government submitted that the unlawfulness of the applicant\u2019s detention during that period was acknowledged at the domestic level. The Court observes that, indeed, on 15 April 2011 the District Court declared that the prosecutor\u2019s detention order had been unlawful and quashed it. The Government considered that following that decision the applicant had lost his victim status.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0In the Court\u2019s opinion, the acknowledgement of the unlawfulness of the applicant\u2019s detention during the period under consideration was sufficiently clear and unequivocal. It refers, however, to its well-established caselaw to the effect that to deprive an applicant of his victim status, in addition to acknowledging a violation of the Convention the national authorities must provide him with \u201csufficient redress\u201d (see Amuur v.\u00a0France, 25 June 1996, \u00a7 36, Reports of Judgments and Decisions 1996III; Dalban v.\u00a0Romania [GC], no. 28114/95, \u00a7 44, ECHR 1999VI; and Rotaru v. Romania [GC], no. 28341/95, \u00a7 35, ECHR 2000V). The question is whether, in the circumstances, the quashing of the original detention order by itself constituted \u201csufficient redress\u201d, i.e. whether, in the absence of any pecuniary or other compensation, the applicant may claim to have victim status in respect of the first period of detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court observes that in many contexts pecuniary redress is required in order to restore an applicant\u2019s rights. However, unlike other Convention provisions, Article\u00a05 contains a special clause in its paragraph\u00a05 which requires that pecuniary compensation be made for detention which was contrary to that provision. Thus, the availability of compensation, under Article\u00a05, is a distinct issue which must be addressed separately from the question of the \u201clawfulness\u201d of detention under Article 5 \u00a7\u00a01.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0In these circumstances the Court considers that the applicant may claim to be a victim within the meaning of Article 34 of the Convention since, despite the acknowledgment of the unlawfulness of his detention, he did not receive any compensation in this connection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0Insofar as the Government\u2019s claim that the applicant had a compensatory remedy available to him but failed to use it may be interpreted as a plea of non-exhaustion, the Court considers that this issue cannot be determined without prejudice to the issue under Article 5 \u00a7\u00a05 of the Convention. Therefore, the question of whether the applicant exhausted domestic remedies should be joined to the merits.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court notes that the second period of the applicant\u2019s detention was not \u201cunlawful\u201d within the meaning of Article 5 \u00a7 1 of the Convention. Even if the District Court erred in its assessment of the risk of his absconding, the court still acted within its competence and in accordance with the law. The fact that the Kostroma Regional Court decided that the applicant had to be released and placed under house arrest cannot be interpreted as a recognition of the \u201cunlawfulness\u201d of the lower court\u2019s decision for the purposes of Article 5 \u00a7 1 of the Convention. It follows that this part of the applicant\u2019s complaint about his detention pending extradition in 2011 is manifestly ill-founded and must be rejected in accordance with Article\u00a035 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Court finds that the applicant\u2019s complaint about his detention between 15 and 28 April 2011 is manifestly ill-founded and must be rejected pursuant to Article 35 \u00a7\u00a7 3(a) and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court further finds that the applicant\u2019s detention between 28\u00a0February and 15 April 2011 raises issues under Article 5 \u00a7 1 (f) and 5 \u00a7\u00a05 of the Convention which require examination on the merits. Having joined the plea of non-exhaustion to the merits, the Court decides to declare this part of the application admissible, no other grounds for declaring it inadmissible having been established.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court reiterates that the right to compensation under Article\u00a05 \u00a7\u00a05 of the Convention arises if a breach of one of its other four paragraphs has been established, directly or in substance, either by the Court or by the domestic courts (see, among many other authorities, Stanev v.\u00a0Bulgaria [GC], no. 36760/06, \u00a7 182, ECHR 2012; Svetoslav Dimitrov v.\u00a0Bulgaria, no.\u00a055861/00, \u00a7 76, 7 February 2008; and \u00c7a\u011fda\u015f \u015eahin v.\u00a0Turkey, no.\u00a028137/02, \u00a7 34, 11 April 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0In the instant case the deprivation of liberty to which he was subjected was covered by sub-paragraph (f) of Article 5 \u00a7 1 and was found to be unlawful at the domestic level. The domestic courts established in substance that the applicant had been deprived of his liberty in a manner that was not in accordance with a procedure prescribed by law, that is, in breach of the requirements of paragraph 1 of Article 5.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0The Court reiterates that the effective enjoyment of the right to compensation guaranteed by Article 5 \u00a7 5 must be ensured with a sufficient degree of certainty (see Emin v. the Netherlands, no. 28260/07, \u00a7\u00a022, 29\u00a0May 2012, and Stanev, cited above, \u00a7 182). This requirement goes hand in hand with the principle that the Convention must guarantee not rights that are theoretical or illusory but rights that are practical and effective (see, mutatis mutandis, Stanev, cited above, \u00a7 231, and Sakhnovskiy v.\u00a0Russia [GC], no. 21272/03, \u00a7 97, 2 November 2010). It follows that compensation for detention imposed in breach of the provisions of Article 5 must be not only theoretically available but also accessible in practice to the individual concerned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Government claimed that the applicant\u2019s right to compensation followed from a number of provisions of the Civil Code, namely, Article\u00a01070 and Chapter 59 part 4 (which concerns compensation for nonpecuniary damage).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The Court observes that both the Civil Code (\u201cthe CC\u201d) and the Code of Criminal Procedure (\u201cthe CCrP\u201d) contain rules on compensation for damage caused by the application of a custodial measure. The CCrP establishes rules on compensation in cases of \u201crehabilitation\u201d. \u201cRehabilitation\u201d covers situations of acquittal, dropping of charges, and the like. The Court accepts the Government\u2019s contention that the applicant\u2019s situation (detention pending extradition to another country) could not be described in terms of \u201crehabilitation\u201d, so the relevant provisions of the CCrP were not applicable in casu.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0Alternatively, the liability of law-enforcement authorities is described in Article 1070 of the Civil Code. This provision covers two types of situation. The first is when the damage is caused by \u201cunlawful conviction, unlawful institution of criminal proceedings, unlawful application of a preventive measure in the form of placement in custody ..., or the unlawful application of an administrative penalty ...\u201d (Article\u00a01070 part 1). The second situation concerns other types of damage not described in part 1 of Article 1070: in this case the State is liable for tort pursuant to the rules of Article 1069, which, in turn, does not provide for strict liability and requires the plaintiff to prove the \u201cfault\u201d of the authority or official involved. Rules on non-pecuniary damage contained in Chapter 59 part\u00a04 of the CC establish a rule similar in essence: strict liability is provided only for cases where non-pecuniary damage has been caused by the \u201cunlawful conviction, unlawful institution of criminal proceedings, unlawful application of a preventive measure in the form of placement in custody ...\u201d. In other situations the plaintiff had to prove the fault of the tortfeasor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0There is no disagreement that the custodial measure in the present case was \u201cunlawful\u201d in domestic terms. The next question is whether the applicant was entitled to seek compensation on the basis of the strict liability of the authorities, pursuant to Article 1070 \u00a7 1 and Article\u00a01100 of the Civil Code, or whether he was only entitled to obtain compensation if the \u201cfault\u201d of the authority involved were proven (Article 1070 \u00a7\u00a02 of the CC read in conjunction with Article 1069; Article\u00a01099 read in conjunction with 151 \u00a7\u00a02).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court notes that a textual reading of the relevant provisions of the CC suggests that not every unlawful detention leads to the strict liability of the State, but only such which can be characterised as \u201cthe unlawful application of a preventive measure in the form of placement in custody\u201d (cf.\u00a0Korshunov v. Russia, no. 38971/06, \u00a7 61, 25\u00a0October 2007). The Court has already observed that \u201cthe Russian law of tort limits strict liability for unlawful detention to specific procedural forms of deprivation of liberty which include, in particular, deprivation of liberty in criminal proceedings and administrative punishment\u201d (see Makhmudov v. Russia, no.\u00a035082/04, \u00a7\u00a0104, 26\u00a0July 2007). The unlawful detention in the present case was imposed within extradition proceedings, not as a custodial measure within a criminal case opened in Russia. The Court is aware that, in the absence of special provisions concerning detention pending extradition, the Russian courts apply mutatis mutandis provisions of the CCrP which regulate custodial measures (see, for example, Zokhidov v. Russia, no.\u00a067286/10, \u00a7\u00a7\u00a084101, 5 February 2013). However, it is not certain whether they would be prepared to consider \u201cunlawful detention pending extradition\u201d an equivalent of \u201cunlawful application of a preventive measure in the form of placement in custody\u201d, which undoubtedly gives rise to a strict liability. Thus, the Court finds that it was not certain whether the strict liability rules applied to the situation under examination.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0If the applicant was to prove the authorities\u2019 \u201cfault\u201d, the question is what form of \u201cfault\u201d was required to trigger the liability of the State for the applicant\u2019s unlawful detention. The Court notes that the notion of \u201cfault\u201d is quite vague: it includes intentional behaviour as well as various forms of negligence. Furthermore, it is unclear whether under the law the applicant had to prove the fault of the prosecutor who issued the detention order, or the fault of the prosecution authority in general for an error committed by one of their employees. The Government did not refer to any case-law or other source of law which would demonstrate that the applicant\u2019s unlawful detention would be regarded as resulting from the \u201cfault\u201d of the authority or official involved, whatever it meant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0It\u2019s not the Court\u2019s role to give a definitive interpretation of the relevant provisions of Russian law on the liability of the State for unlawful detention within extradition proceedings. However, the law referred to by the Government as such is not sufficiently clear and left room for interpretation. The Government did not refer to other sources of law which would help in interpreting the legislative provisions at issue. Therefore, the Court is not persuaded that the applicant\u2019s claim for damages had prospects of success. Due to that uncertainty, the Court is prepared to conclude that a claim for compensation was not an \u201ceffective remedy\u201d within the meaning of Article\u00a035 of the Convention, and that the applicant cannot be blamed for not having used that legal avenue. Hence, the applicant did not have an \u201cenforceable right to compensation\u201d to which he was entitled under Article\u00a05 \u00a7 5.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0Accordingly, the Government\u2019s objection must be dismissed, and a violation of Article 5 \u00a7 5 of the Convention, in conjunction with Article\u00a05 \u00a7\u00a01 thereof, found.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 4 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "57.\u00a0\u00a0The applicant also complained that his request for a review of the public prosecutor\u2019s detention order was not examined speedily, as required by Article\u00a05 \u00a7 4 of the Convention. Article 5 \u00a7 4 reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0The Government submitted that in his appeals the applicant did not complain that the proceedings before the court of first instance were not conducted expeditiously. Furthermore, they claimed that the court proceedings related to the applicant\u2019s detention pending extradition were conducted speedily. A certain delay in the examination of his original request for review of the prosecutor\u2019s detention order of 28 February 2011 was due to the prosecutor\u2019s motion for the withdrawal of the judge.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The applicant maintained his complaints, claiming that his request for review of the detention order by the prosecutor was not examined in good time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court takes note of the Government\u2019s contention that the applicant did not raise a complaint about the alleged breach of Article 5 \u00a7\u00a04 in the proceedings before the court of appeal. However, the Court notes that the proceedings before the court of appeal, to which the Government refer and which ended with the decision of 28 April 2011, concerned not the first period of the applicant\u2019s detention, but the second, which was authorised by the trial court on 15 April 2011. In those proceedings the courts were not called upon to examine whether or not the review of the detention order issued by the prosecutor had been done speedily: they were only supposed to establish whether or not there had been sufficient reasons for the applicant\u2019s detention pending extradition and whether the decision of 15\u00a0April 2011 had been lawful. The objection by the Government is therefore irrelevant to the question raised by the applicant and must be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court considers, in the light of the parties\u2019 submissions, that the complaint raises serious issues of fact and law under the Convention, the determination of which requires an examination of the merits. The Court concludes, therefore, that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. No other ground for declaring it inadmissible has been established.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court recalls that Article 5 protects from arbitrary deprivation of liberty (see Nakhmanovich v. Russia, no. 55669/00, \u00a7\u00a7 70-71, 2\u00a0March 2006, and Sta\u0161aitis v. Lithuania, no. 47679/99, \u00a7 67, 21 March 2002). The principle of \u201cprotection from arbitrariness\u201d is realised through more specific guarantees, both substantive and procedural. Procedural safeguards are contained primarily in \u00a7\u00a7 3 and 4 of Article 5 and based on the philosophy of effective judicial control in matters of detention. \u201cEffectiveness\u201d of such control, in turn, has a time element: delayed judicial review of detention would not be effective. In order to determine whether judicial review has been given speedily, the Court makes an overall assessment of all relevant circumstances of each case, including the complexity of the proceedings, the conduct of the domestic authorities, the conduct of the applicant and what was at stake for the latter. Thus, the general approach to the \u201cpromptness\u201d or \u201cspeediness\u201d requirements of Article 5 \u00a7 3 and Article 5 \u00a7 4 respectively is therefore broadly similar to the method used in cases concerning the \u201creasonable time\u201d requirement of Article 6 \u00a7 1 of the Convention (Akhadov v.\u00a0Slovakia, no. 43009/10, \u00a7 24, 28\u00a0January 2014). However, albeit the method is similar, the results are often different. The Court\u2019s conclusions are largely determined by the nature of the proceedings concerned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The Court observes that the present case does not concern detention under Article 5 \u00a7 1 (c) but detention for the purposes of extradition governed by Article 5 \u00a7\u00a01\u00a0(f). Consequently, the rule established by Article\u00a05 \u00a7 3 did not apply in the present case, and the authorities did not have an obligation to bring the applicant promptly before a judge.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0Even though the authorities had no obligation to bring the applicant before the judge on their own initiative and do it \u201cpromptly\u201d, the applicant had a right to \u201ctake proceedings\u201d before the court and actively seek his release under Article 5 \u00a7 4 of the Convention. Once the detained person lodges an application for release, judicial review of the lawfulness of detention must follow speedily (see Rehbock v. Slovenia, no.\u00a029462/95, \u00a7\u00a7\u00a08288, ECHR 2000-XII, and G.B. v. Switzerland, no.\u00a027426/95, \u00a7\u00a7\u00a03439, 30\u00a0November 2000).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0The Court\u2019s case-law shows that the \u201cspeediness\u201d requirement of Article\u00a05 \u00a7 4 is not necessarily the same as the \u201cpromptness\u201d requirement of Article\u00a05 \u00a7 3. What is important, however, is the type of official body which authorised the detention. Where the original detention order was imposed by a court, i.e. by an independent and impartial judicial body (cf. mutatis mutandis, Huber v. Switzerland, 23 October 1990, \u00a7\u00a7 42-43, Series\u00a0A no.\u00a0188, with further references) in a procedure offering appropriate guarantees of due process, and where the domestic law provides for a system of appeal, the Court is prepared to tolerate longer periods of review in the proceedings before the second instance court (see Shakurov v.\u00a0Russia, no.\u00a055822/10, \u00a7 179, 5 June 2012). Thus, the Court has examined the speediness of the review of detention orders imposed by the firstinstance courts within criminal proceedings, that is, for the purposes of Article\u00a05 \u00a7\u00a01\u00a0(c) of the Convention, in a large number of cases concerning the Russian Federation (see, for example, Mamedova v.\u00a0Russia, no. 7064/05, \u00a7\u00a096, 1\u00a0June 2006 or Ignatov v. Russia, no.\u00a027193/02, \u00a7\u00a7 112-114, 24\u00a0May 2007, and Lamazhyk v.\u00a0Russia, no.\u00a020571/04, \u00a7\u00a7 104-106, 30\u00a0July 2009). Appeal proceedings that lasted ten, eleven and sixteen days have been found to be compatible with the \u201cspeediness\u201d requirement of Article 5 \u00a7 4 (see Yudayev v.\u00a0Russia, no.\u00a040258/03, \u00a7\u00a7 84-87, 15 January 2009, and Khodorkovskiy v.\u00a0Russia, no.\u00a05829/04, \u00a7 247, 31 May 2011). However, the Court considers that this case-law is not directly applicable in the present case since the original detention order was imposed by a prosecutor, and not a court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0Whereas it is not contrary to the Convention that an initial detention order for the purposes of extradition is made by an administrative authority, if the domestic law so authorises, the question is how much time may elapse from the moment when the person detained on the basis of an order by an administrative authority (in casu \u2013 the prosecutor\u2019s office) lodges an application for release, and the moment when that application is examined by a court. In the present case that period amounted to sixteen days, namely between 30 March, when an application for release was introduced by the applicant, and 15 April 2011, when it was examined and decided upon by the first-instance court. The Court stresses that under Article 5 \u00a7\u00a04 it is not concerned with the period between 28\u00a0February and 30 March 2011, i.e. before the lodging of the application for release.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The Government alleged that a part of the delay under examination had been due to the fact that the prosecutor challenged the judge and the case needed to be adjourned. Indeed, the first hearing was scheduled for 8\u00a0April, whereas the second, conducted by another judge, took place on 15\u00a0April 2011.\u00a0The Court, however, considers that even if the replacement of the judge was an objective necessity, it was still \u201cimputable to the authorities\u201d and hence does not reduce the period under consideration (see mutatis mutandis, Calleja v. Malta, no. 75274/01, \u00a7\u00a7 129-132, 7\u00a0April 2005).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0As set out above, in cases where the original detention was imposed by a court and then reviewed by a higher court, a period of sixteen days might not raise an issue under Article 5 \u00a7 4 of the Convention. However, in the present case the original detention order was imposed not by a judge or another judicial officer but by a prosecutor who was not a part of the judiciary. The Court further notes that the prosecuting authorities in the present case, in response to the request of their Kazakh counterparts, had started the process of the extradition and that they detained the applicant in order to facilitate the extradition. The decision-making process which resulted with the detention order of 28 February 2011 did not offer the guarantees of due process: the decision was taken in camera and without any involvement of the applicant. In addition, as established by the reviewing court, the prosecutor acted ultra vires and had no powers to order the applicant\u2019s detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The Court further observes that the applicant\u2019s case was not very complex and the courts should have had all necessary information to deal with it. Thus, in 2007 the applicant had already been detained for the purposes of extradition (see paragraph 10 above). When on 15 April 2011 the prosecutor asked for the applicant\u2019s detention, that request was examined and decided upon by the district court on the same day (see paragraphs\u00a01415 above). Finally, there is no evidence that after the lodging of the application for release on 30 March the applicant contributed in any way to the duration of the detention proceedings and to the delay in the judicial review.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0In view of the above, and in the light of the specific circumstances of the present case the Court considers that the standard of \u201cspeediness\u201d of judicial review under Article 5 \u00a7 4 of the Convention comes closer to the standard of \u201cpromptness\u201d under Article 5 \u00a7 3. Therefore, the sixteendays\u2019 delay in the judicial review of the detention order of 28 February 2011 was excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0Thus, in the circumstances, the Court concludes that the applicant\u2019s complaint against the prosecutor\u2019s detention order of 28 February 2011 was not examined \u201cspeedily\u201d. There has therefore been a violation of Article\u00a05 \u00a7\u00a04 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "72.\u00a0\u00a0Lastly, the applicant complained of other violations of the Convention. In particular, he complained, under Article 3 of the Convention, that he had been ill-treated in Kazakhstan. He also complained that the possibility of being extradited to that country posed a real risk to his life and physical well-being. Under Article 13 the applicant complained that he had no effective domestic remedy in connection with his allegations under Article\u00a03. Under Article 5 \u00a7 1 he complained about his detention pending extradition in 2007; under Article 6 that the domestic courts wrongly decided that he had acquired Kazakh nationality in 1991; and under Article\u00a08 that in ordering his extradition the authorities did not take into consideration the fact that he was married to a Russian.",
+                                "elements": []
+                            },
+                            {
+                                "content": "73.\u00a0\u00a0However, in the light of all the material in its possession, and in so far as the matters complained of are within its competence, the Court finds that the above complaints do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that these complaints are manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "74.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "75.\u00a0\u00a0The applicant claimed 10,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0The Government maintained that no damages should be awarded to the applicant and that, in any event, the amount claimed by him was excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0Making its assessment on an equitable basis, the Court awards the applicant EUR\u00a06,500 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The applicant also claimed EUR 1,600 for the legal costs incurred before the domestic courts. He informed the Court that his lawyer had spent sixteen\u00a0hours on his case and that her hourly rate was EUR 100. The applicant also claimed EUR 112 for postal expenses. He produced a detailed timesheet indicating the tasks performed by the lawyer, specifying the relevant dates and the time spent on each task. All of the tasks performed by the lawyer were related to the applicant\u2019s detention pending extradition in 2011.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Government claimed that the applicant failed to produce a written agreement between him and his lawyer, and that there was no proof that the amount claimed (EUR 1,712 in total) had been paid.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. The Court recalls that under the Russian law the absence of a written agreement on legal services does not mean that such agreement did not exist, and even where the legal fees have not yet been actually paid by the client, they remain recoverable (see Fadeyeva v. Russia, no.\u00a055723/00, \u00a7\u00a0147, ECHR 2005-IV). The hourly rate claimed by the applicant\u2019s lawyer in the present case appears reasonable. All of the legal costs, as presented in the timesheet, were related to the applicant\u2019s complaints under Article\u00a05 of the Convention and the amount of time spent on each task appears reasonable. On the other hand, the amount of postal expenses claimed by the applicant was not sufficiently supported by relevant documents. In these circumstances, and having regard to the complexity of the case and other relevant circumstances, as well as to the documents in its possession and its findings under Article 5, the Court considers it reasonable to award the sum of EUR\u00a01,650, covering costs under all heads.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits the Government\u2019s nonexhaustion plea, and rejects it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaint under Article\u00a05 \u00a7\u00a7\u00a01 and 5 concerning the applicant\u2019s detention between 28\u00a0February and 15\u00a0April 2011, and the complaint under Article 5 \u00a7 4 about the delay in the examination of the applicant\u2019s request for review of the detention order of 28 February 2011 admissible, and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 \u00a7 5 of the Convention, in conjunction with Article 5 \u00a7\u00a01 thereof, on account of the unavailability of an effective compensatory remedy for the applicant\u2019s unlawful detention between 28 February and 15\u00a0April 2011;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 \u00a7 4 of the Convention on account of the delay involved in the judicial review of the applicant\u2019s detention ordered by the prosecutor on 28\u00a0February 2011;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044 \u00a7\u00a02 of the Convention, the following amounts, to be converted into Russian Roubles at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 26 June 2014, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Isabelle Berro-Lef\u00e8vre",
+            "role": "president"
+        },
+        {
+            "name": "Julia Laffranque",
+            "role": "judges"
+        },
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "judges"
+        },
+        {
+            "name": "Linos-Alexandre Sicilianos",
+            "role": "judges"
+        },
+        {
+            "name": "Erik M\u00f8se",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF SHCHERBINA v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-145015.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2014:0626JUD004197011",
+    "externalsources": [],
+    "extractedappno": [
+        "41970/11",
+        "28114/95",
+        "28341/95",
+        "36760/06",
+        "55861/00",
+        "28137/02",
+        "28260/07",
+        "21272/03",
+        "38971/06",
+        "35082/04",
+        "67286/10",
+        "55669/00",
+        "47679/99",
+        "43009/10",
+        "29462/95",
+        "27426/95",
+        "55822/10",
+        "7064/05",
+        "27193/02",
+        "20571/04",
+        "40258/03",
+        "5829/04",
+        "75274/01",
+        "55723/00"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 1069, 1070 and 1100 and Chapter 59 part 4 of the Civil Code"
+    ],
+    "itemid": "001-145015",
+    "judgementdate": "26/06/2014 00:00:00",
+    "kpdate": "26/06/2014 00:00:00",
+    "kpthesaurus": [
+        "448",
+        "93",
+        "135",
+        "474",
+        "45",
+        "14",
+        "128",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "5-4",
+        "5-5",
+        "5-1-f",
+        "35-1",
+        "35",
+        "5-1",
+        "5",
+        "41"
+    ],
+    "parties": [
+        "SHCHERBINA",
+        "RUSSIA"
+    ],
+    "rank": "1136.052734375",
+    "representedby": [
+        "NEGORYUKHINA O.V."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Akhadov v. Slovakia, no. 43009/10, \u00a7 24, 28 January 2014",
+        "Amuur v. France, 25 June 1996, \u00a7 36, Reports of Judgments and Decisions 1996 III",
+        "\u00c7a\u011fda\u015f \u015eahin v. Turkey, no. 28137/02, \u00a7 34, 11 April 2006",
+        "Calleja v. Malta, no. 75274/01, \u00a7\u00a7 129-132, 7 April 2005",
+        "Dalban v. Romania [GC], no. 28114/95, \u00a7 44, ECHR 1999 VI",
+        "Emin v. the Netherlands, no. 28260/07, \u00a7 22, 29 May 2012",
+        "Fadeyeva v. Russia, no. 55723/00, 9 June 2005",
+        "G.B. v. Switzerland, no. 27426/95, \u00a7\u00a7 34 39, 30 November 2000",
+        "Huber v. Switzerland, 23 October 1990, \u00a7\u00a7 42-43, Series A no. 188",
+        "Ignatov v. Russia, no. 27193/02, \u00a7\u00a7 112-114, 24 May 2007",
+        "Khodorkovskiy v. Russia, no. 5829/04, \u00a7 247, 31 May 2011",
+        "Korshunov v. Russia, no. 38971/06, \u00a7 61, 25 October 2007",
+        "Lamazhyk v. Russia, no. 20571/04, \u00a7\u00a7 104-106, 30 July 2009",
+        "Makhmudov v. Russia, no. 35082/04, \u00a7 104, 26 July 2007",
+        "Mamedova v. Russia, no. 7064/05, \u00a7 96, 1 June 2006",
+        "Nakhmanovich v. Russia, no. 55669/00, \u00a7\u00a7 70-71, 2 March 2006",
+        "Rehbock v. Slovenia, no. 29462/95, \u00a7\u00a7 82 88, ECHR 2000-XII",
+        "Rotaru v. Romania [GC], no. 28341/95, \u00a7 35, ECHR 2000 V",
+        "Sakhnovskiy v. Russia [GC], no. 21272/03, \u00a7 97, 2 November 2010",
+        "Shakurov v. Russia, no. 55822/10, \u00a7 179, 5 June 2012",
+        "Stanev v. Bulgaria [GC], no. 36760/06, \u00a7 182, ECHR 2012",
+        "Sta\u0161aitis v. Lithuania, no. 47679/99, \u00a7 67, 21 March 2002",
+        "Svetoslav Dimitrov v. Bulgaria, no. 55861/00, \u00a7 76, 7 February 2008",
+        "Yudayev v. Russia, no. 40258/03, \u00a7\u00a7 84-87, 15 January 2009",
+        "Zokhidov v. Russia, no. 67286/10, \u00a7\u00a7 84 101, 5 February 2013"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "395132",
+    "typedescription": "15"
+}

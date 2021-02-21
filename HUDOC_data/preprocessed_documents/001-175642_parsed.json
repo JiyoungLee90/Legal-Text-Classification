@@ -1,0 +1,513 @@
+{
+    "__articles": "6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Civil proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "67081/13",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-175642.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 67081/13) against the Portuguese Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Portuguese national, Ms Mateus Pereira da Silva (\u201cthe applicant\u201d), on 17 October 2013.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr J.J. Ferreira Alves, a lawyer practising in Matosinhos. The Portuguese Government (\u201cthe Government\u201d) were represented by their Agent, Ms M.F. da Gra\u00e7a Carvalho, Deputy Attorney General.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 18 March 2015 the complaint concerning the length of the proceedings and the lack of remedies in that respect were communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 \u00a7 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1949 and lives in Torres Novas.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The eviction proceedings",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 16 February 2004 eviction proceedings were instituted against the applicant\u2019s husband, A.S., before the Court of Torres Novas (domestic proceedings no. 154/04.7TBTNV).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 31 March 2004 A.S. lodged his submissions in reply (contesta\u00e7\u00e3o) and on 6 May 2004 the claimant lodged new submissions (r\u00e9plica).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On 22 September 2006 A.S. died.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 7 November 2006 the court suspended the proceedings and on 9\u00a0November 2007 it declared the proceedings\u2019 interruption as the claimant had not taken the initiative of continuing the proceedings against the defendant\u2019s heirs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 18 December 2007 the claimant applied for leave to continue the proceedings against the defendant\u2019s heirs (incidente de habilita\u00e7\u00e3o de herdeiros).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0After having faced some difficulties in summoning the heirs, the court managed to summon all of them and on 13 June 2009 the defendant\u2019s heirs, including the applicant, were admitted as parties to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 26 June 2009 the court was informed of the claimant\u2019s death.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On an unknown date one of the claimant\u2019s heirs, A.O., applied for leave to continue the proceedings with her and the other claimant\u2019s heir as parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 22 June 2012 the court admitted the claimant\u2019s heirs as parties to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 22 January 2010 the court was informed of the death of one of the defendant\u2019s heirs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On an unknown date A.O. applied for leave to continue the proceedings against the heirs of the deceased party. On 4 May 2010 she provided information on those heirs and in July she provided their birth certificates. On 12 July 2011 A.O. provided the heirs\u2019 addresses, following which they were summoned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 30 April 2012 those heirs were admitted as parties to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 14 December 2012 the court gave a preparatory decision setting out the facts that had already been established and those that remained outstanding (despacho saneador).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 14 January 2013 the claimant\u2019s heirs requested an inspection to the house, which took place on 3 April 2013.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 29 May 2013 the hearing that had been scheduled for that day was postponed as the parties\u2019 lawyers were not present.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0Subsequently, hearings were held on 18 September, 29\u00a0October and 17 December 2013.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 14 January 2014 the court adopted a decision with regard to the factual basis (resposta \u00e0 mat\u00e9ria de facto) and on 13 March 2014 it delivered its decision in which it ordered the applicant to vacate the house and to pay rent arrears.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On an unknown date the applicant appealed against that decision. The appeal was declared inadmissible for an unknown reason.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The enforcement proceedings",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0As the applicant had not complied with the 13 March 2014 decision (see paragraph 21 above), on 19 January 2015 the claimant instituted enforcement proceedings against her before the Santar\u00e9m Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0According to the latest information received by the Court on 23\u00a0November 2015, on that date the enforcement proceedings were still pending at first instance.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 6 \u00a7 1 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0The applicant complained that the length of the proceedings had been incompatible with the \u201creasonable time\u201d requirement. She also complained that she had not had an effective remedy in this respect. She relied on Articles 6 \u00a7 1 and 13 of the Convention, which read as follows in the relevant parts:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by a ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The Government\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0The Government argued that the application was inadmissible for non-exhaustion of domestic remedies and as an abuse of the right of petition. In this last respect, they noted that the applicant did not comply with the decision in the eviction proceedings, thus hindering the enforcement proceedings from coming to an end.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "27.\u00a0\u00a0The Court considers that the Government\u2019s objection regarding the non-exhaustion of domestic remedies is closely linked to the applicants\u2019 complaint under Article 13 of the Convention and therefore must be joined to the merits.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0In relation to the Government\u2019s argument that the applicant abused the rights set forth in the Convention within the meaning of Article 35 \u00a7\u00a03 (a) of the Convention, the Court reiterates that an application may only be rejected as abusive in extraordinary circumstances, notably when there is persistent use of insulting or provocative language by an applicant (see Felbab v. Serbia, no.\u00a014011/07, \u00a7 56, 14 April 2009), when the application was knowingly based on untrue facts or when incomplete and thus misleading information concerning the very core of the case was submitted to the Court (see Gross v. Switzerland [GC], no. 67810/10, \u00a7 28, ECHR 2014). Having regard to its case-law, the Court considers that the applicant\u2019s unwillingness to comply with the decision in the eviction proceedings is not of such a nature that would justify to declare the application inadmissible as an abuse of the right of petition. It follows that the Government\u2019s objection as to the alleged abuse of the right of petition must be rejected.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0The Court observes that the applicant was a defendant in the civil proceedings at issue. It recalls that in civil length of proceedings cases, the enforcement proceedings are usually the second stage of the proceedings (see Martins Moreira v. Portugal, 26 October 1988, \u00a7 44, Series A no.\u00a0143; Silva Pontes v. Portugal, 23 March 1994, \u00a7 33, Series A no. 286-A; and Di Pede v. Italy, 26 September 1996, \u00a7 24, Reports of Judgments and Decisions 1996-IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The instant case is nonetheless distinguishable from the cases previously examined by the Court, since the enforcement proceedings at issue did not, to the Court\u2019s knowledge, serve to determine important elements of the debt itself (contrast Silva Pontes, cited above, \u00a7 33), nor was the applicant waiting for his right to become effective (contrast Di Pede, cited above, \u00a7 22, and Estima Jorge v. Portugal, 21 April 1998, \u00a7\u00a037, Reports 1998-II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0Contrary to those cases, in the instant case the Court finds that from the moment in which the decision in the eviction proceedings was adopted (see paragraph 21 above), the applicant was aware of her obligation to comply with it. The enforcement proceedings were instituted because the applicant did not comply with that decision and they were on 23\u00a0November 2015 still pending for the same reason. Therefore, a complaint regarding the length of the enforcement proceedings, proceedings which the applicant is actually hindering from coming to an end is unfounded (see paragraph\u00a024 above). The applicant\u2019s conduct was the actual and only cause of the existence of the enforcement proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0It follows that the application is manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention as far as the enforcement proceedings are concerned (see, mutatis mutandis, V\u00e1rzea Tavares v.\u00a0Portugal (dec.), no. 57894/10, \u00a7\u00a7 18-22, 19 February 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0Having regard to the above, the Court notes that the complaints raised by the applicant under Articles 6 \u00a7 1 and 13 of the Convention concerning the eviction proceedings are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any grounds. This part of the application must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Alleged violation of Article 13 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0The applicant complained that in Portugal there was no court to which an application could be made to complain about the excessive length of proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Government contested those arguments and argued that the applicant had at her disposal an effective remedy (see paragraph 26 above), notably the remedy provided for by Article 12 of Law no. 67/2007 of 31\u00a0December 2007, which set out the rules on the non-contractual civil liability of State and public entities (Lei n\u00ba 67/2007, de 31 de Dezembro, que aprovou o Regime da Responsabilidade Civil Extracontratual do Estado e Demais Entidades P\u00fablicas).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The Court reiterates that Article 13 guarantees an effective remedy before a national authority for an alleged breach of the requirement under Article 6 \u00a7 1 for a case to be heard within a reasonable time (see Kud\u0142a\u00a0v.\u00a0Poland [GC], no. 30210/96, \u00a7 156, ECHR 2000-XI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Court notes that prior to 27 May 2014 Portuguese practice did not provide for an effective legal remedy allowing a claimant to obtain compensation for excessive length of proceedings (see Martins Castro and Alves Correia de Castro v. Portugal, no. 33729/06, \u00a7\u00a7 51-57, 10 June 2008, and Valada Matos das Neves v. Portugal, no. 73798/13, \u00a7 106, 29\u00a0October 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0Having regard to its case-law on the subject (Nouhaud and Others v.\u00a0France, no. 33424/96, \u00a7\u00a7\u00a044 and 45, 9 July 2002, and Valada Matos das Neves, cited above, \u00a7\u00a7 106 and 107, with further references), the Court considers that at the time in which the instant application was lodged, namely on 17 October 2013 (see paragraph 1 above), the applicant had no effective remedy against the excessive length of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0Accordingly, the Government\u2019s preliminary objection of non-exhaustion of domestic should be dismissed and there has been in the present case a violation of Article 13 of the Convention on account of the lack of a remedy under domestic law whereby, at the time when she lodged her application, the applicant could have obtained a ruling upholding her right to have her case heard within a reasonable time, as set forth in Article\u00a06 \u00a7\u00a01 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Alleged violation of Article 6 \u00a7 1 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0According to the applicant, the length of the eviction proceedings was excessive.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The Court observes that its case-law on the intervention of third parties in civil proceedings makes the following distinction: where the applicant has intervened in domestic proceedings only on his or her own behalf the period to be taken into consideration begins to run from that date, whereas if the applicant has declared his or her intention to continue the proceedings as heir he or she can complain of the entire length of the proceedings (see Scordino v. Italy (no. 1) [GC], no. 36813/97, \u00a7 220, ECHR 2006-V).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0In the instant case, the applicant was summoned in the proceedings as heir of A.S (see paragraphs 9-10 above). The period to be taken into consideration thus began on 16\u00a0February 2004, when the eviction proceedings were instituted against the latter (see paragraph 5 above) and ended on 13 March 2014, when the decision in the eviction proceedings was delivered (see paragraph 21 above). It therefore lasted ten years and twenty-eight days at one level of jurisdiction.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Government argued that the length of proceedings had in its main part been attributable to the death of some of the parties to the proceedings, to the lack of the claimant\u2019s initiative and to the difficulties in summoning the parties (see paragraphs 8, 10, 14 and 15 above). The Government also claimed that part of the length of the proceedings was attributable to the applicant\u2019s conduct, as she did not provide information on some of the heirs, even though they were her descendants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0According to the Government, the Portuguese authorities had only been responsible for an initial delay, from 6 May 2004, when the claimant lodged new submissions (see paragraph 6 above), to 7 November 2006, when the court suspended the proceedings (see paragraph 8 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicant and the relevant authorities and what was at stake for the applicant in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII, and Comingersoll S.A. v. Portugal [GC], no. 35382/97, \u00a7 19, ECHR 2000-IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Court notes the proceedings at issue were not of particular complexity.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0In so far as the applicant\u2019s conduct is concerned, the Court notes that she took no steps which could have significantly contributed to the delay of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0Turning to the conduct of the authorities, the Court observes some periods of inactivity on the part of the Torres Novas Civil Court for which the Government provided no explanation, and notably:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "-\u00a0\u00a0between 6 May 2004, when the claimant lodged new submissions (see paragraph 6 above), and 7 November 2006, when the court decided to suspend the proceedings (see paragraph 8 above);",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "-\u00a0\u00a0between 30 April 2012, when some heirs were admitted as parties to the proceedings (see paragraph 16 above), and 14 December 2012, when the court gave a preparatory decision setting out the facts that had already been established and those that remained outstanding (see paragraph 17 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0It is true that the proceedings were pending twice waiting for the claimant\u2019s initiative in summoning the defendant\u2019s heirs (see paragraphs\u00a08 and 15 above). Nonetheless, in this context, the Court reiterates that Article\u00a06 \u00a7\u00a01 of the Convention imposes on the Contracting States the duty to organise their judicial system in such a way that their courts can meet each of its requirements (see P\u00e9lissier and Sassi v. France [GC], no.\u00a025444/94, \u00a7 74, ECHR 1999-II), and avoid or reduce to the minimum the protraction of proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0In the light of the foregoing, the Court concludes that the State authorities bear the primary responsibility for the excessive length of the proceedings in question. Having regard to its case-law on the subject, the Court considers that in the instant case the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0There has accordingly been a breach of Article 6 \u00a7 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "52.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0The applicant claimed 16,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Government contested the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The Court considers that the applicant must have sustained non-pecuniary damage. Ruling on an equitable basis, it awards her EUR\u00a06,400 under that head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0The applicant also claimed EUR 3,050 for the costs and expenses incurred before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The Government contested the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0Regard being had to the documents in its possession and to its case-law, the Court considers it reasonable to award the sum of EUR 1,000 for the proceedings before it.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible concerning the eviction proceedings and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Joins to the merits the Government\u2019s objection of non-exhaustion of domestic remedies and dismisses it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Articles 13 and 6 \u00a7 1 of the Convention as far as the eviction proceedings are concerned;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 25 July 2017, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "president"
+        },
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "judges"
+        },
+        {
+            "name": "Iulia Motoc",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MATEUS PEREIRA DA SILVA v. PORTUGAL",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-175642.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0725JUD006708113",
+    "externalsources": [],
+    "extractedappno": [
+        "67081/13",
+        "154/04",
+        "14011/07",
+        "67810/10",
+        "57894/10",
+        "30210/96",
+        "33729/06",
+        "73798/13",
+        "33424/96",
+        "36813/97",
+        "30979/96",
+        "35382/97",
+        "25444/94"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-175642",
+    "judgementdate": "25/07/2017 00:00:00",
+    "kpdate": "25/07/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "28",
+    "paragraphs": [
+        "6",
+        "6-1",
+        "13"
+    ],
+    "parties": [
+        "MATEUS PEREIRA DA SILVA",
+        "PORTUGAL"
+    ],
+    "rank": "1945.28112792969",
+    "representedby": [
+        "FERREIRA ALVES J. J."
+    ],
+    "respondent": "PRT",
+    "respondentOrderEng": "36",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "466495",
+    "typedescription": "15"
+}

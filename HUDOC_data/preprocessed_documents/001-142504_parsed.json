@@ -1,0 +1,709 @@
+{
+    "__articles": "6;6-1;8;8-1;14;14+8;41",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Access to court);Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Article 8-1 - Respect for family life);Pecuniary and non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "17120/09",
+    "article": [
+        "6",
+        "8",
+        "41",
+        "14"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+8 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for family life"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+8 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for family life"
+            ],
+            "type": "violation"
+        },
+        {
+            "element": "Pecuniary and non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-142504.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 17120/09) against the Italian Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Italian national, Mr Bouraoui Dhahbi (\u201cthe applicant\u201d), on 28 March 2009.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr V. Angiolini, a lawyer practising in Milan. The Italian Government (\u201cthe Government\u201d) were represented by their Agent, Ms E. Spatafora, and by their Co-Agent, Ms\u00a0P.\u00a0Accardo.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that he had been the victim of discrimination based on his nationality at the time of the events. He further complained that the Court of Cassation had ignored his request to refer a question to the Court of Justice of the European Union for a preliminary ruling in the related proceedings.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 11 June 2013 the Government were given notice of the application.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1960 and lives in Marsala (Trapani).",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0The applicant, who subsequently acquired Italian nationality, was at the relevant time a Tunisian national who had entered Italy on the basis of a lawful residence and work permit. He was employed by company A. and insured with the National Social Security Agency (Istituto Nazionale della Previdenza Sociale \u2013 \u201cthe INPS\u201d). His family was made up of his wife and their four minor children. His income for the year 1999 totalled 30,655,000 Italian lira (ITL \u2013 approximately 15,832 euros (EUR)).",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 24 May 2001 the applicant lodged an application with the Marsala District Court, acting as an employment tribunal, seeking payment of the family allowance (assegno per nucleo familiare) provided for by section 65 of Law no. 448 of 1998. Under the terms of that provision, the allowance in question was paid by the INPS to families made up of Italian nationals living in Italy with at least three minor children, whose annual income was below the amounts set out in the table appended to Legislative Decree no.\u00a0109 of 31 March 1998 (in this instance, the amount applicable to families with five members, namely ITL 36 million (approximately EUR\u00a018,592)).",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0The applicant submitted that even though he did not have Italian nationality as required by Law no. 448 of 1998, the allowance was nevertheless due to him under the association agreement between the European Union and Tunisia \u2013 known as the Euro-Mediterranean Agreement \u2013 which had been ratified by Italy (Law no. 35 of 3 February 1997). Article 65 of the Agreement provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201c1. Subject to the provisions of the following paragraphs, workers of Tunisian nationality and any members of their families living with them shall enjoy, in the field of social security, treatment free from any discrimination based on nationality relative to nationals of the Member States in which they are employed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The concept of social security shall cover the branches of social security dealing with sickness and maternity benefits, invalidity, old-age and survivors\u2019 benefits, industrial accident and occupational disease benefits and death, unemployment and family benefits.",
+                                "elements": []
+                            },
+                            {
+                                "content": "These provisions shall not, however, cause the other coordination rules provided for in Community legislation based on Article 51 of the EC Treaty to apply, except under the conditions set out in Article 67 of this Agreement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. All periods of insurance, employment or residence completed by such workers in the various Member States shall be added together for the purpose of pensions and annuities in respect of old age, invalidity and survivors\u2019 benefits and family, sickness and maternity benefits and also for that of medical care for the workers and for members of their families resident in the Community.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. The workers in question shall receive family allowances for members of their families who are resident in the Community.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4. The workers in question shall be able to transfer freely to Tunisia, at the rates applied by virtue of the legislation of the debtor Member State or States, any pensions or annuities in respect of old age, survivor status, industrial accident or occupational disease, or of invalidity resulting from industrial accident or occupational disease, except in the case of special non-contributory benefits.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5. Tunisia shall accord to workers who are nationals of a Member State and employed in its territory, and to the members of their families, treatment similar to that specified in paragraphs 1, 3 and 4.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0In a judgment of 10 April 2002 the Marsala District Court rejected the applicant\u2019s application.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The applicant appealed. He requested, among other things, that a question be referred to the Court of Justice of the European Union (\u201cthe CJEU\u201d) for a preliminary ruling as to whether, under Article 65 of the EuroMediterranean Agreement, a Tunisian worker could be refused the family allowance provided for by section 65 of Law no. 448 of 1998.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0In a judgment of 21 October 2004 the Palermo Court of Appeal dismissed the applicant\u2019s appeal. It observed that, as the allowance in question was based solely on the income and family situation of the recipients, it fell within the sphere of social assistance (assistenza sociale). The allowance had initially been intended only for Italian citizens and had subsequently been extended to all European Union nationals. However, the Euro-Mediterranean Agreement related only to social-security benefits (prestazioni previdenziali) and was therefore not applicable to the family allowance provided for by section 65 of Law no. 448 of 1998.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0The applicant lodged an appeal on points of law, reiterating his request for a preliminary ruling to be sought from the CJEU.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0In a judgment of 15 April 2008 which was deposited with the registry on 29 September 2008, the Court of Cassation dismissed the appeal.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0In its reasons, the Court of Cassation observed first of all that Article\u00a064(1) and (2) of the Euro-Mediterranean Agreement provided, inter alia, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201c1. The treatment accorded by each Member State to workers of Tunisian nationality employed in its territory shall be free from any discrimination based on nationality, as regards working conditions, remuneration and dismissal, relative to its own nationals.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. All Tunisian workers allowed to undertake paid employment in the territory of a Member State on a temporary basis shall be covered by the provisions of paragraph 1 with regard to working conditions and remuneration.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0Noting that the text in question referred explicitly to employment relationships and the elements that comprised them, the Court of Cassation inferred from this that it applied only to social-security benefits and not to social-assistance benefits of the kind claimed by the applicant, to which Tunisian citizens resident in Italy were not entitled. According to the Court of Cassation, this interpretation was confirmed by Article 65(1) and (2) of the Euro-Mediterranean Agreement, which referred in particular to \u201csickness and maternity benefits, invalidity, old-age and survivors\u2019 benefits, industrial accident and occupational disease benefits and death, unemployment and family benefits\u201d. The Court of Cassation stressed that its interpretation was not based solely on the reference in the text to \u201csocial security\u201d (previdenza sociale) but, as indicated by the CJEU, on the elements comprising each benefit.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0This judgment was served on the applicant on 2 October 2008.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "17.\u00a0\u00a0The applicant alleged that the Court of Cassation had ignored his request for a question to be referred to the CJEU for a preliminary ruling concerning the interpretation of the Euro-Mediterranean Agreement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "He relied on Article 6 \u00a7 1 of the Convention, which, in its relevant parts, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0The Government contested the applicant\u2019s argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The Government\u2019s preliminary objection that the application was out of time",
+                                        "elements": [
+                                            {
+                                                "content": "19.\u00a0\u00a0The Government submitted at the outset that the application was out of time, observing that it had not been lodged until 2 April 2009, whereas the judgment of the Court of Cassation had been deposited with the registry on 29 September 2008 (see paragraph 13 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0The applicant submitted in reply that his application had been lodged on 28 March 2009, the date on which he had sent a copy to the Court\u2019s Registry by fax and by post. He pointed out that the judgment of the Court of Cassation had not been served on him until 2 October 2008 (see paragraph 16 above). It was the latter date that should be taken as the starting point of the six-month period.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0The Court notes that on 28 March 2009 the applicant sent a copy of the application form, duly completed, by fax to the Registry, which received it the same day. A further copy was sent by post and reached the Registry of the Court on 2 April 2009. The application should therefore be considered to have been lodged on 28 March 2009. Accordingly, even supposing that, as the Government argued, the starting point for the six-month period provided for in Article 35 \u00a7 1 of the Convention should be 29 September 2008, the six-month time-limit was in any event complied with.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0It follows that the Government\u2019s objection that the application was out of time cannot be upheld.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s objection of failure to exhaust domestic remedies",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0In their additional observations of 17 January 2014 the Government argued for the first time that the applicant had failed to exhaust domestic remedies. If the Court of Cassation had misapplied the \u201cacte clair\u201d doctrine and failed in its duty to refer a question to the CJEU for a preliminary ruling, the applicant could have brought a civil action to establish noncontractual liability on the part of the State, as advocated by the CJEU in its judgments in Kobler (30 September 2003, Case C-224/01) and Traghetti del Mediterraneo (13 June 2006, Case C-173/03). Actions of this kind were routinely examined by the domestic courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The Court points out that according to Rule 55 of the Rules of Court any plea of inadmissibility must, in so far as its character and the circumstances permit, be raised by the respondent Contracting Party in its written or oral observations on the admissibility of the application (see N.C. v. Italy [GC], no.\u00a024952/94, \u00a7 44, ECHR 2002-X). In the present case the Government did not raise any objection as to failure to exhaust domestic remedies in their observations of 9 October 2013 on admissibility and the merits (in which, on the contrary, they stated that the judgment of the Court of Cassation \u201cconstitute[d] exhaustion of domestic remedies\u201d). The fact that the applicant had not brought a civil action to establish non-contractual liability on the part of the State was first mentioned in their additional observations on the merits and on just satisfaction. The Government did not provide any explanation for this delay and the Court cannot discern any exceptional circumstances that might exempt them from their obligation to raise any plea of inadmissibility in good time.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0It follows that the Government are estopped from raising the objection of non-exhaustion of domestic remedies.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Other grounds of inadmissibility",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other ground. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "27.\u00a0\u00a0The applicant stressed that, in so far as it had been called upon to rule as the court of last instance, the Court of Cassation had been required to request a preliminary ruling where there was doubt as to the interpretation of Community law. The applicant submitted that he had cited the case-law in which the CJEU had recognised the direct applicability of the principle of non-discrimination in the field of social security, contained in the agreement between the European Union and the Kingdom of Morocco (and in other agreements between the European Union and the Maghreb countries \u2013 Kziber, Case\u00a0C-18/90, judgment of 31\u00a0January 1991). In the applicant\u2019s view, that line of case-law, initially developed in the context of the cooperation agreements, was \u201cfully transposable\u201d to the relevant provisions of the association agreements. The CJEU had also added that its interpretation was compatible with the requirements of Article 14 of the Convention and Article 1 of Protocol No. 1. Furthermore, the interpretation of the concept of \u201csocial security\u201d by the CJEU was sufficiently broad to encompass social-assistance benefits. In these circumstances, the applicant argued, it had not been open to the Court of Cassation to ignore the request to refer the question for a preliminary ruling.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0The applicant added that the Court of Cassation had given no reasons for refusing to seek a preliminary ruling and had misunderstood the \u201cpersonal\u201d and \u201cmaterial\u201d aspects of the non-discrimination principle, which were two quite separate concepts. The allowance in question had been placed in the \u201csocial assistance\u201d category solely on the basis of domestic law, without reference to the criteria established by the CJEU (namely the statutory nature and dual function of the benefit and its connection to one of the risks referred to in Article 4(1) of Regulation No\u00a01408/71). Hence, the \u201cCommunity\u201d dimension of that categorisation operation had been overlooked. In the applicant\u2019s submission, it was clear from the European legislation and the case-law of the CJEU that Statefunded \u201cnon-contributory\u201d benefits could not be automatically excluded from the scope of the non-discrimination principle established by the Agreement (the applicant cited, by way of example, the cases of Yousfi, Case C-58/93, judgment of 20\u00a0April 1994, concerning the granting of a disability allowance; Commission v. Greece, Case C-185/96, judgment of 29 October 1998, concerning various categories of benefits for large families; and Hughes, Case C-78/91, judgment of 16 July 1992, on the subject of the \u201cfamily credit\u201d\u00a0in the United Kingdom). On the basis of his references to that case-law, the Court of Cassation should either, of its own accord, have included the allowance he was claiming within the scope of Regulation no. 1408/71, by analogy, or referred the question to the CJEU, which had not yet ruled on the nature of this particular allowance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0The applicant also noted that section 13 of Law no. 97 of 6 August 2013 (which entered into force on 4 September 2013) had provided for the allowance introduced by section 65 of Law no. 448 of 1998 to be extended to third-country nationals in possession of a long-term residence permit. In judgment no. 133 of 2013 the Constitutional Court had found that the requirement to have been resident for five years in the region concerned in order to qualify for a regional allowance of a similar nature was unreasonable and incompatible with the principle of equality before the law (the applicant also cited judgment no. 222 of 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The Government submitted that the Court of Cassation had expressly examined the scope of the Euro-Mediterranean Agreement and had found that the allowance for families with at least three minor children could not come within the scope of the concept of social security, even in the broad sense in which it was construed at Community level. The Court of Cassation had therefore considered the provision it had been asked to interpret to be clear; accordingly, it had fulfilled its obligations under Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court points out that in the case of Vergauwen and Others v.\u00a0Belgium ((dec.), no.\u00a04832/04, \u00a7\u00a7 89-90, 10 April 2012) it set forth the following principles:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u2013 Article 6 \u00a7 1 requires the domestic courts to give reasons, in the light of the applicable law, for any decision refusing to refer a question for a preliminary ruling;",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u2013 when the Court hears a complaint alleging a violation of Article 6 \u00a7 1 on this basis, its task consists in ensuring that the impugned refusal has been duly accompanied by such reasoning;",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u2013 whilst this verification has to be made thoroughly, it is not for the Court to examine any errors that might have been committed by the domestic courts in interpreting or applying the relevant law;",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u2013 in the specific context of the third paragraph of Article 234 of the Treaty establishing the European Community (current Article 267 of the Treaty on the Functioning of the European Union (TFEU)), this means that national courts against whose decisions there is no judicial remedy under national law, and which refuse to request a preliminary ruling from the CJEU on a question raised before them concerning the interpretation of European Union law, are required to give reasons for such refusal in the light of the exceptions provided for by the case-law of the CJEU. They must therefore indicate the reasons why they have found that the question is irrelevant, that the European Union law provision in question has already been interpreted by the CJEU, or that the correct application of EU law is so obvious as to leave no scope for any reasonable doubt.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0In the present case the applicant requested the Court of Cassation to seek a preliminary ruling from the CJEU as to whether, under Article 65 of the Euro-Mediterranean Agreement, a Tunisian worker could be refused the family allowance provided for by section 65 of Law no. 448 of 1998 (see paragraphs 10 and 12 above). As no judicial appeal lies against its decisions under domestic law, the Court of Cassation was under a duty to give reasons for its refusal to request a preliminary ruling, in the light of the exceptions provided for by the case-law of the CJEU.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0The Court has examined the Court of Cassation judgment of 15\u00a0April 2008 and found no reference to the applicant\u2019s request for a preliminary ruling to be sought or to the reasons why the court considered that the question raised did not warrant referral to the CJEU. It is therefore not clear from the reasoning of the impugned judgment whether that question was considered not to be relevant or to relate to a provision which was clear or had already been interpreted by the CJEU, or whether it was simply ignored (see, conversely, Vergauwen and Others, cited above, \u00a7 91, where the Court found that the Belgian Constitutional Court had duly provided reasons for refusing to refer questions for a preliminary ruling). The Court observes in this connection that the reasoning of the Court of Cassation contains no reference to the case-law of the CJEU.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0That finding is sufficient for the Court to conclude that there has been a violation of Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 14 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLE 8",
+                        "elements": [
+                            {
+                                "content": "35.\u00a0\u00a0The applicant considered that he had been the victim of discrimination based on his nationality when it came to claiming entitlement to the allowance provided for by section 65 of Law no. 448 of 1998.",
+                                "elements": []
+                            },
+                            {
+                                "content": "He relied on Articles 8 and 14 of the Convention, which provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 8",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 14",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "36.\u00a0\u00a0The applicant referred to the Court\u2019s case-law (citing, in particular, the following judgments: Gaygusuz v.\u00a0Austria, 16 September 1996, Reports of Judgments and Decisions 1996-IV; Petrovic v.\u00a0Austria, 27 March 1998, Reports 1998-II; Niedzwiecki v. Germany, no.\u00a058453/00, 25 October 2005; Okpisz\u00a0v. Germany, no.\u00a059140/00, 25 October 2005; Weller v. Hungary, no.\u00a044399/05, 31 March 2009; Fawsie v. Greece, no.\u00a040080/07, 28\u00a0October 2010; and Saidoun v. Greece, no.\u00a040083/07, 28 October 2010). He submitted that the allowance in question gave practical effect to the right of large families on low incomes to a financial contribution towards maintaining family life. Its introduction had resulted from a deliberate act on the part of the State based on the realisation that large families faced higher costs, linked mainly to their children\u2019s upkeep and education.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The applicant disputed the Government\u2019s argument that the allowance in question fell into the category of social assistance. Basing his assertions on the changes made to the system of family allowances in Italy, he submitted that they were actually aimed at improving the specific benefits paid to workers. The Court had repeatedly ruled that similar \u201cwelfare benefits\u201d were a means by which States could \u201cdemonstrate their respect for family life within the meaning of Article 8\u201d and thus came within the ambit of that provision or of Article 1 of Protocol No. 1, without this being dependent on the prior payment of contributions by the recipient (the applicant referred, in particular, to Stec and Others v. the United Kingdom [GC] (dec.), nos.\u00a065731/01 and 65900/01, \u00a7\u00a7 49-56, ECHR 2005-X).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The applicant noted that the sole obstacle to granting him the allowance had been his nationality. This amounted to discrimination compared with Italian citizens in a comparable financial and family situation to his own.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The Government took the view that the subject matter of the application did not come within the scope of Article 8 of the Convention, as the social-assistance benefit claimed by the applicant could not be characterised as \u201cprimary\u201d assistance.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "39.\u00a0\u00a0As the Court has consistently held, Article 14 complements the other substantive provisions of the Convention and its Protocols. It has no independent existence since it has effect solely in relation to \u201cthe enjoyment of the rights and freedoms\u201d safeguarded thereby. Although the application of Article 14 does not presuppose a breach of those provisions \u2013 and to this extent it is autonomous \u2013 there can be no room for its application unless the facts at issue fall within the ambit of one or more of them (see, among many other authorities, Van Raalte v. the Netherlands, 21 February 1997, \u00a7 33, Reports 1997-I; Petrovic, cited above, \u00a7 22; and Zarb Adami v. Malta, no.\u00a017209/02, \u00a7 42, ECHR 2006-VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court considers first of all that the authorities\u2019 refusal to grant the applicant the allowance in issue was not aimed at breaking up his family, nor did it have such an effect, since Article 8 does not impose any positive obligation on States to provide the financial assistance in question (see Petrovic, cited above, \u00a7 26; Ze\u00efbek v. Greece, no.\u00a046368/06, \u00a7 32, 9\u00a0July 2009; and Fawsie, cited above, \u00a7 27).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0Nevertheless, the Court has previously held that, by granting benefits to large families, States are able to \u201cdemonstrate their respect for family life\u201d within the meaning of Article 8 of the Convention and that such benefits therefore come within the ambit of Article 8 (see Okpisz, cited above, \u00a7 32; Niedzwiecki, cited above, \u00a7 31; Fawsie, cited above, \u00a7 28; and Saidoun, cited above, \u00a7 29; see also, mutatis mutandis, Petrovic, cited above, \u00a7\u00a7 27-29, in the context of a parental leave allowance, and Weller, cited above, \u00a7 29, in the context of maternity benefit). The subject matter of the application thus falls within the ambit of Article 8 of the Convention. Accordingly, Article 14 is applicable.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other ground. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "43.\u00a0\u00a0The applicant observed that the Government sought to justify the difference in treatment between himself and European Union nationals and/or refugees by reference to the categorisation of the allowance (which allegedly fell into the category of \u201csocial assistance\u201d) and to the financial cost of extending the allowance to new categories of individuals. In his view, these factors did not provide sufficient justification from the standpoint of the Convention and the case-law of the Italian Constitutional Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The applicant conceded that in the case of Ponomaryovi v.\u00a0Bulgaria (no.\u00a05335/05, \u00a7 54, ECHR 2011), the Court had found that the preferential treatment of nationals of Member States of the European Union was based on an objective and reasonable justification because the Union formed a special legal order, which had, moreover, established its own citizenship. However, it was necessary to take account of the fact that non-Community nationals also made an active contribution to the country\u2019s resources, in particular through their additional contribution to social-insurance schemes and the fact that they were subject to income tax. The applicant added that the discrimination to which he had been subjected had been based on his nationality and not on his immigration status as conferred by law (he cited, conversely, Bah v. the United Kingdom, no.\u00a056328/07, ECHR\u00a02011). Moreover, it had to be borne in mind that Directive 2003/109/EC was aimed at ensuring the integration of third-country nationals who were long-term residents of a Member State.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0The Government submitted that the decision not to extend entitlement to the allowance in question had been made purely for budgetary reasons and not on discriminatory grounds.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "45.\u00a0\u00a0According to the Court\u2019s settled case-law, in order for an issue to arise under Article 14 there must be a difference in the treatment of persons in comparable situations. Such a difference of treatment is discriminatory if it has no objective and reasonable justification; in other words, if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised. The Contracting State enjoys a margin of appreciation in assessing whether and to what extent differences in otherwise similar situations justify a different treatment (see X and Others v. Austria [GC], no. 19010/07, \u00a7 98, ECHR 2013, and Vallianatos and Others v. Greece [GC], nos. 29381/09 and 32684/09, \u00a7 76, ECHR 2013). The notion of discrimination within the meaning of Article 14 also includes cases where a person or group is treated, without proper justification, less favourably than another, even though the more favourable treatment is not called for by the Convention (see Abdulaziz, Cabales and Balkandali v. the United Kingdom, 28 May 1985, \u00a7 82, Series A no. 94).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Contracting States enjoy a certain margin of appreciation in assessing whether and to what extent differences in otherwise similar situations justify a difference in treatment (see X and Others v. Austria, cited above, \u00a7 98, and Vallianatos and Others, cited above, \u00a7 76). The scope of the margin of appreciation will vary according to the circumstances, the subject matter and its background, but the final decision as to the observance of the Convention\u2019s requirements rests with the Court. A wide margin is usually allowed to the State when it comes to general measures of economic or social strategy (see Burden v. the United Kingdom [GC], no.\u00a013378/05, \u00a7 60, ECHR 2008; Carson and Others v. the United Kingdom [GC], no. 42184/05, \u00a7 61, ECHR 2010; \u015eerife Yi\u011fit v. Turkey [GC], no.\u00a03976/05, \u00a7 70, 2 November 2010; and Stummer v. Austria [GC], no.\u00a037452/02, \u00a7 89, ECHR 2011). However, very weighty reasons would have to be put forward before the Court could regard a difference in treatment based exclusively on the ground of nationality as compatible with the Convention (see Gaygusuz, cited above, \u00a7 42; Koua Poirrez v. France, no. 40892/98, \u00a7 46, ECHR 2003-X; Andrejeva v. Latvia [GC], no.\u00a055707/00, \u00a7 87, ECHR 2009; and Ponomaryovi, cited above, \u00a7 52).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Since the Convention is first and foremost a system for the protection of human rights, the Court must also have regard to the changing conditions within Contracting States and respond, for example, to any evolving convergence as to the standards to be achieved (see Konstantin Markin v. Russia [GC], no. 30078/06, \u00a7 126, ECHR 2012, and Fabris\u00a0v.\u00a0France [GC], no. 16574/08, \u00a7 56, ECHR 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0In the Court\u2019s view, it is beyond doubt that the applicant was treated differently compared with workers who were nationals of the European Union and who, like him, had large families. Unlike them, the applicant was not entitled to the family allowance provided for by section 65 of Law no.\u00a0448 of 1998. Moreover, this was not disputed by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0The Court further observes that the refusal to grant the allowance was based exclusively on the nationality of the applicant, who at the time was not a national of a European Union Member State. It was not alleged that the applicant did not satisfy the other statutory conditions for entitlement to the benefit in question. Hence, it is clear that he was treated less favourably than others in a relevantly similar situation, on account of a personal characteristic (see, mutatis mutandis, Ponomaryovi, cited above, \u00a7\u00a050).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0The Court notes that in several cases cited above which were similar to the present case\u00a0(Niedzwiecki; Okpisz; Weller; Fawsie; and Saidoun), and which also concerned welfare benefits for the families of non-nationals, it found a violation of Article 14 taken in conjunction with Article 8 on the ground that the authorities had not provided any reasonable justification for the practice of excluding non-nationals lawfully settled in the countries concerned from entitlement to certain allowances on the sole basis of their nationality.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0In particular, in the cases of Fawsie and Saidoun, cited above, which like the present case concerned allowances for large families, the Court\u2019s finding of a violation was based especially on the fact that the applicants and the members of their families had been granted political refugee status and that the criterion chosen by the Government (which had focused mainly on whether the persons concerned were Greek nationals or of Greek origin) in order to determine eligibility for the allowance did not appear to be relevant in the light of the legitimate aim pursued (namely to deal with the country\u2019s demographic situation).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court is of the view that similar considerations apply, mutatis mutandis, in the present case. It notes in that connection that at the relevant time the applicant had been in possession of a lawful residence and work permit in Italy and had been insured with the INPS (see paragraph 6 above). He paid contributions to that insurance agency in the same capacity and on the same basis as workers who were European Union nationals (see, mutatis mutandis, Gaygusuz, cited above, \u00a7 46). He was not an alien residing in the country for a short period or in breach of the immigration legislation. Hence, he did not belong to the category of persons who, as a rule, do not contribute to the funding of public services and in relation to whom a State may have legitimate reasons for curtailing the use of resource-hungry public services such as social insurance schemes, public benefits and health care (see, mutatis mutandis, Ponomaryovi, cited above, \u00a7\u00a054).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0As to the \u201cbudgetary reasons\u201d advanced by the Government (see paragraph 44 above), the Court recognises that protection of the State\u2019s budgetary interests constitutes a legitimate aim of the distinction at issue. Nevertheless, that aim cannot by itself justify the difference in treatment complained of. It remains to be determined whether there was a reasonable relationship of proportionality between the above-mentioned legitimate aim and the means employed in the present case. The Court points out in that connection that the national authorities\u2019 refusal to grant the family allowance to the applicant was based solely on the fact that he was not a national of a European Union Member State. It is not disputed that a citizen of such a State in the same position as the applicant would receive the allowance in question. Nationality was therefore the sole criterion for the distinction complained of. However, the Court reiterates that very weighty reasons would have to be put forward before it could regard a difference in treatment based exclusively on the ground of nationality as compatible with the Convention (see paragraph 46 above). In these circumstances, and notwithstanding the wide margin of appreciation left to the national authorities in the field of social security, the arguments submitted by the Government are not sufficient to satisfy the Court that there was a reasonable relationship of proportionality in the instant case that would render the impugned distinction compatible with the requirements of Article\u00a014 of the Convention (see, mutatis mutandis, Andrejeva, cited above, \u00a7\u00a7\u00a08689).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0In view of the foregoing, the justification advanced by the Government does not appear reasonable and the difference in treatment that has been established is thus discriminatory for the purposes of Article 14 of the Convention. There has therefore been a violation of Article 14 taken in conjunction with Article 8 of the Convention",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "55.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0The applicant claimed 9,416.05 euros\u00a0(EUR) in respect of pecuniary damage. This amount corresponded to the unpaid allowances for the period 1999 to 2004 (EUR 8,016.05), plus statutory interest (EUR 1,400).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0He also requested that an award be made for non-pecuniary damage, but did not specify the amount.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0The Government did not submit any observations on this point.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Court observes that it found a violation of Article 14 of the Convention taken in conjunction with Article 8 on the ground that the refusal to grant the applicant the family allowance provided for in section 65 of Law no. 448 of 1998 amounted to discrimination on the basis of nationality. Accordingly, the pecuniary damage sustained by the applicant corresponds to the amount of the unpaid allowances, totalling EUR\u00a08,016.05, a figure not contested by the Government. As statutory interest must be added to this amount, the Court awards the applicant the amount claimed, that is to say, EUR 9,416.05.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court further considers that the applicant undoubtedly suffered non-pecuniary damage. In view of the information in its possession, it awards the applicant the sum of EUR 10,000 under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0\u00a0The applicant did not submit a claim for reimbursement of the costs and expenses incurred before the Court or the domestic courts. Accordingly, the Court considers that there is no call to award him any sum on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 14 of the Convention taken in conjunction with Article 8;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in French, and notified in writing on 8 April 2014, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "president"
+        },
+        {
+            "name": "Guido Raimondi",
+            "role": "judges"
+        },
+        {
+            "name": "Peer Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Helen Keller",
+            "role": "judges"
+        },
+        {
+            "name": "Paul Lemmens",
+            "role": "judges"
+        },
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "judges"
+        },
+        {
+            "name": "Stanley Naismith",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF DHAHBI v. ITALY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-142504.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2014:0408JUD001712009",
+    "externalsources": [],
+    "extractedappno": [
+        "17120/09",
+        "224/01",
+        "173/03",
+        "24952/94",
+        "18/90",
+        "1408/71",
+        "58/93",
+        "185/96",
+        "78/91",
+        "4832/04",
+        "58453/00",
+        "59140/00",
+        "44399/05",
+        "40080/07",
+        "40083/07",
+        "65731/01",
+        "65900/01",
+        "17209/02",
+        "46368/06",
+        "5335/05",
+        "56328/07",
+        "19010/07",
+        "29381/09",
+        "32684/09",
+        "13378/05",
+        "42184/05",
+        "3976/05",
+        "37452/02",
+        "40892/98",
+        "55707/00",
+        "30078/06",
+        "16574/08"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-142504",
+    "judgementdate": "08/04/2014 00:00:00",
+    "kpdate": "08/04/2014 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "7",
+        "451",
+        "425",
+        "343",
+        "100",
+        "258",
+        "292",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "14",
+        "8",
+        "8-1",
+        "6-1",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "DHAHBI",
+        "ITALY"
+    ],
+    "rank": "1103.99462890625",
+    "representedby": [
+        "ANGIOLINI V."
+    ],
+    "respondent": "ITA",
+    "respondentOrderEng": "23",
+    "scl": [
+        "Abdulaziz, Cabales and Balkandali v. the United Kingdom, 28 May 1985, \u00a7 82, Series A no 94",
+        "Andrejeva v. Latvia [GC], no 55707/00, \u00a7\u00a7 86-89, ECHR-2009",
+        "Bah v. the United Kingdom, no 56328/07, ECHR 2011",
+        "Burden v. the United Kingdom [GC], no 13378/05, \u00a7 60, ECHR-2008",
+        "Carson and Others v. the United Kingdom [GC], no 42184/05, \u00a7 61, ECHR-2010",
+        "Fabris v. France [GC], no 16574/08, \u00a7 56, ECHR 2013",
+        "Fawsie v. Greece, no 40080/07, 28 October 2010",
+        "Gaygusuz v. Austria, 16 September 1996, Reports of Judgments and Decisions 1996-IV",
+        "Konstantin Markin v. Russia [GC], no 30078/06, \u00a7 126, ECHR 2012",
+        "Koua Poirrez v. France, no 40892/98, \u00a7 46, ECHR 2003-X",
+        "N.C. v. Italy [GC], no 24952/94, \u00a7 44, ECHR 2002-X",
+        "Niedzwiecki v. Germany, no 58453/00, 25 October 2005",
+        "Okpisz v. Germany, no 59140/00, 25 October 2005",
+        "Petrovic v. Austria, 27 March 1998, Reports 1998-II",
+        "Ponomaryovi v. Bulgaria, no 5335/05, \u00a7 54, ECHR 2011",
+        "Saidoun v. Greece, no 40083/07, 28 October 2010",
+        "\u015eerife Yi\u011fit v. Turkey [GC], no 3976/05, \u00a7 70, 2 November 2010",
+        "Stec and Others v. the United Kingdom [GC] (dec.), nos. 65731/01 and 65900/01, \u00a7\u00a7 49-56, ECHR 2005-X",
+        "Stummer v. Austria [GC], no 37452/02, \u00a7 89, ECHR-2011",
+        "Vallianatos v. Greece [GC], nos. 29381/09 and 32684/09, \u00a7 76, ECHR-2013",
+        "Van Raalte v. the Netherlands, 21 February 1997, \u00a7 33, Reports 1997-I",
+        "Vergauwen v. Belgium (dec.), no 4832/04, \u00a7\u00a7 89-90, 10 April 2012",
+        "Weller v. Hungary, no 44399/05, 31 March 2009",
+        "X and Others v. Austria [GC], no 19010/07, \u00a7 98, ECHR-2013",
+        "Zarb Adami v. Malta, no 17209/02, \u00a7 42, ECHR 2006-VIII",
+        "Ze\u00efbek v. Greece, no 46368/06, \u00a7 32, 9 July 2009"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "450024",
+    "typedescription": "15"
+}

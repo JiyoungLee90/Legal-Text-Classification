@@ -1,0 +1,514 @@
+{
+    "__articles": "5;5-3;6;6+6-3-d;6-1;6-3-d",
+    "__conclusion": "No violation of Article 5 - Right to liberty and security (Article 5-3 - Length of pre-trial detention;Reasonableness of pre-trial detention);No violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-d - Obtain attendance of witnesses;Article 6 - Right to a fair trial);Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Criminal proceedings;Right to a fair trial;Article 6-3-d - Obtain attendance of witnesses)",
+    "applicability": "",
+    "appno": "10216/06",
+    "article": [
+        "6",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-3 - Length of pre-trial detention",
+                "Reasonableness of pre-trial detention"
+            ],
+            "element": "No violation of Article 5 - Right to liberty and security",
+            "type": "no-violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "No violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Obtain attendance of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Criminal proceedings",
+                "Right to a fair trial",
+                "Article 6-3-d - Obtain attendance of witnesses"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-178940.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 10216/06) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mr Yevgeniy Vyacheslavovich Syarkevich (\u201cthe applicant\u201d), on 6 March 2006.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr D. Agranovskiy, a lawyer practising in the town of Elektrostal, the Moscow Region. The Russian Government (\u201cthe Government\u201d) were represented initially by Mr\u00a0G.\u00a0Matyushkin, Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr\u00a0M.\u00a0Galperin.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 22 April 2010 the applicant\u2019s complaints concerning excessive length of his pre-trial detention in the absence of relevant and sufficient reasons and the domestic authorities\u2019 failure to afford him an opportunity to examine several prosecution witnesses were communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1961 and lived until his arrest in the town of Yuzhno-Sakhalinsk, the Sakhalin Region.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicant\u2019s arrest and detention",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 3 April 2003 the applicant was apprehended in a flat with unregistered firearms in his possession. Four tied persons with traces of beatings, including Mr P., were discovered in a cloakroom of the flat. An investigator of the Sakhalin Regional police department drew up an arrest record.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On the following day the applicant\u2019s detention on remand was authorised. A week later the applicant was charged with a number of crimes, including organisation and leadership of an armed gang, several counts of aggravated kidnapping, extortion, robbery and fraud, as well as illegal possession of firearms.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicant\u2019s detention was further extended by the YuzhnoSakhalinsk Town Court and the Sakhalin Regional Court on thirteen occasions up until his conviction. When extending the applicant\u2019s detention, the domestic courts referred to the particular gravity and quantity of the charges against him; complexity of the criminal investigation and difficulties of jury trial; the applicant\u2019s liability to abscond, re-offend and interfere with the course of justice, given his personality and criminal record; significant volume of evidence presented by the defence during the trial. The courts also kept track of the course of the investigation and assessed investigative and operative measures planned by the prosecution, including arrests of the applicant\u2019s accomplices (which were still at liberty or had absconded in breach of the measure of restraint imposed on them and had been put on the wanted persons\u2019 list), complex expert examinations requiring participation of the applicant and the victims and examination of the case-file by the applicant and his accomplices.\u00a0The applicant\u2019s requests for release on bail, as well as his appeal complaints against the detention orders, were to no avail.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 21 April 2004 the applicant and his lawyers started studying the case file materials comprising nineteen volumes, 200-300 pages long each. On 7 September 2004 the Town Court set a time-limit for studying, affording the applicant additional twenty working days to complete it. On 29 December 2004 the case was referred to the Regional Court for trial.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Trial",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0On 6 April 2006 the Regional Court, by a jury verdict, found the applicant and six of his accomplices guilty as charged. On 12\u00a0May 2006 the Regional Court, relying on the jury verdict, sentenced the applicant to twenty-one years\u2019 imprisonment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0The applicant was found guilty, in particular, of an aggravated fraud, robbery, kidnapping and extortion in respect of Mr\u00a0L., a businessman from the Moscow Region. The jury found that in May 2001 the applicant had approached Mr L. under the pretence of being a car salesman. The applicant had promised Mr L. to sell him a car for approximately 600,000 Russian roubles (RUB). However, after Mr L. had transferred the money to an account indicated by the applicant, the latter had disappeared. In October 2002 the applicant contacted Mr\u00a0L., told him that he had just returned from Japan with his car and invited him to come to Sakhalin for it. On his arrival at the airport of Yuzhno-Sakhalinsk on 13 October 2002 Mr L. was met by Mr K., one of the applicant\u2019s accomplices, and taken to the applicant\u2019s country house where he was held until 6 November 2002, being subjected to beatings and extortion by the applicant and his gang.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0Neither Mr K., nor Mr L. were heard in open court. Mr K. had been found dead in a remand prison cell before the trial commenced. As for Mr\u00a0L., residing in the Moscow Region, the trial court attempted to secure his presence on several occasions by summoning him and ordering his escort to the court. In reply he informed the trial court about being unable to travel to Yuzhno-Sakhalinsk in view of his spinal disease and a medical contraindication to air travel. He submitted a number of documents in support, as well as a written notice in which he confirmed his pre-trial statements. Having regard to these circumstances, the trial court allowed the prosecution\u2019s request to read out Mr L. and Mr\u00a0K.\u2019s statements incriminating the applicant, despite the latter\u2019s objections.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The jury further established that in September and December 2002 and in March 2003 the applicant had organised an armed robbery and kidnapping of eight other victims, including Mr P. and had extorted a large sum of money in exchange for their freedom. Mr P. also was not heard in court as he was allegedly on vacation in Ukraine. Disregarding the applicant\u2019s objections, the Regional Court read out Mr P.\u2019s pre-trial statements against the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The applicant\u2019s lawyer appealed against the judgment of the Regional Court, complaining, among other matters, about the decision to read out pre-trial statements by Mr L., Mr P. and Mr K. On 14 November 2007 the Supreme Court of the Russian Federation upheld the judgment of the Regional Court, noting that it had correctly considered that reasons for the witnesses\u2019 absence had been extraordinary and that it had lawfully read out their pre-trial statements.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "14.\u00a0\u00a0For the relevant domestic law and practice, see Urazov v. Russia, no.\u00a042147/05, \u00a7\u00a047, 14 June 2016; Zherebin v. Russia, no. 51445/09, \u00a7\u00a7\u00a01625, 24 March 2016; Navalnyy and Ofitserov v. Russia, nos. 46632/13 and 28671/14, \u00a7\u00a079, 23\u00a0February 2016.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "15.\u00a0\u00a0The applicant complained, relying on Articles 5 and 6 of the Convention, that his pre-trial detention had been excessively long and unjustified. The Court considers that the complaint falls to be examined under Article 5 \u00a7 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be ... entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0The Government contested that argument. They submitted that the applicant\u2019s detention was warranted by a reasonable suspicion of his involvement in a number of particularly grave violent crimes. The domestic courts, when ordering and extending the applicant\u2019s detention, based themselves on a number of considerations, such as the applicant\u2019s personality, criminal history, his ties to the criminal underworld, his leading role in the crimes of which he had been accused and their nature, which, taken together, substantiated the risk of his absconding, reoffending, tampering with evidence and exerting pressure on victims and witnesses.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "17.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "18.\u00a0\u00a0The relevant general principles relating to the assessment of pre-trial detention from the standpoint of Article 5 \u00a7 3 of the Convention have been summarised in the case of Zherebin v. Russia (cited above, \u00a7\u00a7\u00a049-54).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0The Court observes at the outset that the applicant had been arrested in April 2003 and convicted by jury verdict in April 2006, thus spending in pre-trail detention three years. It further notes, and it was not disputed by the parties, that the applicant\u2019s detention was based on reasonable suspicion against him and that it not only persisted throughout the criminal proceedings but, moreover, was gradually enhancing, as the new episodes of the applicant\u2019s criminal activity came to light.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0When deciding on the issue of the applicant\u2019s detention the domestic authorities advanced a number of interrelated arguments for keeping him in custody, namely, the gravity of charges, the applicant\u2019s superior position in the organised criminal group, risk of absconding, reoffending and interfering with justice, as well as the complexity of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The Court accepts that the particular seriousness of the charges was one of the relevant factors for assessing the applicant\u2019s potential to abscond, reoffend or obstruct the course of justice. However, although the severity of the sentence faced is a relevant element in assessing the risk of an accused absconding or reoffending, the need to continue the deprivation of liberty cannot be assessed from a purely abstract point of view, taking into consideration only the gravity of the offence. Nor can continuation of the detention be used to anticipate a custodial sentence (see\u00a0Topekhin v. Russia, no. 78774/13, \u00a7\u00a0104, 10 May 2016, with further references). It is therefore necessary for the Court to examine whether this factor was complemented by other relevant grounds for the applicant\u2019s detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0The domestic courts have relied quite extensively on the reasonable allegation that the applicant and his co-defendants were members of the criminal gang, with the applicant playing a particularly important role within its structure. The Court recalls in this regard that the existence of a general risk flowing from the organised nature of the alleged criminal activities of an applicant may be accepted as the basis for his or her detention at the initial stages of the proceedings and in some circumstances also for subsequent prolongations of the detention. It is also accepted that in cases (as the present one), involving numerous accused, the process of gathering and hearing evidence is often a difficult task. In those circumstances, the Court considers that the need to obtain voluminous evidence from many sources, including nine victims, residing in the Moscow Region, nine thousand kilometers away from the place of the investigation, as well as the necessity to determine the facts and degree of the alleged responsibility of each of the co-accused, constituted relevant and sufficient grounds for the applicant\u2019s detention during the period of the investigation (see Podeschi v. San Marino, no. 66357/14, \u00a7 147, 13\u00a0April 2017, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0Moreover, the Court considers that in cases such as the present one concerning alleged organised criminal gangs, the risk that a detainee, if released, might bring pressure to bear on witnesses or other co-suspects, or otherwise obstruct the proceedings, is by the nature of things often particularly high (see, for example, Celejewski v. Poland, no.\u00a017584/04, \u00a7\u00a095, 4 May 2006). The Court is mindful, in this context, of the fact, that Mr\u00a0K., the applicant\u2019s co-accused, who had given incriminating statements against the applicant, was found dead in his prison cell and that some of the gang members absconded and were at liberty (see paragraphs 7 and 11 above). The Court, therefore, concludes that the risk of the applicant interfering with the course of justice and exerting pressure on the victims and witnesses was very high and it justified his pre-trial detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0In addition to the gravity of charges and the applicant\u2019s affiliation with the organised crime, the judicial authorities also took into consideration his personality and criminal record as additional factors substantiating the risks which the applicant would pose if released.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The Court further observes that the domestic courts had reasonable concerns that the applicant was likely to abscond. According to the applicant\u2019s own statements he had occasionally travelled to Japan and had stayed there for quite a long time (see paragraph 10 above). The applicant\u2019s unemployment also added weight to the Russian courts\u2019 finding that he posed a flight risk (see Topekhin, cited above, \u00a7 106).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0The Court therefore concludes that there were relevant and sufficient grounds for the applicant\u2019s detention pending investigation and trial. The assessment of these reasons, however, cannot be detached from the actual length of time the applicant spent in custody. Accordingly, it remains to be ascertained whether the judicial authorities displayed \u201cspecial diligence\u201d in the conduct of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0In the present case, the active stage of the investigation lasted for twelve months, which is quite reasonable, given the overall complexity of the case, the applicant\u2019s and his accomplices unwillingness to cooperate and taking into account that in the course of the investigation the applicant\u2019s further criminal activities were discovered, which required additional investigative measures. It took the applicant and his lawyers another six months to study the case-file comprising nineteen volumes, 200-300 pages long each. In the absence of any arguments to the contrary, the Court considers that this protraction could not be attributed to the authorities, especially given that his co-defendants generally completed studying the entire case-file in no more than three weeks (see, for similar reasoning, Mkhitaryan v. Russia, no. 46108/11, \u00a7 99, 5\u00a0February 2013). Lastly, the Court observes that the trial in the applicant\u2019s case have been completed in approximately fifteen months, a duration, which also seems reasonable, taking into account the objective difficulties of trial by jury, significant volume of evidence presented by the parties, the number of co-defendants, and the complexity of the case itself. The applicant did not argue that there had been any protractions in the conduct of the trial. The Court therefore concludes that the authorities displayed special diligence in handling the applicant\u2019s case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0Having regard to the above, the Court considers that there has been no violation of Article 5 \u00a7 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "29.\u00a0\u00a0The applicant complained under Article 6 \u00a7\u00a7 1 and 3(d) of the Convention that the trial judge had read out statements by the victims, Mr\u00a0L. and Mr\u00a0P., as well as those by late Mr K., the applicant\u2019s co-defendant, none of whom had been examined in open court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him; ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0The Government submitted that there had been a good reason for non-attendance of Mr L., Mr P. and Mr K. and that their statements had been neither sole nor decisive for the applicant\u2019s conviction, since they had been corroborated by other evidence, including statements by other victims and witnesses who had been examined at the trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "33.\u00a0\u00a0The Court reiterates that the guarantees in paragraph 3 (d) of Article\u00a06 are specific aspects of the right to a fair trial set forth in paragraph\u00a01 of this provision; it will therefore consider the applicant\u2019s complaints under both provisions taken together (see\u00a0Schatschaschwili v.\u00a0Germany [GC], no. 9154/10, \u00a7 100, ECHR 2015).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0Article 6 \u00a7 3 (d) refers to \u201cwitnesses\u201d, and, if interpreted strictly, should not be applied to other evidence. However, this term must be given an autonomous interpretation. It can also include victims (see\u00a0A.H. v.\u00a0Finland, no. 46602/99, \u00a7 41, 10 May 2007) and other persons testifying before the court (see Mirilashvili v. Russia, no. 6293/04, \u00a7 158, 11\u00a0December 2008).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court reiterates that the admissibility of evidence is primarily governed by the rules of domestic law. As a general rule, it is for the national courts to assess the evidence before them as well as the relevance of the evidence which defendants seek to adduce (see Popov v.\u00a0Russia, no.\u00a026853/04, \u00a7 176, 13 July 2006, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0In this regard, the Court has required that an applicant who complained that \u201che has not been allowed to question certain witnesses ... must ... support his request by explaining why it is important for the witnesses concerned to be heard and their evidence must be necessary for the establishment of the truth ...\u201d (see\u00a0Perna v. Italy\u00a0[GC],\u00a0no.\u00a048898/99, \u00a7\u00a029, ECHR 2003V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0The general principles to be applied in cases where a prosecution witness did not attend the trial and his or her statements were admitted as evidence were summarised by the Court in Schatschaschwili v.\u00a0Germany ([GC], no.\u00a0, ECHR 2015). The Court will therefore examine the present complaint in the light of these principles.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Non-attendance of the victim, Mr P.",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0In the case of Schatschaschwili v. Germany [GC] (cited above, \u00a7\u00a7\u00a0117-118), while examining the order of the three steps of the test formulated in Al-Khawaja and Tahery v. the United Kingdom ([GC], nos. 26766/05 and 22228/06, \u00a7\u00a0152, ECHR 2011), namely, the existence of a good reason for witness\u2019s non-attendance, probative value of the absent witness\u2019s statements and the existence of counterbalancing factors compensating witness\u2019s absence, the Grand Chamber has found that in a given case it may be appropriate to re-arrange their order, in particular if one of the steps proves to be particularly conclusive as to the fairness of proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0Turning to the circumstances of the present case, the Court observes, at the outset, that the statements by Mr P. were neither sole nor decisive evidence against the applicant, as they were corroborated by other evidence, including statements by three other victims who had been kidnapped and held in captivity together with Mr P. (see paragraph 12 above), as well as by the statements by the police officers who had released the victims and arrested the applicant. In such situation, the Court does not consider it necessary to establish whether there were good reasons for Mr P.\u2019s absence from the trial and whether there were sufficient counterbalancing factors in place to compensate for his absence. The significant amount of other direct, first-hand evidence supporting the pre-trial statements of Mr P., reduced to minimum any negative impact his absence might have had on the overall fairness of proceedings in the applicant\u2019s case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court concludes, therefore, that there has been no violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention on account of Mr P.\u2019s non-attendance and the applicant\u2019s inability to question him at the trial.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Non-attendance of the victim, Mr. L., and co-defendant, Mr K.",
+                                        "elements": [
+                                            {
+                                                "content": "41.\u00a0\u00a0The situation differs, however, as regards the absence of another victim, Mr L., and an applicant\u2019s accomplice, Mr K.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court is prepared to accept the existence of good reasons for their non-attendance, namely, the death of Mr K. and serious medical condition of Mr L. (see Schatschaschwili, cited above, \u00a7\u00a0119, with further references). However, it observes, that they were the only eye-witnesses confirming the applicant\u2019s involvement in the offences against Mr\u00a0L. Their statements were, thus, both sole and decisive evidence on which the relevant part of the applicant\u2019s conviction was based and there were no counterbalancing factors in place to compensate for their absence at the trial and for the difficulties caused to the defence by the admission of their untested statements as evidence (such as pre-trial confrontation interviews or an opportunity to put questions to Mr L. at the trial stage indirectly).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court also notes that the admitted confession statements by Mr\u00a0K., implicating the applicant in respect of the crimes against Mr L., were made by Mr K. at the pre-trial stage in his formal status as the applicant\u2019s co-defendant. The Court reiterates in this connection that a higher degree of scrutiny should be applied to assessment of such statements, because the position in which the accomplices find themselves while testifying is different from that of ordinary witnesses. They do not testify under oath, that is, without any affirmation of the truth of their statements which could have rendered them punishable for perjury for willfully making untrue statements. In such situations, for the guarantees of Article 6 of the Convention to be respected on account of the admissibility of a guilty plea from a co-accused, such a plea should only be admitted to establish the fact of a commission of a crime by a pleading person, and not the applicant, and a judge should make it clear to the jury that the guilty plea by itself did not prove that the applicant was involved in that crime (see Vladimir Romanov v. Russia, no. 41461/02, \u00a7 102, 24 July 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Court considers that, in these circumstances, the absence of an opportunity for the applicant to effectively challenge the statements by his co-accused, Mr K., and to examine the victim, Mr L., at any stage of the proceedings rendered the trial as a whole unfair.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Accordingly, there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention in this respect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVETNION",
+                        "elements": [
+                            {
+                                "content": "46.\u00a0\u00a0The applicant further raised a number of other complaints under Article 6 of the Convention about various aspects of his trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "47.\u00a0\u00a0The Court has examined the application and considers that, in light of all the material in its possession and in so far as the matters complained of are within its competence, these complaints do not meet the admissibility criteria set out in Articles 34 and 35 of the Convention or do not disclose any appearance of a violation of the rights and freedoms enshrined in the Convention or the Protocols thereto.",
+                                "elements": []
+                            },
+                            {
+                                "content": "48.\u00a0\u00a0It follows that this part of the application must be rejected in accordance with Article 35 \u00a7 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "49.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0The applicant claimed 1,550,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The Government considered the claim excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court does not consider it necessary to make an award in respect of non-pecuniary damage in the circumstances of the case (compare Ibrahim and Others v. the United Kingdom [GC], nos. 50541/08 and 3 others, \u00a7\u00a0315, ECHR 2016). It further refers to its settled case-law to the effect that when an applicant has suffered an infringement of his rights guaranteed by Article 6 of the Convention, he should, as far as possible, be put in the position in which he would have been had the requirements of that provision not been disregarded, and that the most appropriate form of redress would, in principle, be the reopening of the proceedings, if requested (see, mutatis mutandis, \u00d6calan v. Turkey [GC], no.\u00a046221/99, \u00a7 210 in fine, ECHR 2005IV, and Popov v. Russia, no.\u00a026853/04, \u00a7 263, 13 July 2006). The Court notes, in this connection, that\u00a0Article\u00a0413 of the Russian Code of Criminal Procedure provides the basis for the reopening of the proceedings if the Court finds a violation of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0The applicant did not claim costs and expenses. Accordingly there is no call to make an award under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints concerning excessive duration of the applicant\u2019s pre-trial detention in the absence of relevant and sufficient reasons and his complaint concerning inability to examine witnesses against him admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 5 \u00a7 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention on account of the applicant\u2019s inability to question Mr P.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention on account of the applicant\u2019s inability to examine or have examined Mr K. and Mr L.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that the finding of a violation constitutes in itself sufficient just satisfaction for any non-pecuniary damage sustained by the applicant.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 28 November 2017, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Helen Keller",
+            "role": "president"
+        },
+        {
+            "name": "Pere Pastor Vilanova",
+            "role": "judges"
+        },
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "judges"
+        },
+        {
+            "name": "Fato\u015f Arac\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF SYARKEVICH v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-178940.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:1128JUD001021606",
+    "externalsources": [],
+    "extractedappno": [
+        "10216/06",
+        "42147/05",
+        "51445/09",
+        "46632/13",
+        "28671/14",
+        "78774/13",
+        "66357/14",
+        "17584/04",
+        "46108/11",
+        "9154/10",
+        "46602/99",
+        "6293/04",
+        "26853/04",
+        "48898/99",
+        "26766/05",
+        "22228/06",
+        "41461/02",
+        "50541/08",
+        "46221/99"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-178940",
+    "judgementdate": "28/11/2017 00:00:00",
+    "kpdate": "28/11/2017 00:00:00",
+    "kpthesaurus": [
+        "448",
+        "227",
+        "404",
+        "445",
+        "76",
+        "136",
+        "295"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "6-3-d",
+        "5-3",
+        "6-1",
+        "5",
+        "6"
+    ],
+    "parties": [
+        "SYARKEVICH",
+        "RUSSIA"
+    ],
+    "rank": "2115.76220703125",
+    "representedby": [
+        "AGRANOVSKIY D."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "470132",
+    "typedescription": "15"
+}

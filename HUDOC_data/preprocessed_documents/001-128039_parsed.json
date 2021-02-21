@@ -1,0 +1,948 @@
+{
+    "__articles": "6;6-1;10;10-1;10-2;14;14+10;35;41",
+    "__conclusion": "Remainder inadmissible;Violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Civil rights and obligations;Fair hearing;Adversarial trial;Equality of arms);No violation of Article 10 - Freedom of expression -{General} (Article 10-1 - Freedom of expression);No violation of Article 14+10 - Prohibition of discrimination (Article 14 - Discrimination) (Article 10 - Freedom of expression -{General});Pecuniary damage - claim dismissed;Non-pecuniary damage - award",
+    "applicability": "41",
+    "appno": "25330/07",
+    "article": [
+        "14",
+        "10",
+        "35",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Civil rights and obligations",
+                "Fair hearing",
+                "Adversarial trial",
+                "Equality of arms"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom of expression"
+            ],
+            "element": "No violation of Article 10 - Freedom of expression -{General}",
+            "type": "no-violation"
+        },
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+10 - Prohibition of discrimination",
+            "mentions": [
+                "Article 10 - Freedom of expression -{General}"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+10 - Prohibition of discrimination",
+            "mentions": [
+                "Article 10 - Freedom of expression -{General}"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-128039.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 25330/07) against the Republic of Lithuania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Lithuanian national, Mr Alvydas Jok\u0161as (\u201cthe applicant\u201d), on 6 June 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Lithuanian Government (\u201cthe Government\u201d) were represented by their Agent, Ms E.\u00a0Baltutyt\u0117.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that his right to freedom of expression had been violated because he had been discharged from the military on account of public statements he had made (Article 10 of the Convention), which had also amounted to discrimination on the basis of opinion (Article 14, in conjunction with Article 10). The applicant also complained that the domestic courts which heard those complaints were unfair, in breach of Article 6 \u00a7 1 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 20 April 2009 the application was communicated to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article 29 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The applicant",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicant was born on 19\u00a0June 1956 and lives in Try\u0161kiai.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0He joined the Lithuanian army during the 1990s. In 2003 and 2004 respectively the Commander of the Armed Forces awarded him the \u201cExemplary Service\u201d and \u201cMerit\u201d medals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On 5\u00a0August 2002 the Commander of the Armed Forces and the applicant, who had the military rank of senior non-commissioned officer (vyriausiasis puskarininkis), concluded a five-year professional service contract. That contract was to come to an end on 5\u00a0August 2007. The contract also stipulated that in certain circumstances and in accordance with the rules provided for by the Law on Military Service (hereinafter \u2013 \u201cLMS\u201d, see paragraph 43 below), it could be rescinded even before that date (point 6 of the applicant\u2019s contract).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0In 2003 the applicant graduated from the College of Management, Law and Languages of \u0160iauliai Region and obtained professional qualifications as a lawyer. These were higher-level non-university studies (auk\u0161tosios neuniversitetin\u0117s studijos).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0By order of the Commander of the Armed Forces of 18 April 2003 the applicant was assigned military code 42701 as a human resources specialist.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 16\u00a0August 2005 the applicant\u2019s duties changed: he was transferred to the post of assistant on legal matters (vado pad\u0117j\u0117jas teis\u0117s klausimais) to the Commanding Officer of the Grand Duke Vaidotas battalion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 1\u00a0March 2006 the daily Kauno Diena published an article \u2018War without constitutional rights\u2019 (Karas be konstitucini\u0173 teisi\u0173), which was written after the applicant had approached the newspaper with criticism of the new Army Disciplinary Statute, adopted by the Lithuanian Seimas almost unanimously a couple of months previously. In the article the applicant argued that the new Disciplinary Statute restricted a serviceman\u2019s defence rights when he was the subject of disciplinary proceedings. In particular, the Statute was vague on servicemen\u2019s right to acquaint themselves with the substance of any internal investigation report against them. The applicant also claimed that during disciplinary proceedings a serviceman had only a limited opportunity to have recourse to legal representation, which in his view was particularly harmful, since few servicemen had the proper legal knowledge to defend themselves in person. The article further stated that the applicant, discontented with the new Statute, had conveyed his observations and suggestions to the President of the Republic, asking the latter to veto the Statute. According to Presidential office sources, the President took account of the applicant\u2019s proposals but decided to promulgate the Statute anyway. The Chairman of the Committee of National Security of the Seimas commented that the Committee had received numerous suggestions in connection with the text of the Statute, all of which had been given serious consideration before the Statute was adopted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 1\u00a0March 2006 the applicant\u2019s superiors initiated an internal investigation into the applicant\u2019s actions as regards his communication with journalists from the daily Kauno Diena and contact with the State President.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 13\u00a0March 2006 Kauno Diena published a new article, \u2018Criticism of the Statute angers the Ministry [of Defence] (Statuto kritika u\u017er\u016bstino ministerij\u0105)\u2019. The article noted that the Ministry of Defence had initiated an internal investigation after the publication of the first article. It further quoted the applicant as stating that, disappointed with the Seimas for adopting the new Disciplinary Statute and with the State President for promulgating it, he had a right to show initiative as a citizen and, under the European Convention on Human Rights, to impart information and ideas unobstructed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The internal investigation into the actions of the applicant was terminated on 22\u00a0March 2006. It was established that the applicant had had prior permission from his superiors to address the State President. However, he had not obtained permission to contact the newspaper. The army investigator nevertheless considered that as cited in the article \u2018War without constitutional rights\u2019 the applicant had been expressing only his own personal opinion, and had not disseminated any official information. Consequently, Article 21 \u00a7 3 of LMS applied, pursuant to which soldiers had a right to express their opinions unless there was a conflict with their duties as soldiers or with military discipline. No disciplinary penalties were imposed on the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 11\u00a0May 2006 the applicant\u2019s superiors concluded that the applicant had failed to perform his duties as a legal advisor, namely he had recommended the commanding officer of his battalion to grant childcare leave to another soldier, R.V., in breach of applicable legal norms. The army imposed upon the applicant a disciplinary penalty (drausmin\u0119 nuobaud\u0105), namely a reprimand (papeikim\u0105).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On appeal against this penalty, on 25\u00a0April 2008 the Supreme Administrative Court held that the applicant had acted lawfully and that his recommendation that R.V. be granted childcare leave was lawful. The disciplinary penalty was quashed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 19 June 2006 the applicant\u2019s superiors signed an order dismissing him from the position of battalion commander\u2019s assistant on legal matters with effect from 27\u00a0June 2006, on the basis of Article 45 \u00a7 4 of LMS. The order further stipulated that by 28\u00a0June 2006 documents discharging the applicant from the army should be prepared and submitted to the Minister of Defence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 27\u00a0June 2006 the applicant was dismissed from the position of battalion commander\u2019s legal advisor on the ground that he had reached retirement age, in accordance with Articles 38 \u00a7 1 (7) and 45 \u00a7 4 of LMS.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 3\u00a0July 2006 the Ministry of Defence issued a decision to terminate the applicant\u2019s professional military service contract and to transfer him to the army reserve. The order was based on Articles 38 \u00a7\u00a01 (7) and 45 \u00a7\u00a04 (2) of LMS, whereby a serviceman of the applicant\u2019s statutory rank had to be transferred to the reserve when he reached fifty years of age.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 22\u00a0July 2006 the applicant appealed to the Vilnius Regional Administrative Court, asking it to quash the decision of 3\u00a0July 2006 and to reinstate him into professional military service. The applicant also claimed that he had been discriminated against because he had defended another serviceman (see paragraph 15 above) and because of his views as expressed in the publication in Kauno Diena, in breach of Article 14 of the Convention. The applicant asserted that there were hundreds of soldiers in the Lithuanian army who did not have speciality codes allowing them to serve until 55 years of age. However, they continued to serve in the army until the expiry of their military service contracts, even though they had already reached retirement age. The applicant thus requested the court, on the basis of Article 57 \u00a7 4 of the Law on Administrative Proceedings (see paragraph 44 below), to oblige army officials to produce certain documents regarding his dismissal and regarding the situation of four servicemen, R.L., V.S., J.\u0160. and M.I., who to his knowledge had continued to serve in the military in the same Grand Duke Vaidotas battalion despite the fact that they had reached retirement age. He noted that those documents were in the custody of the battalion commander and he could not obtain them on his own. Lastly, the applicant acknowledged that in 2005 the Minister of Defence had changed the military specialist codes and he had been transferred to other duties, those of legal specialist. All officers with lawyer\u2019s duties were given the code of legal specialist, but the applicant, a non-commissioned officer, had not been given a legal specialist code. This meant that at that time he had no legal specialist code at all.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The administrative courts found that under the applicable legislation the applicant was obliged before he could bring a court action to exhaust other non-judicial remedies, namely to lodge an appeal with the Minister of Defence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The applicant then appealed to the Minister of Defence against his discharge from the army.\u00a0On 28\u00a0August 2006 the Ministry of Defence held that the decision to discharge the applicant from the army was lawful, and dismissed his appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 23\u00a0October 2006 the Vilnius Regional Administrative Court dismissed as unfounded the applicant\u2019s complaints regarding the annulment of his professional military service contract and his discharge from the army. The court observed that under Articles 38 \u00a7\u00a01 (7) and 45 \u00a7\u00a04 (2) of LMS a serviceman must be discharged from the army once his military service contract expired or (arba) he reached retirement age, which in the applicant\u2019s case was fifty years. The applicant had reached the age of fifty on 19\u00a0June 2006.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The court further noted that under Article 45 \u00a7 6 of LMS, soldiers who had been holding military specialist posts under the Minister of Defence\u2019s decision of 13\u00a0June 2005 could be discharged on reaching 55 years of age. However, the applicant\u2019s duties of a legal affairs assistant (vado pad\u0117j\u0117jas teis\u0117s klausimais) to the commander of the Grand Duke Vaidotas battalion had not been included in the list approved by that decision. Accordingly, he could not rely on the age-related exception. In addition, in another case the Supreme Administrative Court had already held that reaching retirement age was the ground for discharge of a soldier from the military, notwithstanding whether or not his military service contract had expired yet (ruling of 12\u00a0March 2004 in case no.\u00a0A2-262-04).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The court further observed that Article 46 of LMS gave the Minister of Defence discretion to extend, in the interests of the military, the professional military service of a soldier who had reached the age when he or she should be discharged. However, this was a matter of discretion, and placed no obligation on the Minister.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The court did not address the applicant\u2019s argument that four other servicemen of his unit had been allowed to continue military service despite having reached the age of discharge. Nor did it reply to the applicant\u2019s request for the military service records of those four servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0In the meantime, the applicant also lodged a complaint with the Ombudsman, challenging his discharge from the army. On 2\u00a0November\u00a02006 the Ombudsman refused to examine the complaint on the ground that an identical complaint was being examined by the administrative courts, and the law did not allow the Ombudsman to deal with such complaints.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 3\u00a0November 2006 the applicant appealed to the Supreme Administrative Court, reiterating his arguments of unlawful dismissal and discrimination. His appeal statement indicates that he reiterated his request that his superiors in the Grand Duke Vaidotas battalion be ordered to produce certain documents from the military service records of the four\u00a0servicemen mentioned above, who he stated had continued serving in the same unit as the applicant despite having reached retirement age. The applicant asserted that discrimination would be easy to prove if the court would help him to obtain the military service records of those four servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0As regards the military specialist codes, he noted that in August\u00a02002 he had been granted specialist code 0132 on the basis of the military code system established by the Minister of Defence in 1998, thus allowing him to serve until the age of 55. After the Minister of Defence amended the military code system in 2002 the applicant was given military specialist code 42701. When in 2005 the Minister of Defence again changed the system of military specialist codes and the applicant was transferred to the post of legal specialist, no specialist code was assigned to him. The applicant observed that officers who had legal posts had been given the code of legal specialist, but that he, as a non-commissioned officer, did not have such a code. Above all, \u201cat present no specialist code at all had been granted to him\u201d (\u0161iuo metu i\u0161 viso man n\u0117ra suteiktas joks specialisto kodas).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Lastly, the applicant strongly asserted that the lower court had erred in interpreting and applying Article 38 and other provisions of LMS.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0By a decision of 22\u00a0May 2007 the Supreme Administrative Court dismissed the appeal. In setting out the reasons it observed that pursuant to Article 38 \u00a7 1 (7) of LMS, a serviceman had to be dismissed from military service once his contract had expired or he had reached the age of discharge, unless the duration of his military service had been extended. In the applicant\u2019s case, as a non-commissioned officer, the age of discharge for him was 50. The court also emphasised that that legal norm was imperative, and applied to contracts which were still valid, and not to those which had already expired (teis\u0117s norma skirta reglamentuoti teisinius santykius d\u0117l galiojan\u010dios, o ne pasibaigusios karo tarnybos sutarties nutraukimo). This interpretation also followed from Article 31 \u00a7 4 of LMS, which provided that a contract could be annulled ahead of time in cases provided for in Article 38 of that Law. Moreover, the possibility of the applicant\u2019s military service contract being rescinded had also been mentioned in the contract itself (see paragraph 7 above). Taking into account the imperative nature of Article 38 \u00a7 1 (7), it was the army command\u2019s duty, and not a right, to rescind a contract once the conditions mentioned in that provision had been met. Furthermore, Article 46 of LMS provided only discretion for and not an obligation on the Minister of Defence to extend a serviceman\u2019s military service.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0The Supreme Administrative Court also noted that according to his duties the applicant did not fall into the sphere regulated by Article 45 \u00a7\u00a7 5 and 6 of the Law, that is he did not have military specialist status. Moreover, exceptional extension of term of service under Article 46 had not been applied to him. Consequently, the facts of the case fully matched the circumstances listed in Articles 38 \u00a7 1 (7) and 45 \u00a7 4 (2) of the Law. The first-instance court\u2019s decision was thus fully upheld.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The appellate court did not address the applicant\u2019s request for the supplementary documents to be obtained, nor did the court deal with the allegation of discrimination against the applicant because of his service status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0In addition to the administrative proceedings concerning his discharge from military service, the applicant also instituted another set of somewhat linked proceedings concerning his dismissal from Vaidotas battalion, which formally preceded the discharge from military service. He reiterated the arguments expressed in the earlier proceedings. In relation to freedom of expression, the applicant merely mentioned that he had been persecuted for his opinions because of the legal decision he had issued which was favourable towards another serviceman (see paragraph 15 above). It also appears from the summary of the applicant\u2019s complaints in the record of the court decision of 12 July 2007 (see the next paragraph), that this time the applicant had made no reference to the publication in Kauno Diena, but insisted that he had been discriminated against because of his social status as a non-commissioned officer vis-\u00e0-vis the commissioned officers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 12\u00a0July 2007 the Vilnius Regional Administrative Court dismissed the applicant\u2019s claim, fully upholding the reasoning that, in accordance with Articles 38 \u00a7 1 (7) and 45 \u00a7 4 (2) of LMS, the army was under an obligation to discharge him from the military because of his age.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The court also noted that the qualifications required for a legal post had been established by the Minister of Defence on 13\u00a0June 2005. One of the obligatory requirements was university-level higher education in law (auk\u0161tasis universitetinis teisinis i\u0161silavinimas). Accordingly, the applicant was not qualified to be appointed to a legal post, because in 2003 he had graduated from \u0160iauliai College of Law and Management, from the programme of higher-level non-university law studies (auk\u0161t\u0173j\u0173 neuniversitetini\u0173 teis\u0117s studij\u0173 programa).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0As regards the alleged discrimination against non-commissioned officers vis-\u00e0-vis commissioned officers, the court observed that different requirements were applicable to soldiers of different ranks to reflect their experience and qualifications, as had been established in Article 52 \u00a7 1 of LMS. Similarly, by a ruling of 28\u00a0October 1992, no.\u00a0811, the Government had approved the Regulations on Military Service (Tarnybos statutas), point\u00a011 of which established that all Lithuanian military officers are in command of soldiers and non-commissioned officers (visi karininkai yra kareivi\u0173 ir puskarininki\u0173 ir liktini\u0173 vir\u0161ininkai). Given that legal acts established different social status for officers and non-commissioned officers, the same requirements could not apply to both. The court thus held that the applicant\u2019s argument that he had a right to serve until 55 years of age and was not to be discharged from the army was based only on his own ideas and erroneous interpretation of the law. Lastly, the court dismissed the applicant\u2019s claim that he had been persecuted for his opinions, having concluded that that claim was based only on the applicant\u2019s own suppositions and guesses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The applicant appealed, arguing that he had been persecuted because of his opinion on whether to grant childcare leave to another soldier. It appears from the transcript of the hearing of his complaints in the appellate court decision that the applicant did not mention the publication in the Kauno Diena newspaper.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0On 6\u00a0May 2008 the Supreme Administrative Court dismissed the appeal, noting that the applicant\u2019s claim had already been decided in another administrative case, by a decision of 22\u00a0May 2007 (see paragraphs 27 and\u00a028 above). The court confirmed that Article 38 \u00a7 1 (7) of LMS provided for two alternatives when a soldier had to be discharged from the army: when his contract expired or (emphasised by the appellate court) when he reached the age stipulated in Article 45 \u00a7 4 of that Law. Accordingly, once a serviceman reached the retirement age, the army had an obligation, and not a right, to discharge him. The court also noted that it was free to assess evidence to establish the circumstances of the case. However, the applicant had not provided any evidence confirming that he had been persecuted for the opinion he had given on the grant of childcare leave to another soldier.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The applicant has been receiving a military pension since 4\u00a0July\u00a02006.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The four servicemen who served in the same Grand Duke Vaidotas battalion as the applicant",
+                                "elements": [
+                                    {
+                                        "content": "36.\u00a0\u00a0It appears from the parties\u2019 explanations and the documents presented that the situation of the four servicemen whom the applicant had mentioned in his complaints of discrimination to the administrative courts (see paragraphs 19 and 25 above), was as follows.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0The five-year professional military service contract with 46-year-old junior sergeant (jaunesnysis ser\u017eantas) M.I. was signed (by extending a previous contract) on 16\u00a0January 2002. His military rank and the requirements of Article 45 \u00a7 4 (1) of LMS stipulate that the serviceman was to be discharged at the age of 40. However, from 2000 M.I. held a military specialist post as a weaponry specialist, which allowed him to serve until the age of 55 under Article 45 \u00a7 6 of that Law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0The five-year professional military service contract with 49-year-old corporal (grandinis) J.\u0160. was signed (by extending a previous contract) on 16 January 2002. His military rank and the requirements of Article 45 \u00a7\u00a04\u00a0(1) of the LMS stipulated that the serviceman was to be discharged at the age of 40. However, from 1999 J.\u0160. had a military specialist post as a motor repairman and electrician, which allowed him to serve until the age of 55. The contract with the serviceman was later extended until 8 June 2007, his 55th birthday. J.\u0160. was finally discharged from the army on 21\u00a0June\u00a02007.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0The six-year professional military service contract with 38-year-old junior sergeant V.S. was signed (by extending a previous contract) on 25\u00a0December 2001. Her rank and the requirements of Article 45 \u00a7 4 (1) of LMS stipulated that she could serve until the age of 40. In addition, in 2000, 2003 and 2005 she was granted specialist status in accounting and human resources management.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0The five-year professional military service contract with 42-year-old corporal R.L. was signed (by extending a previous contract) on 16\u00a0January\u00a02002. Her rank of corporal and the requirements of Article 45 \u00a7\u00a04 (1) of LMS stipulated that she could serve until the age of 35. However, in 2000 she had been granted line specialist status (rikiuot\u0117s specialist\u0117), which allowed her to serve until the age of 55. Moreover, in 2006 she had been promoted to the rank of senior sergeant, and thus could serve until the age of 50.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The situation of two other servicemen",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government provided the Court with two additional examples where servicemen were discharged from professional military service on the ground of age while they still had valid contracts. They firstly noted senior navigator air force major V.\u017d., born in 1951, whose contract was valid until October 2005. At the age of 52 he was honourably retired from the army in December 2003, on the basis of Articles 38 \u00a7\u00a01 (7) and 45 \u00a7 4 (6) of LMS having reached the statutory age, which is 46 for a major. However, it appears from the documents before the Court that he was entitled to serve until the age of 55 because he was a senior navigator and thus a specialist, as provides Article 45 \u00a7 6 of LMS.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The Government also referred to the case of senior lieutenant L.P., born in 1960. He had a five-year military service contract signed in March\u00a02001. In accordance with Articles 38 \u00a7 1 (7) and 45 \u00a7 4 (4) of LMS, a person of L.P.\u2019s military rank had to be discharged at the age of 40. However, in 1999 he had been granted specialist status, that of supply officer (apr\u016bpinimo karininkas), and thus could serve until 55. In June 2002 L.P. had been transferred to a new post which was no longer included in the list of military specialists. L.P. was discharged on the basis of age in March\u00a02003, when he was 43 years old.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "43.\u00a0\u00a0In Lithuania professional military service is regulated by the Law on the Organisation of the National Defence System and Military Service (Kra\u0161to apsaugos sistemos organizavimo ir karo tarnybos \u012fstatymas, \u201cthe Law on Military Service\u201d or \u201cLMS\u201d). At the time relevant to the instant case, the law read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 21.\u00a0\u00a0General serviceman status",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0A serviceman shall be a defender of the State of Lithuania.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0A serviceman\u2019s service shall require a special relationship of loyalty to the State, which shall be regulated by laws and other legal acts. The status of a serviceman shall be specified by this Law and other laws, statutes and legal acts regulating the activities of the Army and military service. With the exception of the cases specified by laws and other legal acts, the laws and other legal acts regulating employment and civil service relations shall not apply to servicemen.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Servicemen shall exercise the human rights and freedoms guaranteed by the Constitution of the Republic of Lithuania. Exercise by servicemen of the rights to ... dissemination of information and expression of opinion may be restricted by laws and statutes based on the law only to the extent that is necessary for the performance of a serviceman\u2019s duties and to ensure military discipline and obedience as well as to fulfil the requirements of service ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 31.\u00a0\u00a0The professional military service contract",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0A professional military service contract is concluded between the Ministry of Defence and a citizen of the Republic of Lithuania: the Ministry of Defence accepts a person into professional military service and the citizen pledges to fulfil his service obligation in accordance with the conditions and procedures established in the Law and other legal acts, and to perform all duties ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The contract may be terminated ahead of time in the circumstances set forth in Articles 37 and 38 of this Law.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 36.\u00a0\u00a0Restrictions on those engaging in military service",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Servicemen in active service shall be prohibited from participating in political activities, including:",
+                                "elements": []
+                            },
+                            {
+                                "content": "1)\u00a0\u00a0membership of a political party or organisation ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3)\u00a0\u00a0making political statements, articles or speeches publicly voicing disagreement with policies declared and implemented by the democratically elected government of the State (the Seimas, the President of the Republic, and the Government) or publicly raising political demands to the government of the State ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 38.\u00a0\u00a0Grounds for termination of a professional military service contract or a volunteer military service contract",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0A professional military service contract or a volunteer military service contract must be terminated (turi b\u016bti nutraukiama) and/or a serviceman must be discharged from the service in the national defence system when ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "6)\u00a0\u00a0a serviceman in professional military service violates the requirements and restrictions of Article 36 of this Law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "7)\u00a0\u00a0the term of validity of a professional military service contract or a volunteer military service contract expires or the serviceman reaches the age specified in paragraph 4 of Article 45 ... of this Law, where the period of service has not been extended in accordance with the established procedure ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The right to terminate professional military service contracts or volunteer military service contracts on the grounds provided for in this Article shall be vested in the Minister of Defence or the Commander of the Armed Forces and other commanders or officials authorised by him.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 45.\u00a0\u00a0Transfer to the reserve of servicemen in professional military service",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0When a professional military service contract is terminated on the grounds provided for in Articles 37 and 38 of this Law (...), or when the term of validity of the professional military service contract expires and is not extended, a serviceman shall be dismissed from office, removed from duties and discharged from professional military service within no more than fourteen calendar days ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0With the exception of the servicemen indicated in paragraphs 5 and 6 of this Article, servicemen in professional military service shall be transferred to the reserve on reaching the following age:",
+                                "elements": []
+                            },
+                            {
+                                "content": "1)\u00a0\u00a0those with a rank lower than senior sergeant [corporal falls into this category]: 40 years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "2)\u00a0\u00a0those with a rank between senior sergeant and non-commissioned officer (inclusive): 50 years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "3)\u00a0\u00a0those with the rank of lieutenant: 35 years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "4)\u00a0\u00a0those with the rank of senior lieutenant: 40 years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "5)\u00a0\u00a0those with the rank of captain: 43 years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "6)\u00a0\u00a0those with the rank of major: 46 years ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Military chaplains may, regardless of their current rank, be transferred to the reserve upon reaching the age of 60, and the chief military chaplain of the Army on reaching 65.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0Servicemen in professional military service who hold military specialist positions on the list of military specialities as approved by an order of the Minister of Defence may be transferred to the reserve on reaching the age of 55.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 46.\u00a0\u00a0Extension of service for servicemen who have reached the age of transfer from professional military service to the reserve",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn some cases, the Minister of Defence may, taking into account the needs of the national defence system, extend professional military service for a serviceman up to the rank of colonel who has reached the age specified in paragraph 4 of Article 45 of this Law under a fixed-term contract on professional military service for a period not exceeding two years (or two extensions for a period of one year each). Upon the expiry of this term, the Minister of Defence may further extend professional military service for a period not exceeding two years under such a contract, solely for officers up to the rank of major.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 48.\u00a0\u00a0Investigations of military service disputes",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In accordance with procedures established by the Minister of Defence, disputes regarding acceptance for military service, removal from duty, transfer to other duty assignments, promotion, and extension of contracts, shall be investigated. Decisions may be appealed against through the chain of command up to the Minister of Defence. Courts shall not try these disputes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0If a professional or volunteer serviceman believes that his dismissal from military service is unlawful under the procedure and conditions established by the Military Discipline Statute, he may lodge a complaint with a higher commander or official, up to the Minister of Defence. The decision of the Minister of Defence may be appealed against to the administrative court within one month of receipt of the decision or of the announcement thereof.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0If the court determines that a professional or volunteer serviceman has been dismissed from service not in compliance with the provisions of this Law, the court may reinstate that serviceman in professional or volunteer military service or place him in the temporary personnel reserve of professional military service. The serviceman is to receive back pay for the period of his imposed absence from the service...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0If an individual is dismissed from professional military service on the basis of the provisions of this Law but the court decides that the dismissal procedure established by legal acts has not been complied with, the court may not reinstate the serviceman into professional military service or change the basis of his dismissal; however, the court may award monetary compensation equal to up to three months\u2019 pay to the professional military serviceman, irrespective of whether or not severance pay was due and has been paid.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 52.\u00a0\u00a0Military ranks",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Military ranks are established in order to regulate relations among servicemen and indicate their skill and service experience. Only active military and reserve servicemen registered in the National Defence System and those retired from service may have military ranks.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Servicemen are grouped by ranks as:",
+                                "elements": []
+                            },
+                            {
+                                "content": "1)\u00a0\u00a0soldiers;",
+                                "elements": []
+                            },
+                            {
+                                "content": "2)\u00a0\u00a0sergeants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "3)\u00a0\u00a0senior non-commissioned officers;",
+                                "elements": []
+                            },
+                            {
+                                "content": "4)\u00a0\u00a0junior officers;",
+                                "elements": []
+                            },
+                            {
+                                "content": "5)\u00a0\u00a0senior officers;",
+                                "elements": []
+                            },
+                            {
+                                "content": "6)\u00a0\u00a0generals and admirals.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "44.\u00a0\u00a0The Law on Administrative Proceedings at the relevant time stipulated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 57.\u00a0\u00a0Evidence",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Evidence in an administrative case consists of all factual data found admissible by the court which hears the case and on the basis of which the court finds, according to the procedure established by law, that there are circumstances which justify the claims and rebuttals of the parties to the proceedings and other circumstances which are relevant to the fair disposition of the case, or that there are no such circumstances.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The above-mentioned factual data shall be established with the help of the following means: statements by the parties to the proceedings and their representatives, witness statements, explanations by specialists and expert opinions, physical evidence, documents, and other written, audio and visual evidence ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The evidence shall be submitted by the parties to the proceedings and other participants in the proceedings. As necessary, the court may advise the said persons to submit additional evidence, or at the request of these persons or on its own initiative compel the production of the required documents and demand that officials provide explanations ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0No evidence shall have for the court any value set in advance. The court shall assess the evidence disinterestedly on the basis of scrupulous, comprehensive and objective review of all the circumstances of the case on the basis of the law as well as the criteria of justice and reasonableness.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 81.\u00a0\u00a0Comprehensive and objective review of the circumstances of\u00a0the\u00a0case",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cWhen hearing administrative cases judges must take an active part in the examination of evidence, establish all the circumstances relevant to the case, and make a comprehensive and objective review of the said circumstances.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "45.\u00a0\u00a0The list of military specialities (karini\u0173 specialybi\u0173 s\u0105ra\u0161as), approved by the Minister of Defence on 13\u00a0June 2005, mentions \u201clawyer\u201d as a speciality open to an \u201cofficer\u201d. A prerequisite for the lawyer speciality is legal education to university level.",
+                                "elements": []
+                            },
+                            {
+                                "content": "46.\u00a0\u00a0As regards domestic case-law concerning the practical application of Article 38 \u00a7 1 (7) of LMS, on 22 December 2003 in case no. A11-1275/2003 the Supreme Administrative Court pointed out that that provision linked the age reached by the serviceman with the requirement for his professional military service contract to be terminated and for him to be discharged from professional military service. The court also indicated that dismissal of a serviceman because of his age was linked simply to age, and not to the rescission of the military service contract (kario atleidimas i\u0161 pareig\u0173 d\u0117l nustatyto am\u017eiaus siejamas su pa\u010diu nustatyto am\u017eiaus su\u0117jimo faktu, o ne su sutarties nutraukimo faktu).",
+                                "elements": []
+                            },
+                            {
+                                "content": "47.\u00a0\u00a0On 12 March 2004 in case no. A2-262-04 the Supreme Administrative Court confirmed its position that Article 38 \u00a7 1 (7) of LMS was the ground for discharge of a soldier from military service because of age reached, notwithstanding whether or not his military service contract had expired yet.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "48.\u00a0\u00a0The applicant complained that the administrative court proceedings concerning his dismissal from the army were unfair. He relied on Article 6 \u00a7\u00a01 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The applicant argued that the Vilnius Regional Administrative Court and the Supreme Administrative Court, in their decisions of 23\u00a0October\u00a02006 and 22 May 2007 (see paragraphs 22, 27 and 28), had been partial and unfair, in that they had ignored his procedural rights. Given that the essence of his case concerned allegedly unlawful dismissal from military service on a discriminatory basis, to fully present his case the applicant had asked both courts to order his battalion\u2019s commanding officers to provide evidence, which he was not able to obtain on his own, concerning four\u00a0soldiers who had served in the same military unit. If reaching a particular age was an absolute ground for dismissal from military service, those four servicemen should already have been dismissed on the same basis, that is, their age, moreover this should have happened much earlier than when the applicant was dismissed. However, the courts simply ignored the request, without even giving reasons for refusal. The applicant thus considered that there was a breach of his right to adduce evidence which was essential to a fair hearing of his claims of discrimination for his views and ideas.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "50.\u00a0\u00a0The Government firstly submitted that Article 6 \u00a7 1 of the Convention was not applicable to the proceedings regarding the applicant\u2019s discharge from professional military service. Those proceedings concerned neither the traditional category of civil servants, nor did they concern an ordinary labour dispute relating to salaries, allowances or similar entitlements. The Government thus took the view that the nature of the responsibilities of those serving in the armed forces of the State involved a special bond of trust and loyalty and exercise of public power. The State therefore enjoyed a wide margin of appreciation regarding discharge from the military and extension of military service contracts. It followed that disputes between the State and its military personnel concerning the application of the provisions of the domestic law on discharge from professional military service should not be regarded as \u201ccivil\u201d within the meaning of Article 6 \u00a7 1, and thus should fall outside the Court\u2019s competence ratione materiae.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "As an alternative argument for incompatibility of the case under the above provision, the Government noted that Article 48 \u00a7 1 of LMS excluded disputes relating to extension of professional military service contracts from the domestic courts\u2019 jurisdiction. The instant case was, on the one hand, related to allegedly unlawful discharge. However, on the other hand, it could also be regarded as related to the issue of extension of a contract.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0Provided the Court found that Article 6 \u00a7 1 of the Convention applied to the administrative court proceedings at issue, the Government were fully confident that those proceedings had been fair. They noted that it was for the domestic courts to assess the evidence before them, as well as the relevance of given items of evidence, and that Article 6 of the Convention \u201cdoes not lay down any rule on the admissibility of evidence as such\u201d (they referred to Barber\u00e0, Messegu\u00e9 and Jabardo v. Spain, 6\u00a0December 1988, \u00a7 68, Series A no. 146, and Galstyan v. Armenia, no.\u00a026986/03, \u00a7 77, 15 November 2007). That being so, even though the Lithuanian courts had the authority to compel items of evidence to be produced in court under Article 57 \u00a7 4 of the Law on Administrative Proceedings, those courts were primarily entitled to decide on the relevance of certain evidence in the context of the applicant\u2019s case. Similarly, under Article 57 \u00a7 6 of that Law, no evidence had any value set in advance. The Government considered that having objectively and scrupulously examined the applicant\u2019s case in the light of the relevant legal provisions, the domestic courts had found that the prerequisite conditions necessary to discharge a serviceman because of age, established in Articles 38 \u00a7 1 (7) and 45 \u00a7 4 (2) of LMS had been met. Once the administrative courts had established the lawfulness of the legal grounds for the applicant\u2019s discharge, other circumstances, including those related to the military service of four other military officers relied on by the applicant, were no longer relevant to the examination of his case. Lastly, the Government maintained that the servicemen and servicewomen the applicant had described in his request as not discharged despite their age, actually served within the system of national defence in compliance with the provisions of domestic law, including the provisions establishing the allowed age (see paragraphs 36-40 above).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court first turns to the Government\u2019s objection to the effect that Article 6 \u00a7 1 of the Convention is not applicable to the applicant\u2019s complaint about his dismissal from professional military service. It reiterates however that in order for the respondent State to be able to rely before the Court on the applicant\u2019s status as a civil servant, or in this case as a professional soldier, to exclude the protection embodied in Article 6, two conditions must be fulfilled. It will be for the respondent Government to demonstrate, firstly, that a civil servant applicant does not have a right of access to a court under national law and, secondly, that the exclusion of the rights under Article 6 for the civil servant is justified (see Vilho Eskelinen and Others v. Finland [GC], no. 63235/00, \u00a7 62, ECHR 2007II; also see Igor Vasilchenko v. Russia, no. 6571/04, \u00a7 46, 3 February 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0In the present case it is common ground that the applicant served in the army on the basis of a professional military service contract concluded between him and the Ministry of Defence on 5\u00a0August 2002. It is true that the first paragraph of Article 48 of LMS excludes disputes regarding acceptance for military service or extension of military service contracts. Nevertheless, the Court observes that the applicant\u2019s dispute concerned his dismissal from professional military service. Nor was the matter of his dispute the extension of his contract. In fact, he had claimed the right, \u201ccivil\u201d in its nature, to continue professional military service until the expiry of the contract he already had. The dispute was genuine and serious and the result of the proceedings was directly decisive for the right in question. It is also plain from the facts that, as regards his dismissal from the military, the applicant had access to administrative courts under national law, in accordance with the second paragraph Article 48 of LMS. Accordingly, Article 6 \u00a7 1 is applicable.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court further considers that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. No other ground for declaring it inadmissible has been established. Therefore, it should be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "55.\u00a0\u00a0The applicant was dissatisfied that when examining his complaint of dismissal from the military service on discriminatory grounds the administrative courts had based their decisions merely on an interpretation of Article 38 \u00a7 1 (7) of LMS and had ignored his repeated requests for access to the military files of four specific servicemen. On this point the Court observes that one of the elements of a fair hearing within the meaning of Article 6 \u00a7 1 is the right to adversarial proceedings; each party must in principle have the opportunity to make known any evidence needed for his claims to succeed (see Mantovanelli v. France, 18\u00a0March 1997, \u00a7 33, Reports of Judgments and Decisions 1997II). Moreover, the requirement of \u201cequality of arms\u201d implies that each party must be afforded a reasonable opportunity to present his case \u2013 including his evidence \u2013 under conditions that do not place him at a substantial disadvantage vis-\u00e0-vis his opponent (see, for instance, Dombo Beheer B.V. v. the Netherlands, 27 October 1993, \u00a7 33, Series A no. 274; Helle v. Finland, 19 December 1997, \u00a7\u00a7 53-54, Reports of Judgments and Decisions 1997VIII). The Court has also held that the effect of Article 6 \u00a7 1 is, inter alia, to place the \u201ctribunal\u201d under a duty to conduct a proper examination of the submissions, arguments and evidence adduced by the parties, without prejudice to its assessment of whether they are relevant to its decision (see Kraska v. Switzerland, 19\u00a0April 1993, \u00a7 30, Series A no. 254B, and Van de Hurk v. the Netherlands, 19 April 1994, \u00a7 59, Series A no. 288).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0That being so, the Court nonetheless reiterates that it is not within its province to substitute its own assessment of the facts and the evidence for that of the domestic courts and, as a general rule, it is for these courts to assess the evidence before them (see, among many other authorities, Edwards v. the United Kingdom, 16 December 1992, \u00a7 34, Series A no.\u00a0247B). Furthermore, while Article 6 guarantees the right to a fair hearing, it does not lay down any rules on the admissibility of evidence as such, which is primarily a matter for regulation under national law. Nevertheless, the question which must be answered is whether the proceedings as a whole, including the way in which the evidence was obtained, were fair (see Galstyan, cited above, \u00a7 77).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0Turning to the circumstances of the instant case, the Court recalls that in his written complaint to the Vilnius Regional Administrative Court the applicant argued that he had been discriminated against because of his opinions. He submitted that at least four other servicemen in his military unit had been allowed to continue serving after reaching the age of discharge but before the expiry of their contracts. For the applicant, given that an allegation of discrimination was at the heart of his complaint, a comparison between his situation and that of those four other servicemen was indispensable for him to be able to present his grievance (see paragraph\u00a019 above). The applicant reiterated that request on appeal, arguing that the lower court\u2019s refusal to order his military commander to provide evidence related to the service history of those four servicemen had deprived him of the opportunity to show that he was the only soldier to whom the law had been applied so rigorously (see paragraph 25 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Court further observes that, despite those arguments by the applicant, the administrative courts limited their examination to the letter of LMS, having examined whether his discharge from the army had been justified under Article 38 \u00a7 7 (1) thereof, namely because of his age. The Government have acknowledged that once those courts had established as lawful the applicant\u2019s discharge from professional military service on that ground, other circumstances, including those related to the alleged discrimination and those other four servicemen, were not relevant to the examination of the applicant\u2019s case. The Court cannot subscribe to this view. Whilst being careful not to substitute its own assessment of the facts and evidence for that of the domestic courts, the Court nevertheless considers that the discrimination aspect of the applicant\u2019s complaint should have been addressed by the administrative courts. Although those courts were not bound in law to order the applicant\u2019s commanding officer to produce the evidence he requested and which the applicant was unable to obtain himself, and notwithstanding whether the military service history of those four servicemen would have proved the applicant\u2019s point, that evidence was likely to have a preponderant influence on the assessment of the applicant\u2019s complaint by those courts (see Mantovanelli, cited above, \u00a7\u00a036). The Court strikes a note of caution in observing that Article 6 \u00a7 1 of the Convention obliges courts to give reasons for their decisions, but cannot be understood as requiring a detailed answer to every argument (see Van de Hurk, cited above, \u00a7 61). However, given that the applicant had given full details of which specific evidence he wished to obtain and why it was directly relevant to his complaint and to his wish to influence the courts\u2019 decision, and considering that at that stage of the proceedings it was not yet clear whether that evidence was necessary in order to determine the applicant\u2019s discrimination claim, the Court finds that the administrative courts\u2019 failure to assist the applicant in obtaining evidence and to give it consideration, or at least to provide reasons why this was not necessary, denied the applicant essential means to argue his case. In disputes concerning civil rights, such as the present one, such a limited review cannot be considered to be an effective judicial review under Article 6 \u00a7 1 (see, mutatis mutandis, K.M.C. v. , no. 19554/11, \u00a7 35, 10\u00a0July\u00a02012, and the case-law cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0In the light of the above, the Court holds that the proceedings before the administrative courts (see paragraphs 19-28 above), taken as a whole, did not satisfy the requirements of a fair and public hearing within the meaning of Article 6 \u00a7\u00a01. There has accordingly been a breach of that provision.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION, TAKEN ALONE OR IN CONJUNCTION WITH ARTICLE 14",
+                        "elements": [
+                            {
+                                "content": "60.\u00a0\u00a0Relying on Articles 10 and 14 of the Convention, the applicant complained that he was dismissed from the military for his opinions and in a discriminatory manner.",
+                                "elements": []
+                            },
+                            {
+                                "content": "61.\u00a0\u00a0The relevant parts of Article 10 read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0Article 14 of the Convention reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "63.\u00a0\u00a0The applicant complained of a violation of his right to freedom of speech. He maintained that as a serviceman he had been responsible for many years for giving legal advice to the Commander of the Armed Forces on the question of statutory penalties. His opinion on the statutory penalties the army imposed on soldiers often did not correspond to that of others at the Ministry of Defence. The applicant stated that he had made many proposals with the aim of improving, inter alia, servicemen\u2019s procedural rights when the new Army Disciplinary Statute was being drafted. As his superiors and the State President had failed to take his proposals into account, the applicant had contacted the Kauno Diena daily and expressed his ideas to the press. The internal inquiry into his communication with the daily had been started the same day. Even though that inquiry had later been discontinued by the authorities\u2019 acknowledgement that the applicant had not violated military discipline, the appeal to Kauno Diena and to the State President had had direct consequences for the applicant. He was dismissed from professional military service before the expiry of his contract. Most importantly, in order to avoid accusations of interference with freedom of expression, the authorities at the Ministry of Defence chose to dismiss him not on the ground that he had appealed to the media, but formally, on the basis of Article 38 \u00a7 1 (7) of LMS, thus leaving no official trace of injustice. If that provision had been applied to others in the same manner, several hundred soldiers would have been dismissed from service, however none of them except the applicant had suffered the same consequences. The example of four soldiers (R.L., V.S., J.\u0160. and M.I.) he relied on during the administrative court proceedings confirmed that there were more soldiers who should have been dismissed from the army, but that this was not done. Lastly, he also challenged as misleading the two examples provided by the Government (see paragraphs 41 and 42 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The applicant then asserted that the interference with his right to express his opinions had no basis in Lithuanian law. Nor was it justified by any of the grounds listed in Article 10 \u00a7 2 of the Convention, because his publicly expressed criticism over the staff reform had not disclosed any classified information or posed a threat to the State\u2019s security. The applicant\u2019s dismissal from professional military service was nothing other than revenge for his public appeal in the media.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "65.\u00a0\u00a0The Government maintained at the outset that there had been no interference with the applicant\u2019s right to freedom of expression, because he had not experienced any negative effects in relation to the publication in Kauno Diena. They noted that the majority of cases examined by the Court under Article 10 of the Convention had involved either final criminal convictions or civil decisions against a person. In the instant case, however, the internal inquiry into the applicant\u2019s actions regarding the publication, although opened on the very same day as that of the publication, 1\u00a0March\u00a02006, was discontinued on 22 March 2006 on the ground that the acts committed by him did not constitute a disciplinary violation of the Statute of Military Discipline because he had acted within the bounds of his right to impart information, in accordance with Article 21 \u00a7 3 of LMS. A mere internal inquiry into the applicant\u2019s actions, which in itself did not create any consequences for the applicant, therefore could not be considered as constituting an interference with the right to freedom of expression. Even if the Court assumed that the mere opening of an internal inquiry could be seen as interference, the Government considered that it was authorised by, inter alia, Article 36 of LMS which establishes certain restrictions associated with military service, including public expression of disagreement with policies being implemented by the Government of a democratically elected State. The opening of the internal inquiry into the applicant\u2019s acts pursued a legitimate aim \u201cin the interests of national security\u201d and \u201cfor the prevention of disorder\u201d. Lastly, the inquiry was \u201cnecessary\u201d and proportionate, given that the applicant\u2019s criticism of the new Statute of Military Discipline had been expressed publicly and not internally (see E.S. v. Germany (dec.), no. 23576/94, 29 November 1995; and Grigoriades v. Greece, 25 November 1997, \u00a7 47, Reports of Judgments and Decisions 1997VII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The Government also considered that, even if the Court did see the applicant\u2019s discharge from the military as an interference with the exercise of his right to freedom of expression, that presumption would be incorrect. The Government categorically rejected any such considerations, because the applicant had been discharged in accordance with the domestic law for having reached retirement age, and not because of the criticism he had expressed in the article in Kauno Diena. The Government also pointed out that in the domestic proceedings concerning his discharge the applicant had raised his allegation of discrimination only very briefly, while in essence disputing the interpretation and application of Article 38 \u00a7\u00a01 (7) of LMS. However, having regard to the interpretation of that provision by the administrative courts in the applicant\u2019s case as well as in other relevant case-law, the applicant was discharged from the military in accordance with the domestic law, and there was no ground to allege any possible discrimination in any regard.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0The Government further questioned the applicant\u2019s argument that four other servicemen (R.L., V.S., J.\u0160. and M.I.) had had to be discharged from the military because of their age but had nevertheless continued to serve. On this point the Government referred to the domestic law and facts relating to the service history of those four officers (see paragraphs 36-40 above). In this connection the Government also saw it as relevant to provide the Court with two examples which in their view were analogous to the applicant\u2019s case, where the servicemen were discharged from professional military service on the ground of their age, despite the fact that they still had valid military service contracts (see paragraphs 41 and 42 above). Finally, the administrative courts had been consistent in interpreting Article\u00a038 \u00a7\u00a01\u00a0(7) of LMS as having the effect that once a serviceman reached the age of retirement this was an imperative ground to terminate his military service (see paragraphs 46 and 47 above). Above all, that interpretation also remained consistent in the applicant\u2019s case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "68.\u00a0\u00a0The Court considers that the applicant\u2019s complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. No other ground for declaring them inadmissible has been established. They should therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "69.\u00a0\u00a0The Court has held on numerous occasions that freedom of expression constitutes one of the essential foundations of a democratic society and one of the basic conditions for its progress and for each individual\u2019s self-fulfilment. Subject to paragraph 2 of Article 10, it is applicable not only to \u201cinformation\u201d or \u201cideas\u201d that are favourably received or regarded as inoffensive or as a matter of indifference, but also to those that offend, shock or disturb; such are the demands of that pluralism, tolerance and broadmindedness, without which there is no \u201cdemocratic society\u201d. Freedom of expression, as enshrined in Article 10, is subject to a number of exceptions, which, however, must be narrowly interpreted and the necessity for any restrictions must be convincingly established (see Vogt v. Germany, 26 September 1995, \u00a7 52, Series A no. 323, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0Article 10 does not stop at the gates of army barracks. It applies to military personnel as it does to all other persons within the jurisdiction of the Contracting States. Nevertheless, as the Court has previously indicated, it must be open to the State to impose restrictions on freedom of expression where there is a real threat to military discipline, as the proper functioning of an army is hardly imaginable without legal rules designed to prevent servicemen from undermining it. It is not, however, open to the national authorities to rely on such rules for the purpose of frustrating the expression of opinions, even if these are directed against the army as an institution (see Grigoriades, cited above, \u00a7 45; see also Vereinigung demokratischer Soldaten \u00d6sterreichs and Gubi v. Austria, 19 December 1994, \u00a7 36, Series\u00a0A no. 302).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0The Government argued that there had been no violation of the applicant\u2019s right to freedom of expression, because he had not experienced any negative effects from the publication in the Kauno Diena newspaper. On this point the Court indeed notes that the internal inquiry into the applicant\u2019s actions regarding that publication and his address to the State President were terminated on the ground that the applicant had acted within the boundaries of Article 21 \u00a7 3 of LMS, and no disciplinary sanction was imposed on him (see paragraph 14 above). The Court therefore considers that, as far as it concerns that inquiry in itself, in view of its outcome the applicant cannot claim to be a victim of a violation of the Convention. However, it will nevertheless take that investigation into account when examining the main issue in the present case, namely whether the applicant\u2019s military service was terminated solely as a result of the legal necessity to discharge him because of his age, as the Government claimed, or whether, as the applicant argued, he was dismissed because of his opinions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The Court finds that although the sequence of events \u2013 the applicant\u2019s critical remarks in Kauno Diena, the internal investigation into his actions, a disciplinary penalty for failing to give proper legal advice (see paragraph 15 above) and, eventually, the decision to start the procedure to discharge him because of his age \u2013 assessed in its entirety, might appear to corroborate the applicant\u2019s version of events, this does not allow the Court to conclude with certainty that the applicant was punished for his opinions and that termination of his military service was not simply the result of a proper application of Article 38 \u00a7 1 (7) of LMS (see, by converse implication, Ivanova v. , no. 52435/99, \u00a7\u00a083, 12 April 2007). In previous cases the Court has indeed found that disciplinary sanction for public remarks (see E.S. v. Germany, cited above), or even prosecution and conviction of the soldier (see Grigoriades, cited above, \u00a7\u00a7 47-48) had been a clear indication of an interference with the right to impart ideas, at variance with Article 10\u00a0of the Convention. However, in the instant case such tangible indications are absent. Unlike the facts in Ivanova (\u00a7\u00a084), no new requirements for the applicant\u2019s post, which he did not meet, had been introduced after the publication in Kauno Diena. None of the applicant\u2019s superiors in the army had made public statements to the effect that he should be discharged from the military because of his opinions (see, in contrast and mutatis mutandis, Kosiek v. Germany, 28 August 1986, \u00a7 37, Series A no. 105). It is also noteworthy that the obligation to terminate contracts when the retirement age is reached had been confirmed by the Supreme Administrative Court in its earlier rulings of 2003 and 2004 (see paragraphs 46 and 47 above), which preceded the applicant\u2019s case by some three years and thus illustrate the established practice of the domestic courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The applicant also sought support for his claim of discrimination from the military service record of four soldiers of his unit \u2013 R.L., V.S., J.\u0160. and M.I. He considered that those four soldiers had been in a similar situation to that of himself, but had been treated differently. On this point the Court reiterates that Article 14 of the Convention affords protection against different treatment, without an objective and reasonable justification, of persons in similar situations (see Hoffmann v. Austria, 23\u00a0June 1993, \u00a7 31, Series A no. 255C, and Vojnity v. , no.\u00a029617/07, \u00a7 29, 12 February 2013). However, having given due consideration to the facts (paragraphs 36-40 above), it is the Court\u2019s opinion that such an assertion is not substantiated. The professional military service histories of those four servicemen show that each of them was entitled to serve until the expiry of their contracts, despite the fact that they had reached retirement age, because, unlike the applicant, they had military specialist codes. Conversely, as the applicant himself acknowledged during the court proceedings, at the time of his discharge from the army he had no such status (see paragraphs 19 and 26 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0In view of the above, the Court finds that the applicant\u2019s discharge from professional military service once he had reached retirement age did not amount to interference with the exercise of his right to freedom of expression (see Harabin v. Slovakia, no. 58688/11, \u00a7\u00a0153, 20\u00a0November\u00a02012). There has therefore been no violation of Article 10 of the Convention, taken alone or in conjunction with Article 14 thereof.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "75.\u00a0Citing Articles 5, 13 and Article 1 of Protocol No.\u00a01 to the Convention, the applicant lastly brought forward a series of grievances which may be summarised as a complaint that his discharge from the army breached the principles of liberty and security, caused him pecuniary damage, and was not examined by the Ombudsman.",
+                                "elements": []
+                            },
+                            {
+                                "content": "76.\u00a0\u00a0The Court has examined the remainder of the applicant\u2019s complaints as submitted by him. However, having regard to all the material in its possession, it finds that these complaints do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application must be rejected as manifestly ill-founded, pursuant to Article 35 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "77.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The applicant claimed that after his dismissal from the military service before the expiry of his contract he suffered pecuniary damage, because he received a lower pension. He asked that the Government be ordered to review the sums paid for his pension and compensate the unpaid part, or, alternatively, to award him 100,000 euros (EUR). The applicant further claimed that he had received no salary, food allowance or housing allowance, which all together were equal to 85,137 Lithuanian litai (LTL, approximately EUR 24,650). Lastly, the applicant claimed EUR\u00a0100,000 for non-pecuniary damage he had suffered because of the internal inquiry into his contacts with the media and the courts\u2019 unwillingness to defend his human rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Government considered that the pecuniary and non-pecuniary damage claimed by the applicant were absolutely unsubstantiated and excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0The Court does not discern any causal link between the violation found and the pecuniary damage alleged; it therefore rejects this claim. On the other hand, it awards the applicant EUR 6,000 in compensation for \nnon-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0The applicant made no claims for costs and expenses. The Court therefore makes no award under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "82.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the applicant\u2019s complaints under Articles 6, 10 and 14 admissible and the rest of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 10 of the Convention, taken alone or in conjunction with 14 thereof;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 \u00a7 2 of the Convention, EUR 6,000 (six thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into Lithuanian litai at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 12 November 2013, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Guido Raimondi",
+            "role": "president"
+        },
+        {
+            "name": "Danut\u0117 Jo\u010dien\u0117",
+            "role": "judges"
+        },
+        {
+            "name": "Peer Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "Andr\u00e1s Saj\u00f3",
+            "role": "judges"
+        },
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "judges"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Helen Keller",
+            "role": "judges"
+        },
+        {
+            "name": "Stanley Naismith",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF JOK\u0160AS v. LITHUANIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-128039.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2013:1112JUD002533007",
+    "externalsources": [],
+    "extractedappno": [
+        "25330/07",
+        "26986/03",
+        "63235/00",
+        "6571/04",
+        "19554/11",
+        "23576/94",
+        "52435/99",
+        "29617/07",
+        "58688/11"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 21, 31, 36, 38, 45, 46, 48, 52, 57 and 81 of the Law on the Organisation of the National Defence System and Military Service"
+    ],
+    "itemid": "001-128039",
+    "judgementdate": "12/11/2013 00:00:00",
+    "kpdate": "12/11/2013 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "13",
+        "41",
+        "136",
+        "15",
+        "119",
+        "149",
+        "148",
+        "201",
+        "343",
+        "100",
+        "14",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "10-2",
+        "14",
+        "10",
+        "10-1",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "JOK\u0160AS",
+        "LITHUANIA"
+    ],
+    "rank": "1048.62426757813",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "LTU",
+    "respondentOrderEng": "26",
+    "scl": [
+        "Dombo Beheer B.V. v. the Netherlands, 27 October 1993, \u00a7 33, Series A no. 274",
+        "E.S. v. Germany (dec.), no. 23576/94, 29 November 1995",
+        "Edwards v. the United Kingdom, 16 December 1992, \u00a7 34, Series A no. 247 B",
+        "Galstyan v. Armenia, no. 26986/03, \u00a7 77, 15 November 2007",
+        "Grigoriades v. Greece, 25 November 1997, Reports of Judgments and Decisions 1997 VII",
+        "Harabin v. Slovakia, no. 58688/11, \u00a7 153, 20 November 2012",
+        "Helle v. Finland, 19 December 1997, \u00a7\u00a7 53-54, Reports of Judgments and Decisions 1997 VIII",
+        "Hoffmann v. Austria, 23 June 1993, \u00a7 31, Series A no. 255 C",
+        "Igor Vasilchenko v. Russia, no. 6571/04, \u00a7 46, 3 February 2011",
+        "Ivanova v. Bulgaria, no. 52435/99, \u00a7 83, 12 April 2007",
+        "Kosiek v. Germany, 28 August 1986, \u00a7 37, Series A no. 105",
+        "Kraska v. Switzerland, 19 April 1993, \u00a7 30, Series A no. 254 B",
+        "Mantovanelli v. France, 18 March 1997, \u00a7 33, Reports of Judgments and Decisions 1997 II",
+        "Van de Hurk v. the Netherlands, 19 April 1994, \u00a7 59, Series A no. 288",
+        "Vereinigung demokratischer Soldaten \u00d6sterreichs and Gubi v. Austria, 19 December 1994, \u00a7 36, Series A no. 302",
+        "Vilho Eskelinen and Others v. Finland [GC], no. 63235/00, \u00a7 62, ECHR 2007 II",
+        "Vogt v. Germany, 26 September 1995, \u00a7 52, Series A no. 323",
+        "Vojnity v. Hungary, no. 29617/07, \u00a7 29, 12 February 2013"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "433610",
+    "typedescription": "15"
+}

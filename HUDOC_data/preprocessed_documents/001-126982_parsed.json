@@ -1,0 +1,839 @@
+{
+    "__articles": "3;5;5-3;5-5;6;6-2;8;8-1;8-2;13;13+3;13+8;34;35;35-1;41",
+    "__conclusion": "Preliminary objection joined to merits (Article 34 - Victim);Remainder inadmissible;Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-3 - Brought promptly before judge or other officer);Violation of Article 5 - Right to liberty and security (Article 5-3 - Length of pre-trial detention;Reasonableness of pre-trial detention);Violation of Article 5 - Right to liberty and security (Article 5-5 - Compensation);No violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-2 - Presumption of innocence);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-2 - Presumption of innocence);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Degrading treatment;Prohibition of torture);Violation of Article 13+8 - Right to an effective remedy (Article 13 - Effective remedy) (Article 8-1 - Respect for home;Article 8 - Right to respect for private and family life);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "34529/10",
+    "article": [
+        "13",
+        "3",
+        "8",
+        "34",
+        "35",
+        "5",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 34 - Victim"
+            ],
+            "element": "Preliminary objection joined to merits",
+            "type": "other"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-5 - Compensation"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-2 - Presumption of innocence"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-2 - Presumption of innocence"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for home"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+8 - Right to an effective remedy",
+            "mentions": [
+                "Article 8-1 - Respect for home",
+                "Article 8 - Right to respect for private and family life"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+8 - Right to an effective remedy",
+            "mentions": [
+                "Article 8-1 - Respect for home",
+                "Article 8 - Right to respect for private and family life"
+            ],
+            "type": "violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-126982.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 34529/10) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by four Bulgarian nationals, Mr Borislav Gutsanov Gutsanov, Mrs Monika Vladimirova Gutsanova, Miss S. Gutsanova and Miss\u00a0B. Gutsanova (\u201cthe applicants\u201d), on 21 May 2010.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented by Ms S. Bachvarova-Zhelyazkova, a lawyer practising in Varna, and by Mr M. Ekimdzhiev, a lawyer practising with the firm Ekimdzhiev, Boncheva and Chernicherska in Plovdiv. The Bulgarian Government (\u201cthe Government\u201d) were represented by their Agent, Ms N. Nikolova, who was subsequently replaced by Ms M. Kotseva and Mr\u00a0V.\u00a0Obretenov, of the Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged, in particular, that the law-enforcement operation at their home in the early morning of 31 March 2010 had caused them psychological trauma amounting to degrading treatment. ...",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 4 April 2011 the Court gave notice of the application to the Government. It was also decided that the Chamber would rule on the admissibility and merits of the case at the same time (Article 29 \u00a7 1 of the Convention).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicants were born in 1967, 1972, 2002 and 2004 respectively and live in Varna. The first two applicants are a married couple and the third and fourth applicants are their minor daughters.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0General background to the case",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0The first applicant, Mr Borislav Gutsanov, is a member of parliament for the Socialist Party, a member of the Central Executive Bureau of the Socialist Party and vice-president of its regional branch. At the relevant time he was the Chairman of Varna municipal council, elected from his party\u2019s list.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0Between December 2009 and April 2010, the Bulgarian Ministry of the Interior conducted several police operations throughout the country aimed at dismantling various criminal groups. During the course of these operations the police arrested a number of individuals, including some political figures, a fact which attracted widespread media coverage and public interest. Several politicians including the Prime Minister and the Minister of the Interior, as well as a number of prosecutors and police commissioners, were regularly approached by the media to comment on the arrests and the ensuing criminal proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0A series of applications was made to the Court following these events (Maslarova v. Bulgaria, no. 26966/10; Aleksey\u00a0Petrov (II) v.\u00a0Bulgaria, no.\u00a030336/10; Kostadinov v. Bulgaria, no. 37124/10; Tsonev v.\u00a0Bulgaria, no.\u00a044885/10; Petrov and Ivanova v.\u00a0Bulgaria, no. 45773/10; and Stoyanov and Others v. Bulgaria, no.\u00a055388/10).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The police operation at the applicants\u2019 home",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0On 30 October 2009 the Sofia city public prosecutor\u2019s office commenced criminal proceedings against a person or persons unknown for abuse of office by a public servant and misappropriation of public funds resulting in significant damage to the Varna municipal public transport company. The facts in issue had taken place between 2003 and 2007. On 8\u00a0February 2010 the Prosecutor General ordered the criminal investigation file to be sent to the Varna regional public prosecutor\u2019s office. The investigation was to be carried out by the Varna police under the supervision of the regional prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 31 March 2010, in the course of that criminal investigation, a team of police officers entered the applicants\u2019 home at around 6.30 a.m. and proceeded to arrest Mr Gutsanov and search the premises. The events surrounding the police operation are disputed by the parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicants\u2019 version",
+                                        "elements": [
+                                            {
+                                                "content": "11.\u00a0\u00a0In the early morning of 31 March 2010, Mr and Mrs Gutsanovi were asleep in their bedroom on the second floor of their house in Varna. Their two daughters were asleep in their rooms on the floor below. The family home was equipped with a closed-circuit television (CCTV) monitoring system, and a night watchman, D.P., was on duty at the entrance to the property.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "12.\u00a0\u00a0At around 6.30 a.m., D.P. observed on the CCTV screen two or three police vehicles driving past the garden gate in silence with their lights off and stopping a little further on.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0Shortly afterwards a group of police officers appeared at the entrance to the property and some of them began knocking loudly on the gate and demanding that it be opened immediately. D.P. left his night watchman\u2019s post and opened the gate. He then saw two plain-clothes police officers, four or five uniformed officers and a group of four or five masked officers of the Interior Ministry special commando unit. D.P. was immobilised and handcuffed by the police officers and was asked whether the owners of the house were at home. He said that they were, and told the police officers that there were two young children in the house. He was asked to open the entrance door to the house but explained that he did not have the keys.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0The police officers then ran towards the door of the house, shouting \u201cPolice! Open up!\u201d. Some of the officers began opening the door using various tools (a battering ram, a lever and a crowbar). According to D.P.\u2019s statement, the police officers managed to open the door after five or ten minutes and entered the stairwell of the house.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0Mr and Mrs Gutsanovi stated that they had been woken suddenly by the sound of the blows to the door and the shouts. They ran down to the lower floor and took their daughters into their bedroom on the second floor of the house.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0Mr Gutsanov said that he had then left the bedroom in order to find out what was really going on. At that point he heard several people coming up the stairs and shouting \u201cCome out\u201d and \u201cWe\u2019re police officers\u201d. He immediately returned to the second-floor bedroom where his wife and daughters were. Shortly afterwards the armed and masked police officers entered the parents\u2019 bedroom and pointed their weapons, equipped with lamps, at Mr Gutsanov and his wife and two daughters, shouting \u201cPolice! Don\u2019t move!\u201d. Mr Gutsanov was pinned against the wall before being taken downstairs, where he was forced to kneel and was handcuffed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0According to the statements made by Mr and Mrs Gutsanovi, their two daughters, who were on their parents\u2019 bed, were screaming and crying with fear. The police ordered Mrs Gutsanova to cover their heads with a duvet, which she did.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0Shortly afterwards, Mr Gutsanov was allowed to go up to the second floor and get dressed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0At 7.30 a.m. the family chauffeur and the children\u2019s nanny arrived and took the two girls to school. After school, the girls went to their aunt\u2019s home and spent the night there.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0In support of their version of events, the applicants submitted a handwritten and undated statement by Mr Gutsanov, a statement dated 7\u00a0April 2010 signed by his wife, a handwritten statement dated 8 April 2010 signed by the night watchman D.P., and a handwritten statement dated April\u00a02010 bearing the signature of the family\u2019s private chauffeur. They also submitted a weather report from the Varna meteorological service stating that, on that day, the sun had risen at 6.52 a.m. and that the dawn had lasted for thirty-one minutes. They further produced a copy of an interview given by Mrs Gutsanova to the weekly newspaper Galeria and published on 8\u00a0April 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0The applicants also submitted a video recording of the television programme Afera broadcast on 11 April 2010 on Skat, a privately owned television channel. The programme included an interview with Mrs\u00a0Gutsanova as well as some footage from the property\u2019s CCTV system taken on the morning of 31 March 2010. The first sequence shows two light vehicles and a police van driving past the applicants\u2019 property. In the second sequence a uniformed police officer can be seen knocking on the metal gate of the house, after which the gate opens. The third sequence shows two special officers, dressed in black and armed with sub-machine guns equipped with lamps, inspecting part of the garden, and a man in civilian clothing who appears at the door. The man goes back inside the house followed by the two special officers. The fourth sequence shows two special officers running towards the house, leaving behind a uniformed police officer and a man in civilian clothing. The last two men appear to be looking up at the top of the house. A further sequence, filmed by a reporter, shows the state of the glass door of the house after the police officers\u2019 forced entry: the glass panes are intact but the handle, the lock and the latch have been broken off.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s version",
+                                        "elements": [
+                                            {
+                                                "content": "22.\u00a0\u00a0On 30 March 2010 the Varna regional head of the organised crime squad and the Varna regional public prosecutor approved plans for an operation in the context of criminal proceedings against a person or persons unknown for misappropriation of public funds belonging to the Varna municipal public transport company (see paragraph 9 above). The plan entailed arresting five individuals suspected of committing the offences in question, including Mr Gutsanov, and searching the suspects\u2019 homes and offices. The operations were to be carried out the following morning, 31\u00a0March 2010, and to be conducted simultaneously by five teams made up of investigating officers, uniformed officers and armed and masked special officers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0The team selected for the operation at the applicants\u2019 home received instructions from their superior officers at 5.30 a.m. on the day of the police operation. The officers were warned that Mr Gutsanov was the lawful owner of a Glock 17C pistol which he kept at home.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0At 6.30 a.m. on 31 March 2010 the team, made up of plain-clothes officers, two uniformed officers and four special officers dressed in black and wearing bullet-proof vests marked \u201cPolice\u201d, went to the applicants\u2019 home. The officers knocked at the metal gate of the property, which was opened by a man who said he was the security guard. He explained that he did not have the keys to the door of the house and that the only people in there were Mr Gutsanov, his wife and their two children. Two special officers then walked around the outside of the house in order to secure other possible exits, while the other two officers ran towards the front door of the house and began knocking and shouting \u201cPolice! Open up!\u201d. The uniformed officers stayed in the garden outside the front door.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0After five minutes, the police officers saw the outline of a man through the panoramic windows of the house. They called out \u201cPolice. Come down! Open the door!\u201d. Mr Gutsanov was seen twice through a window but did not come down. The special officers forced the front door and entered the house. One of them saw Mr Gutsanov in the stairwell and called out to him: \u201cPolice! Move over here slowly! Show your hands!\u201d. The applicant refused to comply and ran up to the floor above. The officers followed him, calling out \u201cPolice! Stop!\u201d. The applicant went through a door on the second floor and when they got nearer the officers saw that he had gone into a bedroom where his wife and two daughters were. At that point the applicant came out of the room and was handcuffed. He asked permission to get dressed and was taken into the same bedroom by one of the masked officers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0At no point during the operation did the police officers speak to Mrs\u00a0Gutsanova or her two daughters. The officer who went into the bedroom was not carrying a firearm but had only a Taser electroshock weapon. The officer stayed in the bedroom for just long enough to allow Mr\u00a0Gutsanov to find some clothes, and they then left the room together. The applicant was handed over to the other police officers, and the special officers left the premises immediately afterwards.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The Government submitted the following documents in support of their version of events: the plan of action for the operation in question, a report by the regional directorate of the Interior Ministry, three reports by Ministry personnel involved in the operation, including the commanding officer of the special operations team, the search report approved by a judge, and two orders issued by the Varna regional public prosecutor\u2019s office and dated 7 April 2010. The Government also produced press photographs of the applicants\u2019 house which showed, among other things, a glass facade giving onto the garden.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The applicants\u2019 psychological state following the police operation at their home",
+                                "elements": [
+                                    {
+                                        "content": "28.\u00a0\u00a0Mrs Gutsanova stated that her younger daughter, B., had had a stammer for which she had seen a specialised speech therapist for a year, and that she had begun stammering again following the events of 31 March 2010.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0According to the statement made by the teacher responsible for S., the couple\u2019s elder daughter, the latter had been visibly stressed and unusually quiet on 31 March 2010. Mr Gutsanov\u2019s sister, who had looked after her niece in her own home the same day, observed that the child had been anxious. The girl had apparently spoken a few times that day about what had happened at her house. Since then, she had been fearful whenever she saw police officers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 12 April 2010 Mr and Mrs Gutsanovi\u2019s two daughters were examined by a psychiatrist, who observed that the memory of the events of 31 March 2010 produced anxious reactions in both girls, in the form of anxiety in the case of the elder girl and outbursts of crying in the case of the younger one. The psychiatrist did not observe any other psychological complications in the children.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Following the events of 31 March 2010, Mrs Gutsanova consulted a psychiatrist on two occasions. She complained, among other things, of insomnia and anxiety and was prescribed tranquillisers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": " ...",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0State responsibility for damage",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0Section 1(1) of the State and Municipalities Responsibility for Damage Act allows individuals to obtain compensation for damage caused by the unlawful decisions, acts or omissions of State or municipal bodies or officials in the performance of their administrative duties. According to the settled case-law of the Bulgarian Supreme Court of Cassation, acts performed by the criminal investigation and prosecuting authorities in the context of criminal proceedings are not classified as administrative duties and are therefore excluded from the scope of this provision (\u0420\u0435\u0448\u0435\u043d\u0438\u0435 \u2116\u00a0615 \u043e\u0442 10 \u044e\u043b\u0438 2001 \u0433. \u043d\u0430 \u0412\u041a\u0421 \u043f\u043e \u0433\u0440. \u0434. \u2116 1814/2000 \u0433.; \u0422\u044a\u043b\u043a\u0443\u0432\u0430\u0442\u0435\u043b\u043d\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u2116 3 \u043e\u0442 22 \u0430\u043f\u0440\u0438\u043b 2004 \u0433. \u043d\u0430 \u0412\u041a\u0421 \u043f\u043e \u0442\u044a\u043b\u043a. \u0434. \u2116 3/2004 \u0433., \u041e\u0421\u0413\u041a). Under section 2 of the Act as in force at the relevant time, the criminal investigation and prosecuting authorities and the courts were liable in the following circumstances: unlawful pre-trial detention; charging or conviction followed by discontinuance of the criminal proceedings or acquittal; compulsory admission to hospital or other coercive measures ordered by a court which were later set aside as unlawful; and execution of a sentence exceeding the initial length or amount (see also Iliya Stefanov v.\u00a0Bulgaria, no. 65755/01, \u00a7\u00a7 28 and 29, 22 May 2008; Kandzhov v.\u00a0Bulgaria, no. 68294/01, \u00a7\u00a7 35-39, 6 November 2008; and Bochev v.\u00a0Bulgaria, no. 73481/01, \u00a7\u00a7 37-39, 13 November 2008).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "...",
+                        "elements": []
+                    },
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "77.\u00a0\u00a0The applicants contended that the police operation at their home had subjected them to treatment incompatible with Article 3 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "78.\u00a0\u00a0The applicants complained in particular that the manner in which the police operation had been conducted \u2013 before daybreak, by masked and heavily armed police officers who had forced their way in and pointed their weapons at them and had handcuffed Mr Gutsanov while forcing him to kneel down \u2013 had subjected them to a severe psychological ordeal amounting to degrading treatment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "79.\u00a0\u00a0In their written observations of 6 January 2012, the applicants complained of the lack of a criminal investigation into their alleged illtreatment during the police operation of 31 March 2010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Complaint concerning the police operation of 31 March 2010",
+                                        "elements": [
+                                            {
+                                                "content": "80.\u00a0\u00a0The Government submitted that this complaint should be rejected for failure to exhaust domestic remedies and failure to comply with the sixmonth time-limit, and because it was premature and the applicants did not have victim status.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0They observed firstly that the criminal investigation against Mr\u00a0Gutsanov was still pending, with the result that the complaint under Article 3 was premature.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0In the Government\u2019s view, the applicants had not raised their complaint alleging degrading treatment before the competent authorities. Furthermore, they had not lodged an action for damages under section 2 of the State and Municipalities Responsibility for Damage Act. They had therefore omitted to exhaust the remedies that were normally available and effective under domestic law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The Government went on to observe that, in an order of 7 April 2010, the Varna regional public prosecutor\u2019s office had decided not to commence criminal proceedings against the police officers who had entered the applicants\u2019 home. The prosecuting authorities had noted, inter alia, that the police officers\u2019 actions had not constituted any criminal offence. They further argued that the actions in question had in no sense been intended to undermine the applicants\u2019 dignity or cause them any psychological harm; accordingly, they did not amount to treatment incompatible with Article 3 of the Convention. In the Government\u2019s view, the applicants could not therefore claim to be victims of a violation of their rights under that Article.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The applicants did not dispute the fact that they had not lodged a criminal complaint against the police officers who had entered their home on 31 March 2010. However, they argued that such a remedy would be manifestly ineffective for two reasons in particular. Firstly, no provision of Bulgarian criminal law made it a punishable offence to inflict degrading treatment on others stemming from psychological pressure. Secondly, as the Court had found in a series of cases concerning operations by special officers of the national police force, the authorities\u2019 systematic refusal to reveal the identity of the officers concerned would make any criminal investigation concerning them ineffective.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The decision not to prosecute issued by the regional public prosecutor\u2019s office in the present case merely confirmed that a criminal complaint would have been ineffective. The public prosecutor had taken the decision not to commence criminal proceedings against the police officers shortly after the file had been opened, on the sole basis of two reports by police officers and without having taken statements from any other witnesses or gathered other evidence. The applicants had not been informed of that decision and had been deprived of any opportunity of being involved in the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0As to a possible action for damages under the State and Municipalities Responsibility for Damage Act, the applicants maintained that this could likewise not be regarded as an effective domestic remedy in their case. According to the settled case-law of the domestic courts, section\u00a01 of the Act, under the terms of which the State could be held liable for damage caused as a result of administrative action, was not applicable to action taken by police officers to enforce investigative measures in the context of criminal proceedings, which formed part of the judicial process rather than the performance of administrative duties. Furthermore, in a binding interpretative judgment delivered in 2005, the Supreme Court of Cassation had made clear that where administrative bodies including the police were implementing measures ordered by the judicial authorities, an action for damages against the State could be brought only against the latter and on the basis of section 2 of the State and Municipalities Responsibility for Damage Act. However, section 2 provided for compensation in only a limited number of situations. The only one that could possibly apply in the present case was Mr Gutsanov\u2019s acquittal or the subsequent discontinuance of the criminal proceedings against him. However, it would be difficult for the applicants to prove their allegations given that all the witnesses to the events were police officers who had taken part in the operation of 31 March 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0The Court observes at the outset that the Government raised several objections of inadmissibility in relation to the complaint under Article 3 of the Convention. In view of the parties\u2019 submissions, it considers that the issues of compliance with the six-month time-limit and the allegedly premature nature of the application are closely linked to the objection of non-exhaustion raised by the Government. It therefore considers it appropriate first of all to determine whether the applicants in the present case complied with the rule of exhaustion of domestic remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "88.\u00a0\u00a0The Court reiterates that the rule of exhaustion of domestic remedies referred to in Article 35 \u00a7 1 of the Convention obliges applicants to have exhausted the remedies that are normally available and sufficient in the domestic legal system to enable them to obtain redress for the breaches alleged. The existence of the remedies must be sufficiently certain, in practice as well as in theory, failing which they will lack the requisite accessibility and effectiveness (see, among many other authorities, Salman v. Turkey [GC], no. 21986/93, \u00a7 81, ECHR\u00a02000VII, and \u0130lhan v. Turkey [GC], no.\u00a022277/93, \u00a7 58, ECHR 2000VII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "89.\u00a0\u00a0It is incumbent on the Government claiming non-exhaustion to satisfy the Court that the remedy was an effective one available in theory and in practice at the relevant time. Once that has been demonstrated, it falls to the applicant to establish that the remedy advanced by the Government was in fact exhausted or was for some reason inadequate and ineffective in the particular circumstances of the case or that there existed special circumstances absolving him or her from the requirement (see Akdivar and Others v. Turkey, 16 September 1996, \u00a7 68, Reports of Judgments and Decisions 1996IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "90.\u00a0\u00a0According to the Court\u2019s established case-law, the remedy normally available in Bulgarian law in respect of inhuman and degrading treatment allegedly caused by police officers is a complaint to the prosecuting authorities (see, among many other authorities, Assenov and Others v.\u00a0Bulgaria, 28 October 1998, \u00a7 86, Reports 1998VIII; Osman and Osman v. Bulgaria (dec.), no. 43233/98, 6 May 2004; and Kemerov v. Bulgaria (dec.), no. 44041/98, 2 September 2004). The applicants in the present case did not lodge such a complaint with the public prosecutor against the police officers who entered their home on the morning of 31 March 2010. They contended in that regard that a complaint to the prosecuting authorities could not be regarded as an effective remedy in their case, in view of the nature of the ill-treatment to which they had been subjected and the deficiency of the domestic criminal-law provisions (see paragraph 84 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "91.\u00a0\u00a0The Court observes that in its judgment in Hristovi v. Bulgaria (no.\u00a042697/05, \u00a7 95, 11 October 2011), it noted with concern the treatment accorded in Bulgarian criminal law to acts causing psychological suffering. It noted in particular that, with the exception of the very specific case of death threats, the Bulgarian Criminal Code did not provide for the criminalisation of acts by police officers giving rise to this kind of suffering, resulting, for example, from an aggressively conducted search, seizure and arrest operation. Hence, unless a complainant alleged that he or she had sustained physical injury at the hands of the police, the authorities could not be required to commence criminal proceedings in relation to the acts complained of. The Court noted that this deficiency in the criminal law allowed those responsible for inflicting psychological trauma to escape criminal accountability for their actions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0The applicants in the present case complained exclusively of the adverse psychological effects of the police operation carried out at their home on the morning of 31 March 2010. They did not claim to have been physically assaulted by the police officers. It therefore appears that if they had lodged a criminal complaint against the police officers in question, the prosecuting authorities would have inevitably refused to institute criminal proceedings because of the same legal deficiency observed by the Court in Hristovi (cited above). It follows that the criminal-law remedy that was normally available and effective in cases of physical violence inflicted by the police was bound from the outset to fail in the particular circumstances complained of by the applicants. The Court cannot therefore criticise them for not having lodged a complaint with the prosecuting authorities against the officers involved in the police operation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0The Court further observes that in its judgment in Miros\u0142aw Garlicki v.\u00a0Poland (no. 36921/07, \u00a7 77, 14 June 2011), it acknowledged that the civil claim for compensation provided for by Polish law in cases of violations of personal rights such as the right to health, liberty, honour and human dignity constituted appropriate redress in respect of the alleged violation of Article\u00a03, in a case in which the applicant complained exclusively of the adverse psychological effects of his arrest by masked officers, which had taken place in front of a large number of people and had subsequently received extensive media coverage. It observes that the applicants in the present case also complained of the psychological effects of the police operation targeting them. The Government contended that the applicants could have lodged a claim for compensation under the State and Municipalities Responsibility for Damage Act (see paragraph 82 above). However, the Court considers that, in contrast to the case of Miros\u0142aw Garlicki (cited above, \u00a7\u00a7 77 and 78), where the applicant had available to him several effective domestic remedies, any action for compensation lodged by the four applicants under section 1 or 2 of the above-mentioned Bulgarian Act would have had no prospect of success, for the reasons outlined below.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court points out in this regard that section 1 of the State and Municipalities Responsibility for Damage Act allows individuals to bring proceedings in tort against the State on account of unlawful decisions, acts or omissions of State authorities or officials in the performance of their administrative duties. According to the settled case-law of the highest courts in Bulgaria, acts performed by the investigating and prosecuting authorities in the context of criminal proceedings do not form part of their administrative duties and thus do not come within the ambit of section 1 of the above-mentioned Act (see paragraph 67 above and Iliya Stefanov, cited above, \u00a7 28). The Court observes that the police operation at the applicants\u2019 home was carried out in the context of criminal proceedings and was aimed at arresting Mr\u00a0Gutsanov and searching his home for evidence. Hence, according to the case-law of the domestic courts, the operation formed part of the investigative measures taken in the course of those proceedings and did not engage the State\u2019s liability in tort under section 1 of the above-mentioned Act.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0As regards the applicability of section 2 of the same Act, the Court observes that the only situations that might have been applicable in the circumstances of the case were a finding that Mr Gutsanov\u2019s detention was unlawful and the discontinuance of the criminal proceedings against him or his acquittal at first instance or on appeal (see paragraph 67 above). However, the Court notes that the courts to which Mr Gutsanov applied for release found his detention to be in accordance with domestic law ... It further notes that, according to the latest information received by the first applicant, the criminal proceedings in question are still pending at the preliminary investigation stage ... In these circumstances, an action under section 2 of the State and Municipalities Responsibility for Damage Act as in force at the relevant time would have been bound to fail.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "96.\u00a0\u00a0The Court also notes that any action lodged under section 2 of the above-mentioned Act in the event of the discontinuance of the criminal proceedings against Mr Gutsanov or his acquittal would not have amounted to express or tacit acknowledgment of the breach of his right not to be subjected to inhuman or degrading treatment. Any such action would have had to establish that the damage in question had occurred as a result of charges being brought for a criminal offence in proceedings which were subsequently discontinued or ended in an acquittal. Accordingly, the examination of the facts by the domestic courts would have been confined to purely formal findings and would not have encompassed the actual substance of the applicants\u2019 complaints, namely what they saw as the unnecessary nature of the methods employed by the police in order to achieve the objective of the operation, and the adverse psychological effects of the law-enforcement operation on the four applicants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0In sum, the Court considers that, because of the deficiencies in the domestic legislation, neither the criminal complaint nor the action for damages against the State referred to by the Government would have constituted sufficiently effective domestic remedies in the instant case. The criminal remedy would have been bound to fail because of the absence of any provisions in Bulgarian law making it an offence to inflict psychological suffering (see paragraphs 90-92 above), while an action for compensation against the State would have been ineffective because of the limited scope of the domestic courts\u2019 review in the context of such proceedings (see paragraphs 94-96 above). The Government did not refer to any other remedy capable of affording redress to the applicants for the alleged violation of their rights under Article 3 of the Convention. In view of these considerations and of the arguments outlined above, the Court considers that the Government\u2019s rejection of non-exhaustion should be rejected.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0The Government also maintained that the complaint under Article 3 of the Convention had been lodged prematurely as the preliminary investigation concerning Mr Gutsanov was still pending. The Court can discern no direct link between the criminal proceedings to which the Government referred and the applicants\u2019 complaint: the proceedings in question are not designed to establish whether the agents of the State safeguarded the applicants\u2019 physical well-being or dignity, but rather to ascertain whether Mr Gutsanov was guilty of conspiracy and of various other criminal offences linked to his position as chairman of Varna municipal council ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0Even assuming that the Government expect the criminal proceedings to be discontinued or Mr Gutsanov to be acquitted, which would allow him to lodge a claim for damages under section 2 of the State and Municipalities Responsibility for Damage Act (see paragraph 95 above), the Court reiterates that an action of this kind could not lead to a finding of a violation of the applicants\u2019 right not to be subjected to inhuman or degrading treatment during the police operation at their home (see paragraph 96 above). In view of these considerations, the Court cannot criticise the applicants for having applied to it before the criminal proceedings against Mr Gutsanov were concluded. It follows that the present complaint is not premature and that the Government\u2019s preliminary objection should be rejected.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0The Government also contended that the applicants had not complied with the six-month time-limit laid down by Article 35 \u00a7 1 of the Convention. The Court reiterates that the six-month rule is closely linked to the rule of exhaustion of domestic remedies, as the six-month period runs from the date of the decision considered as final for the purposes of exhaustion of domestic remedies (see, among other authorities, Edwards v. the United Kingdom (dec.), no.\u00a046477/99, 7 June 2001). Nevertheless, where no adequate remedy is available in domestic law, the six-month period in principle starts to run from the date on which the act complained of took place (see Gongadze\u00a0v.\u00a0Ukraine, no. 34056/02, \u00a7 155, ECHR 2005XI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0In examining the objection of non-exhaustion raised by the Government, the Court noted that none of the remedies they referred to satisfied the effectiveness requirement under Article 35 \u00a7 1 of the Convention. Thus, in the present case, the start of the six-month period should be the date of the events giving rise to the complaint under Article 3, that is to say 31 March 2010. As the applicants lodged their application on 21 May 2010, the Court notes that the six-month time-limit for lodging an application with it was complied with in the instant case. The objection as to inadmissibility raised in this regard must therefore also be rejected.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "102.\u00a0\u00a0Lastly, the Government disputed the applicants\u2019 victim status, arguing that they had not been subjected to treatment contrary to Article 3. The Court considers that this objection should be joined to the examination of the merits of the complaint under Article 3 of the Convention. It notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Complaint concerning the lack of a criminal investigation into the events",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0The Court observes that the applicants raised this complaint in their written observations of 6 January 2012. In examining the admissibility of their application under the substantive aspect of Article 3, however, it noted that any criminal complaint seeking the opening of an investigation into the events would be bound to fail from the outset in view of the absence of any provision in domestic law laying down criminal penalties in respect of acts committed by police officers which cause psychological suffering (see paragraph 92 above); this argument was, moreover, advanced by the applicants themselves (see paragraph 84 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "104.\u00a0\u00a0The Court reiterates that, according to its settled case-law, the starting-point of the six-month period for lodging an application with it is the date on which the act complained of occurred, where domestic law does not afford appropriate remedies (see paragraph 100 above). It therefore considers that, in the present case, the six-month period for lodging an application under the procedural limb of Article 3 started on 31 March 2010. The applicants formulated their complaint one year and nine months later. It follows that this complaint was submitted out of time and must be rejected under Article 35 \u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "105.\u00a0\u00a0The applicants submitted that the manner in which the police operation at their home had been carried out was incompatible with Article\u00a03 of the Convention. On 31 March 2010, before dawn, a group of masked and heavily armed police officers had forced their way into their house without prior authorisation. The special officers had entered Mr and Mrs\u00a0Gutsanovi\u2019s bedroom and pointed their weapons at the couple\u2019s two minor daughters. Mr Gutsanov, an influential and respected politician, had been forced to kneel down and been handcuffed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0In the applicants\u2019 view, there had been no reason for the police operation to be planned and carried out in this manner, in particular as Mr\u00a0and Mrs Gutsanovi were respectable people who were well known in the city. Neither of them had a criminal record and there had been no reason to suppose that they would offer resistance to the law-enforcement officers. The search of their home did not constitute an urgent investigative measure under Article 161 \u00a7 2 of the Code of Criminal Procedure. According to the applicants, all these elements pointed to a real intention to intimidate them, undermine their dignity and induce a feeling of powerlessness in the face of the actions of the law-enforcement officers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0The police officers\u2019 actions had had an adverse psychological impact on the applicants. In particular, Mrs Gutsanova and her two daughters, aged five and seven, had been subjected to considerable psychological pressure, as noted by the psychiatrists who had examined them shortly after the events in issue. Mr Gutsanov, a respected politician belonging to an opposition political party, had been the victim of a brutal arrest which had been widely covered in the media and which, together with the arrests of other politicians, formed part of a propaganda campaign by the ruling party. The psychological effects of the treatment complained of had been sufficiently severe to exceed the threshold required by Article 3 and for the treatment in question to be characterised as \u201cdegrading\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0The Government contested the applicants\u2019 allegations and their version of events. They submitted that the police operation of 31 March 2010 had been planned meticulously and carried out in a way which respected the applicants\u2019 dignity and their rights. Mr Gutsanov\u2019s arrest and the search of his home had been carried out in the context of a criminal investigation into serious offences involving several suspected accomplices. The police had been informed that Mr Gutsanov kept a gun in his home.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0The police operation had been launched after sunrise, that is to say after 6 a.m. The police had knocked on the gate of the applicants\u2019 property, announced their presence and requested that the metal gate be opened. The security guard had opened the gate but explained that he did not have a key to the front door of the house. The police had run towards the door and knocked on it, demanding that it be opened immediately. Mr Gutsanov had appeared twice at the window of the house; he had seen and identified the police by their uniforms but had not come down to open the door. At that point, fearing that he might destroy evidence, fetch his firearm or try to escape, the special officers had forced open the door of the house. They had apprehended Mr Gutsanov on the second floor while he was trying to enter a bedroom where his wife and two children were.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0According to the Government, Mr Gutsanov had not been forced to kneel down. The officers had placed the handcuffs on him without using special immobilisation techniques and they had not pointed their weapons at his wife and daughters. The only officer who had gone into the bedroom on the second floor had been carrying only an electric stun gun and had not addressed the children or Mrs Gutsanova. The special officers had stayed in the house for only a few minutes and had left the premises after Mr\u00a0Gutsanov\u2019s arrest. Shortly afterwards, the applicant\u2019s handcuffs had been removed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0The police officers\u2019 actions had complied with domestic law. The search had been approved by a judge within twenty-four hours of being carried out and the regional public prosecutor\u2019s office, on the basis of the information supplied by the authorities, had found that the police officers had not committed any criminal offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "112.\u00a0\u00a0The Government conceded that the entry of the police into their home, and the search of the house, had undoubtedly aroused negative feelings in the applicants. However, they submitted that these were the normal and inevitable consequence of this kind of investigative measure; hence, the unpleasantness caused had not exceeded the threshold of severity beyond which Article 3 of the Convention applied. This was borne out, for instance, by the fact that the elder of the two girls had been taken to school as usual. The Government also maintained that if Mr Gutsanov had opened the front door of the house, the police officers would not have needed to resort to special measures to enter his home, which would have spared the members of his family the unpleasantness they had experienced.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "113.\u00a0\u00a0The Court reiterates that allegations of ill-treatment contrary to Article 3 of the Convention must be supported by appropriate evidence. To establish the facts, the Court applies the standard of proof \u201cbeyond reasonable doubt\u201d (see Ireland v. the United Kingdom, 18 January 1978, \u00a7\u00a0161 in fine, Series A no. 25). However, such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Salman, cited above, \u00a7 100).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "114.\u00a0\u00a0The Court notes that the events surrounding the police operation at the home of the four applicants were not the subject of any review by the domestic courts. When faced with similar situations, the Court has carried out its own assessment of the facts while complying with the rules laid down by its own case-law (see, by way of example, Sashov and Others v.\u00a0Bulgaria, no. 14383/03, \u00a7 48, 7 January 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "115.\u00a0\u00a0On the basis of these principles, the Court deems it appropriate to take as the starting-point of its analysis the circumstances not disputed between the parties and the evidence adduced by them. It will also take into account those allegations by the parties which are sufficiently corroborated by the undisputed facts and the evidence adduced.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "116.\u00a0\u00a0It is not disputed between the parties that the police operation at the applicants\u2019 home began shortly after 6.30 a.m. on 31 March 2010. The footage from the property\u2019s CCTV cameras made available to the Court, and the weather report from the Varna meteorological service, corroborated the applicants\u2019 allegation that the operation took place before sunrise, mainly around dawn (see paragraphs 20 and 21 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "117.\u00a0\u00a0The parties also agree that the police operations team was made up of uniformed officers, plain clothes officers and special officers who were armed and masked. The video footage submitted by the applicants (see paragraph 21 above) and the reports submitted by the Government (see paragraphs 22, 24 and 27 above) corroborate this.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "118.\u00a0\u00a0The fact that there was a firearm and ammunition in the applicants\u2019 home is also undisputed and is established by the search report. It is clear from the Government\u2019s observations and the reports they submitted that the police officers had been alerted by their superior officers to the presence of the weapon (see paragraphs 23 and 27 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "119.\u00a0\u00a0It is also common ground between the parties that the gate to the applicants\u2019 property was opened voluntarily by the security guard at the request of the police officers (see paragraphs 13 and 24 above). Moreover, the scene was filmed and recorded by the property\u2019s CCTV system (see paragraph 21 above). The parties also agree that the security guard informed the police officers of the identity of those present in the house and the fact that he did not have a key to the front door, and that the door was forced by the special officers who entered the house and arrested Mr Gutsanov (see paragraphs 13, 14, 24 and 25 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "120.\u00a0\u00a0Neither of the parties disputes the fact that the applicants were not physically injured during the police operation. The certificates attesting to the psychiatric examinations carried out on Mrs Gutsanova and her two daughters (see paragraphs 30 and 31 above) were not disputed by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0The first discrepancy between the parties\u2019 version of events concerns the description of Mr Gutsanov\u2019s conduct. According to the Government, he appeared twice at one of the windows of the house, saw the police officers and heard their calls but did not open the front door (see paragraph 25 above). The first applicant, meanwhile, stated that he had not realised that it was a police operation until the special officers entered the house and began to climb the stairs (see paragraph 16 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0The evidence available to the Court does not enable it to determine whether the applicant did actually appear at the window of his house and deliberately refused to open the front door to the police officers. However, it notes that it is not disputed that the police officers knocked at the front gate of the property and announced their presence to the security guard by calling out. According to the police officers, they then knocked on the front door of the house and called out \u201cPolice! Open up!\u201d. This assertion is corroborated by the statements made by Mr and Mrs Gutsanovi, according to which they were woken by shouts and knocking at the door of the house (see paragraph 15 above). Mr Gutsanov stated that he had gone down to the first floor of the house to fetch the two children before going back up to the bedroom on the second floor. This claim was corroborated by the version of the police officers who saw the outline of a man through the windows of the house (see paragraph 25 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0As to the exact place in which Mr Gutsanov was arrested, the Court observes that he himself admitted in his statement that when the police officers forced the door and issued verbal warnings, he had run up to the bedroom on the second floor where his wife and children were (see paragraph 16 above). The Court is not in a position to determine whether Mr Gutsanov was arrested inside the bedroom on the second floor of the house, as he claimed, or on the second-floor landing after he had come out of the bedroom of his own volition, as claimed by the Government. Nor has it been established beyond any reasonable doubt that the police officers spoke to Mrs Gutsanova and asked her to cover the children with the duvet. In any event the Court observes that, according to the witness evidence given by the special officers (see paragraphs 25 and 27 above), they saw Mr\u00a0Gutsanov\u2019s wife and children inside the bedroom when they went up to the second floor of the house in pursuit of Mr Gutsanov. The Court accepts that Mrs Gutsanova and her two daughters also saw the armed and masked men, if only through the bedroom door.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0In the Court\u2019s view, Mr Gutsanov\u2019s claim that he was forced to kneel down so that the police officers could place the handcuffs on him has not been proved beyond all reasonable doubt. As regards the handcuffing, it is not disputed that the special officers placed handcuffs on Mr Gutsanov downstairs (see paragraph 16 above). However, the Court observes that neither of the parties specified the length of time for which Mr Gutsanov remained in handcuffs. In any event, it cannot but observe that there is no evidence in the file to demonstrate that the first applicant was made to appear in handcuffs before the cameras of the journalists who had gathered outside the entrance to the property that day. Furthermore, the photograph taken as he was leaving the house, at around 1 p.m., shows no signs of him being handcuffed ... Accordingly, the Court considers that the present case falls to be distinguished in that regard from the case of Miros\u0142aw Garlicki, (cited above, \u00a7 75), in which the applicant was arrested at his workplace in front of his colleagues and patients, placed in handcuffs and filmed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0The Court reiterates that ill-treatment must attain a minimum level of severity if it is to fall within the scope of Article 3. The assessment of this minimum is relative: it depends on all the circumstances of the case, such as the duration of the treatment, its physical and mental effects and, in some cases, the sex, age and state of health of the victim. Treatment has been held by the Court to be \u201cinhuman\u201d because, inter alia, it was premeditated, was applied for hours at a stretch and caused either actual bodily injury or intense physical and mental suffering, and also \u201cdegrading\u201d because it was such as to arouse in its victims feelings of fear, anguish and inferiority capable of humiliating and debasing them (see Labita v. Italy [GC], no.\u00a026772/95, \u00a7 120, ECHR 2000IV). Psychological suffering may result from a situation in which State agents deliberately instil fear in individuals by threatening to kill or ill-treat them (see Hristovi, cited above, \u00a7 80).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0Article 3 does not prohibit the use of force by police officers during an arrest. Nevertheless, the use of force must be proportionate and absolutely necessary in the circumstances of the case (see, among many other authorities, Rehbock v. Slovenia, no. 29462/95, \u00a7 76, ECHR 2000XII, and Altay v. Turkey, no. 22279/93, \u00a7 54, 22 May 2001). In this regard, it is of importance for instance whether there is reason to believe that the person concerned would resist arrest or abscond, cause injury or damage or suppress evidence (see Raninen v. Finland, 16 December 1997, \u00a7 56, Reports 1997VIII). The Court reiterates in particular that any recourse by agents of the State to physical force against a person which has not been made strictly necessary by his or her own conduct diminishes human dignity and is in principle an infringement of the right set forth in Article 3 (see Rachwalski and Ferenc v. Poland, no. 47709/99, \u00a7 59, 28\u00a0July 2009). This strict proportionality test has also been applied by the Court in situations where the individuals concerned were already in the hands of the lawenforcement agencies (see, among other authorities, Klaas\u00a0v. Germany, 22 September 1993, \u00a7 30, Series A no. 269; Rehbock, cited above, \u00a7\u00a7 68-78; and Milan v. France, no. 7549/03, \u00a7\u00a7 52-65, 24 January 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "127.\u00a0\u00a0Turning to the facts of the present case, the Court observes that the operation pursued the legitimate aim of carrying out an arrest, a search and a seizure of items as well as the public-interest objective of prosecuting criminal offences. The Court must be satisfied that a fair balance was struck in the circumstances of the case between the demands of the general interest and the requirements of the protection of the individual\u2019s fundamental rights. It notes that, although the four applicants were not physically injured in the course of the impugned police operation, the latter necessarily entailed a degree of physical force. The front door of the house was forced open by the special operations team, Mr Gutsanov was immobilised by masked armed officers, led downstairs by force and handcuffed. The Court must therefore establish whether this use of physical force was proportionate and absolutely necessary in the instant case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0The aim of the police operation at the applicants\u2019 home that day was to arrest Mr Gutsanov, who was a suspect in a criminal case concerning misappropriation of public funds, and to carry out a search of the premises to look for physical and documentary evidence in the context of the same criminal investigation. It emerges from the evidence in the file that the investigation in question had been opened five months previously, that there were several suspects in the case and that the authorities suspected the existence of a conspiracy (see paragraph 9 ... above). The case clearly did not concern a group of individuals suspected of committing violent criminal acts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0With regard to Mr Gutsanov\u2019s personality, the Court observes that he was a well-known political figure in Varna: at the material time he was Chairman of the city\u2019s municipal council. Furthermore, there is no evidence in the file to suggest that he had a history of violence or that he might have presented a danger to the police officers conducting the operation at his home.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0It is true that Mr Gutsanov was the lawful owner of a firearm and ammunition which he kept at his home. This fact was known to the police and had been specifically mentioned at the briefing of the police team before the operation (see paragraph 23 above). This was undoubtedly a relevant factor which had to be taken into account by the officers during the operation at the applicants\u2019 home. However, the Court considers that the presence of the weapon in the applicants\u2019 home was not sufficient in itself to justify the deployment of a special operations team or the degree of force that was used in the instant case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "131.\u00a0\u00a0It is clear from the file that the possible presence of Mr Gutsanov\u2019s wife and minor children was not taken into consideration at any stage in planning and carrying out the police operation. The fact was not mentioned during the pre-operation briefing (see paragraph 23 above) and the police officers apparently paid no heed to the warning by the security guard that young children were present in the house (see paragraph 24 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "132.\u00a0\u00a0Of course, the Court cannot go so far as to require the lawenforcement agencies not to arrest persons suspected of criminal offences in their homes whenever their children or spouses are present. However, it considers that the possible presence of family members at the scene of an arrest is a circumstance that must be taken into consideration in planning and carrying out this type of police operation. This was not done in the present case and the law-enforcement agencies did not contemplate any alternative means of carrying out the operation at the applicants\u2019 home, such as staging the operation at a later hour or even deploying a different type of officer in the operation. Consideration of the legitimate interests of Mrs\u00a0Gutsanova and her daughters was especially necessary since the former was not under suspicion of involvement in the criminal offences of which her husband was suspected, and her two daughters were psychologically vulnerable because they were so young (five and seven years of age).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "133.\u00a0\u00a0The Court also observes that the lack of prior judicial review of the necessity and lawfulness of the search left the planning of the operation entirely at the discretion of the police and the criminal investigation bodies and did not enable the rights and legitimate interests of Mrs Gutsanova and her two minor daughters to be taken into consideration. In the Court\u2019s view, such prior judicial review, in the specific circumstances of the present case, would have enabled their legitimate interests to be weighed against the public-interest objective of arresting persons suspected of committing a criminal offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "134.\u00a0\u00a0As regards the psychological effects of the police operation on the applicants, the Court observes that police operations which entail intervention in the home and the arrest of suspects inevitably arouse negative emotions in the persons targeted. However, in the present case, there is concrete, undisputed evidence that Mrs Gutsanova and her two minor daughters were very severely affected by the events. Mrs Gutsanova consulted a psychiatrist on two occasions complaining of insomnia and acute anxiety and was prescribed tranquillisers (see paragraph 31 above). The two girls were also examined by a psychiatrist who observed that, when recalling the events, they reacted by crying or displaying acute anxiety (see paragraph 30 above). Mrs Gutsanova stated that her younger daughter, B., had started stammering again (see paragraph 28 above). As for S., the couple\u2019s elder daughter, the statements by her aunt and her schoolteacher indicated that she had been deeply affected by the police operation at her home and by her father\u2019s arrest (see paragraph 29 above). The Court also considers that the fact that the police operation took place in the early morning and involved special officers wearing masks, who were seen by Mrs Gutsanova and her two daughters, served to heighten the feelings of fear and anxiety experienced by these three applicants, to the extent that the treatment to which they were subjected exceeded the threshold of severity required for Article 3 of the Convention to apply. The Court therefore considers that these three applicants were subjected to degrading treatment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "135.\u00a0\u00a0As regards the adverse psychological effects of the police operation on Mr Gutsanov, the Court cannot but observe that the first applicant did not produce any medical evidence to this effect. Nevertheless, he stated that the humiliation and anxiety he had experienced during the heavy-handed operation to arrest him, in front of the members of his family, had been sufficiently intense for Article 3 to apply in his case (see paragraph 107 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "136.\u00a0\u00a0The Court reiterates its findings to the effect that the police operation in question was planned and carried out without regard for a number of relevant factors such as the nature of the criminal offences of which Mr Gutsanov was suspected, the fact that he had no history of violence, and the possible presence of his wife and daughters in the family home. All these elements point clearly to the excessive nature of the deployment of special officers and special procedures in order to arrest the first applicant and enable the police to enter his home. The Court considers that, in the light of these circumstances, the manner in which Mr Gutsanov\u2019s arrest was carried out \u2013 very early in the morning, by several armed and masked officers who forced their way in through the door of the house, and under the frightened gaze of Mr Gutsanov\u2019s wife and two young daughters \u2013 aroused strong feelings of fear, anguish and powerlessness in the first applicant, capable of humiliating and debasing him in his own eyes and in the eyes of his close relatives. The Court considers that the intensity of these feelings exceeded the threshold of severity required for Article 3 to apply. Accordingly, Mr Gutsanov too was subjected to degrading treatment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "137.\u00a0\u00a0In conclusion, having taken into account all the relevant circumstances in the present case, the Court considers that the police operation at the applicants\u2019 home was not planned and carried out in such a way as to ensure that the means employed were strictly necessary in order to attain the ultimate objectives of arresting a person suspected of committing criminal offences and gathering evidence in the context of a criminal investigation. The four applicants were subjected to a psychological ordeal which aroused in them strong feelings of fear, anguish and powerlessness and which, on account of its adverse effects, amounted to degrading treatment for the purposes of Article 3. There has therefore been a violation of that provision in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to join to the merits the Government\u2019s objection regarding the applicants\u2019 victim status in respect of the complaint under Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares, unanimously, the complaints concerning Article 3 admissible ...;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds, unanimously, that there has been a violation of Article 3 in respect of the four applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "...",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in French, and notified in writing on 15 October 2013, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "...",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Ineta Ziemele",
+            "role": "president"
+        },
+        {
+            "name": "P\u00e4ivi Hirvel\u00e4",
+            "role": "judges"
+        },
+        {
+            "name": "George Nicolaou",
+            "role": "judges"
+        },
+        {
+            "name": "Ledi Bianku",
+            "role": "judges"
+        },
+        {
+            "name": "Zdravka Kalaydjieva",
+            "role": "judges"
+        },
+        {
+            "name": "Krzysztof Wojtyczek",
+            "role": "judges"
+        },
+        {
+            "name": "Faris Vehabovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Fran\u00e7oise Elens-Passos",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GUTSANOVI v. BULGARIA [Extracts]",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-126982.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2013:1015JUD003452910",
+    "externalsources": [],
+    "extractedappno": [
+        "34529/10",
+        "26966/10",
+        "30336/10",
+        "37124/10",
+        "44885/10",
+        "45773/10",
+        "55388/10",
+        "65755/01",
+        "68294/01",
+        "73481/01",
+        "21986/93",
+        "22277/93",
+        "43233/98",
+        "44041/98",
+        "42697/05",
+        "36921/07",
+        "46477/99",
+        "34056/02",
+        "14383/03",
+        "26772/95",
+        "29462/95",
+        "22279/93",
+        "47709/99",
+        "7549/03"
+    ],
+    "importance": "1",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-126982",
+    "judgementdate": "15/10/2013 00:00:00",
+    "kpdate": "15/10/2013 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "448",
+        "30",
+        "227",
+        "404",
+        "45",
+        "445",
+        "76",
+        "325",
+        "451",
+        "426",
+        "319",
+        "556",
+        "444",
+        "110",
+        "183",
+        "498",
+        "14",
+        "128",
+        "216",
+        "238"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "7",
+    "paragraphs": [
+        "13",
+        "3",
+        "5-3",
+        "8",
+        "5-5",
+        "8-1",
+        "34",
+        "35-1",
+        "8-2",
+        "35",
+        "5",
+        "6",
+        "6-2",
+        "41"
+    ],
+    "parties": [
+        "GUTSANOVI",
+        "BULGARIA [Extracts]"
+    ],
+    "rank": "1040.77685546875",
+    "representedby": [
+        "BACHVAROVA-ZHELYAZKOVA S.",
+        "EKIMDZHIEV M."
+    ],
+    "respondent": "BGR",
+    "respondentOrderEng": "8",
+    "scl": [
+        "Akdivar and Others v. Turkey, 16 September 1996, \u00a7\u00a7 65-68, Reports of Judgments and Decisions 1996-IV",
+        "Aksoy v. Turkey, 18 December 1996, \u00a7 52, Reports 1996-VI",
+        "Allen v. the United Kingdom [GC], no 25424/09, \u00a7 93, 12 July 2013",
+        "Allenet de Ribemont v. France, 10 February 1995, Series A no 308",
+        "Altay v. Turkey, no 22279/93, \u00a7 54, 22 May 2001",
+        "Aquilina v. Malta [GC], no 25642/94, \u00a7 48, ECHR 1999-III",
+        "Assenov and Others v. Bulgaria, 28 October 1998, \u00a7 86, Reports 1998-VIII",
+        "Brogan and Others v. the United Kingdom, 29 November 1988, \u00a7 59, Series A no 145-B",
+        "Butkevicius v. Lithuania, no 48297/99, \u00a7\u00a7 49, 50, 53, ECHR 2002-II (extracts)",
+        "Camenzind v. Switzerland, 16 December 1997, \u00a7 45, Reports of Judgments and Decisions 1997-VIII",
+        "Daktaras v. Lithuania, no 42095/98, ECHR 2000-X",
+        "Danov v. Bulgaria, no 56796/00, \u00a7 86, 26 October 2006",
+        "Gongadze v. Ukraine, no 34056/02, \u00a7 155, ECHR 2005-XI",
+        "Guerra and Others v. Italy, 19 February 1998, \u00a7 44, Reports 1998-I",
+        "Heino v. Finland, no 56720/09, 15 February 2011",
+        "Hristovi v. Bulgaria, no 42697/05, 11 October 2011",
+        "Ilhan v. Turkey [GC], no 22277/93, \u00a7 58, ECHR 2000-VII",
+        "Iliya Stefanov v. Bulgaria, no 65755/01, 22 May 2008",
+        "Ipek and Others v. Turkey, nos. 17019/02 and 30070/02, \u00a7\u00a7 36 and 37, 3 February 2009",
+        "Ireland v. the United Kingdom, 18 January 1978, \u00a7 161 in fine, Series A no 25",
+        "Kandjov v. Bulgaria, no 68294/01, \u00a7\u00a7 66-67, 6 November 2008",
+        "Kemerov v. Bulgaria (dec.), no 44041/98, 2 September 2004",
+        "Khodorkovskiy v. Russia, no 5829/04, \u00a7 220, 31 May 2011",
+        "Klaas v. Germany, 22 September 1993, \u00a7 30, Series A no 269",
+        "Kuzmin v. Russia, no 58939/00, \u00a7 64, 18 March 2010",
+        "Labita v. Italy [GC], no 26772/95, ECHR 2000-IV",
+        "Lamy v. Belgium, 30 March 1989, \u00a7 29, Series A no 151",
+        "Liberty and Others v. the United Kingdom, no 58243/00, \u00a7 59, 1 July 2008",
+        "Marchiani v. France (dec.), no 30329/03, 27 May 2008",
+        "Marziano v. Italy, no 45313/99, \u00a7 31, 28 November 2002",
+        "Matija\u0161evic v. Serbia, no 23037/04, \u00a7 48, ECHR 2006-X",
+        "McKay v. the United Kingdom [GC], no 543/03, \u00a7 47 in fine, ECHR 2006-X",
+        "Milan v. France, no 7549/03, \u00a7\u00a7 52-65, 24 January 2008",
+        "Miroslaw Garlicki v. Poland, no 36921/07, \u00a7\u00a7 77-78, 14 June 2011",
+        "Osman and Osman v. Bulgaria (dec.), no 43233/98, 6 May 2004",
+        "Paul and Audrey Edwards v. the United Kingdom (dec.), no 46477/99, 7 June 2001",
+        "Rachwalski and Ferenc v. Poland, no 47709/99, \u00a7 59, 28 July 2009",
+        "Raninen v. Finland, 16 December 1997, \u00a7 56, Reports of Judgments and Decisions 1997-VIII",
+        "Rehbock v. Slovenia, no 29462/95, \u00a7\u00a7 68-78 , ECHR 2000-XII",
+        "Rotaru v. Romania [GC], no 28341/95, \u00a7 52, ECHR 2000-V",
+        "Salman v. Turkey [GC], no 21986/93, ECHR 2000-VII",
+        "Sashov and Others v. Bulgaria, no 14383/03, \u00a7 48, 7 January 2010",
+        "Smirnov v. Russia, no 71362/01, \u00a7 45 in fine, 7 June 2007",
+        "Svetoslav Hristov v. Bulgaria, no 36794/03, \u00a7\u00a7 62 and 63, 13 January 2011",
+        "Y.B. and Others v. Turkey, nos. 48173/99 and 48319/99, \u00a7 44, 28 October 2004",
+        "Yordanov v. Bulgaria, no 56856/00, 10 August 2006",
+        "Zollmann v. the United Kingdom (dec.), no 62902/00, ECHR 2003-XII"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "453969",
+    "typedescription": "15"
+}

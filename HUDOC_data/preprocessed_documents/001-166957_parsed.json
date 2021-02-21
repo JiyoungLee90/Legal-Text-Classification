@@ -1,0 +1,959 @@
+{
+    "__articles": "3;5;5-1;5-3;5-5",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Procedure prescribed by law);Violation of Article 5 - Right to liberty and security (Article 5-3 - Length of pre-trial detention;Reasonableness of pre-trial detention);Violation of Article 5 - Right to liberty and security (Article 5-5 - Compensation)",
+    "applicability": "",
+    "appno": "30198/11",
+    "article": [
+        "3",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-5 - Compensation"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-166957.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 30198/11) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Ukrainian national, Mr Yakov Ilkovich Strogan (\u201cthe applicant\u201d), on 10\u00a0May 2011.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by Ms\u00a0A.\u00a0Mukanova, a lawyer practising in Kharkiv. The Ukrainian Government (\u201cthe Government\u201d) were represented, most recently, by their Agent, Mr I. Lishchyna.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged under Article 3 of the Convention that he had been ill-treated by police officers and that there had been no effective investigation of those events. He further complained that his arrest and pre-trial detention had violated Article\u00a05 \u00a7\u00a7 1 and 3 of the Convention. The applicant also complained under Article 5 \u00a7 4 of the Convention that he had not had access to any effective procedure for review of the lawfulness of his detention and that he could not claim compensation in respect of his complaints of unlawful arrest and detention, in breach of Article 5 \u00a7 5 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 4 May 2015 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1967 and lives in Kharkiv.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0Late in the evening of 15 August 2010 the applicant had a fight with his neighbour. The neighbour complained to the police that the applicant had injured him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Alleged ill-treatment and detention between 16 and 19 August 2010",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0On the morning of 16 August 2010 the police took the applicant to the Kyivskyy District police station in Kharkiv (\u201cthe district police\u201d). The applicant was at the police station from 7\u00a0a.m. to 9.45\u00a0a.m. and gave evidence in relation to the fight with his neighbour. The applicant claimed that he had acted in self-defence. According to the Government, at 9.45 a.m. the applicant left the police station and had no further contact with the police during the period at issue. His presence at the police station from 7\u00a0a.m. to 9.45\u00a0a.m. was noted in the police\u2019s records.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0According to the applicant, at 9.45 a.m., as he left the police station, police officers took him and drove him to a forest where they beat him up and tortured him using handcuffs and an electric shock device. The police officers then took the applicant to another part of the police station that he had just left, where they continued to ill-treat him. During that time the police officers put pressure on the applicant to admit that he had intended to murder his neighbour. On 19\u00a0August 2010 they released him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 21 August 2010, following the applicant\u2019s complaint to the internal security unit of the Kharkiv Region police, he was examined by a forensic medical expert. The latter found that the applicant had sustained bruises on his head, nose, upper lip and chest. The expert considered those injuries as being minor and that they could have been caused by blunt, solid objects during a period of three to five days before the medical examination.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 25 August 2010 the assistant prosecutor of the Kyivskyy District prosecutor\u2019s office of Kharkiv (\u201cthe prosecutor\u2019s office\u201d) inspected the premises of the police station where the applicant had allegedly been ill-treated. He found traces of a brown substance on the floor, wall, and balcony, as well as on the pillowcase and two mattress covers. Samples of the substance were taken and submitted to an expert for examination.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 26\u00a0August 2010 the expert stated that the brown substance was blood.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The prosecutor\u2019s office then questioned police officers A., M.B., M.A. and G. They all denied the allegations of ill-treatment and submitted that the applicant had sustained the injuries before being taken to the police station, namely during the scuffle with his neighbour. The officers stated that the applicant\u2019s nose had been injured before and that it bled from time to time, that he had been offered an antiseptic tissue, that he had declined an offer by the police officers to go to a hospital and that he had continued voluntarily to give evidence about the fight with his neighbour. They also mentioned that the applicant had gone on to the balcony to have a smoke where he might have left traces of blood.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 7 and 8 October 2010 the applicant submitted further complaints of ill-treatment to the internal security unit of the Kharkiv Region police and the prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 29 October 2010 the prosecutor\u2019s office, having completed its pre-investigation inquiry, refused to initiate criminal proceedings concerning the applicant\u2019s allegations that he had been ill-treated by police officers between 16 and 19 August 2010. According to that decision, the applicant had only been present at the district police station between 7 a.m. and 9.45 a.m. on 16 August 2010 and there had been no evidence suggesting that the police officers had been involved in any alleged illtreatment or unlawful detention. The applicant challenged that decision in the courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 23 February 2011 the Kyivskyy District Court of Kharkiv (\u201cthe District Court\u201d) found that the decision of 29 October 2010 by the prosecutor\u2019s office had been lawful and substantiated. The applicant appealed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 11 April 2011 the Court of Appeal upheld the District Court decision of 23 February 2011. The applicant lodged an appeal on points of law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 9 February 2012 the Higher Specialised Court for Civil and Criminal Matters quashed the District Court decision of 23 February 2011 as unfounded and remitted the case to the District Court for fresh consideration.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 10 May 2012 the District Court reversed the decision of the prosecutor\u2019s office of 29 October 2010, finding that the measures taken to examine the applicant\u2019s allegations had been insufficient. The court ordered a further pre-investigation inquiry to establish the applicant\u2019s whereabouts between 16 and 19 August 2010 and the circumstances in which he had sustained his injuries.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 27 June 2012 the prosecutor\u2019s office refused to initiate criminal proceedings against the police officers for lack of corpus delicti. According to the decision, which referred to the explanations by the police officers and other evidence, the applicant had left the police station at 9.45 a.m. on 16\u00a0August 2010 and there had been no involvement of the officers in any unlawful action in relation to the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 19 May 2014 the applicant lodged a complaint under the Code of Criminal Procedure of 2012 (\u201cthe CCP of 2012\u201d), alleging that he had been ill-treated by police officers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 11 August 2014 the Kharkiv Region prosecutor\u2019s office commenced a pre-trial investigation in relation to the alleged events of 16 to 19 August 2010.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 13 November 2014 a forensic medical expert issued a report repeating the findings of the forensic report of 21 August 2010 as regards the documented injuries.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 15 December 2014 the Kharkiv Region prosecutor\u2019s office terminated the investigation, finding that the applicant\u2019s allegations had been refuted by the statements of the police officers, other witnesses, and documentary and medical evidence which suggested that the applicant might have sustained minor injuries during his fight with the neighbour on 15 August 2010.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0On 15 September 2010 a forensic medical expert issued a report stating that the applicant\u2019s neighbour had sustained three incised wounds, one of which had been on the neck.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 23 September 2010 the district police opened criminal proceedings in relation to the moderately severe injuries sustained by the applicant\u2019s neighbour during the fight of 15 August 2010. Subsequently, the case was classified as attempted murder.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0At 2.45 p.m. on 9 December 2010 an investigator with the district police arrested the applicant on suspicion of attempted murder. The investigator relied on Article 115 of the Code of Criminal Procedure of 1960 (\u201cthe CCP of 1960\u201d). As regards the grounds for the applicant\u2019s arrest without a court decision, the investigator cited the three sub-paragraphs of the first paragraph of Article 106 of the CCP of 1960 (see paragraph 45 below). He further noted in his report that the applicant had been suspected of attempted murder, that he had a record of serious offences, and that his arrest would prevent the applicant from absconding and impeding the execution of a judgment. The investigator then charged the applicant and questioned him in relation to the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 10 December 2010 the District Court ordered the applicant\u2019s pretrial detention. It stated that the applicant had been charged with a serious crime, that he had two criminal offences on his record, and that he had no official income. The court concluded that there was a risk that if the applicant remained at liberty he might impede the establishment of the truth, hide evidence, influence the investigation, abscond or reoffend. The court further considered that a personal guarantee, which had been offered by an NGO in respect of the applicant, would not ensure his proper conduct during the criminal proceedings. Furthermore, there had been no suggestion that the applicant could not be held in a detention facility for health reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 16 December 2010 the Kharkiv Regional Court of Appeal (\u201cthe Court of Appeal\u201d) dismissed an appeal by the applicant against the decision of 10 December 2010, finding that there were sufficient grounds to keep him in custody.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0On 4 February 2011 a bill of indictment was approved by the prosecutor and the case file was sent to the District Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 25 February 2011 the District Court committed the applicant for trial on a charge of attempted murder. As regards the preventive measure, the court ruled that the applicant should be held in custody. It stated that the applicant had been charged with a serious offence, that he was unemployed, had refused to admit his guilt, and that he had two serious offences on his criminal record. The court pointed out that no new information had been added to the material which had been examined earlier by the District Court and the Court of Appeal when deciding on keeping the applicant in custody.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0On 11 May, 1 July and 29 September 2011 the District Court dismissed applications by the applicant for a change in the preventive measure and maintained its earlier decision to keep him in custody. The court stated that the applicant had been charged with a serious offence, was unemployed, had a criminal record, and had refused to admit his guilt. As to the question of bail, the court noted that no document had been produced to suggest that any funds were available for that purpose.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0 On 12 March 2012 the applicant was released from custody after giving a written undertaking not to abscond. The District Court stated that the trial was in its final stages so the applicant could no longer impede the establishment of the truth. The applicant also had a permanent place of residence where he lived with his family.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0On 13 August 2012 the District Court convicted the applicant of inflicting minor bodily injuries on his neighbour. The court found that attempted murder had not been established during the trial. It sentenced the applicant to two years of restriction of liberty. Having regard to the period of the applicant\u2019s pre-trial detention, the court found that the sentence had been served.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0On 14 February 2013 the Kharkiv Court of Appeal upheld the judgment of 13 August 2012.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Alleged ill-treatment on 9 and 10 December 2010",
+                                "elements": [
+                                    {
+                                        "content": "35.\u00a0\u00a0On 9 December 2010, following his arrest and questioning (see paragraph 26 above), the applicant was placed in a police cell. According to the applicant, on the evening and night between 9 and 10\u00a0December 2010 police officers beat him up at the police station.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0As the applicant had complained about his health, he was examined late in the evening of 9 December 2010 by a panel of doctors who found no injuries on his body.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 10 December 2010 the hearing before the District Court concerning the preventive measure in the applicant\u2019s case was interrupted because the applicant had to be provided with medical care. The ambulance team which arrived at the court stated that the applicant had concussion, a haematoma by the left eye and a bruise on his chest. The applicant complained that the injuries had been inflicted by police officers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0On the same day the deputy prosecutor of the Kyivskyy District of Kharkiv ordered that the applicant be examined and asked the medical expert to detail, among other things, the nature, quantity, location, and severity of his injuries. He also asked the expert to state whether the injuries could have been inflicted by the applicant himself.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0On 11 December 2010, following the court decision of 10 December 2010 to hold the applicant in custody (see paragraph 27 above), he was taken under escort to the Kharkiv pre-trial detention centre. Upon arrival he was examined by the medical staff who documented the following injuries: a haematoma by the left eye, bruises on the left abdominal area and neck, a haematoma on the right thigh, and swelling in his genitals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0On 13 December 2010 a doctors\u2019 panel examined the applicant and found that he had sustained bruising on the soft tissue of his head and had a haematoma on his left eyelid.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0On 14 December 2010 the applicant was examined by a forensic medical expert as requested (see paragraph 38 above). In his report of 15\u00a0December 2010 the expert stated that the applicant had sustained bruises on his face, neck, chest, left shoulder, right leg and right shin. The expert considered the injuries to be minor and that they had been inflicted by blunt, solid objects during a period of between three to six days before the examination. The expert added that all the injuries could have been selfinflicted.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0On 21 December 2010 the prosecutor\u2019s office, having concluded its pre-investigation inquiry, refused to open criminal proceedings concerning alleged police brutality against the applicant on 9 and 10 December 2010. According to the decision, there had been no evidence suggesting that the applicant\u2019s injuries documented after the alleged ill-treatment had been caused by police officers. The decision referred to the police officers\u2019 statements that the applicant had inflicted the injuries on himself.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The applicant challenged that decision before the District Court, but received no reply. In 2012, 2013 and 2015 he made applications to the District Court in relation to his complaint, but to no avail.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Constitution of 28 June 1996",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The relevant part of Article 29 of the Constitution reads:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... In the event of an urgent necessity to prevent or stop a crime, bodies authorised by law may hold a person in custody as a temporary preventive measure, the reasonable grounds for which shall be verified by a court within seventy-two hours. The detained person shall be released immediately if, within seventy-two hours of the moment of detention, he or she has not been provided with a reasoned court decision in respect of the detention. ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Everyone who has been detained has the right to challenge his or her detention in court at any time. ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Code of Criminal Procedure of 28\u00a0December 1960 (in force until 20 November 2012)",
+                                "elements": [
+                                    {
+                                        "content": "45.\u00a0\u00a0Relevant provisions of this Code provide:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe body of inquiry shall only be entitled to arrest a person suspected of a criminal offence for which a penalty in the form of deprivation of liberty may be imposed on one of the following grounds:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1) if the person is discovered whilst or immediately after committing an offence;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) if eyewitnesses, including victims, directly identify this person as the one who committed the offence;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3) if clear traces of the offence are found either on the body of the suspect, or on his clothing, or with him, or in his home.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If there is other information giving rise to grounds for suspecting a person of a criminal offence, a body of inquiry may arrest that person if the latter attempts to flee, or does not have a permanent place of residence, or if the identity of that person has not been established.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAn investigator may arrest and question a person suspected of a crime according to the procedure envisaged by Articles 106, 106-1, and 107 of the Code.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAt the stage of the pre-trial investigation, a non-custodial preventive measure shall be selected by the body of inquiry, or investigator, or prosecutor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If there are grounds for applying a custodial preventive measure, the body of inquiry or the investigator, following the prosecutor\u2019s consent, shall lodge a request with the court. ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The request shall be considered within seventy-two hours of the arrest of the suspect or accused.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If the request concerns the detention of a person who is at liberty, the judge shall have the power to issue a warrant for the arrest of such a person and for escorting him to the court. In such cases the preliminary detention shall not exceed seventy-two hours; and if the person concerned is outside the locality in which the court operates, it shall not exceed forty-eight hours from the time the arrested person has been taken to the locality.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Upon receiving the request, the judge shall examine the material in the case file submitted by the body of inquiry, or investigator, or prosecutor. A judge shall question the suspect or the accused and, if necessary, hear evidence from the person who is in charge of the criminal case, obtain the opinion of the prosecutor, the defence counsel, if the latter appeared before the court, and take a decision:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1) refusing to apply the [custodial] preventive measure if there are no grounds for doing so;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) applying the custodial preventive measure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If it refuses to apply a custodial preventive measure, the court shall have the power to apply a non-custodial preventive measure in respect of the suspect or the accused. ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Code of Criminal Procedure of 13 April 2012 (in force since 20\u00a0November 2012)",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The relevant provisions of the Code can be found in the decision in the case of Nagorskiy v. Ukraine (no. 37794/14, \u00a7 38, 12 January 2016).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "47.\u00a0\u00a0The applicant complained that on two occasions, in August and December 2010, he had been ill-treated by police officers and that there had been no effective investigation of those events. He relied on Article 3 of the Convention which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The Government did not make any objections as to the admissibility of the above complaints. The applicant maintained his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court notes that this part of application is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The alleged ill-treatment in August 2010",
+                                        "elements": [
+                                            {
+                                                "content": "50.\u00a0\u00a0The applicant argued that the State had failed to investigate his allegations of ill-treatment effectively.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The Government contended that the domestic authorities had taken all reasonable steps in order to discharge their procedural obligations under Article 3 of the Convention. They specified that the examination of the applicant\u2019s complaint had been carried out with the requisite expediency and thoroughness.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court reiterates that where an individual makes an arguable claim that he has been ill-treated by the State authorities, in breach of Article\u00a03, that provision, read in conjunction with the State\u2019s general duty under Article 1 of the Convention, requires by implication that there should be an effective official investigation. For the investigation to be regarded as \u201ceffective\u201d, it should in principle be capable of leading to the establishment of the facts of the case and to the identification and punishment of those responsible. This is not an obligation of result, but one of means. The authorities must have taken the reasonable steps available to them to secure the evidence concerning the incident, including, inter alia, eyewitness testimony, forensic evidence, and so on. Any deficiency in the investigation which undermines its ability to establish the cause of injuries or the identity of the persons responsible will risk falling foul of this standard, and a requirement of promptness and reasonable expedition is implicit in this context (see, among many authorities, Assenov and Others v. Bulgaria, 28\u00a0October 1998, \u00a7\u00a7 102 et seq., Reports of Judgments and Decisions 1998VIII, and Mikheyev v. Russia, no. 77617/01, \u00a7\u00a7 107 et seq., 26 January 2006).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0As to the present case, the Court, having regard to the medical expert\u2019s findings of 21 August 2010 (see paragraph 9 above), considers that the applicant made an arguable complaint of ill-treatment before the domestic authorities which triggered their procedural obligation under Article 3 of the Convention to carry out an effective investigation of the allegation. The Court further notes that between 2010 and 2012 the applicant\u2019s allegation was examined by means of a pre-investigation inquiry without a full-scale investigation being opened. However, that investigative procedure did not comply with the principles of an effective remedy because the inquiring officer could only take a limited number of steps and the victim had no formal status, meaning his effective participation in the procedure was excluded (see Davydov and Others v. Ukraine, nos.\u00a017674/02 and 39081/02, \u00a7\u00a7 310-312, and Savitskyy v. Ukraine, no.\u00a038773/05, \u00a7 105, 26 July 2012). It is noteworthy that on 10 May 2012 the domestic court quashed the decision of 29 October 2010 to refuse to initiate criminal proceedings on the grounds that the inquiry had been incomplete and that further measures had been required (see paragraph 18\u00a0above). It is regrettable, however, that it took more than one year and a half for the domestic court to reach such a conclusion.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court considers that the pre-investigation inquiries carried out in that period did not ensure a thorough investigation of the circumstances in which the applicant sustained his injuries. The medical evidence implicating the police officers was discarded, essentially on the basis of statements by those same police officers, and it does not appear that any further steps to scrutinise the applicant\u2019s allegations were taken. The authorities did not duly examine why multiple blood traces were found in the room where the applicant had allegedly been ill-treated (see paragraph 10 above) and did not establish whether the blood found there belonged to the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0As regards the subsequent pre-trial investigation pursuant to the CCP of 2012, the applicant submitted his complaint under that new procedure on 19 May 2014. It appears that the applicant lodged his complaint after a certain delay and that fact is relevant to the assessment of the overall length of the domestic proceedings. However, it does not affect the Court\u2019s examination of the thoroughness of the investigation which the authorities were obliged to ensure. In that regard it can be noted that the authorities were aware of the possible ill-treatment from at least 21 August 2010 when the applicant lodged a complaint for the first time. As to the applicant\u2019s complaint of 19 May 2014, the domestic authorities commenced the pretrial investigation after a three-month delay (see paragraph 21 above). They later terminated the investigation apparently without taking any tangible measures to examine the alleged circumstances (see paragraphs 22\u00a0and 23 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the authorities failed to carry out a thorough investigation of the applicant\u2019s allegation of ill-treatment. There has therefore been a violation of Article 3 of the Convention under its procedural limb in relation to the investigation of the events of August 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The applicant maintained his complaint and insisted that he had not had any injuries before being taken to the police station.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Government submitted that the applicant\u2019s injuries documented on 21 August 2010 might have been sustained during the fight with his neighbour, which took place before the alleged ill-treatment. Furthermore, in their opinion the applicant had made contradictory allegations of illtreatment which had not been supported by relevant evidence. In that regard the Government pointed out that the applicant\u2019s injuries were not consistent with his claims that he had received electric shocks and that several police officers had ill-treated him over a period of four days.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0Allegations of ill-treatment contrary to Article 3 must be supported by appropriate evidence. To assess that evidence, the Court adopts the standard of proof of \u201cbeyond reasonable doubt\u201d but notes that such proof may also follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see, among many authorities, Bouyid v. Belgium [GC], no. 23380/09, \u00a7 82, ECHR 2015, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0There is no dispute between the parties about the fact that early on the morning of 16 August 2010 the applicant was taken to the police station to give evidence about the fight with his neighbour that had occurred on the evening of the preceding day. The parties disagree as to the time when the applicant ceased to be under the control of the police. According to the Government, the applicant was released at 9.45 a.m. on 16 August 2010, while the applicant contended that he was taken at that time to a forest and then to another part of the police station where he was ill-treated until 19\u00a0August 2010. The parties disagree about the origin of the injuries the applicant displayed on 21 August 2010. The Government suggested that the injuries might have been sustained during the fight with the neighbour and that they had therefore pre-dated the applicant\u2019s contact with the police.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0 In his submissions before the Court the applicant did not allege that he had been ill-treated at the police station in the period between 7 a.m. and\u00a09.45 a.m. on 16 August 2016. His allegations of ill-treatment relate to the subsequent period which ended on 19 August 2010. In that regard the Court notes that there is no supporting material to suggest that the applicant remained under the control of police after 9.45 a.m. on 16 August 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The Court further notes that a medical examination of the applicant only took place on 21 August 2010 when the applicant requested such examination for the first time. Given the considerable intervening period such medical evidence cannot conclusively implicate the police officers. Furthermore, the injuries documented by the medical expert (see paragraph 9 above) do not support the applicant\u2019s allegations as to the specific methods of his ill-treatment, namely that he was given electric shocks on his body. At the same time the medical report did not expressly exclude that the displayed injuries might have been sustained by the applicant during the fight with his neighbour, as maintained by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The Court then observes that blood spots were identified on the premises of the police station which could correspond to the applicant\u2019s allegation that at certain point of time he had been taken back from the forest to the police station where the alleged ill-treatment continued. However, it was not established whether the blood spots were attributable to the applicant. The lack of this information has been viewed by the Court as a procedural failing when considering procedural aspect of Article 3 of the Convention (see paragraph\u00a056 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In conclusion, on the basis of the available material it cannot be established that the applicant was under the control of the police for longer than was admitted by the Government, that subsequently he was taken to a forest, that handcuffs were used to ill-treat him or that he was given electric shocks on his body and that he was brought back to another part of the police station where the ill-treatment continued (see paragraph 8 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0There has therefore been no violation of Article 3 of the Convention under its substantive limb on account of the inhuman and degrading treatment of the applicant in August 2010.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The alleged ill-treatment in December 2010",
+                                        "elements": [
+                                            {
+                                                "content": "66.\u00a0\u00a0The applicant submitted that the pre-investigation inquiry in relation to his allegations of ill-treatment had been manifestly incompatible with the procedural requirements of Article 3 of the Convention. His attempt to challenge the decision of 21 December 2010 had been unsuccessful and he had had no information on whether the District Court had considered his complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0The Government contended that the authorities had carried out an effective investigation of the applicant\u2019s allegations of ill-treatment. In particular, the applicant had been examined by a doctor, and the authorities had questioned the applicant, his lawyer, the police officers and doctors.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court finds that the applicant\u2019s injuries were serious enough (see paragraphs 37, 39-41 above) and that his complaint of ill-treatment was arguable for the purpose of Article 3, requiring therefore that the domestic authorities carry out an effective investigation. The Court further notes that the applicant\u2019s allegation was only investigated by way of a preinvestigation inquiry which, as noted above (see paragraph 53 above), does not comply with the principles of an effective remedy.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The pre-investigation inquiry was limited essentially to the medical examination of the applicant and the questioning of the police officers, the applicant and the other persons concerned. No further measures were taken in order to resolve the contradiction between the version of events given by the police officers that the applicant had inflicted the injuries on himself, and the applicant\u2019s version of events. No specific measures were taken to scrutinise the applicant\u2019s allegations of having been beaten by the police officers. As to the police officers\u2019 statements, they were premised on a reference to the medical report of 15 December 2010, which noted that the injuries could have been inflicted by the applicant himself. However, it appears that the forensic expert made that remark in order to answer a specific question from the authorities, rather than to reflect his own opinion on the most probable manner of inflicting the injuries (see paragraph 38 above). Furthermore, in accordance with that report the injuries had been inflicted by blunt solid objects (see paragraph\u00a041 above). However, there was no suggestion at any point during the domestic inquiry that any such objects had been available to the applicant during his detention in the police cell, and no such objects were found or examined. The Court finds that further scrutiny was required in order to establish the manner in which the applicant sustained his injuries while in police custody.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that there was no effective investigation of the applicant\u2019s allegation of ill-treatment. There has therefore been a violation of Article 3 of the Convention under its procedural limb in relation to the investigation of the events of December 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0The applicant maintained that he had been ill-treated by police officers between 9 and 10 December 2010.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The Government denied the applicant\u2019s allegations and submitted that it could not be established that the injuries had been inflicted by the police officers. On the contrary, the domestic inquiry and the medical report of 15 December 2010 had suggested that the applicant could have inflicted the injuries on himself.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The Court notes that the applicant was arrested at 2.45 p.m. on 9\u00a0December 2010 (see paragraphs 26 and 35 above) and that late in the evening of the same day the panel of doctors stated that the applicant had no injuries (see paragraph 36 above). However, on 10, 11, 13 and 14\u00a0December 2010 the applicant was examined and numerous injuries were documented (see paragraphs 37 and 39-41 above). Throughout all that period of time the applicant had remained under the control of the authorities. Accordingly, the Court finds that it was for the State to provide a satisfactory and convincing explanation of the circumstances in which the applicant sustained his injuries. The State\u2019s failure to discharge that burden of proof may prompt the Court to accept the applicant\u2019s account of events.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0The Government denied the applicant\u2019s allegations of ill-treatment by the police officers and suggested that he could have inflicted the injuries on himself. However, that version of events was based essentially on the police officers\u2019 own submissions which cannot be viewed as unbiased. No material has been provided to suggest why the applicant would inflict numerous injuries on his body. The medical report, referred to by the Government, is not conclusive (see paragraph 69 above). The Court therefore finds it unconvincing that several injuries on different parts of the applicant\u2019s body could have resulted in the manner advanced by the Government. It notes that the medical evidence, the nature of the applicant\u2019s injuries, as well as the lack of plausible and detailed explanation on the part of the Government as to the cause of the injuries, give rise to a strong adverse inference that the applicant was subjected to ill-treatment on the part of police officers (see Yaroshovets and Others v. Ukraine, nos.\u00a074820/10, 71/11, 76/11, 83/11, and 332/11, \u00a7 85, 3\u00a0December 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0In those circumstances the Court holds that the State must be held responsible for the ill-treatment, which should be classified as inhuman and degrading.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0It follows that there has been a violation of Article 3 of the Convention under its substantive limb on account of the inhuman and degrading treatment of the applicant in December 2010.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a01 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "77.\u00a0\u00a0The applicant complained that between 16 and 19 August 2010 he had been held in unrecorded detention. He further complained that his arrest and detention on the basis of the investigator\u2019s decision of 9 December 2010 had been unlawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "78.\u00a0\u00a0The applicant relied on Article 5 \u00a7 1 of the Convention which provides, in so far as relevant, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged unrecorded detention of the applicant between 16 and 19 August 2010",
+                                "elements": [
+                                    {
+                                        "content": "79.\u00a0\u00a0The applicant maintained that he had been arbitrarily detained until 19 August 2010 by the police officers. The Government denied that allegation, submitting that the applicant had arrived at the police at 7 a.m. on 16 August 2010 for the purposes of being questioned in relation to the fight with his neighbour. At 9.45 a.m. on the same day he had left the police station.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0The Court notes that the applicant\u2019s presence at the police station from 7 a.m. to 9.45 a.m. on 16 August 2010 was noted in police records, has been admitted by the Government and is not disputed by the parties. The present complaint relates to the period which started after 9.45 a.m. on 16\u00a0August 2010. The Court has examined the applicant\u2019s complaint under Article 3 of the Convention, which also related to that period until 19\u00a0August 2010. It has found that there was no material in the case file to establish that the applicant remained under the control of the police for any period longer than that admitted by the Government (see paragraphs 8 and 64 above). In the light of that finding, the Court dismisses the present complaint as manifestly ill-founded, pursuant to Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged arrest and detention of the applicant on the basis of the investigator\u2019s decision of 9 December 2010",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The Government did not make any objections as to the admissibility of the above complaints. The applicant maintained his complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0The Court notes that this part of application is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "83.\u00a0\u00a0The applicant complained that he had been arrested and detained in breach of Article 5\u00a0\u00a7\u00a01 (c) of the Convention. He argued that the investigator had had no grounds to arrest him on 9 December 2010 and that the reasons given in the arrest report had not been supported by the circumstances of the case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The Government submitted that the applicant had been arrested and detained in that period in accordance with domestic law, on the basis of a reasonable suspicion that he had committed a serious offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The Court reiterates that the expressions \u201clawful\u201d and \u201cin accordance with a procedure prescribed by law\u201d in Article 5 \u00a7 1 essentially refer back to national law and enshrine the obligation to conform to the substantive and procedural rules thereof. Although it is in the first place for the national authorities, notably the courts, to interpret and apply domestic law, under Article 5 \u00a7 1 a failure to comply with domestic law entails a breach of the Convention, and the Court can and should review whether that law has been complied with (see, among many other references, Benham v.\u00a0the United Kingdom, 10 June 1996, \u00a7 41, Reports 1996-III, and Assanidze v.\u00a0Georgia [GC], no. 71503/01, \u00a7 171, ECHR 2004II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The \u201clawfulness\u201d of detention under domestic law is the primary, but not always the decisive element. The Court must, in addition, be satisfied that the detention during the period under consideration was compatible with the purpose of Article 5 \u00a7 1 of the Convention, which is to prevent persons from being deprived of their liberty in an arbitrary manner (see Oleksiy Mykhaylovych Zakharkin v. Ukraine, no. 1727/04, \u00a7\u00a084, 24\u00a0June 2010). In order for deprivation of liberty to be considered free from arbitrariness, it does not suffice that this measure is executed in conformity with national law; it must also be necessary in the circumstances (see Khayredinov v.\u00a0Ukraine, no. 38717/04, \u00a7\u00a027, 14 October 2010 and Korneykova v.\u00a0Ukraine, no.\u00a039884/05, \u00a7 34, 19 January 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0The Court notes that at 2.45 p.m. on 9 December 2010 the investigator decided to arrest the applicant on the basis of his own decision (see paragraphs 26, 35 and 45 above), without obtaining a preliminary arrest warrant from a court, as required by Article 165-2 \u00a7 4 of the CCP of 1960. In doing so the investigator relied on Articles 106 and\u00a0115 of the CCP of 1960 which provided exceptional grounds for the arrest of an individual without a court decision. The Court recalls that a period of detention is, in principle, \u201clawful\u201d if it is based on a court order (see Nevmerzhitsky v.\u00a0Ukraine, no.\u00a054825/00, \u00a7\u00a0116, ECHR 2005II (extracts)). Therefore the above domestic law provisions, setting out exceptions from the general rule requiring a court decision for the arrest of an individual, had to be interpreted narrowly. Furthermore, specific grounds justifying the application of such an exceptional measure had to be established unequivocally at the time of the taking of such a measure.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "88.\u00a0\u00a0The arrest report stated that the applicant was suspected of attempted murder, that he had a record of serious offences, and that there had been risks justifying his detention. However, before assessing those issues it had to be established whether the applicant\u2019s case fell within the scope of the exceptions providing the investigator with the power to effect an arrest without a court decision. In that regard the arrest report only repeated the relevant parts of Article 106 of the CCP of 1960 without referring to any specific circumstances explaining why that provision of domestic law could be applied to the applicant\u2019s case. Without that specific information, the arrest report did not constitute a meaningful guarantee against arbitrary depravation of liberty (compare Grinenko v. Ukraine, no.\u00a033627/06, \u00a7\u00a083, 15\u00a0November 2012; Malyk v. Ukraine, no. 37198/10, \u00a7\u00a7\u00a027-29, 29 January 2015; and Kotiy v. Ukraine, no. 28718/09, \u00a7 45, 5\u00a0March 2015). Indeed, the applicant was arrested in connection with an event which had taken place about four months earlier. It could not therefore be claimed that the authorities faced an urgent situation such as, for example, a situation of in flagrante delicto. There is nothing to suggest that the general requirement of a preliminary arrest warrant issued by a court could not or should not have been adhered to.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Having regard to the above considerations, the Court finds that the applicant\u2019s arrest and detention between 9 and 10 December 2010 on the basis of the investigator\u2019s decision was incompatible with the requirements of Article 5 \u00a7 1 of the Convention. There has therefore been a violation of Article 5 \u00a7 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a03 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "90.\u00a0\u00a0The applicant complained under Article 5\u00a0\u00a7\u00a03 of the Convention that during the whole period of his pre-trial detention the courts did not set out relevant and sufficient reasons for that preventive measure.",
+                                "elements": []
+                            },
+                            {
+                                "content": "91.\u00a0\u00a0Article 5\u00a0\u00a7\u00a03 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "92.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It also notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "93.\u00a0\u00a0 The applicant complained that the overall length of his pre-trial detention had been excessive and that the courts had failed in their obligations under Article\u00a05\u00a0\u00a7\u00a03 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The Government submitted that the courts had taken not only the gravity of the charges against the applicant but also other factors into account, and had provided reasons for his pre-trial detention which had been relevant and sufficient.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0Article 5\u00a0\u00a7\u00a03 of the Convention requires that justification for any period of detention, no matter how short, must be convincingly demonstrated by the authorities. The arguments for and against release, including a risk that the accused might hinder the proper conduct of the proceedings, must not be taken in abstracto, but must be supported by factual evidence. The danger of an accused\u2019s absconding cannot be gauged solely on the basis of the severity of the sentence risked. It must be assessed with reference to a number of other relevant factors which may either confirm the existence of a danger of absconding or make it appear so slight that it cannot justify detention pending trial (see Taran v. Ukraine, no.\u00a031898/06, \u00a7 69, 17 October 2013, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that decisions on the applicant\u2019s detention were couched in general terms and contained repetitive phrases. They do not suggest that the courts made an appropriate assessment of the facts relevant to the question of whether such a preventive measure was necessary in the circumstances. Moreover, the applicant\u2019s pre-trial detention lasted for one year and three months and with the passage of time the applicant\u2019s continued detention required more justification, but the courts did not provide any further reasoning. The fact that he was released on 12 May 2012 before his conviction (see paragraph 32 above) does not counterbalance the previous failures by the domestic courts to make a fact-specific assessment of the applicant\u2019s preventive measure in the preceding period. The Court points out that when maintaining the applicant\u2019s detention the courts referred to the applicant\u2019s failure to admit his guilt. That part of the reasoning appears to be irrelevant as it runs counter to important elements of the concept of a fair trial, such as freedom from self-incrimination and the presumption of innocence (see Lutsenko v.\u00a0Ukraine, no. 6492/11, \u00a7 72, 3 July 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court has often found violations of this Convention provision in respect of Ukraine in similar circumstances (see, for example, Doronin v.\u00a0Ukraine, no. 16505/02, \u00a7\u00a7 63-64, 19 February 2009; Osypenko, cited above, \u00a7\u00a7\u00a076-80; and Kharchenko v. Ukraine, no. 40107/02, \u00a7\u00a7 79-81, 99 and 101, 10 February 2011). It considers that the Government have not put forward any fact or argument capable of persuading it to reach a different conclusion in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0There has therefore been a violation of Article 5\u00a0\u00a7\u00a03 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a04 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "99.\u00a0\u00a0The applicant also complained under Article 5\u00a0\u00a7\u00a04 of the Convention that the courts had failed properly to examine his individual situation, as requested by the defence, and that they had failed to examine the possibility of his release.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0Having regard to the finding of a violation under Article 5\u00a0\u00a7\u00a03 of the Convention and the reasoning leading to it, the Court considers that the present complaint is admissible, but does not give rise to any issues separate from those already examined under Article 5\u00a0\u00a7\u00a03 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "101.\u00a0\u00a0The Court holds that it is not necessary to examine separately the complaint under Article 5\u00a0\u00a7\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a05 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "102.\u00a0\u00a0The applicant complained under Article 5 \u00a7 5 of the Convention that he did not have an enforceable right to compensation in respect of his unlawful detention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "103.\u00a0\u00a0Article 5\u00a0\u00a7 5 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c5. Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "104.\u00a0\u00a0The Court finds that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "105.\u00a0\u00a0The applicant maintained his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0The Government disagreed and argued that there had been no violation of Article 5\u00a0\u00a7 5 of the Convention because the applicant would have been able to claim compensation if the domestic authorities had established that his detention had been unlawful.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court reiterates that Article 5 \u00a7 5 is complied with where it is possible to apply for compensation in respect of deprivation of liberty if it was effected in conditions conflicting with paragraphs 1, 2, 3 or 4. The right to compensation set forth in paragraph 5 therefore presupposes that a violation of one of the preceding paragraphs of Article 5 has been established, either by a domestic authority or by the Court (see, for example, W\u0142och v. Poland (no. 2), no. 33475/08, \u00a7 25, 10 May 2011). The effective enjoyment of the right to compensation guaranteed by Article 5 \u00a7 5 must be ensured with a sufficient degree of certainty (see Stanev v. Bulgaria [GC], no. 36760/06, \u00a7\u00a0182, 17 January 2012, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0The Court notes that there has been no finding of a violation of the preceding paragraphs of Article 5 of the Convention at the domestic level. However, in the present judgment the Court has found violations of Article\u00a05 \u00a7\u00a7\u00a01 and 3 of the Convention. It follows that Article 5 \u00a7 5 of the Convention is applicable and it must be determined whether or not the applicant has an enforceable right to compensation within the domestic jurisdiction on the basis of the finding of violations of Article 5 by this Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In that regard the Court notes that this issue has been examined in previous cases. It has found that a right to compensation under Article 5 \u00a7\u00a05 of the Convention is not ensured in the domestic legal system when the Court establishes a violation of any of the preceding paragraphs of that Article and there was no domestic judicial decision establishing the unlawfulness of the detention (see Taran, cited above, \u00a7 89, with further references). The Court finds no reason to reach a different conclusion in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0It follows that there has been a violation of Article 5 \u00a7 5 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "111.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "112.\u00a0\u00a0The applicant claimed 20,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0The Government contended that the claim was groundless.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0The Court considers that the applicant must have suffered anguish and distress on account of the facts giving rise to the finding of violations in the present case. Ruling on an equitable basis, the Court awards the applicant EUR 10,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "115.\u00a0\u00a0The applicant did not submit any claims under this head. The Court therefore makes no award.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning the unrecorded detention of the applicant between 16 and 19 August 2010 inadmissible and the remainder of the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention under its procedural limb in relation to the investigation of the events of August 2010;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 3 of the Convention under its substantive limb on account of the inhuman and degrading treatment of the applicant in August 2010;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention under its procedural limb in relation to the investigation of the events of December 2010;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention under its substantive limb on account of the inhuman and degrading treatment of the applicant in December 2010;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 5\u00a0\u00a7\u00a01 of the Convention on account of the applicant\u2019s arrest and detention between 9 and 10\u00a0December 2010 on the basis of the investigator\u2019s decision;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article 5\u00a0\u00a7\u00a03 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there is no need to examine separately the complaint under Article 5\u00a0\u00a7\u00a04 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that there has been a violation of Article 5\u00a0\u00a7\u00a05 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR\u00a010,000 (ten thousand euros) plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 6 October 2016, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Angelika Nu\u00dfberger",
+            "role": "president"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Erik M\u00f8se",
+            "role": "judges"
+        },
+        {
+            "name": "Faris Vehabovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00edofra O\u2019Leary",
+            "role": "judges"
+        },
+        {
+            "name": "Carlo Ranzoni",
+            "role": "judges"
+        },
+        {
+            "name": "Milan Bla\u0161ko",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF STROGAN v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-166957.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2016:1006JUD003019811",
+    "externalsources": [],
+    "extractedappno": [
+        "30198/11",
+        "37794/14",
+        "77617/01",
+        "17674/02",
+        "39081/02",
+        "38773/05",
+        "23380/09",
+        "74820/10",
+        "71/11",
+        "76/11",
+        "83/11",
+        "332/11",
+        "71503/01",
+        "1727/04",
+        "38717/04",
+        "39884/05",
+        "54825/00",
+        "33627/06",
+        "37198/10",
+        "28718/09",
+        "31898/06",
+        "6492/11",
+        "16505/02",
+        "40107/02",
+        "33475/08",
+        "36760/06"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-166957",
+    "judgementdate": "06/10/2016 00:00:00",
+    "kpdate": "06/10/2016 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "596",
+        "193",
+        "448",
+        "220",
+        "339",
+        "227",
+        "404",
+        "45"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "3",
+        "5-3",
+        "5-5",
+        "5-1",
+        "5"
+    ],
+    "parties": [
+        "STROGAN",
+        "UKRAINE"
+    ],
+    "rank": "1640.77221679688",
+    "representedby": [
+        "MUKANOVA A."
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "456698",
+    "typedescription": "15"
+}

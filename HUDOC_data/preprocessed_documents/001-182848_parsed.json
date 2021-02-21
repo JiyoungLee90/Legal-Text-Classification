@@ -1,0 +1,621 @@
+{
+    "__articles": "6;6+6-3-c;6+6-3-e;6-1;6-3-c;6-3-e;13;13+6-1",
+    "__conclusion": "Violation of Article 6+6-3-c - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-c - Defence through legal assistance);Violation of Article 6+6-3-e - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-e - Free assistance of interpreter);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Criminal proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "46851/07",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6-3-c",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-c - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3-c - Defence through legal assistance"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6-3-e",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-e - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3-e - Free assistance of interpreter"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-182848.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 46851/07) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by Turkish nationals, Mr\u00a0\u00d6mer\u00a0Yaman, Mr\u00a0Mustafa\u00a0\u00dcrek and Mr Kerem Bilen (\u201cthe applicants\u201d), on 23\u00a0October 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants, who had been granted legal aid, were represented by Mr\u00a0E.\u00a0Talay, a lawyer practising in Diyarbak\u0131r. The Turkish Government (\u201cthe Government\u201d) were represented by their Agent.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged, in particular, that they had not had a fair trial on account of the lack of legal assistance available to them during their police custody. The first two applicants further alleged that they had not had a fair trial on account of the lack of assistance of an interpreter in police custody. Lastly, the applicants complained of the excessive length of the criminal proceedings and the lack of domestic remedies available under Turkish law for the excessive length of the criminal proceedings.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 26 September 2011 the application was communicated to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 12 October 2016 the Vice-President of the Second Section invited the Government to submit further observations, if they so wish, following the judgment in Ibrahim and Others v. the United Kingdom [GC], (nos.\u00a050541/08 and 3 others, ECHR 2016).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicants, Mr \u00d6mer Yaman (first applicant), Mr\u00a0Mustafa\u00a0\u00dcrek (second applicant), and Mr Kerem Bilen (third applicant) were born in 1956, 1967 and 1977 respectively.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 20 June 1999 the applicants were arrested in the course of a military operation in \u015e\u0131rnak. They were subsequently interrogated by the gendarmes in the absence of a lawyer. In their statements, the applicants accepted the charges against them and gave a detailed account of their involvement in the PKK (the Workers\u2019 Party of Kurdistan, an illegal organisation).",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 23 June 1999 the applicants were brought before the Diyarbak\u0131r Public Prosecutor and subsequently before the investigating judge. The first and second applicants were provided with an interpreter during their interrogation. Before the public prosecutor and the judge, the applicants denied the charges against them. They further stated that they had signed their gendarmerie statements without reading them. Following the questioning, the investigating judge remanded the applicants in custody.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 2 July 1999 the Public Prosecutor at the Diyarbak\u0131r State Security Court filed an indictment with that court and accused the applicants of carrying out activities for the purpose of bringing about the secession of part of the national territory, under Article 125 of the Criminal Code.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The proceedings resumed before the Diyarbak\u0131r State Security Court and the first and second applicants were authorised to have the assistance of an interpreter. In their defence submissions before the trial court, the applicants retracted the statements they had allegedly made during the preliminary investigation stage. They submitted that the gendarmes had made them sign their statements without reading them.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 7 May 2002 the Diyarbak\u0131r State Security Court found the applicants guilty as charged and convicted them under Article 125 of the former Criminal Code with carrying out activities with the aim of bringing about the secession of part of the national territory. It further sentenced the applicants to life imprisonment. In convicting them, the court had regard to the applicants\u2019 statements taken by the gendarmes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 25 March 2003 the Court of Cassation quashed the judgment of the first-instance court on the ground that during the trial certain witness statements, which had been taken on commission before other courts, had not been read out to the applicants for comment during the trial. The case was accordingly remitted to the Diyarbak\u0131r State Security Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0In the meantime, State Security Courts were abolished by Law no.\u00a05190 of 16 June 2004, and therefore, the case against the applicants was transferred to the Diyarbak\u0131r Assize Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 7 March 2005 the Diyarbak\u0131r Assize Court complied with the decision of the Court of Cassation and witness statements that had been taken on commission were read out to the applicants for their comments. At the end of the trial, the Diyarbak\u0131r Assize Court found the applicants guilty as charged and sentenced them to life imprisonment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On 17 June 2005 the Principal Public Prosecutor at the Court of Cassation decided that the case file should be remitted to the Diyarbak\u0131r Assize Court for examination of whether the new Criminal Code which had entered into force on 1 June 2005 (Law no. 5297) provided more favourable provisions for the applicants. The case was thus once again examined by the Diyarbak\u0131r Assize Court in view of the recent legislative changes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 25 October 2005 the Diyarbak\u0131r Assize Court once again convicted the applicants under Article 125 of the former Criminal Court, finding that this provision was more favourable to them than the corresponding provision of the new criminal code.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 30 May 2006 the Court of Cassation quashed the judgment on procedural grounds, holding in particular that certain documents which had been relied on by the first-instance court in its judgment were not of an official nature.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0On 24 April 2007 the Diyarbak\u0131r Assize Court, after obtaining official copies of all the documents in the case file, convicted the applicants under Article 125 of the former Criminal Code and sentenced them to life imprisonment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 11 December 2007 the Court of Cassation upheld the judgment of the first-instance court.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "20.\u00a0\u00a0A description of the relevant domestic law concerning the right of access to a lawyer may be found in Salduz v. Turkey ([GC] no.\u00a036391/02, \u00a7\u00a7\u00a02731, ECHR 2008).",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0On 15 July 2003 Law no. 4928 repealed Section 31 of Law no.\u00a03842, thus the restriction on an accused\u2019s right of access to a lawyer in proceedings before the State Security Courts was lifted.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "22.\u00a0\u00a0The applicants complained under article 6 \u00a7 3 (c) of the Convention that their defence rights had been violated as they had been denied access to a lawyer during the preliminary investigation stage. The first two applicants further complained that there had been no interpreter to assist while they were in police custody, violating their right to a fair trial. The applicants lastly complained that the length of the criminal proceedings against them had been excessive. The Court will examine their complaints under Article\u00a06 \u00a7\u00a7\u00a01, 3 (c) and 3 (e) of the Convention, the relevant part of which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing within a reasonable time... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0 to have the free assistance of an interpreter if he cannot understand or speak the language used in court.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Access to a lawyer during the preliminary investigation stage",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0The Government asked the Court to reject this complaint for failure to comply with the requirement of exhaustion of domestic remedies under Article\u00a035 \u00a7 1 of the Convention on the ground that the applicants had failed to raise it before the domestic courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The Court reiterates that it has already examined and rejected the Government\u2019s preliminary objections in similar cases (see, in particular, Halil Kaya v. Turkey, no. 22922/03, \u00a7 14, 22 September 2009). The Court finds no particular circumstances in the instant case which would require it to depart from its findings in similar cases.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0The applicants complained that they had been deprived of legal assistance pursuant to section 31 of Law no. 3842, as they had been accused of committing an offence that fell within the jurisdiction of the State Security Courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0Referring to the Court\u2019s judgments in the case of Salduz v.\u00a0Turkey ([GC] no. 36391/02, ECHR 2008), and Ibrahim and Others v.\u00a0the United Kingdom ([GC], nos. 50541/08 and 3 others, ECHR 2016), the Government submitted that the absence of compelling reasons is not, in itself, sufficient for a finding of a violation of Article 6 of the Convention. They maintained that the applicants were represented by the lawyers during the trial stage, and that they were given a reasonable opportunity to present their case under conditions that did not place them at any kind of substantial disadvantage vis-\u00e0-vis the opponent.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0The Court notes that the applicants\u2019 access to a lawyer was restricted by virtue of Law No. 3842 and was as such a systemic restriction applicable at the time of the applicants\u2019 arrest (see Salduz, cited above, \u00a7 56). The Court does not consider it necessary to examine whether the systematic nature of the restriction on the applicants\u2019 right of access to a lawyer was, in itself, sufficient to find a violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention, as, in any event, the Government have not offered any compelling reasons for the restriction or demonstrated that the absence of legal assistance at the initial stage of the investigation did not irretrievably prejudice the applicants\u2019 defence rights (see Salduz, cited above, \u00a7 58, and Ibrahim and Others, cited above, \u00a7 274). In that respect, the Court notes that in convicting them, the first-instance court relied on the applicants\u2019 statements to the gendarmerie. Moreover, it did not examine the admissibility of evidence at the trial. Likewise, the Court of Cassation dealt with this issue in a formalistic manner and failed to remedy this shortcoming (see Bayram Ko\u00e7 v.\u00a0Turkey, no. 38907/09, \u00a7\u00a7 23, 5 September 2017).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Lack of assistance of an interpreter in police custody",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0The first two applicants complained that they had not been assisted by an interpreter when questioned by the gendarmes while they were in custody, and argued that they had been forced to sign the statements taken in those circumstances.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0In the present case, the Court firstly observes that it is not in dispute that the first two applicants\u2019 level of knowledge of Turkish rendered necessary the assistance of an interpreter. The public prosecutor, the investigative judge and the trial court decided that they needed an interpreter. As the Government never submitted any argument to the contrary, the Court finds this point established.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0The Court reiterates that it has already examined a similar grievance in the case of Baytar v. Turkey (no. 45440/04, \u00a7\u00a7 46-59, 14 October 2014) and found a violation of Article 6 \u00a7 3 (e) of the Convention taken together with Article 6 \u00a7 1. It finds no particular circumstances which would require it to depart from its findings in the above-mentioned judgment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0There has therefore been a violation of Article 6 \u00a7\u00a7 1 and 3 (e) of the Convention, in respect of the first two applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Length of proceedings",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "35.\u00a0\u00a0The Government contended that the domestic remedies had not been exhausted and that the applicants could have brought a compensation action against the administration for the alleged excessive length of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The applicants maintained that there was not an effective remedy with respect to their complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Court notes that this complaint is closely linked to the complaint under Article 13 of the Convention regarding the lack of an effective domestic remedy for the alleged violation of their right to a trial within a reasonable time. Therefore, it decides to join that objection concerning the merits (see Daneshpayeh v. Turkey, no 21086/04, \u00a7 24, 16 July 2009). The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0The applicants complained that the length of the proceedings had been incompatible with the \u201creasonable time\u201d requirement, laid down in Article\u00a06 \u00a7 1 of the Convention. The applicants claimed that the domestic courts\u2019 decisions to postpone the hearings with a view to completing certain procedural shortcomings, and the excessive amount of time for the postponement, 45-60 days usually, had given rise to a significant delay in the proceedings. The applicants pointed out, in particular, that there was a period of delay between 18 November 2003 and 12 July 2004, as the domestic courts waited for a report from the Ministry of the Interior to fulfil a procedural requirement in respect of one of the co-accused. They further stated that the two hearings dated 12 June 2001 and 18 September 2001 had to be postponed, since the authorities failed to bring the applicants before the trial court from the prison.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Government maintained that the length of the proceedings could not be considered unreasonable in view of the complexity of the case, the number of accused, the relations of the applicants with other accused persons and the difficulty in collecting evidence and judgment for collective crimes. The Government also argued that the conduct of the applicants and their legal representatives contributed significantly to the delay of the proceedings. The Government pointed out in particular that the applicants\u2019 representative had requested an extension of the time for the preparation of their submissions and that the applicants\u2019 representative had not attended the last two hearings, dated 23 January 2007 and 15 March 2007 respectively.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court observes, at the outset, that a new domestic remedy has been established in Turkey since the application of the pilot judgment procedure in the case of \u00dcmm\u00fchan Kaplan v. Turkey (no.\u00a024240/07, 20\u00a0March 2012). The Court also notes that in its decision in the case of Turgut and Others v. Turkey ((dec.), no. 4860/09, 26 March 2013), it declared a new application inadmissible on the ground that the applicants had failed to exhaust domestic remedies, that is to say the new remedy. In so doing, the Court in particular considered that this new remedy was, a priori, accessible and capable of offering a reasonable prospect of redress for complaints concerning the length of proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The Court further points out that, in its judgment in the case of \u00dcmm\u00fchan Kaplan (cited above, \u00a7 77), it stressed that it could nevertheless pursue the examination of such applications under the normal procedure in cases which had already been communicated to the Government prior to the entry into force of the new remedy. It further notes that in the present case the Government did not raise an objection in respect of the new domestic remedy. In view of the above, the Court decides to pursue the examination of the present application (see Rifat Demir v. Turkey, no.\u00a024267/07, \u00a7\u00a7\u00a03436, 4 June 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicants and the relevant authorities (see, among many other authorities, P\u00e9lissier and Sassi v. France [GC], no. 25444/94, \u00a7\u00a067, ECHR 1999II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0In the present case, the Court observes that the period to be taken into consideration began on 20 June 1999 with the applicants\u2019 arrest and ended on 11 December 2007 with the final decision delivered by the Court of Cassation. It thus lasted for nearly eight years and six months at two levels of jurisdiction, each of which examined the case three times. It further notes that although there were nine accused in the case, the case before the criminal court was not particularly complex.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0In so far as the applicant\u2019s conduct is concerned, the Court notes that the representative of the applicants requested a number of times an extension of time for their defence, most notably on 11 October 2004, 8\u00a0November 2004 and 27 December 2004, which resulted in an extension until 7 February 2005. On the other hand, the Court observes that the parties have not provided it with the minutes of the hearings dated 23 January 2007 and 15 March 2007, when the applicants\u2019 representative was said to be absent. In any event, the Court finds it hard to accept that the applicants could be held primarily responsible for the excessive delay in the proceedings, having regard to the fact that the judgments given by the first instance courts were quashed three times, two times on procedural grounds related to shortcomings of the judicial authorities, and once due to the amendment of the criminal code.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Turning to the conduct of the authorities, the Court observes that the hearings were postponed a number of times with a view to completing certain procedural shortcomings, most notably, between 18 November 2003 and 12 July 2004, when the domestic courts waited for a report from the Ministry of the Interior to fulfil a procedural requirement in respect of one of the co-accused in the same file. Furthermore, it is also understood from the case-file that the two hearings dated 12 June 2001 and 18\u00a0September 2001 had to be postponed, since the authorities failed to bring the applicants before the trial court from the prison.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0In this context, the Court reiterates that Article 6 \u00a7 1 of the Convention imposes on the Contracting States the duty to organise their judicial system in such a way that their courts can meet each of its requirements (see P\u00e9lissier and Sassi v. France, cited above, \u00a7 74) and avoid or reduce to the minimum the protraction of proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0In the light of the foregoing, the Court concludes that the State authorities bear the primary responsibility for the excessive length of the proceedings in question. Having regard to its case-law on the subject, the Court considers that in the instant case the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0There has accordingly been a breach of Article 6 \u00a7 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "49.\u00a0\u00a0The applicants further complained that there were no domestic remedies available under Turkish law for the excessive length of the criminal proceedings against them. They relied on Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0The Government contended that the applicants could have applied to the national judicial authorities. The Court notes that this objection is closely linked to an examination of the merits of the complaint, thus it joins it to the merits.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court has examined similar issues in previous applications and has found violations of Article 13 of the Convention in respect of the lack of an effective remedy under Turkish law whereby the applicants could have contested the length of the proceedings at issue (see Daneshpayeh, cited above, \u00a7\u00a7 35-38; \u00dcmm\u00fchan Kaplan, cited above, \u00a7\u00a7 56-58; and G\u00fcrb\u00fcz and \u00d6z\u00e7elik v. Turkey, no. 11/05, \u00a7\u00a7 29-30, 2 February 2016). It finds no reason to depart from that conclusion in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court accordingly concludes that there has been a violation of Article\u00a013 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0Relying on Article 5 of the Convention, the applicants complained that the length of their detention on remand had been excessive.",
+                                "elements": []
+                            },
+                            {
+                                "content": "54.\u00a0\u00a0The Government rejected the allegation, submitting that the applicants had failed to exhaust domestic remedies, referring to the possibility of claiming compensation for unlawful detention under Article\u00a0141 \u00a7 1 (d) of the Code on Criminal Procedure (\u201cCCP\u201d).",
+                                "elements": []
+                            },
+                            {
+                                "content": "55.\u00a0\u00a0The applicants contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "56.\u00a0\u00a0The Court observes that the domestic remedy in application of Article\u00a0141 \u00a7 1 (d) of the CCP with regard to length of detention on remand was examined in the cases of Demir v. Turkey, ((dec.), no.\u00a051770/07, \u00a7\u00a7\u00a01735, 16 October 2012), and A.\u015e. v. Turkey (no. 58271/10, \u00a7\u00a08595, 13\u00a0September 2016).",
+                                "elements": []
+                            },
+                            {
+                                "content": "57.\u00a0\u00a0In the case of Demir (cited above) the Court held that that remedy had to be exhausted by the applicants whose convictions became final. It further ruled in its judgment of A.\u015e. (cited above, \u00a7 92) that as of June 2015 the domestic remedy provided for in Article 141 \u00a7 1 (d) of the CCP had to be exhausted by the applicants even before the proceedings became final.",
+                                "elements": []
+                            },
+                            {
+                                "content": "58.\u00a0\u00a0In the instant case, the Court notes that the applicants\u2019 detentions ended on 24 April 2007 by the decision of conviction of Diyarbak\u0131r Assize Court. Their conviction was upheld by the Court of Cassation with a final decision dated 11 December 2007. The Court observes that the applicants were entitled to seek compensation under Article 141 \u00a7 1 (d) of the CCP however, they failed to do so.",
+                                "elements": []
+                            },
+                            {
+                                "content": "59.\u00a0\u00a0The Court reiterates that the assessment of whether domestic remedies have been exhausted is normally carried out with reference to the date on which the application was lodged with the Court. However, as the Court has held on many occasions, this rule is subject to exceptions, which may be justified by the particular circumstances of each case (see \u0130\u00e7yer v.\u00a0Turkey (dec.), no. 18888/02, \u00a7 72, ECHR 2006I). The Court has previously departed from this rule in cases concerning the above-mentioned remedy in respect of the length of detention, which became applicable after the final decision on the criminal proceedings (see also, among others, Tutal and Others v. Turkey (dec.), no. 11929/12, 28 January 2014). The Court takes the view that the exception should be applied in the present case as well.",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0As a result, taking into account the Government\u2019s objection with regard to the applicants\u2019 failure to seek compensation pursuant to article\u00a0141 of the CCP, the Court concludes that this complaint must be rejected under Article\u00a035 \u00a7\u00a7 1 and 4 of the Convention for non-exhaustion of domestic remedies.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "61.\u00a0\u00a0Lastly, the applicants complained under Article 13 of the Convention that there was no effective remedy for the alleged violations of their other Convention rights. The Court considers those complaints unsubstantiated. It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "62.\u00a0\u00a0Each applicant claimed 59,100 euros (EUR) in respect of pecuniary damage and EUR 250,000 in respect of non-pecuniary damage. The applicants further claimed EUR 6,473 for lawyer\u2019s fees and EUR 500 for other costs and expenses incurred before the Court, such as translation, postage and communication. In support of their claims, the applicants referred to the Diyarbak\u0131r Law Association\u2019s scale of fees and gave a breakdown of the number of working hours for which their lawyer needed to be paid.",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0The Government contested those claims, submitting that the amounts requested were unsubstantiated and not supported by adequate documentary evidence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "64.\u00a0\u00a0The Court notes that it cannot speculate as to the outcome of the proceedings against the applicant had there been no breach of the Convention (see Ibrahim and Others, cited above, \u00a7 315). It therefore rejects the applicants\u2019 claim regarding the alleged pecuniary damage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "65.\u00a0\u00a0As regards the non-pecuniary damage, the Court has found in this case a violation of Article 6 \u00a7\u00a7 1 and 3 (c), 6 \u00a7 1 on account of the excessive length of proceedings and Article 13 of the Convention in respect of all the applicants. It further found a violation of Article 6 \u00a7\u00a7 1 and 3 (e) in respect of the first two applicants. Having regard to its conclusions under Article\u00a06 and\u00a013 of the Convention and the sums claimed by the applicants, it awards the first two applicants EUR 4,550 each and the third applicant EUR\u00a03,500 in respect of non-pecuniary damage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "66.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and its case-law, the Court considers it reasonable to award the sum of EUR 1,000 for costs incurred in the proceedings before the Court (see Bayram Ko\u00e7, cited above, \u00a7 30-32). From this sum should be deducted the EUR 850 granted by way of legal aid under the Council of Europe\u2019s legal-aid scheme.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints concerning access to a lawyer during the preliminary investigation stage, the lack of assistance of an interpreter in police custody, the length of proceedings under Article 6 and the lack of domestic remedies for the excessive length of the criminal proceedings under Article 13 of the Convention admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (e) of the Convention with respect to the first two applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the length of the criminal proceedings;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that the finding of a violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention constitutes in itself sufficient just satisfaction for the non-pecuniary damage that may have been sustained by the applicants in that connection;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 15 May 2018, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Ledi Bianku",
+            "role": "president"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Jon Fridrik Kj\u00f8lbro",
+            "role": "judges"
+        },
+        {
+            "name": "Hasan Bak\u0131rc\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF YAMAN AND OTHERS v. TURKEY",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-182848.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:0515JUD004685107",
+    "externalsources": [],
+    "extractedappno": [
+        "46851/07",
+        "50541/08",
+        "36391/02",
+        "22922/03",
+        "38907/09",
+        "45440/04",
+        "21086/04",
+        "24240/07",
+        "4860/09",
+        "24267/07",
+        "25444/94",
+        "11/05",
+        "51770/07",
+        "58271/10",
+        "18888/02",
+        "11929/12"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-182848",
+    "judgementdate": "15/05/2018 00:00:00",
+    "kpdate": "15/05/2018 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "406",
+        "86",
+        "162",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "26",
+    "paragraphs": [
+        "6-3-c",
+        "6-3-e",
+        "13",
+        "6-1",
+        "6"
+    ],
+    "parties": [
+        "YAMAN AND OTHERS",
+        "TURKEY"
+    ],
+    "rank": "2397.99682617188",
+    "representedby": [
+        "TALAY E."
+    ],
+    "respondent": "TUR",
+    "respondentOrderEng": "47",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "474806",
+    "typedescription": "15"
+}

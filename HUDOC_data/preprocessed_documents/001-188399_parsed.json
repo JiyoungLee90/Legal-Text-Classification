@@ -1,0 +1,569 @@
+{
+    "__articles": "3;6;6+6-3-d;6-1;6-3-d",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);No violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-d - Examination of witnesses)",
+    "applicability": "",
+    "appno": "51772/08",
+    "article": [
+        "6",
+        "3"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "No violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3-d - Examination of witnesses"
+            ],
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-188399.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 51772/08) against Georgia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Georgian national, Mr Giorgi Kikalishvili (\u201cthe applicant\u201d), on 28 October 2008.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms L. Mukhashavria and Mr\u00a0N.\u00a0Kvaratskhelia, lawyers practising in Tbilisi. The Georgian Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0L.\u00a0Meskhoradze of the Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 24 May 2012 notice of the application was given to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1987.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 13 June 2006 an investigation was opened into an alleged robbery committed against D.G., an offence under Article 178 \u00a7 2 (a) of the Criminal Code of Georgia. On the same date D.G. was formally granted victim status and questioned in connection with the incident. She claimed in her statement that, while walking in the street earlier the same day at around 3.30 p.m., she had been attacked by a young boy who had ripped her gold necklace off her. She described him as being around twenty years old with dark curly hair and around 177 cm in height, and claimed that she could identify him. A friend of hers who had witnessed the incident noted in her statement that she could not identify the alleged robber, as she had not seen his face.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 14 June 2006 a photo identification parade was organised. The victim identified the person on photo no. 4 as the robber. It appears that later an investigator made a note on the identification record that the victim had identified the person on photo no. 2. There was no explanation as to why there were contradictory notes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0Immediately thereafter the applicant was named as the person on photo no. 2, and an order for his arrest was issued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 15 June 2006, following the applicant\u2019s arrest, an identification parade was organised. Four persons were presented at the identification parade, and the victim identified the applicant as the robber. A personal search of the applicant and a subsequent search of his home did not reveal any unlawful items.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 17 June 2006 the investigator in charge of the case wrote a letter to the prosecutor, noting that the applicant had affiliations with the criminal world and had been following \u201c[a] thief\u2019s traditions\u201d, and that it should have been expected that he would commit various offences. On the same date the Tbilisi City Court, acting at the prosecutor\u2019s request, ordered the applicant\u2019s pre-trial detention for two months. The decision was confirmed by the Tbilisi Court of Appeal on 26 June 2006.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 8 August 2006 the pre-trial investigation was completed and the case file was sent to the trial court for examination, along with the bill of indictment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0The trial opened on 28 December 2006. The victim confirmed her pre-trial statement, noting that she remembered the face of the applicant very well. The investigator who had organised the photo identification parade was also questioned by the first-instance court. He claimed that the victim had mistakenly written down photo no. 4 instead of photo no. 2 on the photo identification record. Therefore, he had subsequently made an additional note only to rectify this purely technical mistake. The first-instance court also questioned N.K., a shop assistant who had witnessed the whole incident. She described the alleged robber and claimed that the applicant had a different appearance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 2 February 2007 the Tbilisi City Court convicted the applicant of aggravated robbery and sentenced him to four years and six months\u2019 imprisonment. The applicant\u2019s conviction was based on the victim\u2019s statement in court, the results of the identification parades, and the statement which the victim\u2019s friend had made in court. The trial court dismissed the evidence of the shopkeeper as \u201csubjective\u201d and aimed at allowing the applicant to escape criminal responsibility. The price of the necklace, estimated by the victim to be 300 Georgian laris (GEL \u2013 approximately 150 euros (EUR) at the material time) constituted an aggravating circumstance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The applicant appealed against his conviction to the Tbilisi Court of Appeal. He requested that the victim and the investigator be examined again before the second-instance court. On 23 May 2007 the victim wrote to the appeal court, informing the judges that she was pregnant and claiming, on the basis of a medical certificate, that she had been asked to stay in bed and could not appear in court. In the meantime, the appeal court had allowed the applicant\u2019s application for the investigator to be examined again. According to the relevant court transcript, in reply to a question concerning the report on photo identification, the investigator maintained that the victim had orally identified photo no. 2, whereas she had mistakenly written down photo no. 4 in the report. As he had noticed that mistake only after she had left the police station, he had made a note to that effect. In view of the investigator\u2019s explanations regarding the photo identification report, the defence once again requested that the appeal court summon the victim. The applicant\u2019s lawyer maintained that it was necessary to examine her in court in order to establish the circumstances surrounding the photo identification parade, and also to verify the value of the necklace that had been stolen. By a letter of 5 September 2007 the victim once again informed the court that, in view of her pregnancy, she could not appear in court. On the basis of that statement, the prosecutor asked the court to rely on the victim\u2019s statement given before the first-instance court. Having heard the parties\u2019 arguments, the appeal court concluded the following:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the examination of the case should continue, since as it appears from the victim\u2019s ... application submitted to the court, she cannot appear in court because of her pregnancy, which is also confirmed by an extract from her medical file; hence, the court cannot compel her to appear. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0By a decision of 21 September 2007 the Tbilisi Court of Appeal, whilst reclassifying the offence as a simple robbery, confirmed the applicant\u2019s conviction and reduced his sentence to three years and six months\u2019 imprisonment. The appeal court concluded that the results of the photo identification had been marred by procedural irregularities and dismissed them as unreliable. However, the applicant\u2019s guilt had been proved by the victim\u2019s consistent statements during the pre-trial investigation stage and before the trial court, by the results of the identification parade, and by the evidence given by the victim\u2019s friend. The appeal court rejected the aggravating circumstance, concluding that the price of the necklace, as claimed by the victim, had not been proved.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0By a decision of 14 May 2008 the Supreme Court of Georgia rejected an appeal by the applicant on points of law as inadmissible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 24 March 2009 the applicant was released on probation, by virtue of a relevant court decision.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s state of health",
+                                "elements": [
+                                    {
+                                        "content": "17.\u00a0\u00a0According to the case file, prior to his detention the applicant was diagnosed with an acute cataract in his left eye and advised to have surgery. Following his detention, on 15 June 2006 he was placed in Tbilisi Prison no.\u00a05. On 21 October 2006, having complained of a loss of sight in his left eye and impaired vision in his right eye, he was transferred to the prison hospital, where the diagnosis of an acute cataract was confirmed. He was further diagnosed with chorioretinitis (inflammation of the uveal tract) in his right eye. The applicant was prescribed drug-based treatment and discharged on 4 November 2006 in a satisfactory condition.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 13 January 2007 the applicant was again transferred to the prison hospital, where he stayed until 12 February 2007. He underwent blood and urine tests there and was seen by various doctors, including an ophthalmologist. The ophthalmologist confirmed the applicant\u2019s diagnosis of an acute cataract in his left eye and prescribed drug-based treatment. The applicant was discharged from the prison hospital after his condition had improved, as noted in the relevant medical certificate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 3 March 2007 the applicant was transferred back to the prison hospital, this time with an additional diagnosis that he had developed haziness of the vitreous body in his right eye. On 12 March 2007 he was moved back to prison for, as noted in his medical file, \u201cnon-medical reasons.\u201d On 20 March 2007 the applicant\u2019s mother wrote to the Prisons Department, requesting that her son be transferred back to the prison hospital. She claimed that he was suffering from a serious visual impairment of his left eye. Her request was forwarded to the Governor of Prison no. 5, where the applicant was detained at the material time, yet no reply followed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0In the period April-May 2007, acting at the request of the applicant\u2019s lawyer, a private eye clinic called Mzera Eye Clinic examined the applicant\u2019s medical file and confirmed the diagnosis of a uveal cataract in his left eye. The expert recommended drug-based treatment followed by surgery, namely the implantation of an artificial lens. No pathology in the right eye was established.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 2 June 2007 the applicant was again transferred to the prison hospital for treatment for his cataract. On 25 June 2007 his treating ophthalmologist requested that the prison hospital organise for an eye surgeon to see the applicant. On an unidentified date the head doctor of the prison hospital wrote to Mzera Eye Clinic. He requested that the clinic send a specialist to examine the applicant, given his diagnosis. It appears from the case file that, despite the above request, the applicant was not seen by an eye surgeon at that time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0In the meantime, having undergone various tests, in mid-August 2007 the applicant was diagnosed as suffering from smear-negative tuberculosis of the right lung in the infiltration stage. On 31 August 2007 he was discharged from the prison hospital and transferred to a facility in Ksani for prisoners with tuberculosis. Following the diagnosis being confirmed, on 2\u00a0September 2007 he was enrolled in an anti-tuberculosis treatment programme under the DOTS programme (Directly Observed Treatment, Short-course \u2013 the treatment strategy for the detection and cure of tuberculosis recommended by the World Health Organization).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 24 January 2008 the applicant was transferred to the prison hospital, where he stayed for almost two weeks. According to the entries made in his medical file, he regularly complained of a loss of vision in his left eye. He was not seen by an ophthalmologist at that time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 2 May 2008 the applicant completed his treatment for tuberculosis. On 17 June 2008 his mother wrote a letter to the head of social services at the Prisons Department, requesting that her son be transferred to a medical establishment for prisoners with tuberculosis. On an unspecified date he was transferred back to Ksani prison, where another medical test revealed that he had had a relapse. He was diagnosed with smear-positive infiltrative tuberculosis of the right lung in the disintegration stage. A decision was taken on 12 September 2008 to put him on the DOTS programme again. No entries were made in his file concerning his ophthalmological treatment at the material time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 28 October 2008, relying on Rule 39 of the Rules of Court, the applicant asked the Court to indicate to the Government that he should be transferred to a medical establishment where he could access appropriate medical examinations and treatment, and have an operation to prevent him from losing his eyesight.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 3 November 2008, under Rule 54 \u00a7 2 (a) of the Rules of Court, the President of the Chamber requested that the Government provide the Court with a specific treatment plan aimed at safeguarding the applicant\u2019s eyesight.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 18 November 2008 the Government submitted the applicant\u2019s medical file to the Court, and also gave an account of the treatment which he had been receiving in prison as of January 2007. According to the submitted information, On 14 November 2008 the applicant was seen by an ophthalmologist, who recommended that he receive treatment for conjunctivitis before a decision was made about surgery. On 18 November 2008 the applicant was advised that he could undergo the required eye operation at Mzera Eye Clinic. According to the relevant note signed by the applicant and his ophthalmologist, the applicant refused the operation offered by the prison authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 24 March 2009 the applicant was released on probation.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "29.\u00a0\u00a0The relevant legal provisions concerning the protection of prisoners\u2019 rights in the custodial institutions of Georgia at the material time are set out in the following judgments: Goginashvili v. Georgia (no. , \u00a7\u00a7\u00a03235, 4 October 2011), and Makharadze and Sikharulidze v.\u00a0Georgia\u00a0(no. , \u00a7\u00a7 40-43, 22 November 2011).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE SCOPE OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "30.\u00a0\u00a0The Court notes that after the respondent Government were given notice of the applicant\u2019s complaints concerning his alleged infection with pulmonary tuberculosis and the lack of adequate medical care in prison for his ophthalmological problems and tuberculosis, the applicant submitted new complaints concerning the allegedly poor material conditions of his detention in Tbilisi Prison no. 5 and Ksani Prison no. 7. He further alleged that the relevant authorities\u2019 refusal to grant him early release amounted to a violation of Article 3 of the Convention, in view of his state of health.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0The Court notes that the new complaints cannot be considered an elaboration of the applicant\u2019s original complaints, on which the parties have commented. These issues cannot therefore be examined in the context of the present application (see Goloshvili v. Georgia, no. 45566/08, \u00a7\u00a7 26-27, 20\u00a0November 2012).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "32.\u00a0\u00a0The applicant complained under Article 3 of the Convention that he had contracted tuberculosis in prison and that the prison authorities had been withholding adequate medical treatment for his tuberculosis and serious ophthalmological problems. Article 3 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "33.\u00a0\u00a0The Government submitted that the complaint under Article 3 of the Convention concerning the applicant\u2019s alleged infection with tuberculosis in prison was inadmissible for non-exhaustion. Notably, in line with the Court\u2019s conclusion in the Goloshvili case (cited above, \u00a7\u00a7 32-33), they maintained that there were several effective civil remedies that had not been used by the applicant in the present case, in particular those under Article\u00a0207 of the General Administrative Code and Article 413 of the Civil Code. The applicant did not comment on the Government\u2019s non-exhaustion plea.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0The Court notes that the applicant in the current case has never attempted to bring a civil claim for damages for his alleged infection with tuberculosis in prison. The Court thus considers that this aspect of the complaint under Article 3 of the Convention must be rejected under Article\u00a035 \u00a7\u00a7 1 and 4 of the Convention for non-exhaustion of domestic remedies (see, among many others, Goloshvili, cited above, \u00a7\u00a7 32-33, and Kartvelishvili v. Georgia, no. 117716/08, \u00a7 47, 7 June 2018).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0As regards the remainder of the applicant\u2019s complaint under Article 3 of the Convention, it is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. Nor is it inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "36.\u00a0\u00a0The applicant claimed that the diagnosis of tuberculosis had been belated; accordingly, the treatment had been late in starting, and as a result the disease had progressed to the decomposition stage. He also claimed that the relapse had been the result of the first phase of the DOTS treatment ending early and his being transferred to a standard prison despite his extremely fragile state of health. He maintained that he had stayed there for four months in extremely poor conditions, during which time his state of health had deteriorated. As regards his cataract, the applicant claimed that for almost three years he had been suffering from a severe visual impairment of his left eye, and that although he had been advised to have surgery, he had not been offered an operation until the Court\u2019s involvement in November 2008. Eventually, he had refused to have an operation in prison because he had developed mistrust towards the whole prison system.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Government claimed that the applicant\u2019s eyesight had deteriorated well before his detention; that while in prison no further deterioration had been noted; that the applicant had been offered an eye operation but had refused it; and that all in all he had been provided with adequate treatment in that respect. In support of their submissions, they referred to the relevant medical files, according to which the applicant had regularly been transferred to the prison hospital for medical check-ups and had regularly been seen by an ophthalmologist. As regards the applicant\u2019s tuberculosis, while submitting his full medical file, the Government noted that the applicant had been enrolled in the DOTS programme as soon as he had been diagnosed with tuberculosis. The decision to put him back on the DOTS programme had also been taken immediately after the relapse had been established. In that connection, and with reference to the particularities of tuberculosis, the Government claimed that reactivation of the disease could have been caused by a genotype of the bacteria. On 8 December 2008 and 26 February 2009 there had been positive indications in the applicant\u2019s treatment. He had not finished the second phase of the treatment, as he had been released on probation on 24 March 2009. To conclude, the Government maintained that the treatment provided to the applicant had been prompt and adequate.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0The relevant general principles concerning the adequacy of medical treatment in prisons have been summarised by the Court in the case of Blokhin v. Russia ([GC], no. , \u00a7\u00a7 135-140, ECHR 2016, with further references therein; see also Goginashvili v. Georgia, no. 47729/08, \u00a7\u00a7\u00a06970, 4 October 2011; Jeladze v. Georgia, no. , \u00a7\u00a7 41-42, 18\u00a0December 2012; and Irakli Mindadze v. Georgia, no. , \u00a7\u00a7\u00a03940, 11\u00a0December 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The applicant\u2019s complaint under Article 3 of the Convention consists of two elements: belated and inadequate treatment of his tuberculosis, and inadequate treatment of his ophthalmological problems. The Court will examine them separately.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0Starting with the applicant\u2019s tuberculosis, there is no evidence in the case file that between June 2006 and June 2007 the applicant complained of his state of health or requested any treatment that was withheld from him. He only complained of his cataract. According to the case file, within that period of time he had various medical tests, including regular blood tests; the deterioration in his general condition was noted only in summer 2007. He was soon transferred to the prison hospital, where, after having the required medical tests, he was diagnosed with tuberculosis (see paragraph\u00a022 above). The applicant was immediately enrolled in the DOTS program, the first phase of which he successfully completed in May 2008 (see paragraph\u00a024 above). Within four months he was diagnosed with recurrent tuberculosis and was again enrolled in the DOTS programme (ibid.). It is important to note that, according to the case file, he was provided with a medical check-up only after his mother\u2019s repeated requests. However deplorable the four-month gap in the applicant\u2019s medical supervision may be, the Court cannot speculate as to the reasons why the tuberculosis reappeared. Subsequently, the applicant was placed in Ksani prison, where he continued to have tuberculosis treatment under the supervision of relevant specialists until his release on probation. The Court notes in this respect that it is guided by the due diligence test in its assessment of the adequacy of the treatment, since the State\u2019s obligation to cure a seriously ill detainee concerns the means to be employed and not the results to be achieved (see Goginashvili, cited above, \u00a7 71). In view of the relevant case-law, and having regard to the relevant factual circumstances, the Court is not in a position to conclude that the overall medical treatment available to the applicant for tuberculosis was either insufficient or poor. Accordingly, there has been no violation of Article 3 of the Convention in that respect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0As to the second limb of the applicant\u2019s complaint under Article 3 of the Convention, the Court notes that the applicant entered the prison system with a diagnosis of an acute cataract and a recommendation that he undergo surgery (see paragraph 17 above). Five months after his arrest the applicant was transferred to the prison hospital for the first time, where he was prescribed drug-based treatment for his cataract (ibid.). Surgery was not mentioned. In May 2007 his diagnosis of a cataract and the need for an operation were confirmed (see paragraph 20 above). However, his medical file indicates that after he was diagnosed with tuberculosis his treatment for the cataract was suspended. Within the relevant period of time he was not seen by an ophthalmologist (see paragraphs 23-24 above). It was only in November 2008, after the Court had asked the Government to provide it with a specific treatment plan aimed at safeguarding the applicant\u2019s eyesight (see paragraphs 25-26 above), that he was transferred to the prison hospital and seen by an ophthalmologist (see paragraph 27 above). The applicant was subsequently offered an operation (ibid.). It is true that he rejected that offer. However, the fact that the applicant had to spend two and a half years in prison with a severe visual impairment before finally being offered a medical procedure capable of restoring his vision is, in the Court\u2019s view, highly deplorable. Thus, for a prolonged period of time, the authorities withheld from the applicant a medical procedure that could have restored his vision. They failed to provide any explanations to that effect. His medical file does not indicate, and nor did the Government allege, that his tuberculosis treatment necessitated the suspension of his cataract treatment and the postponement of the operation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0In view of the foregoing, the Court finds that the authorities withheld from the applicant the medical treatment required for his cataract, thus failing to secure his health and well-being in detention (see Balkov v. Russia [Committee], no. 33690/12, \u00a7\u00a7 28-31, 6 June 2017). There has accordingly been a violation of Article 3 of the Convention on that account.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7\u00a7 1 and 3 (d) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "43.\u00a0\u00a0The applicant complained under Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention that he had been unable to examine the victim at the appeal phase. Article 6, in so far as it is relevant, provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d) to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him; ...\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0The applicant maintained that, given the decisive role that the victim\u2019s evidence had played in his conviction, re-examining her before the court of appeal had been vital for the proper exercise of his defence rights. According to the applicant, both identification procedures had been marred by a number of procedural irregularities, and the victim had failed to clarify a number of related issues before the trial court. Hence, his inability to examine her at the appeal stage for a reason that appeared to be invalid had been in violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Government stressed in their observations that the victim had identified the applicant on two occasions \u2013 during the photo identification procedure and subsequently during the identification parade. She had also given two consistent statements incriminating the applicant \u2013 at the pre-trial stage of the investigation and subsequently before the trial court. Furthermore, two reasons had been advanced by the defence for having the victim re-examined in the court of appeal: firstly, to establish the value of the necklace, and secondly, to clarify the discrepancy on the record of the photo identification parade. Both issues, according to the Government, had been carefully reassessed by the Tbilisi Court of Appeal and duly addressed in its decision. In such circumstances, and in view of the victim\u2019s condition, the applicant\u2019s inability to examine her at the appeal stage had not affected his rights to an extent which was incompatible with Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court reiterates that it is not its task to take the place of the domestic courts, which are in the best position to assess the evidence before them, establish facts and interpret domestic law. The Court will not, in principle, intervene, unless the decisions reached by the domestic courts appear arbitrary or manifestly unreasonable and provided that the proceedings as a whole were fair, as required by Article 6 \u00a7 1. Although it is not the Court\u2019s function under Article 6 \u00a7 1 to deal with errors of fact or law allegedly committed by the domestic courts, decisions that are \u201carbitrary or manifestly unreasonable\u201d may be found incompatible with the guarantees of a fair hearing (see Ilgar Mammadov v. Azerbaijan (no. 2), no. 919/15, \u00a7\u00a0205, 16 November 2017, with further references therein; see also Moreira Ferreira v. Portugal (no. 2) [GC], no. 19867/12, \u00a7 83, 11 July 2017).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The Court further notes that the manner of application of Article 6 to proceedings before courts of appeal depends on the special features of the proceedings involved; account must be taken of the entirety of the proceedings in the domestic legal order and of the role of the appellate court therein (see Botten v. Norway, 19 February 1996, \u00a7 39, Reports 1996I, and Hermi v. Italy [GC], no. , \u00a7 60, ECHR 2006XII; see also Marius Dragomir v. Romania, no. 21528/09, \u00a7\u00a7 18-19, 6 October 2015).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0Article 6 \u00a7 3 (d) enshrines the principle that, before an accused can be convicted, all the evidence against him must normally be produced in his presence at a public hearing for the purpose of adversarial argument (see for the relevant principles Al-Khawaja and Tahery v. the United Kingdom [GC], nos.\u00a026766/05 and 22228/06, \u00a7\u00a7 119147, ECHR 2011 clarified further in Schatschaschwili v. Germany [GC], no. 9154/10, \u00a7 103, ECHR 2015; see also, Seton v. the United Kingdom, no. 55287/10, \u00a7 57, 31 March 2016). While the current case differs from the above-mentioned cases in that it does not concern an \u201cabsent\u201d witness who was not present for cross-examination, the Court still finds the principles developed in the above case-law relevant for the purposes of the assessment of the fairness of the proceedings in the current case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0Turning to the concrete circumstances of the present case, the Court notes that the main evidence against the applicant was the victim\u2019s statement that the applicant had ripped her gold necklace off her. This statement was further supported by the results of the photo identification and identification parades, in which the victim again had the main say. There was no other evidence which, on its own, could have led to the applicant\u2019s conviction. Thus, the victim\u2019s evidence had a decisive impact on the determination of the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The victim was examined by the trial court, with the participation of the applicant and his lawyer. They were allowed to put questions to her and challenge the veracity and/or consistency of her evidence in court. At no stage of the proceedings did the defence argue that they had been limited for whatever reason in their right to challenge the victim\u2019s evidence before the first-instance court (see Kashlev v. Estonia, no. 22574/08, \u00a7 47, 26 April 2016; see also, mutatis mutandis, Miminoshvili v. Russia, no. 20197/03, \u00a7\u00a0122, 28 June 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0As to the appeal proceedings, the Court notes that the court of appeal had jurisdiction to review the case as to both the facts and the law. Furthermore, the application for the victim to be examined before the court of appeal appeared to have a proper basis (see paragraph 13 above). With that application, the defence aimed to challenge firstly the results of the photo identification parade, and secondly the firstinstance court\u2019s classification of the purported offence as aggravated robbery in view of the price of the necklace. The way in which the appeal court accepted pregnancy as a valid reason for the victim\u2019s absence is not entirely convincing (see, for example, Bobe\u015f v. Romania, no. 29752/05, \u00a7\u00a7 39-40, 9\u00a0July 2013). From a procedural point of view, no alternative ways of questioning the victim were ever considered by the court. However, from a substantive point of view, the Court notes that both aspects of the defence\u2019s argument as advanced by the applicant in his application to examine the victim were fully and comprehensively re-examined by the Tbilisi Court of Appeal. That court thus dismissed the aggravating circumstance, finding that the price of the necklace as estimated by the victim and accepted by the first-instance court had not been proved. The applicant\u2019s sentence was reduced as a result. As regards the results of the photo identification parade, the appeal court dismissed them as unreliable (see paragraph 14 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0To sum up, the Court considers that the criminal proceedings conducted against the applicant, as a whole, were not unfair. Cumulatively, the following factors provided for the guarantees of a fair trial as enshrined in Article 6 of the Convention: the comprehensive examination of the evidence before the first-instance court, with the participation of the applicant and his lawyer, including the examination of the victim in court; the appeal proceedings involving the applicant; and the appeal court judgment answering all the main arguments of the defence and excluding part of the evidence for procedural shortcomings (contrast with G\u0103it\u0103naru v.\u00a0Romania, no. 26082/05, \u00a7\u00a7 31-32, 26 June 2012, where the applicant, having been acquitted by the first two instances, was convicted by the cassation court without having the witnesses re-examined; see also Lazu v.\u00a0the Republic of Moldova, no. 46182/08, \u00a7\u00a7 40 and 42, 5 July 2016, with further reference therein). The Court therefore finds no violation of Article\u00a06 \u00a7\u00a7\u00a01 and 3 (d) of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The applicant claimed a total of 1,733.12 euros (EUR) in respect of pecuniary damage, on account of the various expenses which he had allegedly incurred during his time in prison. This included the cost of food parcels delivered by his family (EUR 777.20), the total sum transferred to his prison account by his family throughout his detention (EUR 414.50), and the remaining sum spent on his various medical tests and treatment. He additionally claimed EUR 1,059.82 in connection with the medical expenses he would have to incur in the future in view of his state of health. In support of his claim, the applicant submitted copies of various receipts, bank invoices and medical certificates.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0As to non-pecuniary damage, the applicant claimed EUR 6,000 as compensation for the pain and anguish he had suffered on account of his unfair trial and conviction, inadequate medical treatment, and poor conditions of detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Government contested the claim in respect of non-pecuniary damage as unsubstantiated. While maintaining that the applicant had been provided with adequate treatment, they emphasised that they could not be held responsible for the distress inevitably stemming from the detention. As regards pecuniary damage, the Government claimed that the applicant had failed to prove that all of the expenses claimed had indeed been incurred, leaving aside the issue of their reasonableness and necessity. In connection with the medical expenses, they noted that some of the submitted bills concerned the period after the applicant\u2019s release. They also stressed that the Government were not responsible for additional expenses voluntarily incurred by the applicant\u2019s family during his detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0Having regard to the documents in its possession and in view of the nature of the violation found under Article 3 above, the Court considers that the applicant failed to substantiate his claims in respect of pecuniary damage. At the same time, the Court considers that the applicant undoubtedly suffered non-pecuniary damage as a result of the violation found, and decides to award him EUR 4,500 in respect of such damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0The applicant also claimed EUR 1,800 for the costs and expenses incurred before the domestic courts, EUR 795 for legal fees, and EUR\u00a077 for administrative expenses incurred in the proceedings before the Court. The only document he submitted in support of this claim concerned the legal fees incurred before the Court, and it comprised information about the hours spent by his lawyer on preparing the submissions for the Court at EUR\u00a060 per hour.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Government argued that the applicant had failed to submit any financial documents proving that any of the expenses claimed had ever been incurred.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0According to the Court\u2019s settled case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum.\u00a0A representative\u2019s fees are actually incurred if the applicant has paid them or is liable to pay them. The opposite is the case with respect to the fees of a representative who, without waiving them, has simply taken no steps to pursue their payment or has deferred it. The fees payable to a representative under a conditional-fee agreement are actually incurred only if that agreement is enforceable in the respective jurisdiction (see, Merabishvili v. Georgia [GC], no. 72508/13, \u00a7 371, 28 November 2017, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court notes that the applicant did not submit any legal or financial documents concerning the costs and expenses incurred before the domestic courts, or those related to so-called administrative expenses. As regards the legal costs incurred before the Court, he did not submit documents showing that he had paid or was under a legal obligation to pay the fees charged by his representative. In the absence of such documents it finds no basis on which to accept that the costs and expenses claimed by the applicant have actually been incurred by him. It follows that the claim must be rejected.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning the alleged lack of adequate medical treatment in prison, and the complaint concerning the alleged unfairness of the criminal proceedings admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention on account of the inadequate medical treatment provided to the applicant for his ophthalmological problems;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 3 of the Convention on account of the medical treatment provided to the applicant for his tuberculosis;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months, EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 20 December 2018, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Andr\u00e9 Potocki",
+            "role": "president"
+        },
+        {
+            "name": "M\u0101rti\u0146\u0161 Mits",
+            "role": "judges"
+        },
+        {
+            "name": "Lado Chanturia",
+            "role": "judges"
+        },
+        {
+            "name": "Milan Bla\u0161ko",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF KIKALISHVILI v. GEORGIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-188399.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:1220JUD005177208",
+    "externalsources": [],
+    "extractedappno": [
+        "51772/08",
+        "47729/08",
+        "35254/07",
+        "45566/08",
+        "117716/08",
+        "47152/06",
+        "1871/08",
+        "17012/09",
+        "33690/12",
+        "919/15",
+        "19867/12",
+        "18114/02",
+        "21528/09",
+        "26766/05",
+        "22228/06",
+        "9154/10",
+        "55287/10",
+        "22574/08",
+        "20197/03",
+        "29752/05",
+        "26082/05",
+        "46182/08",
+        "72508/13"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-188399",
+    "judgementdate": "20/12/2018 00:00:00",
+    "kpdate": "20/12/2018 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "445",
+        "76",
+        "136",
+        "122"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "29",
+    "paragraphs": [
+        "6",
+        "3",
+        "6-1",
+        "6-3-d"
+    ],
+    "parties": [
+        "KIKALISHVILI",
+        "GEORGIA"
+    ],
+    "rank": "2900.16625976563",
+    "representedby": [
+        "MUKHASHAVRIA L.",
+        "KVARATSKHELIA N."
+    ],
+    "respondent": "GEO",
+    "respondentOrderEng": "17",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "484098",
+    "typedescription": "15"
+}

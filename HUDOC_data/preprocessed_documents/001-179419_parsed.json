@@ -1,0 +1,813 @@
+{
+    "__articles": "3;5;5-1;5-1-f;5-4",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-f - Expulsion);Violation of Article 5 - Right to liberty and security (Article 5-4 - Review by a court;Speediness of review);No violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-f - Expulsion);No violation of Article 5 - Right to liberty and security (Article 5-4 - Review by a court;Speediness of review)",
+    "applicability": "",
+    "appno": "29957/14;29961/14;53980/15;10583/16;10796/16;10803/16;19980/16;35675/16",
+    "article": [
+        "3",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-4 - Review by a court",
+                "Speediness of review"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-4 - Review by a court",
+                "Speediness of review"
+            ],
+            "element": "No violation of Article 5 - Right to liberty and security",
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-179419.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in nine applications (nos. 29957/14, 29961/14, 53980/15, 10583/16, 10796/16, 10803/16, 19980/16, 35675/16 and 38237/16) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by twelve Syrian nationals. The details of the applicants\u2019 individual cases are set out in the Appendix.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Russian Government (\u201cthe Government\u201d) were represented initially by Mr G. Matyushkin, the Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The applicants alleged, in particular, that their being returned to Syria would breach their rights guaranteed by Articles 2 and 3 of the Convention, and that they had had no effective remedies in respect of these complaints, in breach of Article 13 of the Convention. Two of the applicants, M.S.A. and R.K., also complained under Article 3 of the Convention that they had been detained in inhuman and degrading conditions in a detention centre for foreigners. All the applicants also alleged that their detention in Russia had been in breach of Article 5 of the Convention. Furthermore, one of the applicants, H.R., complained under Article 6 of the Convention that he had not been provided with a lawyer during the administrative proceedings concerning his removal, and other applicants, B.Z., H.D. and S.W., complained that their right to meet with their lawyer whilst in detention had been restricted, in breach of Article 34 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On various dates the Court decided to indicate to the Russian Government, under Rule 39 of the Rules of Court, that the applicants should not be expelled to Syria for the duration of the proceedings before the Court. The applicants\u2019 cases were also granted priority (under Rule 41) and confidentiality (under Rule 33), and the applicants were granted anonymity (under Rule 47 \u00a7 4).",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Between 19 March 2015 and 13 September 2016 the applications were communicated to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0On 16 June 2017 the Government was informed that the Court envisaged assigning the applications to a Committee of three judges. On 30\u00a0June 2017 the Government objected to the applications being examined by a Committee. After considering the Government\u2019s objection, the Court rejected it. In accordance with Article 26 \u00a7 1 of the Convention as amended by Protocol No. 14, the applications were assigned to a Committee of three judges. It was also decided that the Committee would rule on the admissibility and merits of the applications at the same time.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "7.\u00a0\u00a0The applicants are Syrian nationals. Their initials, dates of birth, application numbers and the other details of their cases are set out in the Appendix. At the time of lodging their applications the applicants were detained at detention centres for foreign nationals run by the Federal Migration Service (hereinafter \u201cthe FMS\u201d) in different towns in Russia.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0The facts of the cases, as submitted by the applicants, may be summarised as follows.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicants\u2019 arrest and expulsion proceedings",
+                                "elements": [
+                                    {
+                                        "content": "9. \u00a0\u00a0On various dates between 2012 and 2016 the applicants came to Russia on various visas and did not leave when the period of their stay had expired. They were apprehended by the police and/or officers of the FMS in various regions in Russia for breaching the applicable immigration regulations, and placed in detention centres for foreigners (see the Appendix for the applicants\u2019 dates of detention and details of the relevant proceedings). The domestic courts in the respective regions examined their cases and found the applicants guilty of breaching various immigration regulations. Some of the applicants lodged appeals, but they were rejected by the domestic courts, whereas other applicants eventually had their expulsion orders quashed by the appeal courts. One of the applicants did not appeal against his expulsion order (see the Appendix for the details of individual cases)",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Proceedings for refugee status and asylum in Russia",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0All the applicants sought to obtain refugee status and/or temporary asylum in Russia. Some of the applicants voluntarily withdrew their requests and others\u2019 requests were rejected, first by the FMS and then by the domestic courts which examined the appeals against the FMS\u2019s refusals. Only Y.A.\u2019s request for temporary asylum was granted (see the Appendix for details).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Departure for a third country",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0According to the information provided by their lawyers, while the proceedings before the Court were ongoing, six of the applicants (M.S.A., R.K., H.R., B.Z., S.W. and A.A.) left Russia of their own volition on various dates to go to third countries, where they settled (see the Appendix for details).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Conditions of detention of M.S.A. and R.K.",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0Between 24 January 2014 and 10 June 2014 M.S.A. and R.K. were detained in a detention centre for foreign nationals run by the FMS in Krasnoye Selo, in the Leningrad Region.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to their submissions, the centre was based in an eight-storey building with windows covered with grills; five of the storeys were designed to accommodate 176 people in total. Each storey comprised around ten to eleven cells. The centre was severely overcrowded during the whole period of the applicants\u2019 detention. In particular, according to a report of the Human Rights Ombudsman in Saint Petersburg, on 26 February 2014 the centre accommodated 400 foreign nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Both applicants were detained in cell no. 511, located on the fifth storey, which measured around 9 square metres and was designed to accommodate six people. All places in the cell were occupied during the whole period of their detention. Thus, each detainee had no more than 1.5\u00a0square metres of personal space, despite the statutory requirement that each detainee in a detention centre for foreign nationals have at least 4.5\u00a0square metres of personal space. The cell was furnished with three bunk beds and two bedside tables. There was no dining table in the cell.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The food was of poor quality, with no fruit or vegetables, and included pork, which the applicants could not eat for religious reasons. No alternative food was offered instead of pork, so they were deprived of any meal when pork was served. There were no kitchen and dining facilities in the centre. Food was delivered to the centre in containers and served cold in the cells. Detainees were forced to eat on their beds because there were no tables in the cells. This shortage in food was exacerbated by arbitrary restrictions on the contents of food parcels delivered from outside. Detainees were not allowed to receive fermented milk products, homecooked food, fruit or vegetables.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Detainees had no free access to drinking water or devices to boil tap water. The cell where M.S.A. and R.K. were detained was only lit by one light bulb, and the detainees were not allowed to switch on the light after 10\u00a0p.m.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants and other inmates could move around on that storey to get to sanitary facilities, but they were not allowed to leave the storey or enter other detainees\u2019 cells. At the two ends of the common corridor there were bathrooms, each equipped with three lavatories, two washbasins and two showers. The storey was under the control of a dozen \u201cchosen\u201d inmates who, with the tacit consent of the centre\u2019s administration, dictated their rules to others and created an atmosphere of fear, violence and extortion. One of the bathrooms was for their exclusive use. The other seventy to eighty inmates had to use the other bathroom.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Outdoor exercise was sporadic and lasted around 15-20 minutes. In winter, the applicants did not go outside, as they did not possess winter clothes. In the period April-May 2014 they were able to enjoy outdoor exercise only four times. Outdoor exercise took place in a closed yard measuring around 50 metres in length and 10 metres in width. There was gravel on the ground, and there were no benches, plants or sports equipment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0The facility did not offer any activities, and no library was available.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Access to a lawyer",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0During the administrative hearing concerning his removal from Russia on 26\u00a0February 2016, H.R. was not represented by a lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0According to the lawyer representing B.Z., H.D. and S.W., on 25\u00a0March\u00a02015 he was not allowed to meet with them in the detention centre.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "22.\u00a0\u00a0The relevant domestic law and practice relating to the expulsion and detention of foreign nationals in Russia, refugee status, and temporary asylum, and the situation of Syrian nationals in the country, is summarised in the Court\u2019s leading judgment in the case of L.M. and Others v. Russia, nos.\u00a040081/14 and 2 others, \u00a7\u00a7\u00a061\u2013 75, 15 October 2015, and in the follow-up case of S.K. v. Russia, no.\u00a052722/15, \u00a7\u00a7 23-41, 14 February 2017.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER RELEVANT MATERIAL",
+                        "elements": [
+                            {
+                                "content": "23.\u00a0\u00a0A summary of the recent (issued between November 2015 and October\u00a02016) international and national reports concerning the humanitarian situation in Syria is provided in the case of S.K.v. Russia, cited above, \u00a7\u00a7 46-47.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0JOINDER OF THE APPLICATIONS",
+                        "elements": [
+                            {
+                                "content": "24.\u00a0\u00a0In accordance with Rule 42 \u00a7 1 of the Rules of Court, the Court decides to join the applications, given their similar factual and legal background.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0THE APPLICATIONS TO BE STRUCK OUT OF THE LIST",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The representatives of M.S.A., R.K., H.R., B.Z., S.W. and A.A. informed the Court that these applicants had left Russia and settled in third countries (see the Appendix for details).",
+                                "elements": []
+                            },
+                            {
+                                "content": "26.\u00a0\u00a0As regards M.S.A. and R.K., the Government submitted that they were no longer exposed to a risk of death or ill-treatment because they had left Russia for Germany. Therefore, their applications should be struck out of the Court\u2019s list of cases. As regards each of the six above-mentioned applicants, the Government submitted that, even though their respective representatives were aware of their whereabouts, the applicants themselves had not confirmed their intention to pursue their applications. Therefore, in the Government\u2019s view, each of the six present applications should be dismissed by the Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0The Court will first address the Government\u2019s argument concerning the alleged lack of intention on the part of the six applicants to pursue their applications.",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0The Court reiterates that an applicant\u2019s representative must not only supply a power of attorney or written authority (Rule 45 \u00a7 3 of the Rules of Court), but that it is also important that contact between an applicant and his or her representative be maintained throughout the proceedings. Such contact is essential, both in order to learn more about the applicant\u2019s particular situation and to confirm the applicant\u2019s continuing interest in pursuing the examination of his or her application (see V.M. and Others v.\u00a0Belgium [GC], no. 60125/11, \u00a7 35, 17 November 2016). In the present case, from the correspondence with their representatives, the Court observes that M.S.A., R.K., H.R., B.Z., S.W. and A.A have maintained contact with their lawyers, and they continue to be interested in pursuing their applications. It therefore dismisses the Government\u2019s request to dismiss these six applications for alleged loss of interest.",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0As regards the Government\u2019s request to strike out the applications of M.S.A. and R.K., the Court notes that the relevant part of Article 37 \u00a7 1 of the Convention provides that:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. The Court may at any stage of the proceedings decide to strike an application out of its list of cases where the circumstances lead to the conclusion that",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "However, the Court shall continue the examination of the application if respect for human rights as defined in the Convention and the Protocols thereto so requires.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0The Court notes from the submissions of the representatives of M.S.A. and R.K. and H.R., B.Z., S.W. and A.A. that these applicants left Russia for safe third countries and settled there (see the Appendix for details). Thus, it considers that they no longer face expulsion to Syria and a risk of death and/or ill-treatment there.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0As regards N.K. and members of his family on 11 January 2017 the Government submitted that the domestic court had quashed the order for their removal from Russia, and had ordered their release on 20 May 2016. They further submitted that the applicants had requested temporary asylum in Russia. The applicants acknowledged these facts, but argued that their stay in Russia had not been regularised and that they remained at risk of expulsion, as the Russian authorities could initiate new proceedings at any moment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "32.\u00a0\u00a0The Court notes that the order for the removal of N.K. and his family has been quashed, they are no longer in detention, but their immigration status had not been allegedly regularised. However, it highlights that previously it concluded in similar circumstances that where an applicant has not been granted a residence permit, it has nevertheless considered it no longer justified to continue examining his or her case by virtue of Article\u00a037 \u00a7\u00a01\u00a0(c) of the Convention, and has decided to strike it out of its list of cases. This is because it has been clear from the information available that at that time, and for a considerable time to come, the applicant would not be at risk of being expelled and subjected to treatment allegedly in breach of Article\u00a03 of the Convention, and because the applicant could challenge a future removal before the domestic authorities (see F.G. v. Sweden [GC], no.\u00a043611/11, \u00a7\u00a074, ECHR 2016, with further references). The Court notes that the situation of N.K. and the members of his family is largely similar to the situation in the above cases.",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0The Court considers that it is no longer justified to continue the examination of the above applications as regards their complaints of a risk of death and/or illtreatment under Articles 2 and 3 of the Convention (see Rakhmonov v.\u00a0Russia, 11673/15, 31\u00a0May\u00a02016) and the closely linked complaints under Article 13 of the Convention. The Court is further satisfied that respect for human rights as defined in the Convention and the Protocols thereto does not require it to continue its examination of this part of the six applications (Article 37 \u00a7 1, in fine). Accordingly, the Court decides to strike the applications of M.S.A., R.K., H.R., B.Z., S.W., A.A, and N.K. and the members of his family out of its list of cases in so far as they concern complaints of death and/or ill-treatment in the event of the applicants\u2019 expulsion to Syria from Russia and the alleged absence of effective domestic remedies in respect of these claims.",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0The above findings do not prevent these applicants from lodging new applications with the Court in the future and making use of the available procedures \u2012 including the one under Rule 39 of the Rules of Court \u2012 in respect of any new circumstances.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 2 AND 3 OF THE CONVENTION ON ACCOUNT OF ORDERED EXPULSION TO SYRIA (THE APPLICATIONS OF H.D. AND Y.A.)",
+                        "elements": [
+                            {
+                                "content": "35.\u00a0\u00a0H.D. and Y.A. complained that their expulsion to Syria, if carried out, would be in breach of their right to life and the prohibition on torture, inhuman and degrading treatment provided for in Articles 2 and 3 of the Convention. The relevant provisions read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone\u2019s right to life shall be protected by law. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0H.D.\u2019s application (no. 10796/16)",
+                                "elements": [
+                                    {
+                                        "content": "36.\u00a0\u00a0The Government submitted that the applicant had been residing in Russia illegally since 1 September 2013, using his brother\u2019s passport, and he had not taken any steps to legalise his status in the country for several years. His complaint under Articles 2 and 3 of the Convention should be dismissed for non-exhaustion of domestic remedies. In particular, he had not appealed against the removal decision issued by the court on 12\u00a0May 2015, even though his right to appeal had been explicitly noted in the text of the decision. Furthermore, the applicant\u2019s arguments concerning his poor knowledge of the Russian language and his lack of understanding of the expulsion proceedings were inaccurate and contradictory, since he had been assisted by an interpreter during the expulsion hearing, had resided and worked in Russia since 2013, and his application for temporary asylum had been submitted in Russian. Moreover, even assuming that a lawyer had assisted him in submitting his request for temporary asylum, that lawyer could also have asked to restore the time-limit for lodging an appeal against the expulsion decision at that time. However, he had only done so on 12\u00a0February 2016 and the appeal court had refused his request, stating that the expulsion decision had been served on the applicant on the day when it had been issued, and the lack of any action on the part of the applicant was unjustified. Moreover, the applicant had not appealed against the immigration authorities\u2019 refusal to grant him temporary asylum. Lastly, his request for refugee status had been ongoing at the time of his application to the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0H.D. submitted that he had not been able to appeal against the removal order of 12 May 2015 promptly because he did not know Russian, had not been familiar with the Russian legal system, and had not had the financial means to retain a lawyer. The removal proceedings in question had been conducted in Russian and he had not in fact been provided with an interpreter, even though the text of the removal decision stated otherwise. On 2 September 2015 his lawyer, M., had filed the application for temporary asylum on his behalf. At the end of February 2016 M. had been informed about the refusal by the immigration authorities in the Republic of Dagestan to grant the applicant temporary asylum. In March 2016 M. had unsuccessfully appealed against that refusal to the FMS of Russia, and on 20\u00a0June\u00a02016 he had submitted an appeal to the court. As regards the application for refugee status, the applicant had submitted it on 24 February 2016, but it would not have prevented his expulsion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0The Court notes at the outset that it was not informed by either the Government or the applicant about the outcome of the temporary asylum and refugee status proceedings (see the Appendix for details). Therefore, in these circumstances, the Court finds that it is not possible to examine the Government\u2019s objection as to non-exhaustion or determine whether or not the applicant failed to exhaust domestic remedies with regard to those proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0As regards the expulsion proceedings, the Court reiterates that an ordinary appeal against removal imposed by a first-instance court, having an automatic suspensive effect, is in principle an effective remedy to be exhausted, and no further appeal is required (see S.K.v. Russia, cited above, \u00a7\u00a7\u00a08081). The Court notes that the applicant in fact participated in two expulsion hearings, firstly using his brother\u2019s name, which he had assumed, and then his own (see the Appendix for details). He did not submit an ordinary appeal against the expulsion order of either 12 May 2015 or 13\u00a0July 2015. His submissions indicate that he failed to appeal because he could not effectively follow the expulsion proceedings, as they were conducted in Russian and he did not have a good command of it. However, according to the text of the removal decisions, the applicant was assisted by interpreters, A.M. and N.M. respectively, during the two hearings in question. There appear to be no grounds for the Court to doubt either the authenticity of those decisions or the quality of A.M. and N.M.\u2019s interpreting. Nor did the applicant challenge those decisions or complain about the interpreters. Moreover, as of 2\u00a0September 2015 the applicant was represented by M., who visited him in the detention centre and assisted him in applying for temporary asylum. The Court also observes that as early as September 2015 M. was able to request that the time-limit for submitting an appeal against the expulsion decision be restored. However, M. failed to do so at that time, and he did not provide any explanation to the Court as to why he had requested to reopen the appeal proceedings in the applicant\u2019s case only five months later, in February 2016. Lastly, the applicant did not contend that an ordinary appeal had been otherwise unavailable to him, or that it would have been an ineffective remedy in his case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0Accordingly, in these circumstances, the Court considers that H.D. did not exhaust domestic remedies with regard to his complaints under Articles 2 and 3 of the Convention, and rejects them under Article 35 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0Taking the above finding into consideration, the Court also finds it appropriate to discontinue the application of Rule 39 of the Rules of Court in respect of H.D.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The above finding does not prevent H.D. from lodging a new application with the Court in the future and making use of the available procedures \u2012 including the one under Rule 39 of the Rules of Court \u2012 in respect of any new circumstances.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Y.A.\u2019s application (no. 38237/16)",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Government submitted that on 24 June 2016 Y.A. had been granted temporary asylum. His stay in Russia had been authorised until 24\u00a0June 2017 and his removal from Russia had been prohibited. They therefore claimed that the applicant had lost his victim status in respect of his complaints under Articles 2 and 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The applicant acknowledged that he had received temporary asylum in Russia. However, he maintained his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court reiterates that, in principle, a successful application for temporary asylum would be capable of suspending the enforcement of administrative removal (see S.K. v. Russia, cited above, \u00a7 94, and Tukhtamurodov v.\u00a0Russia (dec.), no.\u00a021762/14, 20 January 2015). Furthermore, a person granted temporary asylum in Russia can seek to renew this and appeal against any adverse decision (see Tukhtamurodov, cited above, \u00a7 37).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0Y.A. has not informed the Court that he has been unable to renew his temporary asylum.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0Therefore, in the light of the parties\u2019 submissions and the circumstances of Y.A.\u2019s case, the Court observes that, as matters currently stand, Y.A. no longer faces an imminent risk of removal to Syria from Russia, and the factual and legal circumstances at the heart of his complaint are no longer valid. Consequently, the applicant can no longer claim to be a victim within the meaning of Article 34 of the Convention in respect of his claim that he would be subjected to ill-treatment in Syria (see Tukhtamurodov, cited above, \u00a7 38).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0It follows that this part of Y.A.\u2019s application must be rejected pursuant to Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention. In view of the above, the Court also considers it appropriate to discontinue the application of Rule 39 of the Rules of Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The above findings do not prevent Y.A. from lodging a new application with the Court and making use of the available procedures \u2012 including the one under Rule 39 of the Rules of Court \u2012 in respect of any new circumstances, in compliance with the requirements of Articles 34 and\u00a035 of the Convention (see Dobrov v.\u00a0Ukraine (dec.), no. 42409/09, 14\u00a0June 2011, and Bakoyev v. Russia, no.\u00a030225/11, \u00a7 100, 5 February 2013).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "50.\u00a0\u00a0H.D. and Y.A. also complained that they had not had at their disposal effective domestic remedies in respect of their claims, in breach of Article 13 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "51.\u00a0\u00a0The Government contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "52.\u00a0\u00a0The Court notes that this complaint is closely linked to the one examined above under Articles 2 and 3 of the Convention. The Court therefore declares it inadmissible in the cases of H.D. and Y.A.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION (CONDITIONS OF DETENTION OF M.S.A. AND R.K.)",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0M.S.A. and R.K. (application nos. 29957/14 and 29961/14) further complained that the conditions of their detention in the detention centre for foreign nationals had been incompatible with Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "55.\u00a0\u00a0The Government submitted that there had been no violation of Article 3 of the Convention on account of the conditions of detention of M.S.A. and R.K. in the detention centre for foreign nationals, because the conditions of their detention had been in full compliance with the domestic standards regulating such centres. The Government also submitted that the duration of their stay there had been relatively short, but did not make any further observations on the merits of the present complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The applicants\u2019 submissions regarding the conditions of their detention are presented in paragraphs 12-19 above.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The Court notes that it examined complaints concerning the conditions of detention in a detention centre for foreign nationals in Krasnoye Selo, in the Leningrad Region, between 2011 and 2013, and established that they had fallen short of the requirements of Article 3 of the Convention (see Kim v. Russia, no.\u00a044260/13, \u00a7\u00a7 17-22, 31-35, 17\u00a0July 2014).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Having regard to the detailed information submitted by M.S.A. and R.K., and to the fact that the Government have not put forward any fact or argument capable of persuading the Court to reach a different conclusion in the present case, and given its own findings in the case of Kim, cited above, the Court finds that M.S.A. and R.K. were detained in cramped and inadequate conditions in the detention centre for foreign nationals in Krasnoye Selo, in the Leningrad Region. The Court therefore considers that the applicants were subjected to inhuman and degrading treatment in breach of Article 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "59.\u00a0\u00a0The applicants complained that their detention pending expulsion proceedings had been arbitrary and prolonged, and that they had not had access to effective judicial review of their detention. They relied on Article\u00a05 \u00a7 1 (f) and Article 5 \u00a7 4 of the Convention. The relevant parts of Article 5 of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Scope of Y.A.\u2019s application (no. 38237/16)",
+                                "elements": [
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court notes that Y.A. did not raise his complaint under Article\u00a05 of the Convention in his original application, and therefore it was not communicated to the Government and the Government did not comment on it. In his observations, Y.A. made new submissions regarding the alleged violation of his rights under Article 5 of the Convention. However, he did not provide an explanation as to why he had failed to raise this complaint at an earlier stage, before communication of his case to the Government. Accordingly, the Court considers that the Article 5 complaint lodged by the applicant later in the proceedings does not constitute a mere elaboration on his original complaints to the Court, and therefore it is not appropriate to deal with this newly raised matter in the present case (see Rafig Aliyev v.\u00a0Azerbaijan, no. 45875/06, \u00a7\u00a7 69-70, 6 December 2011, with further references).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court notes that this complaint by other applicants is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Government submitted that the detention pending expulsion had been lawful, as it had been ordered by a court, and that even though no time-limit for the applicants\u2019 detention had been set, the maximum duration of an administrative penalty was two years. The applicants could seek supervisory review of the expulsion and ensuing detention orders in the event of a significant change in their circumstances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants disputed that argument.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The court reiterates that any deprivation of liberty under the second limb of Article 5 \u00a7 1 (f) of the Convention will only be justified for as long as deportation or extradition proceedings are in progress. If such proceedings are not carried out promptly, the detention will cease to be permissible under Article 5 \u00a7 1 (f) of the Convention (see L.M. and Others v.\u00a0Russia, cited above, \u00a7\u00a0146). To avoid being branded as arbitrary, detention under Article 5 \u00a7 1 (f) of the Convention must be carried out in good faith; it must be closely connected to the grounds of detention relied on by the Government, the place and conditions of detention must be appropriate, and the length of the detention must not exceed that reasonably required for the purpose pursued (ibid.).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0Having regard to the information submitted by the applicants (see the Appendix for details), the Court finds that at first all the applicants in question were detained for breaching immigration regulations with a view to being expelled, and their detention was presumably carried out in good faith and in compliance with Article 5 \u00a7 1 (f) of the Convention. However, the Court notes that the length of detention in most of the applicants\u2019 cases, except for those of A.A. and N.K. and the members of N.K.\u2019s family, was between eleven and fifteen months. In certain cases the detention lasted more than two years, and for some applicants it is still continuing (see the Appendix for details). N.K. and the members of his family were detained for less than three months, whereas A.A. was detained for about seven months. Accordingly, in the Court\u2019s view, and given its findings of recurrent violations of Article 5 of the Convention in respect of foreigners detained in Russia with a view to administrative expulsion (see L.M. and Others v. Russia, cited above, \u00a7\u00a7 141-42 and 149-52, with further references, and S.K. v. Russia, cited above, \u00a7\u00a7\u00a0108-09 and \u00a7\u00a0116), the length of detention in all of the applicants\u2019 cases, except that of N.K. and the members of his family and that of A.A., exceeded what was reasonably required for the purpose pursued. Furthermore, again, apart from N.K. and the members of his family and A.A., it does not appear that the applicants had access to judicial and periodic reviews of their continued detention, in breach of Article 5 \u00a7 4 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0Accordingly, the Court concludes that there has been a violation of Article 5 \u00a7 1 (f) and Article 5 \u00a7 4 of the Convention in respect of M.S.A., R.K., H.R., B.Z., S.W. and H.D., but that there has been no violation of Article 5 \u00a7 1 (f) or Article 5 \u00a7\u00a04 of the Convention in respect of N.K. and the members of his family or A.A.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7\u00a7 1 AND 3 (c) OF THE CONVENTION IN RESPECT OF H.R.",
+                        "elements": [
+                            {
+                                "content": "67.\u00a0\u00a0H.R. also complained under Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention that the overall fairness of the administrative proceedings concerning his stay and removal from Russia had been undermined because he had not been provided with a lawyer. He relied on Article 6 \u00a7\u00a7 1 and 3\u00a0(c) of the Convention, the relevant parts of which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of his civil rights and obligations or any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "68.\u00a0\u00a0The Government submitted that the expulsion proceedings had not concerned the determination of either the applicant\u2019s civil rights or criminal charges against him. In particular, they stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... [T]he fact that the exclusion order incidentally had major repercussions on the applicant\u2019s private and family life or on his prospects of employment cannot suffice to bring those proceedings within the scope of civil rights protected by Article 6 \u00a7 1 of the Convention ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Referring to Renna v. France, no. 32809/96, 26 February 1997, they further submitted:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... the Court noted that, in general, exclusion orders are not classified as criminal within the Member States of the Council of Europe. Such orders, which in most States may also be made by the administrative authorities, constitute a special preventative measure for the purposes of immigration control and do not concern the determination of a criminal charge against the applicant for the purposes of Article 6 \u00a7 1. The fact that they are imposed in the context of criminal proceedings cannot alter their essentially preventative nature.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "69.\u00a0\u00a0The applicant submitted that he had not been able to appeal against the expulsion order promptly, owing to the fact that there had been no lawyer present at the expulsion hearing. He also submitted that, in general, administrative expulsion proceedings in Russia were conducted in breach of the principle of equality of arms.",
+                                "elements": []
+                            },
+                            {
+                                "content": "70.\u00a0\u00a0The Court reiterates that decisions regarding the entry, stay and deportation of aliens do not concern the determination of an applicant\u2019s civil rights or obligations or of a criminal charge against him, within the meaning of Article 6 \u00a7 1 of the Convention (see Maaouia v. France [GC], no.\u00a039652/98, \u00a7\u00a7 38-41, ECHR 2000 X, and, specifically in the context of expulsion proceedings in Russia, see Muminov v.\u00a0Russia, no. 42502/06, \u00a7\u00a0126, 11 December 2008). Here, the proceedings against the applicant concerned his removal from Russia and were conducted in accordance with the applicable provisions of the Code of Administrative Offences. They did not concern his civil rights or obligations and did not involve any criminal charge against him. Accordingly, in the light of the above factors, and given the fact that the applicant has not put forward any fact or argument capable of persuading the Court to reach a different conclusion in the present case (see paragraph 69 above), the Court finds that his complaint is incompatible ratione materiae with the provisions of the Convention within the meaning of Article 35 \u00a7 3, and must be rejected in accordance with Article 35 \u00a7 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VIII.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 34 OF THE CONVENTION IN RESPECT OF B.Z., H.D. AND S.W.",
+                        "elements": [
+                            {
+                                "content": "71.\u00a0\u00a0B.Z., H.D. and S.W. complained that the restriction on their contact with their representative had hindered their right of application, in breach of Article 34 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "72.\u00a0\u00a0The Government submitted that the representative of B.Z. and H.D. had complained to the FMS and a prosecutor about obstacles he had faced in meeting with B.Z. and H.D., but he had lodged the application with the Court before his complaints had been examined by the domestic authorities. Therefore, the complaint under Article 34 of the Convention should be dismissed for non-exhaustion of domestic remedies. With regard to S.W., the Government submitted that he had not asked to meet with his representative.",
+                                "elements": []
+                            },
+                            {
+                                "content": "73.\u00a0\u00a0 M., the lawyer of B.Z., H.D. and S.W., submitted that refusals to allow meetings between lawyers and foreigners in the detention centre had been common, and that he had not been permitted to meet either B.Z., H.D. or S.W. in the detention centre, despite his making complaints to various official bodies, including the domestic courts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "74.\u00a0\u00a0The Court notes that, apart from a general statement concerning the refusals of his requests to meet with B.Z., H.D. and S.W., M. did not provide any details concerning the circumstances under which such refusals had taken place, specifically in respect of B.Z., H.D. and S.W. (see paragraph 21 above). The Court notes that M. did provide a copy of his complaint to the immigration authorities concerning the lack of access to Syrian nationals in the detention centre, and the texts of the judgments in which the domestic courts examined his respective complaints, but none of these documents concern B.Z., H.D. or S.W. In these circumstances, the Court finds that the complaint by B.Z., H.D. and S.W. under Article 34 of the Convention is not properly substantiated, and as such does not merit further examination.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0Accordingly, the Court holds that this complaint is manifestly illfounded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IX.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "76.\u00a0\u00a0Lastly, the applicants raised additional complaints with reference to various Articles of the Convention and its Protocols. The Court has examined these complaints as submitted by the applicants. However, in the light of all the material in its possession, and in so far as the matters complained of are within its competence, it finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the applications is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7\u00a03 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "X.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "77.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0All the applicants, except M.S.A. and R.K., claimed between 10,000 and 15,000 euros (EUR) in respect of nonpecuniary damage. M.S.A. and R.K. claimed compensation in respect of non-pecuniary damage, but left the amount of any award to the discretion of the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Government submitted that either no awards should be made (in the cases of S.A., R.K. S.W. and A.A.), or that awards, if made, should be in compliance with the Court\u2019s established case-law (in the cases of H.R., B.Z., H.D. and Y.A.).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0As regards finding violations under Article 3 of the Convention on account of the inadequate conditions of detention of M.S.A. and R.K., and under Article 5 in respect of all the applicants, except A.A., Y.A., and N.K. and the members of his family, the Court considers that these applicants have suffered non-pecuniary damage which cannot be compensated for solely by the finding of violation, and that compensation therefore has to be awarded. Making its assessment on an equitable basis, as required by Article 41 of the Convention, the Court awards the sum of EUR 9,750 each to M.S.A. and R.K., and EUR 7,500 each to H.R., B.Z., S.W. and H.D. under this head, plus any tax that may be chargeable on this amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0M.S.A. and R.K., represented by Ms O. Tseytlina, also claimed each EUR\u00a0200 for costs and expenses incurred before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The Government submitted that the claims were not supported by any proof of payment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0Regard being had to the documents in its possession and to its caselaw, the Court considers it reasonable to grant the above claims of M.S.A. and R.K. in full and to award each of them the sum of EUR 200 to cover costs under all heads. These sums should be paid directly to their representative Ms O. Tseytlina.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "84.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XI.\u00a0\u00a0APPLICATION OF ARTICLE 46 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The relevant parts of Article 46 of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "86.\u00a0\u00a0The general principles concerning the application of Article 46 of the Convention and the indication by the Court of general or individual measures to the respondent State are summarised in the case of L.M. and Others v. Russia, cited above, \u00a7\u00a7\u00a016567.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0In the present case, according to the information made available to the Court by the parties, it appears that H.D. still remains in detention, where he has been for a prolonged period of time (see the Appendix for details). Accordingly, in the light of its finding of a violation of Article\u00a05 \u00a71\u00a0(f) of the Convention, the Court considers it necessary to indicate to the respondent Government individual measures for the execution of this judgment and to ensure the immediate release of H.D. from detention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XII.\u00a0\u00a0APPLICATION OF AN INTERIM MEASURE UNDER RULE 39 OF THE RULES OF COURT",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0On various dates the Court indicated to the respondent Government, under Rule 39 of the Rules of Court, that the applicants should not be extradited, expelled or otherwise involuntarily removed from Russia to Syria for the duration of the proceedings before the Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "89.\u00a0\u00a0In this connection, the Court reiterates that, in accordance with Article 28 \u00a7\u00a02 of the Convention, the present judgment is final.",
+                                "elements": []
+                            },
+                            {
+                                "content": "90.\u00a0\u00a0Accordingly, the Court considers that the measures indicated to the Government under Rule 39 of the Rules of Court come to an end.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to join applications;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Decides to strike the applications of M.S.A., R.K., H.R., B.Z., S.W., A.A and N.K. and others out of its list of cases in so far as they concern complaints under Articles 2 and 3 of the Convention concerning the risk of death and/or ill-treatment in the event of the applicants being expelled to Syria from Russia and the alleged absence of effective domestic remedies in respect of these claims under Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Declares the complaints concerning the risk of death and/or ill-treatment in the event of expulsion to Syria from Russia and the alleged absence of effective domestic remedies in respect of these claims under Article 13 of the Convention inadmissible in respect of H.D. and Y.A.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Declares the complaints under Article 3 of the Convention concerning the conditions of detention of M.S.A. and R.K. admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Declares the complaints under Article 5 of the Convention in respect of M.S.A., R.K., H.R., B.Z., H.D., S.W., A.A., and N.K. and the members of N.K.\u2019s family admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Decides not to examine the complaint under Article 5 of the Convention in respect of Y.A.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Declares the complaints under Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention in respect of H.R. and the complaints under Article 34 of the Convention in respect of B.Z., H.D. and S.W. inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention on account of the conditions of detention of M.S.A. and R.K.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7\u00a7 1 (f) and 4 of the Convention in respect of M.S.A., R.K., H.R., B.Z., H.D., and S.W., but no violation in respect of N.K. and the members of N.K.\u2019s family and A.A;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that the respondent State is to ensure the immediate release of H.D.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants within three months the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 12 December 2017, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [],
+    "decisiondate": "",
+    "docname": "CASE OF M.S.A. AND OTHERS v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-179419.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:1212JUD002995714",
+    "externalsources": [],
+    "extractedappno": [
+        "29957/14",
+        "29961/14",
+        "53980/15",
+        "10583/16",
+        "10796/16",
+        "10803/16",
+        "19980/16",
+        "35675/16",
+        "38237/16",
+        "40081/14",
+        "52722/15",
+        "60125/11",
+        "43611/11",
+        "11673/15",
+        "21762/14",
+        "42409/09",
+        "30225/11",
+        "44260/13",
+        "45875/06",
+        "32809/96",
+        "39652/98",
+        "42502/06"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-179419",
+    "judgementdate": "12/12/2017 00:00:00",
+    "kpdate": "12/12/2017 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "193",
+        "448",
+        "220",
+        "130",
+        "435",
+        "474"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "3",
+        "5-4",
+        "5-1-f",
+        "5-1",
+        "5"
+    ],
+    "parties": [
+        "M.S.A. AND OTHERS",
+        "RUSSIA"
+    ],
+    "rank": "2136.580078125",
+    "representedby": [
+        "TSEYTLINA O.",
+        "MAGOMEDOV S.M.",
+        "ALIYEV R.M.",
+        "DAVIDYAN E.",
+        "MAGOMEDOVA R. S."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "470595",
+    "typedescription": "15"
+}

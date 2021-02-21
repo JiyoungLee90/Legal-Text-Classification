@@ -1,0 +1,1502 @@
+{
+    "__articles": "2;2-1;3;5;5-1;13;13+2;35;35-1;38;41",
+    "__conclusion": "Preliminary objection dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Liberty of person;Security of person);Violation of Article 13+2 - Right to an effective remedy (Article 13 - Effective remedy) (Article 2 - Right to life;Article 2-1 - Effective investigation);Violation of Article 38 - Examination of the case-{general} (Article 38 - Obligation to furnish all necessary facilities);Pecuniary and non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "6846/02",
+    "article": [
+        "3",
+        "38",
+        "2",
+        "35",
+        "5",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Art. 35"
+            ],
+            "element": "Preliminary objection dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Art. 35-1"
+            ],
+            "element": "Admissibility criteria",
+            "type": "other"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Effective investigation"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention",
+                "Liberty of person",
+                "Security of person"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "38",
+            "base_article": "38",
+            "details": [
+                "Article 38 - Obligation to furnish all necessary facilities"
+            ],
+            "element": "Violation of Article 38 - Examination of the case-{general}",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary and non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-83265.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 6846/02) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Ms Khamila Aliyevna Isayeva (\u201cthe applicant\u201d), on 28 December 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by lawyers of Stichting Russian Justice Initiative (\u201cSRJI\u201d), an NGO based in the Netherlands with a representative office in . The respondent Government are represented by Mr P. Laptev, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that her husband disappeared following his apprehension by Russian servicemen in the . She relied on Articles 2, 3, 5, 6 and 13.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 29 August 2004 the Court decided to apply Rule 41 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0By a decision of 24 October 2006, the Court declared the application admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0The Chamber having decided, after consulting the parties, that no hearing on the merits was required (Rule 59 \u00a7 3 in fine), the parties replied in writing to each other's observations.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "7.\u00a0\u00a0The applicant was born in 1961. She was a resident of the village of Alkhan-Kala (also known as Yermolovka) in the Grozny District, and currently lives in .",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The facts",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Background to the case",
+                                        "elements": [
+                                            {
+                                                "content": "The applicant and her husband, Mr Sultan Isayev, born in 1961, lived in the  in the Grozny District. They have four children. The applicant is a bookkeeper and her husband was a welder by profession. He served in the Soviet army and became a commander of a tank platoon. From the middle of the 1990s he worked in construction as a bricklayer, and as a mechanic. In the 1990s Mr Sultan Isayev underwent two surgical operations, on his bowels and for appendicitis, and was in need of another one, on his spine, but could not afford it.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "8.\u00a0\u00a0In early October 1999 the Russian Government launched a counter-terrorist operation in the .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "9.\u00a0\u00a0In November 1999 the applicant and her family went to Ingushetia, where they stayed in the . Mr Sultan Isayev's parents remained in Alkhan-Kala in their house at .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "10.\u00a0\u00a0On 27 April 2001 the applicant's husband returned to Alkhan-Kala to visit his parents and stayed at their house, as he had regularly done before. The applicant and their children remained in Voznesenskoye, and therefore she did not witness the events relating to her husband's arrest.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Events of 29 April 2001",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Detention of the applicant's husband",
+                                "elements": [
+                                    {
+                                        "content": "11.\u00a0\u00a0On 29 April 2001 the Russian military conducted a special (\u201csweeping\u201d) operation involving several armoured personnel carriers (APCs) and military helicopters in the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 29 April 2001 Mr Sultan Isayev went to visit his parents' neighbours, the Magomadovs, at . Together with the owner of the house, they were taking a steam bath in the Magomadovs' bathhouse, a small building located in the courtyard of the house.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0Mr Sultan Isayev's father was in his house at \n, when at about 1.30 p.m. he saw around eight or ten heavily armed soldiers in the street. He was standing at the open gates of his house and asked them if they wanted to check inside. In reply they ordered him to get inside and fired in front of his feet. He obeyed and noticed that the soldiers then proceeded to the Magomadovs' house down the street, where his son was. Mr Sultan Isayev's father described the events as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cHaving entered my house, I began watching through the window into the street. Two APCs drove up to the same house where my son was bathing... About ten more people came out of the APCs; two of them stayed in the street and the rest went into the courtyard. There were about fifteen people. About half an hour later they came out quickly, and I saw two civilians, that is, the owner of the house, Mr Sherip Magomadov, who was dressed, and my son, who was half-naked, being shoved into the APC.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the hands of a senior [serviceman] I noticed two or three passports. I recognised the dark blue cover of my son's passport among them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "When they drove off, I immediately ran to the house where my son had been, and there I saw the broken door to the bathhouse and my son's clothes \u2013 his jumper, shirt, trousers and shoes. The owner of the house wasn't there; things were strewn all over the place, on the floor.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The applicant submitted several statements by neighbours who confirmed that about twenty armed soldiers who had arrived in two APCs had burst into the Magomadovs' house and detained the owner and Mr Sultan Isayev, who had been taken naked from the bathhouse. One of the neighbours stated that she had seen a man running away from the federal soldiers who had entered the Magomadovs' house and the soldiers pursuing the man and then detaining three men in the house. The witnesses also testified that they had heard shooting while the men were being detained.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0According to the Government, on 29 April 2001 the federal forces conducted a special operation in Alkhan-Kala. During that operation a group of unidentified armed men arrived at the Magomadovs' house at , put the applicant's husband and two other persons into APCs and took them away in an unknown direction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0In total ten men, aged between 25 and 45, were detained and taken away in Alkhan-Kala on 29 April 2001. The severely mutilated body of one of them was found two weeks later, whilst all the others have remained missing ever since.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Media reports",
+                                "elements": [
+                                    {
+                                        "content": "17.\u00a0\u00a0On 1 May 2001 the Agence France-Presse news agency, referring to information from the Russian ITAR-TASS news agency, reported:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cRussian forces said ... they had wiped out a rebel unit led by warlord Arbi Barayev, one of the most ruthless gangs fighting in . ... Seven rebels were killed and 20 arrested in the operation, in which the Russian forces surrounded the  where the Barayev rebels were holed up. ... The unit was wiped out ... after several days of fighting and Barayev, 27, fled.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The bulletin of the United Group Alignment of the Federal Forces (UGA) in  reported that at the beginning of May 2001 \u201cduring an operation in the vicinity of Alkhan-Kala special forces [had] severely mauled the 'Barayev fighters' and [that] a large group of 'brothers-in-arms' of the murderer [had been] detained and active members of the gang [had been] liquidated.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The applicant's search for Mr Sultan Isayev",
+                                        "elements": [
+                                            {
+                                                "content": "19.\u00a0\u00a0On 29 April 2001 relatives of the detained men went to the office of the local military commander, who told them that the soldiers under his command had not taken part in the \u201csweeping-up\u201d operation and that he had no information about the detainees. According to the applicant, the local military commander had taken no part in the planning or conduct of the operation, and it had been most likely that he himself had been detained by the federal military who had come to conduct it. Soon after the events the military commander had been transferred away from Alkhan-Kala.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0On 2 May 2001 the applicant, who was then in Ingushetia, learnt of her husband's detention and immediately went to  to search for him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0She coordinated her efforts with the relatives of the other men who had disappeared. On numerous occasions, both in person and in writing, she applied to the prosecutors at various levels, the Ministry of the Interior, the administrative authorities in Chechnya, the Special Representative of the Russian President for Rights and Freedoms in the , and to media and public figures. In her letters the applicant stated the facts of Mr Sultan Isayev's detention and asked for assistance and for details of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0The applicant was given hardly any substantive information from official bodies about the investigation into Mr Sultan Isayev's disappearance. On several occasions she and the relatives of the other detainees received copies of letters stating that their requests had been forwarded to different prosecutors' services.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0On around 2 May 2001 the applicant went to the office of the mayor of  and met with the deputy mayor, Mr Musa Dzhabrailov. According to the applicant, this official, who had claimed that he was an officer of the Federal Security Service (FSB), had been aware of the circumstances of her husband's detention, as, having heard her husband's name, he had allegedly cried out that, indeed, that man had been \u201cthe one with a can of beer in a bathhouse\u201d. The applicant submitted that the deputy mayor had stated that criminal proceedings had been instituted in connection with the organisation of an illegal armed group and that her husband had been arrested in the context of those proceedings. He had also referred to a certain investigator who had been in charge of the investigation in the proceedings, but refused to disclose the investigator's name. The deputy mayor had further told the applicant that the detainees were being held at Khankala, the main Russian military base in . He had allegedly assured her that her husband and six or seven others would be released once the mayor of  came back after 10 May 2001.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0Thereafter the applicant went to Alkhan-Kala and met her father-in-law, who, with other relatives of the missing persons, had hired a bus and travelled around visiting various officials in an attempt to find out about the detainees.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 15 May 2001 the applicant was in Alkhan-Kala during another \u201csweeping-up\u201d operation. The soldiers told the women in the village that there was a corpse in the river, and one of the women recognised a body which had no head and one leg as that of her son, Mr Aburakhman Lorsanov, who had been detained on 29 April 2001. She identified him by the clothes he had been wearing on the day of his arrest. He was buried two days later, without a medical or forensic examination. The applicant submitted that the body had had several stab and gunshot wounds.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0After 15 May 2001 a number of relatives of those detained on 29\u00a0April 2001 wrote to the Prosecutor General. They referred to the discovery of Mr Aburakhman Lorsanov's body, asked for news of their missing family members and requested that an investigation of the arrests be carried out.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0Later in May 2001 the relatives liaised with a person whom the applicant identified as a \u201cmiddleman from Khankala\u201d, the main federal military base in , and offered to pay money for the release of the detained men. He was assisted by three other persons, whom the applicant also called \u201cmiddlemen\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0According to the applicant, the middleman from Khankala confirmed that the persons detained on 29 April 2001 were being held at the military base and suggested that the relatives should collect 1,000  dollars (USD) per detainee to have them released. According to the applicant, during the negotiations the relatives had also paid 1,000 Russian roubles per day to the middleman, who had allegedly given the money to the guards of the detainees. Some time later he had said to the applicant and other relatives that he had been unable to arrange for their family members' release. Three weeks later the relatives had offered USD 1,500 per person to the same men and four weeks later one of the middlemen had brought news that Mr Sultan Isayev and Mr Sherip Magomadov would soon be released.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0At the end of May 2001 the applicant and other relatives finally received confirmation from one of the middlemen, hired a bus and went to a pre-arranged location. According to the applicant, in view of the fact that rumours of the deal had been circulating, the prosecutor of the Chechen Republic and two investigators had come to the same place and the deal had been called off on account of this \u201cpublicity\u201d. The \u201cmiddleman from Khankala\u201d had been arrested, but had been released several days later and had refused to be involved in the negotiations any further, having stated that the detainees had, in any event, been transferred to another place. One of the other middlemen had allegedly been killed several days later when his car had been shot at on a road.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Official investigation",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0On 4 May 2001 the Grozny District Prosecutor's Office instituted a criminal investigation into the disappearance of ten persons in Alkhan-Kala, including the applicant's husband, under Article 127 \u00a7 2 (d) and (f) of the Russian Criminal Code (unlawful deprivation of liberty of two or more persons committed with the use of arms). The case file was registered as no.\u00a019051.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0On 13 May 2001 the military prosecutor's office of military unit no.\u00a020102 in Khankala stated in reply to a request from the Grozny District Prosecutor's Office that no special operations had been conducted by the forces of the Ministry of Defence or the Ministry of the Interior on 29\u00a0April 2001, and that the persons listed in the request had not been detained.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0On 3 June 2001 the Grozny District Prosecutor's Office requested the nationwide Russian RTR channel to provide it with a copy of the news programme of 30 April 2001, which had reported on the operation of \n29 April 2001 in Alkhan-Kala.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 22 June 2001 the relatives of the detainees again wrote to the Prosecutor General. They referred to the news programmes that had announced that a special operation had taken place in Alkhan-Kala at the end of April and that General Baranov had been promoted and decorated for its success. They also enquired about the latest developments in the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0On 23 June 2001 the Prosecutor's Office of the Chechen Republic replied to a request from the Special Envoy of the Russian President for Rights and Freedoms in the  concerning the ten persons detained in Alkhan-Kala. The letter stated that a criminal investigation had been opened by the Grozny District Prosecutor's Office and that all measures were being taken to identify those responsible and to locate the whereabouts of the kidnapped persons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0On 1 August 2001 the head of the Alkhan-Kala administration, Ms\u00a0Malika Umazheva, wrote to the head of the UGA. She stated that on \n28 and 29 April 2001 there had been a special (\u201csweeping-up\u201d) operation in the village, as a result of which several houses had been blown up and a number of men had been detained and taken away. She listed the numbers of the six APCs that had participated in the operation. She further stated that two weeks after the detention the body of one of the detainees had been discovered in the river, while the others had disappeared. She asked for assistance in finding the detainees. Malika Umazheva was killed in her house on 29 November 2002 by unidentified gunmen",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 3 September 2001 the Prosecutor General's Office replied to one of the relatives of the missing men that the investigation was being supervised by its department in the Southern Federal Circuit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0In September 2001 the 12th Interim Report by the Secretary General of the Council of Europe on the situation in Chechnya (SG/Inf (2002) 29) stated that \u201cin the case of the disappearance of ten citizens of the village of Alkhan-Kala during the mop-up operation from 19-21 April 2001, the head of the local administration had requested from the military prosecutor information about the stage of the investigations, without success\u201d. According to the applicant, there was a mistake in the dates of the operation given in the report.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0On 4 October 2001 the applicant received a copy of a letter from the Prosecutor's Office of the  addressed to the Grozny District Prosecutor's Office, in which the latter was instructed to conduct an additional investigation in criminal case no. 19051, opened in relation to the unlawful detention of several residents of Alkhan-Kala. A criminal case file containing 123 pages was listed as an attachment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0On 15 October 2001 the applicant wrote a letter to the Prosecutor's Office of the  in which she restated in detail the circumstances of her husband's arrest. She asked for a criminal case to be opened in relation to Mr Sultan Isayev's disappearance and for information as to his whereabouts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0In a decision of 18 October 2001 the Oktyabrskiy District Court of Grozny established as a legal fact that the applicant's husband had been missing since 29 April 2001.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0On 22 October 2001 the Prosecutor's Office of the  replied to the applicant that a criminal case had been opened and was being investigated by the Grozny District Prosecutor's Office. The letter contained no further details.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0On 24 October 2001 the applicant was informed in a letter from the Government of the  that following her complaint the Chechen Department of the Interior had been instructed to take all measures necessary to establish Mr Sultan Isayev's whereabouts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0On 31 October 2001 the applicant contacted the Chechen Department of the FSB, asking for help to locate her husband. She referred to the statements of the deputy mayor of , Mr Dzhabrailov, to the effect that he was an FSB officer and was aware of the criminal case in connection with her husband's detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0On 6 November 2001 the Chechen Department of the FSB replied to the applicant that it had no information about the ten missing persons and that Mr Musa Dzhabrailov was not one of its officers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0On 3 December 2001 the Special Representative of the Russian President for Rights and Freedoms in the  requested information on the applicant's behalf about the investigation from the Prosecutor's Office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0In April 2002 Human Rights Watch issued a report entitled \u201cLast Seen...: Continued 'Disappearances' in \u201d. It contained an account of the detention and disappearance of several men from Alkhan-Kala and referred to the absence of any results from an allegedly pending investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0On 8 September 2002 the criminal proceedings in case no. 19051 were suspended on the ground that it was impossible to identify the perpetrators.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0On 9 October 2002 the Grozny District Prosecutor's Office issued the applicant with a certificate in which she was described as a victim in criminal case no.\u00a019051, opened in connection with her husband's disappearance on 29\u00a0April 2001. According to the applicant, no formal decision granting her victim status had been taken.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0On 15 February 2003 the applicant wrote to the Grozny District Prosecutor's Office, the Chechen Republic Prosecutor's Office, the Prosecutor General's Office, the Grozny District military commander's office and the Federal Department for Rights and Freedoms in . She stated that her husband had been taken away during a \u201csweeping-up\u201d operation on 29 April 2001 and that the criminal proceedings instituted in that connection had been suspended on two occasions. The applicant also requested the public bodies concerned to assist her in her continued search for her husband.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0In a letter of 18 March 2003 the Prosecutor's Office of the Chechen Republic informed the applicant that on 4 May 2001 the Grozny District Prosecutor's Office had instituted criminal proceedings in connection with \u201cthe unlawful detention by servicemen of the federal forces\u201d of a number of residents of Alkhan-Kala, including Mr Sultan Isayev, \u201cduring a special operation\u201d. The letter further stated that the investigating authorities had been unable to establish which State agencies had participated in the detention of the villagers and that the investigation had therefore been adjourned on 8 September 2002; however, on 26 February 2003 it had been resumed and at present measures were being taken to find the missing persons and to identify those responsible. The letter then invited the applicant to apply to the Grozny District Prosecutor's Office for explanations concerning the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0On 5 April 2003 the applicant applied in writing to the Prosecutor's Office of the  asking to be granted victim status.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0On 17 April 2003 the SRJI requested the Grozny Prosecutor's Office on the applicant's behalf to provide information concerning the results of the investigation following its reopening on 26 February 2003. It also requested that the applicant be sent a copy of a decision declaring her to be a victim. In the absence of a reply, the request was sent again on 26 June and 27\u00a0August 2003.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0On an unspecified date the investigation into the disappearance of Mr Sultan Isayev and several other residents of Alkhan-Kala was suspended; it was resumed on 24 April 2003.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0On 6 May 2003 the Chechen Republic Prosecutor's Office referred the applicant's query to the Grozny District Prosecutor's Office, informed her of the latest decision to resume the investigation and stated that the search for the men detained on 29 April 2001 and those involved in that offence was currently under way.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0On 26 June and 2 and 27 August 2003 the applicant and the SRJI, on her behalf, requested the Grozny District Prosecutor's Office to grant the applicant victim status and to update her on the results of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0In a letter of 22 September 2003 the Chechen Republic Prosecutor's Office notified the applicant that the criminal proceedings in case no.\u00a019051 had been resumed on 17 September 2003 and that the investigation was being carried out by the Chechen Republic Prosecutor's Office. The letter also stated that on 31 July 2003 victim status had been granted to the applicant's father-in-law, that she herself had never requested to be declared a victim in the case and that she should apply to the same prosecutor's office so that a decision on granting victim status could be taken.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0On 31 October 2003 the applicant requested the Chechen Republic Prosecutor's Office to grant her victim status in criminal case no.\u00a019051. In reply, the prosecutor's office stated in a letter of 11\u00a0December\u00a02003 that she should report in person to the Chechen Republic Prosecutor's Office so that she could be declared a victim, and that the criminal proceedings in case no.\u00a019051 had been adjourned on account of the failure to identify the perpetrators, but that the search for her husband was in progress.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0According to the applicant, throughout the investigation she had received only two summons from the Grozny District Prosecutor's Office, dated 15 and 18 October 2002, although she had repeatedly visited the prosecutor's office on her own initiative. She submitted that during her visits she had unsuccessfully requested to be granted victim status.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0In January 2004, upon receipt of the letter of 11 December 2003, the applicant had visited the Chechen Republic Prosecutor's Office and requested to be declared a victim. She had allegedly been told that the investigator in charge was absent and that no other person had the power to take such a decision. The applicant had visited the Chechen Republic Prosecutor's Office again in February 2004 and talked to the investigator in charge. The latter had allegedly refused to grant her victim status, referring to the fact that the criminal case concerning her husband's disappearance had been transferred to the military prosecutor's office of military unit \nno. 20102 in Khankala. The investigator had allegedly refused to inform the applicant of the date of the transfer or to issue her with any document attesting to her visit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0In late April or early May 2004 the applicant went to the military prosecutor's office of military unit no. 20102. According to the applicant, officials from that prosecutor's office had at first refused to talk to her or let her in. Some time later the applicant had been allowed to enter the premises of the military prosecutor's office and had managed to talk to Colonel Evgeniy Poddubny, an assistant prosecutor from the military prosecutor's office attached to the UGA. According to the applicant, Colonel Poddubny had expressed surprise that she had not yet been recognised as a victim in case no. 19051 and had stated that it was now 2004, whereas the criminal proceedings had been instituted in 2001, and it was therefore highly unlikely that she would now be granted victim status or that the investigating authorities would be able to identify those involved in Mr Sultan Isayev's abduction, given that the term of those persons' military service in Chechnya had expired long ago and they had left for their permanent place of service. Then Colonel Poddubny, at the applicant's request, wrote on a piece of paper that the case file had been received by the military prosecutor's office of the UGA on 8 April 2004. The applicant furnished the Court with a copy of that statement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0The applicant had also submitted a written request to the registry of the prosecutor's office to be granted victim status and to be updated on the results of the investigation. She stated that she had been told that a reply would be sent to her place of work, but she had not received any letters to date. During their conversation Colonel Poddubny had stated that the applicant should have been grateful that she had met him at the prosecutor's office, because no other official would have given her any explanations, and because he would help her out of the premises. He had also stated that she had been lucky to enter the premises of the military prosecutor's office but would also need luck to get out, and that next time it would be better if she refrained from coming to Khankala. Colonel Poddubny then ordered another officer to accompany the applicant out of the  and to report back to him afterwards.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The applicant stated that she was afraid to visit the military prosecutor's office of military unit no. 20102 ever again, even though she had not received any letters from it informing her of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The Government submitted the following information concerning the progress of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0On 30 April 2004 the investigation was again suspended since it had been impossible to find those responsible for the offence. It was subsequently resumed on 22 November 2004.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0On 6\u00a0December 2004 the Prosecutor's Office of the  took up the case. On the same date the investigator ordered the seizure of certain documents from the archives of the FSB, the Ministry of the Interior, the Ministry of Defence and of unspecified other documents which related to the special operation conducted in Alkhan-Kala between \n28 and 29 April 2001 and to the persons detained.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0On 7 December 2004 the investigator instructed the Moscow city military prosecutor and the military prosecutor of  garrison to seize the documents. The prosecutors were also instructed to question former serviceman L. (the Government submitted neither his full name nor why his statements could be relevant) and servicemen of military unit no. 74507 about their participation in the special operation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0On 8 December 2004 the investigating authorities watched the tape submitted by the RTR TV channel with their report of 30 April 2001. The report provided no new information about the special operation in Alkhan-Kala.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0On 8 and 20 December 2004 the investigator instructed the Military Prosecutor's Office of the UGA, the Chief Military Prosecutor and the Military Prosecutor of the North Caucasus Military District to question the servicemen of military unit no. 74507.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0On 18 December 2004 the Military Prosecutor's Office of the Vladikavkazsky Garrison questioned U. (the Government submitted neither his full name nor exact position held). U. stated that the division he had been in charge of had sealed off Alkhan-Kala and had remained outside its limits. He had no information about any detention of the village's residents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0On 22 December 2004 the Prosecutor's Office of the Kamyshinskiy Garrison questioned S. and K., who provided no relevant information (the Government submitted neither their full names nor anything about their identity).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0On 23 December 2004 the Chechen Republic Prosecutor's Office questioned E., a resident of Alkhan-Kala, whose son had been detained on 29 April 2001 along with the other nine persons. He submitted that he had received information that his son had been held in a correctional facility. However, on investigation by the authorities the information proved to be incorrect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0On 6 January 2005 the investigation was suspended because of the failure to identify any person to be charged with the offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The applicant submitted that on 16 May 2005 she had sent identical applications to the President and the Prime Minister of the  asking for assistance in establishing her husband's whereabouts. On 20 June 2005 she was informed that her application to the President had been forwarded to the military prosecutor of the UGA.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0On 26 July 2005 the prosecutor's office of military unit no. 20102 sent a response to the applicant. The response stated that criminal case no.\u00a019051, on unlawful deprivation of her husband's liberty by unidentified armed men, had been opened on 4 May 2001. Should it be established that servicemen had been involved in the crime, the applicant would be notified immediately. The applicant was further advised to address all queries concerning the investigation to the Gudermes Prosecutor's Office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0According to the Government, on 27 December 2006 the Chechen Republic Prosecutor's Office quashed the decision of 6 January 2005 and resumed the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0It is not clear whether the applicant was eventually granted victim status in the criminal proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0The Court's request to submit the investigation file",
+                                        "elements": [
+                                            {
+                                                "content": "77.\u00a0\u00a0When the application was communicated to the respondent Government the Court requested it to submit a copy of the entire investigation file no. 19051. However, despite the specific request from the Court the Government did not submit any documents from the file in case no. 19051, having quoted the reply from the Prosecutor General's Office to the effect that disclosure of the documents would be in violation of Article\u00a0161 of the Code of Criminal Procedure since the file contained information of a military nature and personal data concerning the witnesses and other participants in the criminal proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0On 24 October 2006 the Court declared the application admissible and reiterated its request for a copy of the investigation file no. 19051. The Court also requested information on the progress of the investigation after November 2004.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0In response, the Government submitted an update of the investigation but no documents from the investigation file. They reiterated that disclosure of the documents would violate Article 161 of the Code of Criminal Procedure since the file contained information related to military operations as well as personal data of participants in the criminal proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Documents submitted by the parties",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Documents submitted by the applicant",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(i)\u00a0\u00a0Witness statements",
+                                "elements": [
+                                    {
+                                        "content": "80.\u00a0\u00a0The applicant submitted the following witness statements concerning the events of 29 April 2001: witness statement by Mr Sultan Isayev's father concerning the arrest of his son on 29 April 2001, the relevant part of which is quoted in paragraph 13 above. Also provided were witness statements by Mr S. Kh., Ms A. and Ms\u00a0S., who resided at  in Alkhan-Kala and were neighbours of Mr Sultan Isayev and Mr Sherip Magomadov, and witness statements by Mr S. Kh., Mr Kh. Kh. and Ms\u00a0L.\u00a0Sh., residents of  in Alkhan-Kala.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0According to Mr S. Kh's statement, a \u201csweeping-up\u201d operation was conducted in the village on that date. The operation involved five helicopters and twenty APCs. He could hear shooting all day and several houses were blown up by the federal forces. When the shooting came closer to their street, everybody tried to hide in their basements. Mr Sherip Magomadov's mother hid in the same basement as Mr S. Kh. She said that her son was taking a bath and did not know about the \u201csweeping-up\u201d operation. When she (apparently with the mother of Mr Sultan Isayev) tried to approach their sons, the servicemen fired at their feet and ordered them to leave, so they had to return to the basement. When the servicemen left, those who were hiding went to the bathhouse, but neither Mr Sultan Isayev nor Mr Sherip Magomadov were there, only their clothes were left. Then their relatives and neighbours went to the local military commander's office, where they were told that Sultan and Sherip had been taken to Khankala and that after enquiries they would be back tomorrow.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0According to Ms A.'s statement, around 12 noon on 29 April 2001 she saw two APCs going down their street. They stopped at the Magomadovs' gate. Through the fence, behind which she was hiding with her sister, she saw eighteen servicemen getting out of the APCs. Her sister then saw three men being shoved into the APC. After the servicemen had left, it appeared that they had taken with them Mr Sultan Isayev, Mr Sherip Magomadov and another villager who escaped later.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0According to Ms S.'s statement, a \u201csweeping-up\u201d operation was conducted in the village on 29 April 2001. When two APCs appeared in their street and started shooting, all the women and children ran to hide in their basements. She did not head to the basement because her baby was in her house. Instead, she hid behind a fence. Through the fence she saw about twenty armed servicemen breaking into her neighbours' house and smashing everything inside. Then they threw Mr Sultan Isayev and \nMr Sherip Magomadov out of the bathhouse and, kicking them, shoved them into the APC. Other men were also taken by the servicemen during the operation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0 According to Mr S. Kh., Mr Kh. Kh. and Ms L. Sh., after Mr Sultan Isayev had arrived at Alkhan-Kala on 27 April 2001 to visit his parents he had been apprehended by federal servicemen during a special operation on 29\u00a0April 2001 along with several other villagers and the reasons for the apprehension had not been stated. The statements were verified by the Head of the Administration of Alkhan-Kala on 15 October 2001.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(ii)\u00a0\u00a0Applications to State authorities and their responses",
+                                "elements": [
+                                    {
+                                        "content": "85.\u00a0\u00a0The applicant submitted copies of her applications to various State authorities and of their responses referred to in the Facts section above.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(iii)\u00a0\u00a0Other documents",
+                                "elements": [
+                                    {
+                                        "content": "86.\u00a0\u00a0The applicant submitted copies of the media reports referred to in paragraphs 17-18 above. She also submitted reports concerning the situation in the  at the relevant period by the Secretary General of the Council of Europe, Memorial Human Rights Centre and Human Rights Watch.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Documents submitted by the Government",
+                                        "elements": [
+                                            {
+                                                "content": "87.\u00a0\u00a0The Government enclosed a number of letters from various courts in , stating that the applicant had never lodged any complaints about the allegedly unlawful detention of her husband or challenged in court any actions or omissions of the investigating or other law-enforcing authorities.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0Until 1 July 2002 criminal-law matters were governed by the 1960 Code of Criminal Procedure of the RSFSR (). On 1 July 2002 the old Code was replaced by the Code of Criminal Procedure of the .",
+                                "elements": []
+                            },
+                            {
+                                "content": "89.\u00a0\u00a0Article 161 of the new Code of Criminal Procedure establishes the rule that data from the preliminary investigation cannot be disclosed. Part\u00a03 of the same Article provides that information from the investigation file may be divulged with the permission of a prosecutor or investigator and only in so far as it does not infringe the rights and lawful interests of the participants in the criminal proceedings and does not prejudice the investigation. It is prohibited to divulge information about the private life of the participants in the criminal proceedings without their permission.",
+                                "elements": []
+                            },
+                            {
+                                "content": "90.\u00a0\u00a0Article 46 of the Russian Constitution guarantees to everybody judicial protection of their rights and freedoms. It further provides that decisions and actions (or inaction) of bodies of State authority and local self-government, public associations and officials may be appealed against to a court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "91.\u00a0\u00a0The Law on Complaints to Courts against Actions and Decisions Violating the Rights and Freedoms of Citizens (as revised by the Federal Law of 14 December 1995) provides that any citizen has the right to lodge a complaint with a court when he or she considers that his or her rights have been infringed by an unlawful action or decision of a State agency, local self-government body or an institution, enterprise or association, non-governmental organisation or official or State employee. Complaints may be lodged either directly with a court or with a higher State agency, which must review the complaint within one month. If the complaint is rejected by the latter or there has been no response on its part, the person concerned has the right to bring the matter before a court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "92.\u00a0\u00a0Under section 5 of the Law on Operational Search Activities, an individual who considers that his rights and freedoms have been violated by the bodies carrying out the operational search activities can complain of those actions to a higher body carrying out the operational search activities, a prosecutor or a court.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT'S PRELIMINARY OBJECTION AS TO EXHAUSTION OF DOMESTIC REMEDIES",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The parties' submissions",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Government contended that the application should be declared inadmissible as the applicant had failed to exhaust the domestic remedies available to her. With reference to Article 46 of the Russian Constitution, section 5 of the Law on Operational Search Activities and the Law on Complaints to Courts against Actions and Decisions Violating the Rights and Freedoms of Citizens, the Government argued that it had been open to the applicant to lodge complaints in courts in various regions of Russia or directly in the Supreme Court of Russia about the allegedly unlawful detention of her husband or about the actions or omissions of the investigating or other law-enforcement authorities, but she had not availed herself of that remedy. The Government enclosed a number of letters from various higher courts in  stating that the applicant had never lodged any such complaints with the courts in question. They also argued that the authorities had twice invited the applicant to visit the Chechen Republic Prosecutor's Office with a view to granting her victim status, but the applicant had failed to appear.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0The applicant disputed the Government's objection. She stated that an administrative practice consisting in the authorities' continuing failure to conduct adequate investigations into offences committed by representatives of the federal forces in  rendered any potentially effective remedies inadequate and illusory in her case. In this connection she relied on applications submitted to the Court by other individuals claiming to be victims of similar violations, and on documents by human rights NGOs and the Council of Europe. The applicant contended that, in any event, she had repeatedly applied to law-enforcement bodies, including various prosecutors, and had actively participated in the investigation. This avenue, however, had proved futile, given that the criminal investigation had by now been pending for over six years but had failed to identify those involved in the illegal detention and disappearance of Mr Sultan Isayev despite compelling evidence confirming the involvement of federal servicemen. The applicant also argued that the Government had failed to demonstrate that a court complaint against the actions or omissions of the investigating authorities would have been an effective remedy in her situation. She stated that under domestic law a court, in examining such a complaint, could order the investigating authorities to resume the investigation or to take certain investigative measures. In this connection she pointed out that the investigation into her husband's abduction had been resumed on several occasions following her complaints to higher prosecutors; however, so far it had produced no results. The applicant therefore argued that court complaints against the investigators would not have changed the situation, and therefore she had been under no obligation to make use of that remedy. She also referred to the Court's established case-law to the effect that, in any event, the authorities had to carry out the investigation of their own motion once the matter had come to their attention, without leaving it to the initiative of the next of kin to take responsibility for the conduct of any investigative procedures. The applicant also denied the Government's allegation that she had failed to appear at the Chechen Republic Prosecutor's Office and that this had prevented the investigators from granting her the victim status. She contended that on numerous occasions she had written to, and visited in person, various prosecutors' offices in  but had never been granted victim status.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "95.\u00a0\u00a0The Court notes that, in its decision of 24 October 2006, it considered that the question of exhaustion of domestic remedies was closely linked to the substance of the applicant's complaints and that it should be joined to the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0The Court reiterates that the rule of exhaustion of domestic remedies under Article 35 \u00a7 1 of the Convention obliges applicants to use first the remedies which are available and sufficient in the domestic legal system to enable them to obtain redress for the breaches alleged. The existence of the remedies must be sufficiently certain both in theory and in practice, failing which they will lack the requisite accessibility and effectiveness. Article 35 \u00a7 1 also requires that complaints intended to be brought subsequently before the Court should have been made to the appropriate domestic body, at least in substance and in compliance with the formal requirements and time-limits laid down in domestic law and, further, that any procedural means that might prevent a breach of the Convention should have been used. However, there is no obligation to have recourse to remedies which are inadequate or ineffective (see Aksoy v. Turkey, judgment of 18 December 1996, Reports of Judgments and Decisions 1996VI, pp. 2275-76, \u00a7\u00a7 51-52; Akdivar and Others, cited above, p.\u00a01210,\u00a0\u00a7\u00a7 65-67; and, most recently, Cennet Ayhan and Mehmet Salih Ayhan v. Turkey, no. 41964/98, \u00a7 64, 27\u00a0June 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "97.\u00a0\u00a0It is incumbent on the respondent Government claiming \nnon-exhaustion to indicate to the Court with sufficient clarity the remedies to which the applicants have not had recourse and to satisfy the Court that the remedies were effective and available in theory and in practice at the relevant time, that is to say that they were accessible, were capable of providing redress in respect of the applicant's complaints and offered reasonable prospects of success (see Akdivar and Others, cited above, p.\u00a01211, \u00a7 68, or Cennet Ayhan and Mehmet Salih Ayhan, cited above,\u00a0\u00a7\u00a065).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0Inasmuch as the Government's preliminary objection concerns the applicant's failure to complain of her husband's unlawful detention, the Court observes that after he was taken away by armed men on 29\u00a0April\u00a02001, the applicant actively attempted to establish his whereabouts and applied to various official bodies (see paragraphs 19-29 above), whereas the authorities denied that they had ever detained Mr Sultan Isayev (see paragraph 31 above). In such circumstances, and in particular in the absence of any proof to confirm the very fact of the detention, even assuming that the remedy referred to by the Government was accessible to the applicant, it is more than questionable whether a court complaint of the unacknowledged detention of the applicant's husband by the authorities would have had any prospects of success. Moreover, the Government have not demonstrated that the remedy indicated by them would have been capable of providing redress in the applicant's situation, namely that it would have led to the release of Mr Sultan Isayev and the identification and punishment of those responsible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0To the extent that the Government argued that the applicant had not complained to a court about the actions or omissions of the investigating or other law-enforcing authorities, the Court notes that the Government referred to a number of domestic legal instruments which guarantee the right to appeal against actions or omissions of State authorities and officials to a court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0Inasmuch as this limb of the Government's preliminary objection concerns complaints that might be lodged by the applicant outside the framework of criminal proceedings, the Government have submitted neither any evidence that this remedy was accessible to the applicant in practice nor any explanation as to how it could have provided the applicant with adequate redress. Therefore, the Government have not substantiated their contention that the remedy the applicant had allegedly failed to exhaust was an effective one.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0Inasmuch as this limb of the Government's preliminary objection concerns complaints that might be lodged by the applicant within criminal proceedings, the Court notes that the accessibility and prospects of success of this remedy largely depended on whether the applicant had been duly informed about the progress of the investigation. The Court considers that these issues are closely linked to the question of the effectiveness of the investigation, and therefore it would be appropriate to address the matter in the examination of the substance of the applicant's complaints under Article\u00a02 of the Convention (see paragraph 135 below).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "102.\u00a0\u00a0The applicant complained that Article 2 of the Convention had been violated in respect of Mr Sultan Isayev. She submitted that the circumstances of his detention, the absence of any news of him ever since and the discovery two weeks later of the body of one of the persons detained with him, showing signs of a violent death, indicated that he too had been killed by the federal forces. She further claimed that there had been a violation of Article\u00a02 in its procedural aspect since no effective investigation had been carried out into the circumstances of her husband's detention and disappearance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article\u00a02 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone's right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged violation of the right to life of Mr Sultan Isayev",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0The applicant argued that it was beyond reasonable doubt that the men who had apprehended and taken away her husband on 29 April 2001 had represented federal forces, since the fact that those forces had carried out a special operation in Alkhan-Kala on the date in question had been confirmed by eyewitness statements submitted by the applicant and acknowledged by the Government in their observations. The applicant accordingly argued that following his arrest, Mr Sultan Isayev had been under the control of the State. She claimed that the Government's argument that Mr Sultan Isayev was not listed among those being held in detention centres merely proved that her husband's life had been endangered after he had been arrested, since it was widespread practice in Chechnya that people apprehended by State agents were deprived of their lives immediately, or shortly, after being apprehended rather than being taken to detention centres.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "104.\u00a0\u00a0The applicant thus stressed that her husband had been apprehended in life-endangering circumstances and argued, relying on Article 2 of the Convention, that the fact that he had remained missing since 29 April 2001 proved that he had been killed. She also claimed that the special operation carried out on the aforementioned date had not been properly planned and supervised by the authorities to ensure that it met the requirements of Article 2 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0The Government submitted that on 29 April 2001 federal forces had conducted a special operation in Alkhan-Kala aimed at the detention of members of illegal armed gangs. On that date, during the daytime, a group of unidentified armed persons had gone to  and taken away Mr Sultan Isayev, Mr Sherip Magomadov and Mr Kh. They had also apprehended seven other residents of the village. However, the investigation into those events was still pending and, until the circumstances of Mr Sultan Isayev's disappearance had been established by the investigating authorities, there were no grounds for claiming that his right to life had been breached by State agents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Government further argued that only actual killing could be regarded as deprivation of life for the purposes of Article 2 of the Convention and that there were no grounds to believe that Mr Sultan Isayev or any other residents of Alkhan-Kala detained on 29 April 2001 were in fact dead, given that their deaths had not been confirmed by courts in accordance with domestic law.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0General principles",
+                                "elements": [
+                                    {
+                                        "content": "107.\u00a0\u00a0In cases in which there are conflicting accounts of events, the Court is inevitably confronted when establishing the facts with the same difficulties as those faced by any first-instance court. When, as in the instant case, the respondent Government have exclusive access to information able to corroborate or refute the applicants' allegations, any lack of cooperation by the Government without a satisfactory explanation may give rise to the drawing of inferences as to the well-foundedness of the applicant's allegations (see Tani\u015f and Others v. Turkey, no. 65899/01, \u00a7 160, ECHR\u00a02005...).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0The Court points out that a number of principles have been developed in its case-law when it is faced with a task of establishing facts on which the parties disagree. As to the facts that are in dispute, the Court reiterates its jurisprudence confirming the standard of proof \u201cbeyond reasonable doubt\u201d in its assessment of evidence (see Av\u015far v. Turkey, \nno. 25657/94, \u00a7\u00a0282, ECHR 2001VII (extracts)). Such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact. In this context, the conduct of the parties when evidence is being obtained has to be taken into account (see  and Other, cited above, \u00a7\u00a0160).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0The Court is sensitive to the subsidiary nature of its role and recognises that it must be cautious in taking on the role of a first-instance tribunal of fact, where this is not rendered unavoidable by the circumstances of a particular case (see, for example, McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000). Nonetheless, where allegations are made under Articles 2 and 3 of the Convention the Court must apply a particularly thorough scrutiny (see, mutatis mutandis, Ribitsch v.\u00a0Austria, 4 December 1995, Series A no. 336, \u00a7 32, and Av\u015far v. Turkey, cited above, \u00a7 283) even if certain domestic proceedings and investigations have already taken place.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0Where the events in issue lie wholly, or in large part, within the exclusive knowledge of the authorities, such as in cases where persons are under their control in custody, strong presumptions of fact will arise in respect of injuries and death occurring during that detention. Indeed, the burden of proof may be regarded as resting on the authorities to provide a satisfactory and convincing explanation (see Tomasi v.\u00a0France, 27 August 1992, Series A no. 241-A, pp. 40-41, \u00a7\u00a7 108-11; Ribitsch, cited above, \u00a7 34; and Selmouni v. France [GC], no.\u00a025803/94, \u00a7 87, ECHR 1999-V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0These principles apply also to cases in which, although it has not been proved that a person has been taken into custody by the authorities, it is possible to establish that he or she entered a place under their control and has not been seen since. In such circumstances, the onus is on the Government to provide a plausible explanation of what happened on the premises and to show that the person concerned was not detained by the authorities, but left the premises without subsequently being deprived of his or her liberty (see Tani\u015f, cited above, \u00a7 160).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0Finally, when there have been criminal proceedings in the domestic courts concerning those same allegations, it must be borne in mind that criminal-law liability is distinct from international-law responsibility under the Convention. The Court's competence is confined to the latter. Responsibility under the Convention is based on its own provisions, which are to be interpreted and applied on the basis of the objectives of the Convention and in light of the relevant principles of international law. The responsibility of a State under the Convention, for the acts of its organs, agents and servants, is not to be confused with the domestic legal issues of individual criminal responsibility under examination in the national criminal courts. The Court is not concerned with reaching any findings as to guilt or innocence in that sense (see Avsar, cited above, \u00a7\u00a0284).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Establishment of the facts",
+                                "elements": [
+                                    {
+                                        "content": "113.\u00a0\u00a0The applicant alleged that on 29 April 2001 her husband, Mr Sultan Isayev, had been apprehended by Russian servicemen and then disappeared. She invited the Court to draw inferences as to the well-foundedness of her allegations from the Government's failure to provide the documents requested from them. The applicant supported her allegations with statements by six witnesses, including her husband's father and five other residents of Alkhan-Kala. The witnesses provided a coherent account of the special operation conducted in the village on 29 April 2001 and stated that Mr Sultan Isayev had been apprehended by the servicemen involved in the operation. According to statements from three eyewitnesses, they had seen Mr Sultan Isayev being shoved into an APC by Russian servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0The Government confirmed that a special operation had been carried out in Alkhan-Kala on 29 April 2001 aimed at the detention of members of illegal armed gangs. They also did not deny that Mr Sultan Isayev had been abducted by unknown armed men on the same date. However, the Government referred to the absence of conclusions from the pending investigation and denied that the State was responsible for the disappearance of the applicant's husband.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "115.\u00a0\u00a0The Court notes that despite its repeated requests for a copy of the investigation file into the abduction of Mr Sultan Isayev, the Government produced no documents from the case file at all. The Government referred to Article 161 of the Code of Criminal Procedure. The Court observes that in previous cases it has already found this explanation insufficient to justify the withholding of key information requested by the Court (see Imakayeva\u00a0v. , no.\u00a07615/02, \u00a7\u00a0 123, ECHR 2006... (extracts)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "116.\u00a0\u00a0In view of this and bearing in mind the principles cited above, the Court finds that it can draw inferences from the Government's conduct in this respect. It considers that the applicant has presented a coherent and convincing picture of her husband's detention on 29 April 2001. Even though she herself was not an eyewitness to the events, she collected statements from six witnesses which refer to the involvement of the military or security forces in the abduction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court observes that the Government did not deny that Mr\u00a0Sultan Isayev had been abducted by armed men and, at the same time, confirmed that a special operation had been conducted in the village on the date of his abduction. The fact that a large group of armed men in uniform, equipped with military vehicles, proceeded in broad daylight to apprehend several persons at their homes in a village during a special operation conducted by the State's forces strongly supports the applicant's allegation that these were State servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0In the circumstances of the present case and having regard to the fact that after six years the domestic investigation produced no tangible results, the Court is not satisfied that the explanations furnished by the Government are sufficient to cast reasonable doubt on the applicant's allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0Accordingly, the Court finds that the evidence available permits it to establish to the requisite standard of proof that on 29 April 2001 Mr\u00a0Sultan Isayev had been apprehended by State servicemen.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0The State's compliance with Article 2",
+                                "elements": [
+                                    {
+                                        "content": "120.\u00a0\u00a0The Court takes note of the applicant's submission that, in the circumstances, her husband should be presumed dead and of the Government's argument that his death has not been confirmed by domestic courts and, therefore, there are no grounds for such presumption.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0The Court observes that there has been no reliable news of the applicant's husband since 29 April 2001. Having regard to its finding in paragraph 119 above that Mr Sultan Isayev had been apprehended by State servicemen, the Court notes that his name was not found in any of the detention facilities records. Furthermore, the Government did not submit any plausible explanation as to what happened to him after his detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "122.\u00a0\u00a0Having regard to the previous cases concerning disappearances of people in  which have come before the Court (see, for example, Imakayeva, cited above, and Luluyev and Others\u00a0v. Russia, no.\u00a069480/01, ECHR 2006... (extracts)), the Court considers that, in the context of the conflict in the , when a person is detained by unidentified servicemen without any subsequent acknowledgement of the detention, this can be regarded as life-threatening. The absence of Mr Sultan Isayev or any news of him for over six years corroborates this assumption, which is further marginally supported by the fact that one of the villagers who had also disappeared during the special operation, was found dead two weeks later (see paragraph 25 above). Furthermore, the Government have failed to provide any explanation of Mr Sultan Isayev's disappearance and the official investigation into his abduction, dragging on for more than six years, has produced no tangible results.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "123.\u00a0\u00a0For the above reasons the Court considers that Mr Sultan Isayev must be presumed dead following his unacknowledged detention. Consequently, the responsibility of the respondent State is engaged. Noting that the authorities do not rely on any ground of justification in respect of the use of lethal force by their agents, it follows that liability for his presumed death is attributable to the respondent Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "124.\u00a0\u00a0Accordingly, there has been a violation of Article 2 on that account in respect of Mr Sultan Isayev.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged inadequacy of the investigation into Mr Sultan Isayev's abduction",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "125.\u00a0\u00a0The applicant claimed that the authorities had failed in their obligation to carry out an effective investigation into the circumstances of her husband's disappearance. She argued that the investigation had fallen short of the requirements of domestic law and the Convention standards. In particular, it had been pending for over six years but had not achieved any tangible results so far, having been repeatedly suspended and reopened. Furthermore, the investigating authorities had failed to inform the applicant of the decisions to adjourn and reopen the investigation, or of its progress. Throughout the investigation the applicant had requested to be granted crime victim status, but had received no replies to those requests. In support of her argument regarding the inefficiency of the investigation, the applicant also referred to the Government's refusal to submit a copy of the file of the criminal case concerning her husband's disappearance. In her observations submitted after the Court's decision as to the admissibility of the application the applicant contended that she still had not been granted the victim status.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0The Government conceded that the investigation in the present case had been suspended and resumed on several occasions and had not yet identified the perpetrators, but argued, relying on the opinion of the Prosecutor General's Office, that the investigation had met the Convention requirement of effectiveness. In their observations submitted after the Court's decision as to the admissibility of the application the Government noted that the applicant, as a victim in the criminal proceedings, could have had access to those materials of the case that could have been made available to her at that stage of the investigation. They submitted no documents to support that the applicant had been granted victim status.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0General principles",
+                                "elements": [
+                                    {
+                                        "content": "127.\u00a0\u00a0The obligation to protect the right to life under Article 2 of the Convention, read in conjunction with the State's general duty under Article\u00a01 of the Convention to \u201csecure to everyone within [its] jurisdiction the rights and freedoms defined in [the] Convention\u201d, also requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force (see, mutatis mutandis, McCann and Others cited above, p. 49, \u00a7 161, and Kaya v. Turkey, judgment of 19\u00a0February\u00a01998, Reports 1998-I, p. 329, \u00a7\u00a0105). The essential purpose of such investigation is to secure the effective implementation of the domestic laws which protect the right to life and, in those cases involving state agents or bodies, to ensure their accountability for deaths occurring under their responsibility. What form of investigation will achieve those purposes may vary in different circumstances. However, whatever mode is employed, the authorities must act of their own motion once the matter has come to their attention. They cannot leave it to the initiative of the next of kin either to lodge a formal complaint or to take responsibility for the conduct of any investigatory procedures (see \u0130lhan v.\u00a0 [GC] no. 22277/93, \u00a7\u00a063, ECHR 2000-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "128.\u00a0\u00a0For an investigation into alleged unlawful killing by state agents to be effective, it may generally be regarded as necessary for the persons responsible for and carrying out the investigation to be independent from those implicated in the events (see, for example, G\u00fcle\u00e7 v. Turkey judgment of 27\u00a0July 1998, Reports 1998-IV, \u00a7\u00a7\u00a081-82). The investigation must also be effective in the sense that it is capable of leading to a determination of whether the force used in such cases was or was not justified in the circumstances (see, for example, Kaya, cited above, p. 324, \u00a7\u00a087) and to the identification and punishment of those responsible (see \u00d6gur, cited above, \u00a7\u00a088). This is not an obligation of result, but of means. The authorities must have taken the reasonable steps available to them to secure the evidence concerning the incident, including, inter alia, eyewitness testimony (see, for example, Tanr\u0131kulu v. Turkey [GC], no.\u00a023763/94, \u00a7\u00a0109, ECHR 1999IV). Any deficiency in the investigation which undermines its ability to establish the cause of death or the person responsible will risk falling below this standard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "129.\u00a0\u00a0In this context, there must also be an implicit requirement of promptness and reasonable expedition. It must be accepted that there may be obstacles or difficulties which prevent progress in an investigation in a particular situation. However, a prompt response by the authorities in investigating the use of lethal force may generally be regarded as essential in maintaining public confidence in the maintenance of the rule of law and in preventing any appearance of collusion in or tolerance of unlawful acts (see Tanrikulu,cited above, \u00a7 109).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "130.\u00a0\u00a0Furthermore, there must be a sufficient element of public scrutiny of the investigation or its results, to secure accountability in practice as well as in theory. The degree of public scrutiny required may well vary from case to case. In all cases, however, the victim's next of kin must be involved in the procedure to the extent necessary to safeguard his or her legitimate interests (see McKerr v.\u00a0the United Kingdom, no. 28883/95, \u00a7 148, ECHR 2001III).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application in the present case",
+                                "elements": [
+                                    {
+                                        "content": "131.\u00a0\u00a0The Court observes that the investigation into Mr Sultan Isayev's disappearance following his apprehension on 29 April 2001, opened on 4\u00a0May 2001, was plagued by inexplicable failures to perform the most essential tasks in a situation where prompt action was vital. It appears that the applicant's relatives and villagers who had witnessed Mr Sultan Isayev being apprehended by armed servicemen were not questioned at all. The investigating authorities questioned some servicemen, although from the information provided by the Government it is not clear how their statements could have been relevant for the investigation. At the same time it appears that no servicemen directly involved in the special operation in Alkhan-Kala on 29 April 2001 were questioned. These failures alone compromised the effectiveness of the investigation and could not but have had a negative impact on the prospects of arriving at the truth. It appears that no real effort was made by the authorities to identify the units that had participated in the operation and ultimately the whereabouts and fate of Mr Sultan Isayev.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0As to the manner in which the investigation was conducted, the Court notes that in a period of six years it was adjourned and reopened at least four times. It is not clear whether the applicant was granted victim status in the proceedings. The Government contended that she had been, however, no documents were submitted to support that. In any event, the applicant was not duly informed of the progress of the investigation. Almost no information concerning the investigative actions was provided to her and she was informed about suspensions and resumptions of the investigation either with significant delay or not at all.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0Having regard to the limb of the Government's preliminary objection that was joined to the merits of the complaint, the Court observes that the applicant, having no access to the case file and not being properly informed of the progress of the investigation, could not have effectively challenged actions or omissions of investigating authorities before a court. Furthermore, taking into account that the effectiveness of the investigation had already been undermined in its early stages by the authorities' failure to take necessary and urgent investigative measures, it is highly doubtful that the remedy relied on would have had any prospects of success.\u00a0\u00a0Accordingly, the Court finds that the remedy relied on by the Government was ineffective in the circumstances and dismisses their preliminary objection as regards the applicant's failure to exhaust domestic remedies within the context of the criminal investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "134.\u00a0\u00a0In the light of the foregoing, the Court finds that the authorities failed to carry out an effective criminal investigation into the circumstances surrounding the disappearance and presumed death of Mr Sultan Isayev. Accordingly, there has been a violation of Article 2 on this account also.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "135.\u00a0\u00a0The applicant submitted that she had reasons to believe that \nMr Sultan Isayev had been subjected to treatment contrary to Article 3 of the Convention following his arrest and that there had been no effective investigation into the matter. The applicant also complained that she had suffered severe mental distress and anguish amounting to ill-treatment falling within the scope of Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Alleged violation of Article 3 in respect of Mr Sultan Isayev",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "136.\u00a0\u00a0In her submissions made before the Court's decision as to the admissibility of the application the applicant maintained that there were serious reasons to believe that her husband had been ill-treated after being apprehended. She further stated that the authorities had failed to investigate her allegation that her husband had been ill-treated.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "137.\u00a0\u00a0In her submissions made after the Court had declared the application admissible the applicant stated that she did not insist on the Court's examination of her complaint under Article 3 of the Convention in relation to her husband.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "138.\u00a0\u00a0The Government contended that there was no evidence that Mr\u00a0Sultan Isayev had been subjected to treatment prohibited by Article 3 of the Convention. In their view, the investigation had not breached the requirements of that provision.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "139.\u00a0\u00a0Having regard to the applicant's submission made after the Court's decision as to the admissibility of the application, the Court does not consider it necessary to examine the complaint under Article 3 of the Convention in relation to Mr Sultan Isayev.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Alleged violation of Article 3 in respect of the applicant",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "140.\u00a0\u00a0The applicant also maintained that she had endured severe mental suffering falling within the scope of Article 3 of the Convention in view of the State's indifference to her husband's disappearance and its repeated failure to inform her of the progress in the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "141.\u00a0\u00a0The Government contended that there was no evidence that the applicant had been subjected to treatment prohibited by Article 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "142.\u00a0\u00a0The Court reiterates that the question whether a member of the family of a \u201cdisappeared person\u201d is a victim of treatment contrary to Article\u00a03 will depend on the existence of special factors which give the suffering of the applicant a dimension and character distinct from the emotional distress which may be regarded as inevitably caused to relatives of a victim of a serious human-rights violation. Relevant elements will include the proximity of the family tie, the particular circumstances of the relationship, the extent to which the family member witnessed the events in question, the involvement of the family member in the attempts to obtain information about the disappeared person and the way in which the authorities responded to those enquiries. The Court would further emphasise that the essence of such a violation does not mainly lie in the fact of the \u201cdisappearance\u201d of the family member but rather concerns the authorities' reactions and attitudes to the situation when it is brought to their attention. It is especially in respect of the latter that a relative may claim directly to be a victim of the authorities' conduct (see Orhan v. , no. 25656/94, \u00a7\u00a0358, 18 June 2002 and Bitiyeva and X\u00a0v. , nos.\u00a057953/00 and 37392/03, \u00a7\u00a0152, 21\u00a0June 2007).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "143.\u00a0\u00a0In the present case, the Court notes that the applicant is the wife of the individual who has disappeared, Mr Sultan Isayev. For more than six years she has not had any news of him. During this period the applicant has applied to various official bodies with enquiries about her husband, both in writing and in person. Despite her attempts, the applicant has never received any plausible explanation or information as to what became of her husband following his detention on 29 April 2001. The responses received by the applicant mostly denied the State's responsibility for his arrest or simply informed her that an investigation was ongoing. The Court's findings under the procedural aspect of Article 2 are also of direct relevance here \n(see paragraphs\u00a0131-34 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "144.\u00a0\u00a0As an additional element contributing to the applicant's sufferings, the Court notes the authorities' unjustified delay in granting her victim status (see paragraph 132 above), the sparse information she received about the investigation throughout the domestic proceedings and lack of access to the case file even during the proceedings in this Court. It follows that the applicant's uncertainty about the fate of Mr Sultan Isayev was aggravated by her exclusion from monitoring the progress of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "145.\u00a0\u00a0In view of the above, the Court finds that the applicant suffered, and continues to suffer, distress and anguish as a result of the disappearance of her husband and her inability to find out what happened to him. The manner in which her complaints have been dealt with by the authorities must be considered to constitute inhuman treatment contrary to Article 3.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "146.\u00a0\u00a0The Court therefore concludes that there has been a violation of Article 3 of the Convention in respect of the applicant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "147.\u00a0\u00a0The applicant submitted that Mr Sultan Isayev had been subjected to unacknowledged detention, in violation of the principles defined by Article\u00a05 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "148.\u00a0\u00a0The Government submitted that no evidence had been obtained to confirm that the applicant's husband had been detained in breach of the guarantees set out in Article 5 of the Convention. Mr Sultan Isayev was not listed among the persons being kept in detention centres.",
+                                "elements": []
+                            },
+                            {
+                                "content": "149.\u00a0\u00a0The applicant maintained that Mr Sultan Isayev's detention had not satisfied any of the conditions set out in Article 5 of the Convention, had had no basis in national law and had not been in accordance with a procedure established by law or been formally registered.",
+                                "elements": []
+                            },
+                            {
+                                "content": "150.\u00a0\u00a0The Court has previously noted the fundamental importance of the guarantees contained in Article 5 for securing the right of individuals in a democracy to be free from arbitrary detention. It has also stated that unacknowledged detention is a complete negation of these guarantees and discloses a very grave violation of Article 5 (see \u00c7i\u00e7ek v. Turkey, no.\u00a025704/94, \u00a7\u00a0164, 27 February 2001, and Luluyev, cited above, \u00a7\u00a0122).",
+                                "elements": []
+                            },
+                            {
+                                "content": "151.\u00a0\u00a0The Court has found it established that Mr Sultan Isayev was detained by State servicemen on 29 April 2001 during a security operation in Alkhan-Kala and has not been seen since. His detention was not logged in any custody records and there exists no official trace of his subsequent whereabouts or fate. In accordance with the Court's practice, this fact in itself must be considered a most serious failing, since it enables those responsible for an act of deprivation of liberty to conceal their involvement in a crime, to cover their tracks and to escape accountability for the fate of a detainee. Furthermore, the absence of detention records, noting such matters as the date, time and location of detention and the name of the detainee, as well as the reasons for the detention and the name of the person effecting it, must be seen as incompatible with the very purpose of Article 5 of the Convention (see Orhan, cited above, \u00a7\u00a0371).",
+                                "elements": []
+                            },
+                            {
+                                "content": "152.\u00a0\u00a0The Court further considers that the authorities should have been more alert to the need for a thorough and prompt investigation of the applicant's complaints that her husband had been detained and taken away in life-threatening circumstances. However, the Court's findings above in relation to Article 2 and, in particular, the conduct of the investigation, leave no doubt that the authorities failed to take prompt and effective measures to safeguard Mr Sultan Isayev against the risk of disappearance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "153.\u00a0\u00a0Consequently, the Court finds that Mr Sultan Isayev was held in unacknowledged detention without any of the safeguards contained in Article 5. Accordingly, there has been a violation of the right to liberty and security enshrined in Article 5 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "154.\u00a0\u00a0The applicant also alleged that she had had no access to a court, contrary to Article 6 \u00a7 1 of the Convention, as she had been unable to bring a civil action for compensation for her husband's disappearance since the investigation had produced no results. Article 6 \u00a7 1 of the Convention reads, in so far as relevant, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0\u00a0Arguments of the parties",
+                                "elements": [
+                                    {
+                                        "content": "155.\u00a0\u00a0In her submissions made before the Court's decision as to the admissibility of the application the applicant averred that she was unable to seek compensation in court for her husband's unlawful detention until the investigation into the events had been completed, a fact which, in her view, breached her right of access to a court under Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "156.\u00a0\u00a0In her submissions made after the Court had declared the application admissible the applicant stated that she did not insist on the Court's examination of her complaint under Article 6 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "157.\u00a0\u00a0The Government contended that the applicant had had access to a court, as required by Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "158.\u00a0\u00a0Having regard to the applicant's submission made after the Court's decision as to the admissibility of the application, the Court does not consider it necessary to examine the complaint under Article 6 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION READ IN CONJUNCTION WITH ARTICLES 2, 3 AND 5",
+                        "elements": [
+                            {
+                                "content": "159.\u00a0\u00a0The applicant complained that she had had no effective remedy in respect of the violations alleged under Articles 2, 3 and 5 of the Convention. She referred to Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "160.\u00a0\u00a0The Government disagreed. They stated that the applicant had had access to effective domestic remedies as required by Article 13 of the Convention. They submitted that the applicant had received reasoned replies to all her requests concerning the progress of the investigation and had been duly informed of all decisions to suspend and resume the investigation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "161.\u00a0\u00a0The applicant insisted that in her case the domestic remedies usually available had proved to be ineffective, given that the investigation had been pending for about six years without any progress, that she had never been granted victim status and that all her applications to public bodies had remained unanswered or had only produced standard replies.",
+                                "elements": []
+                            },
+                            {
+                                "content": "162.\u00a0\u00a0The Court reiterates that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they might happen to be secured in the domestic legal order. Given the fundamental importance of the right to protection of life, Article 13 requires, in addition to the payment of compensation where appropriate, a thorough and effective investigation capable of leading to the identification and punishment of those responsible for the deprivation of life and infliction of treatment contrary to Article\u00a03, including effective access for the complainant to the investigation procedure leading to the identification and punishment of those responsible (see Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7\u00a0161-62, ECHR 2002-IV; Assenov and Others, judgment of 28 October 1998, Reports 1998-VIII, p. 3293, \u00a7\u00a0117; and S\u00fcheyla Ayd\u0131n v. Turkey, no.\u00a025660/94, \u00a7\u00a0208, 24 May 2005). The Court further reiterates that the requirements of Article\u00a013 are broader than a Contracting State's obligation under Article 2 to conduct an effective investigation (see Orhan, cited above, \u00a7\u00a0384, and Khashiyev and Akayeva, cited above, \u00a7\u00a0183).",
+                                "elements": []
+                            },
+                            {
+                                "content": "163.\u00a0\u00a0In view of the Court's above findings with regard to Article\u00a02, this complaint is clearly \u201carguable\u201d for the purposes of Article\u00a013 (see Boyle and Rice v. the United Kingdom, judgment of 27\u00a0April 1988, Series A no.\u00a0131, \u00a7\u00a052). The applicant should accordingly have been able to avail herself of effective and practical remedies capable of leading to the identification and punishment of those responsible and to an award of compensation, for the purposes of Article\u00a013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "164.\u00a0\u00a0It follows that in circumstances where, as here, the criminal investigation into a person's disappearance and death has been ineffective and the effectiveness of any other remedy that may have existed, including the civil remedies suggested by the Government, has consequently been undermined, the State has failed in its obligation under Article\u00a013 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "165.\u00a0\u00a0Consequently, there has been a violation of Article 13 of the Convention in conjunction with Article 2 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "166.\u00a0\u00a0As regards the applicant's reference to Article 3 of the Convention, the Court notes that it has found a violation of the above provision on account of the applicant's mental suffering as a result of the disappearance of her husband, her inability to find out what had happened to him and the way the authorities had handled her complaints. However, the Court has already found a violation of Article 13 of the Convention in conjunction with Article 2 of the Convention on account of the authorities' conduct that led to the suffering endured by the applicant. The Court considers that, in the circumstances, no separate issue arises in respect of Article 13 in connection with Article 5 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "167.\u00a0\u00a0As regards the applicant's reference to Article 5 of the Convention, the Court notes that according to its established case-law the more specific guarantees of Article 5 \u00a7\u00a7 4 and 5, being a lex specialis in relation to Article\u00a013, absorb its requirements (see Dimitrov v. Bulgaria (dec.), no.\u00a055861/00, 9 May 2006) and in view of its above findings of a violation of Article 5 of the Convention on account of Mr Sultan Isayev's unacknowledged detention, the Court considers that no separate issue arises in respect of Article 13 read in conjunction with Article 5 of the Convention in the circumstances of the present case.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0OBSERVANCE OF Article 34 and ARTICLE 38\u00a0\u00a7\u00a01\u00a0(a) of the convention",
+                        "elements": [
+                            {
+                                "content": "168.\u00a0\u00a0The applicant argued that the Government's failure to submit the documents requested by the Court at the communication stage disclosed a failure to comply with their obligations under Article 34 and Article\u00a038\u00a0\u00a7\u00a01\u00a0(a) of the Convention. The relevant parts of those Articles provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 34",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 38",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0If the Court declares the application admissible, it shall",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0pursue the examination of the case, together with the representatives of the parties, and if need be, undertake an investigation, for the effective conduct of which the States concerned shall furnish all necessary facilities;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "169.\u00a0\u00a0The applicant invited the Court to conclude that the Government had failed in their obligations under Article 38 because of their refusal to submit the documents from the investigation file in response to the Court's requests at the communication stage. In her view, through their handling of the Court's request for documents, the Government had additionally failed to comply with their obligations under Article 34.",
+                                "elements": []
+                            },
+                            {
+                                "content": "170.\u00a0\u00a0The Government reiterated that the submission of the case file would be contrary to Article 161 of the Code of Criminal Procedure. They further stated that the documents sent to the Court earlier contained information concerning procedural steps of the investigation sufficient for examination of the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "171.\u00a0\u00a0The Court reiterates that proceedings in certain types of applications do not in all cases lend themselves to a rigorous application of the principle whereby a person who alleges something must prove that allegation and that it is of the utmost importance for the effective operation of the system of individual petition instituted under Article 34 of the Convention that States should furnish all necessary facilities to make possible a proper and effective examination of applications.",
+                                "elements": []
+                            },
+                            {
+                                "content": "172.\u00a0\u00a0This obligation requires the Contracting States to furnish all necessary facilities to the Court, whether it is conducting a fact-finding investigation or performing its general duties as regards the examination of applications. It is inherent in the proceedings relating to cases of this nature, where individual applicants accuse State agents of violating their rights under the Convention, that in certain instances it is only the respondent State that has access to information capable of corroborating or refuting these allegations. A failure on a Government's part to submit such information which is in their possession without a satisfactory explanation may not only give rise to the drawing of inferences as to the well-foundedness of the applicant's allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article\u00a038\u00a0\u00a7\u00a01\u00a0(a) of the Convention. In a case where the application raises issues of the effectiveness of the investigation, the documents of the criminal investigation are fundamental to the establishment of the facts and their absence may prejudice the Court's proper examination of the complaint both at the admissibility and at the merits stage (see Tanr\u0131kulu, cited above, \u00a7\u00a070).",
+                                "elements": []
+                            },
+                            {
+                                "content": "173.\u00a0\u00a0The Court recalls that it has on several occasions requested the Russian Government to submit a copy of the investigation file opened into the disappearance of the applicant's husband. The evidence contained in the file was regarded by the Court as crucial for the establishment of the facts in the present case. It also reiterates that it found the reasons given by the Government for their refusal to disclose the documents requested to be inadequate (see paragraph 115\u00a0above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "174.\u00a0\u00a0Referring to the importance of a respondent Government's cooperation in Convention proceedings and mindful of the difficulties associated with the establishment of facts in cases of such a nature, the Court finds that the Government fell short of their obligations under Article\u00a038 \u00a7\u00a01 of the Convention because of their failure to submit copies of the documents requested in respect of Mr Sultan Isayev's disappearance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "175.\u00a0\u00a0In view of the above finding, the Court considers that no separate issues arise under Article 34.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VIII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "176.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Pecuniary damage",
+                                "elements": [
+                                    {
+                                        "content": "177.\u00a0\u00a0The applicant claimed damages in respect of Mr Sultan Isayev's lost wages from the time of his arrest and subsequent disappearance. She claimed a total of 849,664 Russian roubles (RUB) under this head (approximately 24,260\u00a0euros (EUR)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "178.\u00a0\u00a0She claimed that although her husband had been temporarily unemployed at the time, under domestic legislation she and her dependent children would be entitled to compensation for loss of earnings caused by the death of the breadwinner unemployed at the relevant time, of an amount equal to five times the minimum wage. The applicant submitted calculations of the amounts she assumed to be due up to 2021, when her youngest daughter comes of age.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "179.\u00a0\u00a0The Government regarded the claim as excessive and based on conjecture.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "180.\u00a0\u00a0The Court points out that there must be a clear causal connection between the damage claimed by the applicant and the violation of the Convention, and that this may, in appropriate cases, include compensation for loss of earnings (see, among other authorities, \u00c7akici, cited above). Having regard to its above conclusions, there is indeed a direct causal link between the violation of Article\u00a02 in respect of the applicant's husband and the loss by the applicant of the financial support which he could have provided for her. The Court finds that the loss of earnings also applies to dependants and considers it reasonable to assume that the applicant's husband would eventually have had some earnings and that the applicant would have benefited from these. Having regard to the applicant's submissions, the Court awards her EUR\u00a015,000 in respect of pecuniary damage, plus any tax that may be chargeable on that amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Non-pecuniary damage",
+                                "elements": [
+                                    {
+                                        "content": "181.\u00a0\u00a0The applicant claimed EUR\u00a080,000 in respect of non-pecuniary damage for the suffering she had endured as a result of the loss of her husband, the indifference shown by the authorities towards her and the failure to provide any information about the fate of her relative.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "182.\u00a0\u00a0The Government found the amount claimed to be excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "183.\u00a0\u00a0The Court has found a violation of Articles 2, 5 and 13 of the Convention on account of the unacknowledged detention and death of the applicant's husband. The applicant herself has been found to have been a victim of a violation of Article 3 of the Convention in relation to the emotional distress and anguish she endured. Furthermore, the Court has found that the Government have not complied with Article 38 \u00a7 1 of the Convention, having failed to submit copies of the documents requested in respect of the applicant's husband's disappearance. The Court thus accepts that the applicant has suffered non-pecuniary damage which cannot be compensated for solely by the findings of violations. It awards the applicant EUR 35,000, plus any tax that may be chargeable thereon.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "EUR 125 for the preparation of documents submitted to domestic authorities in relation to the present proceedings;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 6,750 for the preparation of the initial application;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 290 for translation of the initial application;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 6,900 for the preparation and translation of additional submissions, including the applicant's reply to the Government's observations;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 220.87 for postal expenses;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 964.25 (corresponding to 7% of the legal fees) for administrative costs, such as telephone, fax and e-mail, photocopying and paper expenses and other.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "185.\u00a0\u00a0The Government did not dispute the details of the calculations submitted by the applicant, but contended that the sum claimed was excessive, taking into account the average advocate's fees in Russia. They further pointed out that the applicant had not enclosed any documents supporting the amount claimed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "186.\u00a0\u00a0According to the Court's case-law, an applicant is entitled to reimbursement of their costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and were reasonable as to quantum (see McCann and Others, cited above, \u00a7 220).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "187.\u00a0\u00a0The Court notes that, under a contract entered into by the applicant in October 2006, she agreed to pay the SRJI's representative the costs and expenses incurred for representation before the Court, subject to delivery by the Court of a final judgment concerning the present application and to payment by the Russian Federation of the legal costs should these be granted by the Court. The applicant enclosed an invoice from the SRJI for the amount of EUR 14,739.25 with the billing sheet, the invoice for the translating services and DHL invoices relating to correspondence with the Court. Having regard to the rates for the work of the SRJI lawyers and senior staff, the Court is satisfied that these rates are reasonable and reflect the expenses actually incurred by the applicant in relation to the legal services. It is further satisfied that the translation and postal expenses, supported by relevant documents, were also actually incurred. However, no documents were enclosed to support the amount claimed in relation to administrative costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "188.\u00a0\u00a0Further, the Court has to establish whether the costs and expenses incurred for legal representation were necessary and reasonable. The Court notes that this case was relatively complex and required a substantial amount of research and preparation. It notes, however, that the case involved very little documentary evidence, in view of the Government's refusal to submit the case file. The Court thus doubts that research was necessary to the extent claimed by the representative.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "189.\u00a0\u00a0Having regard to the details of the claims submitted by the applicant and acting on an equitable basis, the Court awards her EUR 8,000, less EUR 715 received by way of legal aid from the Council of Europe, together with any value-added tax that may be chargeable.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "190.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Dismisses the Government's preliminary objection;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of Mr Sultan Isayev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of the failure to conduct an effective investigation into the circumstances in which Mr Sultan Isayev disappeared;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there is no need to examine the complaint under Article\u00a03 of the Convention in respect of Mr Sultan Isayev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article\u00a03 of the Convention in respect of the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 of the Convention in respect of Mr Sultan Isayev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there is no need to examine the complaint under Article\u00a06 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention in respect of the alleged violation of Article 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that no separate issues arise under Article 13 of the Convention in respect of the alleged violations of Articles 3 and 5;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that there has been a failure to comply with Article 38 \u00a7\u00a01\u00a0(a) of the Convention in that the Government have refused to submit documents requested by the Court;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds that no separate issues arise under Article 34 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0 that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into Russian roubles at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0Dismisses the remainder of the applicant's claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": " Done in English, and notified in writing on 15 November 2007, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrL. Loucaides",
+            "role": "president"
+        },
+        {
+            "name": "MrsN. Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "MrK. Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "MrD. Spielmann",
+            "role": "judges"
+        },
+        {
+            "name": "MrG. Malinverni",
+            "role": "judges"
+        },
+        {
+            "name": "Mr S. Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF KHAMILA ISAYEVA v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-83265.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2007:1115JUD000684602",
+    "externalsources": [],
+    "extractedappno": [
+        "6846/02",
+        "41964/98",
+        "65899/01",
+        "25657/94",
+        "28883/95",
+        "25803/94",
+        "7615/02",
+        "69480/01",
+        "22277/93",
+        "23763/94",
+        "25656/94",
+        "57953/00",
+        "37392/03",
+        "25704/94",
+        "38361/97",
+        "25660/94",
+        "55861/00"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Article 161 of the Code of Criminal Procedure",
+        "Article 46 of the Russian Constitution",
+        "Law on Complaints to Courts against Actions and Decisions Violating the Rights and Freedoms of Citizens",
+        "Section 5 of the Law on Operational Search Activities"
+    ],
+    "itemid": "001-83265",
+    "judgementdate": "15/11/2007 00:00:00",
+    "kpdate": "15/11/2007 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "595",
+        "231",
+        "350",
+        "193",
+        "448",
+        "220",
+        "228",
+        "459",
+        "444",
+        "110",
+        "14",
+        "128",
+        "121",
+        "594",
+        "216",
+        "577",
+        "283",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "38",
+        "2",
+        "35-1",
+        "35",
+        "5-1",
+        "5",
+        "13",
+        "41"
+    ],
+    "parties": [
+        "KHAMILA ISAYEVA",
+        "RUSSIA"
+    ],
+    "rank": "604.693176269531",
+    "representedby": [
+        "STICHTING RUSSIAN JUSTICE INITIATIVE"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Aksoy v. Turkey, judgment of 18 December 1996, Reports of Judgments and Decisions 1996-VI, pp. 2275-76, \u00a7\u00a7 51-52",
+        "Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7 161-62, ECHR 2002-IV",
+        "Assenov and Others, judgment of 28 October 1998, Reports 1998-VIII, p. 3293, \u00a7 117",
+        "Avsar v. Turkey, no. 25657/94, \u00a7\u00a7 282, 283 and 284, ECHR 2001-VII (extracts)",
+        "Bitiyeva and X v. Russia, nos. 57953/00 and 37392/03, \u00a7 152, 21 June 2007",
+        "Boyle and Rice v. the United Kingdom, judgment of 27 April 1988, Series A no. 131, \u00a7 52",
+        "Cennet Ayhan and Mehmet Salih Ayhan v. Turkey, no. 41964/98, \u00a7 64 and \u00a7 65, 27 June 2006",
+        "Cicek v. Turkey, no. 25704/94, \u00a7 164, 27 February 2001",
+        "Dimitrov v. Bulgaria (dec.), no. 55861/00, 9 May 2006",
+        "G\u00fclec v. Turkey judgment of 27 July 1998, Reports 1998-IV, \u00a7\u00a7 81-82",
+        "Ilhan v. Turkey [GC] no. 22277/93, \u00a7 63, ECHR 2000-VII",
+        "Imakayeva v. Russia, no. 7615/02, \u00a7  123, ECHR 2006 (extracts)",
+        "Kaya v. Turkey, judgment of 19 February 1998, Reports 1998-I, p. 324, \u00a7 87, and p. 329, \u00a7 105",
+        "Luluyev and Others v. Russia, no. 69480/01, \u00a7 122, ECHR 2006 (extracts)",
+        "McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000",
+        "McKerr v. the United Kingdom, no. 28883/95, \u00a7 148, ECHR 2001-III",
+        "Orhan v. Turkey, no. 25656/94, \u00a7 358, 371 and 384, 18 June 2002",
+        "Ribitsch v. Austria, 4 December 1995, Series A no. 336, \u00a7 32 and \u00a7 34",
+        "Selmouni v. France [GC], no. 25803/94, \u00a7 87, ECHR 1999-V",
+        "S\u00fcheyla Aydin v. Turkey, no. 25660/94, \u00a7 208, 24 May 2005",
+        "Tani? and Others v. Turkey, no. 65899/01, \u00a7 160, ECHR 2005",
+        "Tanrikulu v. Turkey [GC], no. 23763/94, \u00a7 70 and \u00a7 109, ECHR 1999-IV",
+        "Tomasi v. France, 27 August 1992, Series A no. 241-A, pp. 40-41, \u00a7\u00a7 108-11"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "394216",
+    "typedescription": "15"
+}

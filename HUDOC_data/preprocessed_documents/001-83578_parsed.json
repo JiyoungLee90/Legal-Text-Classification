@@ -1,0 +1,1042 @@
+{
+    "__articles": "2;2-1;3;13;13+2;35;35-1;38;41",
+    "__conclusion": "Preliminary objection dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Violation of Article 38 - Examination of the case-{general} (Article 38 - Examination of the case);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 13+2 - Right to an effective remedy (Article 13 - Effective remedy) (Article 2 - Right to life;Article 2-1 - Effective investigation);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "57935/00",
+    "article": [
+        "3",
+        "38",
+        "2",
+        "35",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Art. 35"
+            ],
+            "element": "Preliminary objection dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Art. 35-1"
+            ],
+            "element": "Admissibility criteria",
+            "type": "other"
+        },
+        {
+            "article": "38",
+            "base_article": "38",
+            "details": [
+                "Article 38 - Examination of the case"
+            ],
+            "element": "Violation of Article 38 - Examination of the case-{general}",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Life"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "mentions": [
+                "Article 2 - Right to life",
+                "Article 2-1 - Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-83578.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 57935/00) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mrs Zaynap Abdul-Vagapovna Tangiyeva (\u201cthe applicant\u201d), on 29 April 2000.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by the lawyers of the NGO EHRAC/Memorial Human Rights Centre. The Russian Government (\u201cthe Government\u201d) were represented by Mr P. Laptev, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that her three relatives had been killed in  in January 2000 by State servicemen. She referred to Articles 2, 3 and 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0By a decision of 18 May 2006 the Court declared the application admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The Chamber having decided, after consulting the parties, that no hearing on the merits was required (Rule 59 \u00a7 3 in fine), the parties replied in writing to each other\u2019s observations.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant was born in 1958 and was a resident of . She currently resides in Ingushetia.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The submissions of the parties on the facts concerning the circumstances of the applicant\u2019s relatives\u2019 deaths and the ensuing investigation are set out in Part A below. A description of the relevant materials submitted to the Court is contained in Part B.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The events of January 2000",
+                                        "elements": [
+                                            {
+                                                "content": "8.\u00a0\u00a0The applicant and her family lived in the Staropromyslovskiy district of Grozny in their own house at .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "9.\u00a0\u00a0In October 1999 hostilities resumed in  between the Russian forces and the Chechen fighters.  and its suburbs came under heavy bombardment. The Staropromyslovskiy district, situated in the northern and central parts of the town, was bombarded from the air and by artillery. The applicant submitted that most residents of the district had left for safer areas. Following heavy fighting, as of December 1999 the Russian forces started to regain control over the city starting from the north, and by the end of January 2000 the central parts of the city were finally taken.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "10.\u00a0\u00a0In the winter of 1999-2000 the applicant, her father Abdul-Vagap Tangiyev (born in 1926), her mother Khirzhan Ibragimovna Gadaborsheva (born in 1932), her uncle Ismail Ibragimovich Gadaborshev (born in 1924) and her sister Khanifa Gazdiyeva remained in their house in . In December 1999 they were joined there by five neighbours, all women, because their house had a large cellar where they could take shelter during shelling.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "11.\u00a0\u00a0The applicant, her sister and a neighbour submitted written accounts of the events of December 1999 and January 2000. According to them, the district had first come under heavy bombardment on 22 November 1999, when one of the women who had been staying with them in the cellar had been killed. On the same day the applicant\u2019s mother had been slightly wounded by shrapnel. After that the shelling intensified, and the applicant and her family were unable to leave the town.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "12.\u00a0\u00a0After 23 December 1999 the shelling became very intense, and the persons who had been staying in their cellar decided to move somewhere safer. On 26\u00a0December 1999 most of them moved to a nearby five-storey building with a larger cellar in . The applicant\u2019s father, uncle and one neighbour remained in their house to look after the property and cattle. In the evening of the same day the applicant heard the noise of tank engines in the streets. She said that they had been relieved because they had expected an end to the shelling.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0In the morning of 27 December 1999 the applicant\u2019s uncle met a group of Russian servicemen on the way from his house to the  and told them that a group of forty to forty-five civilians had taken refuge in the cellar of that house. The servicemen then came into the cellar and checked the identity documents of the men, most of whom were about 50 years old. The soldiers then took up battle positions in the neighbourhood.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0In the morning of 28 December 1999 the applicant noted that their house in  was partially destroyed. When she and her mother arrived there, they found her father and a neighbour, who had remained in the cellar throughout the day upon orders of the soldiers who had been stationed around the house.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0On 28 and 29 December 1999 servicemen came to the cellar of the apartment block at  where the applicant was staying and ordered the men, under threat, to help them collect six bodies of servicemen from the street.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0On 1 January 2000 a detachment of the OMON (special police forces) arrived in the district and took up position in a former hostel building near . On the same day servicemen from that unit took away three men from the cellar. The applicant later learned that they had been shot.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0Each day from 3-10 January 2000 the applicant went to check up on her relatives in the house at . On several occasions there they met an officer who said his name was Tima and who was the commander of a tank crew stationed at . The officer was often drunk and aggressive, and had once threatened to shoot them all, but the applicant\u2019s father had managed to calm him down. Tima said that he was from Ossetia and that he had fought in Dagestan before. The applicant submitted that she could have identified him or composed a sketch of him. She submitted that the situation had been very tense, because the soldiers had regularly visited both houses for identity checks, ordered the residents to help them collect dead bodies under threat, selected men for \u201cexchange\u201d with the fighters, and so on. The applicant also saw the houses in the neighbourhood being systematically set on fire.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0In the evening of 10 January 2000 the applicant, her family and some neighbours finally decided to leave  on the following day, until the situation grew calmer. The applicant and her sister went to get water from the hostel where the OMON troops were stationed and warned an officer there that old people were staying in the house at Derzhavina Street, and that they should not shell it or shoot at them when they were carrying water. She then returned to the cellar of the house at , while her mother, father, uncle and a neighbour, Valentina Fotiyeva, stayed in their family home at .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0In the morning of 11 January 2000 the applicant, her sister and three other women went to the house at  to pick up her uncle and to say good-bye to her parents. They found the gates closed and smoke coming out of the house. They received no reply to their calls, and forced the doors open. The cellar was burning and they were unable to access it. In the kitchen they found the applicant\u2019s father\u2019s body and the body of Valentina Fotiyeva, both with gunshot wounds. The documents, money and valuables were intact. The applicant and her sister took the two bodies out of the burning house, but did not have time to extinguish the flames or to bury them because they were afraid that the killers would come back. They ran to the house in  and related what had happened. A neighbour told them to leave immediately and promised to take care of the burials. The applicant and her sister took only their personal documents with them and walked several kilometres to the roadblock in Sobachevka, where they took a bus to Ingushetia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0On the following day, 12 January 2000, the applicant returned to  with two cars, in order to collect and bury the bodies. At one of the military roadblocks on the way they picked up three servicemen as an escort for security. They also met by chance their neighbour, who explained where he had buried the applicant\u2019s father\u2019s body. When they arrived at , the house was completely burned down. They could not go down to the cellar, because it was still smouldering. They dug up the applicant\u2019s father\u2019s body and took it away for burial in the village of Chermen in North Ossetia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0One month later relatives of Valentina Fotieyeva collected her body and buried it in a cemetery in .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0Later, on 6 March 2000, the charred remains of the applicant\u2019s mother and uncle were extracted from the cellar by officials of the Russian Ministry of Emergencies (Emercom). Personal belongings and bullets were found near the bodies. The applicant\u2019s family buried them at a village cemetery in Ingushetia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0In addition to her own statements and three witness statements, the applicant submitted drawings of the neighbourhood and of their house at , with indications of the places referred to and the locations of the bodies of her relatives. She also submitted photographs of the ruins of their house and of the cellar in .",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Subsequent events and investigation into the killings",
+                                        "elements": [
+                                            {
+                                                "content": "24.\u00a0\u00a0The applicant did not apply to any authorities or contact a medical doctor after the incident. However, her story was related in a number of press articles and NGO reports, copies of which the applicant submitted to the Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 26 January 2000 the Literaturnaya Gazeta newspaper in the article \u201cWelcome to Hell! Interviews with Persons Who Escaped from Besieged Grozny\u201d reported the story of the killing of the applicant\u2019s relatives, based on an interview with her.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0In February 2000 Human Rights Watch issued a report entitled \u201cCivilian Killings in Staropromyslovskiy District of Grozny\u201d in which it accused the Russian forces of deliberately murdering at least thirty-eight civilians between late December and mid-January. Human Rights Watch interviewed survivors, eyewitnesses and relatives of the dead. The report contains information about the deaths of Abdul-Vagap Tangiyev, Khirzhan Gadaborsheva, Ismail Gadaborshev and Valentina Fotiyeva, based on interviews with the applicant and another witness in Ingushetia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0Several human rights NGOs assisted the applicant and addressed the law-enforcement authorities in relation to the events in the Staropromyslovskiy district of Grozny in January 2000, where several dozen local residents had allegedly been executed by unidentified military units.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On 10 February 2000 Human Rights Watch wrote to the Russian authorities, including the President, the Prosecutor General and the Minister of Defence with a request that they investigate credible allegations of the mass murder of civilians in the Staropromyslovskiy district.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On 3 May 2000 the applicant was questioned by a prosecutor in the Staropromyslovskiy District Prosecutor\u2019s Office. The applicant submitted that the investigator had asked her questions about the killings, to which the applicant herself was not a witness. When she had stated that only the Russian servicemen stationed around the house could have committed the murders, and had spoken of their previous visits and threats, the investigator had told her that there were no direct witnesses to the murders, and that she could be held responsible for false accusations. The applicant had suggested that officer Tima could be responsible for the killings, and the investigator had told her that he had died. After that the applicant had been convinced that the investigation would not be effective and did not turn to any other official body.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0She was called for questioning once again, as a witness, on 31 May 2000, but it appears that she failed to attend.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0It appears that no death certificates were ever issued in respect of the applicant\u2019s relatives. The applicant\u2019s cousin, the son of Ismail Gadaborshev, submitted that he had had difficulties in obtaining a death certificate for his father and for other relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The applicant\u2019s representatives, NGO Memorial, asked prosecutors at various levels on several occasions to submit information about the investigation of the killings of civilians in the Staropromyslovskiy district. In response, they received conflicting information with references to different criminal case numbers. On several occasions they were informed that their requests had been forwarded to different prosecutors\u2019 services for processing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 19 June and 18 July 2002 the Chechnya Prosecutor\u2019s Office informed Memorial that on 5 March 2000 criminal case no.\u00a012011 had been opened into the murders committed in  on 10 January 2000 and that it had been transferred for further investigation to the Northern Caucasus Department of the Prosecutor General\u2019s Office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0However, on 22 August 2002 the Northern Caucasus Department of the Prosecutor General\u2019s Office forwarded Memorial\u2019s request for information to the Chechnya Prosecutor and asked him to issue an update of the investigation of criminal case no. 12011.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0On 17 February 2004 the applicant wrote to the Staropromyslovskiy District Prosecutor asking for news about the investigation into her relatives\u2019 murder. She did not receive a reply.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 28 May 2004 the Staropromyslovskiy District Prosecutor\u2019s Office granted victim status to the applicant\u2019s brother Shamsudin Tangiyev in criminal case no.\u00a033024 concerning the murder of his parents and uncle in  on 11 January 2000.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Investigation into the murders \u2013 information from the Government",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0In March 2005 the application was communicated to the Russian Government, who were requested at that time to submit a copy of investigation file no.\u00a033024. In their memorials submitted in reply the Government gave some details of the investigation, without specifying the dates of the investigative measures. They did not submit any copies of the documents to which they referred. The Government stated that the investigation was pending and that the disclosure of the documents would be in violation of Article 161 of the Code of Criminal Procedure because the file contained information of a military nature and personal data concerning the witnesses. At the same time, the Government suggested that a Court delegation could have access to the file at the place where the preliminary investigation was being conducted with the exception of \u201cthe documents [disclosing military information and personal data of the witnesses], and without the right to make copies of the case file and transmit it to others\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0In May 2006 the Court declared the application admissible and reiterated its request for the documents. In response, the Government submitted an update of the investigation and several documents from the criminal investigation file (see Part B below). They did not submit any of the witness statements or other important procedural documents, such as descriptions of the sites or results of the ballistic expert reports.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0Referring to the information from the Prosecutor General\u2019s Office, the Government submitted in their memorials that the investigation had established that between January and February 2000 detachments of the federal forces had conducted a counterterrorist operation in the Staropromyslovskiy district of Grozny. Within the same period several inhabitants of the district, including the applicant\u2019s relatives, had been killed by unknown persons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Government submitted that a number of investigative measures had been carried out by the prosecutors. On 17 April 2004 they inspected the Tangiyevs\u2019 house. On 28 May 2004 the applicant\u2019s brother Shamsudin Tangiyev was questioned and granted victim status in the proceedings. On 5 May 2004 the applicant, her sister and two relatives were also questioned and granted victim status in the proceedings. On the same day the investigating officers recovered from the applicant two cartridges she had collected near the body of her father. A ballistic examination was carried out and concluded that they were the type of ammunition used for a 5.45 mm calibre automatic rifle and could be used to identify the firearm used.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The Government submitted that the applicant and her relatives had refused to allow the bodies of their relatives to be exhumed for forensic tests to be carried out. They had also refused to identify their places of burial, which made it impossible to establish the cause of their deaths.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The Government further informed the Court that between April and July 2004 the investigating officers had questioned more than twenty neighbours and acquaintances of the Tangiyevs, who had stated that they had no information about the perpetrators of the killings. One witness stated that the Staropromyslovskiy district had been the scene of heavy fighting between the federal forces and the illegal armed groups. Another witness stated that the applicant\u2019s father had had a dispute with the members of the illegal armed groups. The investigators failed to identify the relatives and the place of burial of Valentina Fotiyeva, the woman who had been killed in the Tangiyevs\u2019 house.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The investigators looked into the possibility that the killings could have been committed by the servicemen, but found no information to support it. According to the information from the Northern Caucasus Military Circuit, between January and February 2000 the detachments of the federal forces in the Staropromyslovskiy district had been subjected to numerous attacks by illegal armed groups, who could be implicated in the killings. On 3\u00a0June 2005 a military prosecutor questioned the commander of one of the military units which had taken part in the counterterrorist operation in . He stated that he had not been aware of the applicant\u2019s relatives\u2019 killings. The prosecutors continued to carry out investigative measures with the participation of the servicemen.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0According to the Government, the victims had been systematically informed of the adjournments and reopening of the case. The investigation was pending with the Staropromyslovskiy District Prosecutor\u2019s Office and was under the special supervision of the Prosecutor General\u2019s Office.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Documents submitted by the parties",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Documents submitted by the applicant",
+                                        "elements": [
+                                            {
+                                                "content": "45.\u00a0\u00a0In November 2004 the applicant submitted additional documentary evidence in support of her allegations. In addition to her own detailed statements of facts, the applicant submitted three witness statements.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The applicant\u2019s sister Khanifa Gazdiyeva stated that on 10 January 2000 they had decided to leave  on the following day because of constant harassment by soldiers. In the morning of 11 January 2000 the witness, along with the applicant and two women named Galina and Birlant M., went to collect her parents and uncle from their house at . She then described how they had discovered the bodies of her father and of Valentina, both with gunshot wounds to the head. The house was turned upside down and there were a lot of bullet holes. Some of the furniture was smouldering, the cellar door was closed and smoke was coming out of it. The women took two bodies out of the house but could not extinguish the flames in the cellar. They then left the bodies with the neighbour out of fear that the soldiers might return and kill them as witnesses, and left  on the same day. They buried their father\u2019s body on 12 January 2000. On 6 March 2000 the remains of their mother and uncle were removed with the assistance of Emercom and buried in Ingushetia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0The applicant\u2019s cousin, Magomet Gadaborshev, testified about the death of his father, the applicant\u2019s uncle. The witness himself was in Ingushetia at the relevant time and learnt of his father\u2019s death from the applicant and other relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The applicant\u2019s neighbour in Grozny, \u201cGalina P.\u201d, testified that she had been with the applicant and her sister on 11 January 2000 when they had found their parents\u2019 and uncle\u2019s bodies in the house at Derazhavina Street. The witness submitted that the Chechen fighters (\u201cboyeviki\u201d) had left the district by mid-December, and that before that they had caused no harm to the residents, and had sometimes even helped them. From 25 December 1999 the Russian servicemen started to enter the Staropromyslovskiy district. Some of the soldiers helped them and gave them food. Others asked them, sometimes under threat, to help them collect the dead bodies of servicemen, because the \u201cfighters\u201d would not shoot at civilians. She corroborated the relatives\u2019 statements about the discovery of the bodies on 11 January 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0In addition to the documents submitted by the applicant, in the proceedings in the case of, Makhauri v. Russia (application no.\u00a058701/00), the Government submitted a copy of the investigation file in criminal case no.\u00a014/33/0262 (joined in July 2004 with criminal case no.\u00a050100) opened by military investigators in relation to an attack on Mrs Makhauri in January 2000 in the Staropromyslovskiy district. The file also contained a witness statement by Galina P. (born in 1937), made during the investigation in August 2000. On the basis of this information, in 2000 the military investigators requested the Grozny Town Prosecutor\u2019s Office to give them information about the murder of the three members of the Tangiyev family and the woman named Valentina. It appears that no reply was received.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0Galina P. stated to the military investigators that in winter 1999-2000 she had remained in . She moved in to the Tangiyevs\u2019 house at , where nine people had stayed in the cellar, and remained there until 24 December 1999. Then they moved to another house, at , because the shelling had become too intense and the first house had been damaged. About sixty people, mostly elderly, had stayed in the big cellar at . The Chechen fighters left their district around 18 December 1999. The witness testified that the federal soldiers had regularly visited their cellar and forced the inhabitants to help them retrieve the wounded and dead. On 1 or 2 January 2000 the three youngest men from the cellar (aged below 50) had been taken away by soldiers and later found dead. The witness described the soldiers as wearing blue-grey camouflage uniforms. She also testified that on 10 January 2000, along with the two Tangiyev sisters, she visited their house, where four persons had been staying: Abdul-Vagap Tangiyev, his wife Khirzhan Gadaborsheva, his brother Ismail Gadaborshev and an elderly woman, \u201cValya\u201d. They found the bodies of Mr Tangiyev and Valya in the house with gunshot wounds, while the cellar was closed and burning. A neighbour told them to leave because the killers could return, and later told them that he had buried the four bodies in the courtyard. On the same day, on 10\u00a0January 2000, the witness left for Ingushetia.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Documents from the criminal investigation file",
+                                        "elements": [
+                                            {
+                                                "content": "51.\u00a0\u00a0In September 2006 the Government submitted about seventy pages of documents from the file of the criminal investigation carried out into the murder of the applicant\u2019s parents and uncle. Those documents include the prosecutors\u2019 decisions to open, transfer, adjourn and reopen the investigation, and to grant victim status to the applicant and her brother. They can be summarised as follows.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0On 3 May 2000, following the publication of \u201cFreedom or Death\u201d in the Novaya Gazeta newspaper on 27 April 2000, the Grozny Town Prosecutor\u2019s Office opened criminal investigation file no.\u00a012038 under Article 105 part 2 of the Criminal Code (murder of two or more persons in aggravating circumstances) \u201cconcerning mass murder by the \u2018205th brigade\u2019 of members of the civilian population in the Katayama settlement in Grozny on 19 January 2000\u201d. In connection with these proceedings the applicant and her brother were questioned in May and June 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0On 14 August 2003 an investigator of the Grozny Town Prosecutor\u2019s Office decided that the killing of four persons at  had constituted a separate episode and forwarded the relevant part of the file to the Staropromyslovskiy District Prosecutor for further investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0On 20 August 2003 the Staropromyslovskiy District Prosecutor\u2019s Office refused to carry out an investigation under Article 24 part 1 paragraph 2 of the Code of Criminal Procedure \u2013 due to the absence of information indicating that the deaths had occurred as a result of criminal actions. The investigator stated that the information about the circumstances of the applicant\u2019s relatives\u2019 deaths had been incomplete. Turning to the applicant\u2019s statement, he concluded that the deaths and the fire in the house had most probably been a result of shelling, because at the relevant time the district had been the scene of heavy fighting. In the absence of more reliable information about the reasons and circumstances of the deaths, the investigation was closed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0On 2 April 2004 the Chechnya Prosecutor\u2019s Office quashed that decision. On 16 April 2004 the Staropromyslovskiy District Prosecutor\u2019s Office opened criminal investigation file no.\u00a033024 under Article 105 part 2 of the Criminal Code into the applicant\u2019s relatives\u2019 murder.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0In May 2004 the applicant\u2019s brother, and in May 2005 the applicant, were granted victim status in the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0At different stages of the proceedings several orders were issued by the supervising prosecutors enumerating the steps to be taken by the investigators. On 26 August 2004 a prosecutor from the Staropromyslovskiy District Prosecutor\u2019s Office ordered, among other things, that a plan of action be drawn up, that steps be taken to locate the places of burial and to carry out exhumations and forensic tests, that the bullets and cartridges from the crime scene be collected and sent for examination by a ballistic expert, that more personal information about the victims be collected, including the identification of the relatives of Valentina Fotiyeva. Similar orders were issued in October 2004, April and December 2005.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0Between April 2004 and August 2006 the investigation was adjourned and reopened seven times. The latest document in the case-file reviewed by the Court is dated 14 August 2006. The prosecutor of the Staropromyslovskiy District Prosecutor\u2019s Office resumed the investigation and again ordered the collection of missing information about the victims, the identification and questioning of other possible witnesses to the crime, including Galina P., and the implementation of other steps to identify the perpetrators of the killings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "59.\u00a0\u00a0Until 1 July 2002 criminal-law matters were governed by the 1960 Code of Criminal Procedure of the . From 1 July 2002 the old Code was replaced by the Code of Criminal Procedure of the .",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0Article 161 of the new Code of Criminal Procedure establishes the rule of impermissibility of disclosing data from the preliminary investigation. Under paragraph 3 of the Article, information from the investigation file may be divulged only with the permission of a prosecutor or investigator and only in so far as it does not infringe the rights and lawful interests of the participants in the criminal proceedings and does not prejudice the investigation. Divulging information about the private life of participants in criminal proceedings without their permission is prohibited.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT\u2019S PRELIMINARY OBJECTION",
+                        "elements": [
+                            {
+                                "content": "1.\u00a0\u00a0Arguments of the parties",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0\u00a0The Government requested the Court to declare the case inadmissible as the applicant had failed to exhaust domestic remedies. They submitted that the investigation into the killings was continuing in accordance with the domestic legislation. The applicant had not applied to a court in Chechnya or further afield in the Northern Caucasus with a complaint against the actions of the investigating authorities or against any other allegedly unlawful actions of State officials. She had therefore failed to use the domestic remedies available.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The applicant disagreed with the Government\u2019s objection. She argued that the criminal investigation was utterly ineffective in her case. She further argued that the civil remedies referred to by the Government could not establish the identity of the perpetrators of the crime in the absence of conclusions from the criminal investigation. She asked the Court to dismiss the Government\u2019s preliminary objection.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0In the present case the Court took no decision about the exhaustion of domestic remedies at the admissibility stage, having found that this question was too closely linked to the merits. It will now proceed to examine the arguments of the parties in the light of the provisions of the Convention and its relevant practice. The Court has already found in a number of similar cases that the Russian legal system provides, in principle, two avenues of recourse for the victims of illegal and criminal acts attributable to the State or its agents, namely civil and criminal remedies (see Estamirov and Others v. Russia, no. 60272/00, \u00a7\u00a073-74, 12 October 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0As regards a civil action to obtain redress for damage sustained through the alleged illegal acts or unlawful conduct of State agents, this procedure alone cannot be regarded as an effective remedy in the context of claims brought under Article 2 of the Convention. A civil court is unable to pursue any independent investigation and is incapable, without the benefit of the conclusions of a criminal investigation, of making any meaningful findings regarding the identity of the perpetrators of fatal assaults, still less of establishing their responsibility (see Khashiyev and Akayeva v.\u00a0Russia, nos.\u00a057942/00 and 57945/00, \u00a7\u00a7\u00a0119-121, 24 February 2005, and Estamirov and Others, cited above, \u00a7\u00a077). In the light of the above, the Court confirms that the applicant was not obliged to pursue civil remedies. The preliminary objection in this regard is thus dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0As regards criminal-law remedies, the Court observes that an investigation into the murders has been pending since May 2000. The applicant and the Government are in disagreement as to the effectiveness of this investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Court considers that this limb of the Government\u2019s preliminary objection raises issues concerning the effectiveness of the criminal investigation which are closely linked to the merits of the applicant\u2019s complaints. Thus, it considers that these matters fall to be examined below under the substantive provisions of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0THE COURT\u2019S ASSESEMENT OF THE EVIDENCE AND ESTABLISHMENT OF FACTS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Arguments of the parties",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0The applicant alleged that her relatives had been unlawfully killed by agents of the State and that the authorities had failed to carry out an effective and adequate investigation into the circumstances of their deaths. She invited the Court to draw inferences as to the well-foundedness of her factual allegations from the Government\u2019s failure to provide the documents requested from them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0The Government referred to the absence of conclusions from the pending investigations and denied the State\u2019s responsibility for the killing of the applicant\u2019s relatives.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0General principles",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0Before proceeding to assess the evidence, the Court reiterates that it is of the utmost importance for the effective operation of the system of individual petition instituted under Article 34 of the Convention that States should furnish all necessary facilities to make possible a proper and effective examination of applications (see Tanr\u0131kulu v. Turkey [GC], no.\u00a023763/94, \u00a7 70, ECHR 1999\u2013IV). In cases in which there are conflicting accounts of the events, the Court is inevitably confronted when establishing the facts with the same difficulties as those faced by any first-instance court. It is inherent in proceedings relating to cases of this nature, where an individual applicant accuses State agents of violating his rights under the Convention, that in certain instances solely the respondent Government have access to information capable of corroborating or refuting these allegations. A failure on a Government\u2019s part to submit such information which is in their hands without a satisfactory explanation may not only give rise to the drawing of inferences as to the well-foundedness of the applicant\u2019s allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article 38 \u00a7 1 (a) of the Convention (see Timurta\u015f v.\u00a0Turkey, no. 23531/94, \u00a7\u00a7 66 and 70, ECHR 2000-VI, and Tani\u015f and Others v. Turkey, no. 65899/01, \u00a7\u00a0160, ECHR\u00a02005-VIII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The Court relies on a number of principles that have been developed in its case-law when it is faced with the task of establishing facts on which the parties disagree. As to the facts in dispute, the Court recalls its jurisprudence confirming the standard of proof \u201cbeyond reasonable doubt\u201d in its assessment of evidence (see Av\u015far v. Turkey, no. 25657/94, \u00a7\u00a0282, ECHR 2001VII (extracts)). Such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact. In this context, the conduct of the parties when evidence is being obtained has to be taken into account (see Tani\u015f and Others, cited above, \u00a7\u00a0160).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The Court is sensitive to the subsidiary nature of its role and recognises that it must be cautious in taking on the role of a first-instance tribunal of fact, where this is not rendered unavoidable by the circumstances of a particular case (see, for example, McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000). Nonetheless, where allegations are made under Articles 2 and 3 of the Convention the Court must apply a particularly thorough scrutiny (see, mutatis mutandis, the judgments in Ribitsch v.\u00a0Austria, 4 December 1995, Series A no. 336, p.24, \u00a7 32; and Av\u015far, cited above, \u00a7\u00a0283) even if certain domestic proceedings and investigations have already taken place.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0Finally, when there have been criminal proceedings in the domestic courts concerning those same allegations, it must be borne in mind that criminal-law liability is distinct from international-law responsibility under the Convention. The Court\u2019s competence is confined to the latter. Responsibility under the Convention is based on its own provisions which are to be interpreted and applied on the basis of the objectives of the Convention and in light of the relevant principles of international law. The responsibility of a State under the Convention, arising for the acts of its organs, agents and servants, is not to be confused with the domestic legal issues of individual criminal responsibility under examination in the national criminal courts. The Court is not concerned with reaching any findings as to guilt or innocence in that sense (see Av\u015far, cited above, \u00a7\u00a0284).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Article 38 \u00a7 1(a) and consequent inferences drawn by the Court",
+                                "elements": [
+                                    {
+                                        "content": "73.\u00a0\u00a0The applicant alleged that her relatives had been killed by servicemen. In support of her allegations she referred to her own statement and the statements of her sister and a neighbour confirming that at the relevant time servicemen of the Russian army and police (OMON) had been present in the Staropromyslovskiy district and the information about their involvement in the killings of civilians. She also argued that the Government\u2019s failure to submit the documents requested by the Court, namely the entire criminal investigation file, disclosed a failure to comply with their obligations under Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0In view of these statements, the Court communicated the applicant\u2019s complaints to the Russian Government and asked them to produce documents from the criminal investigation file opened into the killings of the applicant\u2019s relatives. This request was reiterated both before and after the application was declared admissible, because the evidence contained in that file was regarded by the Court as crucial for the establishment of the facts in the present case (see paragraphs 37-38 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0In their submissions the Government did not deny that Abdul-Vagap Tangiyev, Khidzhan Gadaborsheva and Ismail Gadaborshev had been killed on the night of 10-11 January 2000 in . However, they argued that the exact reasons and circumstances of their deaths had not been elucidated. They refused to disclose most of the documents of substance from the criminal investigation file, invoking Article 161 of the Code of Criminal Procedure which, according to them, precluded the submission of these documents.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0The Court notes that the Government did not request the application of Rule 33\u00a0\u00a7\u00a02 of the Rules of Court, which permits a restriction on the principle of the public character of the documents deposited with the Court for legitimate purposes, such as the protection of national security and the private life of the parties, as well as the interests of justice. The Court further remarks that it has already found that the provisions of Article 161 of the Code of Criminal Procedure do not preclude disclosure of the documents from a pending investigation file, but rather set out a procedure for and limits to such disclosure (see, for similar conclusions, Mikheyev v.\u00a0Russia, no.\u00a077617/01, \u00a7\u00a0104, 26 January 2006). For these reasons the Court considers the Government\u2019s explanations concerning the disclosure of the case file insufficient to justify the withholding of the key information requested by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0In view of this and bearing in mind the principles cited above, the Court finds that it can draw inferences from the Government\u2019s conduct in this respect. Furthermore, and referring to the importance of a respondent Government\u2019s cooperation in Convention proceedings, the Court notes that there has been a breach of the obligations laid down in Article 38 \u00a7 1(a) of the Convention to furnish all necessary facilities to the Court in its task of establishing the facts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0As to the applicant\u2019s claim that the Government\u2019s failure to submit the documents from the investigation file also constituted a breach of their obligations under Article 34 of the Convention, in view of the above finding as to Article 38 \u00a7 1(a), the Court finds that no separate issues arise under Article 34.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The Court\u2019s evaluation of the facts",
+                                "elements": [
+                                    {
+                                        "content": "79.\u00a0\u00a0The Court notes that is undisputed by the parties that the applicant\u2019s relatives had died on the dates indicated by her and that they had been victims of unlawful use of force. It remains to be decided if Government agents may be held responsible for their deaths.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0The applicant alleged that the killings of her relatives were directly linked to the other murders which had occurred in the Staropromyslovskiy district in January 2000. She argued that the servicemen of the federal forces had conducted \u201csummary executions\u201d of the residents and that her relatives\u2019 killings followed that pattern. She referred to the Court\u2019s conclusions in Khashiyev and Akayeva v. Russia, where the Court had found it established that the Russian forces had been in control of the district at the time and that they had been responsible for the deaths of the applicants\u2019 relatives on 19 and 20 January 2000 (see Khashiyev and Akayeva, cited above, \u00a7\u00a7 142-45).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court has already noted the difficulties for an applicant to obtain the necessary evidence in support of his or her allegations which is in the hands of the respondent Government in cases where the Government fail to submit relevant documentation. Where the applicant makes out a prima facie case and the Court is prevented from reaching factual conclusions for lack of such documents, it is for the Government to argue conclusively why the documents in question cannot serve to corroborate the allegations made by the applicants, or to provide a satisfactory and convincing explanation of how the events in question occurred. The burden of proof is thus shifted to the Government and if it fails in its arguments, issues will arise under Article 2 and/or Article 3 (see To\u011fcu v. Turkey, no. 27601/95, \u00a7\u00a095, 31 May 2005; Akkum and Others v. Turkey, no. 21894/93, \u00a7\u00a0211, ECHR 2005... (extracts)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The Court has already noted above that it was unable to benefit from the results of the domestic investigation due to the Government\u2019s failure to disclose documents from the file. It also found that it could draw inferences from the Government\u2019s conduct in respect of the investigation documents. The Court is satisfied that the applicant made a prima facie case that her relatives had been killed by the servicemen on the night of 10-11 January 2000 and that the Government failed to provide any other satisfactory and convincing explanation of the events.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0In such circumstances, the Court finds it established that the applicant\u2019s relatives\u2019 deaths can be attributed to the State.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "84.\u00a0\u00a0The applicant alleged that her relatives had been unlawfully killed by agents of the State and that the authorities had failed to carry out an effective and adequate investigation into the circumstances of their deaths. She relied on Article 2 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone\u2019s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "85.\u00a0\u00a0The Court will first examine the applicant\u2019s complaint concerning the effectiveness of the investigation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged inadequacy of the investigation",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "86.\u00a0\u00a0The applicant maintained that the respondent Government had failed to conduct an effective and thorough investigation into her relatives\u2019 deaths. The investigation was slow and the necessary steps to secure the relevant evidence and identify the perpetrators of the crime were not being taken. The applicant had not been promptly granted victim status in the proceedings and had not been properly informed of their progress.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0The Government disputed the allegation that there were failures in the investigation. They pointed to the difficulties associated with investigative work in . The Government stressed that the applicant and her brother, who had been granted victim status in the criminal proceedings, had repeatedly objected to the exhumation of the bodies and forensic testing, thus hindering the investigation process.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "88.\u00a0\u00a0The Court has on many occasions stated that the obligation to protect the right to life under Article 2 of the Convention also requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force. It has developed a number of guiding principles to be followed for an investigation to comply with the Convention\u2019s requirements (for a recent summary, see Bazorkina\u00a0v. , no.\u00a069481/01, \u00a7\u00a7\u00a0117-119, 27 July 2006).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "89.\u00a0\u00a0In the present case, an investigation was carried out into the killings. The Court must assess whether that investigation met the requirements of Article 2 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "90.\u00a0\u00a0The Court notes that the authorities were aware of the crime by at least May 2000, when a criminal investigation into the killings committed in the Staropromyslovskiy district was opened by the Grozny Town Prosecutor\u2019s Office. On 3 May 2000, within the scope of this investigation the applicant, and later her brother, were questioned and confirmed information about the finding of their relatives\u2019 bodies and their burial. However, it does not appear that any other steps had been taken at that time in order to solve the murders. More than three years later, in August 2003, the documents relating to the murders of the applicant\u2019s family members was transferred to the District Prosecutor\u2019s Office with an instruction to carry out a separate investigation. However, on 20 August 2003 the investigator of that office took the view that no crime had been committed, referring to the possibility that the persons had died as a result of shelling. This decision was taken without any other additional investigative steps aimed at elucidating the circumstances of the deaths having been taken.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "91.\u00a0\u00a0The Court notes that even the most basic procedural steps in the investigation were taken after April 2004, when the case had been communicated to the respondent Government, and more than four years after the events in question. The measures taken after April 2004 included such crucial steps as the questioning of other witnesses, inspection of the crime scene, attempts to identify the military units that could have been involved in the murders and the carrying out of a ballistic expert report. It is obvious that these measures, if they were to produce any meaningful results, should have been taken immediately after the crime was reported to the authorities, and certainly as soon as the investigation had commenced. The Court reiterates that it is crucial in cases of deaths in contentious situations for the investigation to be prompt. The passage of time will inevitably erode the amount and quality of the evidence available and the appearance of a lack of diligence will cast doubt on the good faith of the investigative efforts, as well as drag out the ordeal for the members of the family (see Paul and Audrey Edwards v. the United Kingdom, no. 46477/99, \u00a7 86, ECHR 2002-II). These delays, unexplained in this case, not only demonstrate the authorities\u2019 failure to act of their own motion but also constitute a breach of the obligation to exercise exemplary diligence and promptness in dealing with such a serious crime.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0A number of crucial steps were never taken. For example, no autopsies or forensic reports were conducted in the course of the investigation, even though it appears that certain attempts to obtain the relevant permission from the relatives had been made in 2000 and later, in 2004. The investigation was thus deprived of information about the state of the bodies or the type of injuries sustained, and was unable to establish with any degree of precision the cause of the deaths. The Court notes, in this regard, that the applicant significantly contributed to this failure, because she and her brother had not permitted the exhumation of the bodies, and had even refused to indicate the place of their relatives\u2019 burial. However, it considers that the applicant\u2019s refusal to permit exhumation cannot absolve the authorities from their obligations to obtain detailed information about the cause of deaths of four persons in suspicious circumstances. It does not appear that the prosecutors, who bore the primary responsibility, ever made appropriate orders or tried otherwise to pursue the matter (see, mutatis mutandis, Tanl\u0131\u00a0v. Turkey, no.\u00a026129/95, \u00a7\u00a0152, ECHR 2001III (extracts)).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0The Court also notes that the applicant and her brother were granted victim status only in 2004. Even after that they were only informed of the adjournment and reopening of the proceedings, and not of any other significant developments. Accordingly, the investigators did not ensure sufficient public accountability to provide the investigation and its results with the required level of public scrutiny; nor did it safeguard the interests of the next-of-kin in the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0Finally, the Court notes that the investigation was adjourned and resumed a number of times and that on several occasions the supervising prosecutors pointed out the deficiencies in the proceedings and ordered measures to remedy them, but that these instructions were not complied with.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0In the light of the foregoing, the Court finds that the authorities failed to carry out an effective criminal investigation into the circumstances surrounding the deaths of Abdul-Vagap Tangiyev, Khidzhan Gadaborsheva and Ismail Gadaborshev. This rendered recourse to the domestic remedies, whether civil or criminal, equally ineffective in the circumstances. The Court accordingly dismisses the Government\u2019s preliminary objection in this respect and holds that there has been a violation of Article 2 under its procedural limb.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged failure to protect the right to life",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "96.\u00a0\u00a0The applicant submitted that on the night of 11 January 2000 her relatives had been killed in violation of Article 2 of the Convention by unidentified Russian servicemen stationed in the district.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0The Government did not dispute the fact that the applicants\u2019 relatives had died. However, they did not find it possible to answer the question of whether there had been a violation of Article 2 in respect of the applicants\u2019 relatives as an investigation into the deaths was still in progress. They noted that there was no exact information available about the circumstances of her relatives\u2019 deaths. No information had been obtained during the investigation to support the allegation that servicemen had been responsible for the crime.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2\u00a0\u00a0 The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "98.\u00a0\u00a0The Court reiterates that Article 2, which safeguards the right to life and sets out those circumstances in which deprivation of life may be justified, ranks as one of the most fundamental provisions in the Convention, from which no derogation is permitted. Together with Article 3, it also enshrines one of the basic values of the democratic societies making up the Council of Europe. The circumstances in which deprivation of life may be justified must therefore be strictly construed. The object and purpose of the Convention as an instrument for the protection of individual human beings also requires that Article 2 be interpreted and applied so as to make its safeguards practical and effective (see McCann and Others, cited above, \u00a7\u00a7 146-47).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0In the light of the importance of the protection afforded by Article 2, the Court must subject deprivations of life to the most careful scrutiny, taking into consideration not only the actions of State agents but also all the surrounding circumstances (see, amongst other authorities, Av\u015far, cited above, \u00a7 391).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0The Court has already found above, on inferences, that the State agents were responsible for the deaths Abdul-Vagap Tangiyev, Khirzhan Gadaborsheva and Ismail Gadaborshev (see paragraphs 82 and 83 above). The Government did not suggest that the exceptions of the second paragraph of Article 2 could be applicable in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0The Court is therefore led to conclude that there has been also a\u00a0violation of Article 2 of the Convention under its substantive limb.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "102.\u00a0\u00a0The applicant submitted that the feelings of fear, anguish and distress she had suffered as a result of the killing of three members of her family amounted to treatment contrary to Article 3 of the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "103.\u00a0\u00a0The Government, beyond denying the factual basis of the applicant\u2019s allegations, did not specifically deal with her complaint under Article 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "104.\u00a0\u00a0The Court considers that in the present case no separate issues arise beyond those already examined under Article 2 and of Article 13 (below).",
+                                "elements": []
+                            },
+                            {
+                                "content": "105.\u00a0\u00a0In these circumstances, while the Court does not doubt that the death of her family members caused the applicant profound suffering, it nevertheless finds no basis for finding a violation of Article 3 in this context.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "106.\u00a0\u00a0The applicant submitted that she had no effective remedies in respect of the above violations, in breach of Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "107.\u00a0\u00a0The Government disagreed and referred to the ongoing criminal investigation into the murders.",
+                                "elements": []
+                            },
+                            {
+                                "content": "108.\u00a0\u00a0The Court reiterates that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they might happen to be secured in the domestic legal order. Given the fundamental importance of the right to protection of life, Article 13 requires, in addition to the payment of compensation where appropriate, a thorough and effective investigation capable of leading to the identification and punishment of those responsible for the deprivation of life and infliction of treatment contrary to Article\u00a03, including effective access for the complainant to the investigation procedure leading to the identification and punishment of those responsible (see Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7\u00a0161-162, ECHR 2002-IV, and S\u00fcheyla Ayd\u0131n v. Turkey, no. 25660/94, \u00a7\u00a0208, 24 May 2005). The Court further reiterates that the requirements of Article\u00a013 are broader than a Contracting State\u2019s obligation under Article 2 to conduct an effective investigation (see Khashiyev and Akayeva, cited above, \u00a7\u00a0183).",
+                                "elements": []
+                            },
+                            {
+                                "content": "109.\u00a0\u00a0It follows that in circumstances where, as here, the criminal investigation into the death was ineffective and the effectiveness of any other remedy that may have existed, including civil remedies, was consequently undermined, the State has failed in its obligation under Article\u00a013 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "110.\u00a0\u00a0Consequently, there has been a violation of Article 13 in conjunction with Article 2 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "111.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "112.\u00a0\u00a0The applicant did not submit any claims for pecuniary damage. As to non-pecuniary damage, the applicant stressed that she had lost her parents and her uncle, and was faced with the absence of an effective investigation into their deaths. This had caused her feelings of anguish, distress and anxiety. She claimed 100,000 euros (EUR) in this respect.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0The Government found the amount claimed to be excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0The Court observes that it has found violations of the substantive and procedural limbs of Article 2 and a violation of Article 13 of the Convention. The Court accepts that the applicant has suffered non-pecuniary damage and awards the applicant EUR\u00a060,000, plus any tax that may be chargeable on that amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "115.\u00a0\u00a0The applicant was represented by lawyers from the NGO EHRAC/Memorial Human Rights Centre. She submitted the following breakdown of costs:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(a)\u00a0\u00a0EUR 500 for 20 hours of research in  and Ingushetia at a rate of EUR 25 per hour;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(b)\u00a0\u00a0EUR 400 in travel expenses for the field workers;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(c)\u00a0\u00a0EUR 2,000 for 40 hours of drafting legal documents submitted to the Court and the domestic authorities at a rate of EUR 50 per hour by the lawyers in ;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(d)\u00a0\u00a01,792 pounds sterling (GBP) for 17 hours and 55 minutes of legal work by a United Kingdom-based lawyer at a rate of GBP 100 per hour;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(e)\u00a0\u00a0GBP\u00a0176 for the professional fees of a barrister in  consulted as to the evidence;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(f)\u00a0\u00a0GBP 409 for translation costs, as certified by invoices; and",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(g)\u00a0\u00a0GBP 250 for administrative and postal costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "116.\u00a0\u00a0The Government disputed the reasonableness and the justification of the amounts claimed under this heading. They also objected to the representatives\u2019 request to transfer the award for legal representation directly into their account in the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court has to establish, first, whether the costs and expenses indicated by the applicant were actually incurred and, second, whether they were necessary (see McCann and Others, cited above, p. 63, \u00a7\u00a0220).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0The Court notes that the applicant was represented by the lawyers of EHRAC/Memorial from the outset of the proceedings before it. It is satisfied that the rates set out above are reasonable and reflect the expenses actually incurred by the applicant\u2019s representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0Further, it has to be established whether the costs and expenses incurred by the applicant for legal representation were necessary. The Court notes that the case involved a certain quantity of factual and documentary evidence and required a fair amount of research and preparation. Furthermore, the Court notes that it is its standard practice to rule that awards in relation to costs and expenses are to be paid directly into the applicant\u2019s representatives\u2019 accounts (see, for example, To\u011fcu, cited above, \u00a7\u00a0158; Nachova and Others v.  [GC], nos.\u00a043577/98 and 43579/98, \u00a7\u00a0175, ECHR 2005VII; and Imakayeva v.\u00a0Russia, no.\u00a07615/02, ECHR 2006...).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "120.\u00a0\u00a0In these circumstances, and having regard to the details of the claims submitted by the applicant, the Court awards the following sums as claimed under this heading: EUR\u00a02,900 and GBP\u00a02,627, exclusive of any value-added tax that may be chargeable, the net award to be paid in pounds sterling into the representatives\u2019 bank account in the United Kingdom, as identified by the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "121.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Dismisses unanimously the Government\u2019s preliminary objection;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds unanimously that there has been a failure to comply with Article 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds unanimously that no separate issues arise under Article 34 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds unanimously that there has been a violation of Article\u00a02 of the Convention in respect of the failure to conduct an effective investigation into the circumstances of the deaths of Abdul-Vagap Tangiyev, Khidzhan Gadaborsheva and Ismail Gadaborshev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds by 5 votes to 2 that there has been a violation of Article\u00a02 of the Convention in respect of the killing of three members of the applicant\u2019s family;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds unanimously that there has been no violation of Article\u00a03 of the Convention in respect of the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds unanimously that there has been a violation of Article\u00a013 of the Convention in conjunction with Article 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0 Holds unanimously",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Dismisses unanimously the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 29 November 2007, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the partly dissenting opinion of MM Kovler and Hajiyev is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "We share the main conclusions of the Chamber in this case with the exception of the conclusion that there has been a violation of Article 2 of the Convention in respect of the killing of three members of the applicant\u2019s family.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In the light of the importance of the protection provided by Article 2 of the Convention, the Court must subject deprivations of life to the most careful scrutiny, taking into consideration not only the actions of State agents but also all the surrounding circumstances (see, among other authorities, Av\u015far v. Turkey, no. 25657/94, judgment of 10 July 2001, \u00a7 391, ECHR 2001-VII).",
+                        "elements": []
+                    },
+                    {
+                        "content": "In this case the applicant was unable to submit persuasive evidence to support her allegations as to the State\u2019s responsibility for the murders. The exact cause and circumstances of the applicant\u2019s relatives\u2019 deaths have never been established. The applicant did not seek the opinion of a medical doctor before the burial of her relatives\u2019 remains. No official death certificates were produced by the competent authorities such as to suggest that a basic fact-finding exercise had been carried out on the domestic level and at least indicate the dates and causes of the deaths. No photographs were taken and no detailed description of the bodies was recorded before burial, nor did the applicant apply to a domestic court in order to establish the facts and circumstances of her relatives\u2019 deaths (see, by contrast, Khashiyev and Akayeva v. Russia, nos. 57942/00 and 57945/00, judgment of 24 February 2005, \u00a7\u00a7 28-30 and \u00a7\u00a7 39-42, and Estamirov and Others v.\u00a0Russia, no. 60272/00, judgment of 12 October 2006, \u00a7\u00a7 18, 20 and 21). Furthermore, in the criminal proceedings the applicant refused to allow the exhumation of her relatives\u2019 remains and the preparation of a forensic expert report, or even to identify the place where they were buried. If such reports had been produced their results could have provided valuable information about the exact manner of the deaths and served to support or undermine the applicant\u2019s allegation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The investigation examined the version of the events advanced by the applicant, as well as other possibilities, such as the possibility that the deaths were a result of the shelling of the house or a feud with the illegal \u201cinsurgents\u201d operating in the district (it appears that it found no conclusive evidence to support any of these theories). The applicant herself was not an eyewitness to the events. No witnesses were identified who could corroborate her statements about the servicemen being responsible for the murders. The absence of any independent information concerning the cause of the deaths was undoubtedly a major impediment to the investigation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Court, to our regret, took into account only the applicant\u2019s allegation that the servicemen had been the perpetrators of the crime. According to the applicant, the killings of her relatives were directly linked to the other murders which had occurred in the Staropromyslovskiy district in January 2000 (see paragraph 80 of the judgment). By analogy, she referred to the Court\u2019s conclusions in Khashiyev and Akayeva.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In view of the Court\u2019s conclusions in the Khashiyev and Akayeva case, where the Court found it established that the Russian forces had been in control of the district at the time and that they had been responsible for the deaths of the applicants\u2019 relatives on 19 and 20 January 2000 (see Khashiyev and Akayeva, cited above, \u00a7\u00a7 142-45), we think that Mrs Tangiyeva\u2019s allegation cannot be discarded as prima facie untenable. However, we cannot agree with the applicant and apply these conclusions to the facts of the present case to an extent which would attribute the responsibility for unlawful acts to the respondent State, without having the benefit of additional evidence to that effect.",
+                        "elements": []
+                    },
+                    {
+                        "content": "We reiterate that the required evidentiary standard for the purposes of the Convention is that of proof \u201cbeyond reasonable doubt\u201d and that such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact. We cannot share the conclusion that the burden of proof is exclusively shifted to the Government, even though we regret that the respondent Government failed to disclose all the documents in the investigation file.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrL. Loucaides",
+            "role": "president"
+        },
+        {
+            "name": "MrsN. Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "MrK. Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "MrD. Spielmann",
+            "role": "judges"
+        },
+        {
+            "name": "MrS.E. Jebens",
+            "role": "judges"
+        },
+        {
+            "name": "Mr A. Wampach",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF TANGIYEVA v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-83578.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2007:1129JUD005793500",
+    "externalsources": [],
+    "extractedappno": [
+        "57935/00",
+        "58701/00",
+        "60272/00",
+        "57942/00",
+        "57945/00",
+        "23763/94",
+        "23531/94",
+        "65899/01",
+        "25657/94",
+        "28883/95",
+        "77617/01",
+        "27601/95",
+        "21894/93",
+        "69481/01",
+        "46477/99",
+        "26129/95",
+        "38361/97",
+        "25660/94",
+        "43577/98",
+        "43579/98",
+        "7615/02"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "1960 Code of Criminal Procedure of the Russian Soviet Federative Socialist Republic, replaced from 1/7/2002 by the Code of Criminal Procedure of the Russian Federation",
+        "Article 161 of the new Code of Criminal Procedure"
+    ],
+    "itemid": "001-83578",
+    "judgementdate": "29/11/2007 00:00:00",
+    "kpdate": "29/11/2007 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "595",
+        "231",
+        "350",
+        "90",
+        "193",
+        "444",
+        "110",
+        "14",
+        "128",
+        "121",
+        "523",
+        "216",
+        "577",
+        "283"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "38",
+        "2",
+        "35-1",
+        "35",
+        "13",
+        "41"
+    ],
+    "parties": [
+        "TANGIYEVA",
+        "RUSSIA"
+    ],
+    "rank": "606.313293457031",
+    "representedby": [
+        "NGO EHRAC/Memorial Human Rights Centre"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Akkum and Others v. Turkey, no. 21894/93, \u00a7 211, ECHR 2005 (extracts)",
+        "Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7 161-162, ECHR 2002-IV",
+        "Av?ar v. Turkey, no. 25657/94, \u00a7\u00a7 282, 283, 284 and 391, ECHR 2001-VII (extracts)",
+        "Bazorkina v. Russia, no. 69481/01, \u00a7\u00a7 117-119, 27 July 2006",
+        "Estamirov and Others v. Russia, no. 60272/00, \u00a7\u00a7 73-74 and 77, 12 October 2006",
+        "Imakayeva v. Russia, no. 7615/02, ECHR 2006",
+        "Khashiyev and Akayeva v. Russia, nos. 57942/00 and 57945/00, \u00a7\u00a7 119-121, 142-145 and 183, 24 February 2005",
+        "McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000",
+        "Mikheyev v. Russia, no. 77617/01, \u00a7 104, 26 January 2006",
+        "Nachova and Others v. Bulgaria [GC], nos. 43577/98 and 43579/98, \u00a7 175, ECHR 2005-VII",
+        "Paul and Audrey Edwards v. the United Kingdom, no. 46477/99, \u00a7 86, ECHR 2002-II",
+        "Ribitsch v. Austria, 4 December 1995, Series A no. 336, p.24, \u00a7 32",
+        "S\u00fcheyla Aydin v. Turkey, no. 25660/94, \u00a7 208, 24 May 2005",
+        "Tanis and Others v. Turkey, no. 65899/01, \u00a7 160, ECHR 2005-VIII",
+        "Tanli v. Turkey, no. 26129/95, \u00a7 152, ECHR 2001-III (extracts)",
+        "Tanrikulu v. Turkey [GC], no. 23763/94, \u00a7 70, ECHR 1999-IV",
+        "Timurtas v. Turkey, no. 23531/94, \u00a7\u00a7 66 and 70, ECHR 2000-VI",
+        "Togcu v. Turkey, no. 27601/95, \u00a7 95 and \u00a7 158, 31 May 2005"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "337428",
+    "typedescription": "15"
+}

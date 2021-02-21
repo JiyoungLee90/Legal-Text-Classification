@@ -1,0 +1,414 @@
+{
+    "__articles": "6;6-1;13;13+6-1;P1-1;P1-1-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Enforcement proceedings;Article 6-1 - Access to court);Violation of Article 1 of Protocol No. 1 - Protection of property (Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Enforcement proceedings;Article 6-1 - Access to court)",
+    "applicability": "",
+    "appno": "36539/08",
+    "article": [
+        "6",
+        "p1-1",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Enforcement proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "p1-1",
+            "base_article": "p1-1",
+            "details": [
+                "Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions"
+            ],
+            "element": "Violation of Article 1 of Protocol No. 1 - Protection of property",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Enforcement proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Enforcement proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-200837.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 36539/08) against the Russian Federation lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by twelve Russian nationals, (see the appended table) (\u201cthe applicants\u201d), on 24 March 2008.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Russian Government (\u201cthe Government\u201d) were represented initially by Mr G. Matyushkin, the Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 17\u00a0December 2015 the Government were given notice of the complaints under Articles\u00a06 \u00a7 1 and\u00a013 of the Convention and Article\u00a01 of the Protocol No.\u00a01 concerning the non-enforcement of the domestic decision given against a unitary enterprise (MUP) and the lack of any effective remedy in domestic law. The remainder of the application was declared inadmissible pursuant to Rule\u00a054\u00a0\u00a7\u00a03 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The list of applicants is set out in the appended table.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0On 20\u00a0August 2007 the Novokhoperskiy District Court of Voronezh Region ordered the municipal unitary housing exploitation enterprise \"Uyut\", inter alia, to restore the central heating of the applicants\u2019 houses, to pay each applicant 5,000 Russian roubles (RUB) in respect of non-pecuniary damage and further pay Ms Belova RUB 40,000 in court expenses. The judgment came into force on 9\u00a0October 2007.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 3\u00a0December 2007 the bailiff of the Novokhoperskiy District Department of the Bailiffs\u2019 Service opened the enforcement proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 13\u00a0November 2008 the enforcement proceedings were terminated as the judgment could not be enforced.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 3\u00a0December 2009 the bailiffs again initiated the enforcement proceedings. On 5\u00a0March 2009 they took formal note of the fact that the heating line leading towards the applicants\u2019 houses had been cut off.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 17\u00a0December 2013 the debtor company was liquidated.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The judgment remained unenforced in the part concerning the obligation to restore the central heating.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0The applicants complained of the non-enforcement of the judgment of 20\u00a0August 2007 given against the unitary enterprise and of the lack of any effective remedy in domestic law.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "12.\u00a0\u00a0The relevant provisions and case-law governing unitary companies with the right of economic control are summarised in Liseytseva and Maslov v.\u00a0Russia (nos. 39483/05 and 40527/10, \u00a7\u00a7\u00a054-127, 9\u00a0October 2014)",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE\u00a06 \u00a7 1 AND\u00a0ARTICLE\u00a013 OF THE CONVENTION AND OF ARTICLE\u00a01 OF PROTOCOL No.\u00a01",
+                        "elements": [
+                            {
+                                "content": "13.\u00a0\u00a0The applicants complained of the non-enforcement of the domestic decision given in their favour and of the lack of any effective remedy in domestic law. They relied, expressly or in substance, on Article\u00a06 \u00a7 1 and Article\u00a013 of the Convention and on Article\u00a01 of Protocol No.\u00a01 to the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 \u00a7 1",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 13",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 1 of Protocol No. 1",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The Government submitted that the judgment of 20\u00a0August 2007 was enforced in respect of the payments. They further submitted that the restoration of the central heating was made impossible and unnecessary as the applicants had installed individual heating in their homes. In the view of that and of the fact that in 2009 individual gas heating was installed in all the houses concerned, the Government argued that the domestic judgment had been fully enforced, as the aim pursued by the judgment had been achieved. They argued, therefore, that the judgment was enforced within a reasonable time.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0The applicants argued in reply that the judgment remained partly unenforced. They submitted that the mode of execution had not been modified by a domestic court. Thus, the central heating had to be restored, as ordered by the court on 20\u00a0August 2007. However, the applicants had to continue to use the individual heating that they had organised. They explained that they were not satisfied with such a heating system and that it was a measure used in the emergency situation, when no heating was provided in their houses during winter time. First, they argued that they had to install the individual heating at their own cost. Secondly, they complained that such mode of heating is more expensive and is dangerous. Finally, they were dissatisfied that it took much of their living space. They also submitted that the enforcement proceedings in their case had not been formally terminated, which confirmed pending non-enforcement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "16.\u00a0\u00a0The Court has held that the existing legal framework in Russia does not provide unitary enterprises with a degree of institutional and operational independence that would absolve the State from responsibility under the Convention for the debts of such companies (see Liseytseva and Maslov, cited above, \u00a7\u00a7\u00a0193-204). In order to determine the issue of State responsibility for the debts of State or municipal unitary enterprises the Court must examine whether and how the extensive powers of control provided for in domestic law were actually exercised by the authorities in the present case (see Liseytseva and\u00a0Maslov, cited above, \u00a7\u00a7\u00a0205-06).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The present case is similar to Liseytseva and Maslov (cited above, \u00a7\u00a7\u00a0208-19) from the standpoint of the debtor enterprise\u2019s functions and the degree of actual control exercised by the authorities over the company\u2019s activities. The Court finds that, as in the leading judgment, the debtor enterprise in the instant case did not enjoy sufficient institutional and operational independence from the authorities, and the State is to be held responsible under the Convention for the judgment debts owed to the applicants by the enterprise.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The Court further notes that the applicants\u2019 complaints under Article\u00a06 of the Convention and Article\u00a01 of Protocol\u00a0No.\u00a01 to the Convention about non-enforcement of the judgment of 20\u00a0August 2007 and under Article\u00a013 about the lack of an effective remedy are not manifestly illfounded within the meaning of Article\u00a035 \u00a7\u00a03\u00a0(a) of the Convention. They are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "\u00a0\u00a0Article\u00a06 of the Convention and Article\u00a01 of Protocol\u00a0No.1",
+                                        "elements": [
+                                            {
+                                                "content": "19.\u00a0\u00a0The Court reiterates that the execution of a judgment given by any court must be regarded as an integral part of a \u201chearing\u201d for the purposes of Article\u00a06. It also refers to its case-law concerning the non-enforcement or delayed enforcement of final domestic judgments (see Hornsby v.\u00a0Greece, no.\u00a018357/91, \u00a7\u00a040, Reports of Judgments and Decisions 1997II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0In the leading case of Liseytseva and Maslov v.\u00a0Russia (cited above) and in the case of Gerasimov and Others v. Russia (nos. 29920/05 and 10\u00a0others, 1 July 2014) the Court already found violations in respect of issues similar to those in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0Having examined all the material submitted to it, the Court has not found any fact or argument capable of persuading it to reach a different conclusion on the merits of these complaints. In particular, the Court notes that in accordance with the judgment of 20\u00a0January 2007 the applicants were entitled to having the central heating restored in their houses. It does not follow from the available documents that the judgment or its method of execution was modified by a domestic court at any point in time. However, the Court has not been provided with information on any steps taken by the debtor company or the authorities with the view of enforcement of the judgment in the relevant part. It appears that the enforcement proceedings have not been officially closed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0As to the Government\u2019s argument that the judgment was enforced as its aim had been met following the installation of the individual heating, the Court does not accept it. The Court considers that although the applicants found a practical solution to the problem of heating of the houses and the premises are now equipped with some individual gas heating systems, it is appears from the available material that it was not done within the framework of enforcement of a judicial decision issued in their favour (see, mutatis mutandis, Malinovskiy v. Russia, no.\u00a041302/02, ECHR 2005VII (extracts)). Moreover, the Court notes that the applicants are dissatisfied with their current system of heating, which is different from what they were entitled to in accordance with the judgment (see paragraphs 15 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0Having regard to its case-law on the subject, the Court considers that in the instant case the authorities did not deploy all necessary efforts to enforce fully and in due time the judgment in the applicants\u2019 favour.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The Court further notes that the judgment in the present application ordered specific action to be taken. The Court therefore considers that it constitutes \u201cpossessions\u201d within the meaning of Article\u00a01 of Protocol No.\u00a01 to the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0These complaints disclose a breach of Article\u00a06 \u00a7 1 of the Convention, and of Article 1 of Protocol No.\u00a01 to the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "\u00a0\u00a0Article\u00a013 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0In Liseytseva and Maslov (cited above, \u00a7\u00a7\u00a0156-82), the Court found that there has not been an effective remedy in respect of a non-enforcement of a judgment issued against a unitary enterprise at the material time. In the absence of any comments from the parties, the Court does not find any reason to depart from this finding in the present case. It concludes that the applicants did not have at their disposal an effective remedy in respect of their non-enforcement complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The complaint therefore discloses a breach of Article\u00a013 of the Convention in conjunction with Article\u00a06 and Article\u00a01 of Protocol\u00a0No.1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "28.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Damage",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0As regards the judgment of 20 August 2007, the Court considers that, in so far as it remains in force, the State\u2019s outstanding obligation to enforce it cannot be disputed. Accordingly, the applicants are still entitled to enforcement of that judgment. The Court reiterates that the most appropriate form of redress in respect of a violation of Article 6 is to ensure that the applicant as far as possible is put in the position he would have been in had the requirements of Article 6 not been disregarded (see Piersack v. Belgium (Article 50), 26 October 1984, \u00a7 12, Series A no. 85). The Court finds that this principle also applies in the present case, having regard to the violation found. It therefore considers that the Government must secure, by appropriate means, the enforcement of the judgment of 20 August 2007.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The Court further points out that its judgments are essentially declaratory in nature. In general, it is primarily for the State concerned to choose the means to be used in its domestic legal order in order to discharge its legal obligation under Article 46 of the Convention (see Shofman v.\u00a0Russia, no. 74826/01, \u00a7 53, 24 November 2005, with further references). By finding a violation of Article 6 \u00a7 1 of the Convention in the present case, the Court has established the Government\u2019s obligation to take appropriate measures to remedy the applicants\u2019 individual situations, that is, to ensure compliance with the applicants\u2019 enforceable claims under the judgment of 20\u00a0August 2007 (compare with Fadeyeva v. Russia, no. 55723/00, \u00a7\u00a0142, ECHR 2005-IV). Whether this involves taking measures set out in the judgment, or, if this is not possible, granting them reasonable compensation, or a combination of these and other measures, is a decision that falls to the respondent State (see Tarverdiyev v. Azerbaijan, no. 33343/03, \u00a7 66, 26 July 2007, and Ursan v. , no. 35852/04, \u00a7 46, 6 April 2010). The Court, however, emphasises that any measures adopted must be compatible with the conclusions set out in the Court\u2019s judgment (see Assanidze v. Georgia [GC], no. 71503/01, \u00a7 202, ECHR 2004-II, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Further, having regard to the documents in its possession and to its caselaw (see, in particular, Voronkov v. Russia, no. 39678/03, \u00a7\u00a7 68-69, 30\u00a0July 2015), the Court considers it reasonable to award each applicant 2,000 euros (EUR), plus any tax that may be chargeable, in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Default interest",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article\u00a06\u00a0\u00a7\u00a01 of the Convention and Article\u00a01 of Protocol No.\u00a01 to the Convention on account of the nonenforcement of the judgment of 20\u00a0August 2007;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article\u00a013 of the Convention in conjunction with Article\u00a06\u00a0\u00a7\u00a01 of the Convention and Article\u00a01 of Protocol No.\u00a01 to the Convention on account of the lack of an effective remedy in respect of the non-enforcement complaint;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the respondent State shall ensure, by appropriate means, within three months, the enforcement of the judgment of 20 August 2007;",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the respondent State is to pay each applicant, within the same three months, EUR\u00a02,000 (two thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+                        "elements": []
+                    },
+                    {
+                        "content": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 11 February 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and\u00a03 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "president"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "Gilberto Felici",
+            "role": "judges"
+        },
+        {
+            "name": "Stephen Phillips",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF SHMATOVA AND OTHERS v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-200837.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:0211JUD003653908",
+    "externalsources": [],
+    "extractedappno": [
+        "36539/08",
+        "39483/05",
+        "40527/10",
+        "18357/91",
+        "29920/05",
+        "41302/02",
+        "74826/01",
+        "55723/00",
+        "33343/03",
+        "35852/04",
+        "71503/01",
+        "39678/03"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-200837",
+    "judgementdate": "11/02/2020 00:00:00",
+    "kpdate": "11/02/2020 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "113",
+        "7",
+        "444",
+        "110",
+        "369",
+        "304"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "P1-1-1",
+        "13",
+        "6-1",
+        "6",
+        "P1-1"
+    ],
+    "parties": [
+        "SHMATOVA AND OTHERS",
+        "RUSSIA"
+    ],
+    "rank": "4847.81689453125",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "496156",
+    "typedescription": "15"
+}

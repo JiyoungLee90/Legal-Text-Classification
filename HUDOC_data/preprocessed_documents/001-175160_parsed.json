@@ -1,0 +1,581 @@
+{
+    "__articles": "5;5-1;6;6+6-3;6-1;6-3;11;11-1",
+    "__conclusion": "Violation of Article 11 - Freedom of assembly and association (Article 11-1 - Freedom of peaceful assembly);Violation of Article 6+6-3 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3 - Rights of defence);Violation of Article 5 - Right to liberty and security (Article 5-1 - Deprivation of liberty)",
+    "applicability": "",
+    "appno": "78162/13;79517/13;3245/14",
+    "article": [
+        "6",
+        "11",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "11",
+            "base_article": "11",
+            "details": [
+                "Article 11-1 - Freedom of peaceful assembly"
+            ],
+            "element": "Violation of Article 11 - Freedom of assembly and association",
+            "type": "violation"
+        },
+        {
+            "article": "6-3",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3 - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3 - Rights of defence"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Deprivation of liberty"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-175160.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in three applications (nos.\u00a078162/13, 79517/13 and\u00a03245/14) against the Republic of Azerbaijan lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by three Azerbaijani nationals, Mr\u00a0Turkel Ahmad oglu Alisoy (\u201cthe first applicant\u201d), Mr Ali Natig oglu Safarli (\u201cthe second applicant\u201d) and Sarvar Nizami oglu Abdullali (\u201cthe third applicant\u201d), on 26 November 2013, 4 December 2013 and 25\u00a0December 2013 respectively.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented by Mr\u00a0R.\u00a0Mustafazade and Mr\u00a0A.\u00a0Mustafayev, lawyers practising in Azerbaijan. The Azerbaijani Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0\u00c7.\u00a0Asgarov.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 16 April 2015 the complaints concerning Articles 5, 6, 10 and 11 of the Convention were communicated to the Government and the remainder of the applications was declared inadmissible pursuant to Rule\u00a054\u00a0\u00a7\u00a03 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicants\u2019 dates of birth and places of residence are given in the Appendix.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Background information",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicants were opposition-oriented activists. At the material time the first applicant was a member of one of the opposition parties, the Popular Front Party of Azerbaijan. He participated in a number of peaceful demonstrations organised by the opposition and on several occasions was arrested and convicted for that.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 12 October 2013 an opposition group \u0130ctimai Palata held a demonstration, authorised by the relevant authority, the Baku City Executive Authority (\u201cthe BCEA\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The demonstration was held in the Mahsul stadium, a place proposed by the BCEA. It was intended to be peaceful and was conducted in a peaceful manner. The participants were protesting against alleged irregularities and fraud during the presidential elections of 9\u00a0October 2013.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0All three applicants participated in that demonstration.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicants\u2019 arrests and subsequent administrative proceedings against them",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0After the end of the demonstration of 12 October 2013 the applicants were arrested at the entrance to a nearby metro station, Inshaatchilar.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0The circumstances of the applicants\u2019 arrests, their custody and subsequent administrative proceedings against them are similar to those in Huseynli and Others v.\u00a0Azerbaijan (nos.\u00a067360/11 and 2\u00a0others, 11 February 2016) and Huseynov and Others v. Azerbaijan ([Committee] nos.\u00a034262/14 and 5 others, 24 November 2016) (see also Appendix).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND INTERNATIONAL DOCUMENTS",
+                        "elements": [
+                            {
+                                "content": "10.\u00a0\u00a0After the amendments introduced by Law no. 135-IVQD of 31\u00a0May 2011, which entered into force on 1 July 2011, Article 410 of the Code of Administrative Offences 2000 (\u201cthe CAO\u201d) provided as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... 410.3.\u00a0\u00a0A copy of the administrative offence report shall be given to an individual who is subject to the administrative offence proceedings or to a representative of a legal entity.",
+                                "elements": []
+                            },
+                            {
+                                "content": "410.4.\u00a0... An aggrieved person in administrative offence proceedings has the right to a copy of the administrative offence report.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0For a summary of the other relevant provisions concerning administrative proceedings, the relevant provisions concerning freedom of assembly, the organisation and holding of public assemblies, and the relevant extracts from international documents and press releases, see the judgments in the cases of Huseynli and Others (cited above, \u00a7\u00a7 56-77) and Huseynov and Others (cited above, \u00a7\u00a7 32-36).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0JOINDER OF THE APPLICATIONS",
+                        "elements": [
+                            {
+                                "content": "12.\u00a0\u00a0Given the similarity of the facts and complaints raised in all three applications, the Court has decided to join the applications in accordance with Rule 42 \u00a7 1 of the Rules of Court.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 10 AND 11 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "13.\u00a0\u00a0The applicants complained that their arrests and convictions immediately after the authorised demonstration of 12 October 2013 had been measures used by the authorities to punish them for their political activity and to prevent them from participating in opposition protests. The applicants invoked Articles 10 and 11 of the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent states from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the State.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "14.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Scope of the complaints",
+                                        "elements": [
+                                            {
+                                                "content": "15.\u00a0\u00a0In the circumstances of the present cases, Article 10 is to be regarded as a lex generalis in relation to Article 11, a lex specialis. It is therefore unnecessary to take the complaints under Article 10 into consideration separately (see Ezelin v. France, 26 April 1991, \u00a7 35, Series A no. 202; Kasparov and Others v. Russia, no. 21613/07, \u00a7\u00a7 82-83, 3\u00a0October 2013; and Kudrevi\u010dius and Others v. Lithuania [GC], no. 37553/05, \u00a7 85, 15\u00a0October 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0On the other hand, notwithstanding its autonomous role and particular sphere of application, Article 11 must, in the present cases, also be considered in the light of Article 10. The protection of personal opinions, secured by Article 10, is one of the objectives of freedom of peaceful assembly enshrined in Article 11 (see Ezelin, cited above, \u00a7 37, and Kudrevi\u010dius and Others, cited above, \u00a7 86).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "17.\u00a0\u00a0The submissions made by the applicants and the Government with respect to the events of 12 October 2013 and the applicants\u2019 subsequent convictions were similar to those made by the relevant parties in respect of the similar complaints raised in the cases of Huseynli and Others (cited above, \u00a7\u00a7 81-83) and Huseynov and Others (cited above, \u00a7\u00a7 43-44).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "18.\u00a0\u00a0Having regard to the facts of the present cases and their similarity to those of the Huseynli and Others case and the Huseynov and Others case on all relevant and crucial points, the Court sees no particular circumstances that could compel it to deviate from its findings in those judgments, and finds that in the present cases the applicants\u2019 right to freedom of assembly was breached for the same reasons as those outlined in the said judgments (see Huseynli and Others, cited above, \u00a7\u00a7 84-101, and Huseynov and Others, cited above, \u00a7\u00a7 45-51).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0The applicants\u2019 arrests and administrative proceedings against them could not but have had the effect of discouraging them from participating in political rallies. Those measures undoubtedly have a chilling effect, which deters other opposition supporters and the public at large from attending demonstrations, and, more generally, from participating in open political debate (see Huseynli and Others, cited above, \u00a7 99).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0There has accordingly been a violation of Article 11 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "21.\u00a0\u00a0The applicants complained under Article 6 of the Convention that in proceedings concerning the alleged administrative offences, they had not had a public and fair hearing. The relevant parts of Article 6 of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "22.\u00a0\u00a0The Government submitted that the applicants had failed to raise before the domestic courts their complaints regarding witnesses and the complaints of not being served with copies of the administrative offence reports issued with respect to them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The Court notes that the material before it does not support the said objection of the Government. The documents included in the case files indicate that the applicants complained in their written appeal that the firstinstance court had not questioned any witnesses or questioned only police officers. They requested the appellate court to examine video recordings by security cameras located at the place where the administrative offences allegedly happened, photographs and video recordings of postevent police violence against participants of the demonstration, and press reports about such violence. They also requested copies of the administrative offence reports issued in respect of them. The Court therefore dismisses the Government\u2019s objection.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0The Court further notes that the complaints under Article 6 of the Convention are not manifestly ill-founded within the meaning of Article 35 \u00a7\u00a03\u00a0(a) of the Convention. It further notes that those complaints are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "25.\u00a0\u00a0The submissions made by the applicants and the Government with respect to fairness of the administrative proceedings were similar to those made by the relevant parties in respect of the similar complaints raised in the case of Huseynli and Others (see Huseynli and Others, cited above, \u00a7\u00a7\u00a0105108; see also Huseynov and Others, cited above, \u00a7\u00a7 54-56).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0In addition, the Government submitted that after the administrativeoffence reports had been prepared the applicants had been released from police custody. They argued that the applicants had been aware of the upcoming court proceedings, had sufficient time and could have prepared their defence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0According to the applicants, when they were released from police custody on 12 October 2013 they were not aware of the fact that the police would send their cases for examination by a court. They were made to believe that the police had dealt with their cases within its own competencies, by ordering them to pay fines. The applicants argued that when on 14 October 2013 they had been called back to the police office they had not had time and facilities to prepare their defence prior to being brought before a court on the same day.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0The Court notes that it has been disputed between the parties whether the applicants had been aware of the police\u2019s intention to send their cases to a domestic court for examination. The Court considers that it is not necessary to make an assessment of facts in that respect, because in many other relevant and crucial points the facts of the applicants\u2019 cases are similar to those of the Huseynli and Others case. As in that case, the applicants in the present cases were arrested and convicted following an accelerated procedure under the CAO. They were held in police custody without any contact with the outside world and presented with charges without receiving copies of the administrative offence reports. None of the applicants was given an opportunity to appoint a lawyer of his own choosing at the pre-trial stage. In the cases where the applicants did not refuse assistance of a Statefunded lawyer, Mr M.J., representation by that lawyer was purely formalistic. Neither the first-instance courts nor the Court of Appeal took note of the applicants\u2019 arguments about political motives of the arrests. The courts failed to clarify the facts that were disputed between the parties: they merely accepted the police\u2019s versions of the facts and the charges as presented in the relevant police reports. In view of the similarities between the present cases and Huseynli and Others, the Court sees no particular circumstances that could compel it to deviate from its findings in that judgment, and finds that the administrative proceedings in the present cases, considered as a whole, were not in conformity with the guarantees of a fair hearing (see Huseynli and Others, cited above, \u00a7\u00a7 110-135; see also Huseynov and Others, cited above, \u00a7\u00a7 57-58).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0There has accordingly been a violation of Article 6 \u00a7\u00a7 1 and 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0Having already established that the administrative proceedings, considered as a whole, were not in conformity with the guarantees of a fair hearing, the Court finds it unnecessary to rule on the issue whether the refusal by the applicants of a State-funded lawyer, Mr M.J., at the pre-trial stage or at the trial constituted an unequivocal waiver of the right to a lawyer.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "There is also no need to examine the applicants\u2019 arguments concerning the alleged lack of public hearings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "31.\u00a0\u00a0The applicants further complained that their arrests, custody and administrative detention had been in breach of Article 5 of the Convention, the relevant parts of which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court; ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so; ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "33.\u00a0\u00a0The submissions made by the applicants and the Government with respect to the events of 12 October 2013 and the applicants\u2019 subsequent convictions were similar to those made by the relevant parties in respect of the similar complaints raised in the case of Huseynli and Others (cited above, \u00a7\u00a7 138-41) and Huseynov and Others (cited above, \u00a7\u00a7 62-65).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0Having regard to the facts of the present cases and their clear similarity to those of the Huseynli and Others case and Huseynov and Others case on all relevant and crucial points, the Court sees no particular circumstances that could compel it to deviate from its findings in those judgments, and finds that in the present cases the applicants\u2019 right to liberty was breached for the same reasons as those outlined in the said judgments (see Huseynli and Others, cited above, \u00a7\u00a7 142-48, and Huseynov and\u00a0Others, cited above \u00a7 67).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0Accordingly, there has been a violation of Article 5 \u00a7 1 of the Convention with respect to all three applicants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0In view of the nature and the scope of its finding above, the Court does not consider it necessary to examine the applicants\u2019 other complaints under Article 5 of the Convention (see Huseynli and Others, cited above, \u00a7\u00a0149).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "37.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "38.\u00a0\u00a0In respect of non-pecuniary damage, the first applicant claimed 24,000 euros (EUR) and the third applicant claimed EUR\u00a021,000. The second applicant did not specify any amount he claimed under this head.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0The Government submitted that the first and third applicants\u2019 claims for non-pecuniary damage were unsubstantiated and unreasonable.\u00a0With respect to those applicants the Government submitted that the amount of 5,000 Azerbaijani manats (AZN) each would constitute sufficient compensation under this head.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0The Court considers that the applicants have suffered non-pecuniary damage which cannot be compensated for solely by the finding of a violation, and that compensation should thus be awarded. Making its assessment on an equitable basis, as required by Article 41 of the Convention, the Court awards all three applicants the sum of EUR\u00a08,000 each under this head, plus any tax that may be chargeable on this amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The first and third applicants claimed EUR 3,300 each for legal fees incurred before the domestic courts and the Court. In support of their claims, they submitted contracts for translation and legal services. The second applicant did not specify his claim under this head. However, he submitted a contract for translation and legal services, identical to those submitted by the first and third applicants.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The Government considered that the applicants\u2019 claims were excessive and could not be regarded as reasonable as to quantum. In particular, they argued that the applicants were represented by the same lawyers and that substantial parts of the submissions in all three cases were identical or very similar. They also argued that the applicants had failed to produce any evidence concerning translation services.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The Government lastly submitted that the applicants could claim AZN\u00a01,500 jointly for costs and expenses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court notes that in the proceedings before it the applicants were represented by the same lawyers, Mr\u00a0Mustafazade and Mr\u00a0Mustafayev, whose submissions in all three cases were similar.\u00a0Taking this consideration into account, the Court awards a total amount of EUR\u00a03,000 to the applicants jointly in respect of the legal services rendered by Mr\u00a0Mustafazade and Mr\u00a0Mustafayev, to be paid directly into the representatives\u2019 bank account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Decides to join the applications;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the applications admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 11 of the Convention on account of the applicants\u2019 arrests on 12\u00a0October 2013 and their subsequent convictions;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 of the Convention in respect of all three applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 5 of the Convention in respect of all three applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claims for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 13 July 2017, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Andr\u00e9 Potocki",
+            "role": "president"
+        },
+        {
+            "name": "M\u0101rti\u0146\u0161 Mits",
+            "role": "judges"
+        },
+        {
+            "name": "L\u04d9tif H\u00fcseynov",
+            "role": "judges"
+        },
+        {
+            "name": "Anne-Marie Dougin",
+            "role": "acting deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF ALISOY AND OTHERS v. AZERBAIJAN",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-175160.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0713JUD007816213",
+    "externalsources": [],
+    "extractedappno": [
+        "78162/13",
+        "79517/13",
+        "3245/14",
+        "67360/11",
+        "34262/14",
+        "21613/07",
+        "37553/05"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-175160",
+    "judgementdate": "13/07/2017 00:00:00",
+    "kpdate": "13/07/2017 00:00:00",
+    "kpthesaurus": [
+        "448",
+        "93",
+        "445",
+        "76",
+        "136",
+        "440",
+        "145",
+        "151"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "29",
+    "paragraphs": [
+        "11-1",
+        "6-1",
+        "6-3",
+        "5-1",
+        "5",
+        "6",
+        "11"
+    ],
+    "parties": [
+        "ALISOY AND OTHERS",
+        "AZERBAIJAN"
+    ],
+    "rank": "1930.47546386719",
+    "representedby": [
+        "MUSTAFAZADE R.",
+        "MUSTAFAYEV A."
+    ],
+    "respondent": "AZE",
+    "respondentOrderEng": "5",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "466117",
+    "typedescription": "15"
+}

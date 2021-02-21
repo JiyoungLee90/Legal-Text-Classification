@@ -1,0 +1,653 @@
+{
+    "__articles": "6;6-1;10;10-1;13;13+6-1",
+    "__conclusion": "No violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "45281/08",
+    "article": [
+        "6",
+        "10",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom of expression"
+            ],
+            "element": "No violation of Article 10 - Freedom of expression-{general}",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-182443.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 45281/08) against the Republic of Turkey lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Turkish national, Mr Fatih Ta\u015f (\u201cthe applicant\u201d), on 9\u00a0September 2008.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr \u0130. Akme\u015fe and Ms\u00a0Y.\u00a0Polat, lawyers practising in Istanbul. The Turkish Government (\u201cthe Government\u201d) were represented by their Agent.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged under Article 10 of the Convention that the seizure of Patika \u2013 Gerilla An\u0131lar\u0131 IV (\u201cThe Path \u2013 Guerrilla Memoirs IV\u201d), a book published by his publishing company, as well as the criminal proceedings brought against him on account of the content of the book, had constituted a breach of his right to freedom of expression. He also complained under Articles 6 and 13 of the Convention that the criminal proceedings in question had not been concluded within a reasonable time, and that there had been no domestic remedies available under Turkish law for the excessive length of the criminal proceedings.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 9 January 2012 the application was communicated to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 22 June 2017, under Rule 54 \u00a7 2 (a) of the Rules of Court, the President of the Section asked the parties to submit a copy of the book. On 8\u00a0August 2017 the applicant submitted a copy of the book.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant was born in 1979 and lives in Istanbul. At the time of the events giving rise to the present application, he was the owner and editor-in-chief of a publishing house, Aram Bas\u0131m ve Yay\u0131nc\u0131l\u0131k.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0In August 2003 the applicant\u2019s company published a book entitled Patika \u2013 Gerilla An\u0131lar\u0131 IV (\u201cThe Path \u2013 Guerrilla Memoirs IV\u201d, hereinafter \u201cthe book\u201d). The editor of the book was a certain B.K. The 326-page book consisted of the memoirs of seventeen members of the PKK. The authors of the memoirs described their lives in the PKK camps, in rural areas in both Turkey and Iraq, armed clashes with the Turkish security forces, and their ideology and opinions regarding the situation in Turkey.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0In September 2003 the public prosecutor attached to the Istanbul State Security Court launched an investigation into the book. On 30 September 2003 he asked that court to order the seizure of copies of the book on the grounds that certain passages on pages 7, 19, 23, 81, 106114, 139, 147, 152, 157-177, 203, 273, 277, 317, 321 contained propaganda in favour of the PKK.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On the same day a single judge at the Istanbul State Security Court made an interim order for the seizure of copies of the book. The judge considered that the passages referred to by the public prosecutor incited the use of methods of violence and terror, and thus constituted propaganda in favour of the PKK. On 10 October 2003 an application by the applicant to set aside the order of 30 September 2003 was rejected.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0On 14 October 2003 the Istanbul public prosecutor filed an indictment with the Istanbul State Security Court, charging the applicant with disseminating propaganda in favour of a terrorist organisation under section\u00a07(2) of the Prevention of Terrorism Act (Law\u00a0no.\u00a03713). The public prosecutor cited a number of passages from pages 7, 19, 23, 81, 106-114, 139, 147, 152, 157-177, 203, 273, 277, 317, 321, and claimed that in those passages members of the PKK were depicted as heroes, and their acts and activities were praised.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 26 March 2004 the Istanbul State Security Court convicted the applicant as charged and sentenced him to one year\u2019s imprisonment and a fine. In its judgment, the court referred to a number of passages on pages\u00a019, 21, 81, 105, 106, 107, 108, 110, 113, 114, 134, 135, 139, 147, 163, 189, 197, 203, 273, 274, 277, 317 and 321, and considered that those passages constituted propaganda in favour of the PKK.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 7 October 2004 the Court of Cassation quashed the first-instance judgment holding that the first-instance court should consider the provisions of the new Press Act (Law no. 5187) which had entered into force on 26\u00a0June 2004. It then remitted the case file to the Istanbul Assize Court, since, in the meantime, state security courts had been abolished.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 22 July 2005 the Istanbul Assize Court held that it did not have jurisdiction over the case and sent the file to the Beyo\u011flu Criminal Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 5 July 2006 the Beyo\u011flu Criminal Court also ruled that it lacked jurisdiction.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On 19 October 2006 the Court of Cassation decided that the Istanbul Assize Court had jurisdiction over the case and sent the case file to that court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 29 June 2007 the Istanbul Assize Court once again convicted the applicant as charged. The court sentenced him to ten months\u2019 imprisonment and a fine of 416 Turkish liras (TRY). In its judgment, the court held:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cOn the basis of the examination of the book in its entirety, it has been observed that the book depicts the activities of members of the PKK-KADEK, the terrorist organisation, and their so-called impressions of the clashes between them and members of the security forces. The book consists of different chapters written by different people. The preface to the book contains the following:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2018Our president Apo states that the outcome of the war is very valuable ... While the history written and life created by bullets drip off pens, guerrillas go beyond the faraway corners of our land with their bags on the backs and their weapons in their hands ... We smile with a picture of war and, with a song, we add new [people] to those who have left us ...\u2019",
+                                "elements": []
+                            },
+                            {
+                                "content": "On page 160, it is stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2018We had to change the Anatolian People\u2019s Army for Emancipation in accordance with the needs of the Anatolian people. They did not know us as members of the PKK, and we were not established there. If we went there as the PKK, we could not win their hearts. Therefore, when we first arrived in the Black Sea region, we used the name Anatolian People\u2019s Army for Emancipation. Some people told us that they had never heard of our organisation, and they thought that we were a very good one. Some had difficulties, as they suspected us to be the PKK. We could not explicitly say that we were PKK members. Our president [Abdullah \u00d6calan] stated that he knew the people of the Black Sea, and advised us to raise consciousness through our attitudes and actions first, and then to tell them that we were PKK members, after they trusted us ...\u2019",
+                                "elements": []
+                            },
+                            {
+                                "content": "On pages 106 and 107, it is stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2018... I shared my joy with them by saying \u201cFriends, four vehicles belonging to the enemy were destroyed. They were burned.\u201d That day I forgot about my sleeplessness. I did not think about my tiredness, hunger or thirst as much as I had done before. I had only one wish: engaging in a clash and getting in a good shot with my weapon, which I had not used, although I had had it with me for long time.\u2019",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2018... [He asked] \u201cMy friend, is this your first [armed] clash?\u201d I said \u201cyes.\u201d \u201c[Armed] clashes are nice, aren\u2019t they?\u201d \u201cYes, they are.\u201d\u2018\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0The Istanbul Assize Court considered that the above-mentioned passages and certain other passages on pages 19, 21, 81, 105, 108, 110, 113, 114, 134, 135, 139, 147, 163, 189, 197, 203, 273, 274, 277, 317 and 321 praised the armed clashes between PKK militants and the security forces, and those militants\u2019 acts. As a result, the court found that the book did not have any literary value. According to the assize court, the publisher had not aimed to publish a book of memoirs, but had had the intention of disseminating propaganda inciting the terrorist organisation and its militants to violence or other methods of terrorism.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0On 2 February 2010 the Court of Cassation quashed the judgment. The Court of Cassation quashed the judgment of 29 June 2007 on the ground that a pre-payment notice had not been served on the applicant in accordance with section 7(2) of Law no. 3713 and Article\u00a075 of the Criminal Code.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 8 April 2011 the Istanbul Assize Court decided to discontinue the criminal proceedings against the applicant, since the prosecution was timebarred.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "20.\u00a0\u00a0Between 7 August 2003 and 18 July 2006, section\u00a07(2) of Law no.\u00a03713 read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAny person who assists members of the above-mentioned organisations [terrorist organisations] or who disseminates propaganda inciting others to violence or other methods of terrorism shall be liable to [serve] a term of imprisonment of one to five years and [receive] a judicial fine of five million liras to one billion liras ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The first sentence of section 7(2) of Law no. 3713 was amended as follows by Law no.\u00a05532, which entered into force on 18 July 2006:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAny person who disseminates propaganda in favour of a terrorist organisation shall be liable to [serve] a term of imprisonment of one to five years ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The first sentence of section 7(2) of Law no. 3713, amended on 30\u00a0April 2013 by Law no. 6459, currently reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAny person who disseminates propaganda in favour of a terrorist organisation by justifying, praising or encouraging the use of methods constituting coercion, violence or threats shall be liable to [serve] a term of imprisonment of one to five years ...\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "21.\u00a0\u00a0The applicant complained under Article 10 of the Convention that the criminal proceedings brought against him pursuant to section 7(2) of Law no.\u00a03713, and his conviction under that section, had constituted a violation of his right to freedom of expression. He further complained under the same Article about the seizure of copies of the book on 30\u00a0September 2003. Article 10 of the Convention reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0The Government contested that claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Seizure of copies of the book on 30 September 2003",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0The Court observes that on 30 September 2003 an interim order for the seizure of copies of the book was made, and that on 10 October 2003 the applicant\u2019s application to set aside the order of 30 September 2003 was rejected. The present application, on the other hand, was lodged on 9\u00a0September 2008. Accordingly, this part of the application has been lodged out of time and must be rejected in accordance with Article\u00a035 \u00a7\u00a7\u00a01 and\u00a04 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Criminal proceedings brought against the applicant",
+                                        "elements": [
+                                            {
+                                                "content": "24.\u00a0\u00a0The Government claimed that the applicant did not have victim status within the meaning of Article 34 of the Convention, as he had not been convicted at the end of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0The Court considers that the Government\u2019s objection regarding the applicant\u2019s lack of \u201cvictim status\u201d is closely linked to the merits of his complaints under this head. It therefore joins this issue to the merits. The Court further notes that this part of the application is not manifestly illfounded within the meaning of Article 35 \u00a7\u00a03 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0The Government submitted that the applicant could not claim to be a victim, as the proceedings against him had become time-barred. They therefore argued that there had been no interference with the applicant\u2019s freedom of expression. Alternatively, they submitted that the applicant had been prosecuted pursuant to section 7(2) of Law no. 3713, and thus the interference, if any, had been prescribed by law. They further submitted that the domestic authorities had pursued the legitimate aims of protecting public order and national security. The Government lastly submitted that the interference had been necessary in a democratic society, given that the content of the book in question had promoted hatred, hostility, the use of arms, militancy and revenge.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The applicant submitted that his trial, which had lasted for more than seven years and which had resulted in his being convicted under section\u00a07(2) of Law no. 3713, had amounted to an interference with his right guaranteed under Article 10 of the Convention. He also claimed that the interference in question had not been necessary in a democratic society. In that respect, he submitted that the book in question was like an historical novel and that, read in its entirety, it did not incite violence.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0The Court notes at the outset that it has already examined and rejected a similar objection by the Government to the admissibility in the case of Dilipak\u00a0v.\u00a0Turkey (no. 29680/05, \u00a7\u00a7 44-51, 15 September 2015), the circumstances of which were similar to the present case. The Court finds no reason which would require it to reach a different conclusion in the present case. In particular, criminal charges were pending against the applicant for a considerable length of time, and he could not be sure that he would not face further legal consequences if he, as a publisher, published other books on similar matters, either during those criminal proceedings or at any future stage. The Court considers that the seven and a half years of criminal proceedings conducted against the applicant, in view of the chilling effect which those proceedings may well have caused, cannot be viewed as solely comprising purely hypothetical risks to the applicant, and considers that they constituted genuine and effective restrictions per se. The declaration that the proceedings had become time-barred merely put an end to the above-mentioned risks, but did not alter the fact that those risks had put the applicant under pressure for a substantial period of time (ibid. \u00a7\u00a7\u00a049 and 50; see also Semir\u00a0G\u00fczel\u00a0v.\u00a0Turkey, no. 29483/09, \u00a7\u00a7 26-31, 13\u00a0September 2016). Accordingly, the Court rejects the Government\u2019s objection and finds that the criminal proceedings in question constituted an \u201cinterference\u201d with the applicant\u2019s right to freedom of expression as secured by Article\u00a010 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0The Court notes that it is not disputed between the parties that the interference was prescribed by law. The dispute in the present case concerns the questions whether the interference pursued a legitimate aim and whether it was \u201cnecessary in a democratic society\u201d (Agit Demir v.\u00a0Turkey, no.\u00a036475/10, \u00a7 73, 27 February 2018). The Court is prepared to accept that, in the instant case, the national authorities may be considered to have pursued the legitimate aims of protecting national security and preventing disorder and crime (see Faruk Temel v. Turkey, no. 16853/05, \u00a7\u00a052, 1\u00a0February 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0As regards the necessity of the interference in a democratic society, the Court reiterates the basic principles laid down in its judgments concerning Article\u00a010 (see, for example, S\u00fcrek v. Turkey (no. 1) [GC], no.\u00a026682/95, \u00a7\u00a7 58-59, ECHR 1999IV; \u015eener v. Turkey, no.\u00a026680/95, \u00a7\u00a7\u00a039-43, 18 July 2000; and B\u00e9dat v. Switzerland [GC], no. 56925/08, \u00a7\u00a048, ECHR 2016). The Court considers that the principles contained in the abovementioned judgments pertaining to the media also apply to the publication of books in\u00a0general or written texts other than the periodical press (see Association\u00a0Ekin v. France, no 39288/98, \u00a7\u00a7\u00a056-57, ECHR 2001VIII, and \u00c7amyar and Berkta\u015f v. Turkey, no. 41959/02, \u00a7\u00a036, 15\u00a0February 2011). It will examine the present case in the light of the above principles.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court observes that the book consists of seventeen chapters written by seventeen members of the PKK who had been involved in that organisation\u2019s armed activities. In the chapters, the authors convey the details of their daily lives in camps and rural areas in different regions of Turkey and Iraq, their experiences with local people, their interactions with other members of the PKK, as well as their political opinions and emotions. In the Court\u2019s view, given that serious disturbances have occurred between the security forces and members of the PKK since approximately 1984, involving a very heavy loss of life and the imposition of emergency rule in much of the south-east of Turkey for many years, it may be concluded that the book may be considered to contain issues of public concern. Hence, in the Court\u2019s view, publication of a book describing the lives of PKK members per se does not run counter to the values of a democratic society.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0In that connection, the Court observes that the applicant was not charged with disseminating propaganda in favour of the PKK because he had published the book in question, but because the judicial authorities considered that certain passages in the book constituted propaganda in favour of that organisation. As a matter of fact, a number of passages contained in the book were cited in both the bill of indictment and the first-instance courts\u2019 judgments of 26 March 2004 and 29 June 2007, and the applicant was prosecuted on the basis of the content of those passages.\u00a0\u00a0The Court must have particular regard to the impugned passages and the context in which they were published. With regard to the context, it will also take into account the background to the case submitted to it, described in paragraph 31 above (see, among many others, S\u00fcrek (no. 1), cited above, \u00a7\u00a062; Ba\u015fkaya and Ok\u00e7uo\u011flu v. Turkey [GC], nos. 23536/94 and 24408/94, \u00a7\u00a063, ECHR 1999IV; Cump\u01cen\u01ce and Maz\u01cere v. Romania [GC], no.\u00a033348/96, \u00a7 89, ECHR 2004XI; and Demirel and Ate\u015f v.\u00a0Turkey (no.\u00a03), no. 11976/03, \u00a7 21, 9\u00a0December 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0The Court notes that the common factor in most of the passages cited and referred to by the public prosecutor, the Istanbul State Security Court and the Istanbul Assize Court is the authors\u2019 reference in those passages to either Abdullah \u00d6calan, the leader of the PKK, being the \u201cPresident\u201d, or the members of the security forces being \u201cenemies\u201d. In the Court\u2019s view, those passages cannot be construed as encouraging violence, armed resistance or an uprising.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0However, the Court observes that three passages in the book, namely the preface and the passages on pages 106 and 107 cited in the judgment of 29\u00a0June 2007 (see paragraph 16 above), clearly glorify the use of armed force and praise deadly violence. In particular, in the preface, the results of the war are presented as \u201cvaluable\u201d and the deaths of members of the PKK are romanticised. On page 106, the destruction of the security forces\u2019 vehicles was announced as very good news, and the author expresses his desire to \u201cget in a good shot\u201d. Lastly, on page 107, an armed clash between the PKK and the security forces was described as an enjoyable event. Hence, the Court finds that the domestic authorities\u2019 assessment that the passages in question constituted incitement to violence and to other methods of terrorism was reasonable. Indeed, the message which was communicated to the reader in those parts is that recourse to violence is necessary, satisfactory, and even pleasant (see, mutatis mutandis, S\u00fcrek (no. 1), cited above, \u00a7\u00a062).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court notes that the passages on pages 106 and 107 were not written by the applicant. The author of the preface, on the other hand, is not known, as there is no signature. However, given that the book was edited by B.K., it is possible to assume that the preface was written by him. While it is true that there is nothing in the case file showing that the applicant personally associated himself with the views contained in the preface and on pages 106 and 107, he nevertheless provided the writers with an outlet for stirring up violence (see S\u00fcrek v. Turkey (no. 3) [GC], no.\u00a024735/94, \u00a7 41, 8\u00a0July 1999). He was the owner and editor-in-chief, and as such had the power to shape the editorial direction of the book. For that reason, he was vicariously subject to the \u201cduties and responsibilities\u201d which authors take on when they disseminate their writings to the public, and which assume an even greater importance in situations of conflict and tension (see S\u00fcrek\u00a0(no.\u00a01), cited above, \u00a7 63; S\u00fcrek (no. 3), cited above, \u00a7\u00a041; Halis\u00a0Do\u011fan v. Turkey (no. 3), no. 4119/02, \u00a7 36, 10 October 2006; and Sayg\u0131l\u0131 and Falakao\u011flu v. Turkey (no. 2), no. 38991/02, \u00a7 29, 17\u00a0February 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0Lastly, the Court notes that, although not decisive, the criminal proceedings against the applicant were terminated as timebarred, and that there was no final conviction. Nor was he detained on remand or made to serve any prison sentence in the context of the proceedings in question.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0Against this background, the Court finds that the criminal proceedings brought against the applicant as the owner and editor-in-chief of Aram Bas\u0131m ve Yay\u0131nc\u0131l\u0131k for publishing the book could reasonably be regarded as answering a \u201cpressing social need\u201d, being proportionate to the legitimate aims pursued and thus being necessary in a democratic society.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "There has accordingly been no violation of Article 10 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "38.\u00a0\u00a0The applicant complained that the length of the proceedings was incompatible with the \u201creasonable time\u201d requirement laid down in Article\u00a06 \u00a7\u00a01 of the Convention, which, in so far as relevant, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0The Government contested that claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "40.\u00a0\u00a0The Court observes at the outset that a new domestic remedy has been established in Turkey since the application of the pilot judgment procedure in the case of \u00dcmm\u00fchan Kaplan v. Turkey (no.\u00a024240/07, 20\u00a0March 2012). The Court observes that it declared a new application inadmissible in its decision in the case of Turgut and Others v.\u00a0Turkey (no.\u00a04860/09, 26 March 2013), on the grounds that the applicants had failed to exhaust the domestic remedies, that is to say the new remedy established under Law no. 6384. In doing so, the Court considered in particular that this new remedy was, a priori, accessible and capable of offering a reasonable prospect of redress for complaints concerning the length of proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0The Court further points out that, in its judgment in the case of \u00dcmm\u00fchan Kaplan (cited above, \u00a7 77), it stressed that it could nevertheless pursue the examination of such applications under the normal procedure in cases which had already been communicated to the Government prior to the entry into force of the new remedy. It further notes that, in the present case, the Government did not raise an objection in respect of the new domestic remedy. In view of the above, the Court decides to pursue the examination of the present complaint (see Rifat Demir v. Turkey, no. 24267/07, \u00a7\u00a7\u00a03436, 4\u00a0June 2013).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Government submitted that that the length of the proceedings could not be considered unreasonable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The applicant reiterated that the criminal proceedings against him had not been concluded within a reasonable time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court observes that the period to be taken into consideration began on 30 September 2003 at the latest, with the Istanbul State Security Court granting the public prosecutor\u2019s request for the seizure of copies of the book, and ended on 8 April 2011, when the Istanbul Assize Court decided to discontinue the proceedings against the applicant. It thus lasted for more than seven years and six months over two levels of jurisdiction. The Court notes that the case was not particularly complex. Furthermore, no delays can be imputed to the applicant. As to the conduct of the authorities, the Court observes that it took both the Istanbul Assize Court and the Beyo\u011flu Criminal Court months to rule on the jurisdiction issue. Besides, following the second judgment given by the first-instance court on 29\u00a0June 2007, the Court of Cassation\u2019s examination of the appeal lasted more than two years and seven months.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court has frequently found violations of Article\u00a06 \u00a7\u00a01 of the Convention in cases raising issues similar to the one in the present case. Having examined all the material submitted to it, the Court considers that the Government have not put forward any fact or argument capable of persuading it to reach a different conclusion in the present case. Having regard to its case-law on the subject, the Court considers that, in the instant case, the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement (Daneshpayeh v. Turkey, no. 21086/04, \u00a7\u00a028, 16\u00a0July 2009, and Yavuz and Yaylal\u0131 v. Turkey, no. 12606/11, \u00a7\u00a7\u00a062-67, 17\u00a0December 2013).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0There has accordingly been a breach of Article\u00a06\u00a0\u00a7\u00a01 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "48.\u00a0\u00a0The applicant complained under Article 13 of the Convention that there was no effective remedy under domestic law whereby he could have contested the length of the proceedings brought against him. Article\u00a013 reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "49.\u00a0\u00a0The Government contested that claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "51.\u00a0\u00a0The Government did not make any submissions under this head.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The applicant reiterated his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court has examined similar issues in previous applications and has found violations of Article 13 of the Convention in respect of the lack of an effective remedy under Turkish law whereby the applicants could have contested the length of the proceedings at issue (see Daneshpayeh, cited above, \u00a7\u00a7\u00a035-38; \u00dcmm\u00fchan Kaplan, cited above, \u00a7\u00a7 56-58; and G\u00fcrb\u00fcz and \u00d6z\u00e7elik v.\u00a0Turkey, no. 11/05, \u00a7\u00a7\u00a029 and 30, 2\u00a0February 2016). It finds no reason to depart from that conclusion in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court accordingly concludes that there has been a violation of Article\u00a013 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "55.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0The applicant claimed 35,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The Government contested that claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0The Court awards the applicant EUR 4,500 in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0The applicant also claimed 5,048 Turkish liras (TRY) (approximately EUR 2,177)) for costs and expenses incurred before the Court. In support of his claim, the applicant submitted a receipt showing that he had paid his representative EUR 1,837 for his representation before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Government contested that claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0In accordance with the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 1,000 covering costs for the proceedings before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits the Government\u2019s objection regarding the applicant\u2019s lack of victim status under Article 10 of the Convention and dismisses it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaint concerning the alleged breach of Article\u00a010 of the Convention on account of the criminal proceedings brought against the applicant, as well as the complaints under Article\u00a06 \u00a7\u00a01 and Article\u00a013 of the Convention, admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 10 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 24 April 2018, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Robert Spano",
+            "role": "president"
+        },
+        {
+            "name": "Paul Lemmens",
+            "role": "judges"
+        },
+        {
+            "name": "Ledi Bianku",
+            "role": "judges"
+        },
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "judges"
+        },
+        {
+            "name": "Valeriu Gri\u0163co",
+            "role": "judges"
+        },
+        {
+            "name": "Jon Fridrik Kj\u00f8lbro",
+            "role": "judges"
+        },
+        {
+            "name": "St\u00e9phanie Mourou-Vikstr\u00f6m",
+            "role": "judges"
+        },
+        {
+            "name": "Hasan Bak\u0131rc\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF FAT\u0130H TA\u015e v. TURKEY (No. 3)",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-182443.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:0424JUD004528108",
+    "externalsources": [],
+    "extractedappno": [
+        "45281/08",
+        "29680/05",
+        "29483/09",
+        "36475/10",
+        "16853/05",
+        "26682/95",
+        "26680/95",
+        "56925/08",
+        "39288/98",
+        "41959/02",
+        "23536/94",
+        "24408/94",
+        "33348/96",
+        "11976/03",
+        "24735/94",
+        "4119/02",
+        "38991/02",
+        "24240/07",
+        "4860/09",
+        "24267/07",
+        "21086/04",
+        "12606/11",
+        "11/05"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-182443",
+    "judgementdate": "24/04/2018 00:00:00",
+    "kpdate": "24/04/2018 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "406",
+        "149",
+        "148",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "13",
+        "10",
+        "10-1",
+        "6-1",
+        "6"
+    ],
+    "parties": [
+        "FAT\u0130H TA\u015e",
+        "TURKEY"
+    ],
+    "rank": "2360.87158203125",
+    "representedby": [
+        "AKMESE I.",
+        "POLAT Y."
+    ],
+    "respondent": "TUR",
+    "respondentOrderEng": "47",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "474315",
+    "typedescription": "15"
+}

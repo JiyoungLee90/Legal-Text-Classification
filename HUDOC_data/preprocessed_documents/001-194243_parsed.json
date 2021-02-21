@@ -1,0 +1,940 @@
+{
+    "__articles": "3;5;5-1;6;6-1;10;10-1;13;13+3",
+    "__conclusion": "No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect) (the Republic of Moldova);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect) (Russia);No violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention) (the Republic of Moldova);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention) (Russia);No violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Independent tribunal;Tribunal established by law) (the Republic of Moldova);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Independent tribunal;Tribunal established by law) (Russia);No violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression) (the Republic of Moldova);Violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression) (Russia);No violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment) (the Republic of Moldova);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment) (Russia)",
+    "applicability": "",
+    "appno": "48108/07",
+    "article": [
+        "13",
+        "3",
+        "10",
+        "5",
+        "6"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect",
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect",
+                "Russia"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention"
+            ],
+            "element": "No violation of Article 5 - Right to liberty and security",
+            "mentions": [
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "mentions": [
+                "Russia"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Independent tribunal",
+                "Tribunal established by law"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "mentions": [
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Independent tribunal",
+                "Tribunal established by law"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "mentions": [
+                "Russia"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom of expression"
+            ],
+            "element": "No violation of Article 10 - Freedom of expression-{general}",
+            "mentions": [
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom of expression"
+            ],
+            "element": "Violation of Article 10 - Freedom of expression-{general}",
+            "mentions": [
+                "Russia"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "No violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment",
+                "Inhuman treatment",
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "No violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment",
+                "Inhuman treatment",
+                "the Republic of Moldova"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment",
+                "Inhuman treatment",
+                "Russia"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment",
+                "Inhuman treatment",
+                "Russia"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-194243.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 48108/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Moldovan national, Mr Valentin Be\u0219leag\u0103 (\u201cthe applicant\u201d), on 1 November 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr A. Postic\u0103 a lawyer practising in Chisinau. The Moldovan Government (\u201cthe Government\u201d) were represented by their Agent at the time, Mr\u00a0L. Apostol. The Russian Government were represented by their Agent at the time, Mr G. Matyushkin, the Representative of the Russian Federation to the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 12 July 2010 notice of the application was given to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The Russian Government objected to the examination of the application by a Committee. After having considered the Russian Government\u2019s objection, the Court rejects it.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant, who was born in 1948, lives in Corjova, a village under the formal control of Moldovan authorities, but where agents of the selfproclaimed \u201cTransdniestrian Moldovan Republic\u201d (\u201cMRT\u201d, see Ila\u015fcu and Others v. Moldova and  [GC], no. 48787/99, \u00a7 90, ECHR\u00a02004VII for further details) frequently intervened during the events in question, notably by blocking the participation of the local population in elections held in Moldova.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 3 June 2007 local elections were to be held in , including in Corjova. The applicant, who is an ambulance driver, submitted his candidature for the position of Mayor of Corjova.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 1 June 2007, at 11 p.m., the applicant\u2019s ambulance was stopped by the \u201cMRT\u201d road militia and his documents (Moldovan national identity card and driving licence) were taken away from him without any explanation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 2 June 2007 the applicant went to the \u201cMRT\u201d militia station located in Dub\u0103sari and asked for the return of his documents. He was then arrested and placed in a detention cell. A few hours later a person came to his cell and, without presenting himself, asked him about his work and his electoral propaganda. The applicant later found out that the visitor had been a judge and that, following that discussion in the cell, the judge adopted a decision, finding him guilty of the administrative offence of unlawful electoral propaganda and sentencing him to 15 days\u2019 administrative detention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0The applicant submits that he was not allowed to contact his relatives or to find a lawyer, and was not issued with a copy of the court\u2019s decision, which prevented any possibility of lodging an effective appeal against the decision of 2 June 2007.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0During his detention the applicant was placed in a cell which, according to him was damp and cold. Food was given once a day. When the applicant\u2019s relatives, alerted by his absence, contacted the local authorities in order to find out about his fate, they were informed of the applicant\u2019s detention. However, their requests to transmit food to him were allegedly rejected.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 17 June 2007 the applicant was released from detention and he was issued with a copy of the decision of 2 June 2007. The time-limit for lodging an appeal had already expired by that time. Upon release, he was allegedly coughing and was diagnosed with chronic acute bronchitis. He also claims that his eyesight worsened considerably.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0In the meantime, on 6 June 2007, the applicant complained to the Moldovan prosecutor\u2019s office of his unlawful detention. Based on this complaint, a criminal investigation was initiated on 12 June 2007, the applicant and witnesses were subsequently heard. Three high-ranking \u201cMRT\u201d officers were charged and were declared wanted persons. However, on 4 August 2010 the investigation was suspended due to the fact that the three accused were hiding from it in the \u201cMRT\u201d.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "JURISDICTION",
+                        "elements": [
+                            {
+                                "content": "13.\u00a0\u00a0The Russian Government argued that the applicant did not come within their jurisdiction. Consequently, the application should be declared inadmissible ratione personae and ratione loci in respect of the Russian Federation. For their part, the Moldovan Government did not contest that the Republic of Moldova retained jurisdiction over the territory controlled by the \u201cMRT\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The Court notes that the parties in the present case have positions concerning the matter of jurisdiction which are similar to those expressed by the parties in Catan and Others v. the Republic of Moldova and Russia ([GC], nos. 43370/04, 8252/05 and 18454/06, \u00a7\u00a7 83-101, ECHR 2012 and in Mozer v. the Republic of Moldova and Russia [GC], no. 11138/10, \u00a7\u00a7 81-95, ECHR 2016. Namely, the applicant and the Moldovan Government submitted that both respondent Governments had jurisdiction, while the Russian Government submitted that they had no jurisdiction. The Russian Government expressed the view that the approach to the issue of jurisdiction taken by the Court in Ila\u015fcu and Others (cited above), Ivan\u0163oc and Others v.\u00a0Moldova and Russia (no. 23687/05, 15\u00a0November 2011), and Catan and Others (cited above) was wrong and at variance with public international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0The Court observes that the general principles concerning the issue of jurisdiction under Article 1 of the Convention in respect of acts undertaken and facts arising in the Transdniestrian region of Moldova were set out in Ila\u015fcu and Others (cited above, \u00a7\u00a7\u00a0311-19), Catan and Others (cited above, \u00a7\u00a7\u00a0103-07) and, more recently, Mozer (cited above, \u00a7\u00a7\u00a097-98).",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0In so far as the Republic of Moldova is concerned, the Court notes that in Ila\u015fcu, Catan and Mozer it found that although Moldova had no effective control over the Transdniestrian region, it followed from the fact that Moldova was the territorial State that persons within that territory fell within its jurisdiction. However, its obligation, under Article 1 of the Convention, to secure to everyone within its jurisdiction the rights and freedoms defined in the Convention, was limited to that of taking the diplomatic, economic, judicial and other measures that were both in its power and in accordance with international law (see Ila\u015fcu and Others, cited above, \u00a7 333; Catan and Others, cited above, \u00a7\u00a0109; and Mozer, cited above, \u00a7 100). Moldova\u2019s obligations under Article 1 of the Convention were found to be positive obligations (see Ila\u015fcu and Others, cited above, \u00a7\u00a7\u00a0322 and 330-31; Catan and Others, cited above, \u00a7\u00a7\u00a0109-10; and Mozer, cited above, \u00a7 99).",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0The Court sees no reason to distinguish the present case from the above-mentioned cases. Besides, it notes that the Moldovan Government do not object to applying a similar approach in the present case. Therefore, it finds that Moldova had jurisdiction for the purposes of Article\u00a01 of the Convention, but that its responsibility for the acts complained of is to be assessed in the light of the above-mentioned positive obligations (see Ila\u015fcu and Others, cited above, \u00a7 335).",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0In so far as the Russian Federation is concerned, the Court notes that in Ila\u0219cu and Others it has already found that the Russian Federation contributed both militarily and politically to the creation of a separatist regime in the region of Transdniestria in 1991-1992 (see Ila\u015fcu and Others, cited above, \u00a7 382). The Court also found in subsequent cases concerning the Transdniestrian region that up until at least July 2010, the \u201cMRT\u201d was only able to continue to exist, and to resist Moldovan and international efforts to resolve the conflict and bring democracy and the rule of law to the region, because of Russian military, economic and political support (see Ivan\u0163oc and Others, cited above, \u00a7\u00a7 116-20; Catan and Others, cited above, \u00a7\u00a7\u00a0121-22; and Mozer, cited above, \u00a7\u00a7 108 and 110). The Court concluded in Mozer that the \u201cMRT\u201d\u2018s high level of dependency on Russian support provided a strong indication that the Russian Federation continued to exercise effective control and a decisive influence over the Transdniestrian authorities and that, therefore, the applicant fell within that State\u2019s jurisdiction under Article 1 of the Convention (Mozer, cited above, \u00a7\u00a7\u00a011011).",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0The Court sees no grounds on which to distinguish the present case from Ila\u0219cu and Others, Ivan\u0163oc and Others, Catan and Others, and Mozer (all cited above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0It follows that the applicant in the present case fell within the jurisdiction of the Russian Federation under Article 1 of the Convention. Consequently, the Court dismisses the Russian Government\u2019s objections ratione personae and ratione loci.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0The Court will hereafter determine whether there has been any violation of the applicant\u2019s rights under the Convention such as to engage the responsibility of either respondent State (see Mozer, cited above, \u00a7 112).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "22.\u00a0\u00a0The applicant complained that he had been held in degrading conditions of detention. He relied on Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0The applicant described his conditions of detention during 15 days in the \u201cMRT\u201d, notably a damp and cold cell, with food provided once a day. The respondent Governments did not challenge this description, nor the applicant\u2019s allegation that his relatives\u2019 attempts to bring him food were unsuccessful (see paragraph 10 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The Moldovan Government stated that they could not verify the facts of the case and thus could not make any submissions in respect of the complaint under Article 3. The Russian Government argued that only the Republic of Moldova could be asked specific questions concerning the observance of the Convention rights on its territory, which included the \u201cMRT\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0The Court reiterates that Article 3 of the Convention enshrines one of the most fundamental values of democratic society. It prohibits in absolute terms torture or inhuman or degrading treatment or punishment, irrespective of the circumstances and the victim\u2019s behaviour (see, for example, Labita v. Italy [GC], no. 26772/95, \u00a7 119, ECHR 2000-IV). Illtreatment must, however, attain a minimum level of severity if it is to fall within the scope of Article 3. The assessment of this minimum is relative: it depends on all the circumstances of the case, such as the duration of the treatment, its physical and mental effects and, in some cases, the sex, age and state of health of the victim (see, among other authorities, Kud\u0142a v.\u00a0Poland [GC], no. 30210/96, \u00a7\u00a091, ECHR 2000XI; Enea v. Italy [GC], no.\u00a074912/01, \u00a7 55, ECHR 2009; and Bouyid v. Belgium [GC], no.\u00a023380/09, \u00a7\u00a086, ECHR\u00a02015, and Mozer, cited above, \u00a7 177).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The State must ensure that a person is detained in conditions which are compatible with respect for human dignity, that the manner and method of the execution of the measure of deprivation of liberty do not subject him to distress or hardship of an intensity exceeding the unavoidable level of suffering inherent in detention (see Kud\u0142a, cited above, \u00a7 94; Svinarenko and Slyadnev v. Russia [GC], nos. 32541/08 and 43441/08, \u00a7\u00a0116, ECHR\u00a02014 (extracts), Ananyev and Others v. Russia, nos. 42525/07 and 60800/08, \u00a7 141, 10 January 2012, and Mur\u0161i\u0107 v. Croatia [GC], no.\u00a07334/13, \u00a7 99, 20 October 2016).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0In the present case, the Court notes that the applicant made specific allegations concerning his conditions of detention (see paragraph 10 above). It also notes that none of the respondent Governments opposed this description. It finally observes that the conditions of detention prevailing in the various \u201cMRT\u201d prisons have already been found to be substandard (see, for instance, Mozer, cited above, \u00a7\u00a7 180 and 181; Eriomenco v. the Republic of Moldova and Russia, no. 42224/11, \u00a7 57, 9 May 2017; Apcov v. the Republic of Moldova and Russia, no. 13463/07, \u00a7 43, 30 May 2017; Draci v. the Republic of Moldova and Russia, no. 5349/02, \u00a7 58, 17 October 2017 and Braga v. the Republic of Moldova and Russia; no. 76957/01, \u00a7 37, 17\u00a0October 2017).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The court recalls in particular that clear insufficiency of food given to a detainee in itself raises an issue under Article 3 of the Convention (see Stepuleac v. Moldova, no. 8207/06, \u00a7 55, 6 November 2007 and Kadi\u0137is v.\u00a0Latvia (no. 2), no. 62393/00, \u00a7 55, 4 May 2006). In the present case, the applicant was given food once a day and denied access to food brought by his relatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On the basis of the material before it and in the absence of any material contradicting the applicant\u2019s submissions, the Court finds it established that the conditions of the applicant\u2019s detention amounted to inhuman and degrading treatment within the meaning of Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0There has accordingly been a violation of Article 3 of the Convention in respect of the applicant\u2019s conditions of detention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Responsibility of the respondent States",
+                                "elements": [
+                                    {
+                                        "content": "The Republic of Moldova",
+                                        "elements": [
+                                            {
+                                                "content": "32.\u00a0\u00a0The Court must next determine whether the Republic of Moldova fulfilled its positive obligations to take appropriate and sufficient measures to secure the applicant\u2019s rights under Article 3 of the Convention (see paragraph 16 above). In Mozer the Court held that Moldova\u2019s positive obligations related both to measures needed to re-establish its control over the Transdniestrian territory, as an expression of its jurisdiction, and to measures to ensure respect for individual applicants\u2019 rights (see Mozer, cited above, \u00a7 151).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0As regards the first aspect of Moldova\u2019s obligation, to re-establish control, the Court found in Mozer that, from the onset of the hostilities in 1991 and 1992 until July 2010, Moldova had taken all the measures in its power (Mozer, cited above, \u00a7 152). The events complained of in the present application happened before 2010. It therefore sees no reason to reach a different conclusion from that reached in Mozer (\u00a7 152).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0Turning to the second aspect of the positive obligations, namely to ensure respect for the applicant\u2019s individual rights, the Court found in Ila\u015fcu and Others (cited above, \u00a7\u00a7 348-52) that the Republic of Moldova had failed to fully comply with its positive obligations, to the extent that from May 2001 it had failed to take all the measures available to it in the course of negotiations with the \u201cMRT\u201d and Russian authorities to bring an end to the violation of the applicants\u2019 rights. In the present case, the applicant submitted that the Republic of Moldova had not discharged its positive obligations since various State authorities replied that they could not take action on the territory under the de facto control of the \u201cMRT\u201d. Moreover, unlike in Mozer, they failed to address international organisations and embassies in order to ask for assistance regarding the applicant. While a criminal investigation has been opened by the Moldovan authorities into the allegations made by the applicant of unlawful acts by the \u201cMRT\u201d authorities, it was suspended for lack of cooperation by the region\u2019s institutions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court considers that Moldovan authorities did not have any real means of improving the conditions of detention in the \u201cMRT\u201d prisons, nor could they secure the applicant\u2019s release or move him to another prison (see, a contrario, Pocasovschi and Mihaila v. the Republic of Moldova and Russia, no. 1089/09, \u00a7 46, 29 May 2018).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0In such circumstances, the Court cannot conclude that the Republic of Moldova failed to fulfil its positive obligations in respect of the applicant (see Mozer, cited above, \u00a7 154).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0There has therefore been no violation of Article 3 of the Convention by the Republic Moldova.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "The Russian Federation",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0In so far as the responsibility of the Russian Federation is concerned, the Court has established that Russia exercised effective control over the \u201cMRT\u201d during the period of the applicant\u2019s detention (see paragraphs 18-20 above). In the light of this conclusion, and in accordance with its case-law, it is not necessary to determine whether or not Russia exercises detailed control over the policies and actions of the subordinate local administration (see Mozer, cited above, \u00a7 157). By virtue of its continued military, economic and political support for the \u201cMRT\u201d, which could not otherwise survive, Russia\u2019s responsibility under the Convention is engaged as regards the violation of the applicant\u2019s rights (ibidem).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0In conclusion, and after having found that the applicant was held in inhuman conditions within the meaning of Article 3 of the Convention (see paragraph 31 above), the Court holds that there has been a violation of that provision by the Russian Federation.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLES 5 \u00a7 1 AND 6 \u00a7\u00a7 2 AND 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "40.\u00a0\u00a0The applicant complained of a violation of Article 5 \u00a7 1 of the Convention, owing to his detention on the basis of a decision by an \u201cMRT\u201d court, which had been unlawfully created. He also complained of violations of Article 6 \u00a7\u00a7 2 and 3 of the Convention. The Court notes that while describing the various violations of his rights, the applicant noted inter alia, that his case had not been examined by a judge authorised to adopt a lawful decision. The Court, being the master of characterisation to be given in law to the facts of the case, considers that the complaints under Article 6 \u00a7 2 and 3 are to be examined under Article 6 \u00a7 1 of the Convention. It thus finds that, read together, the complaints under Articles 5 and 6 concerned the lawfulness of the decision adopted by an \u201cMRT\u201d court convicting him to 15 days\u2019 detention. The respondent Governments were asked to comment in this respect and in his observations, the applicant argued that the \u201cMRT\u201d courts could not be considered lawfully established tribunals.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0The relevant parts of Articles 5 and 6 read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 5",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "42.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The applicant submitted that he had been detained and convicted by a decision adopted by a judge not authorised under Moldovan law to deprive him of his liberty. He also argued that he had not breached any Moldovan law concerning electoral propaganda and that his detention based solely on the fact of making such propaganda was contrary to Article 5 \u00a7 1. Moreover, he had been \u201ctried\u201d directly in a prison cell by a judge whose identity was unknown to him at the time and during a visit the purpose of which was also unknown, and without access to a lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Moldovan Government considered that there had been a breach of Article 5 \u00a7 1 in respect of the applicant, who was deprived of his liberty following a decision taken by an unlawfully created \u201cMRT\u201d court. It was not prepared to make any submissions in respect of the other complaints.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Russian Government did not make any specific submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court reiterates that it is well established in its case-law on Article 5 \u00a7 1 that any deprivation of liberty must not only be based on one of the exceptions listed in sub-paragraphs (a) to (f) but must also be \u201clawful\u201d. Where the \u201clawfulness\u201d of detention is in issue, including the question whether \u201ca procedure prescribed by law\u201d has been followed, the Convention refers essentially to national law and lays down the obligation to conform to the substantive and procedural rules of national law. This primarily requires any arrest or detention to have a legal basis in domestic law; it also relates to the quality of the law, requiring it to be compatible with the rule of law, a concept inherent in all the Articles of the Convention (see, for example, Del R\u00edo Prada v. Spain [GC], no. 42750/09, \u00a7\u00a0125, ECHR\u00a02013; and Mozer, cited above, \u00a7 134).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The Court recalls that in Mozer it held that the judicial system of the \u201cMRT\u201d was not a system reflecting a judicial tradition compatible with the Convention (see Mozer, cited above, \u00a7\u00a7 148-49). For that reason it held that the \u201cMRT\u201d courts and, by implication, any other \u201cMRT\u201d authority, could not order the applicant\u2019s \u201clawful\u201d arrest or detention, within the meaning of Article\u00a05 \u00a7\u00a01\u00a0of the Convention (see Mozer, cited above, \u00a7 150).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0In the absence of any new and pertinent information proving the contrary, the Court considers that the conclusion reached in Mozer is valid in the present case too. Moreover, in the light of the above findings in Mozer, the Court considers that not only could the \u201cMRT\u201d courts not order the applicant\u2019s lawful detention for the purposes of Article 5 \u00a7 1 of the Convention, but also, by implication, they could not qualify as an \u201cindependent tribunal established by law\u201d for the purposes of Article 6 \u00a7 1 of the Convention (see Vardanean v. The Republic of Moldova and Russia, no. 22200/10, \u00a7 39, 30 May 2017). The Court therefore considers that there has been a breach of both Articles 5 \u00a7 1 and 6 \u00a7 1 of the Convention in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court must next determine whether the Republic of Moldova fulfilled its positive obligation to take appropriate and sufficient measures to secure the applicant\u2019s rights. It notes that that the Moldovan authorities started, but could not properly finish the investigation into the allegation of unlawful detention due to the absence of cooperation by the \u201cMRT\u201d authorities (see paragraph 12 above). It also notes that the Moldovan Supreme Court of Justice has developed the practice of annulling convictions by \u201cMRT\u201d courts, where requested by the person concerned (see Mozer, cited above, \u00a7\u00a7 26 and 73). The Court finds, for the same reasons as those mentioned in paragraphs 33-36 above, that Moldova has not failed in fulfilling its positive obligations under Articles 5 \u00a7 1 and 6 \u00a7 1 of the Convention. There has accordingly been no breach of these provisions by the Republic of Moldova.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0As concerns the Russian Federation, for the same reasons as those mentioned in paragraph 38 above, the Court finds that Russia is responsible for the breach of Articles 5 \u00a7 1 and 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0In the light of the above findings, the Court considers that it is unnecessary to examine separately the applicant\u2019s complaints concerning specific breaches of Article 5 \u00a7\u00a7 2, 3 and 4, as well as Article 6 \u00a7\u00a7 2 and 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "52.\u00a0\u00a0The applicant complained of a violation of Article 10 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The applicant submitted that he had been detained solely because of expressing his political views before the local elections in Moldova. His electoral materials promoting his candidature to the position of a mayor of his village were seized in the process. He argued that he had not breached any Moldovan law, while the \u201claws\u201d adopted by the \u201cMRT\u201d authorities were not valid in the Republic of Moldova.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0None of the respondent Governments made any specific submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court considers that in promoting his candidature for the position of mayor of his village and displaying electoral material in public places the applicant undoubtedly exercised his freedom of expression as protected by Article 10 of the Convention. It also finds that by arresting him because of expressing his political views and seizing his electoral materials clearly interfered with the exercise of his freedom of expression. Such an interference will be in breach of Article 10 unless it is in accordance with the requirements of the second paragraph of that provision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The Court reiterates that the expression \u201cprescribed by law\u201d in the second paragraph of Article 10 not only requires that the impugned measure should have a legal basis in domestic law, but also refers to the quality of the law in question, which should be accessible to the person concerned and foreseeable as to its effects (see, for instance, Delfi AS v. Estonia [GC], no.\u00a064569/09, \u00a7 120, 16 June 2015). One of the requirements flowing from the expression \u201cprescribed by law\u201d is foreseeability. Thus, a norm cannot be regarded as a \u201claw\u201d within the meaning of Article 10 \u00a7 2 unless it is formulated with sufficient precision to enable the citizen to regulate his conduct; he must be able \u2013 if need be with appropriate advice \u2013 to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail. Those consequences need not be foreseeable with absolute certainty. Whilst certainty is desirable, it may bring in its train excessive rigidity, and the law must be able to keep pace with changing circumstances. Accordingly, many laws are inevitably couched in terms which, to a greater or lesser extent, are vague, and whose interpretation and application are questions of practice (see, for example, Lindon, Otchakovsky-Laurens and July v. France [GC], nos. 21279/02 and 36448/02, \u00a7 41, ECHR 2007IV, Centro Europa 7 S.r.l. and Di Stefano v.\u00a0Italy [GC], no. 38433/09, \u00a7 141, ECHR 201, and Delfi, cited above, \u00a7\u00a0121).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0In the present case, the Court notes that the applicant was on the territory of the Republic of Moldova and in a village under Moldovan control. It has not been disputed by any party that Moldovan law did not prohibit electoral propaganda before the election day. Therefore, the applicant\u2019s conviction based on \u201cMRT\u201d laws was not only unforeseeable to him, but also lacks any basis in Moldovan law. The Court thus concludes that the interference with the applicant\u2019s freedom of expression was not \u201cprescribed by law\u201d within the meaning of Article 10 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There has, accordingly, been a violation of that provision in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Court must next determine whether the Republic of Moldova fulfilled its positive obligation to take appropriate and sufficient measures to secure the applicant\u2019s rights. The Court finds, for the same reasons as those mentioned in paragraphs 33-36 above, that Moldova has not failed in fulfilling its positive obligations under Article 10 of the Convention. There has accordingly been no breach of these provisions by the Republic of Moldova.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0As concerns the Russian Federation, for the same reasons as those mentioned in paragraph 38 above, the Court finds that Russia is responsible for the breach of Article 10 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 2 OF PROTOCOL NO. 4 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "61.\u00a0\u00a0The applicant further complained of being limited in his freedom of movement owing to the seizure of his identity card. He relied on Article 2 of Protocol No. 4 to the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone shall be free to leave any country, including his own.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are in accordance with law and are necessary in a democratic society in the interests of national security or public safety, for the maintenance of ordre public, for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The rights set forth in paragraph 1 may also be subject, in particular areas, to restrictions imposed in accordance with law and justified by the public interest in a democratic society.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0None of the respondent Governments made any specific submissions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0The Court recalls that a measure by means of which an individual is denied the use of a document which, had he so wished, would have permitted him to leave the country, amounts to an interference within the meaning of Article 2 of Protocol No. 4 and must meet the requirements of paragraph 3 of that Article (see, for instance, Napijalo v. Croatia, no.\u00a066485/01, \u00a7 69, 13\u00a0November 2003 and Vlasov and Benyash v. Russia, nos. 51279/09 and 32098, \u00a7\u00a7 27-28, 20 September 2016).",
+                                "elements": []
+                            },
+                            {
+                                "content": "64.\u00a0\u00a0The Court must verify whether, in the particular circumstances of the present case, the seizure of the applicant\u2019s identity card resulted in his inability to freely move within the Republic of Moldova or to leave that country. It notes that the applicant was not deprived of his passport, but only the national identity card, which was not a document allowing international travel. Accordingly, he could freely leave the country using his passport. As for the possibility to circulate within the Republic of Moldova, there is no impediment for the free circulation of persons who do not possess national identity cards. Again, the applicant could identify himself with his passport should the need arise. Moreover, as is clear from the facts of the present case, the applicant could freely travel to the territory controlled by the \u201cMRT\u201d authorities without an identity card, since he was able to reach Dub\u0103sari, seeking the return of his identity card and driver\u2019s licence (see paragraph 8 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "65.\u00a0\u00a0In the light of the above, the Court concludes that there was no interference with the applicant\u2019s rights protected by Article 2 of Protocol No. 4 to the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "It follows that this complaint must therefore be declared inadmissible in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 3 OF PROTOCOL NO. 1 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "66.\u00a0\u00a0The applicant further complained that his right to vote and to stand for elections was breached by his arrest and detention. He relied on Article 3 of Protocol No. 1 to the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe High Contracting Parties undertake to hold free elections at reasonable intervals by secret ballot, under conditions which will ensure the free expression of the opinion of the people in the choice of the legislature.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "67.\u00a0\u00a0The respondent Governments did not make any submissions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "68.\u00a0\u00a0The Court recalls that Article 3 of Protocol No. 1 to the Convention applies only to elections of a \u201clegislature\u201d, or at least of one of its chambers if it has two or more (see, for instance, Sejdi\u0107 and Finci v. Bosnia and Herzegovina [GC], nos. 27996/06 and 34836/06, \u00a7 40, ECHR 2009). It notes that the applicant intended to participate in local elections (see paragraph 6 above). It therefore concludes that Article 3 of Protocol No. 1 to the Convention was not applicable ratione materiae to the elections at issue (see Yava\u015f v. Turkey, no. 16576/15, \u00a7\u00a7 20 and 21, 30 August 2016).",
+                                "elements": []
+                            },
+                            {
+                                "content": "It follows that this complaint must therefore be declared inadmissible in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "69.\u00a0\u00a0The applicant further complained that he had no effective remedies in respect of his complaints under Articles 3, 5, 6 and 10 of the Convention. He relied on Article 13 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0The Court notes that the complaint under Article 13 taken in conjunction with Articles 3, 5, 6 and 10, is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant submitted that he had had no means of asserting his rights in the face of the actions of the \u201cMRT\u201d authorities. In particular, none of the respondent Governments created an effective mechanism for protecting Convention rights from acts of the \u201cMRT\u201d authorities. The criminal prosecution initiated by the Moldovan prosecuting authorities was illusory in its scope and prospects of success.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Moldovan Government submitted that the applicant could lodge complaints with the Moldovan courts about the violations of his rights by the \u201cMRT\u201d authorities. However, justice could not be properly done due to the evident impossibility to enforce any judgments the courts may have adopted on the territory controlled by the \u201cMRT\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0The Russian Government made no specific submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The Court reiterates that the effect of Article 13 is to require the provision of a domestic remedy allowing the competent national authority both to deal with the substance of the relevant Convention complaint and to grant appropriate relief, although Contracting States are afforded some discretion as to the manner in which they comply with their obligations under that provision (see Chahal v. the United Kingdom, 15 November 1996, \u00a7 145, Reports 1996V). The remedy required by Article 13 must be \u201ceffective\u201d, both in practice and in law. However, such a remedy is required only for complaints that can be regarded as \u201carguable\u201d under the Convention (see De Souza Ribeiro v. France [GC], no. 22689/07, \u00a7 78, ECHR 2012, Centre for Legal Resources on behalf of Valentin C\u00e2mpeanu v.\u00a0Romania [GC], no. 47848/08, \u00a7 148, ECHR 2014, and Mozer, cited above, \u00a7 207).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0The Court observes that it found that the applicant\u2019s complaints under Articles 3, 5, 6 and 10 of the Convention were arguable. However, as regards the complaint under Article 5 \u00a7 1, the Court observes that Article 5 \u00a7 4, which the Court did not consider necessary to examine separately in the circumstances of the case (see paragraph 51 above), is the lex specialis in relation to Article 13.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0The applicant was therefore entitled to an effective domestic remedy within the meaning of Article 13 in respect of his complaints under Articles\u00a03, 6 and 10 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0The Court found in Mozer (cited above, \u00a7\u00a7 210-212) that no effective remedies existed in either the Republic of Moldova or the Russian Federation in respect of similar complaints under Articles 3 and 8 of the Convention. In the absence of any new pertinent information, it sees no reason for departing from that conclusion in the present case. Consequently, the Court must decide whether any violation of Article 13 can be attributed to either of the respondent States.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Responsibility of the respondent States",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The Court notes that in Mozer (cited above, \u00a7\u00a7 213-216) it found that Moldova had made procedures available to applicants commensurate with its limited ability to protect their rights. It had thus fulfilled its positive obligations and the Court found that there had been no violation of Article\u00a013 of the Convention by that State. In view of the similarity of the complaints made and of the coincidence of the time-frame of the events in the present case with those in Mozer, the Court sees no reasons to depart from that conclusion in the present cases. Accordingly, the Court finds that there has been no violation of Article 13 of the Convention by the Republic of Moldova.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0As in Mozer (cited above, \u00a7\u00a7 217-218), in the absence of any submission by the Russian Government as to any remedies available to the applicant, the Court concludes that there has been a violation by the Russian Federation of Article 13 taken in conjunction with Articles 3, 5 \u00a7 1, 6 \u00a7 1 and 10.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "80.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "81.\u00a0\u00a0The Court notes that it has not found a breach of any Convention provision by the Republic of Moldova. Accordingly, it will not make any award to be paid by this respondent State.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Damage",
+                                "elements": [
+                                    {
+                                        "content": "82.\u00a0\u00a0The applicant claimed 15,000 euros (EUR) in respect of non-pecuniary damage. He referred to the psychological and physical health problems that he had had as a result of his unlawful detention in the \u201cMRT\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0The Russian Government pointed to the applicant\u2019s failure to submit any evidence of his psychological or physical health problems. They considered that the claims were unsubstantiated, excessive and guided by political preferences.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0The Court considers that the applicant has suffered a certain level of stress following his unlawful conviction and detention in inhuman conditions. Having regard to the circumstances of the case and making its assessment on an equitable basis, the Court awards in respect of nonpecuniary damage EUR 9,750, to be paid by the Russian Federation.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "85.\u00a0\u00a0The applicant also claimed EUR 4,320 for the costs and expenses incurred before the Court. He relied on a contract with his lawyer and an itemised list of hours spent working on the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0The Russian Government submitted that the applicant did not need to be represented by three lawyers and that the sum claimed was excessive and unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0Regard being had to the documents in its possession and to its caselaw, the Court considers it reasonable to award the sum of EUR 1,500 covering costs under all heads for the proceedings before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Default interest",
+                                "elements": [
+                                    {
+                                        "content": "88.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the complaints under Article 3 of Protocol No. 1 to the Convention and Article 2 of Protocol No. 4 to the Convention inadmissible and the remainder of the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been no violation of Article 3 of the Convention by the Republic of Moldova;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 3 of the Convention by the Russian Federation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been no violation of Articles 5 \u00a7 1 and 6 \u00a7 1 of the Convention by the Republic of Moldova;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Articles 5 \u00a7 1 and 6 \u00a7 1 of the Convention by the Russian Federation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there is no need to examine separately the complaints under Article 5 \u00a7\u00a7 2, 3, 4 and Article 6 \u00a7\u00a7 2 and 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been no violation of Article 10 of the Convention by the Republic of Moldova;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 10 of the Convention by the Russian Federation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been no violation of Article 13 of the Convention by the Republic of Moldova;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 13 of the Convention by the Russian Federation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the Russian Federation is to pay the applicant, within three months the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 2 July 2019, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Julia Laffranque",
+            "role": "president"
+        },
+        {
+            "name": "Ivana Jeli\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Arnfinn B\u00e5rdsen",
+            "role": "judges"
+        },
+        {
+            "name": "Hasan Bak\u0131rc\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF BE\u015eLEAG\u0102 v. THE REPUBLIC OF MOLDOVA AND RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-194243.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2019:0702JUD004810807",
+    "externalsources": [],
+    "extractedappno": [
+        "48108/07",
+        "48787/99",
+        "43370/04",
+        "8252/05",
+        "18454/06",
+        "11138/10",
+        "23687/05",
+        "26772/95",
+        "30210/96",
+        "74912/01",
+        "23380/09",
+        "32541/08",
+        "43441/08",
+        "42525/07",
+        "60800/08",
+        "7334/13",
+        "42224/11",
+        "13463/07",
+        "5349/02",
+        "76957/01",
+        "8207/06",
+        "62393/00",
+        "1089/09",
+        "42750/09",
+        "22200/10",
+        "64569/09",
+        "21279/02",
+        "36448/02",
+        "38433/09",
+        "66485/01",
+        "51279/09",
+        "27996/06",
+        "34836/06",
+        "16576/15",
+        "22689/07",
+        "47848/08"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-194243",
+    "judgementdate": "02/07/2019 00:00:00",
+    "kpdate": "02/07/2019 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "193",
+        "448",
+        "220",
+        "445",
+        "76",
+        "181",
+        "495",
+        "149",
+        "148",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "26",
+    "paragraphs": [
+        "13",
+        "3",
+        "10",
+        "10-1",
+        "6-1",
+        "5-1",
+        "5",
+        "6"
+    ],
+    "parties": [
+        "BE\u015eLEAG\u0102",
+        "THE REPUBLIC OF MOLDOVA AND RUSSIA"
+    ],
+    "rank": "3566.34204101563",
+    "representedby": [
+        "POSTIC\u0102 A."
+    ],
+    "respondent": "MDA;RUS",
+    "respondentOrderEng": "29",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "489463",
+    "typedescription": "15"
+}

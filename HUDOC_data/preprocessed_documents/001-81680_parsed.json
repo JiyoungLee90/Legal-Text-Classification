@@ -1,0 +1,679 @@
+{
+    "__articles": "6;6+6-3-d;6-1;6-3-d;35;41",
+    "__conclusion": "Remainder inadmissible;Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-d - Examination of witnesses;Article 6 - Right to a fair trial);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "22508/02",
+    "article": [
+        "6",
+        "41",
+        "35"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Examination of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-81680.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 22508/02) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Finnish nationals, (\u201cthe applicants\u201d), on 7\u00a0June\u00a02002. The President of the Chamber decided, of his own motion, that the applicants' and their daughter's identity should not be disclosed (Rule\u00a047\u00a0\u00a7\u00a03 of the Rules of Court).",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants, the first of whom had been granted legal aid, were represented by Mr E. Kivitie, a lawyer practising in . The Finnish Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0Arto\u00a0Kosonen of the Ministry for Foreign Affairs.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The first applicant alleged, in particular, that the criminal proceedings had been excessive in length and that the rights of the defence in respect of witnesses, i.e. the child complainant, had not been respected.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 28 October 2005 the Court decided to give notice of the application to the Government. Under the provisions of Article 29 \u00a7 3 of the Convention, it decided to examine the merits of the application at the same time as its admissibility.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicants were born in 1953 and 1950 respectively.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Public care of D",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0F and M are the father and the mother of D, a girl born on 10\u00a0June\u00a01984. On 4 June 1991 she was admitted to the child psychiatric department of a hospital for a six-week period for observation. During the observation she mentioned that she had played \u201cfinger games\u201d with her father. According to the parents, D had referred to hobby crafts. It appears that the psychologist and the social welfare authorities interpreted this as sexual petting.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0D received treatment at the hospital from 5 August 1991 to 12\u00a0August\u00a01994, following which she went to live in a substitute family. The applicants were allegedly refused access to D during her hospitalisation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0Meanwhile, on 18 November 1991 the Social Welfare Board (sosiaalilautakunta, socialn\u00e4mnden) decided to place D in public care on account of a suspicion that she had been sexually abused. The applicants unsuccessfully challenged the public care decision in the administrative courts. It appears that the  rendered its decision in 1995.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0The social welfare officials allegedly told the applicants that the girl would return to live with them if they assumed responsibility for the situation and acknowledged the abuse. Although the applicant father was allegedly not guilty of any abuse, on 23 October 1991, he admitted the abuse to the social welfare officials and a psychiatrist in order to have D return home. He did not describe the nature of the abuse. On 7\u00a0May 1992 he withdrew his admission as he felt that he could not bear having this lie on his conscience for the rest of his life.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0In 1995 the applicants lodged an application with a view to having the public care terminated. In the course of those proceedings, on 21\u00a0March\u00a01995, the Social Welfare Board reported to the police the alleged sexual abuse committed in 1990-91. As to the fact that several years had passed since the initial suspicion had arisen, the Board explained that it had refrained from taking criminal action in order to afford the applicants an opportunity to seek therapy. If the therapy had proved successful, the public care could have been terminated and D could have returned to live with the applicants. The Board apparently considered that the applicants' therapy had proved unsuccessful.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Criminal proceedings",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The pre-trial investigation",
+                                        "elements": [
+                                            {
+                                                "content": "11.\u00a0\u00a0As noted above, the alleged sexual abuse was reported on 21\u00a0March\u00a01995. On 19 October 1995 the applicant father was questioned by the police. He denied any abuse. D, now aged 11, was not questioned during the pre-trial investigation. Nor was the father asked whether he wished to have questions put to the girl. The investigation was completed on 17\u00a0February 1997.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Pieks\u00e4m\u00e4ki District Court",
+                                        "elements": [
+                                            {
+                                                "content": "12.\u00a0\u00a0On 27 January 1998 the public prosecutor brought charges against the father for sexual abuse of a minor and for sexual intercourse with a descendant (lapseen kohdistuva haureus ja sukurutsa j\u00e4lkel\u00e4isen kanssa, otukt med barn och blodskam med avkomling).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0In its written submission of 5 June 1998 to the District Court (k\u00e4r\u00e4j\u00e4oikeus, tingsr\u00e4tten) the Social Welfare Board claimed compensation on behalf of D. It also submitted a written medical opinion by Dr S.V., a psychiatrist, according to which the hearing of D before the court would harm her development. It appears that Dr S.V. had not seen D since 1992 or 1993.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0On 26 August 1998 the applicant father was summoned to the District Court hearing. On 17 September 1998 he submitted his written submission, denying the charges. He criticised the Social Welfare Board for not having reported the alleged abuse sooner, given the fact that the report had been based on a suspicion which had first arisen in 1991. Further, he requested that D, now aged 14, be heard before the court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0At the hearing on 28 September 1998 he denied the charges and maintained that D should be heard either before the court or elsewhere. The court refused the request, considering that the hearing of the girl before the court would not be in her best interests having regard to the time that had passed since the alleged offences and the therapy that she had received. The court made reference to the above written medical opinion prepared by Dr\u00a0S.V.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0The court received oral evidence from the social welfare director L.K., the applicant mother, Dr S.V., E.V, a psychologist, Dr H-O.P., a psychiatrist, A.V., a social worker, D's substitute mother and D's teacher. E.V. gave evidence to the effect that she had heard about the events from D herself. D had said that her father had tickled her genital area and that she had tickled his penis which had risen following which he had urinated on her hand. She had also said that he had put his penis in her mouth and kept it there for a long time until he had urinated into her mouth. D had also lain on top of her father and his penis had been on her genital area. Dr H-O.P., L.K. and A.V. testified to having been present when the applicant father had admitted the alleged abuse. None of the witnesses had made any observations on the alleged acts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0The court noted that the evidence produced before it was based on D's statements to the medical personnel of the institution in which she had been treated, and on circumstances that had been observed during the observation. There was no forensic evidence as to the alleged abuse. On the other hand, there was the admission by the applicant father which had seemed authentic and true to the above witnesses. The court concluded that the statements of Dr S.V. and E.V. proved that the applicant father was guilty of the alleged offences. Having regard to the seriousness of the charges, his admission alone did not suffice to prove his guilt. However, it did not lack significance since according to A.V. and L.K. it had been made voluntarily without any pressure having been exercised on him; nor had he been misled.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0On 8 October 1998 the District Court convicted the applicant father as charged and sentenced him to a suspended term of one year and two months' imprisonment. He was ordered to pay compensation plus the legal costs of D's representation.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Eastern Finland Court of Appeal",
+                                        "elements": [
+                                            {
+                                                "content": "19.\u00a0\u00a0On 9 November 1998 the applicant father appealed, maintaining that D should be heard. He also requested that the National Authority for Medico-legal Affairs (terveydenhuollon oikeusturvakeskus, r\u00e4ttsskyddscentralen f\u00f6r h\u00e4lsov\u00e5rden) be invited to interview her.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0The Court of Appeal (hovioikeus, hovr\u00e4tten) refused the requests. It however held an oral hearing and received the same oral evidence as had been presented to the lower court. Dr S.V. now testified to having met D some weeks before the Court of Appeal hearing and to having asked her about the alleged abuse. D had replied that her father had not abused her sexually in any way. The Court of Appeal also received oral evidence from the applicant father.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0On 1 July 1999 the Court of Appeal amended the District Court's judgment in that it rejected the charge of sexual intercourse with a descendant. It upheld the rest of the lower court's judgment, endorsing its reasoning. It did not comment separately on the testimony of Dr S.V.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0The Supreme Court",
+                                        "elements": [
+                                            {
+                                                "content": "22.\u00a0\u00a0On 30 August 1999 the applicant father appealed further, maintaining that D should be heard in particular as she had denied the sexual abuse to Dr\u00a0S.V. some weeks before the Court of Appeal hearing. He repeated his request that the National Authority for Medico-legal Affairs be invited to interview the girl. He also submitted a letter from D in which she stated that nothing improper had taken place between her and her father.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0On 14 December 1999 the Supreme Court (korkein oikeus, h\u00f6gsta domstolen) granted leave to appeal insofar as the compensation claims were concerned and received the Social Welfare Board's reply to the appeal.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 2 May 2000 the Supreme Court invited an expert opinion from the National Authority for Medico-legal Affairs on, inter alia, whether D could be heard before the court. On 12 September 2000 the Authority received an expert statement running to 7 pages from its standing expert, Dr\u00a0E.R. It also invited an opinion by the psychiatrist who had treated D, Dr\u00a0S.V. It was received on 26 February 2001. As these opinions were partly contradictory in respect of the question whether D could be heard before the court, the Authority requested, on 5\u00a0March 2001, Dr E.R.'s comment on the opinion of Dr S.V. It was received on 28 March 2001. The Authority submitted its opinion to the Supreme Court on 4 April 2001 following which it was communicated to the parties for comment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 12 December 2001 the Supreme Court refused leave to appeal insofar as the criminal aspects of the case were concerned. As to the compensation claims, it quashed the lower courts' judgments and remitted the case to the District Court as the Social Welfare Board had lacked competence to represent D in the proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0Second examination of the compensation claims",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0On 14 December 2001 the case was restored to the District Court's case-list.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0On 16 September 2002 the court, having held an oral hearing at which it heard D, among others, ordered the applicant father to pay compensation to D in the amount of 20,182 euros plus interest from 4\u00a0August 1991.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0The applicant father and D appealed. On 24 August 2004 the Court of Appeal, having held a hearing, revoked the lower court's judgment and rejected the claims. In those proceedings D now aged 20 testified that she had never been sexually abused by her father. No one appealed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0Meanwhile, on 10 June 2002 when D reached the age of majority she moved back in with her parents.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The pre-trial investigation",
+                                "elements": [
+                                    {
+                                        "content": "30.\u00a0\u00a0The Decree on Criminal Investigations and Coercive Measures (asetus esitutkinnasta ja pakkokeinoista, f\u00f6rordning om f\u00f6runders\u00f6kning och tv\u00e5ngsmedel; Act no. 575/1988) provides that when questioned during a pre-trial investigation the child must be treated with due respect having regard to his or her age and level of development. Where possible, the interview should be carried out by a police officer acquainted with that task. If need be, a doctor or an expert must be consulted before the interview (section 11).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The Criminal Investigations Act (esitutkintalaki, f\u00f6runders\u00f6kningslagen; Act no. 449/1987) provides that questioning and other investigation measures requested by a party must be carried out, if that party shows that there is a possibility that these measures could have an effect on the case, provided that the expenses so incurred are not disproportionate to the nature of the case (section 12). The competence to decide on investigation measures requested by a party lies with the head of investigation during the pre-trial investigation and with the public prosecutor after the case has been transferred to him or her (section 15(3)). A pre-trial investigation has to be carried out in such a manner that no one is placed under suspicion without due cause and no one is unnecessarily subjected to harm or inconvenience. Nor must the rights of those concerned be infringed more than is necessary for the achievement of the purpose of the investigation (section 8).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The investigator may permit a party and his counsel to be present during the questioning of another party or witness, provided this does not hinder the investigation of the offence (section 32(1)). A party and his or her counsel may, with the permission of the investigator, put questions to the person being questioned in order to clear up the case. The investigator may decide that the questions are to be put through him or her. Also, the prosecutor may put questions to the person being questioned. A party and his or her counsel have the right to request the investigator to ask the person being questioned about matters necessary for the clearing up of the case at other times also (section 34).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0Before the closing of the criminal investigation, the parties must be afforded the opportunity to present to the criminal investigation authority their statement on the material gathered during the investigation, if this is conducive to hastening or facilitating the hearing of the case in court. The statement is to be appended to the investigation record (section 42).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The receipt of evidence in court",
+                                "elements": [
+                                    {
+                                        "content": "34.\u00a0\u00a0The Code of Judicial Procedure (oikeudenk\u00e4ymiskaari, r\u00e4tteg\u00e5ngsbalken) lays down the applicable rules on receiving testimony.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0A witness must give testimony orally before the court and must not refer to a written testimony. Oral evidence given during a pre-trial investigation may be read out when the witness in question is heard by the court only if he or she retracts in court an earlier statement or states that he or she is unable or unwilling to testify before the court (chapter 17, Article 32; Act no. 571/1948).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0If a person called as a witness is less than 15 years of age, is mentally ill or mentally retarded, or his or her mental capacities have otherwise been impaired, the court shall, taking into consideration the circumstances, assess whether or not he or she may be heard as a witness (Chapter 17, Article 21). Although the hearing of evidence from children falls within the court's discretion, there has been a long-standing practice not to hear evidence in court from children under the age of ten.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0At the time of the proceedings in question, there were no legal provisions concerning the use as evidence of a video recording of a statement given by a child during the pre-trial investigation. There was however a practice to admit such recordings as evidence.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Subsequent amendments",
+                                "elements": [
+                                    {
+                                        "content": "38.\u00a0\u00a0The Code of Judicial Procedure was amended with effect from 1\u00a0October 1997 to the following effect. A statement in a pre-trial investigation record or another document may as a rule not be admitted as evidence in court. The court may exceptionally admit as evidence such a statement, if the witness in question cannot be questioned before the court (chapter 17, Article 11; Act no. 690/1997).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0The Code of Judicial Procedure was again amended with effect from 1\u00a0October 2003 to the effect that the testimony of a person under 15 years of age, or a mentally disturbed person, recorded on audio or videotape during a pre-trial investigation may be used as evidence if the accused has been provided with an opportunity to have questions put to the person giving the testimony (chapter 17, Article 11(2); Act no. 360/2003). According to the explanatory report to the relevant Government Bill (no. 190/2002), this new provision places emphasis on both the idea that giving testimony before the court may be detrimental to inter alia a child and on the importance of respecting the rights of the defence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0Chapter 17, Article 21 (as amended by Act no. 360/2003) of the Code of Judicial Procedure reads with effect from 1 October 2003 as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) A person who has not attained the age of fifteen or whose mental capacities have been impaired, may be heard as a witness or for the purpose of obtaining evidence if the court finds it appropriate and:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i) if the hearing in person is of significant relevance for the establishment of the facts of the case; and",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii) the hearing is not likely to cause such suffering or other harm to the person to be heard as could be detrimental to the person concerned or his or her development.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) Where necessary, the court shall designate a support person for the person to be heard, pursuant to the provisions of chapter 2 of the Criminal Procedure Code (Act no.\u00a0689/1997).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3) The person to be heard shall be questioned by the court, unless the court finds particular reason to entrust the questioning to the parties in accordance with the provisions of section 33. The parties shall be provided with an opportunity to put questions to the person to be heard through the intermediary of the court or, if the court finds it appropriate, directly to the person concerned. Where necessary, the hearing may take place on premises other than the court room.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0In 2003, the Criminal Investigations Act was supplemented with a new section 39a (Act no. 645/2003) that entered into force on 1\u00a0January\u00a02004 and reads as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe questioning of a victim or a witness must be recorded on videotape, or by using other comparable audio-visual means of recording, if there is an intention to use the statement given in the interview as evidence in court proceedings, and where it is not possible to hear the victim or the witness in person, due to his or her young age or mental disturbance, without causing likely harm to him or her. The special requirements set by the level of maturity of the questioned person for the methods used, for the number of participating persons, and for other conditions, must be taken into account in the questioning. The person in charge of the criminal investigation may decide that authorities other than the investigators may, under the supervision of the investigator, put the questions to the person being interviewed. The suspect must be provided with an opportunity to put questions to the questioned person. On the request of the suspect, he or she may also put the questions through a legal counsel or other representative. However, the investigator may order that the questions be put through his or her intermediary.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "42.\u00a0\u00a0The applicant father complained that the criminal proceedings had been excessive in length and that D had not been heard at any stage of the proceedings. He also complained that the courts had allowed the Social Welfare Board to submit claims on behalf of D although it lacked the competence to do so and that the public prosecutor and the Social Welfare Board had only relied on witness evidence supporting the charges, thus violating the equality of arms principle. Moreover, in their submission of 10\u00a0October 2005 the applicants complained about the length of the compensation proceedings ending with the Court of Appeal judgment of 24\u00a0August 2004.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 reads insofar as relevant:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "43.\u00a0\u00a0The Government contested those arguments.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court notes that the complaints about the length of the criminal proceedings and the fact that D was not questioned during the proceedings are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The applicant father also complained that the courts had allowed the Social Welfare Board to submit claims on behalf of D although it lacked the competence to do so and that the public prosecutor and the Social Welfare Board had only relied on witness evidence supporting the charges, thus violating the equality of arms principle. Lastly, in their submission of 10\u00a0October 2005 both applicants complained about the length of the proceedings ending with the Court of Appeal judgment of 24 August 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0Insofar as the applicants complained about the length of the civil aspect of the proceedings, the Court finds that the applicant mother cannot claim to be a \u201cvictim\u201d within the meaning of Article 34 of the Convention and, moreover, as regards both applicants, that this complaint was introduced more than six months after the final domestic decision for the purposes of Article 35 \u00a7 1 of the Convention. It follows that this complaint must be rejected in accordance with Article 35\u00a0\u00a7\u00a7\u00a03 and 4 and Article\u00a035\u00a0\u00a7\u00a7\u00a01 and\u00a04 of the Convention respectively.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0As for the remaining complaints, the applicant father has not explained how the fact that the Social Welfare Board, in addition to the public prosecutor, lodged claims against him had violated his right to a fair trial. Nor has he specified what evidence, in addition to the testimony of D, should in his opinion have been produced before the courts. Accordingly, this part of the application is manifestly ill-founded for lack of substantiation and must be rejected pursuant to Article 35 \u00a7\u00a7 3 and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits of the length complaint",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The period to be taken into consideration began on 19 October 1995 when the applicant father was questioned by the police and ended on 12\u00a0December 2001 when the Supreme Court refused leave to appeal in the criminal case. It thus lasted almost six years and two months for three levels of jurisdiction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicants and the relevant authorities and what was at stake for the applicants in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The Government argued that the criminal proceedings had been more complex than the average case. The fact that there had been parallel administrative proceedings concerning the care order had to some extent prolonged the pre-trial investigation. Also the fact that the applicant father had requested an expert opinion had prolonged the proceedings by eleven months. There had been no periods of unnecessary inactivity attributable to the courts or other authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The applicant father contested the Government's contention that there had been public care proceedings running parallel to the pre-trial investigation. Furthermore, the length of the proceedings could not be explained in terms of the factual complexity of the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court has frequently found violations of Article 6 \u00a7 1 of the Convention in cases raising issues similar to the one in the present case (see Frydlender, cited above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0Having examined all the material submitted to it, the Court considers that the Government have not put forward any fact or argument capable of persuading it to reach a different conclusion in the present case. Having regard to its case-law on the subject, the Court considers that in the instant case the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There has accordingly been a breach of Article 6 \u00a7 1.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Merits of the complaint concerning the rights of the defence",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The Government argued that D had the right pursuant to the Code of Judicial Procedure not to testify against her father. She had neurological problems and in her mental development she was below normal. The experts consulted during the investigation and the trial proceedings considered that D could not be heard in person because she had not reached the normal level of development and that hearing her would have jeopardized her treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The applicant father considered that the Government's submission that D could have refused to testify against her father was shocking in that she had tried to use all the resources at her command to convince the authorities that no act of incest had ever occurred. Her testimony would have prevented the trial and the immeasurable distress and suffering caused to the whole family.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court reiterates that all the evidence must normally be produced at a public hearing, in the presence of the accused, with a view to adversarial argument. However, the use in evidence of statements obtained at the stage of the police inquiry and the judicial investigation is not in itself inconsistent with paragraphs 1 and 3 (d) of Article 6, provided that the rights of the defence have been respected. As a rule, these rights require that the defendant be given an adequate and proper opportunity to challenge and question a witness against him or her either when the statements were made or at a later stage of the proceedings (see Sa\u00efdi v. France, judgment of 20\u00a0September 1993, Series A no. 261-C, p. 56, \u00a7 43, and A.M. v. Italy, no. 37019/97, \u00a7 25, ECHR 1999-IX). A conviction should not be based either solely or to a decisive extent on statements which the defence has not been able to challenge (see, mutatis mutandis, Doorson v. the Netherlands, judgment of 26 March 1996, Reports of Judgments and Decisions 1996II, p. 472, \u00a7 76). Article 6 does not grant the accused an unlimited right to secure the appearance of witnesses in court. It is normally for the national courts to decide whether it is necessary or advisable to hear a witness (see, among other authorities, Bricmont v.\u00a0Belgium, judgment of 7 July 1989, Series A no. 158, p. 31, \u00a7 89).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0The child complainant in this case should for the purposes of Article\u00a06 \u00a7 3 (d) be regarded as a \u201cwitness\u201d, a term to be given an autonomous interpretation (see Asch v. Austria, judgment of 26 April 1991, Series\u00a0A no.\u00a0203, p. 10, \u00a7 25), because her statements, as given to a psychologist in 1991, were used in evidence against the applicant father.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0Criminal proceedings concerning sexual offences are often conceived of as an ordeal by the victim, in particular when the latter is unwillingly confronted with the defendant. These features are even more prominent in a case involving a minor. In the assessment of the question whether or not in such proceedings an accused received a fair trial, account must be taken of the right to respect for the private life of the alleged victim. Therefore, the Court accepts that in criminal proceedings concerning sexual abuse certain measures may be taken for the purpose of protecting the victim, provided that such measures can be reconciled with an adequate and effective exercise of the rights of the defence (see Baegen v. the Netherlands, judgment of 27 October 1995, Series A no. 327-B, opinion of the Commission, p. 44, \u00a7 77). In securing the rights of the defence, the judicial authorities may be required to take measures which counterbalance the handicaps under which the defence labours (see Doorson, cited above, p.\u00a0471, \u00a7 72, and P.S. v. Germany, no. 33900/96, \u00a7 23, 20 December 2001).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Court observes that the applicant was never given an opportunity to have questions put to the girl during the pre-trial investigation. In fact, she was never questioned at all in the course of the investigation. As to the proceedings in the District Court and the Court of Appeal, it should be noted that the applicant requested her attendance but his requests were turned down.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The child's statements given to the psychologist E.V. in 1991 constituted the only evidence implicating the father. Not a single interview between the psychologist and the girl had been recorded on audio or video tape. It is surprising that the prosecution never made arrangements to have a fresh interview recorded so as to allow the court to observe the manner in which D reacted to the questions put to her or interacted generally with the psychologist during the interview. The psychologist repeated before the court what D had said to her under observation (see paragraph 16 above). The psychologist's statement was highly incriminating. As to the fact that the applicant father had admitted the alleged abuse, the Court observes that the admission, which was unspecific in nature, had been made four years before the criminal investigation had been opened into the case and in connection with public care proceedings. It was later retracted and during the pre-trial investigation and the criminal proceedings he had explained the circumstances in which it had been made (see paragraph 9 above). The witnesses heard by the courts had made no observations on the alleged acts (see paragraph 16 above). In contrast to the case of S.N. v. Sweden (no.\u00a034209/96, ECHR\u00a02002V) in the present case neither the applicant father nor his counsel had at any stage been afforded an opportunity to have questions put to the child. An examination of the case file does not disclose any particular circumstances which would have prevented this. It is to be observed in this connection that at the time of the pre-trial investigation D had been 11 years old and at the time of the District Court hearing 14 years old.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0In these circumstances, the applicant father's inability to question or to have questions put to her involved such limitations on the rights of the defence that he cannot be said to have received a fair trial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Therefore there has been a violation of Article\u00a06 \u00a7 1 taken together with Article 6 \u00a7 3 (d).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "62.\u00a0\u00a0The applicants further complained that their right to respect for their family life had been violated in that they had been prohibited from visiting D during her hospitalisation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 8 of the Convention:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "63.\u00a0\u00a0The Court observes that D was hospitalised from 1991 to 1994. The applicants have not shown that they took proceedings against the restriction of access order or, if they had, that they lodged their application with the Court within a period of six months from the date on which the final decision was taken. It follows that this complaint must be rejected under Article\u00a035 \u00a7\u00a7\u00a01 and\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "64.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicants claimed 350,000 euros (EUR) as compensation for pain and suffering.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government considered the claim exorbitant as to quantum.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The Court accepts that the length of the criminal proceedings and the impossibility for the applicant father to have questions put to the girl caused him non-pecuniary damage, which cannot be made good by the mere finding of a violation. The Court, making its assessment on an equitable basis, awards the applicant father EUR 4,500 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "68.\u00a0\u00a0The applicant father claimed EUR 10,246 for costs and expenses incurred. The legal aid granted by the Council of Europe (EUR 850) had not been deducted in calculating the claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The Government left it to the Court's discretion whether sufficient detailed information to support the claims had been submitted, as was normally required by the Court. The total amount of compensation for costs and expenses should not exceed EUR 5,000 (inclusive of value-added tax).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The Court reiterates that an award under this head may be made only in so far as the costs and expenses were actually and necessarily incurred in order to avoid, or obtain redress for, the violation found (see, among other authorities, Hertel v. Switzerland, judgment of 25 August 1998, Reports\u00a01998-VI, p. 2334, \u00a7 63).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court finds that the claims have been fully substantiated only as far as the fees and expenses amounting to EUR 4,083.80 (inclusive of value-added tax) are concerned. As to the rest of the claims, no documentation as required by Rule 60 of the Rules of Court has been submitted. These claims must therefore be rejected. The Court also notes that part of the applicant father's complaints has been declared inadmissible. Taking into account the legal aid granted by the Council of Europe and all the circumstances, the Court awards the applicant father\u00a0EUR 2,150 (inclusive of value-added tax).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints concerning the length of the criminal proceedings and the applicant father's inability to question the complainant or to have questions put to her admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the length of the criminal proceedings;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention taken together with Article 6 \u00a7 3(d) of the Convention on account of the applicant father's inability to question the complainant or to have questions put to her;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant father, within three months from the date on which the judgment becomes final according to Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the claims for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 17 July 2007, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "SirNicolas Bratza",
+            "role": "president"
+        },
+        {
+            "name": "MrJ. Casadevall",
+            "role": "judges"
+        },
+        {
+            "name": "MrS. Pavlovschi",
+            "role": "judges"
+        },
+        {
+            "name": "MrL. Garlicki",
+            "role": "judges"
+        },
+        {
+            "name": "MsL. Mijovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrJ. \u0160ikuta",
+            "role": "judges"
+        },
+        {
+            "name": "MrsP. Hirvel\u00e4",
+            "role": "judges"
+        },
+        {
+            "name": "Mr T.L. Early",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF F AND M v. FINLAND",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-81680.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2007:0717JUD002250802",
+    "externalsources": [],
+    "extractedappno": [
+        "22508/02",
+        "30979/96",
+        "37019/97",
+        "33900/96",
+        "34209/96"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-81680",
+    "judgementdate": "17/07/2007 00:00:00",
+    "kpdate": "17/07/2007 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "406",
+        "122",
+        "14",
+        "216",
+        "577",
+        "283"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "7",
+    "paragraphs": [
+        "6-3-d",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "F AND M",
+        "FINLAND"
+    ],
+    "rank": "591.052734375",
+    "representedby": [
+        "KIVITIE E."
+    ],
+    "respondent": "FIN",
+    "respondentOrderEng": "15",
+    "scl": [
+        "A.M. v. Italy, no. 37019/97, \u00a7 25, ECHR 1999-IX",
+        "\nAsch v. Austria, judgment of 26 April 1991, Series A no. 203, p. 10, \u00a7 25",
+        "\nBaegen v. the Netherlands, judgment of 27 October 1995, Series A no. 327-B, opinion of the Commission, p. 44, \u00a7 77",
+        "\nBricmont v. Belgium, judgment of 7 July 1989, Series A no. 158, p. 31, \u00a7 89",
+        "\nDoorson v. the Netherlands, judgment of 26 March 1996, Reports of Judgments and Decisions 1996 II, p. 472, \u00a7 76",
+        "\nP.S. v. Germany, no. 33900/96, \u00a7 23, 20 December 2001",
+        "\nS.N. v. Sweden (no. 34209/96, ECHR 2002 V",
+        "\nSa\u00efdi v. France, judgment of 20 September 1993, Series A no. 261-C, p. 56, \u00a7 43",
+        "\n"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "438058",
+    "typedescription": "15"
+}

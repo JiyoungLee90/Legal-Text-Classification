@@ -1,0 +1,1195 @@
+{
+    "__articles": "6;6-1;8;8-1;14;14+6-1",
+    "__conclusion": "No violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for family life);No violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Access to court);No violation of Article 14+6-1 - Prohibition of discrimination (Article 14 - Discrimination) (Article 6 - Right to a fair trial;Civil proceedings;Article 6-1 - Access to court)",
+    "applicability": "",
+    "appno": "7233/04",
+    "article": [
+        "6",
+        "8",
+        "14"
+    ],
+    "conclusion": [
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8 - Positive obligations",
+                "Article 8-1 - Respect for family life"
+            ],
+            "element": "No violation of Article 8 - Right to respect for private and family life",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "type": "no-violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+6-1 - Prohibition of discrimination",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+6-1 - Prohibition of discrimination",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Access to court"
+            ],
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-126538.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 7233/04) against the Republic of Slovenia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Slovenian national, Mr Leon Gobec (\u201cthe applicant\u201d), on 29 January 2004.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr B. Verstov\u0161ek, a lawyer practising in Celje. The Slovenian Government (\u201cthe Government\u201d) were represented by their Agent, Mrs A. Vran, State Attorney.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that his right to contact with his daughter had been excessively restricted, that the contact schedule had not been properly enforced and that he had been denied access to court, as his contact rights had been determined by social work centres.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 12 April 2011 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Civil proceedings concerning divorce, child custody and maintenance",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicant was married to J.G. and on 13 September 1991 their daughter S. was born. On 22 August 2001 J.G. instituted divorce proceedings against the applicant in the Maribor District Court and sought full custody of their daughter and an interim order awarding her custody pending the outcome of the main proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 3 January 2002 the applicant brought a counterclaim seeking custody of S. and child maintenance. He also requested that an interim order be adopted granting him contact rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On 27 March 2002, having obtained two reports on the family situation prepared by the Maribor Social Work Centre and conducted two hearings, the court issued an interim decision by which J.G. was provisionally granted custody pending the outcome of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 21 May 2002 the court rendered a judgment granting the divorce. J.G. was awarded full custody of S. and the applicant was ordered to pay child maintenance. The court took into consideration, inter alia, the wishes of S., who was ten years old at the time, to continue living with her mother but remain in contact with the applicant. As the applicant and J.G. had meanwhile come to an agreement concerning contact rights (see paragraph\u00a026 below), the court refused to make a decision in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 20 July 2002 the applicant appealed to the Maribor Higher Court against the part of the judgment concerning child custody and the refusal to make an order in respect of his contact rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 25 February 2003 the Maribor Higher Court informed the applicant that the first-instance court had been asked to issue a supplementary judgment concerning his counterclaim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 12 March 2003 the Maribor District Court issued a supplementary judgment and dismissed the applicant\u2019s counterclaim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 8 April 2003 the applicant appealed against the supplementary judgment and sought an interim order granting him provisional custody in respect of S. on the basis that J.G. had allegedly been preventing him from having contact with S. since 23\u00a0March 2002.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 12 June 2003 the Maribor District Court rejected the application for an interim order. In its decision it referred to S.\u2019s written statement expressing her wish to stay living with her mother. As to the contact schedule, it further recalled that contact had been arranged by an enforceable agreement of 29 January 2002 and noted that the applicant could apply for enforcement of the said agreement if J.G. had prevented him from seeing the child.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 18 July 2003 the applicant lodged an objection against the decision of 12 June 2003, alleging that the court had failed to sufficiently establish the facts of the case and had neglected the best interests of the child.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 24 September 2003 the Maribor Higher Court upheld the applicant\u2019s appeal in part as regards child maintenance for the period from August 2001 to May 2002, the amount of which had been set in the decision of 21 May 2002, and remitted the case for re-examination. It dismissed the remainder of the applicant\u2019s appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 22 December 2003 the applicant lodged an appeal on points of law before the Supreme Court, which was rejected on 4\u00a0November 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0Meanwhile, on 3 June 2004, the applicant sought the reopening of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 15 July 2004, the applicant lodged a constitutional appeal, which was dismissed by the Constitutional Court on 11 May 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 18 July 2005 the Maribor District Court dismissed the applicant\u2019s request for the reopening of the proceedings. The applicant\u2019s appeal against this decision was dismissed by the Maribor Higher Court on 26 January 2006.\u00a0Subsequently, on 2 March 2006, the applicant lodged a request with the General Public Prosecutor\u2019s Office, asking it to make an extraordinary appeal (request for protection of legality).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 21 July 2006, he lodged a motion to change the venue and, in the alternative, sought the withdrawal of the presiding judge. Both of these motions were dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 27 March 2007 the applicant lodged a supervisory appeal. On 4\u00a0April 2007 he was informed that a hearing had been scheduled in his case for 9 May 2007. At this hearing, J.G. withdrew the contested part of her claim for child maintenance and consequently, on 15 May 2007, the court concluded the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0In the course of the proceedings, the applicant made altogether five motions for withdrawal of the judges presiding in his case, one of which was upheld.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The contact schedule established in the administrative proceedings and non-contentious civil proceedings",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Initial agreement on contact of 29 January 2002",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0On 27 July 2001 the applicant went to a police station to report the kidnapping of S. The police referred him to the Maribor Social Work Centre, where he reported that his daughter had been taken by J.G. from the summer camp and that they had not returned home. The applicant also contacted the media and announced that S. had been kidnapped and taken abroad. On 8 August the Social Work Centre received a letter from J.G. informing them that she and S. had moved to a safe house.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 23 August 2001 a social worker assigned to the case conducted an interview with S., who was upset that her picture had been published in a magazine. On 30 August another interview was conducted with S., who was still anxious about the situation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 5 September 2001 the applicant lodged an application with the Maribor Social Work Centre, seeking a formal decision setting up a contact schedule and the disqualification from the proceedings of the social worker assigned to the case. He sought contact with S. every Tuesday afternoon and every other weekend.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0Following a mediation process, on 29 January 2002 the applicant and J.G. reached an agreement on contact rights at the Maribor Social Work Centre. Contact between the applicant and S. would be allowed every Friday after school until seven o\u2019clock in the evening and every other weekend.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0On 23 March 2002 the applicant and S. had an argument, after which she left before the arranged time and subsequently refused to have contact with the applicant for the following two months.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On 22 May 2002 the applicant requested the enforcement of the contact agreement. On 18 August 2002 his request was rejected by the Maribor Administrative Unit on the grounds that the agreement did not include an enforcement clause and that it failed to specify certain details concerning the time of contact. In any event, the conditions for enforcement were not met, as the applicant had failed to comply with the dates and place of contact specified in the agreement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On an unspecified date the applicant again requested the enforcement of the contact agreement for non-compliance on 5 April 2002. The request was dismissed on 30 September 2002, as the applicant had failed to meet S. in front of her school, as specified in the agreement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0On 4 October 2002 the applicant once again requested the enforcement of the contact agreement for non-compliance on 19 April 2002. On 4 March 2003 the request was upheld and J.G. was ordered to comply with the terms of the agreement, subject to a fine of 15,000 Slovenian tolars\u00a0(SIT) (approximately 62.6 euros (EUR)).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0At some point between June and August 2002, contact between the applicant and S. was resumed, although not in accordance with the terms of the contact agreement.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0J.G.\u2019s request for a revised contact schedule and the order of 15\u00a0November 2002",
+                                        "elements": [
+                                            {
+                                                "content": "32.\u00a0\u00a0Meanwhile, on 19 June 2002, J.G. lodged a request for a new contact schedule with the Maribor Social Work Centre. She submitted that contact had been ceased at the request of S. due to the applicant\u2019s unkind and abusive behaviour. J.G. also explained that S. was regularly visiting an outpatient child psychiatric clinic, where several interviews had also been conducted with herself and the applicant. On 28 June 2002 the Maribor Social Work Centre received a report from the outpatient clinic, from which it emerged that S. was distrustful of the applicant, while he was as yet unable to approach his daughter in a constructive manner. It was recommended that contact be resumed in a less defined manner and that S.\u2019s wishes be taken into account in order for her to rebuild trust in her father.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 12 August 2002 an interview was conducted with S. and J.G., in which S. declared that she wished to maintain contact with the applicant, but resented his lack of affection, criticism, hostility to J.G., against whom he had also lodged a number of criminal complaints, and his inflexible approach to contact. She agreed to have contact with the applicant once a month and J.G. agreed with her suggestion. The applicant was willing to accept a less defined approach in order for contact to resume on a regular basis.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0Subsequently, an expert panel was appointed by the Maribor Social Work Centre, which on 16 September 2002 recommended that S.\u2019s suggestions should be taken into consideration and possibly, subsequently, developed into more frequent schedule.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0After having conducted an oral hearing on 25 October 2002, on 15\u00a0November 2002 the Maribor Social Work Centre issued an order granting the applicant one four-hour contact session every month, which would take place on Wednesdays and would be shortened if S. had choir practice on that day. The Centre, relying on the opinions of S.\u2019s therapist and the expert panel, also took into consideration S.\u2019s negative attitude towards contact with the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 27 November 2002 the applicant appealed against the decision to the Ministry of Labour, Family and Social Affairs (hereinafter \u201cthe Ministry\u201d).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0On 17 February 2003 the applicant lodged a request with the Maribor Social Work Centre for a revised contact schedule, as he had not yet received a response to the appeal of 27\u00a0November\u00a02002. He also sought to have the decision of 15 November 2002 enforced, alleging that J.G. had failed to comply with it. The request for a revised contact schedule was rejected on 24 March 2003. The applicant appealed to the Ministry.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0In addition, on 30 July 2003 the applicant lodged a further request with the Maribor Social Work Centre, seeking a change in the contact schedule due to changes in his and S.\u2019s availability. The request was rejected on 11 August 2003.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0On 11 July 2003 the Ministry dismissed the applicant\u2019s appeals against the decisions of the Maribor Social Work Centre of 15\u00a0November\u00a02002 and 24 March 2003. The Ministry considered that the decision of 15\u00a0November\u00a02002, which had taken into consideration the sound wishes of S., who had shown herself to be capable of understanding the implications of her opinions, had been correct. The appeal against the decision of 24 March 2003 was dismissed because the applicant had lodged a new request while his first appeal had been pending.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0Meanwhile, on 6 February 2003, the applicant brought an administrative action before the Administrative Court, complaining that his appeal against the decision of 15 November 2002 had not been decided within the prescribed sixty-day time-limit. Subsequently, on 6 August 2003, he amended his complaint and sought to have the decision of the Ministry, which he considered flawed and unlawful, set aside and the case remitted for fresh consideration.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0On 16 March 2004 the Administrative Court dismissed the applicant\u2019s claim, considering that the complaint regarding the failure to comply with the prescribed time limit was devoid of purpose, as the decision had already been adopted. As regards the substantive errors alleged by the applicant, the court upheld the decision of the administrative authorities. It noted that a child\u2019s negative attitude to parental contact could not constitute a decisive element in establishing a contact schedule, but pointed out that pursuant to the European Convention on the Exercise of Children\u2019s Rights, children having sufficient understanding had to be informed of and consulted in proceedings affecting them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The applicant\u2019s subsequent appeal against the judgment of the Administrative Court was dismissed by the Supreme Court on 13 January 2005. He also brought a constitutional appeal, which was dismissed on 21\u00a0April 2005. The Constitutional Court held that the challenged decisions had primarily been motivated by the best interests of the child.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0In the meantime, between 11 July 2003 and 10 November 2004, the Maribor Administrative Unit, upon the applicant\u2019s request, ordered the enforcement of the decision of the Maribor Social Work Centre of 15\u00a0November 2002 on four occasions. In its first order of 11 July 2003 issued with regard to the contact session missed on 1 January 2003, the Maribor Administrative Unit also warned J.G. that in the event of further non-compliance with the terms of the contact schedule she would be fined. Pursuant to the first of the subsequent three orders issued on 24 August 2003 (with regard to the session missed on 7 July 2004) J.G. was fined SIT\u00a015,000 (approximately EUR 62.6), and pursuant to each of the next two issued on 7 September 2004 and 10 November 2004, respectively (with regard to the sessions missed on 4 August 2004 and 1 September 2004), SIT\u00a016,000 (approximately EUR 66.8).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The applicant\u2019s request for a revised contact schedule",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Proceedings conducted by the Maribor Social Work Centre",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0On 15 September 2003 the applicant lodged another request with the Maribor Social Work Centre, seeking a change to the contact schedule. He sought more frequent contact with S. and the modification of the decision of 15 November 2002 so as to allow contact on a day other than Wednesday.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0On 23 October 2003 S. was interviewed and expressed a negative attitude towards contact with the applicant. S., J.G. and the applicant were also interviewed by the expert panel appointed by the Maribor Social Work Centre. Despite an explanation being given that parental contact was to her benefit, S. insisted that it was the last time she would abide by any schedule concerning her father\u2019s contact rights. The expert panel, observing that contact with both parents, in so far as possible, was in the best interests of the child, proposed that visits lasting two hours be resumed twice a month, with a competent professional supervising visits in the first three months. Later on, visits could take place once a week.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0At the request of the official in charge of the hearing, S. was also interviewed by a psychologist, who in her report supported the idea that the initial contact sessions be supervised by a competent professional, but suggested that contact should subsequently continue on a voluntary basis and that it should depend on the quality of the relationship between father and daughter, which would be assessed during the supervised contact sessions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0Following the psychological assessment, which was submitted on 15\u00a0March 2004, a hearing was scheduled for 6 April 2004, but was later adjourned until 22 April 2004 at the request of J.G. Subsequently, the hearing was cancelled due to the case being transferred to the Celje Social Work Centre (see paragraphs 50-52 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0The two contact sessions between the applicant and S. that took place in April and May 2004 generated more conflict, and on 5 May they came to the Maribor Social Work Centre to inform the social workers that their contact session that day would be interrupted, as S. wanted to go home. In July 2004, S. refused to have contact with the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0Alongside the administrative proceedings, over the period from April 2003 to January 2004 the applicant, J.G. and S. were engaged in counselling at the Maribor Social Work Centre. The applicant, complaining about S.\u2019s negative attitude to him, urged the Social Work Centre to set up regular contact between himself and his daughter and to engage the latter in some form of counselling. As the involvement of a psychologist in the counselling process did not result in any improvement in their relationship, it was later suggested that contact sessions supervised by a third party be resumed.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The transfer of the case to the Celje Social Work Centre",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0On 14 August 2002 the applicant asked for the case to be transferred to a different social work centre, claiming that the employees of the Maribor Social Work Centre were abusing their positions and contributing to S. becoming alienated from him. Dissatisfied with the manner in which his case was being handled, the applicant also brought criminal complaints against six employees of the Centre and five criminal complaints against the director of the Centre, all of which were subsequently rejected. Moreover, he sought the disqualification of some of the employees who had been working on the case and the institution of disciplinary action against them, while a number of social workers assigned to the case also withdrew from the proceedings of their own volition.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The applicant also twice requested that the Ministry carry out an audit of the Maribor Social Work Centre. The Ministry acted on one of his requests and carried out an audit, the report of which was provided to the applicant on 26 March 2004. The Ministry established a number of procedural irregularities in the proceedings conducted by the Centre, including the fact that the contact agreement of 29 January 2002 had included neither all the necessary elements nor an enforceability clause, and thus could not be enforced. It was also found that the parents had not been engaged in appropriate counselling activities provided by the Centre and that J.G.\u2019s request for less frequent contact, which had been motivated by the applicant\u2019s aggression, should have been properly evaluated, and that in conducting that evaluation the applicant should have had a more open opportunity to present his views and an assessment should have been made of whether S. had in fact been exposed to any aggression on the part of the applicant. On the other hand, the report found that the Centre had not aided and abetted the kidnapping of S., as the applicant had alleged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The applicant\u2019s request for a transfer of the case was rejected by the Ministry on 10 July 2003 due to his lack of standing, but this decision was eventually set aside by the Administrative Court. Nevertheless, on 10 March 2004 the Maribor Social Work Centre asked the Ministry to transfer the case to a different social work centre due to the applicant\u2019s apparent lack of confidence in their work. On 14\u00a0April 2004 the Ministry transferred the case to the Celje Social Work Centre.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Proceedings conducted by the Celje Social Work Centre",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0On 17 May 2004 the applicant attended a meeting at the Celje Social Work Centre, at which he was informed of the different possibilities for arranging contact with S. He insisted that the issue of contact should be settled in the administrative proceedings, and not through counselling and assistance. On 9 July 2004 an expert panel appointed by the Celje Social Work Centre proposed that contact supervised by a competent professional should proceed after the summer holidays and that a psychologist should be appointed to assess S.\u2019s emotional and behavioural state and possible trauma in relation to her parents. On 15 July 2004 the social worker assigned to the case visited S. at home. She stated that she did not wish to have any contact with the applicant for at least two years and that she also did not wish to have any more contact with the social workers or other professionals involved in the case. Nevertheless, S., the applicant and J.G. attended an interview with the psychologist, M.B. In her report of 6\u00a0November 2004, M.B. established that it would not be possible, at that time, to achieve a balance between S.\u2019s desire not to see her father and the preservation of an emotional connection with him. The level of conflict between the two was so deeply rooted that it was not possible to expect any closeness and confidence to develop between them. The applicant was dissatisfied with the expert report and subsequently requested that another expert be appointed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0Meanwhile, on 11 October 2004 the applicant asked the Celje Social Work Centre to issue an interim order amending the contact schedule so that contact would take place on Mondays or Tuesdays. The request was dismissed on 25\u00a0October\u00a02004, but this decision was set aside by the Ministry on 18\u00a0February 2005 and remitted for fresh consideration.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0On 16 November 2004 the members of the expert panel, relying on M.B.\u2019s expert report, recommended that contact between the applicant and S. be suspended for at least one year. The panel observed that S. had not benefited from forced contact with the applicant; she had also been exposed to serious emotional stress as a result of her involvement in several sets of proceedings and the media coverage that had taken place. All this had had harmful effects on her, and the panel considered that if this pressure continued, S.\u2019s emotional and personal development might stagnate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0On 8 December 2004 the Celje Social Work Centre conducted an oral hearing, at which the applicant explained his position at length and criticised the employees of the Centre. M.B., who was also interviewed, explained that in her view the statements made by S. during the interview she had conducted had not been influenced by a third party. Following the hearing it was decided on 10 December 2004 that a new expert report would be obtained. However, as the applicant had objected to paying in full an advance on the expert\u2019s fees, which he had initially undertaken to bear the cost of, a new expert was not appointed straight away. The applicant\u2019s objection was subsequently dismissed by the Ministry on 17 February 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0Meanwhile, at the next oral hearing on 10 January 2005 the applicant sought the disqualification of the social worker assigned to the case, which caused the hearing to be suspended. The application for disqualification was dismissed on 27 January 2005 by the Social Work Centre and, upon an appeal by the applicant, on 17 August 2005 by the Ministry. On 27 October 2005 the applicant challenged the latter decision before the Administrative Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0On 11 March 2005 J.G. informed the Celje Social Work Centre that the applicant had missed his last three contact sessions with S. The applicant, on the other hand, asked for the contact schedule to be enforced, making reference to the missed contact session on 2 March 2005. The Social Work Centre established that the applicant had in fact unsuccessfully attempted to meet S. and on 19 April 2005 fined J.G. SIT 17,000 (approximately EUR 71).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0On 22 March 2005, the Celje Social Work Centre issued an interim order prohibiting contact between the applicant and S. In its order, it took into consideration the panel\u2019s opinion of 16\u00a0November 2004, the expert opinion of the psychologist and the corroborating statements made by the applicant, J.G. and S. to the effect that S. generally did not wish to have contact with the applicant. It appears that from that time onwards, the applicant and S. only maintained occasional contact by email.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0On 27 March 2005 the applicant appealed to the Ministry. He complained that the proceedings had been too long and unfair. He also claimed that they should have been dealt with by the courts in accordance with the Constitutional Court\u2019s decision of 23\u00a0April\u00a02003 (see \u201cRelevant domestic law and practice\u201d below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0On 1 August 2005 the applicant instituted proceedings with the Administrative Court on account of the Ministry\u2019s failure to decide on the appeal within the prescribed sixty-day time-limit. He also contested the order of 22\u00a0March 2005 (see paragraph 59 above) and alleged that his procedural rights had been breached in the proceedings conducted by the Celje Social Work Centre.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0On 17 August 2005 the Ministry dismissed the applicant\u2019s appeal. Although it observed that the applicant had expressed a desire to improve his relationship with S. and that he had been willing to seek expert help to do so, it concurred with the Celje Social Work Centre that S. was mature enough to express her own opinion and understand its consequences. The Ministry considered that the Centre\u2019s interim order had been made in the best interests of the child. As regards the applicant\u2019s complaint that the case should have been transferred to the courts, as provided for by an amendment to the Marriage and Family Relations Act (hereinafter \u201cthe MFR Act\u201d and \u201cthe Amendment\u201d as appropriate), the Ministry explained that pursuant to the transitional provisions of the Act, proceedings which, as in the applicant\u2019s case, had been instituted before the Amendment had entered into force were to continue to be conducted by social work centres.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0On 25 August 2005 two employees of the Celje Social Work Centre visited S. and J.G. at home. S. stated that she was relieved about the prohibition of contact between her and the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The oral hearing scheduled for 5 October 2005 was adjourned at the applicant\u2019s request. It was rescheduled for 14 November 2005, but was once again adjourned on 27 October 2005 due to the applicant\u2019s repeated application for disqualification of the social worker assigned to the case. Subsequently, the social worker in question also sought to withdraw from the proceedings. However, on 5 December 2005 the applicant withdrew his application for disqualification and she resumed working on his case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0Meanwhile, on 16 October 2005 the applicant extended his complaint about the Ministry\u2019s failure to decide on his appeal (see paragraph 61 above) to the decision actually taken by the Ministry on 17\u00a0August 2005 (see paragraph 62 above). He complained about the prohibition of contact with S. and stressed that, in accordance with the Constitutional Court\u2019s decision of 23 April 2003, the courts, not the administrative authorities, should have dealt with his case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0On 13 June 2006 the Administrative Court joined the appeal against the Ministry\u2019s decision relating to the disqualification of a social worker (see paragraph 57 above) and the appeal against the Ministry\u2019s decision relating to the interim order of the Celje Social Work Centre (see paragraphs 61 and 65 above) and dismissed them both. Specifically, as regards the challenged interim order, the court explained that it had been made on the basis of the case-file documents and pursuant to the decision of the Celje Social Work Centre that it was necessary to provisionally settle certain questions before the adoption of a final decision on the matter, as S. had clearly stated that she did not wish to have any contact with the applicant. The court concluded that in adopting the interim order, the administrative authorities had acted in S.\u2019s best interests. As regards the applicant\u2019s complaint that the administrative authorities should have relinquished the case to the jurisdiction of the courts, the Administrative Court concurred with the Ministry that proceedings instituted before the entry into force of the Amendment were to continue to be conducted by social work centres.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0On 20 July 2006 the applicant appealed to the Supreme Court. On 24\u00a0March 2010 the Supreme Court dismissed the applicant\u2019s appeal on points of law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0In the meantime, the Celje Social Work Centre continued the examination of the case and appointed two psychologists one after another to evaluate the relationship between the applicant and S. The first psychologist stepped down after J.G. declined to allow him to conduct an interview with S. at his place of work, while the second psychologist stepped down after the applicant failed to keep his appointment on three occasions. The Celje Social Work Centre again relied on the opinion of the expert panel of 16\u00a0November 2004, and, following an interview with S. on 8\u00a0June 2006 in which she declared that her relationship with her father had not improved and again refused to have any contact with him, on 19 July 2006 issued a decision prohibiting contact between the applicant and S.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0On 2 August 2006 the applicant appealed to the Ministry. He averred, among other things, that the expert panel had met for the last time nearly two years before the decision had been issued and that he had not been summoned to meet the second of the appointed psychologists.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0On 19 March 2007 the Ministry set aside the Celje Social Work Centre\u2019s decision of 19 July 2006. The Ministry found that the Centre had failed to examine the possibility of the applicant and S. to re-establish contact before deciding to prohibit it. It also found that the adjourned hearing of 10 January 2005 had never been resumed, which amounted to a violation of procedure. Finally, the Ministry decided that the case was to be relinquished to the jurisdiction of a competent district court, as provided for in the MFR Act as amended by the Amendment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0In the course of the proceedings, the applicant twice sought to have the competent ministries conduct an audit of the Celje Social Work Centre. One of these audits revealed certain irregularities in the keeping of records, which were subsequently rectified. In addition, the applicant sought to have the Social Services Inspection Agency (operating under the authority of the Ministry) conduct an audit on four occasions. After having received replies from the Celje Social Work Centre, three of these requests were dismissed, while on one occasion an audit was carried out and some irregularities were established which were subsequently rectified. As in the proceedings conducted by the Maribor Social Work Centre, the applicant was dissatisfied with the handling of his case, which he expressed in a number of letters and emails and in person. In addition to seeking the disqualification of the social worker assigned to the case, he brought a criminal complaint against the director of the Social Work Centre, which was, however, rejected.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(d)\u00a0The transfer of the case to the competent court and the ensuing non-contentious proceedings",
+                                "elements": [
+                                    {
+                                        "content": "72.\u00a0\u00a0Further to the Ministry\u2019s decision (see paragraph 70 above) on 23\u00a0March\u00a02007 the case was transferred to the Maribor District Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0On 17 April 2007 also the applicant lodged a motion before the Maribor District Court for a contact schedule to be established and sought an interim order granting him contact with S. once a week.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0On 4 June 2007 J.G. lodged a written submission in which she requested that contact not be allowed, as S. had clearly stated that she did not wish to have any contact with the applicant. She also sought to have an interim order adopted to that effect.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0On 11 June 2007 a hearing was held during which the court interviewed S. Moreover, the court sought to obtain an opinion of the Maribor Social Work Centre; however, the applicant lodged a motion for the disqualification of the social worker assigned to the case. This motion having been dismissed by the Ministry on 11 September 2007, the centre eventually submitted a report, which, however, did not provide a new viewpoint on the case, as S. had refused to be interviewed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0Meanwhile, on 5 July 2007 the Maribor District Court upheld J.G.\u2019s motion and issued an interim order pending the outcome of the main proceedings. Having examined the case-file documents and interviewed S., the court held that she was not ready to have contact with the applicant and was rather hostile towards him; consequently, it ruled against allowing contact.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0On 17 July 2007 the applicant objected to that interim order.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0On 27 August 2007 a hearing was held in the presence of the applicant and J.G. The applicant requested that a psychologist be appointed to assess whether S. was suffering from parental alienation syndrome. The court acceded to the applicant\u2019s request and the hearing was adjourned pending the expert\u2019s report. The applicant undertook to pay the advance on the expert\u2019s fees, which he failed to do.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0On 14 September 2007 the applicant lodged a supervisory appeal, which was resolved by issuing a notice of further procedural acts to be taken.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0On 27 November 2007 the court held a hearing and upheld the applicant\u2019s objection. It set aside the interim order issued on 5 July 2007, finding that the applicant was not a threat to S. and that there was no need for contact between them to cease entirely. As a result, it dismissed both motions for an interim order (see paragraphs 73 and 74 above) and decided that a psychologist should determine whether relations between the applicant and S. could be re-established.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0On 11 December 2007 J.G. lodged an appeal against the dismissal of her motion for an interim order, which was dismissed on 16 April 2008.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0On 13 February 2008 E.G., the psychologist appointed by the court, submitted a report in which he noted that the applicant had been invited to an interview three times, but had failed to attend any of the interviews. E.G. further observed that during the three years in which the applicant and S. had not had contact, she had built her life without the presence of her father and did not miss him. The expert assessed S.\u2019s rejection of the applicant as genuine and not a result of any outside influence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0On 3 March 2008 the applicant lodged a written submission in which he contested E.G.\u2019s report. He explained that he had been unable to attend the first two interviews because he had been unwell, and that he had never received a third invitation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0On 14 March 2008 the court rendered a decision granting the expert\u2019s fee. The applicant appealed, alleging that the expert report was incomplete, as he had not been interviewed by E.G.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0The judge in the case asked E.G. to interview the applicant and submit an additional report, to which E.G. explained that interviewing the applicant would not change his conclusions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0Further to that opinion, the applicant filed several motions in which he sought to have the expert released from his duties and addressed four requests to the Ministry of Justice, asking it to order his removal from the register of experts. He also applied to the court for a reimbursement of the advance payment of the expert\u2019s fees he had made on 14 March 2008.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0Meanwhile, as the court insisted on the applicant being interviewed, the expert again invited him to attend an interview on 4 July 2008, but the applicant refused to attend, considering that the request was unreasonable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0On 10 September 2008 the Maribor District Court decided not to set up a contact schedule, having regard to S.\u2019s wishes and the expert report prepared by E.G. In the light of the long absence of any contact between father and daughter, the court further decided that there was no reason to prohibit contact between them. Thus, it dismissed both the applicant\u2019s and J.G.\u2019s motions (see paragraphs 73 and 74 above). The applicant appealed against that decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0On 24 September 2008 the court issued a decision granting the fees for the additional expert report. The applicant also appealed against that decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0On 4 December 2008 the Maribor Higher Court modified the decisions of 14 March 2008 and 24 September 2008, rejecting the expert\u2019s application for his fees to be paid, as he had failed to compile a report in line with the court\u2019s request. Consequently, the court also set aside the decision rejecting the applicant\u2019s motion for a contact schedule with S. to be set up.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0Further to that decision, on 14 January 2009, the applicant again applied to the Maribor District Court for a reimbursement of his advance payment of the expert\u2019s fees. On 9 March 2009 the advance payment was returned to the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0On 25 February 2009 the applicant withdrew his application for a contact schedule in respect of S. to be established. The court issued a decision terminating the proceedings on 10 April 2009.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The events following the termination of proceedings",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0On an undetermined date, the applicant reported the allegedly corrupt practices of the Maribor District Court with regard to the payment of the expert\u2019s fees in the child contact proceedings (see paragraphs 84 and 89 above) to the Corruption Prevention Commission (hereinafter the \u201cCPC\u201d). On 23 April 2009 the CPC adopted an opinion establishing that the court had breached its obligation to exercise due diligence by enabling E.G. to obtain an unlawful benefit. Further to that opinion, the applicant again unsuccessfully sought to have the Ministry of Justice order E.G.\u2019s removal from the register of experts. He also asked for the question of the potential liability of the judge deciding the case to be examined. On 4 June 2009 the president of the Maribor District Court informed the applicant that no irregularities had been established regarding the work of the judge.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Family law legislation applicable at the material time",
+                                "elements": [
+                                    {
+                                        "content": "94.\u00a0\u00a0A\u00a0summary of the relevant applicable domestic law may be found in paragraphs 63-81 of the Court\u2019s judgment in Eberhard and M. v. Slovenia (nos.\u00a08673/05 and 9733/05, 1 December 2009).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "95.\u00a0\u00a0Of particular relevance to the present case is the transfer of the power to decide on the contact between a parent with whom a child does not reside and that child from social work centres to the courts. Prior to the Amendment, the courts only had jurisdiction to decide on such matters in the course of divorce or marriage annulment proceedings. In this respect, section 78 of the Act provided as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe parent to whom the children have not been entrusted retains the right to personal contact with them, unless a court decides otherwise for the benefit of the child.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In all other cases, for example when the parents separated without a formal divorce or ended their partnership, it was social work centres that were competent to decide on the issue of contact, pursuant to section 106 of the MFR Act, which provided, in so far as relevant:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe parent with whom the child does not live has the right to personal contact with the child, except if otherwise decided by [a] social work centre, due regard being given to the child\u2019s interests.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0However, the rules of administrative procedure used by social work centres in proceedings to set up a contact schedule lacked a number of specific provisions aimed at strengthening the position of children and protecting their right to effective participation in the proceedings which were included in the rules of civil procedure used by the courts when deciding on the same matter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "97.\u00a0\u00a0On 23 April 2003 the Constitutional Court delivered a decision finding, inter alia, that section 106 was unconstitutional, as social work centres were not vested with equivalent powers to those of the courts and consequently could not provide the same level of protection to children. The legislature was accordingly ordered to eliminate this unconstitutionality within a year.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0However, the Constitutional Court noted that the system was not problematic in respect of the protection of parents\u2019 rights of participation, as they were able to be sufficiently involved in administrative proceedings. They were afforded the right to be heard, to submit evidence and to request evidence to be taken, to comment on submissions of the other party, to participate in hearings and to lodge appeals. In addition, the Constitutional Court did not adjudicate on the question of whether the division of competence between social work centres and the courts had ensured the effective protection of children\u2019s rights in child contact proceedings, but instructed the legislature to consider this issue in drafting of the new legislation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0As a result of this decision, the Amendment was adopted and entered into force on 1 May 2004, the amended section 106 providing, in so far as relevant:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA child has the right to have contact with both parents. Both parents have the right to have contact with their children. Contact should first and foremost be in the child\u2019s [best] interests.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If, even with the assistance of a social work centre, the parents fail to reach an agreement on contact, the court shall decide thereon, upon the request of one or both parents. In its decision, the court shall, above all, consider the [best] interests of the child. ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0Pursuant to the transitional provisions of the amended MFR Act, proceedings instituted before the entry into force of the Amendment, that is before 1\u00a0May 2004, were to continue to be conducted until completion by social work centres, and any appeal against the first-instance decision was still to be examined by the Ministry. However, where the first-instance decision was set aside by the Ministry, the proceedings were to continue before the district court with territorial jurisdiction in accordance with the amended MFR Act. Article 39 of the transitional provisions provides, in so far as relevant:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) Proceedings in cases ... which were commenced prior to the entry into force of this Act shall be concluded by social work centres, according to the provisions of the Marriage and Family Relations Act. Appeals against these decisions shall be decided on by the Ministry of Family Affairs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) In the event that the first-instance decision in any case falling within the preceding paragraph is set aside or revoked after the entry into force of this Act, the proceedings shall continue before the competent district court, pursuant to this Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4) Social work centres shall ex-officio refer the cases falling within paragraph (2) of this Article to the competent courts. ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Administrative Disputes Act as applicable at the material time",
+                                "elements": [
+                                    {
+                                        "content": "101.\u00a0\u00a0The relevant provisions of the Administrative Disputes Act as applicable at the material time read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 1",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) In an administrative dispute, the judicial protection of the rights and legal interests of individuals, legal entities and other entitled persons [affected by] decisions and actions of administrative or, in accordance with the law, other state bodies, local community bodies and holders of public authorisations, shall be guaranteed in accordance with the methods and procedures laid down by this Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 14",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) The Court shall examine and review the pleas of fact on which the main action is based.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2) The court is not bound by the pleas or evidence presented by the parties but may take any evidence which, in its view, might provide information relating to the matter before it and lead to a lawful and correct decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Protection of the Right to Trial without Undue Delay Act (hereinafter \u201cthe 2006 Act\u201d)",
+                                "elements": [
+                                    {
+                                        "content": "102.\u00a0\u00a0The relevant provisions of the 2006 Act read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 6 - Decision on supervisory appeal",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4) If the judge notifies the president of the court in writing that all relevant procedural acts will be performed or a decision issued within a time-limit not exceeding four months following the receipt of the supervisory appeal, the president of the court shall inform the party thereof and thus conclude the consideration of the supervisory appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section 15 - Just satisfaction",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1) If the supervisory appeal lodged by the party has been granted or if a motion for a deadline has been lodged, the party may claim just satisfaction under the present Act.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Civil remedies",
+                                "elements": [
+                                    {
+                                        "content": "103.\u00a0\u00a0Article 26 of the Constitution provides that a person who has suffered damage due to an unlawful act of a public official has the right to compensation. Pursuant to section 179 of the Civil Code, a civil action for damages can be brought by anyone who has sustained non-pecuniary damage owing to, inter alia, an infringement of his or her personal rights, among which is the right to respect for one\u2019s family life. In addition, an injunction may be sought under section 134 of the Civil Code for the cessation of acts infringing the claimant\u2019s personal rights, including the right to respect for his or her private and family life.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Auditing of social work provider agencies",
+                                "elements": [
+                                    {
+                                        "content": "104.\u00a0\u00a0The Rules on Internal and External Auditing of Social Work Activity provide for an extraordinary audit of a social work provider agency at the request of a client or his or her representative. A three-member panel of experts appointed by the Ministry conducts the audit. The panel\u2019s competences are limited to assessing the organisation and quality of the respective provider agency\u2019s work and its compliance with the relevant rules, and drawing up a report with conclusions and recommendations regarding possible irregularities found. The report is submitted to the Ministry, which may impose a number of measures on the provider agency with a view to eliminating any irregularities and improving the quality of its service.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "105.\u00a0\u00a0The applicant referred to Articles 6 and 8 of the Convention, complaining in substance about the excessive restriction and, subsequently, suspension of his contact rights, the non-enforcement of the contact schedule and the delays in the divorce, child custody and maintenance proceedings and the administrative and non-contentious child contact proceedings. The Court, being the \u201cmaster of the characterisation\u201d to be given in law to the facts of any case before it (see Akdeniz v. Turkey, no.\u00a025165/94, \u00a7 88, 31 May 2005), considers that these complaints are closely linked and fall to be examined under Article 8 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "106.\u00a0\u00a0Article 8, in so far as relevant, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201c1. Everyone has the right to respect for his... family life...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society ... for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s victim status",
+                                        "elements": [
+                                            {
+                                                "content": "107.\u00a0\u00a0The Government, referring to the audit of the Maribor Social Work Centre (see paragraph 51 above), argued that the irregularities established with regard to the centre\u2019s work had been rectified in accordance with the measures imposed on it by the Ministry. They claimed that the applicant\u2019s right to respect for his family life had therefore been vindicated, which, in substance, may be understood as an objection to the applicant\u2019s victim status as regards the child contact proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0In this connection, the Court reiterates that a decision or measure favourable to the applicant is not in principle sufficient to deprive him of his status as a \u201cvictim\u201d unless the national authorities have acknowledged, either expressly or in substance, and then afforded redress for, the breach of the Convention (see Scordino v. Italy (no. 1) [GC], no. 36813/97, \u00a7 180, ECHR 2006V, and the cases cited therein). The Court notes that the audit of the Maribor Social Work Centre only covered the period from 5\u00a0September 2001 to March 2004 at the latest, whereas the child contact proceedings continued until 10 April 2009 (see paragraph 93 above). Moreover, the audit, while addressing certain procedural irregularities in the work of the centre, contained no conclusions pertaining to the applicant\u2019s complaints adduced before the Court. Finally, no measures taken as a result of the audit could have had any bearing on the applicant\u2019s individual position, as his case was transferred to the Celje Social Work Centre less than a month after he had received the Ministry\u2019s audit report (see paragraph 51 above). The applicant can therefore still claim to be a victim of the alleged violation of Article 8 in respect of the child contact proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Compliance with the six-month rule",
+                                        "elements": [
+                                            {
+                                                "content": "109.\u00a0\u00a0The Court has already considered that the six-month rule is a public policy rule and that, consequently, it has jurisdiction to apply the rule of its own motion (see Assanidze v. Georgia [GC], no. 71503/01, \u00a7 160, ECHR 2004-II), even if the Government have not raised that objection (see Walker\u00a0v. the United Kingdom (dec.), no. 34979/97, ECHR 2000-I).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0In the present case, the contact schedule governing contact between the applicant and his daughter was established in three separate sets of proceedings. The first set of administrative proceedings was finally resolved by an agreement reached on 29 January 2002 (see paragraph 26 above). Considering that the application was lodged on 29 January 2004, the Court concludes that, with regard to this set of proceedings, the applicant did not comply with the six-month time-limit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0It follows that this complaint has been introduced out of time and must be rejected in accordance with Article 35 \u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Exhaustion of domestic remedies",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "112.\u00a0\u00a0The Government argued that the applicant had failed to exhaust available domestic remedies with regard to the restriction and subsequent prohibition of contact with his daughter and to the length of proceedings. As regards his first complaint, the Government pointed out that he had not brought an administrative action against the decisions of the Ministry of 17\u00a0February 2005 and of 11 September 2007 by which it had dismissed his appeals against the decisions on the advance payment of the expert\u2019s fees and the disqualification of a social worker, respectively (see paragraphs 56 and 75 above). In addition, in the subsequent non-contentious civil proceedings the applicant had failed to object to the decision of 27\u00a0November 2007 whereby the Maribor District Court had refused his request for an interim contact schedule (see paragraph 80 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0Secondly, with regard to the applicant\u2019s complaint of excessive length of administrative proceedings to set up a contact schedule, the Government asserted while he had lodged two actions for failure to adopt the decision within the prescribed time-limit in the administrative proceedings (administrative silence), he had failed to lodge such an action against the decision of 27 January 2005 refusing his appeal with regard to the disqualification of a social worker. In the subsequent non-contentious civil proceedings regarding the same matter, the applicant had not made use of the remedies available to him under the 2006 Act, which became operational on 1 January 2007. Neither had he availed himself of these remedies in the divorce, child custody and maintenance proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0Finally, the Government alleged that the applicant could have sought an injunction against any infringement of his right to respect for his family life under the provisions of the Civil Code, and that he could also have brought a civil action for damages against the State for any non-pecuniary damage he had sustained as a result of the alleged infringement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "115.\u00a0\u00a0The applicant disagreed with the Government\u2019s objection of non-exhaustion of domestic remedies. With regard to the remedies he could have used in order to complain about the excessive restriction and prohibition of contact, he maintained that the only decisions he had not appealed against had been a few procedural decisions and interim orders which had been irrelevant to the outcome of the proceedings. As regards his complaint of excessive length of proceedings, the applicant maintained that, since his actions for failure to adopt the decision within the prescribed time-limit in the administrative proceedings had been unsuccessful due to the ineffectiveness of the remedy in question, he was not required to lodge yet another such action against the decision of 27 January 2005.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0The Court notes, at the outset, that in their objection of non-exhaustion of domestic remedies, the Government referred to a number of different remedies the applicant had allegedly failed to use with regard to his complaint about the excessive restriction and subsequent prohibition of his contact with his daughter. However, it cannot be overlooked that in both the divorce, child custody and maintenance proceedings and the two sets of child contact proceedings under consideration the applicant used virtually all legal avenues available to him in order to put matters right within the domestic legal system.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0In the divorce and custody proceedings, the applicant appealed before all appellate courts including the Constitutional Court (see paragraphs 9, 12, 16 and 18 above). Moreover, in the child contact proceedings he exhausted all possibilities of review in the administrative proceedings (see paragraphs 36, 40, 42, 60, 61, 65, 67 and 69 above) and in the non-contentious civil proceedings (see paragraphs 88 and 89 above), until the point when setting up a contact schedule through the courts became devoid of purpose due to S.\u2019s approaching the age of majority. The Court therefore agrees with the applicant that although he did not appeal against a few procedural and interim decisions adopted in the administrative and non-contentious child contact proceedings, these decisions had a very limited and transitory effect on the overall course of the proceedings, which were of great complexity. Even if successful, these appeals thus would not have provided redress in respect of the applicant\u2019s complaints raised before the Court. Therefore, the Government\u2019s objection that the applicant was required to avail himself of these remedies cannot be sustained.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0As regards the applicant\u2019s complaint of the excessive length of the proceedings, the Court notes that he brought two actions for failure to adopt a decision within the prescribed time-limit in the administrative child contact proceedings (see paragraphs 40 and 61 above) and a supervisory appeal under the 2006 Act in both the divorce, child custody and maintenance proceedings and the non-contentious child contact proceedings (see paragraphs 21 and 79 above). The applicant therefore actively sought timely resolution of his claims and, in the Court\u2019s opinion, could not reasonably be required to use any further remedies with a view to expediting the proceedings. It is true that, having succeeded with his supervisory appeals under the 2006 Act, the applicant could have subsequently claimed compensation under this Act (see paragraph 102 above). However, the Court has already held that the remedies introduced by the 2006 Act specifically concern the right to have one\u2019s case examined within a reasonable time, within the meaning of Article 6 \u00a7 1 of the Convention, but do not address situations in which the excessive length of proceedings is examined in terms of interference by the State with the applicant\u2019s rights under Article 8, in view of the positive obligations of the State under that provision (see Eberhard and M. v. Slovenia, cited above, \u00a7 105; Z.\u00a0v.\u00a0Slovenia, no. 43155/05, \u00a7 129, 30 November 2010; and K. v. Slovenia, no. 41293/05, \u00a7\u00a7 111-120, 7 July 2011). The Government having so far submitted no domestic jurisprudence refuting this conclusion, the Court sees no reasons to depart from its previous case-law, and therefore rejects this objection on the part of the Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0The Government moreover argued that the applicant should have used civil law remedies, namely an injunction against an infringement of personal rights under section 134 of the Civil Code and a claim for compensation under section 179 of the Civil Code. In this regard, the Court reiterates that an applicant who has used a remedy which is apparently effective and sufficient cannot also be required to have tried others that were available but probably no more likely to be successful (see, for example, Aquilina v. Malta [GC], no. 25642/94, \u00a7 39, ECHR 1999-III). Having regard to the fact that the applicant sought redress for the alleged violations of his rights under Article 8 by using the available remedies in the divorce, child custody and maintenance proceedings and the child contact proceedings and therefore exhausted all the possibilities available to him in the course of family law proceedings, the Court considers that he was not required to embark on another attempt to obtain redress by using the civil remedies cited above, and therefore also rejects this objection made by the Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Conclusion",
+                                        "elements": [
+                                            {
+                                                "content": "120.\u00a0\u00a0The Court notes that the applicant\u2019s complaints about the excessive restriction and subsequent prohibition of contact with his daughter, the non-enforcement of the contact schedule and the delays in proceedings are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention, in so far as they concern the divorce, child custody and maintenance proceedings and the second and third set of administrative and non-contentious child contact proceedings. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "121.\u00a0\u00a0The applicant submitted that the administrative decisions restricting and subsequently prohibiting contact with his daughter had been biased, and that the employees of the Maribor Social Work Centre, instead of assisting in the re-establishment of contact between himself and his daughter, who initially had not been opposed to it, had prevented regular contact by their inappropriate handling of the case and by their failure to provide the necessary counselling or to enforce the contact schedule. That had subsequently led S. to refuse contact with him when she reached adolescence. He referred to the Ministry\u2019s audit report concerning the Centre (see paragraph 51 above), which had concluded that an incomplete assessment had been made of J.G.\u2019s allegations of the applicant\u2019s aggression, that the applicant had not had an opportunity to present his views on the contact schedule, that J.G. had received favourable treatment as regards the requirement to provide evidence to support her statements, and so on.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0Moreover, the applicant claimed that the competent authorities had failed to enforce the contact schedule and had thus deprived him of his right to contact. In addition, the initial contact schedule had not included an enforcement clause and had thus been unenforceable.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0Finally, with regard to the length of the child contact proceedings, the applicant stated that the authorities had protracted the proceedings by failing to respond in a timely manner to his applications, while, on the other hand, they had acted without delay in granting J.G.\u2019s motions and requests. Further, in his observations in reply to those of the Government, he denied having substantially contributed to the duration of the proceedings, as he had only used the legal remedies available to him under domestic legislation. He underlined that these had primarily been aimed at expediting the proceedings, and even if they had produced the opposite effect, the delays, which were a systemic problem, were entirely attributable to the State. The applicant highlighted the frequent withdrawals of social workers from the proceedings and submitted that his own failings in conduct, such as his failure to attend interviews and oral hearings, had constituted isolated cases that had not affected the overall length of the proceedings. As regards the divorce, child custody and maintenance proceedings, the applicant pointed out that in its initial judgment, the first-instance court had failed to decide on his counterclaim seeking custody of S. and child maintenance, and had only done so ten months later, after having been alerted to its error by the higher court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0The Government, acknowledging that the measures complained of had constituted an interference with the applicant\u2019s right to respect for his family life, maintained that the restriction and subsequent prohibition of contact with his daughter had had a basis in national law, namely section 106 of the MFR Act, and that they had been aimed at protecting S.\u2019s best interests. The Government pointed to the requirement to give due weight to the wishes of a child who was capable of understanding the meaning and implications of the proceedings, observing that S. had consistently refused to accept having contact with the applicant, a strength of feeling which, despite the intensive involvement of a number of specialists and two social work centres in the case, had only deepened with time. In this regard, the Government noted the findings of a number of psychologists, according to which S. had been evaluated as mature for her age and resolute in her thinking and expression. Two experts had assessed her rejection of the applicant as genuine and not the result of external manipulation; they had noted that the level of conflict between the applicant and S. was so severe that she could not have, at the time, re-established an emotional connection with her father. On the other hand, the applicant had showed no willingness to adjust his attitude and had considered contact to be his exclusive right and not also that of his daughter. Having regard to these considerations and the conclusions of the expert panels, the Government maintained that the restriction and subsequent prohibition of contact had been necessary and justified by relevant and sufficient reasons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0As regards the applicant\u2019s complaint of non-enforcement of the contact schedule, the Government asserted that throughout the administrative proceedings, the social work centres had actively cooperated with the parties and had made every effort to implement the schedule. In this respect, the Maribor Social Work Centre had engaged the parties in counselling, which, however, had not yielded any results. Finally, the applicant had lodged several requests for enforcement of the contact schedule and had for the most part succeeded with them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0As regards the complaint of the excessive length of the divorce, child custody and maintenance proceedings and the child contact proceedings, the Government argued that they had generally been conducted in a swift and efficient manner, considering the inherent complexity of disputes concerning relations between parents and children and, above all, the fact that it had been the applicant\u2019s own conduct that had for the most part affected the length of the proceedings. The competent authorities had dealt with the case on a regular, sometimes almost daily basis. However, the applicant\u2019s actions, such as the constant flow of criminal and other complaints about the work of the social work centres\u2019 employees and the judges deciding the case and complaints to various institutions and authorities of irregularities in the proceedings had created deadlock in the proceedings, as the officials were more engaged in writing reports in response to the inquiries of to those institutions than in carrying out their main role of deciding on the contact arrangements. Moreover, his numerous applications for the disqualification of officials and motions for the institution of disciplinary proceedings against them had resulted in delays, as the main proceedings could only continue after the competent authorities had decided on the issue of disqualification or disciplinary action. Further delays in the child contact proceedings had been caused by the applicant\u2019s failure to attend interviews and oral hearings which had had to be rescheduled and his request for the transfer of jurisdiction to another social work centre. Finally, the proceedings had been delayed for long periods of time due to the applicant\u2019s two requests for the appointment of new psychologists, the late payment of fees for their appointment and the applicant\u2019s subsequent failure to cooperate with either of the psychologists.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "127.\u00a0\u00a0The Court notes that the applicant\u2019s complaint under Article 8 concerns the restriction and prohibition of contact with his daughter and the alleged delays connected therewith, and the non-enforcement of the contact schedule.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": " (a)\u00a0\u00a0Compliance with Article 8 of the decisions restricting and prohibiting the applicant\u2019s contact with S. and the alleged delays connected therewith",
+                                "elements": [
+                                    {
+                                        "content": "128.\u00a0\u00a0The Court reiterates that mutual enjoyment by parent and child of each other\u2019s company constitutes a fundamental element of family life, and domestic measures hindering such enjoyment amount to an interference with the right protected by Article 8 of the Convention (see Johansen\u00a0v.\u00a0Norway, 7 August 1996, \u00a7 52, Reports 1996-III). Any such interference constitutes a violation of this Article unless it is \u201cin accordance with the law\u201d, pursues an aim or aims that are legitimate under paragraph 2 and can be regarded as \u201cnecessary in a democratic society\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "129.\u00a0\u00a0As to whether the impugned decisions restricting and prohibiting the applicant\u2019s contact with S. were \u201cin accordance with the law\u201d, the Court notes that the applicant disputed the lawfulness of the continued handling of the case by the social work centres, which, despite the fact that the statutory provision providing a legal basis for their competence had been found to be unconstitutional, had remained competent to decide on applications for a child contact order introduced before the entry into force of the Amendment. In this regard the Court would first point out that its power to review compliance with domestic law is limited and that it is in the first place for the national authorities, notably the courts, to interpret and apply that law (see, for example, Eriksson v. Sweden, 22 June 1989, \u00a7 62, Series A no. 156).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "130.\u00a0\u00a0The Court notes that the child contact proceedings instituted by the applicant on 15 September 2003 were not only conducted by the social work centres in the one-year transitional period provided by the Constitutional Court for the adoption of the new legislation, but, pursuant to the transitional provision of the Amendment (see paragraph 100 above), also continued after 1 May 2004 until 19 March 2007, when the first-instance decision on the prohibition of contact was set aside by the Ministry (see paragraph 70 above). However, the Court also observes that, as stated in the Constitutional Court\u2019s decision (see paragraph 98 above), the finding of unconstitutionality did not have any bearing on the procedural position of the parents in the child contact proceedings, nor was it of a nature such as to require the transfer of the case from the social work centres to the courts. As there is no further indication in the case file that the continued conduct of the case by the social work centres was unlawful in terms of domestic law, the Court concludes that the restrictions on the applicant\u2019s contact rights were decided \u201cin accordance with the law\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "131.\u00a0\u00a0The Court accepts that the decisions at issue were aimed at protecting the best interests of the child, which is a legitimate aim within the meaning of paragraph 2 of Article 8 (see, for example, G\u00f6rg\u00fcl\u00fc v. Germany, no. 74969/01, \u00a7 37, 26 February 2004).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0In determining whether decisions on restriction or prohibition of contact with a child can be regarded as \u201cnecessary in a democratic society\u201d, the Court has to consider whether, in the light of the case as a whole, the reasons adduced to justify these measures were relevant and sufficient. It must be borne in mind that the national authorities have the benefit of direct contact with all the persons concerned and that the Court\u2019s task is not to substitute itself for the domestic authorities in the exercise of their responsibilities regarding contact issues, but rather to review, in the light of the Convention, the decisions taken by those authorities in the exercise of their power of assessment (see Hokkanen v. Finland, 23 September 1994, \u00a7\u00a055, Series A no. 299-A).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0The Court has repeatedly held that in matters relating to child custody and contact, the child\u2019s best interests must be the primary consideration (see Sommerfeld v. Germany [GC], no. 31871/96, \u00a7 62, ECHR 2003VIII (extracts)) and may, depending on their nature and seriousness, override those of the parents (see Sahin v. Germany [GC], no. 30943/96, \u00a7 66, ECHR 2003-VIII). In particular, a parent cannot be entitled under Article 8 of the Convention to have such measures taken as would harm the child\u2019s health and development (see Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 169, ECHR 2000-VIII). While in respect of very young children it is essentially for the authorities to assess whether contact with the parent should be encouraged and maintained or not, as children mature and become, with the passage of time, able to formulate their own opinion on their contact with the parents, the courts should also give due weight to their views and feelings and to their right to respect for their private life (see P\u0142aza v. Poland, no. 18830/07, \u00a7\u00a071, 25\u00a0January 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "134.\u00a0\u00a0In the present case the Court first notes that the applicant and J.G. separated acrimoniously in 2001 when S. was ten years old and thus already able to understand the events surrounding their separation. Although the applicant and J.G. initially managed to reach an agreement on a contact schedule, problems arose soon after with regard to its implementation. Based on J.G.\u2019s request for a revised contact schedule, on 15 November 2002 the Maribor Social Work Centre issued an order restricting contact to one four-hour session a month. It is evident from the case file that the monthly sessions were likely to lead to conflict between the applicant and S., and that some of them were not attended by S. On 15 September 2003 the applicant sought modification of the decision of 15 November 2002 in order to have more frequent contact with his daughter. In this set of proceedings involving a number of experts, interviews with the concerned parties and oral hearings an interim order was issued on 22 March 2005 prohibiting contact between the applicant and S., which on 19 July 2006 was followed by a first-instance administrative decision confirming the prohibition of contact. On 19 March 2007 this decision was set aside by the Ministry and the case was transferred to the competent district court. On 10\u00a0September 2008 the court decided not to set up a contact schedule; however, this decision was later set aside by the higher court. Finally, on 25\u00a0February 2009 the applicant withdrew his request for setting up a contact schedule due to his daughter\u2019s approaching the age of majority.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0In the Court\u2019s opinion, the decisive feature of the present case is S.\u2019s persistent refusal of contact with the applicant. As far back as March 2002, she began to resist contact with her father, feeling distressed over his criticism and insistence on the set contact schedule (see paragraphs 27 and 33 above). In respect thereof, the outpatient child psychiatric clinic which submitted a report to the then competent Maribor Social Work Centre advised against forced contact. The Centre based its decision of 15\u00a0November 2002 restricting contact on this report and on the statements made by S. (see paragraph 35 above). Having regard to this, the Court is of the view that the applicant\u2019s allegations of unfavourable treatment and that the staff of the Maribor Social Work Centre were biased cannot be upheld.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0The Court further notes that the Maribor Social Work Centre provided counselling to the applicant, J.G. and S. with a view to improving their relations in the period from April 2003 to January 2004, but no positive changes were observed in the attitudes of either S., whose initial distrust of counselling was not overcome, or the applicant, who refused to adjust his expectations and considered that it was not for his daughter to direct the course of their contact with one another.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "137.\u00a0\u00a0It is also worth noting that, while the psychological report submitted in March 2004 proposed that contact continue on a voluntary basis, in the course of that year the relationship between the applicant and S. and the latter\u2019s attitude to contact further worsened. This was reflected in the subsequent psychological assessment of November 2004, according to which the level of conflict had progressed to the point where it was not possible to expect any development of mutual confidence. In this respect, the Court regrets that the proposed contact sessions to be supervised by a third party were not implemented immediately upon their recommendation in March 2004; however, the continuing rapid decline of the relationship in the months thereafter (see paragraphs 48 and 53 above) renders it difficult to conclude that a faster response from the authorities would likely have resulted in a considerable improvement of the situation. In addition, in the interviews with the social workers and psychologists S., then aged thirteen, categorically expressed a negative, even hostile attitude towards the applicant, which was confirmed by his own accounts of their contact. Thus, the authorities established that continued forced contact would cause harm to S.\u2019s emotional and personal development and on 22 March 2005 suspended contact by an interim order followed, on 19 July 2006, by a decision on the merits. Although this decision was set aside by the Ministry for failure to examine the possibility of re-establishing contact before deciding to prohibit it, the Court observes that S. had been interviewed two weeks prior to the decision, and her attitude to contact remained unchanged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "138.\u00a0 The Court agrees with the Government that S., an adolescent at the time of the child contact proceedings, was able to express her opinion and wishes regarding contact and to understand their consequences. In this context, the Court notes that two psychologists assessed S.\u2019s rejection of the applicant as not having been caused by her mother\u2019s influence (see paragraphs 56 and 82 above). Moreover, despite the high degree of conflict between the applicant and J.G., it was not shown that the latter opposed contact between the applicant and S. or denied the applicant the chance to visit his daughter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "139.\u00a0\u00a0The Court observes that the domestic authorities carefully considered the question of contact also in the ensuing non-contentious civil proceedings (see paragraphs 72-92 above), and in view of the strained relationship between the applicant and S. decided that her own right to contact and her psychological well-being should be given priority over the applicant\u2019s right to contact. Finally, it is worth noting that all the experts and authorities involved in the case invariably reached the same conclusion in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "140.\u00a0\u00a0In view of the foregoing, the Court is convinced that the measures adopted by the domestic authorities cannot be open to criticism (see P\u0142aza, cited above, \u00a7\u00a086). It therefore finds that the domestic authorities struck a fair balance between the applicant\u2019s contact rights and his daughter\u2019s best interests.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "141.\u00a0\u00a0It remains to be determined whether the decision-making process, seen as a whole, was fair and provided the applicant with the requisite protection of his interests safeguarded by Article 8 (see Sommerfeld, cited above, \u00a7 66, and G\u00f6rg\u00fcl\u00fc, cited above, \u00a7\u00a7 41-42).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0In this connection, the Court reiterates that in cases concerning a person\u2019s relationship with his or her child, the procedural requirements implicit in Article 8 establish a duty to exercise exceptional diligence in view of the risk that the passage of time may result in a de facto determination of the matter (see, inter alia, Hoppe v. Germany, no.\u00a028422/95, \u00a7 54, 5 December 2002, and S\u00fc\u00df v. Germany, no. 40324/98, \u00a7\u00a0100, 10 November 2005).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "143.\u00a0\u00a0The applicant complained that the child contact proceedings had been excessively long. The Court notes that the proceedings regarding the applicant\u2019s request for a revised contact schedule indeed lasted from 15\u00a0September 2003, when he instituted the proceedings, until 24 March 2010, when the Supreme Court decided on the appeal against the interim order on the prohibition of contact. However, since the final decision terminating the proceedings was rendered on 10 April 2009 (see paragraph 92 above) and the appeal against the interim order therefore became devoid of purpose, the Court will limit its examination to the period until 10 April 2009.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "144.\u00a0\u00a0It cannot be overlooked that a considerable period of time elapsed before the first interim measure was adopted on 22 March 2005 (see paragraph 59 above), which was only followed by a decision on the merits more than a year later (see paragraph 68 above). However, it must also be noted that contact arrangements made previously were in place throughout this initial stage of proceedings and that the applicant maintained contact, albeit not regular, with his daughter. Moreover, the factor which weighed most heavily on the overall duration of proceedings was the applicant\u2019s own intense procedural activity. In the administrative proceedings he lodged a number of motions for the disqualification of officials assigned to his case and/or for disciplinary action against them (see paragraphs 50 and 57 above). In addition, he lodged numerous requests for audits or investigations with different supervisory authorities, which all required responses from the social work centres and courts (see paragraphs 51, 71 and 93 above) and slowed down the processing of his case. Further, in the proceedings before the Celje Social Work Centre oral hearings were rescheduled three times, twice owing to the applicant\u2019s motions for the disqualification of the competent official and once owing to his request for an adjournment (see paragraphs 57 and 64 above). Finally, the applicant, unsatisfied with the conclusions of the psychological reports, sought the appointment of new psychologists in both the administrative and non-contentious proceedings, and was granted both requests. However, despite three invitations to attend an interview by each of the experts, he failed to attend any of them (see paragraphs 68 and 82 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "145.\u00a0\u00a0Having regard to the foregoing, the Court considers that the domestic authorities cannot be criticised for failure to observe the requisite diligence in the handling of the applicant\u2019s case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "146.\u00a0\u00a0Finally, as regards the allegedly unreasonably lengthy divorce, child custody and maintenance proceedings, which lasted from 22 August 2001, when J.G. applied for a divorce, custody of S. and child maintenance, and ended on 15 May 2007, it must be noted that the issues of custody and child maintenance for the period from May 2002 onwards were resolved in the final instance on 11 May 2005. Therefore, the last two years of the proceedings only concerned the amount of S.\u2019s maintenance for the period from August 2001 to May 2002 and the applicant\u2019s request for the reopening of the proceedings. The Court thus considers that the proceedings were conducted sufficiently promptly, as required by Article 8 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "147.\u00a0\u00a0With regard to the applicant\u2019s complaint that the domestic authorities failed to enforce the contact schedule of 29 January 2002 and the decision of 15 November 2002, the Court reiterates, at the outset, that in addition to protecting the individual against arbitrary interference by public authorities, Article 8 also imposes positive obligations inherent in effective \u201crespect\u201d for family life (see Keegan v. Ireland, 26 May 1994, \u00a7 49, Series\u00a0A no. 290).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "148.\u00a0\u00a0In relation to the State\u2019s obligation to implement positive measures, the Court has held that Article 8 includes a right for parents that steps be taken to reunite them with their children and an obligation on the national authorities to facilitate such reunions (see, among other authorities, Ignaccolo-Zenide v. Romania, no. 31679/96, \u00a7 94, ECHR 2000-I, and Nuutinen v. Finland, no. 32842/96, \u00a7 127, ECHR 2000-VIII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "149.\u00a0\u00a0In cases concerning the enforcement of decisions in the sphere of family law, the Court has repeatedly found that the decisive factor is whether the national authorities have taken all necessary steps to facilitate that enforcement as can reasonably be demanded in the particular circumstances of each case (see, mutatis mutandis, Hokkanen, cited above, \u00a7\u00a058; Nuutinen, cited above, \u00a7 128; and Sylvester v. Austria, nos. 36812/97 and 40104/98, \u00a7 59, 24 April 2003).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "150.\u00a0\u00a0In this connection, the adequacy of a measure is to be judged by the swiftness of its implementation, as the passage of time can have irremediable consequences for relations between a child and a parent who are not living together (see Ignaccolo-Zenide, cited above, \u00a7 102).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "151.\u00a0\u00a0Turning to the circumstances of the present case, the Court notes that in addition to counselling provided by the Maribor Social Work Centre alongside the child contact proceedings, which was intended to rebuild the relationship between the applicant and S. but which failed to produce the desired results, the applicant was able to and did request enforcement of the child contact order of 15 November 2002 issued by the same centre. Over the period from July 2003 to April 2005, enforcement of the contact schedule was ordered on five occasions, four times by the Maribor Administrative Unit (see paragraph 43 above), and once by the Celje Social Work Centre (see paragraph 58 above). The first enforcement order of 11\u00a0July 2003 stated that a fine would be imposed in the event of J.G.\u2019s further non-compliance, and she was subsequently fined four times, the amounts varying from approximately EUR 62 to EUR 70. Moreover, each of the applicant\u2019s requests for enforcement was resolved within a few months at the latest.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "152.\u00a0\u00a0The Court observes that the enforcement orders and fines did not prove a successful means of regularising contact between the applicant and S. However, having regard to their relationship, the Court considers that this failure cannot be attributed to a lack of diligence on the part of the competent authorities. Thus, the Court concludes that the national authorities took all necessary steps which could reasonably be required of them in order to enforce the applicant\u2019s contact rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "153.\u00a0\u00a0It follows from the above considerations that there has been no violation of Article 8 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION TAKEN ALONE AND IN CONJUNCTION WITH ARTICLE 14",
+                        "elements": [
+                            {
+                                "content": "154.\u00a0\u00a0The applicant complained under Article 6 \u00a7 1 of the Convention that he had been denied access to court, as his contact rights had been determined by social work centres and not by the courts. Further, he alleged under Article 14 of the Convention that he had been discriminated against on the grounds that he and his former wife had lived separately, a fact which had resulted in the case being dealt with by social work centres and not by the courts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The relevant provisions of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 \u00a7 1",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights ..., everyone is entitled to a fair and public hearing ... by an independent and impartial tribunal established by law.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 14",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "155.\u00a0\u00a0The Court notes that the applicant\u2019s complaints about the lack of access to a court and discrimination with regard to access to a court are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "156.\u00a0\u00a0The applicant contended that the competence of the social work centres had been unconstitutional. In his reply to the Government\u2019s observations, he further argued that, as he had only been informed of the possibility of withdrawing the administrative request for a revised contact schedule and making an application before the courts almost a year after submitting the original request, if he had undertaken such an action, the overall proceedings would have taken even longer.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "157.\u00a0\u00a0With regard to the applicant\u2019s complaint that he had been denied his \u201cright to a court\u201d, the Government explained that even after the entry into force of the Amendment, social work centres had retained the competence to make an order in respect of child contact proceedings instituted prior to the entry into force of the Amendment (see paragraph 100 above). Further, the Government maintained that following the entry into force of the Amendment on 1 May 2004, the applicant had been informed on 17 May 2004 that he could withdraw his request for a revised contact schedule and lodge a similar request before the competent court, but he had declined to do so. Furthermore, as regards the applicant\u2019s complaint of discrimination due to the fact that he and J.G. had lived separately, the Government argued that pursuant to applicable law at the material time the division of competence between social work centres and the courts had been based on whether or not the issue of child contact was being decided within the scope of divorce or marriage annulment proceedings. The civil courts had only been competent to decide on child contact matters if an application for a child contact order had been made within the scope of such proceedings, and even then only in specific cases.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Access to court",
+                                "elements": [
+                                    {
+                                        "content": "158.\u00a0\u00a0The Court reiterates that Article 6 \u00a7 1 of the Convention guarantees everyone\u2019s right to have his or her civil rights and obligations determined by a court. It thus enshrines a \u201cright to a court\u201d, of which the right of access, namely the right to apply to a court in civil proceedings, is only one aspect (see Fayed v. the United Kingdom, 21 September 1994, \u00a7\u00a065, Series A no.\u00a0294B).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "159.\u00a0\u00a0However, the \u201cright to a court\u201d is not absolute. It lends itself to limitations which, however, must not restrict exercise of the right in such a way or to such an extent that the very essence of the right is impaired. They must pursue a legitimate aim and there must be a reasonable proportionality between the means employed and the aim sought to be achieved (see, among other authorities, Fayed, cited above, \u00a7 65; Bellet v. France, 4\u00a0December 1995, \u00a7 31, Series A no. 333-B; and Levages Prestations Services v. France, 23 October 1996, \u00a7 40, Reports 1996-V). The Court further reiterates that in order for the right of access to court to be effective, an individual must have a clear and practical opportunity to challenge an act interfering with his civil rights (see De Jorio v. Italy, no. 73936/01, \u00a7 45, 3\u00a0June 2004).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "160.\u00a0\u00a0The Court notes that in the present case the mediation process regarding the applicant\u2019s contact rights was concluded by an agreement reached before any decision on the merits was rendered in the divorce and custody proceedings, so the civil courts refused to decide on the matter in the course of those proceedings. Nevertheless, the administrative decisions adopted by the social work centres were subject to judicial review before the Administrative and Supreme Courts, as well as to constitutional appeal before the Constitutional Court. The applicant therefore had access to, and in fact used the available means of challenging the decisions rendered in the administrative proceedings. In this respect the Court observes that the Administrative Court was vested with full jurisdiction to decide questions of both fact and law, and also carried out a full review of the decision of 15\u00a0November 2002 and the interim order of 22 March 2005 (see paragraphs\u00a041 and 66, respectively). The applicant\u2019s right of access to court was thus not impaired in any way, as the decisions adopted in the administrative proceedings were reviewed thoroughly before three levels of jurisdiction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "161.\u00a0\u00a0Moreover, it is to be noted that the applicant was informed less than a month after the Amendment became operational of the possibility of withdrawing his administrative request for a revised contact schedule and lodging a new motion before the civil courts, but that he refused to do so (see paragraph 53 above). Even if such an action might have seemed impracticable to him in view of the fact that administrative proceedings had already been pending for about eight months, the Court observes that he had a realistic opportunity to have his case examined by the civil courts almost three years before it was eventually transferred to them pursuant to the then applicable legislation (see paragraph 72 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "162.\u00a0\u00a0In light of these considerations, the Court concludes that the applicant\u2019s right of access to court was not limited in a way which was incompatible with the requirements of Article 6 \u00a7 1 of the Convention. Accordingly, there has been no violation of that Article on this point.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": " (b)\u00a0\u00a0Alleged discrimination",
+                                "elements": [
+                                    {
+                                        "content": "163.\u00a0\u00a0As regards the applicant\u2019s complaint under Article 14 taken in conjunction with Article 6 that he had been discriminated against on account of the fact that his contact rights had been decided by social work centres instead of the courts on the basis of the fact that he and his former wife had lived separately, the Court notes that, even assuming that this was true, the applicant failed to demonstrate that the administrative proceedings were significantly different from non-contentious civil proceedings. From the point of view of substantive law, both types of procedures were intended to decide on the contact between a child whose parents were separated and a parent who did not reside with his or her child and thereby enable them to exercise their right to contact.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "164.\u00a0\u00a0Moreover, it does not appear that with regard to the applicant\u2019s procedural position in these proceedings, the competence of the social work centres differed in any relevant respect from those of the courts in non-contentious proceedings, as also established by the Constitutional Court (see paragraph 98 above). The applicant was able to participate effectively in both types of proceedings: he could attend hearings, submit evidence and comment on the submissions of the other party, and he also had the right to appeal. Furthermore, it must also be reiterated that the administrative decisions adopted by the social work centres were subject to judicial review before three levels of jurisdiction and that the applicant\u2019s right of access to court was in no way impaired.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "165.\u00a0\u00a0Accordingly, the Court finds that there has been no violation of Article 14 taken in conjunction with Article 6 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": " 166.\u00a0\u00a0Lastly, the applicant, relying on Article 6 of the Convention, complained that the national authorities, and in particular the judge deciding on the contact schedule in the non-contentious proceedings, had been biased. Moreover, he relied on Article 17 of the Convention to complain that he had been denied the right to judicial review on the basis that he and his former wife had separated.",
+                                "elements": []
+                            },
+                            {
+                                "content": "167.\u00a0\u00a0In the light of all the material in its possession, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. Accordingly, this part of the application must be rejected as manifestly ill-founded and declared inadmissible pursuant to Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares admissible the applicant\u2019s complaints under Article 8 about the excessive restriction and subsequent prohibition of contact with his daughter, the delays in the divorce, child custody and maintenance proceedings and the second and third set of administrative and non-contentious child contact proceedings and the non-enforcement of the contact schedule and his complaints under Article 6 taken alone and in conjunction with Article 14 about the lack of access to a court and discrimination with regard to access to a court, and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 6 of the Convention taken alone and in conjunction with Article 14.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 3 October 2013, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Mark Villiger",
+            "role": "president"
+        },
+        {
+            "name": "Angelika Nu\u00dfberger",
+            "role": "judges"
+        },
+        {
+            "name": "Bo\u0161tjan M. Zupan\u010di\u010d",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Andr\u00e9 Potocki",
+            "role": "judges"
+        },
+        {
+            "name": "Paul Lemmens",
+            "role": "judges"
+        },
+        {
+            "name": "Ale\u0161 Pejchal",
+            "role": "judges"
+        },
+        {
+            "name": "Claudia Westerdiek",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GOBEC v. SLOVENIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-126538.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2013:1003JUD000723304",
+    "externalsources": [],
+    "extractedappno": [
+        "7233/04",
+        "8673/05",
+        "9733/05",
+        "25165/94",
+        "36813/97",
+        "71503/01",
+        "34979/97",
+        "43155/05",
+        "41293/05",
+        "25642/94",
+        "74969/01",
+        "31871/96",
+        "30943/96",
+        "39221/98",
+        "41963/98",
+        "18830/07",
+        "28422/95",
+        "40324/98",
+        "31679/96",
+        "32842/96",
+        "36812/97",
+        "40104/98",
+        "73936/01"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-126538",
+    "judgementdate": "03/10/2013 00:00:00",
+    "kpdate": "03/10/2013 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "7",
+        "451",
+        "634",
+        "425",
+        "343",
+        "100"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "14",
+        "8",
+        "8-1",
+        "6-1",
+        "6"
+    ],
+    "parties": [
+        "GOBEC",
+        "SLOVENIA"
+    ],
+    "rank": "1033.61364746094",
+    "representedby": [
+        "VERSTOVSEK B."
+    ],
+    "respondent": "SVN",
+    "respondentOrderEng": "43",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "384865",
+    "typedescription": "15"
+}

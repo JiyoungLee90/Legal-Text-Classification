@@ -1,0 +1,1350 @@
+{
+    "__articles": "3;5;5-1;6;6-1;11;11-1;11-2;13;13+3;35;35-1;41",
+    "__conclusion": "Preliminary objection joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Violation of Article 11 - Freedom of assembly and association (Article 11-1 - Freedom of peaceful assembly);Violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Criminal charge;Fair hearing);Violation of Article 5 - Right to liberty and security (Article 5-1 - Deprivation of liberty;Lawful arrest or detention;Procedure prescribed by law);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Degrading treatment;Inhuman treatment;Prohibition of torture);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "76204/11",
+    "article": [
+        "13",
+        "3",
+        "35",
+        "5",
+        "6",
+        "11",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 35-1 - Exhaustion of domestic remedies"
+            ],
+            "element": "Preliminary objection joined to merits and dismissed",
+            "type": "other"
+        },
+        {
+            "article": "11",
+            "base_article": "11",
+            "details": [
+                "Article 11-1 - Freedom of peaceful assembly"
+            ],
+            "element": "Violation of Article 11 - Freedom of assembly and association",
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Criminal charge",
+                "Fair hearing"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Deprivation of liberty",
+                "Lawful arrest or detention",
+                "Procedure prescribed by law"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-148286.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 76204/11) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Russian nationals, Mr Aleksey Anatolyevich Navalnyy and Mr Ilya Valeryevich Yashin (\u201cthe applicants\u201d), on 11\u00a0December 2011.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented respectively by Ms O. Mikhaylova and Mr V. Prokhorov, lawyers practising in Moscow. The Russian Government (\u201cthe Government\u201d) were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants complained that their arrest at a demonstration and their subsequent detention had violated their right to peaceful assembly, freedom of expression and liberty. They alleged that the administrative proceedings before the domestic courts had fallen short of guarantees of a fair hearing. They also complained of appalling conditions at the detention facility, which they regarded as inhuman and degrading.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 8 February 2012 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicants were born in 1976 and 1983 respectively and live in Moscow. Both applicants are political activists and opposition leaders. The first applicant is also a well-known anti-corruption campaigner and a popular blogger. The second applicant is a leader of the political movement \u201cSolidarnost\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Public demonstration on 5 December 2011 and the applicants\u2019 arrest",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0On 4 December 2011 general elections of the State Duma took place in Russia.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On 5 December 2011 the applicants took part in a public demonstration (a meeting) at Chistyye Prudy, Moscow, to protest against the allegedly rigged elections. The demonstration had been duly authorised by the mayor of Moscow. The number of participants at the meeting was estimated between 5,000 and 10,000. During the meeting, conducted by the second applicant, the first applicant addressed the participants with a speech calling for fresh, fair elections and describing United Russia, the election frontrunner, as \u201ca party of crooks and thieves\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0After the demonstration the applicants were arrested. The parties disagreed as to the circumstance of their arrest, and their respective submissions are summarised below.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0The applicants claimed that at the end of the meeting they had headed, with other people, towards the Kuznetskiy Most metro station, where the first applicant had left his car. They were walking along the pavement, leaving the road clear for traffic. Suddenly their way was blocked by the riot police (\u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0432\u043e\u0439\u0441\u043a \u0438 OMO\u041d). Without any introduction or demand, the police surrounded a group of about one hundred protesters, including the applicants, pressing them against a building. The surrounded group chanted \u201cOne for all, and all for one!\u201d. The riot police then began to arrest the protesters. According to the applicants, no one put up any resistance. They obeyed the police and followed them to the police bus.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0According to the Government, at the end of the meeting the second applicant called on the participants to march down Myasnitskaya Street onto Lubyanskaya Square and then to the office of the Central Electoral Commission. At 8.30. p.m. about sixty people, including the applicants, began walking down Chistoprudnyy Boulevard, Bolshaya Lubyanka Street and Rozhdestvenka Street. They walked along the road, obstructing the traffic and chanting slogans such as \u201cThis is our city!\u201d and \u201cDown with the police state!\u201d At the crossroads of Pushechnaya and Rozhdestvenka Streets the police blocked the march and ordered the marchers to stop. They pushed thought the cordon and went on until they were stopped by the police again at 2 Teatralnyy Proyezd. They ignored the repeated demands of the police to stop and thereby prevented the police from carrying out their mission of securing public order. Confronted with this persistent behaviour, the police arrested the applicants.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0Both applicants were arrested at about 8.45 p.m. and were taken to a police bus.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicants\u2019 transfer to police stations and their overnight detention",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0At about 9.40 p.m. the applicants were taken to the Severnoye Izmaylovo District police station, Moscow. At 11.40 p.m. the first applicant was subjected to a body search, which lasted until 12.15 a.m. His personal affairs, including his mobile phone, barrister licence, watch, money, credit cards, driving licence and some items of clothing were seized. The second applicant was searched as well, and his mobile phone, belt, watch, whistle and a badge reading \u201cAgainst the Party of Crooks and Thieves\u201d were seized. The list of the seized objects was recorded in the search report. The applicants have been unable to retrieve them, although those objects were not attached to the case file.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The applicants requested that their lawyers, who had arrived at the police station and had presented their authority, be allowed to see them, but their request was refused. The applicants were not allowed to make a phone call to their families either.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0Both applicants lodged complaints at the police station alleging that their rights had been violated during their arrest and detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0At about 12.45 a.m. on 6 December 2011 the applicants were transferred from Severnoye Izmaylovo police station to the Vostochnyy District police station, Moscow, where they arrived at about 1.45 a.m. on the same day. They requested to see a lawyer and to make a phone call, but this was refused again. The first applicant lodged a complaint about the refusal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0At 2.30 a.m. on the same night, the applicants were transferred to the Kitay-Gorod District police station, where police reports were drawn up stating that the applicants had been escorted to the police station in accordance with Article 27.2 of the Code of Administrative Offences. At 2.40 a.m. further police reports were drawn up in which it was decided to remand the applicants in custody under Article 27.3 of the Code of Administrative Offences. The applicants were charged with an administrative offence for refusing to comply with a lawful order of the police, in breach of Article\u00a019.3 of the Code of Administrative Offences. The charges were based on the identical statements of two police officers, I.\u00a0and F., who alleged that they had ordered the applicants to follow them to the police bus to give statements on the administrative offence but that the applicants had pushed them away and had therefore been arrested.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0At the Kitay-Gorod police station the applicants requested permission to see their lawyers and to telephone their families, but their requests were refused.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The first applicant remained in custody at the police station until 3\u00a0p.m. on 6 December 2011, and the second applicant until 10 a.m. on that day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0The applicants claimed that the conditions of detention during their transfer between the police stations and in the cell at the Kitay-Gorod police station were inhuman and degrading. In particular, they claimed that they had spent six hours being driven to different police stations without being given any food or drinking water. At the Kitay-Gorod police station they were placed together in a cell measuring about 6 sq. m with concrete walls, a metal grill, a concrete floor, no windows and no furniture except for two narrow wooden benches. The cell was poorly lit and had no ventilation. There was no sanitary equipment, beds or bedding. The applicants did not receive any food or water until later on 6 December 2011 when they were allowed to receive a parcel from their families containing drinking water and crackers; no other food was allowed in the parcels.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The Government submitted that the applicants had spent about one hour in transit to the Vostochnyy District police station and then about forty-five\u00a0minutes in transit to the Kitay-Gorod police station, which was not long enough to require the provision of meals. According to the Government, the applicants were detained at the Kitay-Gorod police station in an administrative-detention cell measuring 12.3 sq. m equipped with artificial lighting and mandatory ventilation. They claimed that the applicants had been provided with a sleeping place \u2013 a wooden bench \u2013 and bedding, which they had refused. They provided a photograph of the cell with a metal grill, a close-up photograph of the bench, showing with a measuring tape its width of 47 cm, and another photograph showing the same bench covered with a blanket and with a pillow placed on it. The Government further contended that the cells had to be cleaned and disinfected twice a day and that pest control had to be carried out once every three months, in accordance with the cleaning service agreement between the Ministry of the Interior and a private company. The Government provided a copy of the service agreement in support of that statement. They alleged that the applicants had not complained about the conditions of their detention. According to the Government, the applicants had been offered food at the Kitay-Gorod police station, but had refused to take it.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Administrative proceedings",
+                                "elements": [
+                                    {
+                                        "content": "21.\u00a0\u00a0On 6 December 2011 the applicants were brought before the Justice of the Peace to have their charges examined in administrative proceedings. They met their counsels for the first time shortly before the hearing. The case of the second applicant was examined first, and then the case of the first applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Hearing of the administrative case against Mr Yashin",
+                                        "elements": [
+                                            {
+                                                "content": "22.\u00a0\u00a0The administrative case was examined by the acting Justice of the Peace of Circuit no. 370 of the Tverskoy District of Moscow, Ms B. At the beginning of the hearing the second applicant challenged the judge on the grounds that she had previously found him guilty of an administrative offence and sentenced him to five days\u2019 administrative detention. After that conviction the second applicant had lodged numerous complaints about Ms\u00a0B. and had campaigned against her in his online blogs. The Justice of the Peace dismissed the challenge against her.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0The second applicant requested leave to call and examine five witnesses, including I. and F., the police officers who had drawn up the arrest reports; K., the on-duty police officer at the Kitay-Gorod police station; Mr B., a fellow activist; and the first applicant. The request was granted in respect of I., F. and B.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The second applicant complained of unlawful detention during the first six hours after his arrest, poor conditions of detention at the KitayGorod police station and the acts and omissions of the officials at the Severnoye Izmaylovo police station. However, those complaints were not examined.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0The Justice of the Peace questioned the witnesses. Police officers I.\u00a0and F. stated that after the public meeting the second applicant had participated, together with some sixty people, in an unauthorised march from Chistoprudnyy Boulevard, through Bolshaya Lubyanka Street, Kuznetskiy Most Street and down Rozhdestvenka Street. The marchers had been obstructing the traffic, chanting slogans and ignoring police orders made on a loudspeaker to stop the march. They (I. and F.) had required the second applicant to follow them to the police bus in order to draw up a report on the administrative offence, but he had ignored them, so they had seized him by the arms; he had resisted, refusing to present his documents and calling out to the crowd.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0The second applicant pleaded not guilty and contested the police officers\u2019 testimonies. He testified that he had been arrested at the indicated address while walking alongside other people returning from the authorised meeting. He insisted that he had been arrested without any warning or orders from the police.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0Witness B. testified that he \u201chad been present during Mr Yashin\u2019s arrest\u201d and that \u201cthe policemen had not given Mr Yashin any orders before arresting him\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On the same day the Justice of the Peace found the second applicant guilty of having disobeyed a lawful order of the police. She based her findings on the witness statements of I. and F., their written reports and the report on the administrative arrest. She dismissed the testimonies given by the second applicant and B. on the grounds that they had contradicted the police officers\u2019 testimonies and reports. The second applicant was convicted under Article 19.3 of the Code of Administrative Offences and sentenced to fifteen days\u2019 administrative detention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Hearing of the administrative case against Mr Navalnyy",
+                                        "elements": [
+                                            {
+                                                "content": "29.\u00a0\u00a0The first applicant\u2019s case was examined after the second applicant\u2019s trial by the same Justice of the Peace, Ms B. In the interval between the two hearings the first applicant\u2019s counsel was able briefly to access the case file of the second applicant and meet the first applicant for the first time.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0According to the applicants, the proceedings in the first applicant\u2019s case began in the absence of members of the public, who were prevented from entering the hearing room. Many were barred from approaching the courthouse, which was cordoned off by the police. Later, during the proceedings, eight journalists were allowed in at the first applicant\u2019s insistent requests. The Government contended, on the contrary, that the proceedings in this case had been open to the public.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0At the beginning of the trial the first applicant requested that the case be transferred, in accordance with the statutory rules, to a court at his place of residence; that the hearing be adjourned in order to give him time to prepare his defence; that the verbatim records of the hearing be kept open; that copies of the complaints that he had lodged at the police stations the previous night be made available to him; and that five eyewitnesses of his arrest, including the second applicant, be called and examined.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The Justice of the Peace dismissed all of the requests, except one: that T. and A. be called as witnesses. The first applicant then challenged the Justice of the Peace, unsuccessfully.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0I. and F. gave testimonies identical to those they had given in the second applicant\u2019s case. The Justice of the Peace disallowed the following questions to I. and F put by the defence counsel: \u201cWhat orders did you personally give to Mr Navalnyy?\u201d, \u201cWho gave the order to arrest Mr\u00a0Navalnyy?\u201d and \u201cWhy were two policemen\u2019s reports identical?\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0The first applicant pleaded not guilty and contested the police officers\u2019 testimonies. He testified that he had been returning from the authorised meeting, walking, together with other people, not marching or chanting any slogans. However, the police had repeatedly obstructed their way and had then arrested them. He insisted that he had not received any orders from the police and had not resisted the arrest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0Witness T. testified that he had seen the applicant\u2019s arrest. It had been noisy and he had not heard the police officers giving the first applicant any orders before arresting him. The police had announced through a loudspeaker \u201cYour actions are unlawful\u201d while surrounding a group of people, and had then begun arresting them. He had not seen the first applicant resisting the arrest. Witness A. testified that he had been walking down Teatralnyy Proyezd and had seen people in uniform arresting the first applicant on the pavement; during the arrest the police had announced through a loudspeaker \u201cYour actions are unlawful\u201d; witness A. had not seen the first applicant resisting the police during the arrest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The first applicant requested that two video recordings of his arrest, shot by T. and A., be admitted as evidence. He also requested that the court obtain and examine the video footage which the police had at their disposal. Those requests were dismissed on the grounds that the court had no technical means of playing the recordings and that it would be unacceptable to use the devices provided by the defence. Those requests were not joined to the case file on the grounds that they had been submitted at the wrong stage of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0According to the first applicant, most of the questions put by the defence to the witnesses were disallowed by the Justice of the Peace. She also refused to entertain his complaints concerning the lack of access to a lawyer, the refusal of a statutory phone call after the arrest, the allegedly unlawful detention during the first six hours after the arrest, the seizure of his possessions during the search, and the inhuman and degrading conditions of transfer and of detention at the Kitay-Gorod police station.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0On the same day the Justice of the Peace found the first applicant guilty of having disobeyed the lawful order of the police. As in the second applicant\u2019s case, she based her findings on the witness statements of I. and F., their written reports and the report on the administrative arrest. She dismissed the testimonies of the applicant, A. and T. on the grounds that they had contradicted the police officers\u2019 testimonies and reports, and that no reasons for mistrusting the latter had been established. The first applicant was convicted under Article 19.3 of the Code of Administrative Offences and sentenced to fifteen days\u2019 administrative detention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Appeal proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "39.\u00a0\u00a0On 6 December 2011 both applicants lodged appeals, claiming that their arrest and conviction for the administrative offence had been in breach of domestic law and in violation of the Convention. They contested the findings of fact made by the first instance as regards the events following their departure from the authorised meeting. In addition, they complained about the manner in which the first-instance hearing had been conducted, in particular, about the refusal of the Justice of the Peace to grant their requests, to admit the video materials as evidence and to call all the witnesses requested by the defence. They also challenged the grounds on which the court had dismissed the testimonies of the applicants and the defence witnesses. The applicants also complained of unlawful detention during the first six hours after their arrest, lack of access to a lawyer and the conditions in which they had been transferred between the police stations and remanded in custody at the Kitay-Gorod police station.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0On 7 December 2011 the Tverskoy District Court of Moscow examined the applicants\u2019 appeals in separate proceedings. In both cases the court dismissed the complaints about the refusals to hear witnesses and to admit the evidence requested by the applicants. It also rejected the applicants\u2019 requests to have those witnesses called. It rejected the request to admit the video recordings in evidence because of their \u201cunknown provenance\u201d, and it refused to keep a verbatim record of the hearing because it considered it unnecessary. It granted the request to join a photograph of the first applicant\u2019s arrest to the case file. On the same day the Tverskoy District Court dismissed the applicants\u2019 appeals and upheld the first-instance judgment in both cases, citing the same reasons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0In the first applicant\u2019s case the court held, in particular:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cThe Justice of the Peace has correctly established that Mr Navalnyy had disobeyed a lawful order of a police officer ..., in particular: at 8.45 p.m. on 5 December 2011 at 2 Teatralnyy Proyezd, Moscow (near Metropol hotel), after an authorised public event (meeting), in a park of Chistoprudnyy Boulevard, he participated with a group of about 60 people in a march that had not been notified to the executive authorities, went out on the road and continued walking from Chistoprudnyy Boulevard, down the side streets to Bolshaya Lubyanka Street, Kuznetskiy Most Street, and Rozhdestvenka Street in the direction of Red Square; by doing so he obstructed the traffic and created a risk of accident while shouting out \u201cShame!\u201d, \u201cThis is our city!\u201d, \u201cRussia without Putin!\u201d, \u201cDown with the police state!\u201d. In order to intercept the march a [police] cordon was set up at the crossroads of Pushechnaya and Rozhdestvenka Streets. Repeated lawful orders to stop and end the march were given through a loudspeaker; despite that, Mr Navalnyy with a group of people pushed through the cordon and came out onto Teatralnyy Proyezd while continuing to chant slogans, and there they were met by the police cordon. [He] did not react to the repeated lawful orders to stop these acts and disperse, continued his unlawful acts drawing the attention of citizens and the press. During his arrest Mr Navalnyy, in reply to an invitation to proceed to the police bus for the issuing of an administrative offence report, began to push away [I.] and [F.], trying to cause panic among people, and by doing so [he] manifested his refusal to comply with the lawful orders of the police and prevented them from carrying out their duties, an offence under Article 19.3 of the Code of Administrative Offences.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Despite his denial, Mr Navalnyy\u2019s guilt is proven by the report on the administrative charges ..., the statements of the police officers [I.] and [F.] [and] their testimonies given to the Justice of the Peace at the court hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The Justice of the Peace gave a correct and convincing assessment of this evidence, which led to the conclusion that Mr Navalnyy had deliberately refused to comply with the police officers\u2019 lawful order to stop his actions breaching public order, and continued them in defiance of [the police order].",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "This evidence, which is relevant, admissible and credible, is consistent. No bias on the part of the aforementioned witnesses or grounds for them to slander Mr Navalnyy have been established [by the court], including the appeal instance; therefore the explanations of Mr Navalnyy, as well and the witness testimonies of A. and T., have been duly rejected for want of reliable corroboration; the ruling of the Justice of the Peace is sufficiently reasoned in this respect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... As follows from the [escorting report] and the [detention report], the [police] had sufficient grounds for arresting Mr Navalnyy and for escorting him to the KitayGorod police station, Moscow, in particular, the impossibility of drawing up an administrative offence report on the spot. The reports comply with the requirements of the law, in substance and in form. At the same time the court dismisses the arguments of the defence concerning the unlawful deprivation of liberty during six hours as unsubstantiated. As follows from the case file, after his arrest at Teatralnyy Proyezd, at 2.30 a.m. on 6 December 2011 Mr Navalnyy was taken to the Kitay-Gorod police station, Moscow, where the administrative material against him was issued. On\u00a06\u00a0December 2011 the administrative case was remitted to the Justice of the Peace. The police officers have complied with the terms of administrative detention provided for by Article 27.5 of the Code of Administrative Offences.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "During the [appeal] hearing ... Mr Yashin was examined as a witness. He testified that at the time of Mr Navalnyy\u2019s arrest he had been with him at Teatralnaya Square. At the time of arrest [they] were on the pavement near the underpass, and did not commit any unlawful acts. About 100 people were blocked by the riot police. Then both Mr Navalnyy and Mr Yashin were arrested, virtually simultaneously. At this point the police officers did not give any orders, there was no disobedience on the part of [the applicants]. The police officers [I.] and [F.] did not take part in their arrest; their court testimonies were false.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Giving its assessment of the witness testimony of Mr Yashin, the court finds it unreliable and dismisses it because it contradicts the testimonies of [I.] and [F.], which are logical, consistent, concordant and objectively corroborated by the written evidence ...\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The judgment held in the second applicant\u2019s case was essentially the same, including the similar testimonies of the other applicant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The Federal Law on Assemblies, Meetings, Demonstrations, Marches and Picketing (no. 54-FZ of 18 August 2004 \u2013 \u201cthe Law on Assemblies\u201d) provided, at the material time, that a public event could be stopped if (i) there was a real threat to life or the physical integrity of persons or property; (ii) the participants had acted unlawfully or the event organiser had knowingly breached the requirements of the Act as regards the conduct of the event (section 16). In such circumstances, a representative of the public authority, who had to be present at the event, could order the event organiser to put an end to the event. The representative had to explain the reasons for such an order and provide time for compliance with it. If the organiser did not comply, the public official could issue the same order to the participants. If both failed to comply, the police were to take appropriate measures to stop the event (section 17).",
+                                "elements": []
+                            },
+                            {
+                                "content": "44.\u00a0\u00a0The relevant provisions of the Code of Administrative Offences of 30 December 2001 at the material time read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cFailure to obey a lawful order or demand of a police officer ... in connection with the performance of their official duties related to maintaining public order and security, or impeding the performance by them of their official duties, shall be punishable by a fine of between 500 and 1,000 Russian roubles (RUB) or by administrative detention of up to fifteen days.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Breaches of the established procedure for the organisation of public gatherings, meetings, demonstrations, marches or pickets shall be punishable by an administrative fine of between ten and twenty times the minimum wage, payable by the organisers.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. Breaches of the established procedure for the conduct of public gatherings, meetings, demonstrations, marches or pickets shall be punishable by an administrative fine of between RUB 1,000 and RUB 2,000 for the organisers, and between RUB 500 and RUB 1,000 for the participants.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0The escorting or the transfer by force of an individual for the purpose of drawing up an administrative offence report, if this cannot be done at the place where the offence was discovered and if the drawing up of a report is mandatory, shall be carried out:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(1)\u00a0\u00a0by the police ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The escort operation shall be carried out as quickly as possible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0The escort operation shall be recorded in an escort operation report, an administrative offence report or an administrative detention report. The escorted person shall be given a copy of the escort operation report if he or she so requests.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Administrative detention or short-term restriction of an individual\u2019s liberty may be applied in exceptional cases if this is necessary for the prompt and proper examination of the alleged administrative offence or to secure the enforcement of any penalty imposed by a judgment concerning an administrative offence. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Where the detained person so requests, his family, the administrative department at his place of work or study and his defence counsel shall be informed of his whereabouts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0The detained person shall have his rights and obligations under this Code explained to him, and the corresponding entry shall be made in the administrative arrest report.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Administrative detention shall be recorded in a report ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0... If he or she so requests, the detained person shall be given a copy of the administrative detention report.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0The duration of administrative detention shall not exceed three hours, except in the cases set out in paragraphs 2 and 3 of this Article.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Persons subject to administrative proceedings concerning offences involving unlawful crossing of the Russian border ... may be subject to administrative detention for up to 48 hours.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Persons subject to administrative proceedings concerning offences punishable, among other administrative sanctions, by administrative detention may be subject to administrative detention for up to 48 hours.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The term of the administrative detention is calculated from the time when [a person] escorted in accordance with Article 27.2 is taken [to the police station], and in respect of a person in a state of alcoholic intoxication, from the time of his sobering up.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 10 AND 11 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "45.\u00a0\u00a0The applicants complained that their arrest and detention following a demonstration on 5 December 2011, as well as their conviction for an administrative offence, had violated their right to freedom of expression and to freedom of peaceful assembly guaranteed by Articles 10 and 11 of the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the State.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court notes that this part of application is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "47.\u00a0\u00a0The applicants alleged that they had been arrested after having taken part in an authorised political rally, and had been placed in custody and subsequently convicted of an administrative offence as a reprisal for their active participation in the rally and for expressing the political views of the opposition. They both contended that they had not planned a march after the authorised meeting. They alleged that they had been walking towards the first applicant\u2019s car when the riot police had obstructed their way and arrested them without giving any warning or reason. Both applicants denied having received any orders from the police. They referred to the testimonies of the eyewitnesses before the Justice of the Peace, who had stated that the applicants had not contravened the police. They complained that the courts had discarded that evidence as irrelevant and biased.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Government accepted that the applicants\u2019 arrest and their conviction for an administrative offence had constituted an interference with their freedom of expression and their freedom of assembly. However, they maintained that those measures had been lawful, had pursued the legitimate aim of maintaining public order and had been proportionate to that aim, in compliance with Articles 10 \u00a7 2 and 11 \u00a7 2 of the Convention. They claimed that the applicants had attempted to conduct a spontaneous unauthorised public march in the centre of Moscow, that the police had lawfully demanded them to stop the march, but that they had persisted with their illegal conduct and had had to be dispersed and arrested.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The Court notes that, in the circumstances of the case, Article 10 is to be regarded as a lex generalis in relation to Article 11, a lex specialis (see Ezelin v. France, 26 April 1991, \u00a7 35, Series A no. 202, and Kasparov and Others v. Russia, no. 21613/07, \u00a7\u00a7 82-83, 3 October 2013). Accordingly, the Court will examine this complaint under Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0On the other hand, notwithstanding its autonomous role and particular sphere of application, Article 11 must, in the present case, also be considered in the light of Article 10. The protection of personal opinions, secured by Article 10, is one of the objectives of freedom of peaceful assembly as enshrined in Article 11 (see Ezelin, cited above, \u00a7 37).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The Court reiterates that an interference with the exercise of freedom of peaceful assembly does not need to amount to an outright ban, legal or de facto, but can consist in various other measures taken by the authorities. The term \u201crestrictions\u201d in Article 11 \u00a7 2 must be interpreted as including both measures taken before or during an assembly and those, such as punitive measures, taken afterwards (see Ezelin, cited above, \u00a7 39). For instance, a prior ban can have a chilling effect on the persons who intend to participate in a rally and thus amount to an interference, even if the rally subsequently proceeds without hindrance on the part of the authorities (see B\u0105czkowski and Others v. Poland, no.\u00a01543/06, \u00a7 66-68, 3\u00a0May 2007). A refusal to allow an individual to travel for the purpose of attending a meeting amounts to an interference as well (see Djavit An v.\u00a0Turkey, no.\u00a020652/92, \u00a7\u00a7 5962, ECHR\u00a02003III). So too do measures taken by the authorities during a rally, such as dispersal of the rally or the arrest of participants (see Oya Ataman v. \u00a0Turkey, no. 74552/01, \u00a7\u00a7 7 and 30, ECHR 2006XIII, and Hyde Park and Others v. , no. 33482/06, \u00a7\u00a7\u00a09, 13, 16, 41, 44 and 48, 31 March 2009), and penalties imposed for having taken part in a rally (see Ezelin, cited above, \u00a7 41; Osmani and Others v.\u00a0\u201cthe\u00a0former Yugoslav Republic of Macedonia\u201d (dec.), no.\u00a050841/99, ECHR 2001X; Mkrtchyan v. Armenia, no. 6562/03, \u00a7 37, 11\u00a0January 2007; Galstyan v. Armenia, no.\u00a026986/03, \u00a7\u00a7\u00a0100102, 15 November 2007; Ashughyan v. Armenia, no.\u00a033268/03, \u00a7\u00a7\u00a07577, 17 July 2008; and Sergey Kuznetsov v. Russia, no. 10877/04, \u00a7\u00a036, 23 October 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0In the present case, the Government stressed that the applicants had been holding an unauthorised demonstration which had had to be dispersed, and that since the applicants had failed to obey the order to stop the march, it had been necessary to arrest them in order to maintain public order. They also submitted that the applicants had been convicted of an administrative offence for their failure to follow the police instruction to stop the march, imposed in accordance with section 17.4 of the Federal Law on Assemblies. That provision stipulated the imposition of administrative liability on participants of public events for non-compliance with lawful orders of the police. The applicants, for their part, considered that in fact they had been sanctioned for having taken part in an authorised demonstration at Chistyye Prudy. The Court considers that under any interpretation there was a clear and acknowledged link between the exercise of the freedom of peaceful assembly by the applicants and the measures taken against them. Accordingly, their arrest, detention and the ensuing administrative charges constituted an interference with their right guaranteed by Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that the right to freedom of assembly is a fundamental right in a democratic society and one of the foundations of such a society (see among numerous authorities, Galstyan, cited above, \u00a7\u00a0114). This right, of which the protection of personal opinion is one of the objectives, is subject to a number of exceptions which must be narrowly interpreted and the necessity for any restrictions must be convincingly established. When examining whether restrictions on the rights and freedoms guaranteed by the Convention can be considered \u201cnecessary in a democratic society\u201d, the Contracting States enjoy a certain but not unlimited margin of appreciation. An interference will be considered \u201cnecessary in a democratic society\u201d for a legitimate aim if it answers a \u201cpressing social need\u201d and, in particular, if it is proportionate to the legitimate aim pursued and if the reasons adduced by the national authorities to justify it are \u201crelevant and sufficient\u201d (see, for example, Coster v. the United Kingdom [GC], no. , \u00a7 104, 18 January 2001, and S. and Marper v.\u00a0the\u00a0United Kingdom [GC], nos.  and , \u00a7 101, ECHR\u00a02008). It is, in any event, for the Court to give a final ruling on the restriction\u2019s compatibility with the Convention and this is to be done by assessing the circumstances of a particular case (see Osmani and Others, cited above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0In the light of those principles, the Court will examine whether the interference with the applicants\u2019 right to peaceful assembly was lawful, pursued a legitimate aim and was necessary in a democratic society.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court observes that in contesting the lawfulness of the measures taken against them, the applicants alleged that the domestic decisions had been based on false representation of the underlying facts. They contended, in particular, that they had been walking along the pavement without meaning to hold a march; they denied that they had received an order from the police to stop, or that they had disobeyed any order of the police.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0It is undisputed that on 5\u00a0December 2011 the applicants took part in an authorised and peaceful public demonstration at Chistyye Prudy. It is also common ground that after the meeting the applicants walked for about 1.5 km in a group of about sixty to one hundred people until they were intercepted by the riot police at 2 Teatralnyy Proyezd. According to the authorities, the applicants walked from Chistoprudnyy Boulevard, down Bolshaya Lubyanka Street, Kuznetskiy Most Street and Rozhdestvenka Street. That route has not been contested by the applicants at any stage, so the Court will consider it as an established fact. Against that background, the applicants\u2019 allegation that at the time of their arrest they were heading towards their car near Kuznetskiy Most metro station appears inconsistent, because they must have passed that point long before reaching the site of their arrest. In any event, it is clear that by that stage the applicants had walked some distance together with a certain number of people. Irrespective of whether they were shouting slogans and whether they were walking on the road or the pavement, it was not unreasonable for the authorities to have taken the crowd for a spontaneous march, even if the applicants themselves had not perceived it as such.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0As regards the applicants\u2019 ensuing confrontation with the riot police, the parties disagree as to whether the police had ordered the applicants to stop the march before they decided to arrest them. They also disagree as to whether the applicants pushed the police officers away or otherwise resisted the arrest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0Police officers I. and F. claimed that they had given repeated warnings to the applicants before proceeding with their arrest and contended that the applicants had first ignored them and had then resisted the arrest. The testimonies to the contrary given by both applicants and three other witnesses were rejected by the courts because of their incompatibility with the statements given by I. and F., on the ground that the latter had no reason to slander the defendants. As the file stands, the Court has insufficient material in support of either party\u2019s account of the events, and it is unable to establish whether the police gave any orders to the applicants before proceeding with their arrest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0Consequently, the Court cannot decide on the basis of the evidence at its disposal whether the authorities acted lawfully. In any event, it considers that in this case the issue of compliance with the law is indissociable from the question whether the interference was \u201cnecessary in a democratic society\u201d. It will therefore examine this issue below (see Christian Democratic People\u2019s Party v. Moldova, no. 28793/02, \u00a7 53, ECHR 2006II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60\u00a0\u00a0Turning to the existence of a legitimate aim, the Court will accept that the applicants\u2019 arrest and their conviction for an administrative offence pursued the legitimate aim of maintaining public order, as the Government claimed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0To assess whether the interference was \u201cnecessary in a democratic society\u201d the Court will examine the proportionality of the measures taken against the applicants in the light of the reasons given by the domestic courts. It observes that in the present case those measures included the interception of the march, the arrest of the applicants and their conviction for an administrative offence, and it will examine the proportionality of each measure.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0According to the domestic judgments, the acts imputed to the applicants included the holding of a spontaneous march in breach of the regulations and persisting in pursuing their route despite orders to end their demonstration. The Court has established above that even if the applicants had not intended to hold a march, the appearance of a big group of protestors walking in a cluster could reasonably be perceived as one (see paragraph 56 above). Whether this march was objectionable and what, if any, measures it called for on the part of the police depended on the gravity of the nuisance it was causing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The Court reiterates that although it is not a priori contrary to the spirit of Article 11 if, for reasons of public order and national security, a High Contracting Party requires that the holding of meetings be subject to authorisation, an unlawful situation, such as the staging of a demonstration without prior authorisation, does not justify an infringement of freedom of assembly (see Cisse v. France, no. 51346/99, \u00a7\u00a050, ECHR 2002III, and Oya Ataman, cited above, \u00a7\u00a7 37 and 39). While rules governing public assemblies, such as the system of prior notification, are essential for the smooth conduct of public events since they allow the authorities to minimise the disruption to traffic and take other safety measures, their enforcement cannot become an end in itself. In particular, where irregular demonstrators do not engage in acts of violence the Court has required that the public authorities show a certain degree of tolerance towards peaceful gatherings if the freedom of assembly guaranteed by Article 11 of the Convention is not to be deprived of all substance (ibid., \u00a7\u00a042; see also see Bukta and Others v. Hungary, no. , \u00a7 34, ECHR 2007III; F\u00e1ber v.\u00a0Hungary, no.\u00a0, \u00a7 49, 24 July 2012; Berladir and Others v.\u00a0Russia, no.\u00a034202/06, \u00a7 38, 10 July 2012; Malofeyeva v. Russia, no.\u00a036673/04, \u00a7\u00a7\u00a0136-37, 30 May 2013, and Kasparov, cited above, \u00a7 91).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0In this case, the Government relied on the need to maintain public order and ensure road safety as a justification for the dispersal of the march. However, the Court observes that the march, or the perceived march (see paragraph 56 above), had only lasted for fifteen minutes, was peaceful, and the number of participants \u2013 one hundred at most \u2013 could not have been difficult for the riot police to protect and contain, if necessary and appropriate, by redirecting them from the road to the pavement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0Thus, the Court concludes that the police force on the ground intercepted the applicants for the sole reason that the march as such had not been authorised. Subsequently, the domestic courts made no attempt to verify the extent of the risks posed by the applicants and their fellow protestors, or to verify whether it had been necessary to stop them. Accordingly, the Government have failed to demonstrate that there existed a \u201cpressing social need\u201d to interrupt their spontaneous march.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0In view of the above, the Court considers that in the instant case the police\u2019s forceful intervention was disproportionate and was not necessary for the prevention of disorder within the meaning of the second paragraph of Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0The Government submitted that the applicants had been arrested because they had disobeyed the lawful orders of the police, in breach of Article 19.3 of the Code of Administrative Offences. The Court has found above that it was unable to establish whether the police had given any orders to the applicants before proceeding with their arrest (see paragraph 58 above). However, even assuming that the police accurately presented the facts and the applicants did indeed disobey an order to end the march, the authorities\u2019 response had to comply with the domestic law and had to respect the fair balance between the means employed and the aims sought to be achieved.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0The Court notes that if the police officers believed that the applicants were committing an administrative offence, they had to draw up an administrative offence report. Under Article 27.2 of the Code of Administrative Offences the applicants could only be escorted to a police station if the administrative offence report could not be drawn up at the place where the offence had been discovered. The Government have not argued that in this case it was impossible, and no obstacles to drawing up the report on the spot may be discerned from the domestic decisions. On the contrary, the Government claimed that the police officers had explicitly told the applicants to proceed to the police bus for the drawing up of administrative offence reports. It is unclear why they abandoned that intention once the applicants were inside the bus. Furthermore, the domestic courts dispensed with examining the applicants\u2019 complaints that it had been unnecessary to escort them to the police station in their case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0The Court, for its part, cannot discern any reasons for applying those coercive measures in the circumstances of the case and therefore concludes that there existed no \u201cpressing social need\u201d to arrest the applicants and to escort them to the police station. Those measures therefore fell short of being proportionate and necessary for the prevention of disorder within the meaning of the second paragraph of Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0The applicants were found guilty of having disobeyed a lawful order of the police on account of their failure to stop the march following instructions to do so. They were punished with fifteen days\u2019 administrative detention under Article 19.3 of the Code of Administrative Offences. It follows from section 17.4 of the Federal Law on Assemblies that such an offence could be sanctioned under that provision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0In the Court\u2019s view, this penalty did not reflect the degree of seriousness of the offence, which, if made out at all, remained in any event rather trivial.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The Court considers that the sanction imposed on the applicants was unwarranted by the circumstances of the case and disproportionate within the meaning of Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The Court has found above that the measures applied to the applicants were not proportionate to the legitimate aim pursued. It further notes that the police and the courts expressly acknowledged that, ultimately, the applicants had been punished for holding a spontaneous peaceful demonstration and chanting anti-government slogans, acts protected by Articles 10 and 11 of the Convention. The courts devoted no effort to balancing the applicants\u2019 legitimate interests against any damage this could cause to other public or private interests. The dispersal of the perceived march, the arrest and the ensuing administrative conviction of the applicants could not but have the effect of discouraging them from participating in protest rallies or indeed from engaging actively in opposition politics.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0Undoubtedly, those measures had a serious potential also to deter other opposition supporters and the public at large from attending demonstrations and, more generally, from participating in open political debate. The chilling effect of those sanctions was further amplified by the fact that they targeted well-known public figures, whose deprivation of liberty was bound to attract broad media coverage.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0In view of the foregoing, the Court concludes that the suppression of the perceived march, and the applicants\u2019 arrest and conviction for an administrative offence were not justified by a pressing social need and therefore not necessary in a democratic society. There has accordingly been a violation of Article 11 of the Convention as regards both applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "76.\u00a0\u00a0The applicants complained of a violation of the right to a fair and public hearing in the administrative proceedings against them. They relied on Article 6 \u00a7\u00a7 1 and 3 (b), (c) and (d) of the Convention, which provides, in so far as relevant, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair and public hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "77.\u00a0\u00a0The Court reiterates that in order to determine whether an offence qualifies as \u201ccriminal\u201d for the purposes of Article 6 the Convention, it is necessary to ascertain whether or not the provision defining the offence belongs, in the legal system of the respondent State, to the criminal law; the \u201cvery nature of the offence\u201d and the degree of severity of the penalty risked must then be considered (see Menesheva v. Russia, no. 59261/00, \u00a7 95, ECHR 2006III). Deprivation of liberty imposed as punishment for an offence belongs in general to the criminal sphere, unless by its nature, duration or manner of execution it is not appreciably detrimental (see Engel\u00a0and Others v. the Netherlands, 8 June 1976, \u00a7\u00a7 82-83, Series A no.\u00a022, and Ezeh and Connors v. the United Kingdom [GC], nos.  and\u00a0, \u00a7\u00a7 69-130, ECHR 2003-X).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0In the present case, the Government agreed that Article 6 was applicable to the proceedings in question. The Court considers that this offence should be classified as \u201ccriminal\u201d in view of the gravity of the sanction and its purely punitive purpose (see Menesheva, \u00a7\u00a7\u00a094-98, Malofeyeva, \u00a7\u00a7\u00a099-101, and Kasparov, \u00a7\u00a7 39-45, all cited above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Court also considers that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. No other ground for declaring it inadmissible has been established. Thus, it should be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "80.\u00a0\u00a0The Government maintained that the proceedings in the applicants\u2019 administrative cases had complied with Article 6 of the Convention. They argued that each applicant had been given a fair opportunity to state his case, to obtain the attendance of witnesses on his behalf, to cross-examine the witnesses for the prosecution, in particular the police officers, and to present other evidence. The applicants were given an opportunity to lodge written requests and they availed themselves of that right. The Government claimed that the hearings had been open to the public, including to journalists, who had been present in the courtroom.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0The applicants, on the contrary, contended that they had not been given a fair hearing. They complained that the court had refused to accept the video recordings of their arrest as evidence and to call and examine the witnesses they had requested, and had disallowed a number of questions to the police officers during their cross-examination. Furthermore, the court had not respected the equality of arms in that it had rejected the testimonies of all the defence witnesses while giving weight to the testimonies of the two police officers. In addition, the applicants complained that the hearing had not been open to the public, that their right to defence had been violated and that they had not been given adequate time to prepare their defence. Lastly, they claimed that having spent the night in transfer between three different police stations and then in detention in appalling conditions at the Kitay-Gorod police station, they had been unfit to stand trial the following day and to defend themselves effectively.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "82.\u00a0\u00a0Although the admissibility of evidence is primarily governed by the rules of domestic law, it remains the task of the Court to ascertain whether the proceedings, considered as a whole, were fair as required by Article 6 \u00a7\u00a01 (see Delta v. France, 19 December 1990, \u00a7 35, Series A no. 191, and Vidal v. Belgium, 22 April 1992, \u00a7 33, Series A no. 235B). In the context of the taking of evidence, the Court has required that an applicant must be \u201cafforded a reasonable opportunity to present his case under conditions that do not place him at a disadvantage vis-\u00e0-vis his opponent\u201d (see Bulut v.\u00a0Austria, 22 February 1996, \u00a7 47, Reports of Judgments and Decisions 1996II, and Kasparov, cited above, \u00a7\u00a7 58-65).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The Court has found above that the circumstances of the applicants\u2019 confrontation with the riot police had been in dispute between the parties to the administrative proceedings (see paragraph 58 above). However, the courts acting in those proceedings had decided to base their judgment exclusively on the version put forward by the police and had refused to accept additional evidence, such as video recordings, or to call other witnesses, when the applicants sought to prove that the police had not given any orders before arresting them. The Court considers that in the dispute over the key facts underlying the charges where the only witnesses for the prosecution were the police officers who had played an active role in the contested events, it was indispensable for the Justice of the Peace and the Tverskoy District Court to exhaust every reasonable possibility of verifying their incriminating statements (see Kasparov, cited above, \u00a7 64). The failure to do so ran contrary to the basic requirement that the prosecution has to prove its case and one of the fundamental principles of criminal law, namely, in dubio pro reo (see, mutatis mutandis, Barber\u00e0, Messegu\u00e9 and Jabardo v.\u00a0Spain, 6 December 1988, \u00a7 77, Series A no. 146; Lavents v.\u00a0Latvia, no.\u00a0, \u00a7 125, 28\u00a0November 2002; and Melich and Beck v.\u00a0the Czech Republic, no.\u00a0, \u00a7 49, 24 July 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0Moreover, the Court observes that the courts limited the scope of the administrative case to the applicants\u2019 alleged disobedience, having omitted to consider the \u201clawfulness\u201d of the police order, and having disallowed the relevant questions during the cross-examination of the police officers (see paragraph 33 above; cf. Makhmudov v. Russia, no. 35082/04, \u00a7 82, 26 July 2007). They thus sanctioned the applicants for actions protected by the Convention without the police having to justify the interference with the applicants\u2019 right to freedom of assembly, contrary to the principle of equality of arms.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the administrative proceedings against the applicants, taken as a whole, were conducted in violation of their right to a fair hearing under Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0In view of these findings the Court does not consider it necessary to address the remainder of the applicants\u2019 complaints under Article 6 \u00a7\u00a7 1 and\u00a03 of the Convention (see, however, paragraph 95 below).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "87.\u00a0\u00a0The applicants complained that their arrest had been arbitrary and unlawful. They alleged that their deprivation of liberty in the first six hours after their arrest had not complied with domestic law and that the ensuing detention at the Kitay-Gorod police station had not been justified. Article 5 \u00a7 1 provides, in so far as relevant, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0the lawful arrest or detention of a person for non- compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "88.\u00a0\u00a0The Court notes that this part of application is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "89.\u00a0\u00a0The Government contended that the applicants had disobeyed the police officers\u2019 order to stop the unauthorised march and ignored the order to follow them to the police bus for the drawing up of an administrative offence report. According to the Government, the applicants actively resisted the police in breach of Article 19.3 of the Code of Administrative Offences and the police arrested the applicants to put an end to the offending conduct, in accordance with Article 27.2 of the Code. The Government accepted that the applicants had been in police custody since their arrest at 8.45 p.m. on 5 December 2011 until 10 a.m. (as regards the second applicant) and 3 p.m. (as regards the first applicant) the following day. The Government also confirmed that the term of the applicants\u2019 detention had been calculated from 2.30 a.m. on 6 December 2011, the time when they were taken to the Kitay-Gorod police station. Relying on Article\u00a027.5 \u00a7 3 of the Code, they argued that the terms of the applicants\u2019 pre-trial detention had not exceeded the statutory limit of forty-eight hours.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "90.\u00a0\u00a0The applicants maintained their complaints. They alleged that it had not been necessary to arrest them in order to draw up the police report; that for the first six hours after their arrest they had been unlawfully detained without a detention order while being transferred between three consecutive police stations; and that after the reports had been drawn up at the KitayGorod police station there had been no reason to remand them in custody pending the hearing before the Justice of the Peace.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "91.\u00a0\u00a0The Court reiterates that the expressions \u201clawful\u201d and \u201cin accordance with a procedure prescribed by law\u201d in Article 5 \u00a7 1 essentially refer back to national law and state the obligation to conform to the substantive and procedural rules thereof. However, the \u201clawfulness\u201d of detention under domestic law is not always the decisive element. The Court must in addition be satisfied that detention during the period under consideration was compatible with the purpose of Article 5 \u00a7 1 of the Convention, which is to prevent persons from being deprived of their liberty in an arbitrary fashion. Furthermore, the list of exceptions to the right to liberty secured in Article 5 \u00a7 1 is an exhaustive one and only a narrow interpretation of those exceptions is consistent with the aim of that provision, namely to ensure that no one is arbitrarily deprived of his liberty (see Giulia Manzoni v. Italy, 1 July 1997, \u00a7\u00a025, Reports 1997IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0It has not been disputed that from 8.45 p.m. on 5 December 2011 the applicants were deprived of their liberty within the meaning of Article 5 \u00a7 1 of the Convention. It appears that their arrest and detention had the purpose of bringing them before the competent legal authority on suspicion of having committed an administrative offence and thus fell within the ambit of Article 5 \u00a7 1 (c) of the Convention. The Government contended that the legal ground for the arrest had been Article 27.2 of the Code of Administrative Offences, which had empowered the police to escort individuals, that is, to take them to the police station in order to draw up an administrative offence report.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court has found above that escorting the applicants to the police station did not appear strictly necessary in the circumstances (see paragraph\u00a068 above). It further notes that Article 27.5 \u00a7 4 of the Code of Administrative Offences expressly excluded the time of escorting from the term of the ensuing administrative detention. While the law did not consider the escorting as part of administrative detention, it set no time-limit for the duration of the escorting itself, supposedly because it was meant to be insignificant. By comparison, the duration of the administrative detention should not as a general rule exceed three hours, which is an indication of the period of time the law regards as reasonable and sufficient for drawing up an administrative offence report.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court takes cognisance of the fact that after their arrest the applicants were taken consecutively to three police stations, and it was only at the third one that the administrative offence reports were drawn up, at 2.30 a.m. on 6 December 2011. The Court notes that under Article 27.5 \u00a7 4 of the Code the term of an administrative detention is calculated from the time when the escorted suspect is taken to the police station, and it considers that the applicants\u2019 escorting ended at 9.40 p.m. when their convoy reached the first police station, Severnoye Izmaylovo. It is not clear why the reports were not drawn up at that police station, given that the applicants spent three hours there and underwent a personal search, which was recorded in a search report. The Government have not explained why the applicants were sent to two other police stations, without an administrative offence report being drawn up or a detention order being issued at the first or even the second police station.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0The applicants\u2019 \u201ctransit\u201d before reaching the Kitay-Gorod police station lasted for nearly six hours, in the absence of any record and without counting as administrative detention. Following the Government\u2019s reasoning, it could have continued for even longer without breaching the law. In view of the above, the Court finds that this period constituted unrecorded and unacknowledged detention, which, in the Court\u2019s constant view, is a complete negation of the fundamentally important guarantees contained in Article 5 of the Convention and discloses a most grave violation of that provision (see Fedotov v. Russia, no. , \u00a7 78, 25\u00a0October 2005; Menesheva, cited above, \u00a7 87; Belousov v. Russia, no.\u00a01748/02, \u00a7 73, 2 October 2008; and Aleksandr Sokolov v. Russia, no.\u00a020364/05, \u00a7\u00a7 71-72, 4 November 2010; see also Kurt v. Turkey, 25 May 1998, \u00a7 125, Reports 1998III, and Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a0157, ECHR 2002IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Lastly, the Court observes that once the administrative offence reports had been drawn up at the Kitay-Gorod police station, the objective of escorting the applicants to the police station had been met. However, instead of being released at 2.30 a.m. on 6 December 2011, the applicants were formally remanded in custody to secure their attendance at the hearing before the Justice of the Peace. The Government argued that the term of the applicants\u2019 detention remained within the forty-eight-hour time-limit provided for by Article 27.5 \u00a7 3 of the Code of Administrative Offences. However, neither the Government nor any other domestic authorities have provided any justification for the choice of that provisional measure. The Court reiterates that the detention of an individual is such a serious measure that it is only justified where other, less stringent measures have been considered and found to be insufficient to safeguard the individual or the public interest, which might require that the person concerned be detained. It does not suffice that the deprivation of liberty is in conformity with national law; it must also be necessary in the circumstances (see Witold\u00a0Litwa v. Poland, no. 26629/95, \u00a7 78, ECHR 2000III, and Enhorn v.\u00a0Sweden, no.\u00a056529/00, \u00a7 42, ECHR 2005I). On the face of it, there was no reason to believe that the applicants would abscond or otherwise obstruct the course of justice, and in any event, it fell on the authorities to demonstrate any such risk. In the absence of any explicit reasons against the applicants\u2019 release given by the authorities, the Court considers that the overnight detention at the Kitay-Gorod police station was unjustified and arbitrary.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0Overall, the Court finds that the applicants\u2019 arrest and detention on 5\u00a0and 6 December 2011 were unlawful and arbitrary. It finds a breach of the applicants\u2019 right to liberty on account of their unjustified escorting to the police station, their unrecorded and unacknowledged six-hour-long detention in transit and the lack of reasons for remanding them in custody at the Kitay-Gorod police station.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Accordingly, there has been a violation of Article 5 \u00a7 1 of the Convention in respect of both applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 3 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "99.\u00a0\u00a0The applicants further complained about the allegedly poor conditions at the Kitay-Gorod police station and during their transfer to three consecutive police stations after their arrest. Article 3 of the Convention read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The applicants also claimed that they had not had at their disposal an effective remedy for this violation of the guarantee against ill-treatment, as required under Article 13 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority ....\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "100.\u00a0\u00a0The Government argued that the applicants had failed to exhaust an effective remedy that had been open for them to complain about the alleged violations of their rights under Article 3 of the Convention, in particular as regards the alleged lack of provisions, bedding, lighting and ventilation. They considered that a complaint to the prosecutor\u2019s office would have allowed the competent authority to resolve their situation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0As to the substance, the Government partly contested the applicants\u2019 description of their conditions of detention in the police station cell and provided an alternative account, set out in paragraph 20 above. They claimed that the conditions of the applicants\u2019 detention had complied with the requirements of Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0The applicants disagreed with the Government\u2019s allegation that they had not exhausted domestic remedies and claimed that they had attempted several avenues of redress. They maintained that they had not had an effective remedy for their complaints concerning the inadequate conditions of detention and transfer. They pointed out that on 6 December 2011 the Justice of the Peace had refused to examine their complaints concerning the conditions of detention and transfer, without giving reasons. 103.\u00a0\u00a0The Court considers that the question of exhaustion of domestic remedies is closely linked to the merits of the applicants\u2019 complaint that they did not have at their disposal an effective remedy for the complaints concerning inhuman and degrading treatment on account of being transferred and detained in inadequate conditions. The Court thus finds it necessary to join the Government\u2019s objection to the merits of the applicants\u2019 complaint under Article 13 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0The Court further notes that this part of application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Exhaustion of domestic remedies and alleged violation of Article 13 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "105.\u00a0\u00a0The Court reiterates that the rule of exhaustion of domestic remedies referred to in Article 35 of the Convention obliges those seeking to bring a case against the State before the Court to first use the remedies provided by the national legal system. Consequently, States are dispensed from answering before an international body for their acts before they have had an opportunity to put matters right through their own legal system. The rule is based on the assumption, reflected in Article 13 of the Convention, with which it has close affinity, that there is an effective remedy available to deal with the substance of an \u201carguable complaint\u201d under the Convention and to provide appropriate relief. Moreover, it is an important aspect of the principle that the machinery of protection established by the Convention is subsidiary to the national systems safeguarding human rights (see Kud\u0142a v.\u00a0Poland [GC], no. , \u00a7 152, ECHR 2000XI, and Handyside v.\u00a0the\u00a0United Kingdom, 7 December 1976, \u00a7 48, Series A no. 24).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court observes that it has on many occasions examined the effectiveness of the domestic remedy suggested by the Government. It has found, in particular, that in deciding on a complaint concerning breaches of domestic regulations governing conditions of detention the prosecutor\u2019s office would not have a sufficiently independent standpoint to satisfy the requirements of Article 35 of the Convention (see Dirdizov v. Russia, no.\u00a0, \u00a7 75, 27 November 2012, and Ananyev and Others, Russia, nos. 42525/07 and 60800/08, \u00a7 101, 10 January 2012). Even though review by a supervising prosecutor plays an important part in securing appropriate conditions of detention, a report or order by a prosecutor is primarily a matter between the supervising authority and the supervised body and is not geared towards providing preventive or compensatory redress to the aggrieved individual (see Dirdizov, \u00a7 76, and Ananyev and Others, \u00a7 104, both cited above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0The Court also observes that the applicants\u2019 complaints about the lengthy transfer and the poor conditions of detention lodged with the Justice of the Peace were not examined on the merits. Furthermore, no reply suggesting, in particular, that the prosecutor\u2019s office would have been the most appropriate authority in the circumstances was given in respect of those complaints.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0In the light of the above considerations, the Court concludes that the legal avenue put forward by the Government did not constitute an effective remedy that could have been used to prevent the alleged violations or their continuation and to provide the applicants with adequate and sufficient redress for their complaints under Article 3 of the Convention. Accordingly, the Court dismisses the Government\u2019s objection of nonexhaustion of domestic remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0The Court also finds that the applicants did not have at their disposal an effective domestic remedy for their complaint about the allegedly long transfer and the poor conditions of detention, in breach of Article 13 of the Convention (see M.S. v. Russia, no. 8589/08, \u00a7 86, 10 July 2014).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Alleged violation of Article 3 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "110.\u00a0\u00a0The Court observes that the Government accepted the applicants\u2019 account of their transfer and partly accepted their description of the conditions of detention. They agreed, in particular, that the applicants had arrived at the Kitay-Gorod District police station at 2.30 a.m., that is, nearly six hours after their arrest, and that no food had been given to them during that time. The Government also acknowledged the essential facts relating to the conditions of detention at the Kitay-Gorod District police station, except for the measurements of the cell. Moreover, the photographs submitted by the Government confirmed the applicants\u2019 allegation that the cell had a concrete floor, no window, no sanitary equipment and no furniture except for two 47-cm wide benches and no mattresses. It is undisputed that the first applicant was detained in that cell for about twelve hours and the second applicant, for about seven hours. The parties differed as to whether the applicants had been provided with food, drinking water or bedding.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0The Court reiterates that it has already examined the conditions of detention obtaining in police stations in various Russian regions and found them to be in breach of Article 3 (see Shchebet v. Russia, no. , \u00a7\u00a7\u00a086-96, 12\u00a0June 2008; Khristoforov v. Russia, no. , \u00a7\u00a7\u00a023 et seq., 29\u00a0April 2010; Nedayborshch v. Russia, no.\u00a0, \u00a7 32, 1 July 2010; Kuptsov and Kuptsova v. Russia, no.\u00a0, \u00a7 69 et seq., 3 March 2011; Fedotov, cited above, \u00a7 67; Ergashev v. Russia, no.\u00a012106/09, \u00a7\u00a7 128-34, 20\u00a0December 2011; and Salikhov v. Russia, no.\u00a023880/05, \u00a7\u00a7 89-93, 3 May 2012). It found a violation of Article 3 in a case where an applicant had been kept for twentytwo hours in an administrativedetention police cell without food or drink or unrestricted access to a toilet (see Fedotov, cited above, \u00a7 68). In a different case, it noted that a similar cell designed for short-term administrative detention not exceeding three hours was not suitable for four days\u2019 detention because by its design, it lacked the amenities indispensable for prolonged detention. The cell did not have a toilet or a sink. It was solely equipped with a bench, there being no chair or table or any other furniture, and the applicant\u2019s food was brought by relatives (see Ergashev, cited above, \u00a7 131).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "112.\u00a0\u00a0In the present case the Court finds the same deficiencies. Moreover, the applicants\u2019 detention in the cell was preceded by a long late-night transfer between police stations without access to food or drinking water. In view of the cumulative effect of the factors analysed above, the Court considers that the conditions in which the applicants were held at the police station diminished their dignity and caused them distress and hardship of an intensity exceeding the unavoidable level of suffering inherent in detention. It follows that the conditions of the applicants\u2019 detention amounted to inhuman and degrading treatment in breach of Article 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 18 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "113.\u00a0\u00a0Lastly, the applicants complained that their arrest and detention on administrative charges had pursued the aim of undermining their right to freedom of assembly and freedom of expression, and had been applied for political revenge. They complained of a violation of Article 18 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe restrictions permitted under [the] Convention to the said rights and freedoms shall not be applied for any purpose other than those for which they have been prescribed.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "114.\u00a0\u00a0In their submissions under this head the parties reiterated their arguments as regards the alleged interference with the right to freedom of assembly, the reasons for the applicants\u2019 deprivation of liberty and the guarantees of a fair hearing in the administrative proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "115.\u00a0\u00a0The Court notes that this complaint is linked to the complaints examined above under Articles 5, 6, and 11 of the Convention and must therefore likewise be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "116.\u00a0\u00a0The Court has found above that the applicants were arrested, detained and convicted of an administrative offence arbitrarily and that this had the effect of preventing and discouraging them and others from participating in protest rallies and engaging actively in opposition politics (see paragraphs 73-74 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "117.\u00a0\u00a0In view of those findings, the Court considers that it is not necessary to examine whether, in this case, there has been a violation of Article 18 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "118.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "119.\u00a0\u00a0The applicants claimed 50,000 euros (EUR) each in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "120.\u00a0\u00a0The Government contested their claims as unreasonable and excessive. They considered that they were out of line with the Court\u2019s awards in similar cases and contended that a finding of a violation would constitute sufficient just satisfaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0The Court observes that it has found a violation of Articles\u00a011, 6, 5, 3 and 13 in respect of both applicants. In these circumstances, the Court considers that the applicants\u2019 suffering and frustration cannot be compensated for by a mere finding of a violation. Making its assessment on an equitable basis, it awards the applicants EUR\u00a026,000 each in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "122.\u00a0\u00a0The first applicant also claimed 100,000 Russian roubles (RUB) for the costs and expenses incurred before the Court. He submitted a legal services agreement between himself and Ms O. Mikhaylova and copies of payment receipts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "123.\u00a0\u00a0The Government pointed out that costs and expenses may only be awarded if a violation has been found. They did not contest the amounts claimed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "124.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 2,500 for the proceedings before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "125.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits the Government\u2019s objection as to the alleged non-exhaustion of domestic remedies related to the complaint under Article 3 of the Convention, and rejects it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 11 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0 Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there is no need to examine the remainder of the complaints under Article 6 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article 13 in conjunction with Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention on account of the conditions of detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that there is no need to examine the complaint under Article 18 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 4 December 2014, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the separate opinion of Judge Paulo Pinto de Albuquerque is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0I accept the Chamber\u2019s conclusions, but not its reasoning. Once again, the standards concerning the right to freedom of assembly as expressed by the European Commission for Democracy through Law (henceforth, the Venice Commission), the Organization for Security and Co-operation in Europe (OSCE) and the United Nations Special Rapporteur on the rights to freedom of peaceful assembly and of association have been disregarded. No attention has been paid to the widely acknowledged presumption in favour of holding peaceful assemblies, and the resulting rule on the burden of proof incumbent on the Government with regard to facts which justify a restriction on the right to assembly. Furthermore, the legal qualification of the facts as a \u201cspontaneous march\u201d is technically incorrect. The core legal issue of this case lies elsewhere. The question that should have been put was the following: what protection does the European Convention of Human Rights (the Convention) provide to demonstrators en route to and from the place of assembly? The purpose of this opinion is to reply to that question, after having established the facts in the light of the applicable rules on the burden of proof.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0I cannot accept the Chamber\u2019s assessment of the facts. The Chamber considered that the case file did not provide enough evidence to decide whether there existed a police order instructing the applicants to stop, and consequently to rule on the lawfulness of the authorities\u2019 conduct. Paragraph 67 of the judgment and the subsequent reasoning were developed on the basis of an assumption: \u201ceven assuming that the police accurately presented the facts and the applicants did indeed disobey an order to end the march...\u201d. This assumption in favour of the Government\u2019s version of the facts is at odds with the consistent position of the Venice Commission, the OSCE and the United Nations Special Rapporteur on the rights to freedom of peaceful assembly and of association, to the effect that there is a presumption in favour of holding peaceful assemblies and marches.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0In principle, assemblies and marches should be presumed to be lawful and deemed not to constitute a threat to public order until such time as the Government put forward compelling evidence to rebut that presumption. In consequence, the burden of proof with regard to facts which justify any restriction on the right to assembly lies on the Government. Had the Chamber applied the international standards on the presumption of the legality of assemblies and marches and the related burden of proof incumbent on the Government, it would have avoided putting itself in the awkward position of deciding this case on the basis of contradictory factual assumptions.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0In weighing up the opposite versions of the facts, the Chamber did not give due account to the grave procedural shortcomings that tainted the domestic courts\u2019 proceedings, namely the repeated refusal to allow contact between the applicants and their lawyers, the dismissal of the defence questions to the prosecution\u2019s witnesses and the refusal to admit in evidence the defence witnesses, two video recordings of the first applicant\u2019s arrest (filmed by T. and A.) and the video footage available to the police. These serious deficiencies had an evident impact on the credibility of the Government\u2019s version of events, which coincides with those of the police and the domestic courts.",
+                        "elements": []
+                    },
+                    {
+                        "content": "With such a biased adjudication of the case by the domestic courts, it does not surprise me that the evidence available in the case file is so weak and unconvincing. This is the fault of the domestic authorities, which did not mount a true judicial case against the applicants, but rather a judicial farce with the appearance of a trial. In addition to the various artificial procedural constraints that the applicants\u2019 counsels had to face, it is indeed scandalous that the first applicant\u2019s defence counsel was not even allowed to put three very pertinent questions to the detaining police officers: \u201cWhat orders did you personally give to Mr Navalnyy?\u201d, \u201cWho gave the order to arrest Mr Navalnyy?\u201d and \u201cWhy were two policemen\u2019s reports identical?\u201d",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0After such an ostensible judicial farce, to assume that the police version of the facts was true, as the Chamber has done in paragraph 67, seems very difficult to accept. Furthermore, to find a violation of Article 6 of the Convention on the basis of the procedural shortcomings referred to above, as the Chamber rightly did in paragraph 83, and simultaneously to assume that the police version of the facts was true, is clearly unacceptable. The Chamber criticises the domestic courts for having based their judgments \u201cexclusively on the version put forward by the police\u201d, and yet at the same time it accepts the police version of events. I find this incomprehensible. Put simply, paragraph 67 is logically incompatible with paragraph 83 of the judgment. The exact same reasons which led the Chamber to find \u2013 correctly \u2013 a violation of Article 6 of the Convention should have prevented the Chamber from assuming that the police version of the facts, that is, the Government\u2019s version, was true. On the contrary, the totally discredited manner in which the domestic authorities proceeded during the applicants\u2019 trials is a very strong signal that the police version of the facts could not be assumed to be a truthful and accurate representation of the facts, but a re-construction of the reality in order to frame the applicants. If one adds to the domestic courts\u2019 reproachable conduct the conduct of the police, who dragged the applicants around for six hours between three consecutive police stations without any plausible reason and unlawfully remanded them in custody overnight in the appalling conditions of the Kitay-Gorod police station without access to food and drinking water, the ensuing scenario of arbitrariness is telling of how unreliable the police version of the facts was, and ultimately of how adverse were the circumstances in which the applicants sought to make their voices heard in the public arena.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0It was for the Government to prove before the Court that an unauthorised march took place on the road or on the pavement, that the participants, including the applicants, had walked together with a common purpose of demonstrating, that the police interrupted this march and ordered the applicants to stop the march, and that they knowingly failed to comply, resisted and were therefore arrested. By alleviating the Government of their burden of proof, the Chamber sided with the Government\u2019s version of the facts, for no plausible reason. Since the Government did not provide enough evidence that these facts indeed occurred, as the Chamber rightly stated in paragraph 59, the Court should have concluded that the police version of events was unfounded, and therefore no \u201cmarch\u201d had taken place, no police order was given and, consequently, no disobedience ever occurred. Indeed, this is the conclusion that I have reached in view of the fact that the Government failed properly to discharge their burden of proof, as they were required to do in the light of the above-mentioned applicable international evidentiary standard.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0I am also unable to agree with the Chamber\u2019s legal qualification of the facts. The Chamber repeatedly referred to a \u201cspontaneous march\u201d. This is technically incorrect. The concept of a spontaneous assembly (\u0441\u0442\u0438\u0445\u0438\u0439\u043d\u043e\u0435 \u0441\u043e\u0431\u0440\u0430\u043d\u0438\u0435), which includes a spontaneous march, has been dealt with by various international bodies, a consensus having emerged among them on the specific features of this concept.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0The mere fact that an expression occurs in the public space does not necessarily turn such an event into an assembly. The incidental meeting of a group of people is not an assembly, even if these people interact for a certain period of time. In the felicitous formulation of Tat\u00e1r and F\u00e1ber, the Court refers to an assembly as the \u201cthe gathering of an indeterminate number of persons with the identifiable intention of being part of the communicative process\u201d, following a long line of case-law since Freedom and Democracy Party (\u00d6ZDEP).",
+                        "elements": []
+                    },
+                    {
+                        "content": "This wide concept of assembly has been endorsed by various authorities worldwide. For the purposes of the Venice Commission and the OSCE 2010 Guidelines on Freedom of Peaceful Assembly, an assembly means \u201cthe intentional and temporary presence of a number of individuals in a public place for a common expressive purpose\u201d. In article XXI of the American Declaration of the Rights and Duties of Man, the right to assembly is associated with \u201cmatters of [the participants\u2019] common interest\u201d: \u201cEvery person has the right to assemble peaceably with others in a formal public meeting or an informal gathering, in connection with matters of common interest of any nature.\u201d The United Nations Special Rapporteur on the rights to freedom of peaceful assembly and of association defined an assembly as \u201can intentional and temporary gathering in a private or public space for a specific purpose. It therefore includes demonstrations, inside meetings, strikes, processions, rallies or even sits-in\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Hence, the constituent elements of the concept of an \u201cassembly\u201d under Article 11 of the Convention are both objective, referring to the gathering of two or more people in a physical place for a limited period of time, and subjective, indicating the shared intent of its members to pursue a common aim through a common action, i.e. the collective expression of an idea, a belief, an opinion or a message, regardless of its religious, philosophical, political, civil, economic, social, cultural, artistic or ludic nature. Static assemblies, such as public meetings, mass actions, \u201cflash mobs\u201d, demonstrations, sit-ins and pickets, as well as moving assemblies, such as marches, parades, processions, funerals, pilgrimages and convoys, share these elements.",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0In view of the above, I cannot follow the crucial last sentence of paragraph 56 of the judgment, which considers that the police\u2019s viewpoint is the decisive factor in qualifying a march as such, \u201ceven if the applicants themselves had not perceived it as such\u201d. This confusion between the \u201cmarch\u201d and the \u201cperceived march\u201d, as if these concepts could be equated in legal terms, also appears in paragraph 64. On this wrongful legal basis, the Chamber ignored the subjective constituent element of the concepts of static and moving assemblies and accepted the alleged perception of the police officers as the legally relevant subjective parameter.",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0As a matter of principle, provision for a reasonable time frame for the notification of public events may be helpful, in that it enables the authorities to take appropriate measures in order to guarantee their smooth conduct. Nevertheless, there may be cases in which a public event is organised as an \u201curgent or spontaneous response to an unpredicted event, in which case it may not be possible to respect the ordinary time frame for notification\u201d, as the Venice Commission and the OSCE/ODIHR put it. Moreover, in order for an assembly to be genuinely a \u201cspontaneous\u201d one, there must be \u201ca close temporal relationship between the event (\u201cphenomenon or happening\u201d) which stimulates the assembly and the assembly itself.\u201d Finally, the authorities may change the time, place and route of peaceful spontaneous assemblies only where a genuine threat is posed to its conduct or the safety of its participants or those in the neighbourhood. They may do this only after notifying the organisers of the reasons for such a decision. It is also important to provide the organisers with a possibility to challenge the authorities\u2019 decision before the appropriate bodies, including in court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The United Nations Special Rapporteur on the rights to freedom of peaceful assembly and of association also states that \u201cSpontaneous peaceful assemblies, which usually occur in reaction to a specific event \u2014 such as the announcement of results \u2014 and which by definition cannot be subject to prior notification, should be more tolerated in the context of elections.\u201d",
+                        "elements": []
+                    },
+                    {
+                        "content": "Finally, the Court itself has already expressed the view that \u201cin special circumstances when an immediate response, in the form of a demonstration, to a political event might be justified, a decision to disband the ensuing, peaceful assembly solely because of the absence of the requisite prior notice, without any illegal conduct by the participants, amounts to a disproportionate restriction on freedom of peaceful assembly\u201d. Thus, \u201cspecial circumstances\u201d refer to cases when \u201can immediate response to a current event is warranted in the form of a demonstration\u201d. Put simply, in order to be considered as a spontaneous assembly there must be a common purpose among the members of an assembly to join together and demonstrate in response to a new event. The same applies to spontaneous moving assemblies, such as marches. Such \u201cspontaneous assemblies\u201d are protected by Article 11 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0From this perspective, the mere fact that \u201cthe applicants walked some distance together with a certain number of people\u201d or \u201cthe appearance of a big group of protestors walking in a cluster\u201d is not enough to qualify it as a march or assembly, let alone a spontaneous march or assembly. In fact, the demonstration had already taken place at Chistyye Prudy and people were simply leaving the place of assembly. No credible evidence was put forward before the Court that the people leaving the place of assembly at Chistyye Prudy had the common purpose of marching together to another place. A fortiori, no case was made out that the applicants and their followers intentionally initiated a march as an \u201cimmediate response\u201d to a new event. Hence, the legal qualification of the facts of the case as a \u201cspontaneous march\u201d is legally flawed. The legal problem raised by this case lies elsewhere.",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0The protection of freedom of assembly encompasses the freedom to access the place of assembly, as well as the freedom to leave peacefully and without hindrance that same place. It is a fact of life that a crowd heading to or leaving a place of assembly in the public space may cause some degree of social nuisance, and specifically some traffic disruption. This nuisance should be properly accommodated by the police. But freedom of assembly itself may only be restricted by stopping, searching or arresting demonstrators if, when and where there is a \u201cclear and imminent danger\u201d of acts of public disorder, crime or other infringement of the rights of others committed by individuals en route to or from the place of assembly, as provided by Article\u00a011 \u00a7 2 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0In the case at hand, regardless of the circumstance that certain individuals may have shouted political slogans or walked on the road, which has not been established, no violent acts or acts inciting to violence had been committed by the applicants and the people leaving Chistyye Prudy, Moscow. In fact, there is not the slightest proof to be found in the case file of a \u201cclear and imminent danger\u201d of public disorder, crime or other infringement of the rights of others, and specifically of violence against others or destruction of the property of others, which could have justified stopping and arresting the applicants, let alone detaining them overnight and punishing them with the maximum term imposed for administrative offenders, namely 15 days\u2019 imprisonment. Instead, the police clearly overreacted, and in such an arbitrary way that their actions can only be read as having been aimed at harassing and intimidating the applicants. Regrettably, the domestic courts did not provide the applicants with a proper legal avenue to correct and redress that unlawful police conduct.",
+                        "elements": []
+                    },
+                    {
+                        "content": "14.\u00a0\u00a0The version of events as presented by the Government did not satisfy the most elementary burden of proof, and cannot therefore be relied upon. On the basis of the applicants\u2019 version, the obvious conclusion to be drawn is that the applicants\u2019 freedom of assembly was severely breached in so far as they were arbitrarily stopped and arrested while they were leaving the place of assembly in Chistyye Prudy, Moscow. The events subsequent to their arrest strongly reinforce the conviction that the applicants were subjected to intentional police arbitrariness, which was then condoned by the domestic courts. Taking into consideration the political nature of the applicants\u2019 speeches, such judicial condonation is a grave disservice to democracy, which may foster or magnify a culture of silence among the opposition.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Isabelle Berro-Lef\u00e8vre",
+            "role": "president"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "judges"
+        },
+        {
+            "name": "Linos-Alexandre Sicilianos",
+            "role": "judges"
+        },
+        {
+            "name": "Erik M\u00f8se",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF NAVALNYY AND YASHIN v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-148286.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2014:1204JUD007620411",
+    "externalsources": [],
+    "extractedappno": [
+        "76204/11",
+        "21613/07",
+        "1543/06",
+        "20652/92",
+        "74552/01",
+        "33482/06",
+        "50841/99",
+        "6562/03",
+        "26986/03",
+        "33268/03",
+        "10877/04",
+        "24876/94",
+        "30562/04",
+        "30566/04",
+        "28793/02",
+        "51346/99",
+        "25691/04",
+        "40721/08",
+        "34202/06",
+        "36673/04",
+        "59261/00",
+        "39665/98",
+        "40086/98",
+        "58442/00",
+        "35450/04",
+        "35082/04",
+        "5140/02",
+        "1748/02",
+        "20364/05",
+        "38361/97",
+        "26629/95",
+        "56529/00",
+        "30210/96",
+        "41461/10",
+        "42525/07",
+        "60800/08",
+        "8589/08",
+        "16074/07",
+        "11336/06",
+        "42255/04",
+        "6110/03",
+        "12106/09",
+        "23880/05",
+        "17391/06",
+        "23/39",
+        "20/27",
+        "25196/04",
+        "1774/11",
+        "26005/08",
+        "26160/08",
+        "19554/05",
+        "23143/04",
+        "25/02",
+        "17/28",
+        "37553/05",
+        "5829/04"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Section 17.4 of the Federal Law on Assemblies",
+        "Articles 19.3, 27.2 and 27.5 \u00a7 4 of the Code of Administrative Offences"
+    ],
+    "itemid": "001-148286",
+    "judgementdate": "04/12/2014 00:00:00",
+    "kpdate": "04/12/2014 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "193",
+        "448",
+        "93",
+        "220",
+        "339",
+        "445",
+        "13",
+        "70",
+        "136",
+        "145",
+        "151",
+        "266",
+        "444",
+        "110",
+        "14",
+        "128",
+        "216",
+        "354"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "13",
+        "3",
+        "11-1",
+        "35-1",
+        "11-2",
+        "6-1",
+        "35",
+        "5-1",
+        "5",
+        "6",
+        "11",
+        "41"
+    ],
+    "parties": [
+        "NAVALNYY AND YASHIN",
+        "RUSSIA"
+    ],
+    "rank": "1207.60827636719",
+    "representedby": [
+        "MIKHAYLOVA O.",
+        "PROKHOROV V."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Aleksandr Sokolov v. Russia, no. 20364/05, \u00a7\u00a7 71-72, 4 November 2010",
+        "Ananyev and Others c. Russia, nos. 42525/07 and 60800/08, 10 January 2012",
+        "Anguelova v. Bulgaria, no. 38361/97, \u00a7 157, ECHR 2002 IV",
+        "Ashughyan v. Armenia, no. 33268/03, \u00a7\u00a7 75 77, 17 July 2008",
+        "B\u0105czkowski and Others v. Poland, no. 1543/06, \u00a7 66-68, 3 May 2007",
+        "Barber\u00e0, Messegu\u00e9 and Jabardo v. Spain, 6 December 1988, \u00a7 77, Series A no. 146",
+        "Belousov v. Russia, no. 1748/02, \u00a7 73, 2 October 2008",
+        "Berladir and Others v. Russia, no. 34202/06, \u00a7 38, 10 July 2012",
+        "Bukta and Others v. Hungary, no. 25691/04, \u00a7 34, ECHR 2007 III",
+        "Bulut v. Austria, 22 February 1996, \u00a7 47, Reports of Judgments and Decisions 1996 II",
+        "Christian Democratic People\u2019s Party v. Moldova, no. 28793/02, \u00a7 53, ECHR 2006 II",
+        "Cisse v. France, no. 51346/99, \u00a7 50, ECHR 2002 III",
+        "Coster v. the United Kingdom [GC], no. 24876/94, \u00a7 104, 18 January 2001",
+        "Delta v. France, 19 December 1990, \u00a7 35, Series A no. 191",
+        "Dirdizov v. Russia, no. 41461/10, 27 November 2012",
+        "Djavit An v. Turkey, no. 20652/92, \u00a7\u00a7 59 62, ECHR 2003 III",
+        "Engel and Others v. the Netherlands, 8 June 1976, \u00a7\u00a7 82-83, Series A no. 22",
+        "Enhorn v. Sweden, no. 56529/00, \u00a7 42, ECHR 2005 I",
+        "Ergashev v. Russia, no. 12106/09, 20 December 2011",
+        "Ezeh and Connors v. the United Kingdom [GC], nos. 39665/98 and 40086/98, \u00a7\u00a7 69-130, ECHR 2003-X",
+        "Ezelin v. France, 26 April 1991, Series A no. 202",
+        "F\u00e1ber v. Hungary, no. 40721/08, \u00a7 49, 24 July 2012",
+        "Fedotov v. Russia, no. 5140/02, \u00a7 78, 25 October 2005",
+        "Galstyan v. Armenia, no. 26986/03, 15 November 2007",
+        "Giulia Manzoni v. Italy, 1 July 1997, \u00a7 25, Reports 1997 IV",
+        "Handyside v. the United Kingdom, 7 December 1976, \u00a7 48, Series A no. 24",
+        "Hyde Park and Others v. Moldova, no. 33482/06, \u00a7\u00a7 9, 13, 16, 41, 44 and 48, 31 March 2009",
+        "Kasparov and Others v. Russia, no. 21613/07, 3 October 2013",
+        "Khristoforov v. Russia, no. 11336/06, \u00a7\u00a7 23 et seq., 29 April 2010",
+        "Kud\u0142a v. Poland [GC], no. 30210/96, \u00a7 152, ECHR 2000 XI",
+        "Kuptsov and Kuptsova v. Russia, no. 6110/03, \u00a7 69 et seq., 3 March 2011",
+        "Kurt v. Turkey, 25 May 1998, \u00a7 125, Reports 1998 III",
+        "Lavents v. Latvia, no. 58442/00, \u00a7 125, 28 November 2002",
+        "M.S. v. Russia, no. 8589/08, \u00a7 86, 10 July 2014",
+        "Makhmudov v. Russia, no. 35082/04, \u00a7 82, 26 July 2007",
+        "Malofeyeva v. Russia, no. 36673/04, 30 May 2013",
+        "Melich and Beck v. the Czech Republic, no. 35450/04, \u00a7 49, 24 July 2008",
+        "Menesheva v. Russia, no. 59261/00, ECHR 2006 III",
+        "Mkrtchyan v. Armenia, no. 6562/03, \u00a7 37, 11 January 2007",
+        "Nedayborshch v. Russia, no. 42255/04, \u00a7 32, 1 July 2010",
+        "Osmani and Others v. \u201cthe former Yugoslav Republic of Macedonia\u201d (dec.), no. 50841/99, ECHR 2001 X",
+        "Oya Ataman v. Turkey, no. 74552/01, ECHR 2006 XIII",
+        "S. and Marper v. the United Kingdom [GC], nos. 30562/04 and 30566/04, \u00a7 101, ECHR 2008",
+        "Salikhov v. Russia, no. 23880/05, \u00a7\u00a7 89-93, 3 May 2012",
+        "Sergey Kuznetsov v. Russia, no. 10877/04, \u00a7 36, 23 October 2008",
+        "Shchebet v. Russia, no. 16074/07, \u00a7\u00a7 86-96, 12 June 2008",
+        "Vidal v. Belgium, 22 April 1992, \u00a7 33, Series A no. 235 B",
+        "Witold Litwa v. Poland, no. 26629/95, \u00a7 78, ECHR 2000 III"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "443714",
+    "typedescription": "15"
+}

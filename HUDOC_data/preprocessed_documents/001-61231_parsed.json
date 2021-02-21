@@ -1,0 +1,930 @@
+{
+    "__articles": "6;6-1;8;8-2;8-1;41;P1-1;P1-1-2;P4-2;P4-2-1",
+    "__conclusion": "Violation of P1-1;Violation of Art. 8;Violation of Art. 6-1;Violation of P4-2;Pecuniary damage - claim dismissed;Non-pecuniary damage - financial award",
+    "applicability": "",
+    "appno": "32190/96",
+    "article": [
+        "p4-2",
+        "8",
+        "p1-1",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "8",
+            "base_article": "8",
+            "element": "Violation of Art. 8",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "element": "Violation of Art. 6-1",
+            "type": "violation"
+        },
+        {
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - financial award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-61231.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 32190/96) against the  lodged with the European Commission of Human Rights (\u201cthe Commission\u201d) under former Article 25 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Italian national, Mr Giuseppe Luordo (\u201cthe applicant\u201d), on 28 March 1996.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented before the Court by Mr F. Fiandrotti, a lawyer practising in . The Italian Government (\u201cthe Government\u201d) were represented successively by their Agents, Mr U. Leanza and Mr\u00a0I.M.\u00a0Braguglia, and by their respective Co-Agents, Mr V. Esposito and Mr F.\u00a0Crisafulli.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged a violation of Article 1 of Protocol No. 1 in that a bankruptcy order had deprived him of all his possessions. He further complained that after he had been declared bankrupt all the correspondence addressed to him had been handed over to the trustee in bankruptcy (Article 8 of the Convention) and that the bankruptcy order prevented him from taking legal proceedings to defend his interests (Article\u00a06 \u00a7 1). Lastly, relying on Article 2 of Protocol No. 4, the applicant complained of the rule barring bankrupts from moving away from their place of residence.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The application was transmitted to the Court on 1 November 1998, when Protocol No. 11 to the Convention came into force (Article 5 \u00a7 2 of Protocol No. 11).",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The application was allocated to the First Section of the Court (Rule\u00a052 \u00a7 1 of the Rules of Court). Within that Section, the Chamber that would consider the case (Article 27 \u00a7 1 of the Convention) was constituted as provided in Rule 26 \u00a7 1. Mr V. Zagrebelsky, the judge elected in respect of , withdrew from sitting in the case (Rule 28). The Government accordingly appointed Mr G. Raimondi to sit as an ad hoc judge (Article 27 \u00a7 2 of the Convention and Rule 29 \u00a7 1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0On 1 November 2001 the Court changed the composition of its Sections (Rule 25 \u00a7 1). This case was assigned to the newly composed First Section (Rule 52 \u00a7 1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0By a decision of 23 May 2002 the Chamber declared the application partly admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0The applicant and the Government each filed observations on the merits of the case (Rule 59 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "9.\u00a0\u00a0The applicant was born in 1928 and lives in Druento ().",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0In 1982 the Asti District Court made an order for the compulsory winding up of a commercial partnership formed by the applicant's wife in 1980.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 16 November 1984 the same court made an order declaring the applicant personally bankrupt on the ground that he was a de facto partner.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On an unspecified date the trustee in bankruptcy filed a list of the bankrupt estate's debts with the registry.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 21 November 1984 the judge assigned to the case gave the trustee in bankruptcy leave to intervene in proceedings that had been brought by a bank, SPT, for the forced sale of the applicant's house.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 27 November 1984 he gave the trustee in bankruptcy leave to lodge tax appeals with the Tax Commissioners (Commissione Tributaria) in respect of sums claimed by the  and  tax authorities from the applicant's partnership.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0Between 15 and 28 December 1984 the judge gave the trustee in bankruptcy permission to withdraw sums from the current account of the bankrupt estate for the payment, inter alia, of fees due to the trustee and an expert.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On an unspecified date in 1985 an initial attempt to sell the applicant's house at auction failed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 26 March 1985 the trustee in bankruptcy lodged a report. On 28\u00a0March 1985 the President of the District Court summoned G.Z. to appear in order to establish whether he was a partner of the applicant. G.Z. was heard on 26 April 1985.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0On 10 June and 6 September 1985 the judge authorised the trustee in bankruptcy to make payments covering, inter alia, an expert's fees and the costs of publication of various notices.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 21 January 1986 the judge gave permission for a lawyer to be instructed to act in the aforementioned proceedings concerning the applicant's house.",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0On 10 March 1986 the judge gave the applicant permission to draw his pension and on 21 March 1986 authorised the trustee in bankruptcy to settle proceedings that had been brought by S.G. for an order for the restitution of certain movables that were part of the bankrupt estate.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0On 6 August 1986 the judge authorised the trustee in bankruptcy to enter into a loan agreement in respect of a building included in the bankrupt estate.",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0On 19 December 1986 the judge gave permission for a lawyer to be instructed to act in proceedings brought by P.C. contesting the bankrupt estate's liabilities.",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0On 23 March and 3 December 1987 the judge authorised the payment of various costs necessarily incurred in the proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0On 16 December 1987 the trustee in bankruptcy sought an order for the replacement of the chairman of the Creditors' Committee following the latter's death.",
+                                "elements": []
+                            },
+                            {
+                                "content": "25.\u00a0\u00a0On 22 December 1987 the judge refused permission for the sale by private contract (vendita a trattativa privata) of immovable property from the bankrupt estate on the ground that the Insolvency Act did not permit private sales of immovable property.",
+                                "elements": []
+                            },
+                            {
+                                "content": "26.\u00a0\u00a0On 28 December 1987 the judge authorised the payment of a carer's allowance to the applicant's wife.",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0On 21 January 1988 he authorised the trustee in bankruptcy to return the deposit that had been paid on the proposed sale by private contract.",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0On 4 May 1988 the judge granted an application by O.D.S., one of the applicant's partners, for restitution of sums paid by a company, CPI, for services she had rendered.",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0On 28 June and 3 and 17 November 1988 he authorised the payment of advertising costs and taxes incurred on the sale of a building from the bankrupt estate.",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0On 8 February 1989 the judge authorised the payment of part of the fees of the lawyer acting in the proceedings brought by P.C.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0On 3 March 1989 he authorised the payment of a tax liability and on 2 June 1989 of sums relating to the sale of the aforementioned building.",
+                                "elements": []
+                            },
+                            {
+                                "content": "32.\u00a0\u00a0On 15 May 1991 he authorised the payment of the lawyer's fees incurred in the proceedings for the forced sale of the applicant's house and on 7 June 1991 the inclusion of a sum belonging to O.D.S. in the assets of the bankrupt estate.",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0On an unspecified date in September 1991 the trustee in bankruptcy intervened in tax enforcement proceedings (procedura di esecuzione esattoriale) brought by the Druento Tax Collector's Office (Esattoria) for the recovery of sums due on the sale of the applicant's house. Ultimately, the sale did not go ahead; on 13 November 1991 the judge authorised payment of the lawyer who had acted in the proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0On 7 December 1991 the judge authorised the part payment of seniority pay (trattamento di fine rapporto) to the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "35.\u00a0\u00a0On 28 April 1992 the judge appointed a valuer to value the applicant's assets and on 4 July 1993 authorised the payment of the costs thereby incurred. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0On 12 May 1994 he appointed a new chairman to the Creditors' Committee at the request of the trustee in bankruptcy (who had made a like request on 16 December 1987).",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0On 10 January 1995 a further attempt was made to sell the applicant's house at auction, without success.",
+                                "elements": []
+                            },
+                            {
+                                "content": "38.\u00a0\u00a0On 14 February 1995 the trustee in bankruptcy reported on the state of the proceedings at the judge's request. In particular, he said that all the assets of the bankrupt estate apart from the applicant's house had been sold. He also reserved the right to make a further proposal for the sale of the property at auction.",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0On 3 March 1995, in response to a request by the judge on 17\u00a0February 1995, the trustee in bankruptcy explained that there had been no partial distribution (ripartizione parziale) of the assets among the creditors because appeals were still pending before the Tax Commissioners.",
+                                "elements": []
+                            },
+                            {
+                                "content": "40.\u00a0\u00a0As the applicant's house had been unlawfully occupied in the interim by D.L. and S.B., the judge ordered their eviction in a decision (decreto di rilascio) of 13 April 1995. On 14 April 1995 he asked the trustee in bankruptcy to produce a draft proposal for the partial distribution of the assets.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0On 15 May 1995 the trustee in bankruptcy reported that the appeals to the Tax Commissioners had been successful and lodged a draft proposal for the partial distribution of the assets. Two days later he was authorised by the judge to transfer the current account of the bankrupt estate to another bank.",
+                                "elements": []
+                            },
+                            {
+                                "content": "42.\u00a0\u00a0On 23 October 1995 the judge ruled that the draft proposal for the partial distribution of the assets could be implemented.",
+                                "elements": []
+                            },
+                            {
+                                "content": "43.\u00a0\u00a0The following day D.L. moved out of the applicant's house. However, on an unspecified date S.B., who in the meantime had appealed against the judge's order of 13 April 1995, proposed to settle the dispute by undertaking to purchase the house.",
+                                "elements": []
+                            },
+                            {
+                                "content": "44.\u00a0\u00a0On 14 December 1995 the trustee in bankruptcy filed a report.",
+                                "elements": []
+                            },
+                            {
+                                "content": "45.\u00a0\u00a0On 6 February 1996 the judge fixed 19 April 1996 as the date for the auction of the applicant's house.",
+                                "elements": []
+                            },
+                            {
+                                "content": "46.\u00a0\u00a0On an unspecified date the applicant sought a composition with the creditors. His application was declared inadmissible on 1 April 1996 on the ground that it did not satisfy the conditions laid down by section 124 of the Bankruptcy Act.",
+                                "elements": []
+                            },
+                            {
+                                "content": "47.\u00a0\u00a0On 5 April 1996 the applicant asked the judge to refer to the Constitutional Court the question of the legitimacy of the system of proprietorial and personal disabilities to which bankrupts were subject and, in particular, sections 48, 49 and 50(3) of the Bankruptcy Act and Articles\u00a0350, 393, 407, 2382, 2417, 2488 and 2516 of the Civil Code. In a decision of 17 April 1996, the judge rejected that application as being manifestly ill-founded, holding that the legislature's decision to give the creditors' proprietorial interests precedence over those of the bankrupt did not entail a violation of the debtor's rights guaranteed by the Constitution.",
+                                "elements": []
+                            },
+                            {
+                                "content": "48.\u00a0\u00a0In an application lodged with the registry on 17 April 1996, the applicant sought a stay of the order of 6 February 1996 for the sale of his house.",
+                                "elements": []
+                            },
+                            {
+                                "content": "49.\u00a0\u00a0On 19 April 1996 the sale of the applicant's house by auction was adjourned to 21 April, when it was sold.",
+                                "elements": []
+                            },
+                            {
+                                "content": "50.\u00a0\u00a0On 22 April 1996 the trustee in bankruptcy resigned. The District Court appointed a replacement the following day, who lodged a report on 11\u00a0October 1996. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "51.\u00a0\u00a0On 3 May 1996 the applicant appealed to the Court of Cassation, with a view to having the order for the sale of his house set aside. According to information he has provided, his appeal was dismissed as being out of time. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "52.\u00a0\u00a0On 12 December 1996 the judge appointed a valuer to carry out a valuation before title to the applicant's house was transferred to the successful bidder. The transfer was effected by a court order of 7 July 1997. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "53.\u00a0\u00a0In a decision of 25 September 1998 the judge approved accounts that had been submitted by the trustee in bankruptcy.",
+                                "elements": []
+                            },
+                            {
+                                "content": "54.\u00a0\u00a0On 5 October 1998 he authorised payment of the trustee in bankruptcy's fees.",
+                                "elements": []
+                            },
+                            {
+                                "content": "55.\u00a0\u00a0On 23 March 1999 he approved the final proposal for the distribution of the assets, noting that the applicant had sufficient means after the sale of his house to honour his debts and bring the bankruptcy to an end.",
+                                "elements": []
+                            },
+                            {
+                                "content": "56.\u00a0\u00a0On 17 July 1999 the judge terminated the bankruptcy.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "57.\u00a0\u00a0The relevant provisions of the Bankruptcy Act (Royal Decree no.\u00a0267 of 16 March 1942) read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\nSection 42",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe bankruptcy order divests the bankrupt of the rights to administer or to deal with assets that were in existence at the date of the said order. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 43",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cLegal proceedings concerning disputes over property issues arising in respect of assets forming part of the bankrupt estate shall be taken or defended by the trustee in bankruptcy.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The bankrupt shall only be entitled to intervene in the proceedings in so far as they concern an allegation of criminal bankruptcy on his part or if permitted by law.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 48",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cCorrespondence addressed to the bankrupt must be passed to the trustee in bankruptcy, who shall be empowered to retain correspondence concerning property interests. The bankrupt may consult the correspondence. The trustee in bankruptcy shall keep the content of correspondence not relating to such interests confidential.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 49",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe bankrupt may not leave his place of residence without the authorisation of the bankruptcy judge and must report to that judge, the trustee in bankruptcy and the creditors' committee when summoned unless he is prevented from doing so on legitimate grounds and has been given leave by the judge to send a representative. ",
+                                "elements": []
+                            },
+                            {
+                                "content": "If the bankrupt fails to comply with a summons, the judge may order that he be brought by the police.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 50",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cA public register of the names of bankrupts shall be held at the registry of each district court. Names shall be deleted from the register by order of the district court. Bankrupts shall be subject to the disabilities laid down by law until such time as their name has been deleted from the register.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 88",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe bankrupt's property shall be administered by the trustee in bankruptcy from the moment it is recorded in the inventory of such assets drawn up by the trustee in bankruptcy ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\n58.\u00a0\u00a0The relevant provisions of the Civil Code are worded as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 350",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe following may not be appointed as guardians or, if already appointed, must cease to act in that capacity:",
+                                "elements": []
+                            },
+                            {
+                                "content": "... a bankrupt whose name has not been deleted from the bankruptcy register.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "59.\u00a0\u00a0Article 393 essentially prevents disqualified bankrupts from acting as trustees in bankruptcy until their names have been deleted from the bankruptcy register.",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0Articles 2382, 2399, 2417 and 2516 of the Civil Code prohibit a bankrupt from being appointed as a director or trustee in bankruptcy of a commercial or cooperative company or as a representative of the debenture holders in a public company.",
+                                "elements": []
+                            },
+                            {
+                                "content": "61.\u00a0\u00a0Article 2 of Presidential Decree no. 223 of 20 March 1967, as amended by Law no. 15 of 16 January 1992, essentially provides for the suspension of the bankrupt's electoral rights for the duration of the bankruptcy proceedings and, in any event, for a period not exceeding five years from the date of the bankruptcy order.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1",
+                        "elements": [
+                            {
+                                "content": "62.\u00a0\u00a0The applicant complained that the bankruptcy order had deprived him of all his possessions. In that connection, he relied on Article 1 of Protocol No. 1, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\nA.\u00a0\u00a0The parties' submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "63.\u00a0\u00a0The applicant denounced the \u201ceconomic demise of the bankrupt\u201d decided on as a result of the \u201cbad management of his affairs\u201d. He also complained of the adverse effects the delays in the proceedings had had on his financial situation and economic activity.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "64.\u00a0\u00a0The Government stated that, since bankruptcy proceedings were prescribed by law and pursued a legitimate aim, namely ensuring that creditors recovered at least part of their debts, the resulting deprivation of property did not infringe Article 1 of Protocol No. 1. As to the length of the proceedings, the Government said that it was primarily attributable to the unsuccessful attempts that had been made to sell the applicant's house at auction. Following attempts on unspecified dates in 1985, 1991 and 1995, the sale had finally been fixed for 19 April 1996, then adjourned to 21 April 1996. The applicant was also responsible for the length of the proceedings, as he had resorted to every means possible to block the liquidation process. He had made an application for a composition with the creditors, which had been declared inadmissible on 1 April 1996, requested the bankruptcy judge on 5 April 1996 to refer an issue to the Constitutional Court thereby causing the proceedings to be stayed, made an application on 17 April 1996 for a stay of execution of the order for sale (which was dismissed the following day) and followed that up with a like application on an unspecified date to the Court of Cassation.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Whether there was interference",
+                                        "elements": [
+                                            {
+                                                "content": "65.\u00a0\u00a0The Court notes that the parties do not dispute that there has been interference.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The applicable rule",
+                                        "elements": [
+                                            {
+                                                "content": "66.\u00a0\u00a0The Court reiterates that Article 1 of Protocol No. 1 contains three distinct rules: the first rule, set out in the first sentence of the first paragraph, is of a general nature and enunciates the principle of the peaceful enjoyment of property; the second rule, contained in the second sentence of the first paragraph, covers deprivation of possessions and subjects it to certain conditions; the third rule, stated in the second paragraph, recognises that the Contracting States are entitled, amongst other things, to control the use of property in accordance with the general interest. The second and third rules, which are concerned with particular instances of interference with the right to peaceful enjoyment of property, must be construed in the light of the general principle laid down in the first rule (see Iatridis v. Greece [GC], no.\u00a031107/96, \u00a7 55, ECHR 1999-II, and Immobiliare Saffi v. Italy [GC], no.\u00a022774/93, \u00a7 44, ECHR 1999-V).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0The Court notes that, following the bankruptcy order, the applicant was deprived not of his property, but of the right to administer and deal with his possessions, as the responsibility for administering them was assigned to the trustee in bankruptcy. The interference with his right to the peaceful enjoyment of his possessions thus took the form of a control of the use of property within the meaning of the second paragraph of Article 1 of Protocol No. 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Compliance with the conditions in the second paragraph",
+                                        "elements": [
+                                            {
+                                                "content": "68.\u00a0\u00a0The Court notes that the prohibition on a bankrupt administering and dealing with his possessions is intended to ensure that the creditors are paid. The interference therefore pursued a legitimate aim that was in accordance with the general interest, namely the protection of the rights of others.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0The Court reiterates that an interference must achieve a \u201cfair balance\u201d between the demands of the general interest and the requirements of the protection of the individual's fundamental rights. The concern to achieve this balance is reflected in the structure of Article 1 as a whole, and therefore also in its second paragraph. There must be a reasonable relationship of proportionality between the means employed and the aim pursued. In determining whether this requirement is met, the Court recognises that the State enjoys a wide margin of appreciation with regard both to choosing the means of enforcement and to ascertaining whether the consequences of enforcement are justified in the general interest for the purpose of achieving the object of the law in question (see Chassagnou and Others v. France [GC], nos. 25088/94, 28331/95 and 28443/95, \u00a7 75, ECHR 1999-III, and Immobiliare Saffi, cited above, \u00a7 49).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0The limitation on the applicant's right to the peaceful enjoyment of his possessions is not in itself open to criticism, particularly in view of the legitimate aim pursued and the margin of appreciation afforded by the second paragraph of Article 1. However, the risk with such a system is that it may unreasonably restrict an applicant's ability to deal with his possessions, particularly if the proceedings are protracted, as they were in the instant case in which they lasted fourteen years and eight months. The Government attributed the delays in the proceedings to the failure of the attempts to sell the applicant's house at auction and to the applicant's conduct.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Thus, while it is true that several attempts were made, albeit unsuccessfully, to sell the applicant's house at auction (on unspecified dates in 1985 and 1991 and on 10 January 1995), the Court notes that the bankruptcy authorities failed to take the slightest action during the intervals of approximately six years (from 1985 to 1991) and four years (from 1991 to 10 January 1995) between successive sale attempts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "As regards the applicant's conduct, the Court acknowledges that he sought a composition with the creditors (on an unspecified date), applied for a referral to the Constitutional Court (on 5 April 1996), applied for a stay of execution of the order for sale (on 17 April 1996) and appealed to the Court of Cassation (on 3 May 1996) against the refusal of a stay. However, it finds that those actions did not significantly slow down the bankruptcy proceedings because, apart from the request for a composition with the creditors (the date of which has not been given), all the applications were made in or after 1996 and were decided expeditiously by the courts concerned (for instance, the application for a referral to the Constitutional Court was decided within twelve days and the application for a stay of the order for sale within one day).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Furthermore, the Court notes that there were periods of judicial inactivity, in particular, between 2 June 1989 and 15 May 1991 (approximately two years), 28 April 1992 and 4 July 1993 (approximately one year and two months) and 7 July 1997 and 25 September 1998 (approximately one year and two months).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Consequently, the Court finds that there was no justification for restricting the applicant's right to the peaceful enjoyment of his possessions for the full duration of the proceedings, since, while in principle it will be necessary to deprive the bankrupt of the right to administer and deal with his or her possessions in order to achieve the aim pursued, the necessity will diminish with the passage of time. In the Court's view, the length of the proceedings thus upset the balance that had to be struck between the general interest in securing the payment of the bankrupt's creditors and the applicant's personal interest in securing the peaceful enjoyment of his possessions. The interference with the applicant's right was accordingly disproportionate to the aim pursued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0Having regard to the foregoing, the Court finds that there has been an infringement of the applicant's right to the peaceful enjoyment of his possessions, as guaranteed by Article 1 of Protocol No. 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\tALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "72.\u00a0\u00a0The applicant further complained that, following the bankruptcy order, all the correspondence addressed to him had been handed over to the trustee in bankruptcy. He relied on Article 8 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his ... correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties' submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "73.\u00a0\u00a0The applicant said that there had been no justification whatsoever for monitoring his correspondence. He submitted that since bankruptcy orders were made public, notably through the display of a notice in the courthouse, anyone wishing to correspond with a bankrupt would be aware of his or her financial situation. Consequently, correspondence addressed to the bankrupt was purely personal and did not relate to the financial interests concerned by the bankruptcy proceedings. Lastly, the fact that the trustee in bankruptcy was under a duty to keep the content of personal correspondence confidential did not, in the applicant's opinion, prevent there being a breach of Article 8.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "74.\u00a0\u00a0The Government submitted that the restriction imposed on the applicant's right to respect for his correspondence by section 48 of the Bankruptcy Act was intended to \u201cachieve a fair balance between the public interest\u201d and the applicant's interest. It enabled the trustee in bankruptcy to obtain all the information that was relevant to establishing the bankrupt's financial situation in order to prevent him from concealing or diverting sums of money to the creditors' detriment. The legal basis for the limitation on the right to respect for correspondence was included in the specific exceptions set out in paragraph 2 of Article 8 by the reference to the \u201cprotection of the rights ... of others\u201d. The Government stressed that the monitoring was temporary and not punitive. Moreover, the trustee in bankruptcy was under a statutory duty to send the bankrupt any correspondence that did not relate to his financial interests and to keep the content of his personal correspondence confidential.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "\nB.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Whether there was interference",
+                                        "elements": [
+                                            {
+                                                "content": "75.\u00a0\u00a0The Court notes that the parties do not dispute that there has been interference. Such interference will constitute a violation of Article 8 of the Convention unless it is \u201cin accordance with the law\u201d, pursues an aim or aims that are legitimate under paragraph 2 of Article 8 and can be regarded as \u201cnecessary in a democratic society\u201d (see, mutatis mutandis, Labita v. Italy [GC], no.\u00a026772/95, \u00a7 179, ECHR 2000-IV).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Lawfulness and purpose of the interference",
+                                        "elements": [
+                                            {
+                                                "content": "76.\u00a0\u00a0The interference was in accordance with the law (section 48 of the Bankruptcy Act). Furthermore, as the Government have stated, it was intended to enable information relating to the bankrupt's financial situation to be obtained in order to prevent him from diverting his assets to the creditors' detriment. The interference therefore pursued a legitimate aim, namely the protection of the rights of others.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0It remains to be determined whether the measure in question was necessary in a democratic society.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Proportionality of the interference",
+                                        "elements": [
+                                            {
+                                                "content": "78.\u00a0\u00a0The existence of a system to monitor the applicant's correspondence is not in itself open to criticism. However, the risk with such a system is that it may unreasonably restrict the applicant's right to respect for his correspondence, particularly if the proceedings are protracted, as they were in the instant case in which they lasted fourteen years and eight months. In that connection, referring to its findings with respect to Article 1 of Protocol No. 1, the Court considers that, contrary to what the Government have affirmed, the delays in the proceedings were not attributable to the failure of the attempts to sell the applicant's house at auction or to the applicant's conduct.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Consequently, it finds that there was no justification for restricting the applicant's right to respect for his correspondence for the full duration of the proceedings, since, while in principle monitoring correspondence will be necessary to achieve the aim pursued, the necessity will diminish with the passage of time. In the Court's view, the length of the proceedings thus upset the balance that had to be struck between the general interest in securing the payment of the bankrupt's creditors and the applicant's personal interest in securing respect for his correspondence. The interference with the applicant's right was accordingly disproportionate to the aim pursued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0Having regard to the foregoing, the Court finds that there has been a breach of the applicant's right to respect for his correspondence as guaranteed by Article 8 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "80.\u00a0\u00a0The applicant also complained that the bankruptcy order had prevented him from taking legal proceedings in order to defend his interests. Article 6 \u00a7 1 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties' submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The applicant said that the loss, as a result of bankruptcy, of the capacity to take legal proceedings was highly damaging to the bankrupt. At the same time, there was a conflict of interest between the trustee in bankruptcy, who acted in lieu of the bankrupt, and the bankrupt. ",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "82.\u00a0\u00a0The Government contended that the purpose of preventing bankrupts from taking legal proceedings was to protect a third-party right, namely \u201cthe interests of the bankrupt's creditors\u201d. Furthermore, the restriction applied solely to issues concerning pecuniary rights and, accordingly, was within the State's margin of appreciation. The Government added that the bankrupt was in any event represented in court by the trustee in bankruptcy. Lastly, the applicant had not sustained any loss, as he had instituted various court proceedings while the bankruptcy proceedings were pending (for instance, an application on 5 April 1996 for a referral to the Constitutional Court and an application on 17 April 1996 for a stay of execution of the order for sale).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "83.\u00a0\u00a0The Court considers, firstly, that the restriction on the applicant's ability to take legal proceedings must be considered from the perspective of the right of access to a court. It reiterates that Article\u00a06 \u00a7 1 secures to everyone the right to have any claim relating to his civil rights and obligations brought before a court or tribunal. In this way it embodies the \u201cright to a court\u201d, of which the right of access, that is the right to institute proceedings before courts in civil matters, constitutes one aspect (see Golder v. the United Kingdom, judgment of 21 February 1975, Series A no.\u00a018, pp. 17-18, \u00a7\u00a7 35-36). This right extends only to disputes (\u201ccontestation\u201d) over \u201ccivil rights and obligations\u201d which can be said, at least on arguable grounds, to be recognised under domestic law (see, inter alia, James and Others v. the United Kingdom, judgment of 21 February 1986, Series A no. 98, pp. 46-47, \u00a7 81, and Powell and Rayner v. the United Kingdom, judgment of 21 February 1990, Series A no. 172, pp. 16-17, \u00a7\u00a036).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0The Court notes that the restrictions on the applicant's ability to take legal proceedings concerned disputes over issues of a pecuniary nature. The civil limb of Article 6 is therefore applicable. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0Furthermore, the \u201cright to a court\u201d is not absolute. It is subject to limitations permitted by implication, in particular where the conditions of admissibility of an appeal are concerned, since by its very nature it calls for regulation by the State, which enjoys a certain margin of appreciation in this regard (see Ashingdane v. the United Kingdom, judgment of 28 May 1985, Series A no. 93, pp. 24-25, \u00a7 57). However, these limitations must not restrict or reduce a person's access in such a way or to such an extent that the very essence of the right is impaired; lastly, such limitations will not be compatible with Article 6 \u00a7 1 if they do not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be achieved (see Levages Prestations Services v. France, judgment of 23 October 1996, Reports of Judgments and Decisions  1996-V, p. 1543, \u00a7 40). ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0The Court considers that the purpose of the restriction on the applicant's capacity to take legal proceedings is to assign the role of representing the bankrupt in court in respect of issues arising over the bankrupt's pecuniary rights to the trustee in bankruptcy as, once the bankruptcy order has been lodged, he is responsible for the administration of the bankrupt's assets. Indeed, it is self-evident in the Court's view that disputes over such matters may have major repercussions on the assets and liabilities of the bankrupt estate. The Court consequently finds that the restriction is intended to protect the rights and interests of others, namely those of the bankrupt's creditors. The Court must go on to examine whether the consequences suffered by the applicant were proportionate to the legitimate aim pursued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0The restriction on the applicant's right of access to a court is not in itself open to criticism. However, the risk with such a system is that it may unreasonably limit the right of access to a court, particularly if the proceedings are protracted, as they were in the instant case in which they lasted fourteen years and eight months. In that connection, referring to its findings with respect to Article 1 of Protocol No. 1, the Court considers that, contrary to what the Government have affirmed, the delays in the proceedings were not attributable to the failure of the attempts to sell the applicant's house at auction or to the applicant's conduct. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Consequently, it finds that there was no justification for restricting the applicant's right of access to a court for the full duration of the proceedings, since, while in principle a restriction on the right to take legal proceedings is necessary to achieve the aim pursued, the necessity will diminish with the passage of time. In the Court's view, the length of the proceedings thus upset the balance that had to be struck between the general interest in securing the payment of the bankrupt's creditors and the applicant's personal interest in having access to a court. The interference with the applicant's right was accordingly disproportionate to the aim pursued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0Having regard to the foregoing, the Court concludes that there has been an infringement of the right of access to a court as guaranteed by Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF PROTOCOL No. 4",
+                        "elements": [
+                            {
+                                "content": "89.\u00a0\u00a0Lastly, the applicant complained of the prohibition on bankrupts moving away from their place of residence. He relied on Article 2 of Protocol No. 4, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone shall be free to leave any country, including his own.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are in accordance with law and are necessary in a democratic society in the interests of national security or public safety, for the maintenance of ordre public, for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0The rights set forth in paragraph 1 may also be subject, in particular areas, to restrictions imposed in accordance with law and justified by the public interest in a democratic society.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties' submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "90.\u00a0\u00a0The applicant argued that the restriction on his freedom of movement was unjustified, as the trustee in bankruptcy or, alternatively, the legal representative, could have stood in for him when necessary in the proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "91.\u00a0\u00a0The Government submitted that the restriction on freedom of movement imposed by section 49 of the Bankruptcy Act was a temporary measure which was not absolute \u2013 the sole obligation on the applicant being to seek leave from the judge before leaving his place of residence \u2013 and pursued a legitimate aim, namely to \u201censure that the bankrupt could be contacted in order to obtain any vital information required to implement and terminate the procedure\u201d.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Whether there was interference",
+                                        "elements": [
+                                            {
+                                                "content": "92.\u00a0\u00a0The Court notes that the parties do not dispute that there was a restriction on the applicant's freedom of movement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0In addition, it considers that such a restriction will be in breach of Article\u00a02 of Protocol No. 4 unless it is \u201cin accordance with the law\u201d, pursues one or more of the legitimate aims contemplated in paragraph 3 of the same Article and may be regarded as a measure which is \u201cnecessary in a democratic society\u201d (see Raimondo v. Italy, judgment of 22 February 1994, Series A no. 281-A, p. 19, \u00a7 39).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Lawfulness and purpose of the interference",
+                                        "elements": [
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court notes that the interference was in accordance with the law (section 49 of the Bankruptcy Act) and accepts the Government's submission that its purpose was to ensure that the bankrupt could be contacted in order to facilitate progress in the proceedings. The Court accordingly finds that the restriction was intended to protect the rights of others, namely the interests of the bankrupt's creditors.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0It remains to be determined whether the measure was necessary in a democratic society.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Proportionality of the interference",
+                                        "elements": [
+                                            {
+                                                "content": "96.\u00a0\u00a0The Court notes at the outset that the restriction placed on the applicant's freedom of movement is not in itself open to criticism. However, the risk with such a system is that it may unreasonably restrict the applicant's freedom to move freely, particularly if the proceedings are protracted, as they were in the instant case in which they lasted fourteen years and eight months. In that connection, referring to its findings with respect to Article 1 of Protocol No. 1, the Court finds that, contrary to what the Government have affirmed, the delays in the proceedings were not attributable to the failure of the attempts to sell the applicant's house at auction or to the applicant's conduct. ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Consequently, it finds that there was no justification for restricting the applicant's freedom of movement for the full duration of the proceedings, since, while in principle a restriction on the right to move away from the place of residence is necessary to achieve the aim pursued, the necessity will diminish with the passage of time. Even though there is nothing in the case file to indicate that the applicant wished to move away from his place of residence or was refused permission to do so, in the Court's view, the length of the proceedings upset the balance that had to be struck between the general interest in securing the payment of the bankrupt's creditors and the applicant's personal interest in having freedom of movement. The interference with the applicant's freedom was accordingly disproportionate to the aim pursued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0Having regard to the foregoing, the Court concludes that there has been an infringement of the applicant's freedom of movement as guaranteed by Article 2 of Protocol No. 4.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "98.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "99.\u00a0\u00a0The applicant said that he had sustained loss and asked the Court to assess the amount.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0The Government argued that the applicant should not be awarded just satisfaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0With regard to the applicant's claim for reparation for pecuniary damage, the Court declines to make an award as the applicant has not discharged his burden of proof (see, among many other authorities, Corigliano v. Italy, judgment of 10 December 1982, Series A no. 57, p. 17, \u00a7 53, and Campbell and Cosans v. the United Kingdom (Article 50), judgment of 22 March 1983, Series A no. 60, pp. 7-8, \u00a7 11). It finds, however, that the applicant must have sustained non-pecuniary damage. Having regard to the circumstances of the case and ruling on an equitable basis as required by Article 41 of the Convention, it decides to award him the sum of 31,000 euros.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "102.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Holds that there has been a violation of Article 1 of Protocol No. 1;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 2 of Protocol No. 4;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final according to Article\u00a044 \u00a7 2 of the Convention, EUR 31,000 (thirty-one thousand euros) for non-pecuniary damage, together with any tax that may be chargeable;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in French, and notified in writing on 17 July 2003, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrC.L. Rozakis",
+            "role": "president"
+        },
+        {
+            "name": "MrP. Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "MrG. Bonello",
+            "role": "judges"
+        },
+        {
+            "name": "MrsF. Tulkens",
+            "role": "judges"
+        },
+        {
+            "name": "MrsN. Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrE. Levits",
+            "role": "judges"
+        },
+        {
+            "name": "MrG. Raimondi",
+            "role": "ad hoc judge"
+        },
+        {
+            "name": "Mr S. Nielsen",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF LUORDO v. ITALY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-61231.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2003:0717JUD003219096",
+    "externalsources": [],
+    "extractedappno": [
+        "32190/96",
+        "31107/96",
+        "22774/93",
+        "25088/94",
+        "28331/95",
+        "28443/95",
+        "26772/95"
+    ],
+    "importance": "1",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-61231",
+    "judgementdate": "17/07/2003 00:00:00",
+    "kpdate": "17/07/2003 00:00:00",
+    "kpthesaurus": [
+        "369",
+        "62",
+        "167",
+        "238",
+        "451",
+        "424",
+        "203",
+        "268",
+        "376",
+        "354",
+        "445",
+        "7",
+        "566",
+        "150",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "P1-1-2",
+        "P4-2",
+        "P4-2-1",
+        "8",
+        "8-1",
+        "6-1",
+        "8-2",
+        "6",
+        "41",
+        "P1-1"
+    ],
+    "parties": [
+        "LUORDO",
+        "ITALY"
+    ],
+    "rank": "467.138702392578",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "ITA",
+    "respondentOrderEng": "23",
+    "scl": [
+        "Ashingdane v. the United Kingdom du 28 May 1985, Series A no 93, pp. 24-25, \u00a7 57",
+        "Campbell and Cosans v. the United Kingdom, judgment of 22 March 1983, Series A no 60, \u00a7 11",
+        "Chassagnou and Others v. France [GC], nos 25088/94, 28331/95 and 28443/95, \u00a7 75, ECHR 1999-III",
+        "Corigliano v. Italy, judgment of 10 December 1982, Series A no 57, \u00a7 53",
+        "Golder v. the United Kingdom, judgment of 21 February 1975, Series A no 18, pp. 17-18, \u00a7\u00a7 35-36",
+        "Iatridis v. Greece [GC], no 31107/96, \u00a7 55, ECHR 1999-II",
+        "Immobiliare Saffi v. Italy [GC], no 22774/93, ECHR 1999-V, \u00a7 49",
+        "James and Others v. the United Kingdom, judgment of 21 February 1986, Series A no 98, pp. 46-47, \u00a7 81",
+        "Labita v. Italy [GC], no 26772/95, \u00a7 179, ECHR 2000-IV",
+        "Levages Prestations Services v. France, judgment of 23 October 1996, Reports of Judgments and Decisions 1996-V",
+        "Powell and Rayner v. the United Kingdom, judgment of 21 February 1990, Series A no 172, p. 16, \u00a7 36",
+        "Raimondo v. Italy, judgment of 22 February 1994, Series A no 281, \u00a7 39"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "321467",
+    "typedescription": "15"
+}

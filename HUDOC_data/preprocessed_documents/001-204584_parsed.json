@@ -1,0 +1,1491 @@
+{
+    "__articles": "5;5-1;5-1-c;5-4;6;6-2;8;8-1;8-2;18;18+5;35;35-1;35-3-a;41",
+    "__conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae;Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for correspondence;Respect for family life;Respect for private life) (Azerbaijan);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-c - Reasonable suspicion) (Azerbaijan);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention) (Azerbaijan);Violation of Article 5 - Right to liberty and security (Article 5-4 - Review of lawfulness of detention) (Azerbaijan);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-2 - Presumption of innocence) (Azerbaijan);No violation of Article 18+5 - Limitation on use of restrictions on rights (Article 18 - Restrictions for unauthorised purposes) (Article 5-1 - Lawful arrest or detention;Article 5 - Right to liberty and security) (Azerbaijan);Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "62775/14",
+    "article": [
+        "8",
+        "35",
+        "5",
+        "6",
+        "18",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Art. 35"
+            ],
+            "element": "Remainder inadmissible",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Art. 35-3-a"
+            ],
+            "element": "Admissibility criteria",
+            "type": "other"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for correspondence",
+                "Respect for family life",
+                "Respect for private life"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "mentions": [
+                "Azerbaijan"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-4 - Review of lawfulness of detention"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "mentions": [
+                "Azerbaijan"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-2 - Presumption of innocence"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "mentions": [
+                "Azerbaijan"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 18 - Restrictions for unauthorised purposes"
+            ],
+            "element": "No violation of Article 18+5 - Limitation on use of restrictions on rights",
+            "mentions": [
+                "Article 5-1 - Lawful arrest or detention",
+                "Article 5 - Right to liberty and security",
+                "Azerbaijan"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "18",
+            "base_article": "18",
+            "details": [
+                "Article 18 - Restrictions for unauthorised purposes"
+            ],
+            "element": "No violation of Article 18+5 - Limitation on use of restrictions on rights",
+            "mentions": [
+                "Article 5-1 - Lawful arrest or detention",
+                "Article 5 - Right to liberty and security",
+                "Azerbaijan"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "details": [
+                "Article 41 - Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-204584.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 62775/14) against the Republic of Azerbaijan and the Republic of Turkey lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Azerbaijani national, Mr\u00a0Rauf Habibula oglu Mirgadirov (Rauf H\u0259bibula o\u011flu Mirq\u0259dirov \u2013 \u201cthe applicant\u201d), on 11 September 2014.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr F. Agayev and Mr\u00a0E.\u00a0Suleymanov, lawyers based in Azerbaijan. The Azerbaijani Government were represented by their Agent, Mr \u00c7. \u018fsg\u0259rov. The Turkish Government were represented by their Co-Agent, Mr Hac\u0131 Ali A\u00e7\u0131kg\u00fcl.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that his Convention rights and freedoms had been violated as a result of his arrest and detention in Turkey and his subsequent detention in Azerbaijan following his de facto deportation from Turkey to Azerbaijan.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 11\u00a0January 2016 the Azerbaijani Government were given notice of the complaints concerning: the absence of a reasonable suspicion that the applicant had committed a criminal offence (Article 5 \u00a7 1 (c) of the Convention); his unlawful detention from 19 to 20 November 2014 (Article\u00a05 \u00a7 1 of the Convention); the lack of justification for his pre-trial detention (Article 5 \u00a7 3 of the Convention); the domestic courts\u2019 failure to assess his arguments in favour of his release (Article 5 \u00a7 4 of the Convention); his lawyers\u2019 absence from the hearing of 20 November 2014 before the Nasimi District Court (Article 5 \u00a7 4 of the Convention); the violation of his right to the presumption of innocence (Article 6 \u00a7\u00a02 of the Convention); the unlawfulness of the restrictions placed on his rights during the investigation (Article 8 of the Convention); and Article 18 of the Convention in conjunction with Article 5. On the same date the Turkish Government were given notice of the complaints concerning: the applicant\u2019s alleged unlawful detention on 19 April 2014 and the lack of communication regarding the reasons for his detention (Article 5 \u00a7\u00a7 1 and 2 of the Convention); the domestic authorities\u2019 failure to bring him before a judge or any other authority authorised by law to decide on his detention (Article 5 \u00a7\u00a03 of the Convention); his inability to challenge the lawfulness of his detention (Article 5 \u00a7 4 of the Convention); and the alleged violation of his right to freedom of expression as a journalist (Article 10 of the Convention). The remainder of the application was declared inadmissible pursuant to Rule\u00a054\u00a0\u00a7\u00a03 of the Rules of Court. It was also decided to grant the application priority treatment under Rule 41 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The applicant and the respondent Governments each filed observations. In addition, observations were received from the Helsinki Foundation for Human Rights, Human Rights House Foundation and Freedom Now, non-governmental organisations which had been given leave by the President to intervene in the written procedure (Article 36 \u00a7 2 of the Convention and Rule 44 \u00a7 3 of the Rules of Court). The Azerbaijani Government were informed of their right to intervene in respect of the applicant\u2019s complaints of which the Turkish Government had been given notice (Article 36 \u00a7 1 of the Convention and Rule 44 \u00a7\u00a7 1 and 4), but did not avail themselves of that right.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant was born in 1961 and lives in Thalwil, Switzerland.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Background information",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicant is a well-known journalist and political analyst in Azerbaijan. On several occasions he was awarded the prize for journalist of the year in Azerbaijan. By a presidential order of the Republic of Azerbaijan of 21 July 2005, he was awarded the title of \u201chonoured journalist\u201d (\u0259m\u0259kdar jurnalist). The applicant was also awarded the Gerd Bucerius Free Press of Eastern Europe 2008 prize by the German ZEIT Foundation, for his journalistic activity.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0In July 2010 the applicant left Azerbaijan for Turkey, and at the time of the events described below he was based in Ankara and was working as a correspondent for the Azerbaijani newspaper Zerkalo. He wrote articles which mainly concerned regional foreign policy issues.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s arrest and deportation from Turkey",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0By a letter dated 26 December 2013, the Directorate General of Press and Information attached to the Turkish Prime Minister\u2019s Office (\u201cthe BYEGM\u201d) informed the Ankara governor\u2019s office that it had been decided to grant the applicant with a press card valid between 1 January and 31\u00a0December 2014. In the same letter, the BYEGM also requested the governor\u2019s office to issue the applicant with a residence permit for the duration of his press card in accordance with section 2 of Law\u00a0no.\u00a04817 on the Work Permits of Foreign Nationals in force at the material time and the Directorate General of Security\u2019s Circular no. 63 dated 2 April 2004. The applicant was accordingly granted a permit to reside in Turkey until 31\u00a0December 2014.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 8 April 2014 the BYEGM decided to annul the applicant\u2019s press card under section 45 of the former Regulation on Press Cards (see paragraph 69 below). On the same date the BYEGM informed the Ankara Security Directorate of its decision, and requested that it take the necessary action to revoke the applicant\u2019s residence permit.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 11 April 2014 information regarding the revocation of the applicant\u2019s residence permit was registered in the Turkish police information network.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0In the meantime, on 9 April 2014 the applicant had been invited to the offices of the BYEGM in Ankara, where he was verbally informed that his press card had been revoked. The applicant was not provided with any written notification in that respect, nor was he given any explanation as to why his press card had been revoked.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 11 April 2014 the applicant lodged a petition with the BYEGM, requesting written confirmation of the revocation of his press card, along with the reasons for that revocation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 18 April 2014 the Directorate General of Migration Management informed the Ankara Security Directorate of its decision that the applicant should be deported from Turkey in accordance with section 54 of the Law on Foreigners and International Protection (Law no. 6458), and instructed the security directorate to take the necessary steps to issue the official deportation decision made by the Ankara governor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 18 April 2014 the applicant and his family took a bus to go to Georgia. Shortly after the bus left Ankara, at approximately midnight, the bus was stopped by the police so that identity checks could be carried out. During those checks, it was noted that the applicant\u2019s residence permit had been revoked, and he was taken by the police to the Ankara Security Directorate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0According to a report drawn up shortly after the applicant\u2019s arrest by the police officers who apprehended him, he was informed that he had been arrested as he was no longer legally resident in Turkey following the revocation of his residence permit. The applicant refused to sign that report.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0According to an information document prepared by the police at 12.30 a.m. on 19 April 2014, the applicant was notified in writing that a procedure had been initiated for his deportation under section 54 of Law\u00a0no.\u00a06458. It is indicated on the document that the applicant refused to sign it. According to the applicant, he was never notified of this procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0At the same time, a separate document, which he allegedly also refused to sign, notified the applicant that his presence in Turkey was illegal. The document stated that a deportation decision had been taken in respect of him under section 53 of Law\u00a0no.\u00a06458, and that a decision had been taken to detain him under section 57 of the same law. The document also provided an explanation as to the procedures for administrative detention and deportation, as well as information on the legal avenues which one could use to object to the deportation and administrative detention decisions. The applicant was reminded of his right to obtain the assistance of a lawyer, either by his own means or through the legal aid mechanism. According to the applicant, he was never notified of this.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0According to the applicant, he asked the Turkish authorities for the assistance of a lawyer and an opportunity to contact his wife, but both his requests were ignored.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 19 April 2014 the police took the applicant to Ankara Esenbo\u011fa Airport. It appears from the applicant\u2019s submissions, and the Government did not contest this, that while at the airport he was informed in writing that a decision had been taken to ban him from entering Turkey for a period of twelve months from that date. The relevant information document was signed by the applicant. He was subsequently placed on a flight to Baku at around midday. He was under police control until the plane departed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 21 April 2014 the Ankara governor\u2019s office issued an official decision on the applicant\u2019s deportation and administrative detention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Institution of criminal proceedings against the applicant in Azerbaijan and his remand in custody",
+                                "elements": [
+                                    {
+                                        "content": "22.\u00a0\u00a0Following the arrival of the plane at Baku Airport at 4.20 p.m. on 19\u00a0April 2014, the applicant was arrested by agents of the Azerbaijani Ministry of National Security (\u201cthe MNS\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0At 5.15 p.m. on 19 April 2014 an investigator from the Serious Crimes Department of the Prosecutor General\u2019s Office issued a record stating that the applicant was being detained as a suspect. The applicant was suspected of having committed the criminal offence of high treason under Article 274 of the Criminal Code.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0At 5.20 p.m. on the same day the investigator questioned the applicant as a suspect, in the presence of a State-appointed lawyer. The applicant admitted that on various dates in Turkey, Armenia and Georgia, within the framework of various international conferences, he had met with L.B., the head of an Armenian non-governmental organisation, and D.S., the former head of the Armenian intelligence service, with whom he had discussed the prospect of resolving the Nagorno-Karabakh problem and the international situation in the region. However, the applicant denied the accusations of high treason against him, stating that he had not provided the Armenian intelligence services with any information about the military, socio-political or economic situation in the country, or the location of military units.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 21 April 2014 the applicant was charged under Article 274 (high treason) of the Criminal Code. The relevant part of the decision stated:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... Mirgadirov Rauf Habibula oglu has been charged on the basis of sufficient evidence because, as a citizen of the Republic of Azerbaijan, to the detriment of the Republic of Azerbaijan\u2019s sovereignty, State security, territorial inviolability and defence capacity, he was recruited for secret collaboration by L.B., an agent of the Armenian intelligence services, and [by] others, with whom he has had close ties since April 2008. Upon their instructions, for profit, [he] collected necessary information about the socio-political, economic, [and] military situation in the country and the location of military units, which constitute State secret[s], so that this information could be used in hostilities against the Republic of Azerbaijan. On several occasions [he] met with agents from the Armenian intelligence services \u2013 L.B., A.S., and others, from 1 to 4 April 2008 in the city of Tsakhkadzor in Armenia, on 28\u00a0September 2008 in Turkey, [and] on 2 February 2009 in the main room of the Marco Polo restaurant situated at 44 Shota Rustavelli Street in the city of Tbilisi in Georgia. [He] committed high treason by espionage, namely by providing [those individuals] with the information [he had] collected, together with photographs and technical drawings (sxeml\u0259r), and by deliberately providing them with assistance so that this information could be used against the Republic of Azerbaijan.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Through these actions, Mirgadirov Rauf Habibula oglu committed a criminal offence under Article 274 of the Criminal Code of the Republic of Azerbaijan.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On the same date, relying on the official charges brought against the applicant and an application by the prosecutor, the Nasimi District Court ordered that the applicant be detained pending trial for a period of three months. The court referred to the risk of his absconding and obstructing the investigation, and the nature of the criminal act, and justified its decision as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cHaving examined the application and the material in the case file, and having heard the submissions of the participants in the criminal proceedings, the court considers that the application should be granted and the accused should be remanded in custody.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... the court considers that the criminal act under Article 274 of the Criminal Code of the Republic of Azerbaijan attributed to the accused, Mirgadirov Rauf Habibula oglu, is classified as a serious crime. There is a likelihood that the accused will abscond from the investigation, fail to comply with the requests of the investigating authorities without good reason, or avoid his criminal prosecution or sentence by other means. For these reasons, the application should be granted and the accused, Mirgadirov Rauf Habibula oglu, should be remanded in custody.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 22 April 2014 the applicant appealed against that decision with the assistance of a lawyer whom he had appointed in the meantime. He complained in particular that there was no reasonable suspicion that he had committed a criminal offence, and that there was no justification for the application of the preventive measure of detention pending trial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 25 April 2014 the Baku Court of Appeal dismissed the appeal, finding that the detention order was justified.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Restrictions imposed on the applicant\u2019s rights",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0On 7 May 2014 the investigator in charge of the case issued a decision in respect of the applicant \u201crestricting some of the accused\u2019s rights at [his] place of detention\u201d (t\u0259qsirl\u0259ndiril\u0259n \u015f\u0259xsin h\u0259bs yerind\u0259 b\u0259zi h\u00fcquqlar\u0131n\u0131n m\u0259hdudla\u015fd\u0131r\u0131lmas\u0131 haqq\u0131nda). In particular, the investigator decided to restrict the applicant\u2019s rights to use the telephone at his place of detention, to correspond with and meet people other than with his lawyers, and to receive and subscribe to any socio-political newspaper or magazine. The investigator temporarily imposed the above-mentioned restrictions during the preliminary investigation (ibtidai istintaq d\u00f6vr\u00fcnd\u0259 m\u00fcv\u0259qq\u0259ti olaraq), without providing any specific time-limit. The investigator referred to Articles 17.3 and 19.8 of the Law on the Guarantee of the Rights and Freedoms of Individuals Kept in Detention Facilities of 22\u00a0May 2012 (\u201cthe Law of 22 May 2012\u201d) as the legal basis for his decision, and justified it by referring to the necessity to protect the confidentiality of the investigation and prevent the disclosure of information about the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 14 May 2014 the applicant lodged a complaint against the investigator\u2019s decision of 7 May 2014, claiming that it was unlawful.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Following the death of the applicant\u2019s father on 23 May 2014, on 24\u00a0May 2014 the applicant obtained permission to have three days to attend his father\u2019s funeral. During that period he stayed at his parents\u2019 home.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0On 27 May 2014 the Sabail District Court dismissed the applicant\u2019s complaint, finding that the investigator\u2019s decision of 7 May 2014 was lawful and justified. The court\u2019s decision also referred to Articles 17.3 and 19.8 of the Law of 22 May 2012 being the legal basis for the imposition of the restrictions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0On 27 May 2014 the applicant appealed against that decision. He argued that the decision of 7 May 2014 was unlawful and that the investigator had failed to justify it. In that connection, he pointed out that on 24 May 2014 he had been allowed to attend his father\u2019s funeral and stay at his parents\u2019 home for a period of three days and that during this period he had not breached any procedural rule or tried to disclose any information relating to the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0On 6 June 2014 the Baku Court of Appeal dismissed the appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0No information is available in the case file as regards the date on which the above-mentioned restrictions imposed on the applicant ended.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0In the meantime, on 12 May 2014 the applicant had lodged an application with the investigator in charge of the case, asking him to ensure his right to have the benefit of a notary service during his detention. In support of his application, he noted that he intended to give a lawyer a notarised power of attorney so that the lawyer could defend his rights which had been violated in Turkey.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 19 May 2014 the investigator dismissed the application, finding that delivering a notarised power of attorney to a lawyer which would authorise him to act on the applicant\u2019s behalf in Turkey might lead to evidence being tampered with, given the fact that the applicant had met with agents from the foreign intelligence service in Turkey, the nature of the act attributed to the applicant, and the applicant\u2019s failure to specify the actions which were to be taken on his behalf in Turkey.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0On an unspecified date the applicant lodged a complaint against the investigator\u2019s decision of 19 May 2014.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0On 9 June 2014 the Nasimi District Court found the investigator\u2019s decision lawful and dismissed the complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0On 17 June 2014 the Baku Court of Appeal upheld the Nasimi District Court\u2019s decision of 9 June 2014.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Joint statement of 17 July 2014 by law-enforcement authorities concerning the criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0On 17 July 2014 a joint statement was made by the Prosecutor General\u2019s Office and the MNS. That joint statement officially informed the public of the progress of the criminal proceedings against the applicant. The relevant parts of the joint statement read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAs there are justified suspicions (\u0259sasl\u0131 \u015f\u00fcbh\u0259l\u0259r) within the framework of the criminal investigation carried out by the Serious Crimes Department of the Prosecutor General\u2019s Office that Mirgadirov Rauf Habibula oglu, a citizen of the Republic of Azerbaijan, has committed high treason by espionage [namely] deliberately assisting agents of the Armenian intelligence service, on 19 April 2014 he was arrested on suspicion of having committed a criminal offence. On 21 April 2014 [he] was charged with the criminal offence provided for by Article 274 of the Criminal Code of the Republic of Azerbaijan, and the Nasimi District Court imposed the preventive measure of remand in custody in respect of him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "An investigative operational unit composed of agents of the Prosecutor General\u2019s Office and the Ministry of National Security was set up in respect of the criminal case, and investigative operational measures continue to be taken. A decision was made to give more information to the public as new relevant facts (yeni x\u00fcsusatlar) appeared during the investigation of the criminal case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It has been established (M\u00fc\u0259yy\u0259n edilib ki) that Rauf Mirgadirov collaborated with the \u2018Region\u2019 Research Center, [a centre] headed by the above-mentioned L.B. since 2008.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It has been established (M\u00fc\u0259yy\u0259n edilib ki) that Rauf Mirgadirov had a meeting behind closed doors with the former Minister of National Security of Armenia, D.S., in a conference held in Turkey in 2008 [and] organised by the Friedrich Naumann Foundation, with the attendance of Georgian and Armenian participants. Following this meeting, Rauf Mirgadirov informed L.B. via Internet correspondence (internet yaz\u0131\u015fmalar\u0131nda) that he agreed with D.S.\u2019s thoughts about the prospect of resolving the Nagorno-Karabakh problem, and by collecting information about the current situation in socio-political, industrial, energetics, and military technical supplies fields to be used against the Republic of Azerbaijan, [he] transferred (\u00f6t\u00fcr\u00fcb) a technical drawing (sxem) accompanied with photographs describing the exact location of military units, an aerodrome and other strategic State installations which constitute State and military secrets. Moreover, Rauf Mirgadirov transferred (\u00f6t\u00fcr\u00fcb) information, photographs and technical drawings (sxeml\u0259r) of the indicated areas and other military installations [indicating] that the Azerbaijani Government had allegedly authorised the USA to use its territory in a prepared military intervention against Iran; that secret military installations would allegedly be constructed in Baku by the USA; and that the construction of the Zig Highway in concrete had been financed so that it could be used as a runway for military planes in future air strikes against Iran.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "F.\u00a0\u00a0Extension of the applicant\u2019s pre-trial detention and further developments",
+                                "elements": [
+                                    {
+                                        "content": "42.\u00a0\u00a0On 14 July 2014 the prosecutor in charge of the criminal case lodged an application with the court, asking for the applicant\u2019s pre-trial detention to be extended for a period of four months, submitting that more time was needed to complete the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0On 15 July 2014 the Nasimi District Court extended the applicant\u2019s detention pending trial for a period of four months, namely until 19\u00a0November 2014. In justifying the extension of the detention period, the court limited itself to referring to the relevant domestic law and court practice, which authorised a court to extend a period of pre-trial detention for a period of four months. It appears from the court decision that the applicant stated that there was no justification for his continued detention. In that connection, he noted that although he had been authorised to stay at his parents\u2019 home for a period of three days following the death of his father, he had not tried to abscond from the investigation or breached any procedural rule during that period.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0On 16 July 2014 the applicant appealed against the decision extending his pre-trial detention, claiming that there was no evidence that he had committed a criminal offence and that the first-instance court had failed to justify the extension of his pre-trial detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0On 25 August 2014 the Baku Court of Appeal dismissed the appeal and upheld the Nasimi District Court\u2019s decision of 15 July 2014. The appellate court\u2019s reasoning reiterated that provided by the first-instance court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0On 20 November 2014 one of the applicant\u2019s lawyers went to the detention facility where the applicant was detained. He asked the administration of the detention facility to immediately release the applicant, since the latest detention order extending his pre-trial detention had expired on 19 November 2014. The lawyer also asked the administration of the detention facility if he could meet the applicant. However, the lawyer was told that he could not meet the applicant because the latter was undergoing a medical examination. The lawyer also sent telegrams to the Prosecutor General\u2019s Office, the MNS and the Ombudsman, asking for the applicant\u2019s immediate release.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0On the same day, in the afternoon, when the applicant\u2019s lawyer was still in the detention facility waiting for a meeting with the applicant, the applicant was taken to the Nasimi District Court, which ordered the extension of his pre-trial detention for a period of five months, namely until 19 April 2015. The court justified the necessity of this extension on the grounds of the complexity of the case and the fact that a number of investigative steps needed to be carried out, and thus more time was needed to complete the investigation. The applicant\u2019s lawyers were not informed of the hearing and the applicant was represented before the court by a Stateappointed lawyer. The transcript of the court hearing indicates that it took place at 4 p.m. on 20 November 2014.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0On 22 November 2014 the applicant appealed against that decision, claiming that he had been unlawfully detained from 19 to 20 November 2014 without any court order. He also argued that the first-instance court had failed to justify the extension of his continued detention pending trial, and that the hearing of 20 November 2014 had been held in the absence of his two lawyers, who had not been informed of the date and venue of that hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0On 28 November 2014 the Baku Court of Appeal upheld the Nasimi District Court\u2019s decision of 20 November 2014. The appellate court made no mention of the applicant\u2019s specific complaints concerning the lawfulness of his detention from 19 to 20 November 2014 and the first-instance court\u2019s failure to inform his lawyers of the date and venue of the hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0In the meantime, on 21 November 2014 the applicant had lodged two separate complaints with the Sabail District Court. In his first complaint, he asked the court to declare the failure of the detention facility\u2019s administration to allow him to meet his lawyer on 20 November 2014 unlawful. In his second complaint, he asked the court to declare his detention from 19 to 20 November 2014 in the absence of any court order unlawful.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0On 9 December 2014 the Sabail District Court dismissed the applicant\u2019s complaints in two separate decisions, finding them unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0On 18 December 2014 the Baku Court of Appeal upheld the Sabail District Court\u2019s decisions of 9 December 2014 in two separate decisions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0On 8 April 2015 the Nasimi District Court decided to extend the applicant\u2019s pre-trial detention until 19 May 2015. The court justified the extension on the grounds of the complexity of the case and the fact that a number of investigative steps needed to be carried out, and thus more time was needed to complete the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0On 16 April 2015 the applicant appealed against that decision. He claimed that there was no reasonable suspicion that he had committed a criminal offence, and that the first-instance court had failed to justify the extension of his pre-trial detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0On 23 April 2015 the Baku Court of Appeal dismissed the appeal and upheld the Nasimi District Court\u2019s decision of 8 April 2015.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0On 6 May 2015 the Nasimi District Court ordered the extension of the applicant\u2019s pre-trial detention for a period of four months, namely until 19\u00a0September 2015. The court justified the extension of the applicant\u2019s detention by referring to the necessity to carry out further investigative steps.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0On 8 May 2015 the applicant appealed against that decision, reiterating his previous complaints.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0On 12 May 2015 the Baku Court of Appeal upheld the Nasimi District Court\u2019s decision of 6 May 2015.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0No further extension decisions were included in the case file.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0On 28 December 2015 the Baku Court of Serious Crimes found the applicant guilty of high treason and sentenced him to six years\u2019 imprisonment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0On 17 March 2016 the Baku Court of Appeal changed the sentence and decided to conditionally suspend it for five years. The applicant was released from prison on the same day.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0RELEVANT DOMESTIC LAW AND PRACTICE IN AZERBAIJAN",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The Criminal Code",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0Article 274 of the Criminal Code provides as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cHigh treason, that is to say a deliberate act committed by a citizen of the Republic of Azerbaijan to the detriment of the Republic of Azerbaijan\u2019s sovereignty, territorial inviolability, State security or defence capacity: [namely] joining the enemy; espionage; the transfer of State secret to a foreign State; [or] providing assistance to a foreign State, organisation or their representatives by carrying out hostile activity against the Republic of Azerbaijan,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "is punishable by deprivation of liberty for a period of twelve to twenty years, or life imprisonment.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Code of Criminal Procedure (\u201cthe CCrP\u201d)",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0A detailed description of the relevant provisions of the CCrP concerning pre-trial detention and proceedings concerning the application and review of detention pending trial can be found in the cases of Farhad Aliyev v. Azerbaijan (no.\u00a037138/06, \u00a7\u00a7 83-102, 9 November 2010), and Muradverdiyev v. Azerbaijan (no. 16966/06, \u00a7\u00a7 35-49, 9 December 2010).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The Law on the Guarantee of the Rights and Freedoms of Individuals Kept in Detention Facilities of 22 May 2012 (\u201cthe Law of 22 May 2012\u201d)",
+                                "elements": [
+                                    {
+                                        "content": "64.\u00a0\u00a0The relevant provisions of the Law of 22 May 2012 provide as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c17.3.\u00a0\u00a0Except for their correspondence with counsel or other persons providing legal aid, the correspondence that arrested or detained individuals receive and send may be restricted or subjected to censorship: by a justified decision; by the investigating authority, for the purposes of preventing the preparation of crimes [or] ensuring a criminal investigation and the security of individuals; or by the detention facility\u2019s administration, in the event of it being necessary to ensure the regime in the detention facility ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c19.8.\u00a0\u00a0The right of an arrested individual to use the telephone, [and] the right of a detained individual to use the telephone [and] meet and have telephone conversations with other persons except counsel, may be restricted for a certain period of time: by a justified decision; by the investigating authority, for the purposes of preventing the preparation of crimes [or] ensuring a criminal investigation and the security of individuals; or by the detention facility\u2019s administration, in the event of it being necessary to ensure the regime in the detention facility ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c23.1.\u00a0\u00a0Arrested individuals can access literature available in the library of the detention facility or obtain writing supplies, literature, newspapers and magazines from the commercial shop [at the detention facility] at their own expense, through the administration of the detention facility. In addition ..., detained individuals can also subscribe to newspapers and magazines at their own expense.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.2.\u00a0\u00a0Arrested individuals are prohibited from obtaining, keeping or disseminating publications propagandising war, violence, extremism, terror and cruelty, [or] inciting racial, ethnic and social enmity and hostility, as well as those containing pornography. In addition ..., detained individuals are also prohibited from subscribing to such publications.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Decisions of the Plenum of the Supreme Court",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0A detailed description of the relevant parts of the decisions of the Plenum of the Supreme Court on the application of the provisions of the European Convention for the Protection of Human Rights and Fundamental Freedoms and the case-law of the European Court of Human Rights in the administration of justice, dated 30 March 2006, and on the application of the legislation by the courts during the consideration of applications for the preventive measure of remand in custody in respect of an accused, dated 3\u00a0November 2009, can be found in Rasul Jafarov v. Azerbaijan (no.\u00a069981/14, \u00a7\u00a7 50-76 and \u00a7\u00a7 79-80, 17 March 2016).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE IN TURKEY",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Relevant provisions of Law no. 6216 on the establishment and rules of procedure of the Constitutional Court",
+                                "elements": [
+                                    {
+                                        "content": "66.\u00a0\u00a0The relevant paragraphs of sections 45, 47 and 50 of Law no. 6216 on the establishment and rules of procedure of the Constitutional Court provide as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0\u00a0Anyone claiming that a public authority has violated one of his or her fundamental rights and freedoms as protected by the Constitution and secured under the European Convention on Human Rights and the Protocols thereto that have been ratified by Turkey may apply to the Constitutional Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2)\u00a0\u00a0An individual application may be lodged only after the exhaustion of all the administrative and judicial remedies provided for by law in relation to the measure, act or negligence complained of.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0\u00a0Individual applications may be brought directly or through national courts or representations [diplomatic missions] abroad, in accordance with the provisions of the present law and the Internal Regulations ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4)\u00a0\u00a0If the applicant is represented by a lawyer, a power of attorney must be presented [along with the application form].",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(5)\u00a0\u00a0The individual application must be lodged within thirty days of ordinary remedies being exhausted; if no remedy is provided for, the period begins to run from the date on which the person concerned becomes aware of the violation. Those who, for justified reasons, cannot lodge their applications within the specified period may make an application within fifteen days of the impediment [which prevented them from applying at an earlier stage] coming to an end, [and shall also provide] evidence substantiating the impediment. The court will check the validity of the reason presented by the applicant before allowing or dismissing it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(6)\u00a0\u00a0If the documents accompanying the application are incomplete, the registry of the court shall give the applicant or his or her representative, if applicable, a maximum period of fifteen days to remedy the deficiency; [the applicant or his or her representative] shall be informed that the application will be rejected if the deficiency is not remedied within the specified period in the absence of a valid excuse.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0\u00a0Following the examination on the merits, a decision shall be given as to whether or not there has been a violation of the applicant\u2019s right. If a violation is established, the measures to be taken to put an end to the violation and redress its effects shall be specified in the operative provisions of the decision. No review of the appropriateness of an administrative act may be carried out, and no decision amounting to such an act may be given.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Relevant provisions of the Internal Regulations of the Turkish Constitutional Court (Anayasa Mahkemesi \u0130\u00e7t\u00fcz\u00fc\u011f\u00fc)",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0The relevant provisions of the Internal Regulations of the Constitutional Court provide as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0\u00a0Applications should be lodged in the official language, using the application form provided in the annex to the present regulations or on the court\u2019s website.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3)\u00a0\u00a0It is obligatory to add the following documents, or certified copies [of such documents], to the application form:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4)\u00a0\u00a0If, for any reason, the applicant is not able to submit the documents noted in the [previous] paragraph, he or she should explain those reasons and, where applicable, append the relevant information and documents [in support of his or her explanations] to the application form. The court shall collect the relevant information and documents of its own motion if it accepts the reasons [presented by the applicant], and as it deems necessary.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0\u00a0The application may be lodged by the applicant personally, or by his legal representative or lawyer. With applications lodged by a lawyer or legal representative, it is mandatory to submit an authority form.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(1)\u00a0Applications may be lodged ... personally with the [Constitutional] Court, or through other courts or representations abroad.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1)\u00a0\u00a0The Individual Application Bureau shall examine the incoming applications in order to determine whether or not they contain any formal deficiencies. In the event that a deficiency is identified in the application form or its annexes, a period not exceeding fifteen days shall be given to the applicant or, if applicable, to his or her lawyer or legal representative, in order for those [deficiencies] to be remedied.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2)\u00a0\u00a0In the letter sent regarding the deficiencies, the applicant shall be notified that his or her application will be rejected in the event that he or she fails to remedy the deficiencies within the specified time-limit in the absence of a valid excuse.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3)\u00a0\u00a0In circumstances where the application has not been lodged within the legal timelimit [or] does not comply with the formal conditions set out in sections\u00a059 and\u00a060, and [where] identified deficiencies have not been remedied within the specified period, it shall be rejected by the head of the Commission Rapporteurs and the applicant shall be notified of that [decision]. An objection to the decision can be filed with the Commission within seven days of the applicant being notified of the decision. Decisions made by Commissions in this regard shall be final.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Relevant provisions of the Foreigners and International Protection Act (Law no. 6458)",
+                                "elements": [
+                                    {
+                                        "content": "68.\u00a0\u00a0On 11 April 2014 the Foreigners and International Protection Act (Law no. 6458) entered into force. A detailed description of the relevant provisions of Law no. 6458 concerning the procedure for the removal of foreign nationals from Turkey, the administrative detention of foreign nationals pending removal, and the judicial review of removal and detention orders can be found in the case of Sakkal and Fares v. Turkey ((dec.), no.\u00a052902/15, \u00a7 24, 7 June 2016).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Relevant provisions of the former Regulation on Press Cards (no.\u00a024351)",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0Section 45 of the Regulation on Press Cards, in force at the material time, read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cUpon his or her assignment expiring, or [the location of] his or her workplace changing, a foreign journalist is obliged to return his or her press card. The cards of those who do not comply with this obligation shall be revoked. The Directorate General may revoke a press card as it deems necessary.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0COMPLAINTS AGAINST AZERBAIJAN",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Alleged violation of Article 5 \u00a7\u00a7 1 and 3 of the Convention concerning the whole period of the applicant\u2019s pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0Relying on Article 5 \u00a7\u00a7 1 and 3 of the Convention, the applicant complained that he had been arrested and detained in Azerbaijan in the absence of a reasonable suspicion that he had committed a criminal offence. He further complained that the domestic courts had failed to provide relevant and sufficient reasons justifying the need for his pre-trial detention. The relevant parts of Article\u00a05 \u00a7\u00a7 1 and 3 of the Convention read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "71.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "72.\u00a0\u00a0The applicant maintained that the accusations against him had been groundless and that the prosecuting authorities had not been in possession of any objective evidence or information that could have given rise to a reasonable suspicion that he had committed the criminal offence of high treason.\u00a0He further submitted that when the domestic courts had ordered and subsequently extended his detention pending trial, they had failed to examine any evidence, except for the statement which he had given when he had been questioned, in which he had denied the accusations of high treason against him. As regards the video-recordings of the applicant\u2019s meetings with alleged agents of foreign intelligence services, the individuals whom he had met were representatives of Armenian non-governmental organisations, and those video-recordings had not been submitted to the trial court until December 2015.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The applicant further argued that the domestic courts had failed to provide relevant and sufficient reasons justifying his pre-trial detention. In particular, he submitted that when the domestic courts had ordered and repeatedly extended his detention, they had merely cited the relevant legal provisions without assessing his particular circumstances.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0The Azerbaijani Government submitted that the applicant had been detained on reasonable suspicion of having committed high treason, which constituted a very serious criminal offence. The existence of reasonable suspicion had been corroborated by information and evidence, including video-recordings concerning the applicant\u2019s meetings with representatives of foreign intelligence services and his receipt of money from them. It appeared from the procedural decisions that the prosecuting authorities had been in possession of such information and had submitted it to the domestic courts, indicating in particular some specific dates and venues of those meetings. In that connection, the Azerbaijani Government submitted that there had been sufficiently specific information in the present case to raise a reasonable suspicion that the applicant had committed a criminal offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0The Azerbaijani Government further submitted that the domestic courts had provided relevant and sufficient reasons justifying the need for the applicant\u2019s pre-trial detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0Third-party comments submitted by the Helsinki Foundation for Human Rights, Human Rights House Foundation and Freedom Now mainly concerned the situation of human rights defenders and journalists in Azerbaijan. Relying on the Court\u2019s case-law, the third parties expressed their concern about the Azerbaijani courts\u2019 widespread practice of imposing pre-trial detention on such persons in the absence of any reasonable suspicion regarding the commission of a criminal offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0The Court refers to the general principles established in its case-law set out in the judgments of Rasul Jafarov v. Azerbaijan (no.\u00a069981/14, \u00a7\u00a7\u00a0114-118, 17 March 2016), and Rashad Hasanov and Others v.\u00a0Azerbaijan (nos. 48653/13 and 3 others, \u00a7\u00a7 91-96, 7 June 2018), which are equally pertinent in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0Turning to the particular circumstances of the present case, the Court observes that it is undisputed between the parties that the applicant met with L.B. and other people on various dates in 2008 and 2009. It is also undisputed between the parties that those meetings took place within the framework of various international conferences in which the applicant participated as a political analyst and journalist (see paragraph 24 above). In this context the applicant was charged with the criminal offence of high treason as provided for by Article\u00a0274 of the Criminal Code, on account of his alleged espionage activity to benefit foreign intelligence services.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0The Court notes that the applicant complained that there had been no reasonable suspicion against him throughout the entire period of his detention, including during the initial period following his arrest and the subsequent periods when his pre-trial detention had been authorised and extended by court orders. He maintained the same complaint before the Court. In this connection, the Azerbaijani Government submitted that the applicant had been detained on reasonable suspicion of having committed a criminal offence. In particular, they noted that the existence of reasonable suspicion had been corroborated by information and evidence, including video-recordings concerning the applicant\u2019s meetings with representatives of foreign intelligence services and his receipt of money from them. They further referred to procedural decisions which indicated that the prosecuting authorities had been in possession of relevant information in that regard and had submitted that information to the domestic courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0The Court observes at the outset that the fact that the prosecuting authorities possessed and submitted to the domestic courts information indicating dates and venues of the applicant\u2019s meetings with L.B. and others, a fact which was not contested by the applicant, cannot in itself constitute sufficient support for a reasonable suspicion that the applicant had committed the criminal offence of high treason with which he was charged. In that connection, without speculating on the existence of any links between L.B. and the others and the Armenian intelligence services, the Court notes that, in the instant case, the applicant was not charged with the criminal offence of high treason because of the meetings that he had had with the above-mentioned individuals, but on account of his alleged espionage activity \u2013 providing the foreign intelligence services with information collected at their request, together with photographs and technical drawings (see paragraph 25 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0In that connection, the Court notes that the Azerbaijani Government referred in a general way to the information and evidence which, according to them, corroborated the existence of a reasonable suspicion that the applicant had committed the criminal offence of high treason, without specifying the content of the relevant information and evidence. The only particular pieces of evidence to which they expressly referred were videorecordings of what were alleged to have been meetings between the applicant and representatives of foreign intelligence services and his receipt of money from them. Without speculating on the content of those videorecordings or their relevance to the particular case, the Court observes that it does not appear from the Nasimi District Court\u2019s decision of 21 April 2014 or any other decision of the domestic courts ordering and extending the applicant\u2019s pre-trial detention that any video-recording was ever submitted to the courts, since the domestic courts\u2019 decisions did not refer to that kind of material (see and compare Yagublu v. Azerbaijan, no. 31709/13, \u00a7 60, 5 November 2015, and Rustamzade v. Azerbaijan, no. 38239/16, \u00a7 47, 7 March 2019).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0In this regard, the Court also notes the decision of the Plenum of the Supreme Court of 3 November 2009. That decision required domestic courts to subject prosecuting authorities\u2019 applications for an accused to be remanded in custody to close scrutiny, and to verify the existence of a suspicion against the accused by making use of their power under Article\u00a0447.5 of the CCrP to request and review the \u201cinitial evidence\u201d in the prosecution\u2019s possession (see reference in paragraph 65 above). In the present case, the respondent Government have not demonstrated that the above-mentioned requirements were taken into account (compare Ilgar Mammadov v. Azerbaijan, no. 15172/13, \u00a7 97, 22\u00a0May 2014, and Yagublu, cited above, \u00a7 61).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0Furthermore, the Court cannot overlook the fact that although in a statement dated 17 July 2014 the investigating authorities referred to the existence of alleged Internet correspondence between the applicant and L.B. as a new relevant fact demonstrating that the applicant had committed the criminal offence of high treason (see paragraph 41 above), none of the domestic court decisions extending the applicant\u2019s pre-trial detention after 17 July 2014 ever referred to the existence of such correspondence as confirmation that there was a reasonable suspicion that the applicant had committed the criminal offence of high treason.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The Azerbaijani Government also failed, even in the proceedings before the Court, to present any material that would satisfy an objective observer that the applicant might have committed a criminal offence (see\u00a0Lazoroski v. the former Yugoslav Republic of Macedonia, no. 4922/04, \u00a7 48, 8 October 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The Court is mindful of the fact that the applicant\u2019s case went to trial and he was convicted. However, that does not affect its findings in connection with the present complaint, where it is called upon to examine whether the disputed deprivation of the applicant\u2019s liberty was justified on the basis of the information or facts available at the relevant time. In this connection, having regard to the above analysis, the Court finds that the material put before it does not meet the minimum standard set by Article\u00a05 \u00a7\u00a01 (c) of the Convention for the reasonableness of a suspicion required for an individual\u2019s arrest and continued detention. Accordingly, it has not been demonstrated in a satisfactory manner that during the period under the Court\u2019s consideration in the present case the applicant was deprived of his liberty on \u201creasonable suspicion\u201d of having committed a criminal offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0There has accordingly been a violation of Article 5 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0Having regard to the above finding, the Court does not consider it necessary to examine separately under Article 5 \u00a7 3 of the Convention whether the domestic authorities provided relevant and sufficient reasons justifying the need for the applicant\u2019s continued pre-trial detention (see Lukanov v. Bulgaria, 20 March 1997, \u00a7 45, Reports of Judgments and Decisions 1997II; Ilgar Mammadov, cited above, \u00a7 102; and Yagublu, cited above, \u00a7 64).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Alleged violation of Article 5 \u00a7 1 of the Convention concerning the alleged unlawfulness of the applicant\u2019s detention from 19 to 20\u00a0November 2014",
+                                "elements": [
+                                    {
+                                        "content": "88.\u00a0\u00a0The applicant complained that his detention in the absence of a court order from 19 to 20\u00a0November 2014 had been unlawful and in breach of Article 5 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "89.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "90.\u00a0\u00a0The applicant reiterated that his detention from 19 to 20\u00a0November 2014 had been unlawful, as he had been detained during that period in the absence of a court order.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "91.\u00a0\u00a0The Azerbaijani Government submitted that the applicant\u2019s pre-trial detention had been extended up to 19 November 2014 (inclusive) by the Nasimi District Court\u2019s decision of 15 July 2014. On 20 November 2014 the same court had again extended the applicant\u2019s pre-trial detention period.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0It is clear from the documents in the case file, and it was not disputed by the parties, that the period of the applicant\u2019s pre-trial detention authorised by the Nasimi District Court\u2019s detention order of 15 July 2014 expired at midnight on 19 November 2014. At a court hearing held at 4 p.m. on 20 November 2014 the Nasimi District Court again decided to extend the applicant\u2019s pre-trial detention period (see paragraph 47 above). Accordingly, during the period from midnight on 19 November to 4\u00a0p.m. on 20 November 2014, namely for sixteen hours, the applicant was detained without any judicial order authorising his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0The Court notes that the applicant\u2019s detention during that period was not based on a court decision and was therefore unlawful within the meaning of Article 5 \u00a7 1 of the Convention. There has accordingly been a violation of Article 5 \u00a7 1 of the Convention on that account.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Alleged violation of Article 5 \u00a7 4 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "94.\u00a0\u00a0The applicant complained that the domestic courts had failed to address his specific arguments in support of his release, and that his lawyers had not been informed of the date and place of the Nasimi District Court\u2019s hearing of 20 November 2014 on the further extension of his detention. Article 5 \u00a7 4 of the Convention provides as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cEveryone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "95.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "96.\u00a0\u00a0The applicant reiterated his complaint and maintained that the domestic courts had failed to respond to any of the relevant arguments against detention that he had repeatedly raised before them. He further argued that his lawyers had not been informed of the date and venue of the Nasimi District Court\u2019s hearing of 20 November 2014.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0The Azerbaijani Government submitted that the applicant and his lawyers had been heard by the domestic judges and had been able to put questions to the prosecuting authority during the court hearings. Nothing in the case file indicated that the proceedings had not been adversarial or had otherwise been unfair. The material in the case file, including the records of court hearings, showed that the judges had heard the applicant\u2019s arguments and had taken the decisions they considered to be the most appropriate in the circumstances. They further submitted that the Nasimi District Court\u2019s hearing of 20 November 2014 had been held in the presence of the applicant, who had been represented by a lawyer.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0The Court refers to the general principles established in its case-law set out in the judgments of Rasul Jafarov (cited above, \u00a7\u00a7\u00a0140-42) and Mammadli v. Azerbaijan (no. 47145/14, \u00a7\u00a7 72-74, 19 April 2018), which are equally pertinent in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0Turning to the particular circumstances of the present case, the Court observes that on each occasion the issues regarding the ordering and extension of the applicant\u2019s pre-trial detention were decided by courts at two levels of jurisdiction, namely the Nasimi District Court as the firstinstance court, and the Baku Court of Appeal as the appellate court. As the Court has observed above, the domestic courts in the present case consistently failed to verify the reasonableness of the suspicion underpinning the applicant\u2019s arrest (see paragraphs 81-83 above). In their decisions, using short, vague and stereotyped formulae for rejecting the applicant\u2019s complaints as unsubstantiated, the domestic courts limited their role to one of mere automatic endorsement of the prosecution\u2019s applications, and they cannot be considered to have conducted a genuine review of the \u201clawfulness\u201d of the applicant\u2019s detention. That is contrary not only to the requirements of Article 5 \u00a7 4, but also to those of domestic law as interpreted and clarified by the Plenum of the Supreme Court (see reference in paragraph 65 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the applicant was not afforded proper judicial review of the lawfulness of his detention. Accordingly, there has been a violation of Article 5 \u00a7 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0Having regard to the above finding, the Court does not consider it necessary to examine separately whether the absence of the applicant\u2019s chosen lawyers from the Nasimi District Court\u2019s hearing of 20 November 2014 constituted a violation of Article 5 \u00a7 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Alleged violation of Article 6 \u00a7 2 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "102.\u00a0\u00a0The applicant complained that the joint statement made by the Prosecutor General\u2019s Office and the MNS on 17 July 2014 (see paragraph 41 above) had infringed his right to the presumption of innocence. Article\u00a06 \u00a7\u00a02 of the Convention provides as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cEveryone charged with a criminal offence shall be presumed innocent until proved guilty according to law.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "104.\u00a0\u00a0The applicant maintained his complaint and submitted that the impugned statement had amounted to an infringement of his right to the presumption of innocence. In particular, he argued that the statement unequivocally indicated that he had transmitted information containing State and military secrets to the Armenian intelligence services.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0The Azerbaijani Government submitted that the impugned joint statement had had the aim of providing information to the public about the status of the investigation and countering the dissemination of inaccurate and distorted information about it. They further submitted that the statement had not depicted the applicant as a criminal and had not violated his right to the presumption of innocence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court points out that it has already found a breach of Article 6 \u00a7 2 of the Convention in a number of cases against Azerbaijan on account of the choice of words used by the investigating authorities in their statements to the press which prejudged the assessment of facts by the courts and encouraged the public to believe that the applicants were guilty before they had been proved guilty in accordance with the law (see Farhad Aliyev v.\u00a0Azerbaijan, no. 37138/06, \u00a7\u00a7 220-27, 9 November 2010; Muradverdiyev v.\u00a0Azerbaijan, no. 16966/06, \u00a7\u00a7 105-09, 9 December 2010; and Ilgar Mammadov, cited above, \u00a7 127-28).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0The Court observes that, in the present case, the impugned statement by the Prosecutor General\u2019s Office and the MNS was not made immediately after the applicant\u2019s arrest in April 2014, but in July 2014, more than three months after his arrest, when he was in pre-trial detention. The Court takes note of the Azerbaijani Government\u2019s submission that the purpose of the impugned statement was to inform the public about the status of the ongoing criminal investigation. Given that the applicant was a wellknown journalist, the authorities might have considered it necessary to keep the public informed of the criminal accusations against him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0However, the Court considers that the statement, assessed as a whole, was not made with the necessary discretion and circumspection. Although the first and second paragraphs of the statement did not use any wording presenting the applicant as guilty, but contained brief information about the accusations against him when he had been arrested and placed in pre-trial detention in April 2014, subsequent paragraphs of the statement unreservedly attributed various criminal acts to the applicant. In particular, in stating \u201cit has been established that ... [the applicant] transferred a technical drawing accompanied with photographs describing the exact location of military units, an aerodrome and other strategic State installations which constitute State and military secrets\u201d and \u201c[the applicant] transferred information, photographs and technical drawings of the indicated areas and other military installations\u201d, the investigating authorities risked prejudging the assessment of the facts by the courts and encouraging the public to believe that the applicant was guilty before he had been proved guilty in accordance with the law. Moreover, that unreserved attribution of the above-mentioned criminal acts to the applicant was described in the statement as a new relevant fact which had recently come to light in the investigation, which largely undermined the impact of the neutral wording used at the beginning of the statement. Therefore, the overall manner in which the statement was formulated left the reader in no doubt that the applicant had committed the criminal offence of high treason.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0There has accordingly been a violation of Article 6 \u00a7 2 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Alleged violation of Article 8 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "110.\u00a0\u00a0Relying on Articles 8 and 10 of the Convention, the applicant complained that the restrictions which the investigator had placed on his meetings, correspondence and telephone conversations with his family members and the outside world, and on his right to receive and subscribe to newspapers and magazines, had amounted to a violation of his rights protected under the Convention. Having regard to the circumstances of the case, the Court considers that the present complaint falls to be examined solely under Article 8 of the Convention, which reads as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "111.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "112.\u00a0\u00a0The applicant maintained his complaint, submitting that the interference had not been in accordance with the law and necessary in terms of Article 8 \u00a7 2 of the Convention. He argued that the investigator\u2019s decision of 7 May 2014 had simply referred to the accusations against him and the provisions of the relevant law, without providing evidence to show why it had been necessary to impose the restrictions. He further contested the Azerbaijani Government\u2019s assertion that he had not disputed before the domestic court the fact that the impugned restrictions imposed by the investigator had been open-ended.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "113.\u00a0\u00a0The Azerbaijani Government agreed that there had been an interference with the applicant\u2019s rights protected under Article 8 of the Convention. That interference had been implemented in accordance with Articles 17.3 and 19.8 of the Law of 22 May 2012, and had been necessary in a democratic society in the interests of national security and for the prevention of crime.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "114.\u00a0\u00a0The Azerbaijani Government further submitted that the prosecuting authorities and the domestic courts had rightly considered that the applicant, who had been suspected of transferring secret information to foreign intelligence services, would have been able to transfer such information to his partners through visitors or receive it through press publications. According to the Azerbaijani Government, although it might be considered that the proportionality of the impugned measures had been undermined by the fact that they had been open-ended, the applicant had failed to raise that question before the domestic authorities.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "115.\u00a0\u00a0As is well established in the Court\u2019s case-law, upon being imprisoned, a person forfeits the right to liberty, but continues to enjoy all other fundamental rights and freedoms, including the right to respect for family life, so that any restriction on those rights must be justified in each individual case (see Khoroshenko v. Russia [GC], no. 41418/04, \u00a7\u00a7 116-17, ECHR 2015, and Andrey Smirnov v. Russia, no. 43149/10, \u00a7 35, 13\u00a0February 2018). In the present case, the Azerbaijani Government acknowledged that the imposition of the restrictions on the applicant\u2019s contact with his family and the outside world had constituted an interference with his rights protected under Article 8 of the Convention (see paragraph\u00a0113 above). The Court sees no reason to hold otherwise, and considers that the impugned measures constituted an interference with the exercise of the applicant\u2019s right to respect for his private and family life and correspondence (see, among many other authorities, Khoroshenko, cited above, \u00a7\u00a7 107-09; Pakhtusov v. Russia, no. 11800/10, \u00a7 23, 16 May 2017; Lebois v. Bulgaria, no. 67482/14, \u00a7\u00a7 63-64, 19 October 2017; Resin v.\u00a0Russia, no. 9348/14, \u00a7 24, 18 December 2018; and, mutatis mutandis, Mesut Yurtsever and Others v. Turkey, nos. 14946/08 and 11 others, \u00a7 102, 20 January 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "116.\u00a0\u00a0Such an interference will be in breach of Article 8 of the Convention unless it can be justified under paragraph 2 of Article 8 as being \u201cin accordance with the law\u201d, pursuing one or more of the legitimate aims listed therein, and being \u201cnecessary in a democratic society\u201d in order to achieve the aim or aims concerned.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "117.\u00a0\u00a0The Court notes that while the Azerbaijani Government referred to Articles 17.3 and 19.8 of the Law of 22 May 2012 as being the legal basis for the imposition of the impugned measures, the applicant argued in a general way that the interference in question had not been in accordance with the law. The Court observes that Article 17.3 of the Law of 22 May 2012 provided that an investigating authority could restrict a detainee\u2019s right to correspondence for the purposes of ensuring a criminal investigation. Article 19.8 of the Law of 22 May 2012 also provided that an investigating authority could restrict a detainee\u2019s right to have visits and telephone calls for the same purposes (see paragraph 64 above). The Court therefore accepts that the restrictions imposed on the applicant\u2019s right to have telephone calls and correspondence and visits from people other than his lawyers had a legal basis in domestic law, and that the law itself was clear, accessible and sufficiently precise.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "118.\u00a0\u00a0However, as regards the part of the investigator\u2019s decision of 7 May 2014 which imposed restrictions on the applicant\u2019s right to receive and subscribe to any socio-political newspaper or magazine, the Court observes that neither Article 17.3 nor Article 19.8 of the Law of 22 May 2012 provided for the possibility to impose such a restriction on a detainee. Moreover, Article 23 of the Law of 22 May 2012, which governs a detainee\u2019s right to receive and subscribe to a newspaper or magazine, provided for restrictions only in respect of publications propagandising war, violence, extremism, terror and cruelty, or inciting racial, ethnic and social enmity and hostility, or containing pornography (see paragraph 64 above). The Azerbaijani Government also failed to refer to any legal provision laying down restrictions in respect of receiving and subscribing to sociopolitical newspapers or magazines. Consequently, it is not possible to establish that the interference with the applicant\u2019s right in this regard had a legal basis in domestic law, and thus the Court concludes that the interference with the applicant\u2019s right to receive and subscribe to sociopolitical newspapers or magazines was not in accordance with the law within the meaning of paragraph 2 of Article 8.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "119.\u00a0\u00a0The Court will therefore continue to examine whether the interference was necessary in a democratic society for one of the aims enumerated in Article 8 \u00a7 2, but only as regards the interference with the applicant\u2019s right to visits, telephone calls and correspondence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "120.\u00a0\u00a0The Court accepts that the interference pursued the legitimate aim of preventing crime (see Trosin v. Ukraine, no. 39758/05, \u00a7 40, 23 February 2012, and \u00d6calan v. Turkey (no. 2), nos. 24069/03 and 3 others, \u00a7 158, 18\u00a0March 2014).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0The Court refers to the general principles established in its case-law and set out in the judgment of Khoroshenko (cited above, \u00a7\u00a7 118-21), which are equally pertinent in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0Turning to the circumstances of the present case, the Court observes at the outset that although the investigator\u2019s decision of 7 May 2014 was a decision \u201crestricting some of the accused\u2019s rights at [his] place of detention\u201d (see paragraph 29 above), it appears from the nature and scope of the measures imposed by the investigator that the decision amounted to a de facto outright ban on the applicant having any contact (meetings, telephone calls or correspondence) with the outside world, except for contact with his lawyers. However, neither the investigator nor the domestic courts put forward any relevant justification in support of the imposition of such harsh and allencompassing measures. In particular, the domestic authorities confined themselves to referring to the necessity to protect the confidentiality of the investigation and prevent the disclosure of information about the investigation, without providing any explanation as to why the impugned measures were appropriate and necessary in the present case. They also failed to refer to any factual element or information indicating that there was a risk that the confidentiality of the investigation would be undermined or that information about the investigation would be disclosed if the impugned measures were not taken.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0The Court notes that the Azerbaijani Government also failed to submit any relevant explanation as to why it had been necessary to separate the applicant from his family and the outside world. In that connection, it cannot accept the Azerbaijani Government\u2019s assertion that the applicant, as a person suspected of transferring secret information to foreign intelligence services, would have been able to transfer such information through visitors. The Court is unable to discern any factual elements which could have warranted such stringent limitations on the family visits in the instant case, since none of the applicant\u2019s family members were in any way involved in the criminal proceedings in question, and there were no apparent indications that there was a risk of secret information being transferred through his family members (compare Moiseyev v. Russia, no. 62936/00, \u00a7\u00a0255, 9\u00a0October 2008, and Andrey Smirnov, cited above, \u00a7 49).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the reasons given by the domestic authorities in support of the restriction of the applicant\u2019s rights were not relevant and sufficient.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0There has accordingly been a violation of Article\u00a08 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "F.\u00a0\u00a0Alleged violation of Article 18 of the Convention, taken in conjunction with Article\u00a05 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "126.\u00a0\u00a0The applicant complained under Article 18 of the Convention in conjunction with Article 5 that his Convention rights had been restricted for purposes other than those prescribed in the Convention. Article 18 provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe restrictions permitted under [the] Convention to the said rights and freedoms shall not be applied for any purpose other than those for which they have been prescribed.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "127.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "128.\u00a0\u00a0The applicant submitted that the restrictions in the present case had been applied with the intention of isolating him, as a journalist and political analyst, from his professional activity. As a result of his detention, he had been prevented from carrying out journalistic activities for a period of two years, and shortly after his arrest publication of the Zerkalo newspaper had ceased. Therefore, the actual purpose of the impugned measures had been to silence and punish him for his activities as a journalist and political analyst.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0Relying on Khodorkovskiy v. Russia (no. 5829/04, 31 May 2011) and Khodorkovskiy and Lebedev v. Russia (nos. 11082/06 and 13772/05, 25\u00a0July 2013), the Azerbaijani Government submitted that the restrictions imposed by the State in the present case had not been applied for any purpose other than one envisaged by Article 5, and strictly for the proper investigation of the serious criminal offence allegedly committed by the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0The Court refers to the general principles established in its case-law and set out in the judgment of Merabishvili v. Georgia ([GC], no. 72508/13, \u00a7\u00a7\u00a0287-317, 28 November 2017), which are equally pertinent in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "131.\u00a0\u00a0The Court considers it necessary to note at the outset that it has already found that the applicant\u2019s arrest and pre-trial detention were not carried out for a purpose prescribed under Article 5 \u00a7 1 (c) of the Convention (see paragraphs 77-86 above), as the charges against him were not based on a \u201creasonable suspicion\u201d within the meaning of Article\u00a05 \u00a7\u00a01\u00a0(c) of the Convention (contrast Merabishvili, cited above, \u00a7 318, Khodorkovskiy, cited above, \u00a7 258, and compare Lutsenko v. Ukraine, no.\u00a06492/11, \u00a7 108, 3 July 2012; see also Ilgar Mammadov, cited above, \u00a7\u00a0141, and Rasul Jafarov, cited above, \u00a7 156). Therefore, the present case should be distinguished from cases with a plurality of purposes, where a restriction is applied both for an ulterior purpose and a purpose prescribed by the Convention (see Merabishvili, cited above, \u00a7\u00a7 318-54).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "132.\u00a0\u00a0However, the mere fact that the restriction of the applicant\u2019s right to liberty did not pursue a purpose prescribed by Article\u00a05 \u00a7 1 (c) is not in itself a sufficient basis for conducting a separate examination of a complaint under Article 18, unless the claim that a restriction has been applied for a purpose not prescribed by the Convention appears to be a fundamental aspect of the case. Therefore, it remains to be seen whether there is proof that the authorities\u2019 actions were actually driven by an ulterior purpose (see Rashad Hasanov and Others, cited above, \u00a7 120). In this regard, the Court reiterates that there is no reason for it to restrict itself to direct proof in relation to complaints under Article 18 of the Convention or apply a special standard of proof to such allegations (see Merabishvili, cited above, \u00a7 316), as depending on the circumstances of the case, an ulterior purpose cannot always be proved by pointing to a particularly inculpatory piece of evidence which clearly reveals an actual reason (for example, a written document, as in the case of Gusinskiy v. Russia (no. 70276/01, ECHR 2004IV) or a specific isolated incident.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "133.\u00a0\u00a0The Court observes that, in the present case, although the applicant complained briefly and in a general way that the restrictions in question had been applied by the Azerbaijani Government with the intention of isolating him, as a journalist and political analyst, from his professional activity, he failed to specify his allegation that there was such an ulterior purpose. In particular, in his submissions to the Court, he failed to identify or quote any action which he had taken as a journalist and political analyst or any article or piece of writing that he had produced in that capacity which could, according to him, have been behind the restrictions applied against him (contrast Ilgar Mammadov, cited above, \u00a7 136; Rasul Jafarov, cited above, \u00a7\u00a7\u00a0147-50; Mammadli, cited above, \u00a7\u00a7 85-87; Rashad Hasanov and Others, cited above, \u00a7\u00a7 112-13; and Aliyev v. Azerbaijan, nos. 68762/14 and\u00a071200/14, \u00a7\u00a7 192-94, 20 September 2018).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "134.\u00a0\u00a0Having regard to the applicant\u2019s submissions and all the material in its possession, the Court considers that the evidence before it does not enable it to find beyond reasonable doubt that the applicant\u2019s arrest and detention pursued any ulterior purpose.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "135.\u00a0\u00a0There has accordingly been no violation of Article 18 of the Convention taken in conjunction with Article 5 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0COMPLAINTS AGAINST TURKEY",
+                        "elements": [
+                            {
+                                "content": "\u00a0\u00a0Alleged violation of Articles 5 and 10 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "136.\u00a0\u00a0The applicant complained under Article 5 \u00a7\u00a7 1, 2, 3 and 4 of the Convention that he had been unlawfully deprived of his liberty by the Turkish authorities, that he had not been duly informed of the reasons for his deprivation of liberty, that he had not been brought promptly before a judge following his detention, and that he had been denied access to a lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "137.\u00a0\u00a0The applicant further argued under Article 10 of the Convention that the revocation of his press card by the Turkish authorities had amounted to a violation of his right to freedom of expression.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "138.\u00a0\u00a0With regard to the applicant\u2019s complaint under Article 5 \u00a7 3, the Turkish Government claimed that the applicant had not been arrested on suspicion of having committed a crime within the meaning of Article\u00a05 \u00a7\u00a01\u00a0(c) of the Convention, but for the purposes of his deportation, in compliance with Article 5 \u00a7 1 (f). They argued that this part of the application should therefore be declared inadmissible for being incompatible ratione materiae with Article 5 \u00a7 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "139.\u00a0\u00a0The Turkish Government further argued that the applicant\u2019s remaining complaints should also be declared inadmissible pursuant to Article\u00a035 \u00a7\u00a01 of the Convention, as he had not exhausted the remedies available in Turkish law in respect of those complaints. The Turkish Government claimed that under the relevant provisions of Law no. 6458, which had entered into force on 11 April 2014, the applicant could have brought cases before magistrates\u2019 courts and administrative courts, to object to his administrative detention and deportation respectively. The applicant could also have brought an administrative action in respect of the revocation of his press card, under Article 125 of the Constitution, which provided that the administration was liable to provide compensation for any damage arising from its actions. However, the applicant had not used any of those remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "140.\u00a0\u00a0The Turkish Government added that as of 23 September 2012 the Turkish Constitutional Court had begun to accept applications from individuals who had already exhausted all other available and ordinary remedies in relation to their complaints. The Court had found that an individual application to the Constitutional Court offered, in principle, a direct and expeditious remedy for violations of the rights and freedoms protected by the Convention, and that applicants were required to avail themselves of that new remedy before lodging an application with the Court (see, for instance, Uzun v. Turkey (dec.), no. 10755/13, \u00a7\u00a7 67 and 69-70, 30\u00a0April\u00a02013, and X. v. Turkey (dec.), no. 61042/14, \u00a7 8, 19 May 2015). The Turkish Government stated that the applicant had lodged his application with the Court before resorting to the individual application remedy available in Turkey, which went against the subsidiary nature of the Convention mechanism.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "141.\u00a0\u00a0In connection with his complaints under Article 5 \u00a7 3 of the Convention, the applicant argued that as the developments following the revocation of his press card and his arrest clearly showed, he had been arrested and subsequently expelled by the Turkish authorities on suspicion of having committed an offence in Azerbaijan. In this regard, he claimed that his expulsion had amounted to extradition in disguise.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "142.\u00a0\u00a0The applicant further claimed that he had not been able to make use of the remedies available before the Turkish courts, because he had not been provided with the assistance of a lawyer prior to his expulsion, and he had been placed in detention immediately upon his arrival in Azerbaijan. He stated that if he had not been sent to Azerbaijan, he would have lodged the necessary legal actions against the revocation of his press card and residence permit, and the decisions to deport and detain him. He further claimed that following his expulsion from Turkey, he had been deprived of the opportunity to appoint a Turkish lawyer to represent him before the Turkish courts, as the Azerbaijani authorities had refused to allow him to use the notary service. However, he added that it would have been pointless to appoint a Turkish lawyer in any event, as the consequences of his expulsion had been irreversible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "143.\u00a0\u00a0With regard to the applicant\u2019s complaint under Article\u00a05 \u00a7\u00a03 of the Convention on account of the alleged failure of the Turkish authorities to bring him promptly before a judge following his arrest, the Court notes that the applicant was arrested by the Turkish authorities in the context of immigration controls under Article 5 \u00a7 1 (f) (see paragraph 16 above). Even if the applicant had been detained for the purposes of being extradited to Azerbaijan \u2013 where he might face criminal charges \u2013 as claimed, such detention by the Turkish authorities would similarly fall under the scope of Article\u00a05\u00a0\u00a7\u00a01\u00a0(f), as is clear from the wording of that provision (see, mutatis mutandis, Gallardo Sanchez v. Italy, no. 11620/07, \u00a7\u00a7 31 and 32, ECHR 2015). However, the requirements of Article 5 \u00a7 3 only apply in respect of detention on suspicion of having committed an offence within the meaning of Article\u00a05\u00a0\u00a7\u00a01 (c). Therefore, Article 5 \u00a7 3 does not apply.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "144.\u00a0\u00a0It follows that this complaint is incompatible ratione materiae with the provisions of the Convention and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention (see, for instance, Musaev v.\u00a0Turkey, no. 72754/11, \u00a7 25, 21 October 2014, and Alimov v. Turkey, no.\u00a014344/13, \u00a7 34, 6 September 2016).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "145.\u00a0\u00a0The Court reiterates that the purpose of Article 5 \u00a7 4 is to guarantee to persons who are arrested and detained the right to judicial supervision of the lawfulness of the measure to which they are thereby subjected (see, mutatis mutandis, De Wilde, Ooms and Versyp v. Belgium, 18 June 1971, \u00a7\u00a076, Series A no. 12, and Ismoilov and Others v. Russia, no. 2947/06, \u00a7\u00a0145, 24 April 2008). A remedy must be made available during a person\u2019s detention, to allow the individual to obtain a speedy judicial review of its lawfulness. That review should be capable of leading, where appropriate, to release (see, for instance, Abdolkhani and Karimnia v. Turkey, no.\u00a030471/08, \u00a7 139, 22 September 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "146.\u00a0\u00a0Turning to the facts before it, the Court observes that it is not disputed between the parties that the Turkish authorities deprived the applicant of his liberty for a period of approximately twelve hours on 19\u00a0April\u00a02014 (see paragraphs 15 and 20 above). The Court therefore notes that the deprivation of liberty in question ended before any judicial review of its lawfulness could take place. It is not for the Court to determine in abstracto whether, had this not been so, the scope of the remedies available in Turkey would have satisfied the requirements of Article 5 \u00a7 4 of the Convention. Accordingly, the Court does not find it necessary to examine the admissibility and merits of the applicant\u2019s complaint under Article\u00a05 \u00a7\u00a04 (see, mutatis mutandis, Slivenko v. Latvia [GC], no. 48321/99, \u00a7 158-159, ECHR 2003X; Fox, Campbell and Hartley v. the United Kingdom, 30\u00a0August 1990, \u00a7 45, Series A no. 182; and M.B. and Others v. Turkey, no.\u00a036009/08, \u00a7 45, 15 June 2010; and compare \u010conka v. Belgium, no.\u00a051564/99, \u00a7 55, ECHR 2002I, and A.M. v. France, no. 56324/13, \u00a7 36, 12 July 2016, where the Court examined the merits of complaints under Article\u00a05\u00a0\u00a7 4 where deprivation of liberty pending expulsion had lasted five days and three and a half days respectively).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "147.\u00a0\u00a0The Court reiterates at the outset the general principles developed in its case-law regarding the rule of exhaustion of domestic remedies under Article 35 \u00a7 1 of the Convention (see, for instance, Sargsyan v. Azerbaijan [GC], no. 40167/06, \u00a7\u00a7 115-16, ECHR 2015), and notes in particular that in so far as there exists at national level a remedy enabling the domestic courts to address, at least in substance, the argument of a violation of a given Convention right, that remedy should be used (see, mutatis mutandis, Vu\u010dkovi\u0107 and Others v. Serbia (preliminary objection) [GC], nos. 17153/11 and 29 others, \u00a7 75, 25 March 2014). It is a fundamental feature of the machinery of protection established by the Convention that it is subsidiary to the national systems safeguarding human rights. The Court is concerned with the supervision of the implementation by Contracting States of their obligations under the Convention. It cannot, and must not, take the place of Contracting States, whose responsibility it is to ensure that the fundamental rights and freedoms enshrined therein are respected and protected at domestic level (see, for instance, Gherghina v. Romania (dec.) [GC], no.\u00a042219/07, \u00a7 83, 9 July 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "148.\u00a0\u00a0The Court further stresses, in respect of the applicant\u2019s complaint under Article 5 \u00a7 1, that where such a complaint is mainly based on the alleged unlawfulness of an individual\u2019s detention under domestic law, and where that detention has come to an end, an action capable of leading to a declaration that it was unlawful and to a consequent award of compensation is an effective remedy which needs to be exhausted (see, for instance, Gavril Yosifov v. Bulgaria, no. 74012/01, \u00a7 42, 6 November 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "149.\u00a0\u00a0The Court notes the Turkish Government\u2019s argument that the applicant had various remedies available to him before magistrates\u2019 and administrative courts to raise his complaints under Articles 5 and 10 of the Convention. The Court further notes that if the applicant deemed those remedies to be inadequate in respect of his particular complaints, he could have brought an individual application before the Constitutional Court as a last resort. In this connection, it reiterates that it has found the procedure available in Turkey of an individual application to the Constitutional Court to be an effective remedy for violations of the rights and freedoms protected by the Convention, and has held that it offers prospects of appropriate redress for complaints under the Convention, including those brought by foreign nationals subjected to administrative detention in Turkey (see, for instance, Z.K. and Others v. Turkey (dec.), no. 60831/15, \u00a7\u00a7\u00a041-49, 7\u00a0November 2017).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "150.\u00a0\u00a0The Court notes that the applicant in the instant case did not contest the effectiveness of the remedies before the Turkish courts as such, but argued that he had been denied access to those remedies by both the Turkish and Azerbaijani authorities. In this connection, he claimed that he had not been allowed the assistance of a lawyer while he had been detained in Turkey, and that his request to access the notary service to appoint a Turkish lawyer had subsequently been refused in Azerbaijan.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "151.\u00a0\u00a0The Court observes that the information and documents in the case file support the applicant\u2019s allegations in this regard. It acknowledges that, given the short duration of his detention in Turkey, the applicant did not have a reasonable opportunity to raise his complaints before the Turkish courts prior to his deportation from Turkey. It also notes that the applicant\u2019s attempts to officially appoint a lawyer practising in Turkey to represent him before the Turkish courts were thwarted by the Azerbaijani authorities. Nevertheless, the Court does not agree that, following his deportation to Azerbaijan, the applicant had no means of accessing the available remedies in Turkey, in particular the individual application remedy before the Constitutional Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "152.\u00a0\u00a0In this connection, the Court notes that in accordance with the relevant provisions of Law no. 6216 on the establishment and rules of procedure of the Turkish Constitutional Court, and the Internal Regulations of that court (noted in paragraphs 66 and 67 above), individual applications could be lodged directly with the Constitutional Court itself, or through national courts or Turkish diplomatic missions abroad. Applications could be lodged by the applicants personally, or by their lawyers or legal representatives. Where applications were not lodged personally, lawyers or legal representatives were required to produce official documents certifying their authority to represent the applicant. However, the failure to submit a valid authority form \u2013 or any other required document for that matter \u2013 would only result in the application being rejected if the applicant could not submit a valid excuse for such a failure (see sections 47 and 59 of Law\u00a0no.\u00a06216 and the Internal Regulations, respectively, noted in paragraphs 66 and 67 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "153.\u00a0\u00a0The Court considers, in the light of the foregoing, that even if the other remedies mentioned by the Government remained inaccessible to the applicant, his inability to issue a notarised power of attorney did not as such prevent him from making use of the individual application remedy before the Constitutional Court. The relevant domestic law as noted above clearly allowed him to explain in his application form why he was not in a position to submit official authorisation regarding his representation. This is particularly so considering that the applicant had the benefit of the assistance of a lawyer of his own choosing in Azerbaijan from the very first days of his detention (see paragraph 27 above). Any doubts that the applicant may have harboured regarding the prospects of success of such proceedings did not exempt him from the obligation to try that avenue (see, mutatis mutandis, Vu\u010dkovi\u0107 and Others, cited above, \u00a7\u00a7 74 and 84). If, despite the explanations which he had provided, the Turkish Constitutional Court had refused his individual application for lack of a valid authority form, then it would have been open to the applicant to lodge an application with the Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "154.\u00a0\u00a0As for the applicant\u2019s claim that it would have been pointless to initiate legal proceedings in Turkey, having regard to the irreversible consequences of his expulsion, the Court stresses that the applicant\u2019s complaints against Turkey were limited to certain irregularities with his deprivation of liberty (Article 5) and the alleged violation of his freedom of expression on account of the revocation of his press card (Article 10). They did not as such involve any allegation that the applicant\u2019s deportation itself had interfered with any of his rights protected under the Convention requiring effective intervention by a judicial authority prior to his deportation (see, for instance, \u010conka, cited above, \u00a7 79; M.S.S. v. Belgium and Greece [GC], no. 30696/09, \u00a7 293, ECHR 2011; Hirsi Jamaa and Others v. Italy [GC], no. 27765/09, \u00a7\u00a7 197-200, ECHR 2012; and De Souza Ribeiro v. France [GC], no. 22689/07, \u00a7\u00a7\u00a084100, ECHR 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "155.\u00a0\u00a0In these circumstances, the Court reaffirms that while the remedy before the Constitutional Court may not have had the effect of erasing all consequences of the applicant\u2019s deportation, it was fully capable, like an application to the Court, of leading to an examination of his allegations under Article 5 \u00a7\u00a7 1 and 2 and Article 10 of the Convention, and it offered prospects of appropriate redress (see, mutatis mutandis, Ahmet Tun\u00e7 and Others v. Turkey (dec.), nos. 4133/16 and 31542/16, \u00a7\u00a7\u00a0107 and 115, 29\u00a0January 2019). In this connection, the Court reiterates that the machinery of complaint to the Court is subsidiary to national systems safeguarding human rights (see, De Souza Ribeiro, cited above, \u00a7\u00a077), and that in so far as there exists at national level a remedy enabling the domestic courts to address, at least in substance, the argument of a violation of a given Convention right, that remedy should be used (see, mutatis mutandis, Vu\u010dkovi\u0107 and Others, cited above, \u00a7 75).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "156.\u00a0\u00a0The Court therefore finds that, in the circumstances of the present application, the applicant cannot be considered to have complied with the rule on the exhaustion of domestic remedies laid down in Article 35 of the Convention. The applicant\u2019s complaints under Article 5 \u00a7\u00a7 1 and 2 and Article 10 of the Convention raised against Turkey must therefore be rejected under Article 35 \u00a7 1 of the Convention for nonexhaustion of domestic remedies.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "157.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "158.\u00a0\u00a0With regard to his complaints against Azerbaijan, the applicant claimed 10,000 euros (EUR) in respect of pecuniary damage and EUR\u00a030,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "159.\u00a0\u00a0The Azerbaijani Government contested the applicant\u2019s claim in respect of pecuniary damage, submitting that he had failed to substantiate it. As regards the claim in respect of non-pecuniary damage, the Azerbaijani Government contested the amount claimed as unsubstantiated and excessive, submitting that, in any event, a finding of a violation would constitute sufficient just satisfaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "160.\u00a0\u00a0The Court considers that, even assuming that a causal link could be established between the pecuniary damage alleged and the violations found, the applicant did not submit the relevant documentary evidence supporting this claim (see Haziyev v. Azerbaijan, no. 19842/15, \u00a7\u00a048, 6 December 2018), it therefore rejects this claim. However, the Court considers that the applicant has suffered non-pecuniary damage which cannot be compensated for solely by the finding of violations, and that compensation should thus be awarded. Making its assessment on an equitable basis, as required by Article 41 of the Convention, the Court awards the applicant the sum of EUR 20,000 under this head, plus any tax that may be chargeable on this amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "161.\u00a0\u00a0The applicant claimed EUR 5,000 for the costs and expenses incurred in the proceedings before the Court. He also claimed EUR 300 for postal expenses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "162.\u00a0\u00a0The Azerbaijani Government submitted that the applicant\u2019s claim for costs and expenses was unsubstantiated and was not supported by any documentary evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "163.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. The Court also points out that under Rule 60 of the Rules of Court, any claim for just satisfaction must be itemised and submitted in writing together with the relevant supporting documents, failing which the Chamber may reject the claim in whole or in part (see\u00a0Malik\u00a0Babayev v.\u00a0Azerbaijan, no. 30500/11, \u00a7 97, 1 June 2017). In the present case, the applicant failed to produce any documentary evidence in support of his claim for costs and expenses. Therefore, the Court dismisses the claim for costs and expenses.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "164.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints against Azerbaijan admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there is no need to examine the admissibility and merits of the complaint under Article 5 \u00a7 4 of the Convention against Turkey;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Declares the remainder of the complaints against Turkey inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 1 of the Convention on account of the absence of a reasonable suspicion that the applicant had committed a criminal offence;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there is no need to examine separately the complaint under Article 5 \u00a7 3 of the Convention concerning the justification for the applicant\u2019s pre-trial detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 1 of the Convention on account of the applicant\u2019s detention from 19 to 20 November 2014 in the absence of a court order;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 4 of the Convention on account of the domestic courts\u2019 failure to assess the applicant\u2019s arguments in favour of his release;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there is no need to examine separately the complaint under Article 5 \u00a7 4 of the Convention concerning the absence of the applicant\u2019s lawyers from the Nasimi District Court\u2019s hearing of 20\u00a0November 2014;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds that there has been no violation of Article 18 of the Convention taken in conjunction with Article 5 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the Azerbaijani Government are to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR 20,000 (twenty thousand euros), plus any tax that may be chargeable, in respect of nonpecuniary damage;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 17 September 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "S\u00edofra O\u2019Leary",
+            "role": "president"
+        },
+        {
+            "name": "Gabriele Kucsko-Stadlmayer",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Latif H\u00fcseynov",
+            "role": "judges"
+        },
+        {
+            "name": "Saadet Y\u00fcksel",
+            "role": "judges"
+        },
+        {
+            "name": "Anja Seibert-Fohr",
+            "role": "judges"
+        },
+        {
+            "name": "Mattias Guyomar",
+            "role": "judges"
+        },
+        {
+            "name": "Victor Soloveytchik",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MIRGADIROV v. AZERBAIJAN AND TURKEY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-204584.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:0917JUD006277514",
+    "externalsources": [],
+    "extractedappno": [
+        "62775/14",
+        "37138/06",
+        "16966/06",
+        "69981/14",
+        "52902/15",
+        "48653/13",
+        "31709/13",
+        "38239/16",
+        "15172/13",
+        "4922/04",
+        "47145/14",
+        "41418/04",
+        "43149/10",
+        "11800/10",
+        "67482/14",
+        "9348/14",
+        "14946/08",
+        "39758/05",
+        "24069/03",
+        "62936/00",
+        "5829/04",
+        "11082/06",
+        "13772/05",
+        "72508/13",
+        "6492/11",
+        "70276/01",
+        "68762/14",
+        "71200/14",
+        "10755/13",
+        "61042/14",
+        "11620/07",
+        "72754/11",
+        "14344/13",
+        "2947/06",
+        "30471/08",
+        "48321/99",
+        "36009/08",
+        "51564/99",
+        "56324/13",
+        "40167/06",
+        "17153/11",
+        "42219/07",
+        "74012/01",
+        "60831/15",
+        "30696/09",
+        "27765/09",
+        "22689/07",
+        "4133/16",
+        "31542/16",
+        "19842/15",
+        "30500/11"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 17.3 and 19.8 of the Law on the Guarantee of the Rights and Freedoms of Individuals Kept in Detention of 22 May 2012 (Azerbaijan)",
+        "Law no. 6216 on the establishment and rules of procedure of the Turkish Constitutional Court, and the Internal Regulations of that court"
+    ],
+    "itemid": "001-204584",
+    "judgementdate": "17/09/2020 00:00:00",
+    "kpdate": "17/09/2020 00:00:00",
+    "kpthesaurus": [
+        "448",
+        "220",
+        "405",
+        "438",
+        "445",
+        "76",
+        "325",
+        "451",
+        "424",
+        "425",
+        "429",
+        "319",
+        "268",
+        "329",
+        "232",
+        "431",
+        "14",
+        "128",
+        "398",
+        "216",
+        "577",
+        "283",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "5-1-c",
+        "8",
+        "5-4",
+        "8-1",
+        "35-1",
+        "35-3-a",
+        "8-2",
+        "35",
+        "5-1",
+        "5",
+        "6",
+        "6-2",
+        "18",
+        "41"
+    ],
+    "parties": [
+        "MIRGADIROV",
+        "AZERBAIJAN AND TURKEY"
+    ],
+    "rank": "7483.92724609375",
+    "representedby": [
+        "AGAYEV F.",
+        "SULEYMANOV E."
+    ],
+    "respondent": "AZE;TUR",
+    "respondentOrderEng": "5",
+    "scl": [
+        "A.M. v. France, no. 56324/13, \u00a7 36, 12 July 2016",
+        "Abdolkhani and Karimnia v. Turkey, no. 30471/08, \u00a7 139, 22 September 2009",
+        "Ahmet Tun\u00e7 and Others v. Turkey (dec.), nos. 4133/16 and 31542/16, \u00a7\u00a7 107 and 115, 29 January 2019",
+        "Alimov v. Turkey, no. 14344/13, \u00a7 34, 6 September 2016",
+        "Aliyev v. Azerbaijan, nos. 68762/14 and 71200/14, \u00a7\u00a7 192-194, 20 September 2018",
+        "Andrey Smirnov v. Russia, no. 43149/10, \u00a7\u00a7 35 and 49, 13 February 2018",
+        "Conka v. Belgium, no. 51564/99, \u00a7\u00a7 55 and 79, ECHR 2002 I",
+        "De Souza Ribeiro v. France [GC], no. 22689/07, \u00a7\u00a7 84-100, ECHR 2012",
+        "De Wilde, Ooms and Versyp v. Belgium, 18 June 1971, \u00a7 76, Series A no. 12",
+        "Farhad Aliyev v. Azerbaijan, no. 37138/06, \u00a7\u00a7 220-227, 9 November 2010",
+        "Fox, Campbell and Hartley v. the United Kingdom, 30 August 1990, \u00a7 45, Series A no. 182",
+        "Gallardo Sanchez v. Italy, no. 11620/07, \u00a7\u00a7 31 and 32, ECHR 2015",
+        "Gavril Yosifov v. Bulgaria, no. 74012/01, \u00a7 42, 6 November 2008",
+        "Gherghina v. Romania (dec.) [GC], no. 42219/07, \u00a7 83, 9 July 2015",
+        "Gusinskiy v. Russia, no. 70276/01, ECHR 2004 IV",
+        "Haziyev v. Azerbaijan, no. 19842/15, \u00a7 48, 6 December 2018",
+        "Hirsi Jamaa and Others v. Italy [GC], no. 27765/09, \u00a7\u00a7 197-200, ECHR 2012",
+        "Ilgar Mammadov v. Azerbaijan, no. 15172/13, 22 May 2014",
+        "Ismoilov and Others v. Russia, no. 2947/06, \u00a7 145, 24 April 2008",
+        "Khodorkovskiy and Lebedev v. Russia, nos. 11082/06 and 13772/05, 25 July 2013",
+        "Khodorkovskiy v. Russia, no. 5829/04, 31 May 2011",
+        "Khoroshenko v. Russia [GC], no. 41418/04, \u00a7\u00a7 107-109 and 116-117, ECHR 2015",
+        "Lazoroski v. the former Yugoslav Republic of Macedonia, no. 4922/04, \u00a7 48, 8 October 2009",
+        "Lebois v. Bulgaria, no. 67482/14, \u00a7\u00a7 63-64, 19 October 2017",
+        "Lukanov v. Bulgaria, 20 March 1997, \u00a7 45, Reports of Judgments and Decisions 1997 II",
+        "Lutsenko v. Ukraine, no. 6492/11, \u00a7 108, 3 July 2012",
+        "M.B. and Others v. Turkey, no. 36009/08, \u00a7 45, 15 June 2010",
+        "M.S.S. v. Belgium and Greece [GC], no. 30696/09, \u00a7 293, ECHR 2011",
+        "Malik Babayev v. Azerbaijan, no. 30500/11, \u00a7 97, 1 June 2017",
+        "Mammadli v. Azerbaijan, no. 47145/14, \u00a7\u00a7 72-74 and 85-87, 19 April 2018",
+        "Merabishvili v. Georgia [GC], no. 72508/13, \u00a7\u00a7 316-354, 28 November 2017",
+        "Mesut Yurtsever and Others v. Turkey, nos. 14946/08 and 11 others, \u00a7 102, 20 January 2015",
+        "Moiseyev v. Russia, no. 62936/00, \u00a7 255, 9 October 2008",
+        "Muradverdiyev v. Azerbaijan, no. 16966/06, \u00a7\u00a7 105-109, 9 December 2010",
+        "Musaev v. Turkey, no. 72754/11, \u00a7 25, 21 October 2014",
+        "\u00d6calan v. Turkey (no. 2), nos. 24069/03 and 3 others, \u00a7 158, 18 March 2014",
+        "Pakhtusov v. Russia, no. 11800/10, \u00a7 23, 16 May 2017",
+        "Rashad Hasanov and Others v. Azerbaijan, nos. 48653/13 and 3 others, 7 June 2018",
+        "Rasul Jafarov v. Azerbaijan, no. 69981/14, 17 March 2016",
+        "Resin v. Russia, no. 9348/14, \u00a7 24, 18 December 2018",
+        "Rustamzade v. Azerbaijan, no. 38239/16, \u00a7 47, 7 March 2019",
+        "Sargsyan v. Azerbaijan [GC], no. 40167/06, \u00a7\u00a7 115-116, ECHR 2015",
+        "Slivenko v. Latvia [GC], no. 48321/99, \u00a7 158-159, ECHR 2003 X",
+        "Trosin v. Ukraine, no. 39758/05, \u00a7 40, 23 February 2012",
+        "Uzun v. Turkey (dec.), no. 10755/13, \u00a7\u00a7 67 and 69-70, 30 April 2013",
+        "Vuckovic and Others v. Serbia (preliminary objection) [GC], nos. 17153/11 and 29 others, \u00a7\u00a7 74-75 and 84, 25 March 2014",
+        "X. v. Turkey (dec.), no. 61042/14, \u00a7 8, 19 May 2015",
+        "Yagublu v. Azerbaijan, no. 31709/13, \u00a7\u00a7 60-61 and 64, 5 November 2015",
+        "Z.K. and Others v. Turkey (dec.), no. 60831/15, \u00a7\u00a7 41-49, 7 November 2017"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "500459",
+    "typedescription": "15"
+}

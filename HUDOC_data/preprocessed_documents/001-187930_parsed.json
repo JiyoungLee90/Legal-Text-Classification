@@ -1,0 +1,1100 @@
+{
+    "__articles": "8;8-1;10;10-1;10-2;41",
+    "__conclusion": "Violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression);Pecuniary damage - award (Article 41 - Pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "11257/16",
+    "article": [
+        "10",
+        "8",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "10",
+            "base_article": "10",
+            "details": [
+                "Article 10-1 - Freedom of expression"
+            ],
+            "element": "Violation of Article 10 - Freedom of expression-{general}",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-187930.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 11257/16) against Hungary lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a private limited company registered under Hungarian law, Magyar Jeti Zrt (\u201cthe applicant company\u201d), on 23 February 2016.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant company was represented by Ms V. Vermeer, a lawyer practising in London. The Hungarian Government (\u201cthe Government\u201d) were represented by Mr Z. Tall\u00f3di, Agent, Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant company complained under Article 10 of the Convention that, by finding it liable for the posting of a hyperlink leading to defamatory content on its website, the domestic courts had unduly restricted its freedom of expression.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 26 May 2016 the Government were given notice of the application.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 1 July 2016, under Article 36 \u00a7 2 of the Convention and Rule\u00a044 \u00a7\u00a03 of the Rules of Court, the Vice-President of the Section granted the European Publishers\u2019 Council, the Media Law Resource Center Inc., the Newspaper Association of America, BuzzFeed, Electronic Frontier Foundation, Index on Censorship, Professor Lorna Woods, Dr Richard Danbury and Dr Nicole Stremlau, jointly; European Information Society Institute; Article 19; the European Roma Rights Centre; the Mozilla Foundation and Mozilla Corporation; and Access Now, the Collaboration on International ICT Policy in East and Southern Africa and European Digital Rights, jointly, leave to intervene as third parties in the proceedings.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant company operates a popular online news portal in Hungary called 444.hu, which averages approximately 250,000 unique users per day. The online news portal has a staff of twenty-four and publishes approximately seventy-five articles per day on a wide range of topics, including politics, technology, sport and popular culture.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 5 September 2013 a group of apparently intoxicated football supporters stopped at an elementary school in the village of Kony\u00e1r, Hungary, while travelling by bus to a football match. The students at the school were predominantly Roma. The supporters disembarked from the bus, and proceeded to sing, chant and shout racist remarks and make threats against the students who were outside in the playground. The supporters also waved flags and threw beer bottles, and one of them reportedly urinated in front of the school building. To protect the children, the teachers called the police, took the children inside and made them hide under tables and in the bathroom. The football supporters boarded the bus and left the area only after the police arrived.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 5 September 2013 J.Gy., the leader of the Roma minority local government in Kony\u00e1r, gave an interview, in the company of a pupil of the elementary school and his mother, to Roma Produkci\u00f3s Iroda Alap\u00edtv\u00e1ny, a media outlet with a focus on Roma issues. While describing the events, and referring to the arrival of the football supporters in Kony\u00e1r, J.Gy. stated that \u201cJobbik came in\u201d (Bej\u00f6tt a Jobbik). He added: \u201cThey attacked the school, Jobbik attacked it\u201d, and \u201cMembers of Jobbik, I would add, they were members of Jobbik, they were members of Jobbik for sure.\u201d On the same day the media outlet uploaded the video of the interview to YouTube.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 6 September 2013 the applicant company published an article on the incident in Kony\u00e1r on the 444.hu website with the title \u201cFootball supporters heading to Romania stopped to threaten Gypsy pupils\u201d, written by B.H., a journalist for the Internet news portal. The article contained the following passages:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cBy all indications, a bus full of Hungarian football supporters heading to a Romania-Hungary game left a highway in order to threaten mostly Gypsy pupils at a primary school in Kony\u00e1r, a village close to the Romanian border.",
+                                "elements": []
+                            },
+                            {
+                                "content": "According to our information and witnesses\u2019 statements, the bus arrived in the village on Thursday morning. The supporters were inebriated and started insulting Gypsies and threatening the pupils. Teachers working in the building locked the doors and instructed the smallest children to hide under the tables. Mr J.Gy., president of the local Gypsy [cig\u00e1ny] municipality, talked to us about the incident. A phone conversation with Mr Gy. and a parent has already been uploaded to YouTube.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The words \u201cuploaded to YouTube\u201d appeared in green, indicating that they served as anchor text to a hyperlink to the YouTube video. By clicking on the green text, readers could open a new web page leading to the video hosted on the youtube.com website.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The article was subsequently updated three times \u2013 on 6 and 12\u00a0September and 1 October 2016 \u2013 to reflect newly available information, including an official response from the police.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0The hyperlink to the YouTube video was further reproduced on three other websites, operated by other media outlets.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 13 October 2013 the political party Jobbik brought defamation proceedings under Article 78 of the Civil Code before the Debrecen High Court against eight defendants, including\u00a0J.Gy., Roma Produkci\u00f3s Iroda Alap\u00edtv\u00e1ny, the applicant company, and other media outlets which had provided links to the impugned video. It argued that by using the term \u201cJobbik\u201d to describe the football supporters and by publishing a hyperlink to the YouTube video, the defendants had infringed its right to reputation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 30 March 2014 the High Court upheld the plaintiff\u2019s claim, finding that J.Gy.\u2019s statements falsely conveyed the impression that Jobbik had been involved in the incident in Kony\u00e1r. It also found it established that the applicant company was objectively liable for disseminating defamatory statements and had infringed the political party\u2019s right to reputation, ordering it to publish excerpts of the judgment on the 444.hu website and to remove the hyperlink to the YouTube video from the online article.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The judgment of the High Court contains the following relevant passages:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Court has established that the first defendant, J.Gy., violated the plaintiff Jobbik Magyarorszag\u00e9rt Mozgalom\u2019s inherent right to protection against defamation by falsely claiming in his statements given to the second defendant on 5\u00a0September\u00a02013 and uploaded to youtube.com, and to the sixth defendant on 7\u00a0September and uploaded to haon.hu, that the events that had taken place on 5 September 2013 in front of the primary school in Kony\u00e1r had been carried out by the plaintiff party, and that the people who had taken part in them were individuals associated with the plaintiff party. The Court has established that the second defendant, Roma Produkci\u00f3s Iroda Alap\u00edtv\u00e1ny; the fourth defendant, I.V.; the fifth defendant, Magyar Jeti; the sixth defendant, Inform M\u00e9dia Kft; and the eighth defendant HVG Kiad\u00f3 Zrt. also violated the plaintiff\u2019s inherent right to be protected against defamation as the second defendant uploaded the first defendant\u2019s false statement to youtube.com, and the fourth defendant made it available and disseminated it on romaclub.hu, the fifth defendant on 444.hu, the sixth defendant on haon.hu and the eighth defendant on hvg.hu.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Court obliges the first and second defendants to make the first and second paragraphs of this judgment publicly available within 15 days and for a period of 30\u00a0days on youtube.com at their own expense, and for the fourth defendant to make them publicly available on romaclub.hu, the fifth defendant on 444.hu, the sixth defendant on haon.hu, and the eighth defendant on hvg.hu.",
+                                "elements": []
+                            },
+                            {
+                                "content": "It also obliges the fifth defendant to delete the link to the first defendant\u2019s statement uploaded to youtube.com in its article \u2018Football supporters heading to Romania stopped to threaten Gypsy pupils\u2019, published on 6 September 2013, within 15 days.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Defamation can be constituted not only by the stating of a falsehood but also by the publication and dissemination of a falsehood that pertains to another person (see Article 78 \u00a7 2 of the Civil Code). When establishing the occurrence of a violation, it does not matter whether the persons concerned acted in good or bad faith, [but] whether the violation can be imputable to them or not.",
+                                "elements": []
+                            },
+                            {
+                                "content": "With regard to the foregoing, the Court has established that the second, fourth, fifth [the applicant company], sixth and eighth defendants also violated the plaintiff\u2019s inherent right to be protected against defamation by publishing and publicly disseminating the first defendant\u2019s defamatory statement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The objective sanctions for the violation of inherent rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Pursuant to paragraph 1 of Article 84 of the Civil Code, a person whose inherent rights have been violated has the following options under civil law, depending on the circumstances of the case:",
+                                "elements": []
+                            },
+                            {
+                                "content": "The above-mentioned sanctions [Article 84 \u00a7 1 of the Civil Code] for the violation of inherent rights are objective in nature, [and] therefore are independent from the imputability of fault to the perpetrator or the lack thereof. The violation itself forms the basis for the application of an adequate objective sanction. With regard to the foregoing, the Court has established that the defendants violated the plaintiff\u2019s inherent rights, on the basis of paragraph 1 (a) of Article 84 of the Civil Code.",
+                                "elements": []
+                            },
+                            {
+                                "content": "With regard to restitution in accordance with paragraph 1 (c) of Article 84 of the Civil Code, the Court has ordered the defendants \u2013 with reference to the violation they have caused through their actions \u2013 to make public on the websites concerned the first and second paragraphs of the judgment that contain the establishment of the violation and at the same time concern the plaintiff, and to declare the falseness of the statement that was made publicly available, just as with the first defendant\u2019s declaration that contained untrue statements. Since the harm caused to the plaintiff can be repaired within the framework of objective sanctions under the provision in question, the Court has rejected the part of the plaintiff\u2019s claim that referred to the public dissemination of a declaration with a different content.",
+                                "elements": []
+                            },
+                            {
+                                "content": "On the basis of paragraph 1 (d) of Article 84 of the Civil Code, the Court has ordered the fifth defendant to deprive its related report of its injurious nature, but it has rejected the same claim submitted by the plaintiff against the eighth defendant, since it can be established from the facts of the case that the eighth defendant\u2019s report available on hvg.hu merely links to the report that appeared on the website 444.hu maintained by the fifth defendant; therefore, depriving the latter of its injurious nature effectively results in depriving the report on hvg.hu of its injurious nature.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The subjective sanctions for a violation of inherent rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "In accordance with paragraph 1 (e) of Article 84 of the Civil Code, a person whose inherent rights have been violated should bring an action for punitive damages in accordance with the liability regulations under civil law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Pursuant to paragraph 1 of Article 339 of the Civil Code, a person who causes damage to another person in violation of the law is liable for such damage. He is to be relieved of liability if he is able to prove that he has acted in a manner that can generally be expected in the given situation. Pursuant to paragraphs 1 and 4 of Article 355 of the Civil Code, the person responsible for the damage must compensate the aggrieved party for any non-pecuniary damage. The four conjunctive conditions for compensation for non-pecuniary damage are: (1) the breach of the law through the violation of inherent rights; (2) imputability of fault; (3) non-pecuniary disadvantage; (4) a causal link between the violation of inherent rights and the non-pecuniary disadvantage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "With regard to legal entities, non-pecuniary damage is any non-pecuniary disadvantage or loss manifested in the assessment of the legal entity, and in adverse changes in its business turnover, in its participation in other relations and in the situation and quality of its existence and operations.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The occurrence of the disadvantage can be established not just on the basis of evidence but by publicly known facts as well, in accordance with paragraph 3 of Article 163 of the Code of Civil Procedure (BH.2001.178.)",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the case in question, the Court has established it as a publicly known fact that the first defendant\u2019s statement, which presented the plaintiff political party as having caused an aggressive, threatening and racist event, and which was later publicly disseminated by the other defendants, caused non-pecuniary damage in the assessment of the plaintiff political party. Such events are rejected and regarded with disdain by a wide layer of society, and force the legal entity \u2018associated\u2019 with the events to explain and clarify its role (or in this case, its lack of role). In the case of a political party with parliamentary representation, this kind of non-pecuniary damage can especially be caused by such a violation of inherent rights committed nearly six months prior to the parliamentary elections.",
+                                "elements": []
+                            },
+                            {
+                                "content": "With regard to the first defendant, the Court has established the fact of imputability out of the conditions for compensation for non-pecuniary damage ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the case of the other defendants, the Court did not establish any fault with regard to the breach of the law, and consequently the Court has rejected the plaintiff\u2019s claim for compensation for non-pecuniary damage against the other defendants, in the following manner:",
+                                "elements": []
+                            },
+                            {
+                                "content": "In their own online news websites maintained by the fifth [the applicant company], sixth and eight defendants, the defendants in question published reports that presented the events of 5 September in the most realistic way, and they used the available information channels and forms of control in the expected manner. They presented contradictory information and opinions in an objective manner, remaining true to the information and the given opinions. The fact that the defendants also included [Mr\u00a0J.Gy.\u2019s statements] does not infringe the procedure expected of the staff of press outlets in such a situation, [is] not regarded as a deliberately false publication, and therefore does not call for the establishment of whether the employees of the defendants in question failed to examine the veracity of the facts, and in relation to this, failed to act with the precision necessary for the responsible exercise of the constitutional right to freedom of expression. In contrast with this, it can explicitly be established from the content of the testimonies and the reports submitted that the employees of the defendants concerned acted with the precision necessary for the responsible performance of their work[:] they examined, exposed and presented the veracity of the facts[;] therefore they acted in a manner that would generally be expected of them in the given situation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0The applicant company appealed, arguing that public opinion associated the notion of \u201cJobbik\u201d not so much with the political party but with anti-Roma ideology, and the name had become a collective noun for anti-Roma organisations. According to the applicant company, the content of the statement had not been offensive towards the political party, since it was publicly known that Jobbik had been engaged in hatred-inciting activities. The applicant company also emphasised that by making the interview with the first defendant available in the form of a link but not associating the applicant company with the video\u2019s content, it had not repeated the statements and had not disseminated falsehoods.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 25 September 2014 the Debrecen Court of Appeal upheld the first-instance decision. It held that the statement by J.Gy. had qualified as a statement of fact because it had given the impression to the average audience that the football supporters had been organisationally linked to the political party. The court found that the statement had been injurious to the political party since it had associated the latter with socially reprehensible conduct. As regards the applicant company in particular, it held:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... With regard to the fifth defendant\u2019s [the applicant company\u2019s] reference in its appeal, the court of first-instance correctly established that making a false statement available through a link, even without identifying with it, qualified as dissemination of facts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Dissemination (or circulation) is the sharing of a piece of news as thought-based content and making it available for others. Contrary to the fifth defendant\u2019s viewpoint as expressed in its appeal, an infringement of the law by dissemination occurs even if the disseminator does not identify with the statement, and even if the disseminator\u2019s trust in the veracity of the statement is ungrounded. Making lawful content available in any form qualifies as dissemination; and the disseminator bears objective responsibility for sharing another person\u2019s unlawful statement owing to the occurrence of the sharing.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Based on the grammatical and taxonomical interpretation of dissemination as defined in Article 78 \u00a7 2 of the Civil Code, it occurs by means of the sharing of information, which makes the content in question accessible to anyone. The essence of dissemination is the sharing of information, and owing to the objective legal consequence, it does not matter what the goal of the sharing was, or whether the disseminator acted in good or bad faith; nor do the scope of publicity or the gravity of the infringement have any relevance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 1\u00a0December 2014 the applicant company lodged a constitutional complaint under Act no. CLI of 2011 on the Constitutional Court (\u201cthe Constitutional Court Act\u201d), arguing in essence that under the Civil Code, media outlets assumed objective liability for dissemination of false information, which according to judicial practice meant that media outlets were held liable for the veracity of statements that clearly emanated from third parties. Thus, even if a media organ prepared a balanced and unbiased article on a matter of public interest, it could still be found to be in violation of the law. This would result in an undue burden for publishers, since they could only publish information whose veracity they had established beyond any doubt, making reporting on controversial matters impossible. The applicant company argued that the judicial practice was unconstitutional since it did not examine whether a publisher\u2019s conduct had been in compliance with the ethical and professional rules of journalism, but only whether it had disseminated an untrue statement. In the area of the Internet, where the news value of information was very short-lived, there was simply no time to verify the truthfulness of every statement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0 Two of the defendants also lodged a petition for review with the K\u00faria. The applicant company argued that the second-instance judgment restricted the freedom of the press in a disproportionate manner, as the company had only reported on an important issue of public concern, in compliance with its journalistic duties. It emphasised that, as established by the lower-level courts, its report on the issue had been balanced. It further maintained that the statement of J.Gy. qualified as an opinion rather than a fact. In any event, the company had not been engaged in dissemination but had merely fulfilled its journalistic obligation of reporting.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0The K\u00faria upheld the second-instance judgment in a judgment of 10\u00a0June\u00a02015 (served on the applicant company on 4 September 2015), reiterating that J.Gy.\u2019s statements were statements of fact and that the defendants had failed to prove their veracity. Although the term jobbikos was used in colloquial language, in the case at issue J.Gy. had explicitly referred to the political party and its role in the incident. As regards the question of whether the applicant company\u2019s activity constituted dissemination of information, the K\u00faria found:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cBoth in criminal law and other cases of civil law, the K\u00faria has taken the legal standpoint ... that dissemination is carried out by sharing or making public any information, as a result of which anyone can have access to the given content. The Internet is only one possible alternative for publishing; it is a forum for dissemination, meaning that information and facts are shared through a computer network. An Internet link to one\u2019s own publication serves as an appendix; it becomes accessible and readable with a single click. The Civil Code has established objective liability for dissemination, irrespective of the good or bad faith of the disseminator. In the K\u00faria\u2019s view, requiring media outlets not to make injurious statements accessible does not constitute a restriction of freedom of the press or freedom of expression; nor is it an obligation on them which in practice cannot be satisfied.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0On 19 December 2017 the Constitutional Court dismissed the applicant company\u2019s constitutional complaint. It emphasised the second-instance court\u2019s finding that providing a hyperlink to content qualified as dissemination of facts. Furthermore, dissemination was unlawful even if the disseminator had not identified itself with the content of the third party\u2019s statement and even if it had wrongly trusted the truthfulness of the statement.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0The Constitutional Court also reiterated its previous case-law concerning reporting about public figures\u2019 press conferences, stating that such conduct did not qualify as dissemination if the report was unbiased and objective, the statement concerned a matter of public interest, and the publisher provided the source of the statement and gave the person concerned by the potentially injurious statement the opportunity to react. In such cases, according to the Constitutional Court, journalists neither made their own statements, nor did they intend to influence public opinion with their own thoughts. Therefore, the liability of the press for falsehoods was to be distinguished from situations where media content was merely defined by the editors\u2019 and journalists\u2019 own choices and decisions. Specifically, in these situations the aim of a publication was neither to enrich nor to influence public debate with the journalists\u2019 own arguments, but to provide an up-to-date and credible report on the statements of third parties participating in public debates. The interest in a public debate required accurate reporting about press conferences.",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0Concerning the present case, the Constitutional Court found that the dissemination of a falsehood did not concern a statement expressed at a press conference. The statement in question had related to a media report about an event which the press had presented according to its own assessment. The press report had summarised information concerning an event of public interest. A press report fell outside the definition of dissemination only if the aim of the publication was to provide a credible and up-to-date presentation of statements by third parties in a public debate. However, in the present case the K\u00faria found that the aim of the publication had not been to present J.Gy.\u2019s statements, but to present contradictory information concerning the event. Thus, the press report qualified as dissemination.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "23.\u00a0\u00a0The relevant provisions of the Fundamental Law read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0Everyone has the right to have his or her private and family life, home, communications and reputation respected.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0Everyone shall have the right to freely express his or her opinion.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0Hungary shall recognise and protect the freedom and pluralism of the press, and ensure the conditions for freedom of information necessary for the formation of democratic public opinion.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0The Constitutional Court Act provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAny individual or organisation involved in a case may lodge a constitutional complaint with the Constitutional Court against a court decision which is contrary to the Fundamental Law within the meaning of Article 24 \u00a7 2 (d) of the Fundamental Law, if the ruling on the merits or another decision terminating the court proceedings",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Constitutional Court shall admit constitutional complaints if a conflict with the Fundamental Law significantly affects the judicial decision, or the case raises constitutional law issues of fundamental importance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0Unless provided for otherwise by this Act, the decisions of the Constitutional Court are binding on everyone.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0There shall be no remedy against the decisions of the Constitutional Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(3)\u00a0\u00a0The Constitutional Court shall itself establish the applicable legal consequences within the framework of the Fundamental Law and of this Act.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0If the Constitutional Court, in the course of proceedings before it as specified in section 27 and on the basis of a constitutional complaint, declares that a judicial decision is contrary to the Fundamental Law, it shall annul the decision.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0For the procedural legal consequences of the Constitutional Court\u2019s decision annulling a judicial decision, the provisions of the codes on court procedures shall be applicable.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(3)\u00a0\u00a0In court proceedings following the annulment of a judicial decision by the Constitutional Court, the decision of the Constitutional Court shall be binding as regards the issue of constitutionality.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(4)\u00a0\u00a0The Constitutional Court, when annulling a judicial decision, may also annul judicial decisions or the decisions of other authorities which were reviewed by the decision in question.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "25.\u00a0\u00a0Act no. IV of 1959 on the Civil Code, as in force at the material time, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0Personality rights shall be respected by everyone. Personality rights are protected under this Act.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0The rules governing the protection of personality rights are also applicable to legal personalities, except in cases where such protection can, owing to its character, only apply to private individuals.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(3)\u00a0\u00a0Personality rights shall not be violated by conduct to which the holder of rights has given consent, unless such consent violates or endangers an interest of society. In any other case a contract or unilateral declaration restricting personality rights shall be null and void.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1)\u00a0\u00a0The protection of personality rights shall also include the protection of reputation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2)\u00a0\u00a0In particular, the statement or dissemination of an injurious falsehood concerning another person, or the presentation with untrue implications of a true fact relating to another person, shall constitute defamation.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0RELEVANT INTERNATIONAL LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "26.\u00a0\u00a0Recommendation CM/Rec(2007)16 of the Committee of Ministers to member states on measures to promote the public service value of the Internet was summarised as follows in Editorial Board of Pravoye Delo and Shtekel v. Ukraine (no.\u00a033014/05, ECHR 2011 (extracts)):",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c29.\u00a0\u00a0At their 1010th meeting on 7 November 2007 the Ministers\u2019 Deputies considered essential aspects of the use of new information and communication technologies and services, in particular the Internet, in the context of protection and promotion of human rights and fundamental freedoms. They acknowledged the increasingly important role the Internet was playing in providing diverse sources of information to the public and people\u2019s significant reliance on the Internet as a tool for communication.",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0It was noted however that the Internet could, on the one hand, significantly enhance the exercise of human rights and fundamental freedoms, such as the right to freedom of expression, while, on the other hand, the Internet might adversely affect other rights, freedoms and values, such as the respect for private life and secrecy of correspondence and for the dignity of human beings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0The Ministers\u2019 Deputies adopted recommendations to the Council of Europe\u2019s member states with regard to the governance of the Internet. These included a recommendation to elaborate a clear legal framework delineating the boundaries of the roles and responsibilities of all key stakeholders in the field of new information and communication technologies and to encourage the private sector to develop open and transparent self- and co-regulation on the basis of which key actors in this field could be held accountable.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0Recommendation CM/Rec(2011)7 of the Committee of Ministers to member States on a new notion of media (adopted on 21 September 2011) reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Committee of Ministers, under the terms of Article 15. b of the Statute of the Council of Europe recommends that member states:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2013 adopt a new, broad notion of media which encompasses all actors involved in the production and dissemination, to potentially large numbers of people, of content (for example information, analysis, comment, opinion, education, culture, art and entertainment in text, audio, visual, audiovisual or other form) and applications which are designed to facilitate interactive mass communication (for example social networks) or other content-based large-scale interactive experiences (for example online games), while retaining (in all these cases) editorial control or oversight of the contents;",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2013 review regulatory needs in respect of all actors delivering services or products in the media ecosystem so as to guarantee people\u2019s right to seek, receive and impart information in accordance with Article 10 of the European Convention on Human Rights, and to extend to those actors relevant safeguards against interference that might otherwise have an adverse effect on Article 10 rights, including as regards situations which risk leading to undue self-restraint or self-censorship;",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u2013 apply the criteria set out in the appendix hereto when considering a graduated and differentiated response for actors falling within the new notion of media based on relevant Council of Europe media-related standards, having regard to their specific functions in the media process and their potential impact and significance in ensuring or enhancing good governance in a democratic society;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0A differentiated and graduated approach requires that each actor whose services are identified as media or as an intermediary or auxiliary activity benefit from both the appropriate form (differentiated) and the appropriate level (graduated) of protection and that responsibility also be delimited in conformity with Article 10 of the European Convention on Human Rights and other relevant standards developed by the Council of Europe.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0The Joint Declaration by the UN Special Rapporteur on Freedom of Opinion and Expression, the OSCE Representative on Freedom of the Media and the OAS Special Rapporteur on Freedom of Expression, adopted on 21 December 2005, states the following:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one should be liable for content on the Internet of which they were not the author, unless they had either adopted that content as their own or refused to obey a court order to remove that content.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0In Case C-160/15 GS Media BV v. Sanoma Media Netherlands BV, Playboy Entreprises International Inc., Britt Geertruida Dekker the Court of Justice of the European Union (\u201cthe CJEU\u201d) considered whether, and in what circumstances, posting on a website a hyperlink to protected works, which were freely available on another website without the consent of the copyright holder, constituted a \u201ccommunication to the public\u201d within the meaning of Article 3 \u00a7 1 of Directive 2001/29/EC on the harmonisation of certain aspects of copyright and related rights in the information society. The CJEU found:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c45.\u00a0\u00a0In that regard, it should be noted that the internet is in fact of particular importance to freedom of expression and of information, safeguarded by Article 11 of the Charter, and that hyperlinks contribute to its sound operation as well as to the exchange of opinions and information in that network characterised by the availability of immense amounts of information.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "47.\u00a0\u00a0For the purposes of the individualised assessment of the existence of a \u2018communication to the public\u2019 within the meaning of Article 3(1) of Directive 2001/29, it is accordingly necessary, when the posting of a hyperlink to a work freely available on another website is carried out by a person who, in so doing, does not pursue a profit, to take account of the fact that that person does not know and cannot reasonably know, that that work had been published on the internet without the consent of the copyright holder.",
+                                "elements": []
+                            },
+                            {
+                                "content": "48.\u00a0\u00a0Indeed, such a person, by making that work available to the public by providing other internet users with direct access to it (see, to that effect, judgment of 13\u00a0February 2014, Svensson and Others, C\u2011466/12, EU:C:2014:76, paragraphs 18 to\u00a023) does not, as a general rule, intervene in full knowledge of the consequences of his conduct in order to give customers access to a work illegally posted on the internet. In addition, where the work in question was already available with unrestricted access on the website to which the hyperlink provides access, all internet users could, in principle, already have access to it even the absence of that intervention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "49.\u00a0\u00a0In contrast, where it is established that such a person knew or ought to have known that the hyperlink he posted provides access to a work illegally placed on the internet, for example owing to the fact that he was notified thereof by the copyright holders, it is necessary to consider that the provision of that link constitutes a \u2018communication to the public\u2019 within the meaning of Article 3(1) of Directive 2001/29.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0In judgment no. 1 BvR 1248/11 of 15 December 2011 the German Federal Constitutional Court pointed out that the provision of a link in an online article was protected under the German Basic Law. The discussion process necessary for the formation of opinion, protected by the Basic Law, included private and public information about third-party statements, and also therefore the purely technical distribution of such statements, regardless of any associated expression of opinion by the distributor itself. The Federal Constitutional Court stressed that by placing a hyperlink leading to another website, the person or organisation doing so did not automatically make the content of the website its own opinion. Lastly, it pointed out that the German Federal Court had correctly balanced the conflicting rights when it had found that the placing of the link did not further encroach on the rights of others (that is to say the claimant\u2019s copyright) since a website with the unlawful content could very easily be found via an Internet search engine anyway.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0In Crookes v. Newton (2011, SCC 47, [2011] 3.S.C.R. 269) the Supreme Court of Canada considered the issue of whether creating a hyperlink to defamatory material constituted publication of the defamatory statements. It held that a person could not defame someone merely by publishing a hyperlink to a third-party website or document containing defamatory material. It stated, in particular:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cHyperlinks are in essence references, which are fundamentally different from other acts of \u2018publication\u2019. Hyperlinks and references both communicate that something exists, but do not themselves communicate its content.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "A hyperlink, by itself should never be seen as \u2018publication\u2019 of the content to which it refers. ... Only when the person or organisation doing so presents content from the hyperlinked material in a way that actually repeats the defamatory content, should that content be considered to be \u2018published\u2019 by that person or organisation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "32.\u00a0\u00a0On 26 July 2012 the United States Court of Appeals for the Third Circuit held in Philadelphia Newspapers, LLC (No. 11-3257, 2012\u00a0U.S. App. LEXIS 15419 (3d Cir. July 26, 2012) (precedential)) \u201cthat providing a link on a website to an allegedly defamatory article [was] not republication for purposes of the single publication rule or the statute of limitations\u201d. Rather, the court found that the principles of traditional publication, according to which a mere reference to an article did not republish the material, as long as it did not restate the defamatory statement, were also applicable to Internet publication. It held that \u201c[t]aken together, though a link and reference m[ight] bring readers\u2019 attention to the existence of an article, they d[id] not republish the article\u201d.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "33.\u00a0\u00a0The applicant company complained that the rulings of the Hungarian courts establishing objective liability on the part of its Internet news portal for the content it had referred to via a hyperlink had amounted to an infringement of freedom of expression as provided in Article 10 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "34.\u00a0\u00a0The Government argued that the applicant company had failed to exhaust domestic remedies since it had not challenged the final judgment before the Constitutional Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The applicant company argued that it had exhausted all available remedies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0The Court notes that on 15 January 2018 the applicant company\u2019s representative submitted to it the Constitutional Court\u2019s decision of 19\u00a0December 2017 (no. 3002/2018.(I.10.)AB) (see paragraph 20 above). The Court is therefore satisfied that the applicant company has in fact demonstrated that it availed itself of the remedy alluded to by the Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0The Court accordingly concludes that the applicant company has complied with the obligation to exhaust domestic remedies and that the Government\u2019s objection must be dismissed. It also notes that the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0The applicant company argued that the interference with its freedom of expression had not been prescribed by law. It submitted that although Article\u00a078 \u00a7 2 of the Civil Code had established liability for dissemination of injurious falsehoods, there had been no legislation or case-law stating that hyperlinking was to be considered dissemination of information.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0In its view, the Hungarian courts\u2019 decisions had failed to account for the specific features of hyperlinks and had applied to its case the standards of more traditional forms of sharing actual content, which had not been reasonably foreseeable. It explained that hyperlinking in itself did not convey or communicate any information but merely pointed to its existence. Furthermore, the standard applied by the domestic courts would have entailed its liability even if the owner of the hyperlinked website had modified the web page to include defamatory material that had originally not been present.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The applicant company disputed that the protection of the reputation of a political party could serve as a legitimate aim for the interference. Relying on the Court\u2019s case-law, it maintained that the limits of acceptable public scrutiny were wider in relation to politicians, who had to have a greater degree of tolerance to criticism.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0In the applicant company\u2019s submission, the interference had not been necessary in a democratic society. It argued that the objective liability standard as applied by the domestic courts had excluded any balancing between the two protected values. Amongst other actions, by the application of the objective liability rule, the domestic courts had not been able to consider whether the applicant company had acted in good or bad faith or what the purpose of the dissemination had been.\u00a0In any event, the objective liability standard was incompatible with the Court\u2019s case-law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The applicant company argued that had the domestic courts undertaken a proper balancing exercise, they would have concluded that its right to freedom of expression should have prevailed over Jobbik\u2019s right to reputation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0Firstly, the hyperlink had appeared in a balanced news report on a matter of public interest. In its view, including the hyperlink in the article in question had been a technique of reporting that the press should remain free to opt for. Moreover, it had been established by the domestic courts that the journalist who had written the article including the hyperlink had acted in accordance with his professional obligations, among other things, by verifying the information available on YouTube. The applicant company also pointed out that Jobbik had had the option of bringing a claim against the author of the comments. Lastly, while providing access to the YouTube video through a hyperlink had not had a significant impact on Jobbik\u2019s reputation, the domestic court judgment finding the applicant company liable for third-party statements had had far-reaching implications for the press when producing online journalistic content. Concerning this latter aspect, the applicant company noted that given the chilling effect caused by automatic liability for defamation based on the use of hyperlinks, journalists and online news portals would refrain from including hyperlinks in their publications, restricting the cross-referential structure of the Internet and users\u2019 access to information.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Government conceded that there had been an interference with the applicant company\u2019s right to freedom of expression, albeit one prescribed by law and pursuing the legitimate aim of the protection of the rights of others. In their view, the authorities had also acted within their margin of appreciation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Firstly, under Article 75 \u00a7 1 and Article 78 \u00a7\u00a7 1 and 2 of the Civil Code, the statement or dissemination of an injurious falsehood concerning another person, or the presentation with untrue implications of a fact relating to another person, constituted defamation. Furthermore, the protection of the personality rights of others, that is to say the right to reputation, constituted a limit to the right to freedom of expression.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Government were of the opinion that the court judgments against the applicant company could have been avoided had the applicant company acted with due care and had it not published the hyperlink leading to the video recording. The statement by J.Gy. had been expressed in definite terms and could not be viewed as an expression of an opinion but rather as a statement of fact. It had not reflected objective reality and had been capable of negatively affecting society\u2019s opinion of the defendant, and irrespective of the applicant company\u2019s good or bad faith, the dissemination of the statement had infringed the political party\u2019s right to reputation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0The Government asserted that publishers of recordings should foresee that they would be held liable for content which they had failed to verify. Otherwise, serious human-rights violations could be committed without any sanctions. In their understanding, distribution of information meant transmitting or communicating information as thought which could infringe the rights of others even if the distributor did not agree with the content of the third-party statement or if he or she wrongfully relied on the veracity of the statement. Reiterating the arguments of the domestic courts, the Government emphasised that making unlawful content accessible in any way constituted distribution of information, for which the distributor should bear objective liability, irrespective of his or her good or bad faith or the seriousness of the infringement of others\u2019 rights. Furthermore, this standard did not entail a limitation of freedom of expression and did not impose an undue burden on publishers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Government also pointed out that the applicant company was a professionally operated for-profit Internet portal, which could easily have foreseen the legal consequences of making accessible the video-recording in question. It could reasonably have been expected to act with due care and could have removed the hyperlink without any difficulty.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0Thus, in the Government\u2019s opinion the domestic courts had struck a fair balance between the competing interests of the applicant company and the political party, regard being had in particular to the insignificant consequences of the final judgment for the applicant company in terms of paying the court fees and publishing the relevant parts of the judgment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0Article 19 argued that there was a fundamental difference between the use of a hyperlink to another web page and the publication of the content on the linked web page, since hyperlinks only referred readers to content that had already been published elsewhere. Without hyperlinks, most of the information on the Internet would be difficult or impossible to find and accessibility of information on the Internet would be reduced. Article 19 referred to comparative-law material concerning judicial decisions in Canada, the United Kingdom, Australia and the United States, in particular, showing that hyperlinks alone did not constitute publication but were merely reference tools, similar to footnotes, offering readers the possibility of pursuing further reading of separate publications. Another reason, in the intervener\u2019s opinion, to exclude liability for hyperlinking was that the linked content was liable to change over time without the person who used the hyperlink being made aware of it. Furthermore, in Article 19\u2019s submission, no liability should be imposed unless the person who used the hyperlink was aware that the linked content was unlawful and where the hyperlink was presented in such a way as to expressly endorse the linked content. Lastly the intervener emphasised that holding someone who used a hyperlink liable for third-party content would have the farreaching consequence that a wide range of groups could be penalised for the content of websites over which they had no control, resulting in a chilling effect limiting Internet users\u2019 access to information.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The European Publishers\u2019 Council, the Media Law Resource Center Inc., the Newspaper Association of America, BuzzFeed, Electronic Frontier Foundation, Index on Censorship, Professor Lorna Woods, Dr Richard Danbury and Dr Nicole Stremlau jointly submitted that hyperlinking had a number of public-interest benefits, including facilitating the journalistic process by enabling content to be delivered more swiftly and assisting journalists in reporting in a more concise and readily accessible manner, enabling readers to check for themselves the original sources of the journalistic content and thereby to verify the veracity of the publication. Hyperlinking also promoted diversity within the media and facilitated an informed public debate by allowing information and opinions to be more freely expressed and accessed. In the interveners\u2019 submission, the imposition of strict liability for hyperlinking had a chilling effect, since journalists were not in a position themselves to verify the legality of the content on any linked pages and as a consequence would rather refrain from this reporting technique in favour of a more traditional approach. They also pointed out that in practice hyperlinked content could itself be changed so that it ceased to be lawful by the entity which controlled the relevant web page, for which it would be unreasonable to hold the journalist responsible. The imposition of strict liability did not meet a pressing social need because anyone whose rights had been adversely affected by the placing of unlawful content online would be able to seek adequate protection by suing the person who had placed the unlawful content online and requesting that the injurious content be removed. The interveners accepted that there could be situations where a journalist\u2019s or journalistic organisation\u2019s liability arose, for example when they proclaimed specific unlawful content to be true or when they refused to remove a hyperlink to a web page which had been found by a court judgment to contain a substantial amount of illegal content.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0Access Now, the Collaboration on International ICT Policy in East and Southern Africa and European Digital Rights in their joint observations submitted that the design of the Internet was premised on the idea of free linking of information. They argued that hyperlinks were not in themselves intended to constitute editorial statements and did not necessarily imply, in particular, that one publication endorsed the other. Hyperlinks merely pointed to other pages or web resources, whose content, conversely, could change after the first hyperlink had been posted. In the interveners\u2019 submission, the imposition of an objective-liability standard was unworkable, requiring individual users to assume that any hyperlink they posted pointed to content they could verify.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0The Mozilla Foundation and Mozilla Corporation (collectively \u201cMozilla\u201d) argued that the sole purpose of hyperlinks was to allow readers to navigate to and from information. Hyperlinks were technical and automatic means for users to access information located elsewhere and could not be considered to amount to publication of that information. A restriction on the use of hyperlinks would undermine the very purpose of the World Wide Web to make items of information accessible by linking them to each other. The intervener expressed doubts as to how people would be able to convey information across the countless number of web pages in existence today if hyperlinking could give rise to liability. Without hyperlinks, publishers would have to provide alternative instructions for readers to find more information.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The European Information Society Institute submitted that hyperlinks were a primary tool of digital navigation: they allowed immediate access to other texts, unlike traditional citation. They also had an impact on social interactions, which could easily be repressed by restrictions on their use. Hyperlinks contributed to the development of new media, providing greater (a)\u00a0\u00a0interactivity between journalists and readers; (b)\u00a0\u00a0credibility, by giving context, facts and sources to support the information; (c)\u00a0\u00a0transparency, by allowing readers to trace back the reporting and news gathering process; and (d)\u00a0\u00a0critical reading, by allowing journalists and readers to compare contrasting sources. Hyperlinks allowed non-editorial decentralised speech that supplemented the watchdog role traditionally associated with the mainstream media. Applying strict liability rules for hyperlinking would inevitably lead to self-censorship.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The European Roma Rights Centre maintained that when minorities targeted by hate crimes or hate speech associated those acts with politicians or political parties, they engaged in expression for which Article\u00a010 of the Convention provided a high level of protection. In the intervening NGO\u2019s submission, it was a severe interference with the rights of Roma, especially having regard to the long-term exclusion faced by them, to be prohibited from expressing the link between racist speech and acts and the politicians or political parties they perceived as promoting an environment of racial hatred. Using defamation laws to prevent the Roma minority from articulating the racially motivated practices of political parties would only protect those political parties against the minority group. The intervener also argued that exposing online publishers to liability for the content of linked material would have a chilling effect and unduly burden civil society\u2019s and minorities\u2019 work against racism.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "56.\u00a0\u00a0The Court notes that it was not in dispute between the parties that the applicant company\u2019s freedom of expression guaranteed under Article 10 of the Convention had been interfered with by the domestic courts\u2019 decisions. The Court sees no reason to hold otherwise.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0Such an interference with the applicant company\u2019s right to freedom of expression must be \u201cprescribed by law\u201d, have one or more legitimate aims within the meaning of paragraph 2 of Article 10, and be \u201cnecessary in a democratic society\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0In the present case the parties\u2019 opinion differed as to whether the interference with the applicant company\u2019s freedom of expression had been \u201cprescribed by law\u201d. The applicant company argued that it had not been foreseeable under domestic law that the posting of a hyperlink would qualify as dissemination of untrue or defamatory information. The Government referred to Article 75 \u00a7 1 and Article 78 \u00a7\u00a7 1 and 2 of the Civil Code and argued that the applicant company had been liable for imparting and disseminating private opinions expressed by third parties.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0The Court reiterates that the expression \u201cprescribed by law\u201d in the second paragraph of Article 10 not only requires that the impugned measure should have a legal basis in domestic law, but also refers to the quality of the law in question, which should be accessible to the person concerned and foreseeable as to its effects. The level of precision required of domestic legislation \u2013 which cannot provide for every eventuality \u2013 depends to a considerable degree on the content of the law in question, the field it is designed to cover and the number and status of those to whom it is addressed. The Court has found that persons carrying on a professional activity, who are used to having to proceed with a high degree of caution when pursuing their occupation, can on this account be expected to take special care in assessing the risks that such activity entails (see Kar\u00e1csony and Others v. Hungary [GC], nos.\u00a042461/13 and 44357/13, \u00a7\u00a7\u00a012325, ECHR 2016 (extracts), and the cases cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0The Court observes that the domestic courts found that the posting of a hyperlink had amounted to the dissemination of defamatory statements and chose to apply Article 78 of the Civil Code. It also notes that there was neither explicit legal regulation nor case-law on the admissibility and limitations of hyperlinks.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0However, given its conclusion below about the necessity of the interference (see paragraph 84 below), it considers that it is not necessary to decide on the question whether the application of the relevant provisions of the Civil Code to the applicant company\u2019s situation was foreseeable for the purposes of Article\u00a010 \u00a7\u00a02 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The Government submitted that the interference had pursued the legitimate aim of protecting the rights of others. The Court accepts this.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The fundamental principles concerning the question of whether an interference with freedom of expression is \u201cnecessary in a democratic society\u201d are well established in the Court\u2019s case-law (see Delfi AS v. Estonia [GC], no. 64569/09, \u00a7 131, ECHR 2015, and the cases cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The Court reiterates that the safeguard afforded by Article\u00a010 to journalists in relation to reporting on issues of general interest is subject to the proviso that they are acting in good faith and on an accurate factual basis and provide \u201creliable and precise\u201d information in accordance with the ethics of journalism (see B\u00e9dat v. Switzerland [GC], no. 56925/08, \u00a7\u00a058, ECHR\u00a02016). In a world in which the individual is confronted with vast quantities of information circulated via traditional and electronic media and involving an ever-growing number of players, monitoring compliance with journalistic ethics takes on added importance (see Stoll v. Switzerland [GC], no. 69698/01, \u00a7 104, ECHR 2007V).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0When examining whether there is a need for an interference with freedom of expression in a democratic society in the interests of the \u201cprotection of the reputation or rights of others\u201d, the Court may be required to ascertain whether the domestic authorities have struck a fair balance when protecting two values guaranteed by the Convention which may come into conflict with each other in certain cases, namely on the one hand freedom of expression protected by Article 10, and on the other the right to respect for private life enshrined in Article 8 (see Axel Springer AG v.\u00a0Germany [GC], no. 39954/08, \u00a7 84, 7\u00a0February 2012, and Von Hannover v.\u00a0Germany (no. 2) [GC], nos. 40660/08 and 60641/08, \u00a7 106, ECHR 2012, and the cases cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0As regards the importance of Internet sites in the exercise of freedom of expression, the Court has found that in the light of its accessibility and its capacity to store and communicate vast amounts of information, the Internet has played an important role in enhancing the public\u2019s access to news and facilitating the dissemination of information in general (see Ahmet Y\u0131ld\u0131r\u0131m v.\u00a0Turkey, no. 3111/10, \u00a7 48, ECHR 2012). At the same time, the risk of harm posed by content and communications on the Internet to the exercise and enjoyment of human rights and freedoms, particularly the right to respect for private life, is certainly higher than that posed by the press (see Egill Einarsson v. Iceland, no. 24703/15, \u00a7 46, 7 November 2017). Because of the particular nature of the Internet, the \u201cduties and responsibilities\u201d of Internet news portals for the purposes of Article 10 may differ to some degree from those of a traditional publisher, as regards third-party content (see Delfi AS, cited above, \u00a7 113). Although Internet news portals are not publishers of third-party comments in the traditional sense, they can assume responsibility under certain circumstances for user-generated content (see Magyar Tartalomszolg\u00e1ltat\u00f3k Egyes\u00fclete and Index.hu Zrt v.\u00a0Hungary, no.\u00a022947/13, \u00a7 62, 2 February 2016).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0Concerning information society service providers (\u201cISSPs\u201d) which store information provided by a recipient of their services, the Court has indicated in respect of an Article 8 complaint that in line with the standards on international law, ISSPs should not be held responsible for content emanating from third parties unless they failed to act expeditiously in removing or disabling access to it once they became aware of its illegality (see Tamiz v. the United Kingdom (dec.), no. 3877/14, 19 September 2017).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0Lastly, the Court has held that the policies governing reproduction of material from the printed media and the Internet may differ. The latter undeniably have to be adjusted according to technology\u2019s specific features in order to secure the protection and promotion of the rights and freedoms concerned (see Editorial Board of Pravoye Delo and Shtekel v. Ukraine, no.\u00a033014/05, \u00a7 63, ECHR 2011 (extracts)). The absence of a sufficient legal framework at the domestic level allowing journalists to use information obtained from the Internet without fear of incurring sanctions seriously hinders the exercise of the vital function of the press as a \u201cpublic watchdog\u201d (ibid., \u00a7 64).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0The Court considers that the present case concerns the \u201cduties and responsibilities\u201d of an Internet news portal, for the purposes of Article 10 of the Convention, in the particular situation where in an online article it included a hyperlink leading to content, available on the Internet, which was later held to be defamatory. The domestic courts found that the posting of such a hyperlink automatically qualified as the publication of the defamatory statement, which finding entailed the objective liability of the journalist and the news portal run by the applicant company. The question before the Court is therefore whether the ensuing interference with the applicant company\u2019s rights under Article 10 of the Convention was, in the particular circumstances, based on relevant and sufficient reasons and consequently necessary in a democratic society.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0The Court observes that the Internet news portal in question is professionally run, publishes some seventy-five articles on a wide range of topics every day, and attracts a daily readership of about 250,000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0The Court notes that the practice of the domestic courts exempted publishers from civil liability for reproduction of statements made at press conferences, provided that they reported on a matter of public interest in an unbiased and objective manner, distinguished themselves from the source of the statement and gave an opportunity to the person concerned to comment on the statement (see paragraph 21 above). However, no such immunity existed for the dissemination of false or defamatory information falling outside the scope of press conferences, where the standard of objective liability applied, irrespective of the question of whether the author or publisher acted in good or bad faith and in compliance with their journalistic duties and obligations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The Court reiterates that it has previously noted with approval that the differentiation as regards thirdparty content between an Internet news portal operator and a traditional publisher was in line with the international instruments in this field, which manifested a certain development in favour of distinguishing between the legal principles regulating the activities of the traditional print and audiovisual media on the one hand and Internetbased media operations on the other (see Delfi AS, cited above, \u00a7\u00a7 112-13).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0Furthermore, bearing in mind the role of the Internet in enhancing the public\u2019s access to news and information, the Court points out that the very purpose of hyperlinks is, by directing to other pages and web resources, to allow Internet users to navigate to and from material in a network characterised by the availability of an immense amount of information. Hyperlinks contribute to the smooth operation of the Internet by making information accessible through linking it to each other.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0Hyperlinks, as a technique of reporting, are essentially different from traditional acts of publication in that, as a general rule, they merely direct users to content available elsewhere on the Internet. They do not present the linked statements to the audience or communicate its content, but only serve to call readers\u2019 attention to the existence of material on another website.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0A further distinguishing feature of hyperlinks, compared to acts of dissemination of information, is that the person referring to information through a hyperlink does not exercise control over the content of the website to which a hyperlink enables access, and which might be changed after the creation of the link \u2013 a natural exception being if the hyperlink points to content controlled by the same person. Additionally, the content behind the hyperlink has already been made available by the initial publisher on the website to which it leads, providing unrestricted access to the public.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0Consequently, given the particularities of hyperlinks, the Court cannot agree with the domestic courts\u2019 approach equating the mere posting of a hyperlink with the dissemination of defamatory information, automatically entailing liability for the content itself. Instead, it considers that the issue of whether the posting of a hyperlink may justifiably, from the perspective of Article 10, give rise to such liability requires an individual assessment in each case, regard being had to a number of elements.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0The Court identifies in particular the following aspects as relevant for its analysis of the liability of the applicant company as publisher of a hyperlink: (i) did the journalist endorse the impugned content; (ii) did the journalist repeat the impugned content (without endorsing it); (iii) did the journalist merely include a hyperlink to the impugned content (without endorsing or repeating it); (iv) did the journalist know or could he or she reasonably have known that the impugned content was defamatory or otherwise unlawful; (v) did the journalist act in good faith, respect the ethics of journalism and perform the due diligence expected in responsible journalism?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0In the present case the Court notes that the article in question simply mentioned that an interview conducted with J.Gy. was to be found on YouTube and provided a means to access it through a hyperlink, without further comments on, or repetition even of parts of, the linked interview itself. No mention was made of the political party at all.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0The Court observes that nowhere in the article did the author imply in any way that the statements accessible through the hyperlink were true or that he approved of the hyperlinked material or accepted responsibility for it. Neither did he use the hyperlink in a context that, in itself, conveyed a defamatory meaning. It can thus be concluded that the impugned article did not amount to an endorsement of the impugned content.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0In connection with the question of repetition, the Court reiterates that \u201cpunishment of a journalist for assisting in the dissemination of statements made by another person in an interview would seriously hamper the contribution of the press to discussion of matters of public interest and should not be envisaged unless there are particularly strong reasons for doing so\u201d (see Jersild v. Denmark, 23 September 1994, \u00a7 35, Series\u00a0A no.\u00a0298; Thoma v. Luxembourg, no. 38432/97, \u00a7 62, ECHR 2001III \u00a7 62; and Novaya Gazeta and Milashina v. Russia, no. 45083/06, \u00a7 71, 3\u00a0October 2017). A general requirement for journalists systematically and formally to distance themselves from the content of a quotation that might insult or provoke others or damage their reputation is not reconcilable with the press\u2019s role of providing information on current events, opinions and ideas (see Thoma, cited above \u00a7 64). With these principles in mind, the Court would not rule out the possibility that, in certain particular constellations of circumstances, even the mere repetition of a statement, for example in addition to a hyperlink, may potentially engage the question of liability. This could include situations where a journalist does not act in good faith in accordance with the ethics of journalism and with the diligence expected in responsible journalism dealing with a matter of public interest (see in this respect, for example, Novaya Gazeta and Milashina, cited above, \u00a7 72). However, this was not the case in the present application, where, as observed above, the article in question repeated none of the defamatory statements, and the publication was indeed limited to posting the hyperlink.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0As to whether the journalist and the applicant company knew or could reasonably have known that the hyperlink provided access to defamatory or otherwise unlawful content, the Court notes at the outset that the domestic courts, with the exception of the first-instance court, did not find this aspect relevant, and therefore did not examine it. The Court also considers that this issue must be determined in the light of the situation as it presented itself to the author at the material time, rather than with the benefit of hindsight on the basis of the findings of the domestic courts\u2019 judgments. At this juncture, the Court reiterates that an attack on personal honour and reputation must attain a certain level of seriousness and must have been carried out in a manner causing prejudice to the personal enjoyment of the right to respect for private life (see Delfi AS, cited above, \u00a7\u00a0137, and Axel Springer AG, cited above, \u00a7 83). Furthermore, the limits of acceptable criticism are wider as regards a politician \u2013 or a political party\u00a0\u2013 as such than as regards a private individual. Unlike private individuals, politicians and political parties inevitably and knowingly lay themselves open to close scrutiny of their every word and deed by both journalists and the public at large, and must consequently display a greater degree of tolerance (see Lindon,\u00a0Otchakovsky-Laurens and July v. France [GC], nos.\u00a021279/02 and\u00a036448/02, \u00a7 46, ECHR 2007IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0Relying on these principles, the Court considers that the journalist in the present case could reasonably have assumed that the content to which he provided access, although perhaps controversial, would remain within the realm of permissible criticism of political parties and, as such, would not be unlawful. Although the statements by J.Gy. were ultimately found to be defamatory because they implied, without a factual basis, that persons associated with Jobbik had committed acts of a racist nature, the Court is satisfied that such utterances could not be seen as clearly unlawful from the outset (contrast Delfi AS, cited above, \u00a7\u00a7 136 and 140).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0Furthermore, it must be noted that the relevant Hungarian law, as interpreted by the competent domestic courts, excluded any meaningful assessment of the applicant company\u2019s freedom-of-expression rights under Article 10 of the Convention, in a situation where restrictions would have required the utmost scrutiny, given the debate on a matter of general interest. Indeed, the courts held that the hyperlinking amounted to dissemination of information and imposed objective liability \u2013 a course of action that effectively precluded any balancing between the competing rights, that is to say, the right to reputation of the political party and the right to freedom of expression of the applicant company (see, mutatis mutandis, Magyar Tartalomszolg\u00e1ltat\u00f3k Egyes\u00fclete and Index.hu Zrt, cited above, \u00a7\u00a089). In the Court\u2019s view, such objective liability may have foreseeable negative consequences on the flow of information on the Internet, impelling article authors and publishers to refrain altogether from hyperlinking to material over whose changeable content they have no control. This may have, directly or indirectly, a chilling effect on freedom of expression on the Internet.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0Based on the above, the Court finds that the domestic courts\u2019 imposition of objective liability on the applicant company was not based on relevant and sufficient grounds. Therefore, the measure constituted a disproportionate restriction on its right to freedom of expression.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0Accordingly, there has been a violation of Article 10 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "86.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "87.\u00a0\u00a0The applicant company did not submit any claim in respect of non-pecuniary damage. However, it claimed 597.04 euros (EUR) in respect of pecuniary damage. This sum corresponded to the amount which the applicant company had been ordered to pay in respect of court fees and to the plaintiff political party in respect of the latter\u2019s legal costs in the domestic proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The Government contested this claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The Court accepts that there is a causal link between the violation found and the pecuniary damage alleged; it therefore awards the sum claimed in full.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "90.\u00a0\u00a0The applicant company also claimed EUR 1,792.20 for the costs and expenses incurred before the domestic courts, which comprised EUR\u00a01,451.91 for lawyers\u2019 fees amounting to 100 hours at an hourly rate of 16\u00a0United States dollars (USD), and EUR 340.29 for lawyers\u2019 fees amounting to fifteen hours at an hourly rate of USD 25. The applicant company also claimed EUR\u00a02,357.19 for costs and expenses incurred before the Court, which comprised EUR 2,060 for translation costs and EUR\u00a0297.19 for organisational costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The applicant company\u2019s total claim for costs and expenses came to EUR\u00a04,149.39.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The Government contested these claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 4,149.39 covering costs under all heads.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 10 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant company, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article\u00a045 \u00a7\u00a02 of the Convention and Rule\u00a074 \u00a7\u00a02 of the Rules of Court, the separate opinion of Judge Pinto\u00a0de Albuquerque is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0European human rights law has developed strongly in favour of including the Internet within the ambit of internationally protected human rights, particularly the rights to free expression and a free press, and has specifically indicated that imposing liability for third-party content published on the Internet can seriously affect these protected rights. The\u00a0new legal question posed by this case is whether a standard of objective liability for posting hyperlinks is compatible with these rights. The outcome of the present proceedings has implications for the everyday functioning of the Internet, given the importance of hyperlinks. The relevance of this case does not need to be further enhanced. This is the reason why, although in full agreement with the finding of a violation of Article 10 of the Convention, I would like to elaborate on the reasoning of the Court, in order to highlight its underlying principles as regards liability for the use of hyperlinks.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0It has been the position of the Court that \u201cthe policies governing reproduction of material from the printed media and the Internet may differ. The latter undeniably have to be adjusted according to the technology\u2019s specific features in order to secure the protection and promotion of the rights and freedoms concerned\u201d. The present judgment reaffirms this principle. But the Court goes a step further in the characterisation of the \u201cdistinguishing features\u201d of hyperlinks, stating that \u201c[h]yperlinks, as a technique of reporting, are essentially different from traditional acts of publication ...\u201d. Three convincing reasons are invoked for this conclusion.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Firstly, hyperlinking does not convey \u201cthe linked statements to the audience or communicate its content\u201d. Instead, it merely communicates the existence of such information. This is also the position of the German Federal Constitutional Court, the Canadian Supreme Court, in Crookes v.\u00a0Newton, and the United States Court of Appeals for the Third Circuit, in Philadelphia Newspapers, LLC, whose jurisprudence the Court cites and adopts. Accordingly, referencing via hyperlink \u201cby itself, is content-neutral \u2013 it expresses no opinion ...\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The design of the Internet with the evolution of the World Wide Web was premised on the idea of the free linking of information. Indeed, as Tim Berners-Lee indicated early on:",
+                        "elements": []
+                    },
+                    {
+                        "content": "Two system design principles are fundamental to the Web\u2019s structure and operational mode, which make freedom of expression possible:",
+                        "elements": []
+                    },
+                    {
+                        "content": "Berners-Lee\u2019s comments on the importance of the need for prolific, universal linking of information should guide the Court\u2019s assessment:",
+                        "elements": []
+                    },
+                    {
+                        "content": "Hyperlinks are the glue that holds the Web together in so far as they enable people to easily and quickly navigate to other web pages to retrieve, view, access and re-share information. Without hyperlinks, publishers would have to provide alternative instructions for readers to find more information. For most ordinary people, this would be difficult, if not impossible, to execute without a strong technological background.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The above-mentioned principles of universality and decentralisation, which are especially important to the field of journalism, are bolstered by the Court\u2019s view that domestic laws should allow \u201cjournalists to use information obtained from the Internet without fear of incurring sanctions\u201d. As a technique of reporting, hyperlinking facilitates and improves the journalistic process by enabling content to be delivered more swiftly to users and enabling journalists to convey information that is more readily accessible and digestible. It also promotes diversity and pluralism in the media, which is substantively in the public interest, since through hyperlinking large and small media organisations are able to work together in a mutually beneficial manner to provide enriched content to users. Typically, journalists and journalistic organisations are not in a position to reassure themselves as to the legality of the content on any linked pages. Even if it were assumed for the sake of argument that larger media organisations may to a certain extent be able to weather the legal risks attendant on hyperlinking, it is plainly the case that smaller journalistic organisations, with far more limited resources, would have no choice but to abandon hyperlinking.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Secondly, as also stressed by the Canadian Supreme Court, inserting a hyperlink gives the author \u201cno control over the content in the secondary article to which he or she has linked\u201d. The content of the destination can change, even radically so, from the point in time when the hyperlink is first posted, without the hyperlinker having any control over it. This line of argument is shared by the Court\u2019s reasoning, which nevertheless introduces a caveat: the \u201cnatural exception being if the hyperlink points to content controlled by the same person\u201d. In that case, however, liability is not vicarious. Furthermore, hyperlinking can often involve limited or no human editorial action, since most modern Web publication services, content management systems and social media applications include tools which enable automated or otherwise machine-assisted hyperlinking.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Thirdly, the Court adds that \u201cthe content behind the hyperlink has already been made available by the initial publisher on the website to which it leads, providing unrestricted access to the public\u201d. In so far as a hyperlink is a mere reference to already existing content, it does not create new content. Since the hyperlink is normally far removed from the actual content, a user facing a hyperlink is free to decide whether or not to move to the next website. If the user does not make the independent choice to follow the link, the content will never be displayed to him or her. This freedom of choice is crucial for media users. Hyperlinking enables users more readily to access and check for themselves the original sources of the journalistic content and to have a large measure of control over how they consume the content: they can either go no further than the journalistic content proffered to them or they can selectively look behind that content as they see fit. Hence, hyperlinking empowers the user in a manner that strongly serves the public interest.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0In view of these distinguishing features, the Court refers, in general terms, to the relevant criteria for assessing the liability of natural and legal persons for the use of hyperlinks. The criteria are the following:",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0The first thing to be noted is that the Court sets out to describe exhaustively the objective and subjective criteria for assessing all possible scenarios involving the use of hyperlinks by journalists. Although the Court considers hyperlinks \u201cessentially different from traditional acts of publication\u201d, it refers to criteria applicable to traditional acts of publication, like the print media, in order to deal also with those scenarios in which the use of hyperlinks equates to acts of publication.",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0As a matter of fact, the Court identifies three types of conduct (actus reus) on the part of journalists using hyperlinks: hyperlinks with endorsement of the content to which they lead, hyperlinks with repetition of the content to which they lead, and mere hyperlinking without any endorsement or repetition of the linked content. These different factual situations call for different liability principles.",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0In addition, the Court refers to three types of subjective standard (mens rea): good faith, knowledge that the content to which the hyperlink makes reference is defamatory or otherwise unlawful, and constructive knowledge that it could be so. It is important to underscore that for the Court, as a matter of principle, liability for the use of hyperlinks is always subjective, even in the case of corporate liability. Moreover, the mens rea of the journalist must be determined \u201cin the light of the situation as it presented itself to the author at the material time, rather than with the benefit of hindsight on the basis of the findings of the domestic courts\u2019 judgments\u201d. This means that the journalist\u2019s knowledge of the defamatory or otherwise unlawful nature of the content to which the hyperlink leads cannot be assessed according to the findings of the domestic courts delivered after the material time. I will return to this point below.",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0In order to impute liability to a journalist who uses hyperlinks it does not suffice to prove positive and actual knowledge (\u201cDid the journalist know ...?\u201d) of the unlawfulness of the content to which the hyperlink leads; there must be proof of bad faith on the part of the journalist. The Court\u2019s mentioning of the general clause of \u201cgood faith\u201d (\u201cDid the journalist act in good faith ...?\u201d) encapsulates an additional ground for exculpation with regard to respect for the ethics of journalism and the performance of the due diligence expected in responsible journalism. As a subjective requirement for liability, bad faith is the obverse of the exculpatory clause of \u201cgood faith\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0In view of the above, neither the mere use of a hyperlink nor the repetition of its content can be understood as a tacit expression of approval, adoption, ratification, promotion or condoning of the content to which it leads. In order to impute liability, be it civil or criminal, there must be concrete evidence of endorsement by the journalist, who knowingly assumed the unlawful content as his or her own by means of explicit and unequivocal language. This endorsement corresponds to the publication or dissemination of the defamatory or otherwise unlawful content, which is equated to traditional forms of publication. When such endorsement is the expression of bad faith on the part of the journalist, the use of the hyperlink entails his or her liability, as well as that of his or her media company.",
+                        "elements": []
+                    },
+                    {
+                        "content": "14.\u00a0\u00a0The repetition by a journalist of defamatory or otherwise unlawful content, accompanied by a hyperlink to the source of the content, is also equated to traditional forms of publication. Where the journalist acted in good faith and in accordance with professional ethics and the due diligence expected in responsible journalism, such repetition does not make him or her liable for that content. By contrast, where the journalist acted in bad faith, breached professional ethics and did not perform the aforementioned due diligence, he or she is liable for the defamatory or otherwise unlawful content. This means that the obligations incumbent on a journalist who posts the hyperlink are obligations of means and not of result.",
+                        "elements": []
+                    },
+                    {
+                        "content": "15.\u00a0\u00a0All defences available to primary publishers should be available to the creators of the hyperlink if they are subject to liability in respect of linked content. The logic underlying equal treatment is that, as the United Nations Human Rights Council states, \u201cthe same rights that people have offline must also be protected online\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "16.\u00a0\u00a0In cases where the journalist repeats the content to which the hyperlink leads, the Court does not impose an obligation for the journalist to distance him or herself formally from that content. The same applies a fortiori where the journalist simply creates the hyperlink without endorsing or repeating the content to which it leads.",
+                        "elements": []
+                    },
+                    {
+                        "content": "17.\u00a0\u00a0The simple use of a hyperlink, without endorsing or even repeating the unlawful content to which it leads, is not equated to traditional forms of publication. Hyperlinking in this case does not make the journalist liable for that content, save in the very exceptional circumstance of non-compliance with a binding judicial decision. In this specific situation of noncompliance with a domestic court order declaring such content unlawful and prohibiting its use, the journalist can be said to have deliberately contravened the ethics of responsible journalism and acted in bad faith.",
+                        "elements": []
+                    },
+                    {
+                        "content": "18.\u00a0\u00a0The Court accepts that in exceptional cases there may also be liability in a situation of constructive knowledge (\u201ccould reasonably have known\u201d). For the assessment of constructive knowledge, the Court uses the due diligence obligations of responsible journalism which are based on the rules of ethics of journalism. It can be said that a journalist could reasonably have known of the defamatory or otherwise unlawful content of the hyperlinked message where he or she did not respect the ethics of journalism and did not comply with the due diligence obligations of responsible journalism. Any lower subjective standard for liability would inevitably lead to self-censorship.",
+                        "elements": []
+                    },
+                    {
+                        "content": "19.\u00a0\u00a0Finally, liability must be assessed by reference to the specific facts of the case rather than on a strict, blanket basis. Any regime of objective or strict liability for the use of hyperlinks is per se contrary to the abovementioned Convention principles. It could result in an infinite regress of liability whereby authors could be held liable for content on websites that may be accessed through a sequence of hyperlinks beginning with the author\u2019s website. This is not a merely hypothetical scenario, as this case shows.",
+                        "elements": []
+                    },
+                    {
+                        "content": "20.\u00a0\u00a0On the basis of the above-mentioned objective and subjective criteria, the Court\u2019s principles regarding liability for the use of hyperlinks can be summed up as follows:",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 1: Where a journalist endorses, by means of explicit and unequivocal language, or repeats defamatory or otherwise unlawful content to which the hyperlink leads, the use of the hyperlink is equated to traditional forms of publication.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 2: Liability should be imposed only where a journalist knows (actual and positive knowledge) that the content to which the hyperlink leads is unlawful, and acts with bad faith. Exceptionally, liability may also be imposed where the journalist could reasonably have known (constructive knowledge) that the content was unlawful, in the light of professional ethics and the due diligence obligations of responsible journalism.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 3: Where a journalist uses a hyperlink and does not endorse or repeat the defamatory or otherwise unlawful content to which it leads, the use of the hyperlink is not equated to traditional forms of publication and does not entail liability, save in the case of non-compliance with a court order declaring such content unlawful and prohibiting its use.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 4: All defences available to primary publishers should be available to the journalist if he or she is subject to liability in respect of linked content. The journalist does not have an obligation to distance him or herself from the defamatory or otherwise unlawful content to which the hyperlink leads.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 5: The above-mentioned Convention principles require an individual assessment in each case, in the light of the situation as it presented itself to the author at the material time, rather than with the benefit of hindsight on the basis of the findings of the domestic courts\u2019 judgments.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 6: Any regime of objective or strict liability for the use of hyperlinks is per se contrary to the above-mentioned Convention principles.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Principle 7: These principles apply both to natural persons (the journalists) and legal persons (the media companies).",
+                        "elements": []
+                    },
+                    {
+                        "content": "21.\u00a0\u00a0The Hungarian courts held the applicant company liable for defamation for \u201cdissemination\u201d of false statements regarding Jobbik under Article 78 \u00a7 2 of the Civil Code. Article 78 \u00a7 2 defines defamation as \u201cthe statement or dissemination of an injurious and untrue fact concerning another person, or the presentation with untrue implications of a true fact relating to another person\u201d. The domestic courts did not find the applicant company liable for the article on the Kony\u00e1r incident, but specifically for the fact that the journalist Mr Horv\u00e1th had used a technique of hyperlinking to a video already available online. Oddly enough, the domestic courts\u2019 removal order targeted the hyperlink, but not the other references to the existence of the video in the article.",
+                        "elements": []
+                    },
+                    {
+                        "content": "22.\u00a0\u00a0The applicant company claimed that it could not have foreseen that the Hungarian courts would consider hyperlinking to constitute dissemination. Accordingly, the applicant company could not have foreseen that, by including the hyperlink in the article, it would be found liable for defamation and ordered to remove the hyperlink, publish excerpts of the judgment and pay legal costs. The Government conceded that there had been interference with the applicant company\u2019s freedom of expression, but argued that this interference had been lawful and proportionate in the light of the prevailing doctrine of objective liability in this field of law in Hungary.",
+                        "elements": []
+                    },
+                    {
+                        "content": "23.\u00a0\u00a0By equating hyperlinking to \u201cdissemination\u201d in four consecutive instances, the Hungarian courts disregarded the fundamental distinction between content and communicating the existence of content (hyperlinking). The application of objective liability to any form of hyperlinking precluded the balancing of interests required under the Court\u2019s case-law and the individual assessment of the applicant company\u2019s situation, and resulted in truly draconian interference with the applicant company\u2019s Article 10 rights. This criticism of the Hungarian courts is not new. In another case, the Hungarian courts\u2019 application of an objective liability interpretation of Article 78 of the Civil Code was already found to be incompatible with the Convention. In the present case, the Court reiterates this finding with regard to hyperlinks.",
+                        "elements": []
+                    },
+                    {
+                        "content": "24.\u00a0\u00a0As a matter of law, the domestic courts failed to consider that the journalist simply posted the link in his article, without endorsing or even repeating the content to which the hyperlink led, and that the content referred to (namely Mr Gy\u00f6ngy\u00f6si\u2019s comments on the Kony\u00e1r incident) had not been declared unlawful and had its use prohibited by any court decision prior to the creation of the link. Furthermore, the domestic courts also disregarded the fact that the content in question appeared in the context of a news report on a matter of public interest, as it related to threats against Roma schoolchildren and could be perceived as statements made within the \u201cpermissible criticism of political parties\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "25.\u00a0\u00a0Worse still, this case highlights how objective liability for hyperlinking may lead to an infinite regress of liability. In fact, the domestic courts held a website (hvg.hu) liable for hyperlinking to the article on the applicant company\u2019s website because that article itself included a hyperlink to the allegedly defamatory video.",
+                        "elements": []
+                    },
+                    {
+                        "content": "26.\u00a0\u00a0In sum, the Web is not intended, as a technology, to function in the way the respondent Government states, where spreading information via a hyperlink is itself always a \u201cthought-content\u201d. This approach begs the question of how people are to convey information across the estimated trillions of web pages in existence today and countless future pages if doing so can give rise to liability. It is too burdensome, and in many cases impossible, for people to make a legal determination as to whether each and every hyperlinked content is defamatory or otherwise unlawful. If such a burden were to be imposed automatically on journalists, by way of an objective liability regime, it would stifle the freedom of the press. To paraphrase the words of Berners-Lee, hyperlinks are critical not merely to the digital revolution but to our continued prosperity \u2013 and even our liberty. Like democracy itself, they need defending. It is indeed remarkable that, by finding a violation of Article 10 of the Convention, the present judgment has done just that.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Ganna Yudkivska",
+            "role": "president"
+        },
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "judges"
+        },
+        {
+            "name": "Faris Vehabovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "judges"
+        },
+        {
+            "name": "Carlo Ranzoni",
+            "role": "judges"
+        },
+        {
+            "name": "Marko Bo\u0161njak",
+            "role": "judges"
+        },
+        {
+            "name": "P\u00e9ter Paczolay",
+            "role": "judges"
+        },
+        {
+            "name": "Andrea Tamietti",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MAGYAR JETI ZRT v. HUNGARY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-187930.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:1204JUD001125716",
+    "externalsources": [],
+    "extractedappno": [
+        "11257/16",
+        "33014/05",
+        "160/15",
+        "2001/29",
+        "466/12",
+        "1248/11",
+        "42461/13",
+        "44357/13",
+        "64569/09",
+        "56925/08",
+        "69698/01",
+        "39954/08",
+        "40660/08",
+        "60641/08",
+        "3111/10",
+        "24703/15",
+        "22947/13",
+        "3877/14",
+        "38432/97",
+        "45083/06",
+        "21279/02",
+        "36448/02",
+        "16354/06",
+        "191/08",
+        "40397/12",
+        "34147/06"
+    ],
+    "importance": "1",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-187930",
+    "judgementdate": "04/12/2018 00:00:00",
+    "kpdate": "04/12/2018 00:00:00",
+    "kpthesaurus": [
+        "451",
+        "429",
+        "149",
+        "148",
+        "265",
+        "579",
+        "379",
+        "216",
+        "577",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "7",
+    "paragraphs": [
+        "10-2",
+        "8",
+        "8-1",
+        "10",
+        "10-1",
+        "41"
+    ],
+    "parties": [
+        "MAGYAR JETI ZRT",
+        "HUNGARY"
+    ],
+    "rank": "2861.42626953125",
+    "representedby": [
+        "VERMEER V."
+    ],
+    "respondent": "HUN",
+    "respondentOrderEng": "20",
+    "scl": [
+        "Ahmet Y\u0131ld\u0131r\u0131m v. Turkey, no. 3111/10, \u00a7 48, ECHR 2012",
+        "Axel Springer AG v. Germany [GC], no. 39954/08, 7 February 2012",
+        "B\u00e9dat v. Switzerland [GC], no. 56925/08, \u00a7 58, ECHR 2016",
+        "Delfi AS v. Estonia [GC], no. 64569/09, ECHR 2015",
+        "Editorial Board of Pravoye Delo and Shtekel v. Ukraine, no. 33014/05, \u00a7 63, ECHR 2011 (extracts)",
+        "Egill Einarsson v. Iceland, no. 24703/15, \u00a7 46, 7 November 2017",
+        "Jersild v. Denmark, 23 September 1994, \u00a7 35, Series A no. 298",
+        "Kar\u00e1csony and Others v. Hungary [GC], nos. 42461/13 and 44357/13, \u00a7\u00a7 123 125, ECHR 2016 (extracts)",
+        "Lindon, Otchakovsky-Laurens and July v. France [GC], nos. 21279/02 and 36448/02, \u00a7 46, ECHR 2007 IV",
+        "Magyar Tartalomszolg\u00e1ltat\u00f3k Egyes\u00fclete and Index.hu Zrt v. Hungary, no. 22947/13, 2 February 2016",
+        "Novaya Gazeta and Milashina v. Russia, no. 45083/06, 3 October 2017",
+        "Stoll v. Switzerland [GC], no. 69698/01, \u00a7 104, ECHR 2007 V",
+        "Tamiz v. the United Kingdom (dec.), no. 3877/14, 19 September 2017",
+        "Thoma v. Luxembourg, no. 38432/97, ECHR 2001 III \u00a7 62",
+        "Von Hannover v. Germany (no. 2) [GC], nos. 40660/08 and 60641/08, \u00a7 106, ECHR 2012"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "483375",
+    "typedescription": "15"
+}

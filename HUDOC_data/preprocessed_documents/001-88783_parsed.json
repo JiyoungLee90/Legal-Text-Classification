@@ -1,0 +1,915 @@
+{
+    "__articles": "2;3;5;13;13+2;13+3",
+    "__conclusion": "Violation of Article 2 - Right to life (Substantive aspect);Violation of Article 2 - Right to life (Procedural aspect);No violation of Article 3 - Prohibition of torture (Substantive aspect);Violation of Article 3 - Prohibition of torture (Procedural aspect);Violation of Article 5 - Right to liberty and security;Violation of Article 13+2 - Right to an effective remedy (Article 2 - Right to life);No violation of Article 13+3 - Right to an effective remedy (Article 3 - Prohibition of torture)",
+    "applicability": "",
+    "appno": "22057/02",
+    "article": [
+        "13",
+        "3",
+        "2",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Procedural aspect"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Substantive aspect"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Procedural aspect"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2 - Right to life"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 2 - Right to life"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Prohibition of torture"
+            ],
+            "element": "No violation of Article 13+3 - Right to an effective remedy",
+            "type": "no-violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 3 - Prohibition of torture"
+            ],
+            "element": "No violation of Article 13+3 - Right to an effective remedy",
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-88783.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 22057/02) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Russian nationals, Mrs Roza Magomedovna Yusupova and Mr Ayndi Abdulkhasimovich Zaurbekov (\u201cthe applicants\u201d), on 1 November 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants, who had been granted legal aid, were represented by lawyers of the Stichting Russian Justice Initiative, an NGO based in the Netherlands with a representative office in . The Russian Government (\u201cthe Government\u201d) were represented by Mr P. Laptev and Ms\u00a0V. Milinchuk, former Representatives of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged that their relative had disappeared at the hands of the authorities. They complained that there had been no adequate investigation into the matter, and that they had endured mental suffering on account of these events and the lack of effective remedies in respect of those violations. They relied on Articles 2, 3, 5 and 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 29 August 2004 the President of the First Section decided to grant priority to the application under Rule 41 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0By a decision of 3 May 2007, the Court declared the application partly admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0The applicants and the Government each filed further written observations (Rule 59 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "7.\u00a0\u00a0The applicants were born in 1958 and 1983 respectively and live in Grozny, the .",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The facts",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0The first applicant was married to Abdulkasim Zaurbekov, born in 1951. They had four sons \u2013 Arbi, born in 1978, Alavdi, born in 1982, Ayndi, born in 1983 (the second applicant), and Magomed-Salakh, born in 1995, and lived in .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Disappearance of Abdulkasim Zaurbekov",
+                                        "elements": [
+                                            {
+                                                "content": "9.\u00a0\u00a0Between 15 August and 16 October 2000 Abdulkasim Zaurbekov worked as a crane operator at the Temporary Office of the Interior of the Oktyabrskiy District of Grozny (\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u043e\u0442\u0434\u0435\u043b \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0434\u0435\u043b \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u0433. \u0413\u0440\u043e\u0437\u043d\u043e\u0433\u043e, \u201cthe Oktyabrskiy VOVD\u201d) under a short term employment contract.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "10.\u00a0\u00a0On 16 October 2000 the Oktyabrskiy VOVD informed Mr\u00a0Zaurbekov that his contract could not be extended due to lack of funds and invited him to collect his salary the next day.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "11.\u00a0\u00a0On 17 October 2000 around 11 a.m. Abdulkasim Zaurbekov and the second applicant arrived at the Oktyabrskiy VOVD. The former entered the premises of the VOVD to get his wages, while the latter waited in the car in front of a security barrier 200\u00a0\u2013\u00a0300 metres from the main entrance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "12.\u00a0\u00a0After having waited for a while, the second applicant enquired twice about his father with the officers at the barrier, who told him to wait. Around 7 p.m., when it got dark, the second applicant again enquired about his father and the police officers responded that there were \u201cno civilians left\u201d on the premises of the VOVD. The second applicant then returned home.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0The applicants have had no news of Abdulkasim Zaurbekov since.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The applicants\u2019 search for Abdulkasim Zaurbekov",
+                                        "elements": [
+                                            {
+                                                "content": "14.\u00a0\u00a0Since 18 October 2000 the applicants have repeatedly applied in person and in writing to various public bodies, including the Oktyabrskiy VOVD, district and city military commander\u2019s offices, prosecutors at various levels, special police units in Chechnya (\u043e\u0442\u0440\u044f\u0434\u044b \u043c\u0438\u043b\u0438\u0446\u0438\u0438 \u043e\u0441\u043e\u0431\u043e\u0433\u043e \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f), the Chechen Department of the Federal Security Service (\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u043e \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u044b \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438, \u201cthe Chechen Department of the FSB\u201d), local and regional administrative authorities and the Special Envoy of the Russian President for Rights and Freedoms in the Chechen Republic (\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0420\u0424 \u043f\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044e \u043f\u0440\u0430\u0432 \u0438 \u0441\u0432\u043e\u0431\u043e\u0434 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d\u0430 \u0432 \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435). In their letters to the authorities the applicants referred to the facts of their relative\u2019s disappearance and asked for assistance and details of an investigation. Most of these enquiries remained unanswered, save for formal responses by which the applicants\u2019 requests were forwarded to various prosecutor\u2019s offices.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0On 18 October 2000, in the morning, the applicants and other relatives visited the Oktyabrskiy VOVD and enquired about Abdulkasim Zaurbekov. The first applicant\u2019s sister-in-law and another relative were admitted onto the premises of the VOVD and talked to Mr S., the Head of the Oktyabrskiy VOVD. The latter said that he was unaware of Abdulkasim Zaurbekov\u2019s whereabouts, that there had been no grounds for his detention and that there was no such person among the detainees kept in the Oktyabrskiy VOVD. He added that Abdulkasim Zaurbekov had left the premises of the VOVD after he had received his salary.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0The first applicant\u2019s sister-in-law also managed to look through an attendance register (\u0436\u0443\u0440\u043d\u0430\u043b \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439) in which she found an entry to the effect that Abdulkasim Zaurbekov had entered the building at 11.20 a.m. on 17 October 2000. There was no entry confirming that Abdulkasim Zaurbekov had ever left the Oktyabrskiy VOVD.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0During the first week after Abdulkasim Zaurbekov\u2019s disappearance the first applicant talked to several people who had allegedly seen her husband on the premises of the Oktyabrskiy VOVD on 17 October 2000. In particular, the first applicant met a police officer Nikolay, who told her that Abdulkasim Zaurbekov had assisted him in repair work that day and had then gone to the accounting office to receive his salary, having promised to come back, but had never returned. The first applicant also talked to two workers who told her that they had been engaged in repair work on the VOVD premises on 17 October 2000 and had seen Abdulkasim Zaurbekov enter the VOVD between 12 noon and 1 p.m., but had not seen him leave.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0The first applicant talked to a representative of the military prosecutor of the  who promised to find out whether her husband was being held at the military base of Khankala. A few days later the representative informed the first applicant that he had only been able to search for her spouse at the military units, and Abdulkasim Zaurbekov was not detained there. The official further stated that he had had no access to other branches of the armed forces and therefore had been unable to check at the Main Intelligence Department (\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0435\u0434\u044b\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435), or the locations of a special fast deployment team (\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0440\u044f\u0434 \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0440\u0435\u0430\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f) and a special police unit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0According to the first applicant, while searching for her husband she had found out that a number of persons had been ill-treated by officers of the Oktyabrskiy VOVD or had disappeared after having been detained there.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Official investigation into Abdulkasim Zaurbekov\u2019s disappearance",
+                                        "elements": [
+                                            {
+                                                "content": "20.\u00a0\u00a0On 20 October 2000 the Oktyabrskiy VOVD commenced an inquiry into Abdulkasim Zaurbekov\u2019s disappearance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0On 28 October 2000 the Oktyabrskiy VOVD decided to dispense with criminal proceedings in the absence of evidence that any crime had been committed against Abdulkasim Zaurbekov.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0On 8 November 2000 the  prosecutor\u2019s office (\u043f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u0433. \u0413\u0440\u043e\u0437\u043d\u043e\u0433\u043e) quashed the above decision and opened criminal case no.\u00a012260. In January 2002 the first applicant found out that this criminal case had been instituted in connection with her husband\u2019s murder.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0According to the applicants, after the investigation had been opened the first applicant had regularly visited the  prosecutor\u2019s office to enquire about the measures taken. In the applicants\u2019 submission, Mr B., the Prosecutor of Grozny, and Mr L., the investigator in charge, had told the first applicant to stay at home, as they themselves would visit her there. They had also promised to bring police dogs to search for her husband, but had never done so. In reply to the first applicant\u2019s request to have certain VOVD officers questioned before they left for their permanent place of residence in another region of Russia, Mr L. had answered that it would be easier to interrogate the officers there.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 12 November 2000, after their secondment had finished, Mr B. and Mr L. left  for their permanent place of residence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0By letters of 11 and 18 November 2000 the prosecutor\u2019s office of the  Republic (\u043f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u043e\u0439 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438,) referred the first applicant\u2019s applications to the  prosecutor\u2019s office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0On 5 December 2000 the Chechen Department of the FSB informed the first applicant that their officers had not detained her husband and had no information about his whereabouts. The first applicant\u2019s application had been transmitted to the  prosecutor\u2019s office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0At some point in December 2000 the first applicant received information to the effect that her husband had been kept at the military base of Khankala. According to the first applicant, in response to her request to verify this information, Mr Sh., the then investigator in charge, stated that he was \u201cafraid of going to Khankala\u201d, as he himself \u201cmight disappear there\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On an unspecified date in November\u00a0\u2013\u00a0December 2000 another investigator of the Oktyabrskiy VOVD, Mr Lap., told the first applicant that according to the information he had, Abdulkasim Zaurbekov was dead. He refused to provide any further explanation however.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On 24 January 2001 the Administration of the  referred the first applicant\u2019s application to the military prosecutor of military unit 20102 (\u0432\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u2013 \u0432\u043e\u0439\u0441\u043a\u043e\u0432\u0430\u044f \u0447\u0430\u0441\u0442\u044c 20102).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0By a decision of 15 February 2001 the first applicant was declared a victim in criminal case no. 12260. The applicant submitted a copy of this decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0On 15 July 2002 criminal case no. 12260 was joined with three other cases opened in connection with the disappearance of residents of  at various times in 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0In a letter of 30 June 2003 the prosecutor\u2019s office of the Chechen Republic informed the first applicant that the criminal investigation into the murder of their relative had been instituted under Article 105 \u00a7 1 of the Russian Criminal Code, as \u201cthere [was] no such criminal offence as \u2018disappearance\u2019 in the Russian Criminal Code\u201d and therefore criminal cases in connection with disappearances were, as a general rule, opened under the said Article.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0In the applicants\u2019 submission, the investigation into their relative\u2019s disappearance had been discontinued and resumed on several occasions. The respective decisions had never been served on any of them, and they had only been notified of them when the first applicant visited the  prosecutor\u2019s office. According to the first applicant, in breach of superior prosecutors\u2019 orders the investigating body had never interrogated the officers in charge of the Oktyabrskiy VOVD.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0Referring to the information provided by the Prosecutor General\u2019s Office, the Government submitted that, on 8 November 2000, criminal proceedings under Article 105 \u00a7 1 of the Russian Criminal Code (murder) had been instituted in connection with Abdulkasim Zaurbekov\u2019s disappearance. The preliminary investigation in this case had been suspended due to a failure to establish those responsible on 8 January, 29\u00a0February, 28 April, 9 November and 19 December 2001, 30 January and 11 October 2002, 15 April, 23 May, 4 August, 22 October and 25 December 2003, 27 November 2004 and 8 September 2005, and then resumed on 29\u00a0January, 28 March, 9 October, 19 November and 30 December 2001, 11\u00a0July and 15 November 2002, 28 April, 30 July, 22 September and 25\u00a0November 2003, 15 October 2004, 12 July and 20 September 2005 respectively. On the latest occasion the investigation had been stayed on 30\u00a0November 2005 and then resumed on 9 July 2007. According to the Government, the case was now being investigated by the  prosecutor\u2019s office under the supervision of the Prosecutor General\u2019s Office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Government further submitted that the first applicant had been questioned on 20 November 2000, 15 February and 13 October 2001. According to them, there was no evidence in the transcripts of the first applicant\u2019s interview that she had ever made statements to the effect that her husband had been kept at the military base in Khankala. They further submitted that the first applicant had been granted the status of victim on 15\u00a0February 2001. The authorities had also questioned the second applicant on 29 November 2000 and his sister on an unspecified date.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0In the Government\u2019s submission, in the period between 2002 and 2005 the authorities had questioned over 80 officers of the law-enforcement agencies of the Khanty-Mansiysk Region who at the relevant time had been serving at the Oktyabrskiy VOVD. The Government disclosed the names of some of the witnesses and indicated some of the dates on which witness statements had been obtained, but did not produce copies of transcripts of witness interviews. According to the Government, the officers had been shown Abdulkasim Zaurbekov\u2019s photograph for identification. They had stated that the applicants\u2019 relative had never been held in the temporary isolation unit of the Oktyabrskiy VOVD. Officer S., who at the material time had been the acting head of the Oktyabrskiy VOVD, had made positive reference to the applicants\u2019 relative and stated that during the search the investigators had obtained information to the effect that Abdulkasim Zaurbekov could have been killed by members of illegal armed groups for refusing to collaborate with them. Officer B. had stated that on the day of Abdulkasim Zaurbekov\u2019s disappearance he had seen the latter walking outside the territory of the Oktyabrskiy VOVD in the direction of a local market. The Government also submitted that the investigating authorities had twice questioned officer D., who had taken the decision of 28 October 2000 to dispense with criminal proceedings in connection with Abdulkasim Zaurbekov\u2019s disappearance (see paragraph 21 above), but did not specify which statements officer D. had made.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0According to the Government, the investigating authorities had also seized and examined documents from the Oktyabrskiy VOVD pertaining to the relevant period, in particular financial documents concerning payments by the Oktyabrskiy VOVD to Abdulkasim Zaurbekov, and registers of persons held in its temporary isolation unit in September \u2013 October 2000. The Government did not submit copies of these documents or apprise the Court of their contents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0In the Government\u2019s submission, the investigating authorities had also sent a number of queries to the law-enforcement agencies of the various regions of . They had obtained information to the effect that no criminal proceedings had ever been brought, nor had any special measures ever been taken, against Abdulkasim Zaurbekov and that he had never been arrested or detained by any of them. The authorities had also taken a number of steps aiming at establishing Abdulkasim Zaurbekov\u2019s whereabouts.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s requests for the investigation file",
+                                "elements": [
+                                    {
+                                        "content": "39.\u00a0\u00a0In April 2005, when the application was communicated to them, the Government were invited to produce a copy of the investigation file in criminal case no.\u00a012260 opened in connection with the disappearance of the applicants\u2019 relative. Relying on information obtained from the Prosecutor General\u2019s Office, the Government replied that the investigation was in progress and that the disclosure of the documents would be in violation of Article 161 of the Code of Criminal Procedure since the file contained information of a military nature and personal data concerning the witnesses. At the same time, the Government suggested that a Court delegation could have access to the file at the place where the preliminary investigation was being conducted, with the exception of \u201cthe documents [disclosing military information and personal data concerning the witnesses], and without the right to make copies of the case file and to transmit it to others\u201d. In August\u00a02005 the Court reiterated its request and suggested that Rule 33 \u00a7 3 of the Rules of Court be applied. In reply, the Government again refused to produce the investigation file for the aforementioned reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0On 3 May 2007 the application was declared partly admissible. At that stage the Court once again invited the Government to submit the investigation file and to provide information concerning the progress of the investigation. In August 2007 the Government informed the Court of the latest dates on which the investigation had been suspended and reopened and produced a copy of the decision of 9 July 2007 by which the investigation had been resumed. When describing the circumstances of the case, the decision stated that Abdulkasim Zaurbekov had worked under an employment contract in the Oktyabrskiy VOVD of the city of Grozny of the , which had been staffed with police personnel of the Khanty-Mansiysk Region. The decisions went on to say that on 17 October 2000 Abdulkasim Zaurbekov had arrived, along with the second applicant, at the Oktyabrskiy VOVD for his wages and \u201centered the territory of the Oktyabrskiy VOVD unimpeded, following which he did not return, that is to say, went missing\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government did not furnish the Court with any other documents from the case file.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "42.\u00a0\u00a0For a summary of the relevant domestic law see Kukayev v. , no.\u00a029361/02, \u00a7\u00a7\u00a067-69, 15\u00a0November 2007.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT\u2019S PRELIMINARY OBJECTIONS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Submissions by the parties",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Government contended that the application should be declared inadmissible as the applicants had failed to exhaust the domestic remedies available to them. They submitted that the investigation into the disappearance of the applicants\u2019 relative had not yet been completed. The Government also argued that, in accordance with Article 125 of the Russian Code of Criminal Procedure, it had been open to the applicants to lodge a court complaint about the actions or omissions of the investigating or other law-enforcement authorities, but they had not availed themselves of that remedy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The applicants contested the Government\u2019s objection. They claimed that an administrative practice consisting of a continuous failure by the authorities to conduct adequate investigations into offences committed by representatives of the federal forces in  rendered any potentially effective remedies inadequate and illusory in their case. In this connection the applicants relied on applications submitted to the Court by other individuals claiming to be victims of similar violations, and on documents by human rights NGOs and the Council of Europe. The applicants argued that, in any event, they had repeatedly applied to law-enforcement bodies, including various prosecutors, and had attempted to participate in the investigation. This avenue, however, had proved futile, given that the criminal investigation had been ongoing since November 2000 but had failed to identify those involved in the illegal detention and disappearance of Abdulkasim Zaurbekov, despite compelling evidence confirming the involvement of representatives of the law-enforcement agencies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The applicants also argued that the Government had failed to demonstrate that a court complaint against the actions or omissions of the investigating authorities would have been an effective remedy in their situation. They stated that under domestic law a court, in examining such a complaint, could order the investigating authorities to resume the investigation or take certain investigative measures. In this connection the applicants pointed out that the investigation into their relative\u2019s abduction had been resumed on several occasions; however, so far it had produced no results. The applicants therefore argued that court complaints against the investigators would not have changed the situation, and therefore they had been under no obligation to make use of that remedy. The applicants also referred to the Court\u2019s established case-law to the effect that, in any event, the authorities had to carry out the investigation of their own motion once the matter had come to their attention, without leaving it to the initiative of the next-of-kin to take responsibility for the conduct of any investigative procedures.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court notes that, in its decision of 3 May 2007, it considered that the question of exhaustion of domestic remedies was closely linked to the substance of the present application and that it should be joined to the merits. It will now proceed to assess the parties\u2019 arguments in the light of the Convention provisions and its relevant practice.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The Court reiterates that the rule of exhaustion of domestic remedies under Article 35 \u00a7 1 of the Convention obliges applicants to use first the remedies which are available and sufficient in the domestic legal system to enable them to obtain redress for the breaches alleged. The existence of the remedies must be sufficiently certain both in theory and in practice, failing which they will lack the requisite accessibility and effectiveness. There is no obligation to have recourse to remedies which are inadequate or ineffective. It is incumbent on the respondent Government claiming non-exhaustion to indicate to the Court with sufficient clarity the remedies to which the applicants have not had recourse and to satisfy the Court that the remedies were effective and available in theory and in practice at the relevant time, that is to say that they were accessible, were capable of providing redress in respect of the applicants\u2019 complaints and offered reasonable prospects of success (see Aksoy v. Turkey, judgment of 18 December 1996, Reports of Judgments and Decisions 1996VI, pp. 2275-76, \u00a7\u00a7 51-52; Akdivar and Others\u00a0v. Turkey, judgment of 16 September 1996, Reports 1996IV, p.\u00a01210-11, \u00a7\u00a065-68; and, most recently, Cennet Ayhan and Mehmet Salih Ayhan v. Turkey, no. 41964/98, \u00a7 64-65, 27 June 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0In the present case, as to the Government\u2019s argument that the investigation was still in progress and that the applicants had not complained to a court about the actions or omissions of the investigating or other law-enforcement authorities during the investigation, in accordance with Article 125 of the Russian Code of Criminal Procedure, the Court firstly observes that the Government did not indicate which particular actions or omissions of the investigators the applicants should have challenged before a court. It further notes that the legal instrument referred to by the Government became operative on 1 July 2002 and that the applicants had clearly been unable to have recourse to the remedy invoked by the Government prior to that date. As regards the period thereafter, the Court considers that this limb of the Government\u2019s preliminary objection raises issues which are closely linked to the question of the effectiveness of the investigation, and it would therefore be appropriate to address the matter in the examination of the substance of the applicants\u2019 complaints under Article 2 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "49.\u00a0\u00a0The applicants complained that their close relative had disappeared at the hands of the authorities, and that the domestic authorities had failed to carry out an effective investigation into the matter. They relied on Article 2 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone\u2019s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Alleged failure to protect the right to life",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions by the parties",
+                                        "elements": [
+                                            {
+                                                "content": "50.\u00a0\u00a0The applicants stressed that Abdulkasim Zaurbekov disappeared while under the control of the State in life-endangering circumstances and the Government had failed to produce any plausible explanation as to his whereabouts. The applicants contended that the fact that their relative was not listed among those being held in detention centres, as alleged by the Government, proved that his life had been endangered after he had been detained, since there was a widespread practice of forced disappearances, extrajudicial executions, torture and ill-treatment of detainees in Chechnya by representatives of the federal forces. The applicants thus argued, relying on Article 2 of the Convention, that the fact that Abdulkasim Zaurbekov had remained missing since 17 October 2000 proved that he had been killed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The Government acknowledged that on 17 October 2000 Abdulkasim Zaurbekov had arrived at the Oktyabrskiy VOVD and stated that \u201chis further whereabouts\u201d were \u201cunknown\u201d. However, they argued, with reference to a reply from the Prosecutor General\u2019s Office, that the investigation had not established the involvement of the personnel of the Russian law-enforcement agencies in Abdulkasim Zaurbekov\u2019s disappearance and that there was no convincing evidence that he was dead.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "52.\u00a0\u00a0The Court reiterates that, in the light of the importance of the protection afforded by Article\u00a02, it must subject deprivations of life to the most careful scrutiny, taking into consideration not only the actions of State agents but also all the surrounding circumstances. It has held on many occasions that, where an individual is taken into police custody in good health and is found to be injured on release, it is incumbent on the State to provide a plausible explanation of how those injuries were caused. The obligation on the authorities to account for the treatment of a detained individual is particularly stringent where that individual dies or disappears thereafter (see, among other authorities, Orhan v. Turkey, no.\u00a025656/94, \u00a7\u00a0326, 18 June 2002, and the authorities cited therein). Where the events in issue lie wholly, or in large part, within the exclusive knowledge of the authorities, as in the case of persons within their control in detention, strong presumptions of fact will arise in respect of injuries and death of such persons. Indeed, the burden of proof may be regarded as resting on the authorities to provide a satisfactory and convincing explanation (see Salman v. Turkey [GC], no. 21986/93, \u00a7\u00a0100, ECHR 2000-VII, and \u00c7ak\u0131c\u0131 v. Turkey [GC], no. 23657/94, \u00a7 85, ECHR 1999IV). These principles also apply to cases in which, although it has not been proved that a person has been taken into custody by the authorities, it is possible to establish that he or she entered a place under their control and has not been seen since. In such circumstances, the onus is on the Government to provide a plausible explanation as to what happened on the premises and to show that the person concerned was not detained by the authorities, but left the premises without subsequently being deprived of his or her liberty (see Tani\u015f and Others v. , no.\u00a065899/01, \u00a7\u00a0160, ECHR 2005\u2013VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0In the present case, the Court observes that the Government denied that State agents had ever detained Abdulkasim Zaurbekov and that he could be presumed dead. On the other hand, they acknowledged the specific facts underlying the applicants\u2019 version of Abdulkasim Zaurbekov\u2019s disappearance. In particular, it is common ground between the parties, and it had clearly been established in the domestic proceedings (see paragraph 40 above), that on 17 October 2000 he had arrived at the Oktyabrskiy VOVD and entered its premises unimpeded. The Government did not convincingly show that he had ever left thereafter. In this respect, the Court notes the Government\u2019s reference to a witness statement by officer B., who had allegedly seen Abdulkasim Zaurbekov walking outside the territory of the Oktyabrskiy VOVD on the day of his disappearance, and their reference to a witness statement by officer S. to the effect that Abdulkasim Zaurbekov might have been killed by members of illegal armed groups (see paragraph\u00a036 above), which might suggest that Abdulkasim Zaurbekov had left the Oktyabrskiy VOVD. It observes, however, that the Government did not produce transcripts of the interviews of officers B. and S. to which they referred, nor did they corroborate those statements by any other witness statements, or any other evidence. The Court therefore cannot place any reliance in those statements and finds it established that Abdulkasim Zaurbekov entered, and never left, the premises of the Oktyabrskiy VOVD.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court further observes that there has been no reliable news of the applicants\u2019 relative since 17\u00a0October 2000. His name has not been found in any official detention facility\u2019s records (see paragraph 38 above). The Government did not submit any reasonable explanation as to what had happened to him after that date.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court considers that, in the context of the conflict in Chechnya, in a situation where the applicants\u2019 relative entered the premises of a police station and went missing for years, it may be presumed, even in the absence of any conclusive evidence as to what exactly happened to him afterwards, that he was placed in unacknowledged detention under the control of the State. The Court further notes that these circumstances may be described as life-threatening, given, in particular, the available information attesting several other cases of disappearance from the premises of the Oktyabrskiy VOVD of Grozny in September\u00a0\u2013\u00a0October 2000 (see Magomadov and Magomadov v. , no.\u00a068004/01, \u00a7\u00a7\u00a076, 98 and 108, 12\u00a0July 2007). In the light of these considerations and having regard to the particular circumstances of the case, and more specifically the considerable lapse of time since the day on which Abdulkasim Zaurbekov went missing, the Court finds it established beyond reasonable doubt that he must be presumed dead following unacknowledged detention by State agents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0In the absence of any plausible explanation on the part of the Government as to the circumstances of Abdulkasim Zaurbekov\u2019s death, the Court further finds that the Government have not accounted for the death of the applicants\u2019 relative during his detention and that the respondent State\u2019s responsibility for this death is therefore engaged.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0Accordingly, there has been a violation of Article 2 of the Convention in this connection.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Alleged inadequacy of the investigation",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions by the parties",
+                                        "elements": [
+                                            {
+                                                "content": "58.\u00a0\u00a0The applicants claimed that the authorities had failed in their obligation to carry out an effective investigation into the circumstances of their relative\u2019s disappearance. They argued that it had been ongoing since 8\u00a0November 2000 but had not brought any tangible results so far, having been repeatedly suspended and reopened. Furthermore, the investigating authorities had failed to inform the applicants about the decisions concerning the adjournment and reopening of the investigation or its progress. In this latter respect the applicants stressed that the Russian authorities had not informed them of the developments in the investigation even after the present case had been declared partly admissible. The applicants\u2019 numerous requests to the authorities throughout the investigation had remained unanswered or only produced standard replies. The applicants had not been granted access to the case file. In support of their argument regarding the inefficiency of the investigation, the applicants also referred to the Government\u2019s refusal to submit a copy of the file in the criminal case concerning their relative\u2019s disappearance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0The Government contended that the investigation into the disappearance of the applicants\u2019 relative met the Convention requirement of effectiveness, as all measures envisaged in national law were being taken to identify those responsible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "60.\u00a0\u00a0The Court reiterates that the obligation to protect the right to life under Article 2 of the Convention, read in conjunction with the State\u2019s general duty under Article\u00a01 of the Convention to \u201csecure to everyone within [its] jurisdiction the rights and freedoms defined in [the] Convention\u201d, requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force, in particular by agents of the State. The investigation must be effective in the sense that it is capable of leading to the identification and punishment of those responsible (see O\u011fur v.  [GC], no.\u00a021594/93, \u00a7\u00a088, ECHR 1999III). In particular, there must be an implicit requirement of promptness and reasonable expedition (see Ya\u015fa v.\u00a0Turkey, judgment of 2 September 1998, Reports 1998-VI, \u00a7\u00a0102-04, and Mahmut Kaya v.\u00a0Turkey, no.\u00a022535/93, ECHR 2000-III, \u00a7\u00a7\u00a0106-07). It must be accepted that there may be obstacles or difficulties which prevent progress in an investigation in a particular situation. However, a prompt response by the authorities in investigating the use of lethal force may generally be regarded as essential in maintaining public confidence in the maintenance of the rule of law and in preventing any appearance of collusion in or tolerance of unlawful acts. For the same reasons, there must be a sufficient element of public scrutiny of the investigation or its results to secure accountability in practice as well as in theory. The degree of public scrutiny required may well vary from case to case. In all cases, however, the next of kin of the victim must be involved in the procedure to the extent necessary to safeguard his or her legitimate interests (see Shanaghan\u00a0v. the , no.\u00a037715/97, \u00a7\u00a7\u00a091-92, 4 May 2001).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0In the instant case, the Court observes that some degree of investigation was carried out into the disappearance of the applicants\u2019 relative. It must assess whether that investigation met the requirements of Article 2 of the Convention. The Court notes in this connection that its knowledge of the criminal proceedings at issue is rather limited in view of the respondent Government\u2019s refusal to submit the investigation file (see paragraphs 39\u00a0\u2013\u00a041 above). Drawing inferences from the respondent Government\u2019s behaviour when evidence was being obtained (see Ireland v.\u00a0the United Kingdom judgment of 18 January 1978, Series A no.\u00a025, pp.64-65, \u00a7 161), the Court will assess the merits of this complaint on the basis of the available information in the light of these inferences.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The Court notes that the authorities were immediately made aware of Abdulkasim Zaurbekov\u2019s disappearance, as the first applicant personally visited the Oktyabrskiy VOVD in the days following 17 October 2000 (see paragraphs 15\u00a0\u2013\u00a017 above), this fact not having been disputed by the Government. However, despite the first applicant\u2019s efforts, the authorities did not institute criminal proceedings until 8 November 2000, three weeks after the applicants\u2019 relative had disappeared. The Government did not provide any explanation for such a delay in a situation where prompt action was vital.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0Furthermore, once the investigation was opened it was plagued with inexplicable shortcomings in taking the most essential steps. In particular, despite abundant evidence to the effect that the applicants\u2019 relative had gone missing on the premises of the Oktyabrskiy VOVD, it does not appear that any meaningful efforts were made to investigate the possible involvement of the personnel of the Oktyabrskiy VOVD in his disappearance. It does not appear that the premises of the Oktyabrskiy VOVD were ever inspected in the context of the investigation, or that any expert examinations were carried out, or any of the police officers seconded at the Oktyabrskiy VOVD at the material time were questioned, during the first weeks or even months following Abdulkasim Zaurbekov\u2019s disappearance. Indeed, from the information provided by the Government it can be ascertained that law-enforcement officers who at the time of Abdulkasim Zaurbekov\u2019s disappearance had been serving at the Oktyabrskiy VOVD were only questioned in 2002\u00a0\u2013\u00a02005 (see paragraph 36 above), most likely when they had already left for their permanent place of residence. The Court is in any event sceptical about the Government\u2019s submission that the investigating authorities had questioned a number of officials of law-enforcement agencies who had been working in  at the material time, as the Government did not produce any documents, such as transcripts, relating to the interviews.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The Court further notes a substantial delay in granting the status of victim to the first applicant. Whilst the investigation commenced on 8\u00a0November 2000, it was not until 15 February 2001 that the first applicant was declared a victim in the case, which afforded her minimum guarantees in the criminal proceedings. Moreover, it does not appear that before \u2013 or even after \u2013 the said decision was taken, the first applicant was properly informed of the progress in the investigation, or given access to the case file (see paragraphs 23, 33 and 58 above). The Court notes in this respect that the Government did not produce a copy of any single letter informing the applicants of the developments in the criminal proceedings, or inviting them to have access to the case file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0Finally, the Court notes that the investigation has been ongoing from November 2000 until the present, during which period it was stayed and resumed on at least fifteen occasions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The Court thus notes, in respect of the Government\u2019s argument concerning the applicants\u2019 alleged failure to appeal to a court against the actions or omissions of the investigators under Article 125 of the Russian Code of Criminal Procedure, that in a situation where the effectiveness of the investigation was undermined from a very early stage by the authorities\u2019 failure to take necessary and urgent investigative measures, where the investigation was repeatedly stayed and reopened, where the applicants were unable to access the case file, and where they were not properly informed of the conduct of the investigation, it is highly doubtful that the remedy invoked by the Government would have had any prospects of success. Moreover, the Government have not demonstrated that this remedy would have been capable of providing redress in the applicants\u2019 situation \u2013 in other words, that it would have rectified the shortcomings in the investigation and would have led to the identification and punishment of those responsible for the disappearance of their relative. The Court thus considers that in the circumstances of the case it has not been established with sufficient certainty that the remedy advanced by the Government would have been effective within the meaning of the Convention. The Court finds that the applicants were not obliged to pursue that remedy, and that this limb of the Government\u2019s preliminary objection should therefore be dismissed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0In the light of the foregoing, and with regard to the inferences drawn from the respondent Government\u2019s submission of evidence, the Court further concludes that the authorities failed to carry out a thorough and effective investigation into the circumstances surrounding the disappearance of Abdulkasim Zaurbekov. It accordingly holds that there has been a violation of Article 2 of the Convention on that account.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "68.\u00a0\u00a0The applicants complained that it was very likely that Abdulkasim Zaurbekov had been subjected to torture and inhuman treatment and that no effective investigation had been conducted in this connection. They also submitted that they had suffered severe mental distress and anguish in connection with their relative\u2019s disappearance and on account of the State\u2019s failure to conduct a thorough investigation into the matter. The applicants referred to Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Alleged ill-treatment of the applicants\u2019 relative",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The applicants insisted that there were serious reasons to believe that Abdulkasim Zaurbekov had been ill-treated after being detained. They referred to applications submitted to the Court by other individuals claiming to be victims of similar violations, and to documents by human rights NGOs and the Council of Europe reporting numerous instances where people detained in  had been found dead, or had returned from custody showing signs of torture or ill-treatment. The applicants further claimed that no investigation had been carried out into the matter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government argued that the investigation had obtained no evidence that the applicants\u2019 relative had been subjected to treatment prohibited by Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The Court reiterates that allegations of ill-treatment must be supported by appropriate evidence. To assess this evidence, the Court adopts the standard of proof \u201cbeyond reasonable doubt\u201d but adds that such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Ireland v. the United Kingdom, cited above, pp.\u00a064-65, \u00a7 161 in fine).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court has found it established that Abdulkasim Zaurbekov must be presumed dead following his unacknowledged detention and that the responsibility for his death lies with the State authorities (see paragraphs\u00a055\u00a0\u2013\u00a056). However, in the absence of any relevant information or evidence the Court is unable to establish, to the necessary degree of proof, the exact way in which Abdulkasim Zaurbekov died and whether he was subjected to ill-treatment while in detention, and finds that this complaint has not been substantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0Against this background, the Court finds no violation of Article 3 of the Convention on this account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Alleged mental suffering of the applicants",
+                                "elements": [
+                                    {
+                                        "content": "74.\u00a0\u00a0The applicants maintained that they had endured severe mental suffering falling within the scope of Article 3 of the Convention in view of the State\u2019s indifference to their relative\u2019s disappearance and its repeated failure to inform them of the progress in the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0In the Government\u2019s submission, the investigation had obtained no evidence that the applicants had been subjected to treatment prohibited by Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0The Court observes that the question whether a member of the family of a \u201cdisappeared person\u201d is a victim of treatment contrary to Article\u00a03 will depend on the existence of special factors which give the suffering of the applicants a dimension and character distinct from the emotional distress which may be regarded as inevitably caused to relatives of a victim of a serious human rights violation. Relevant elements will include the proximity of the family tie, the particular circumstances of the relationship, the extent to which the family member witnessed the events in question, the involvement of the family member in the attempts to obtain information about the disappeared person and the way in which the authorities responded to those enquiries. The Court would further emphasise that the essence of such a violation does not mainly lie in the fact of the \u201cdisappearance\u201d of the family member but rather concerns the authorities\u2019 reactions and attitudes to the situation when it is brought to their attention. It is especially in respect of the latter that a relative may claim directly to be a victim of the authorities\u2019 conduct (see Orhan, cited above, \u00a7 358, and Imakayeva v. , no.\u00a07615/02, \u00a7\u00a0164, ECHR 2006... (extracts)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0On the facts, the Court observes that the person that went missing in the present case was the first applicant\u2019s husband and the second applicant\u2019s father. It has now been over seven years since they have had any news of him. The applicants\u2019 distress during this period is attested by their numerous efforts to prompt the authorities to act, as well as by their own attempts to search for their family member (see paragraphs 14\u00a0\u2013\u00a018 above). The Court further refers to its above findings regarding the shortcomings in the investigation. In particular, it considers that the absence of access to the case file and the lack of information about the investigation throughout the proceedings are elements that have contributed to the applicants\u2019 suffering. It follows that the applicants\u2019 uncertainty about their relative\u2019s fate was aggravated by the fact that they were denied the opportunity to monitor the progress of the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0The Court therefore finds that the applicants suffered distress and anguish as a result of their relative\u2019s disappearance and of their inability to find out what had happened to him or to receive up-to-date and exhaustive information on the investigation. The manner in which the applicants\u2019 complaints have been dealt with by the authorities must be considered to constitute inhuman treatment contrary to Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0In the light of the foregoing, the Court finds that there has been a violation of Article 3 of the Convention on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "80.\u00a0\u00a0The applicants complained that the provisions of Article 5 of the Convention as a whole, relating to the lawfulness of detention and guarantees against arbitrariness, had been violated in respect of Abdulkasim Zaurbekov. The respective Article, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "81.\u00a0\u00a0The applicants reiterated their argument that Abdulkasim Zaurbekov had been detained by representatives of the federal forces and argued that his detention had not satisfied any of the conditions set out in Article 5 of the Convention, had had no basis in national law and had not been in accordance with a procedure established by law or been formally registered.",
+                                "elements": []
+                            },
+                            {
+                                "content": "82.\u00a0\u00a0According to the Government, the investigation had obtained no evidence that Abdulkasim Zaurbekov had been deprived of his liberty in breach of Article 5 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "83.\u00a0\u00a0The Court has frequently emphasised the fundamental importance of the guarantees contained in Article 5 for securing the rights of individuals in a democracy to be free from arbitrary detention at the hands of the authorities. In that context, it has repeatedly stressed that any deprivation of liberty must not only have been effected in conformity with the substantive and procedural rules of national law but must equally be in keeping with the very purpose of Article 5, namely to protect the individual from arbitrary detention. To minimise the risks of arbitrary detention, Article 5 provides a corpus of substantive rights intended to ensure that the act of deprivation of liberty is amenable to independent judicial scrutiny and secures the accountability of the authorities for that measure. The unacknowledged detention of an individual is a complete negation of these guarantees and discloses a most grave violation of Article 5 (see, among other authorities, \u00c7ak\u0131c\u0131, cited above, \u00a7\u00a0104).",
+                                "elements": []
+                            },
+                            {
+                                "content": "84.\u00a0\u00a0In the present case, the Court refers to its above finding that Abdulkasim Zaurbekov was a victim of unacknowledged detention (see paragraph 55 above) and finds that this constitutes a particularly grave violation of his right to liberty and security enshrined in Article 5 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "85.\u00a0\u00a0The applicants alleged that there were no effective remedies in respect of their complaints under Articles 2, 3 and 5, contrary to Article 13 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "86.\u00a0\u00a0The applicants insisted that in their case the domestic remedies available had proved to be ineffective, given that the investigation had been ongoing for several years without any progress, that they had never been granted access to the case file of the investigation and that all their applications to public bodies had remained unanswered or had only produced standard replies.",
+                                "elements": []
+                            },
+                            {
+                                "content": "87.\u00a0\u00a0The Government contended that the applicants had had effective domestic remedies, as required by Article 13 of the Convention, and the Russian authorities had not prevented them from using those remedies. They submitted that the relatives of the missing person had been declared victims and had received reasoned replies to all the requests they made in the context of the investigation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "88.\u00a0\u00a0The Court reiterates that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they might happen to be secured in the domestic legal order. The effect of Article 13 is thus to require the provision of a domestic remedy to deal with the substance of an \u201carguable complaint\u201d under the Convention and to grant appropriate relief, although  are afforded some discretion as to the manner in which they comply with their Convention obligations under this provision. The scope of the obligation under Article 13 varies depending on the nature of the applicant\u2019s complaint under the Convention. Nevertheless, the remedy required by Article\u00a013 must be \u201ceffective\u201d in practice as well as in law, in particular in the sense that its exercise must not be unjustifiably hindered by acts or omissions by the authorities of the respondent State (see Aksoy, cited above, \u00a7 95).",
+                                "elements": []
+                            },
+                            {
+                                "content": "89.\u00a0\u00a0Given the fundamental importance of the right to protection of life, Article 13 requires, in addition to the payment of compensation where appropriate, a thorough and effective investigation capable of leading to the identification and punishment of those responsible for the deprivation of life, including effective access for the complainant to the investigation procedure leading to the identification and punishment of those responsible (see Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7\u00a0161-162, ECHR 2002-IV; Assenov and Others\u00a0v. Bulgaria, judgment of 28 October 1998, Reports 1998VIII, \u00a7\u00a0117; and S\u00fcheyla Ayd\u0131n v. Turkey, no. 25660/94, \u00a7\u00a0208, 24\u00a0May 2005). The Court further reiterates that the requirements of Article\u00a013 are broader than a Contracting State\u2019s obligation under Article 2 to conduct an effective investigation (see Orhan, cited above, \u00a7\u00a0384).",
+                                "elements": []
+                            },
+                            {
+                                "content": "90.\u00a0\u00a0In view of the Court\u2019s findings above with regard to Article 2, the applicants\u2019 complaint was clearly \u201carguable\u201d for the purposes of Article\u00a013 (see Boyle and Rice v. the United Kingdom, judgment of 27\u00a0April 1988, Series A no.\u00a0131, \u00a7\u00a052). The applicants should accordingly have been able to avail themselves of effective and practical remedies capable of leading to the identification and punishment of those responsible and to an award of compensation for the purposes of Article\u00a013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "91.\u00a0\u00a0It follows that in circumstances where, as in the present case, the criminal investigation into the death was ineffective (see paragraph 69 above) and the effectiveness of any other remedy that may have existed, including the civil remedies, was consequently undermined, the State has failed in its obligation under Article\u00a013 of the Convention (see, among other authorities, Musayeva and Others v. , no.\u00a074239/01, \u00a7\u00a0118, 26\u00a0July 2007, or Kukayev v. , no.\u00a029361/02, \u00a7\u00a0117, 15\u00a0November 2007).",
+                                "elements": []
+                            },
+                            {
+                                "content": "92.\u00a0\u00a0Consequently, there has been a violation of Article 13 of the Convention in connection with Article 2 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "93.\u00a0\u00a0As to the applicants\u2019 complaint under Article 13 about the lack of domestic remedies in respect of their complaint under Article 3 that Abdulkasim Zaurbekov had been ill-treated while in detention at the hands of the authorities, the Court notes that this latter complaint was found unsubstantiated (see paragraph\u00a072 above). In the absence of an \u201carguable claim\u201d of a violation of a substantive Convention provision the Court finds that there has been no violation of Article 13 in this respect either.",
+                                "elements": []
+                            },
+                            {
+                                "content": "94.\u00a0\u00a0As regards the applicants\u2019 reference to Article 13 in conjunction with Article 3 of the Convention, in so far as their mental suffering was concerned, the Court notes that it has found above that the applicants endured severe mental suffering on account of, inter alia, the authorities\u2019 inadequate investigation into their relative\u2019s disappearance (see paragraph\u00a078 above). It has also found a violation of Article\u00a013 of the Convention in connection with Article 2 of the Convention on account of the lack of effective remedies in a situation, such as the applicants\u2019 one, where the investigation was ineffective (see paragraphs 91\u00a0\u2013\u00a092 above). Having regard to these findings, the Court is of the opinion that the applicants\u2019 complaint under Article 13 in conjunction with Article 3 is subsumed by those under Article 13 in conjunction with Article 2 of the Convention. It therefore does not consider it necessary to examine the complaint under Article 13 in connection with Article 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "95.\u00a0\u00a0Finally, as regards the applicants\u2019 reference to Article 5 of the Convention, the Court refers to its findings of a violation of this provision set out above. It considers that no separate issues arise in respect of Article\u00a013 read in conjunction with Article 5 of the Convention, which itself contains a number of procedural guarantees related to the lawfulness of detention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0COMPLIANCE WITH ARTICLE 38 \u00a7 1 (a) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "96.\u00a0\u00a0The applicants argued that the Government\u2019s failure to submit the documents requested by the Court at the communication stage and after the decision on admissibility disclosed a failure to comply with their obligations under Article 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention. The relevant parts of this Article provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0If the Court declares the application admissible, it shall",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0pursue the examination of the case, together with the representatives of the parties, and if need be, undertake an investigation, for the effective conduct of which the States concerned shall furnish all necessary facilities;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "97.\u00a0\u00a0The applicants invited the Court to conclude that the Government\u2019s refusal to submit a copy of the entire investigation file in response to the Court\u2019s requests was incompatible with their obligations under Article\u00a038\u00a0\u00a7\u00a01 (a) of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "98.\u00a0\u00a0The Government argued that they had complied with their obligations under Article 38 \u00a7 1 (a), as they had furnished the Court with copies of \u201call the main procedural documents\u201d and provided information on the investigative measures taken in the case. The Government reiterated that the submission of the entire case file would be contrary to Article 161 of the Russian Code of Criminal Procedure. They also submitted that they had taken into account the possibility to request confidentiality under Rule 33 of the Rules of Court, but noted that the Court provided no guarantees that once in receipt of the investigation file, the applicants or their representatives would not disclose these materials to the public. According to the Government, in the absence of any sanctions in respect of the applicants for a disclosure of confidential information and materials, there were no guarantees of the compliance by the applicants with the Convention and the Rules of Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "99.\u00a0\u00a0The Court reiterates that it is of the utmost importance for the effective operation of the system of individual petition instituted under Article 34 of the Convention that States should furnish all necessary facilities to make possible a proper and effective examination of applications (see Tanr\u0131kulu v.  [GC], no.\u00a023763/94, \u00a7\u00a070, ECHR 1999IV). This obligation requires the Contracting States to furnish all necessary facilities to the Court, whether it is conducting a fact-finding investigation or performing its general duties as regards the examination of applications. Failure on a Government\u2019s part to submit such information which is in their hands, without a satisfactory explanation, may not only give rise to the drawing of inferences as to the well-foundedness of the applicant\u2019s allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article\u00a038\u00a0\u00a7\u00a01\u00a0(a) of the Convention (see Timurta\u015f v. Turkey, no.\u00a0\u00a03531/94, \u00a7\u00a066, ECHR 2000-VI). In a case where the application raises issues of the effectiveness of an investigation, the documents of the criminal investigation are fundamental to the establishment of facts and their absence may prejudice the Court\u2019s proper examination of the complaint both at the admissibility stage and at the merits stage (see Tanr\u0131kulu, cited above, \u00a7\u00a070).",
+                                "elements": []
+                            },
+                            {
+                                "content": "100.\u00a0\u00a0The Court observes that it has on several occasions requested the Government to submit a copy of the file on the investigation opened in connection with the disappearance of the applicants\u2019 relative. The evidence contained in that file was regarded by the Court as crucial to the establishment of the facts in the present case. In reply, the Government produced a copy of only one document, namely a procedural decision dated 9 July 2007 reopening the criminal proceedings in case no. 12260. Relying on Article 161 of the Russian Code of Criminal Procedure, they refused to submit any other documents. The Court is therefore perplexed by the Government\u2019s argument that they had submitted \u201call the main procedural documents\u201d from the investigation file.",
+                                "elements": []
+                            },
+                            {
+                                "content": "101.\u00a0\u00a0The Court further notes that the Government did not request the application of Rule 33\u00a0\u00a7\u00a02 of the Rules of Court, which permits a restriction on the principle of the public character of the documents deposited with the Court for legitimate purposes, such as the protection of national security and the private life of the parties, and the interests of justice. The Court further notes that the provisions of Article 161 of the Code of Criminal Procedure, to which the Government referred, do not preclude disclosure of the documents from the file of an ongoing investigation, but rather set out the procedure for and limits to such disclosure. The Government failed to specify the nature of the documents and the grounds on which they could not be disclosed (see, for similar conclusions, Mikheyev v. Russia, no.\u00a077617/01, \u00a7\u00a0104, 26 January 2006). The Court also notes that in a number of comparable cases that have been reviewed by the Court, similar requests have been made to the Russian Government and the documents from the investigation files have been submitted without reference to Article\u00a0161 (see, for example, Khashiyev and Akayeva, cited above, \u00a7\u00a046, and Magomadov and Magomadov v. , no.\u00a068004/01, \u00a7\u00a7\u00a036 and 82, 12\u00a0July 2007). For these reasons, the Court considers the Government\u2019s explanations concerning the disclosure of the case file insufficient to justify withholding the key information requested by the Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "102.\u00a0\u00a0Having regard to the importance of cooperation by the respondent Government in Convention proceedings and the difficulties associated with the establishment of the facts in cases such as the present one, the Court finds that the Russian Government fell short of their obligations under Article 38 \u00a7\u00a01\u00a0(a) of the Convention on account of their failure to submit copies of the documents requested in respect of the disappearance of the applicants\u2019 relative.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "103.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "104.\u00a0\u00a0The applicants claimed damages in respect of Abdulkasim Zaurbekov\u2019s lost wages from the time of his disappearance. They did not indicate the amount of the monthly wage of their relative, who had worked as a crane operator, stating that they were unable to obtain an official statement concerning his wages in view of the fact that the Oktyabrskiy VOVD no longer existed. The applicants, however, submitted a certificate issued by a certain commercial organisation in the , which stated that the average monthly wage of a crane operator employed by that organisation equalled 18,000 Russian roubles (RUB, approximately 500\u00a0euros (EUR)). The applicants claimed that they would have benefited from Abdulkasim Zaurbekov\u2019s financial support in the amount of RUB\u00a01,394,983.08 (approximately EUR 38,000) and RUB 21,384 (approximately EUR 600) respectively. The applicants based their calculations on the aforementioned certificate and the actuarial tables for use in personal injury and fatal accident cases published by the United Kingdom Government Actuary\u2019s Department in 2004 (\u201cthe Ogden tables\u201d), with reference to the absence of any equivalent methods of calculation in Russia.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0The Government contested the applicants\u2019 claims under this head as unsubstantiated and based on suppositions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court reiterates that there must be a clear causal connection between the damage claimed by the applicant and the violation of the Convention, and that this may, in appropriate cases, include compensation in respect of loss of earnings (see, among other authorities, \u00c7ak\u0131c\u0131, cited above, \u00a7\u00a0127). It further finds that there is a direct causal link between the violation of Article 2 in respect of the applicants\u2019 relative and the loss by the applicants of the financial support which he could have provided for them. The Court, however, is not convinced that the amount claimed is reasonable given, in particular, that Abdulkasim Zaurbekov had been dismissed from work shortly before his disappearance and that the applicants failed to indicate the amount of the wages which he had received in 2000, their reliance on the certificate concerning an average monthly wage in 2007 being speculative. Having regard to these considerations, the Court awards the applicants jointly the total amount of EUR 8,000 in respect of pecuniary damage, plus any tax that may be chargeable on that amount.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Non-pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "107.\u00a0\u00a0The applicants claimed EUR 50,000 each in respect of non-pecuniary damage for the fear, anguish and distress which they had suffered as a result of their relative\u2019s disappearance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0The Government considered the applicants\u2019 claims to be excessive and submitted that should the Court find a violation of the applicants\u2019 rights, a token amount would suffice.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0The Court observes that it has found a violation of Articles 2, 3, 5 and 13 of the Convention on account of the unlawful detention and disappearance of the applicants\u2019 relative, the mental suffering endured by the applicants and the absence of effective remedies to secure domestic redress for those violations. The Court has also found a violation of Article\u00a038 \u00a7 1 (a) of the Convention on account of the Government\u2019s failure to submit the materials requested by the Court. The applicants must have suffered anguish and distress as a result of all these circumstances, which cannot be compensated by a mere finding of a violation. Having regard to these considerations, the Court awards, on an equitable basis, EUR 25,000 to each of the applicants for non-pecuniary damage, plus any tax that may be chargeable on this amount.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "110.\u00a0\u00a0The applicants were represented by lawyers from the SRJI. They submitted a schedule of costs and expenses that included research and interviews in Ingushetia and Moscow, at a rate of EUR 50 per hour, and the drafting of legal documents submitted to the Court and the domestic authorities, at a rate of EUR 50 per hour for the SRJI lawyers and EUR 150 per hour for the SRJI senior staff. The aggregate claim in respect of costs and expenses related to the applicants\u2019 legal representation amounted to EUR 10,749.46, comprising EUR 9,100 for 72 hours spent by the SRJI staff on preparing and representing the applicants\u2019 case, EUR 775.46 for translation expenses, EUR 237 for international courier post to the Court and EUR 637 for administrative costs (7% of legal fees).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0The Government did not dispute the details of the calculations submitted by the applicants, but contested the applicants\u2019 claims in their entirety as excessive, stating that the SRJI was a non-profit NGO and should have provided their assistance to the applicants free of charge.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0The Court observes that in October 2001 the applicants gave the SRJI authority to represent their interests in the proceedings before the European Court of Human Rights. The SRJI acted as the applicants\u2019 representative throughout the proceedings. The applicants also submitted documents in support of their claims for translation and postal expenses. Having regard to these documents and the rates for the work of the SRJI lawyers and senior staff, the Court is satisfied that these rates are reasonable and reflect the expenses actually incurred by the applicants\u2019 representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0The Court further notes that this case has been relatively complex and has required a certain amount of research work. On the other hand, once the preparation of the initial submissions had been completed, the work did not involve a large number of documents, and the Court therefore doubts whether at its later stages the case required the amount of research and preparation claimed by the applicants\u2019 representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0In these circumstances, having regard to the details of the claims submitted by the applicants, the Court awards them the reduced amount of EUR\u00a08,000, less the EUR 850 already received by way of legal aid from the Council of Europe, together with any tax, including value-added tax, that may be chargeable. The amount awarded shall be payable to the representative organisation directly.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "115.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Dismisses the Government\u2019s preliminary objection;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention as regards the disappearance of Abdulkasim Zaurbekov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention on account of the authorities\u2019 failure to carry out an adequate and effective investigation into the circumstances surrounding the disappearance of Abdulkasim Zaurbekov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of Article\u00a03 of the Convention as regards the alleged ill-treatment of Abdulkasim Zaurbekov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article\u00a03 of the Convention on account of the mental suffering endured by the applicants because of their relative\u2019s disappearance and the lack of an effective investigation into the matter;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 of the Convention in respect of Abdulkasim Zaurbekov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention in respect of the alleged violations of Article 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been no violation of Article\u00a013 of the Convention as regards the alleged violation of Article 3 of the Convention in respect of Abdulkasim Zaurbekov;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that no separate issues arise under Article 13 of the Convention in respect of the alleged violation of Articles 3 in respect of the applicants on account of mental suffering and in respect of the alleged violation of Article 5 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that there has been a failure to comply with Article 38 \u00a7 1 (a) of the Convention in that the Government refused to submit the documents requested by the Court;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, all of which, save for those payable into the bank in the Netherlands, are to be converted into Russian roubles at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 9 October 2008, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [],
+    "decisiondate": "",
+    "docname": "CASE OF YUSUPOVA AND ZAURBEKOV v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-88783.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2008:1009JUD002205702",
+    "externalsources": [],
+    "extractedappno": [
+        "22057/02",
+        "29361/02",
+        "41964/98",
+        "25656/94",
+        "21986/93",
+        "23657/94",
+        "65899/01",
+        "68004/01",
+        "21594/93",
+        "22535/93",
+        "37715/97",
+        "7615/02",
+        "38361/97",
+        "25660/94",
+        "74239/01",
+        "23763/94",
+        "3531/94",
+        "77617/01"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-88783",
+    "judgementdate": "09/10/2008 00:00:00",
+    "kpdate": "09/10/2008 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "350",
+        "448",
+        "444"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "13",
+        "3",
+        "2",
+        "5"
+    ],
+    "parties": [
+        "YUSUPOVA AND ZAURBEKOV",
+        "RUSSIA"
+    ],
+    "rank": "644.278869628906",
+    "representedby": [
+        "STICHTING RUSSIAN JUSTICE INITIATIVE"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "398823",
+    "typedescription": "15"
+}

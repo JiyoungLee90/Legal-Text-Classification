@@ -1,0 +1,721 @@
+{
+    "__articles": "6;6-1;34;35;35-1;41",
+    "__conclusion": "Preliminary objection dismissed (Article 34 - Victim);Preliminary objection joined to merits and dismissed (Article 35-1 - Six-month period);Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Reasonable time);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "17739/09",
+    "article": [
+        "6",
+        "41",
+        "35",
+        "34"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 34 - Victim"
+            ],
+            "element": "Preliminary objection dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Article 35-1 - Six-month period"
+            ],
+            "element": "Preliminary objection joined to merits and dismissed",
+            "type": "other"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-177135.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 17739/09) against the Italian Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Italian national, Ms Ermelinda Bozza (\u201cthe applicant\u201d), on 23 March 2009.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms M.T. Marra, a lawyer practising in Naples. The Italian Government (\u201cthe Government\u201d) were represented by their Agent, Ms E. Spatafora, and their Co-Agent, Ms M.L. Aversano.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that there had been a violation of her right to a hearing within a reasonable time under Article 6 \u00a7 1 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 5 June 2015 notice of the application was given to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1949 and lives in Torre del Greco.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0The facts of the case, as submitted by the parties, can be summarised as follows.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The main set of proceedings",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0In January 1990, a few years after she had applied to the Interior Ministry for a disability pension, Ms T.G., the applicant\u2019s mother, was granted an entitlement to the monthly payment of the pension together with a special allowance on account of her partial blindness.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 21 October 1994 Ms T.G. filed an application with Torre Annunziata District Court (pretore), sitting as an employment tribunal, to obtain acknowledgment of a re-evaluation of her pension and interest on the arrears.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 27 March 1998, after the hearing had been adjourned three times, the District Court dismissed the application as out of time. On 24 September 1998 Ms T.G. died.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 10 March 1999, the applicant, lodged an appeal against that decision, on her own behalf and in her capacity as heir, in Naples District Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 10 December 2002 that court acknowledged the applicant\u2019s right to the recalculated sum and interest for a total of EUR 12,240.26. The decision became final on 25 January 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0As the decision was not enforced by the relevant authorities, on 14 June 2004 the applicant served a payment order (atto di precetto) on the National Social Security Agency (Istituto Nazionale della Previdenza Sociale \u2013 INPS) for EUR 30,364.38, representing the sum claimed, with interest and taking account of the re-evaluation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 25 January 2005 she obtained a garnishee order (pignoramento presso terzi) from the Naples enforcement judge in respect of her whole claim.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The \u201cPinto\u201d procedure",
+                                "elements": [
+                                    {
+                                        "content": "14.\u00a0\u00a0On 25 May 2005 the applicant lodged an appeal with the \u201cPinto\u201d Division of the Rome Court of Appeal, complaining about the excessive length of the proceedings. With regard to the admissibility of her appeal, she argued that, under section 4 of Law no. 89/2001 (the \u201cPinto Act\u201d), the \u201cfinal domestic decision\u201d to be taken into account was that of the enforcement judge of 25 January 2005. In consequence, she argued, the six-month deadline for lodging the claim for just satisfaction ought to run from that date.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 18 May 2006 the Court of Appeal declared the appeal inadmissible as out of time, taking the view that the final domestic decision to be taken into consideration was that delivered by the Naples District Court in the proceedings on the merits, a decision which had become final on 25 January 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0The Court of Cassation upheld that decision on 25 September 2008 and dismissed the applicant\u2019s appeal on points of law.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "17.\u00a0\u00a0The relevant domestic law and practice concerning Law no. 89 of 24\u00a0March\u00a02001 (the \u201cPinto Act\u201d) can be found in the judgment Cocchiarella v. Italy ([GC], no. 64886/01, \u00a7 23-31, ECHR 2006V). In particular, the text of section 4 of the Act, as applicable at the material time, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cA claim for just satisfaction may be lodged while the proceedings in which the violation is alleged to have occurred are pending or within six months from the date when the decision ending the proceedings becomes final. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0As regards the connection between the proceedings on the merits and the enforcement proceedings, the Court of Cassation\u2019s case-law shows that there have been two contradictory approaches, especially in respect of administrative disputes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0According to older case-law, the proceedings on the merits and the enforcement proceedings could be seen as a whole. The Court of Cassation explained that \u201cthe date when the decision ending the proceedings [became] final\u201d, within the meaning of section 4 of the Act had to be the date on which the right claimed at the start of the proceedings on the merits was ultimately secured effectively at the end of the enforcement stage (giudizio di ottemperanza). That second (possible) set of proceedings would be brought by a claimant on account of the authorities\u2019 failure to act, where a final decision was not complied with (see, among other authorities, judgments 7978/2005, 14595/2008 and 1019/2009 of the Court of Cassation).",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0That case-law has been gradually superseded. The Court of Cassation subsequently stated (see in particular judgment 1732/2009) that the two stages were to be considered independent of each other, on account of the features of the administrative enforcement procedure, in particular since the law reforming the administrative courts (Law no.\u00a0205/2000).",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0The Plenary (Sezioni Unite) Court of Cassation intervened in 2009, with judgments 27348 and 27365, in order to resolve the conflict and harmonise case-law in such matters. In the main passages of the above-mentioned judgments, the Plenary Court found as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNeither can the appellant claim that the Court of Strasbourg, in interpreting the ECHR, has developed a concept of a \u2018fair hearing\u2019 whereby the proceedings on the merits and enforcements proceedings \u2013 the latter being only hypothetical \u2013 are necessarily regarded as a single set of proceedings or as two phases of the \u2018same\u2019 proceedings (section 4 of Law no. 89 of 2001 on \u2018civil rights and obligations\u2019 (Article 6 of the Convention)), so that their overall duration is taken into account, thus entailing the admissibility of an application for just satisfaction submitted during the enforcement proceedings or within six months from the decision by the enforcements judge which ends the proceedings, within the meaning of section 4 of the [\u2018Pinto Act\u2019], cited above, or from the \u2018final domestic decision\u2019 within the meaning of Article 35 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "If such a supranational interpretation had been accepted, our Court [of Cassation] should have followed the interpretation of the supranational court (see judgments SS.UU nos. 1138 and 1339 of 2004) in order to satisfy the requisite compliance with the international legal obligations by which the legislature (Article 117 of the Constitution) and the courts of the States parties [to the Convention] are bound.",
+                                "elements": []
+                            },
+                            {
+                                "content": "... the European Court [of Human Rights] has never actually stated the argument raised in the appeal.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Indeed, the principle of the right to an effective remedy under Article 13 of the Convention requires member States to provide for domestic remedies to guarantee redress for violations of Convention rights, through, inter alia, domestic compensation proceedings, whose duration must be calculated from the date of application until the enforcement of the court ruling. This principle ... does not, however, involve examining each set of proceedings on the merits and each set of enforcement proceedings as if they were to be taken together.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Strasbourg Court, when dealing with applicants\u2019 complaints about the ineffectiveness of domestic remedies as a result of any delay or lack of timely payment of the sum awarded, in the context of a domestic remedy created to secure redress for the violation of a Convention right, considers together the duration of the proceedings on the merits, concerning the right to redress, and the length of the enforcement proceedings ... which end with the payment, even partial, of the amount awarded in the judgment on the merits, this being the time to be regarded as the dies a quo for the purposes of the six-month time-limit for the lodging of an application with that Court (see ECtHR, Grand Chamber, 31 March 2009, Simaldone v. Italy, no.\u00a022644/03; and Scordino v. Italy, 29 March 2006, no. 36813/97 \u2013 examined with nine other cases concerning the effectiveness of the domestic remedy provided for by Law no. 89 of 2001; see also, for other States, Burdov v. Russia, 7 May 2002, no.\u00a059498/00, concerning proceedings for compensation brought by victims of a serious nuclear accident).",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the judgments cited above, among many other authorities, it is stated that, having regard to the effectiveness principle, the enforcement of a judgment must be regarded as an integral part of the proceedings in order to ensure that \u2018excessive delays in an action for compensation will [not] render the remedy inadequate\u2019 (Scordino [cited above], \u00a7\u00a0 195) and it must encompass the domestic compensatory remedy providing redress for the damage arising from the violation of Convention rights; the principle therefore is not general in scope ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0As regards civil disputes, the Court of Cassation found, initially, that the proceedings on the merits and the enforcement proceedings had to be considered separately, in view of their autonomous nature and the specific function of each type (see, among many other authorities, judgments nos.\u00a025529/2006, 25806/2007, 19573/2008, 5536/2010, and decision no.\u00a08256/2011).",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0Going back on its case-law, in March 2014 (judgment no.\u00a06312/2014) the Plenary Court of Cassation gave a new judgment in this area. In this departure from precedent it found in favour of a holistic approach whereby it would take account of the proceedings on the merits and the enforcement, or the eventuality thereof, as one and the same set of \u201cproceedings\u201d. It found inter alia as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c...[It] is necessary to have regard to the constitutional principle of the effectiveness of judicial protection, as stated in Article 24, paragraph 1, Article 111, paragraphs 1 and 2, and Article 113, paragraphs 1 and 2, of the Constitution ... Respect for this principle requires that judicial protection should not be reduced merely to the right of access to the court, which is secured to everyone, but must encompass each stage of the proceedings provided for in domestic law, even after the claim is lodged, to ensure that the judicial protection of rights is practical and effective ... and it also requires that these individual legal situations, having been brought before a court and acknowledged thereby with final effect, should result in effective satisfaction for the holder of the right that has been claimed and recognised in the proceedings on the merits ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "If, therefore, \u2018it must be regarded as constitutionally necessary to provide for a phase of enforcement of judicial decisions, as an intrinsic and essential element of the judicial function\u2019 in the system defined in Article 24, paragraph 1, Article 111, paragraphs 1 and 2, and Article 113, paragraphs 1 and 2, of the Constitution, in order to secure the principle of the effectiveness of judicial protection, if \u2018the enforcement of the decision by the court must ... be regarded as an integral part of the proceedings for the purposes of Article 6\u2019 of the European Convention on Human Rights and if, consequently, \u2018the enforcement proceedings constitute the second phase of the trial and the right claimed only really becomes effective at the time of the enforcement\u2019, it may necessarily be concluded that, in principle (sia pure in linea di principio), to ensure an interpretation that is compliant with the Constitution and Convention, and respects both the above-mentioned constitutional norms and Article 6 \u00a7 1 of the European Convention on Human Rights as interpreted by the Strasbourg Court, a trial that is \u2018just\u2019 (Article 111, paragraph 1, of the Constitution) and \u2018fair\u2019 (Article 6 of the Convention) must be understood as a single set of judicial proceedings, which begins with access to a court and ends with the enforcement of the final and binding decision ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "Where, in civil or administrative proceedings, the subjective legal situation has been acknowledged in a final and binding judicial decision (the merits \u2018phase\u2019), but that decision has remained without effect and the holder of the right acknowledged by the court has had to seek its enforcement (the enforcement \u2018phase\u2019), the constitutional safeguard of the effectiveness of judicial protection and Article 6 \u00a7 1 ECHR, as interpreted by the Strasbourg Court, require it to be considered that these sets of proceedings form a \u2018single trial\u2019 made up of successive and complementary phases ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "From that perspective, any \u2018functional and structural differences\u2019 between the proceedings on the merits and the enforcement proceedings will pale into insignificance.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0In the same vein, the plenary Court of Cassation confirmed and clarified the new \u201cholistic interpretation\u201d in its recent judgment no.\u00a09142 of 6 May 2016. It found in particular as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIII.\u00a0\u00a0The question raised by the ordinary division concerns in substance the compatibility of the structure of the \u2018Pinto\u2019 procedure ... with the principles stemming from the ECHR as to the functional characterisation of the concept of \u2018final decision\u2019: in particular, the present decision seeks to ascertain whether the rule providing for a time bar six months from the end of the proceedings must, in general, apply from the time of the final domestic decision in the proceedings taken as a whole (merits plus execution); or whether, once this principle has been established, it is necessary also to take account of the inaction of the party at issue between the conclusion of the merits phase and the start of the execution phase; in other words, whether the possibility of deferring the dies ad quem in relation to the end of the above-mentioned proceedings, thus to identify the final domestic decision (as the conclusion of the execution phase), is not time-limited by the expiry of the six-month period provided for in section 4 of Law no. 89 of 2001 in its initial version.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "VII.\u00a0\u00a0The preservation of the specificity \u2013 even if it is historical \u2013 of the procedural rules adopted by a State raises an issue in the perspective of ensuring the conformity of national procedural criteria with European criteria.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "IX.\u00a0\u00a0The Court [of Cassation] takes the view, however, that it is possible to arrive at a balanced result ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "X.\u00a0\u00a0Depending on the parties\u2019 conduct, the proceedings may be regarded as a whole or as being separated into two \u2018phases\u2019: if a party allows a considerable time to elapse \u2013 and this must be seen in relation to the six-month period provided for in section 4 of Law no.\u00a089 of 2001 \u2013 from the time when the decision has become res judicata, that same party cannot subsequently complain about the excessive duration of this part of the proceedings; if, by contrast, the party is active prior to the expiry of the six-month period in order to execute the judgment ..., then it is possible to consider the proceedings as a whole, for the purposes of calculating the duration in question ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "XI.\u00a0\u00a0It follows that, when section 4 of Law no. 89 of 2001, as worded prior to the reform of 2012, established the time-barring of the right to compensation for the exceeding of the six-month period, it had been based on the assumption of a case-by-case assessment of the link between the merits phase and the execution phase from the perspective of action rather than that of law ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "XII.\u00a0\u00a0The new perspective established by the judgment of the Plenary Court (Sezioni Unite) of 2014 [no. 6312/2014 above-mentioned], which is more in line with the principles of the ECHR \u2013 according to the interpretation emphasised previously \u2013 ... cannot therefore be extended in an absolute sense, that is to say by ignoring any differences \u2013 in structures and in principle \u2013 that may be specific to the national system between the merits phase and the execution phase ...: it is precisely by taking account of such differences that it is possible to interpret the rule ... in such a way as to fix, depending on the party\u2019s conduct, the starting-point for the calculation of the six-month period, either on the date when the decision on the merits becomes final or at the time when the right upheld in the previous phase is effectively secured ...\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0The applicant complained about the excessive length of the civil proceedings to which she had been a party. She relied on Article 6 \u00a7 1 of the Convention, of which the relevant part reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "26.\u00a0\u00a0The applicant argued that the dismissal of her \u201cPinto\u201d compensation claim as being out of time had disregarded the Court\u2019s case-law to the effect that the execution phase is an integral part of the \u201ctrial\u201d within the meaning of Article 6 of the Convention. Thus, according to the applicant, based on the principles set out in the Cocchiarella judgment (cited above, \u00a7\u00a7\u00a0 8790), the \u201cfinal domestic decision\u201d, to be taken as a starting point for the six-month period within which to bring a claim for just satisfaction under section 4 of Law no. 89 of 2001, should be the garnishee order of 25\u00a0January 2005 issued by the enforcements judge.",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0The applicant also complained about her inability to have access to the \u201cPinto\u201d courts on account of the conflict between domestic case-law and the principles developed by the Court as regards the right of access to a court. She relied on that basis on Articles 1 and 13 of the Convention, of which the relevant parts read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe High Contracting Parties shall secure to everyone within their jurisdiction the rights and freedoms defined in Section I of [the] Convention.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0Being master of the characterisation to be given in law to the facts of the case (see Aksu v. Turkey [GC], nos. 4149/04 and 41029/04, \u00a7 43, ECHR\u00a02012; Halil Y\u00fcksel Ak\u0131nc\u0131\u00a0v.\u00a0Turkey, no. 39125/04, \u00a7 54, 11 December 2012; and Guerra and Others v. Italy, 19 February 1998, \u00a7\u00a044, Reports of Judgments and Decisions 1998I), the Court finds it appropriate to examine these complaints solely under Article 6 \u00a7 1 of the Convention in respect of the right to a hearing within a reasonable time.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Whether the applicant is a victim",
+                                        "elements": [
+                                            {
+                                                "content": "29.\u00a0\u00a0Referring to the decision in Fazio v. Italy ((dec.), 18 June 2013), the Government argued that the applicant, who had intervened de iure ereditario (in her capacity as heir) in the proceedings on 10 March 1999, had been a party to them only between that date and 10 December 2002, the date of the depositing of the Naples District Court\u2019s decision. They thus took the view that she could not be regarded as a victim in respect of the length of the proceedings when taken as a whole.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The applicant disputed the Government\u2019s argument, arguing that, throughout the domestic proceedings, she had acted in her own name as well as in her capacity as heir.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court observes at the outset that, in spite of the Government\u2019s claim, the Fazio decision is not relevant to the present case. In that case the Court found that the applicants had not been victims as they had not been parties to the proceedings as heirs. In the present case, by contrast, the applicant acted before the domestic courts both in her own name and as heir to her mother (see paragraph 7 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The Court would further refer to its case-law on the intervention of third parties in civil proceedings for the purpose of calculating their length. Where the applicant has intervened in domestic proceedings only in his or her own name, the period to be taken into consideration begins to run from the date of that intervention, whereas if the applicant has declared his or her intention to continue the proceedings as heir, he or she can complain of the entire length of the proceedings (see, among other authorities, Scordino v. Italy (no.\u00a01) [GC], no.\u00a036813/97, \u00a7 220, ECHR 2006V, and Cocchiarella, cited above, \u00a7\u00a0113).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0Consequently, the Court rejects this objection by the Government and finds that the applicant can claim to be a \u201cvictim\u201d within the meaning of Article 34 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Whether the application was out of time",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0The Government further objected that the application was out of time, arguing that the applicant had complained in substance solely about the length of the proceedings on the merits. In the Government\u2019s submission, the applicant, instead of filing her \u201cPinto\u201d compensation claim within six months from the \u201cfinal domestic decision\u201d within the meaning of the \u201cPinto Act\u201d, namely the judgment of the Naples District Court, which had become final on 25\u00a0January 2004, had chosen to use the \u201cPinto\u201d remedy at the end of the enforcement proceedings in order to circumvent the rules on the time-barring of just satisfaction claims pursuant to section 4 of the same Act (see paragraph 17 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0To reach this conclusion the Government relied on their interpretation of the case-law deriving from Hornsby v. Greece (19\u00a0March 1997, Reports 1997II). According to that interpretation, the obligation to enforce final judgments and decisions against the State applies only to legal systems which, like the Greek system at the time of the above-mentioned judgment, do not provide for any remedy by which to seek the enforcement of a final judicial decision. The Government stressed that the Italian legal system did, by contrast, provide for that type of remedy.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0In addition, the Government observed that the applicant had had the possibility of complaining about the length of the proceedings on the merits and, later in subsequent proceedings, about the length of the enforcement proceedings, if they were excessive and in breach of Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0Lastly, as to the departure from precedent decided by the Court of Cassation (see paragraph 23 above), the Government wished to emphasise the differences between the facts which had given rise to the Court of Cassation\u2019s judgment no.\u00a06312/2014 and those of the present case. They explained that the new case-law of that court, providing a holistic interpretation of the procedure, was strictly confined to the kind of dispute governed by the \u201cPinto Act\u201d and that those same principles could not be transposed to ordinary civil proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The applicant disputed the Government\u2019s argument. She submitted that the decision to declare inadmissible her \u201cPinto\u201d compensation claim was at odds with the Court\u2019s case-law under Article\u00a06 \u00a7\u00a01 of the Convention. Her disagreement was based on the interpretation of the concept of \u201cfinal domestic decision\u201d in the \u201cPinto Act\u201d, as developed by the domestic courts. In her view, that concept corresponded, at the domestic level, to the final decision relating to the proceedings on the merits. Accordingly, she said that it had not been possible to regard the enforcement judge\u2019s decision as the \u201cfinal domestic decision\u201d and thus to complain about length of the proceedings in their entirety.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0On the other hand, the Court\u2019s case-law regarded enforcement as a possible and necessary phase of the \u201ctrial\u201d within the meaning of Article\u00a06, and those proceedings came to an end when the right claimed was effectively secured. The applicant referred in that connection to a number of the Court\u2019s judgments, including Di Pede v. Italy (26 September 1996, Reports 1996IV), Scollo v.\u00a0Italy (28\u00a0September 1995, Series A no. 315C) and Cocchiarella (cited above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court is of the view that the present case mainly turns on the question whether, in the procedural context of the \u201cPinto\u201d remedy, the enforcement judge\u2019s decision of 25 January 2005 can be taken as the \u201cfinal domestic decision\u201d of the main proceedings, within the meaning of Article\u00a035 of the Convention and, if so, it will have to determine whether the dismissal of the just satisfaction claim by the \u201cPinto\u201d courts constituted a violation of the applicant\u2019s right to a hearing within a reasonable time under Article 6 \u00a7 1 of the Convention. The issue whether the application is out of time being inextricably linked to its merits, the Court holds that the Government\u2019s objection should be joined to the merits.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The Court further finds that the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention and that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0General principles",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0In its foundational judgment in Hornsby (cited above, \u00a7\u00a7 40 et seq.; see also Silva Pontes v.\u00a0Portugal, 23 March 1994, Series A no. 286A; Di Pede, cited above; and Zappia v. Italy, 26 September 1996, Reports 1996IV), the Court established the principle that the right to a court protected by Article 6 would be illusory if a Contracting State\u2019s domestic legal system allowed a final, binding judicial decision to remain inoperative to the detriment of one party. Execution of a judgment given by any court must therefore be regarded as an integral part of the \u201ctrial\u201d for the purposes of Article 6 (see also Burdov v.\u00a0Russia (no. 2), no.\u00a033509/04, \u00a7\u00a065, ECHR\u00a02009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0It transpires from these principles that Contracting States have an obligation to ensure that each right claimed is effectively secured. The Court has also indicated that the extent of this obligation varies according to the status of the obligor. It draws a distinction depending on whether the obligor is an individual debtor or a public authority.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0In the former situation, where an individual or private entity is at fault, it will be for the Contracting States to provide the necessary assistance to ensure that the right claimed is effectively secured. Even though its responsibility cannot be engaged on account of the non-payment of a judgment debt where a \u201cprivate\u201d debtor is insolvent (see, mutatis mutandis, Sanglier v. France, no. 50342/99, \u00a7 39, 27 May 2003; Ciprova v.\u00a0the Czech Republic (dec.), no. 33273/03, 22 March 2005; and Cub\u0103nit v.\u00a0Romania (dec.), no.\u00a031510/02, 4 January 2007), the State has a positive obligation to organise a system that is effective both in law and in practice and ensures the enforcement of final court judgments as between private persons (Fuklev v. Ukraine, no.\u00a071186/01, \u00a7\u00a084, 7 June 2005). State responsibility for enforcement of a judgment by a private party may accordingly be engaged if the State bodies involved in the enforcement process fail to act with the requisite expedition or hinder the enforcement (see Bogdan Vod\u0103 Greek-Catholic Parish v. Romania, no.\u00a026270/04, \u00a7 44, 19 November 2013, and Sekul v. Croatia (dec.), no. 43569/13, \u00a7\u00a7 54-55, 30 June 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0In the second situation, a person who has obtained a judgment against the State may not be expected to bring separate enforcement proceedings (see Metaxas, cited above, \u00a7 19). It will be sufficient for the person to duly notify the State authority concerned (see Akashev v. Russia, no.\u00a030616/05, \u00a7 21, 12 June 2008) or to undertake certain procedural formalities (see Shvedov v. Russia, no. 69306/01, \u00a7\u00a7 29-37, 20 October 2005, and Kosmidis and Kosmidou v. Greece, no. 32141/04, \u00a7 24, 8\u00a0November 2007). The requirement of the creditor\u2019s cooperation must not, however, go beyond what is strictly necessary for the enforcement and, in any event, does not relieve the authorities of their obligation to take timely action on their own initiative (see Akashev, cited above, \u00a7 22; Burdov, cited above, \u00a7 35; and Koukalo v. Russia, no. 63995/00, \u00a7 49, 3\u00a0November 2005), in particular through the organisation of the judicial system (see, mutatis mutandis, Comingersoll S.A. v. Portugal [GC], no. 35382/97, \u00a7\u00a024, ECHR 2000IV, and Frydlender v. France [GC], no. 30979/96, \u00a7 45, ECHR 2000VII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0An unreasonable delay in the enforcement of a binding judgment may thus entail a violation of the Convention (see Burdov (no. 2), cited above, \u00a7 73). The reasonableness of such a delay will depend on different factors, such as the complexity of the enforcement proceedings, the applicant\u2019s own behaviour and that of the competent authorities, and the amount and nature of the court award (Raylyan v. Russia, no.\u00a022000/03, \u00a7\u00a031, 15 February 2007).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0The Court has previously found that, where the enforcement did not raise any particular issue, as regards the payment of a sum of money, a delay of one year and three months in principle violated the applicant\u2019s right to a court, whereas a period of six months taken by the authorities to enforce a judgment did not in itself appear unreasonable (see Burdov (no. 2), cited above, \u00a7\u00a7 83 and 85).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0In respect of a compensatory remedy designed to redress the consequences of excessively lengthy proceedings, the Court has accepted that the authorities may need time in which to make payment. It has stated that this period should not generally exceed six months from the date on which the decision awarding compensation becomes enforceable (see Cocchiarella, cited above, \u00a7 89).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Application of the above principles to the present case",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0Turning now to the present case, the Court observes that the judgment of the Naples District Court was delivered on 10 December 2002 and that, in the absence of notification, it became final and enforceable on 25 January 2004. From that date onwards, the respondent authority knew or was supposed to know that it was required to pay the applicant the sum due.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0According to the case-law cited above (see paragraphs 42-45 above), the applicant was not required to bring any enforcement proceedings, as the award in question had been obtained against the State. The Court would note, moreover, that the enforcement of the judgment did not raise any particular difficulty in addition to the mere payment of a sum of money.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0As no spontaneous payment was forthcoming on the part of the public authority, the applicant referred the matter to the Naples enforcements judge, who, on 25 January 2005, granted a garnishee order in her favour (see paragraph 13 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0Accordingly, the right claimed by the applicant was effectively secured on that date, as the garnishee order was the \u201cfinal domestic decision\u201d in the main proceedings in the present case (see, among other authorities, Burdov (no. 2), cited above, \u00a7\u00a072).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0Consequently, the proceedings ran from 21 October 1994 to 27\u00a0March 1998 and then from 10 March 1999 until their conclusion on 25\u00a0January 2005 (paragraphs 8-13 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0In addition, the Court notes that the Court of Cassation, sitting in its plenary formation (Sezioni Unite), decided in 2016 to depart from precedent in such matters (see paragraphs 23-24 above). In particular, as pointed out by the respondent Government in their observations (see paragraph 37 above), the facts underlying judgment no.\u00a09142/2016 are similar to the facts of the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court observes that, even though it is not completely in-keeping with the principles set out in its case-law (see paragraph 48 above), that judgment can be interpreted generally to the effect that \u201cit is possible to consider the proceedings as a whole, for the purposes of calculating the length (of the proceedings)\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0However, at the material time, the domestic courts had a different interpretation consisting of a strict separation between the proceedings on the merits and the enforcement stage (see paragraph 22 above). That interpretation was in fact confirmed by the decisions rendered against the applicant by the Rome Court of Appeal on 18\u00a0May 2006 and by the Court of Cassation on 25 September 2008.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0In conclusion, the Court would point out that it has dealt, on many occasions, with applications raising similar questions as regards the length of proceedings and has found breaches of the \u201creasonable time\u201d requirement based on criteria derived from its well-established case-law in such matters (see, among many other authorities, Cocchiarella, cited above, with references to Bottazzi v. Italy [GC], no. 34884/97, \u00a7 22, ECHR 1999V; Di Mauro v. Italy [GC], no. 34256/96, \u00a7 23, ECHR 1999V; Ferrari v. Italy [GC], no. 33440/96, \u00a7 21, 28 July 1999; and A.P. v.\u00a0Italy [GC], no.\u00a035265/97, \u00a7 18, 28 July 1999).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0There being no reason to depart from its previous findings, the Court takes the view that the length of the proceedings in the present case was excessive and did not meet the \u201creasonable time\u201d requirement. Accordingly, the Court rejects the Government\u2019s preliminary objection to the effect that the application was out of time and holds that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the excessive length of the proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "59.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "60.\u00a0\u00a0The applicant claimed 12,625 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Government disputed the applicant\u2019s claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court finds it appropriate to award the applicant EUR 3,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0The applicant also claimed EUR 3,206.31 for the costs and expenses incurred in the proceedings before the domestic courts and EUR 4,553.92 for those incurred before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The Government disputed the applicant\u2019s claims. They alleged in particular that she had not fulfilled her obligations under Rule 60 of the Rules of Court to submit the necessary supporting documents with her written observations on the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court rejects the claim for costs and expenses in the domestic proceedings, as the applicant has failed to submit supporting documents in support of this part of her claim. It considers it reasonable, however, to award her the sum of EUR 1,500 for the proceedings before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "66.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits and rejects the Government\u2019s objection that the application was out of time, and declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention as regards the right to a hearing within a reasonable time;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in French, and notified in writing on 14 September 2017, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article\u00a045 \u00a7\u00a02 of the Convention and Rule\u00a074 \u00a7\u00a02 of the Rules of Court, the separate opinion of Judge Wojtyczek is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "(Translation)",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0I am in agreement with my colleagues in finding that Article 6 of the Convention has been breached as regards the right to a hearing within a reasonable time. I do have some reservations, however, regarding the reasoning of the judgment, particularly paragraph 57.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0In the present case, the proceedings lasted from 21 October 1994 to 27 March 1998, and were then resumed on 10 March 1999 before being concluded on 25 January 2005 (see paragraph 53). In such circumstances, the respondent Government were required to justify the length of the proceedings by giving relevant reasons. They failed to do so. Those circumstances are sufficient for a violation of Article 6 to be found.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0In paragraph 57 of the judgment, the Court states as follows:",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0This statement raises a number of questions. First, the mention of \u201csimilar questions as regards the length of proceedings\u201d calls for an explanation as to how those questions were similar. What are the relevant criteria for establishing similarities between cases?",
+                        "elements": []
+                    },
+                    {
+                        "content": "Secondly, the Court refers in the above-mentioned paragraph 57 to the Cocchiarella case. In its judgment in that case the Court explained, in the context of its assessment of non-pecuniary damage, as follows (Cocchiarella v. Italy, \u00a7 138):",
+                        "elements": []
+                    },
+                    {
+                        "content": "Does the reasoning in the present judgment refer to those criteria or to others?",
+                        "elements": []
+                    },
+                    {
+                        "content": "Thirdly, in paragraph 57 of the present judgment the Court mentions \u201ccriteria derived from its well-established case-law in such matters\u201d and it cites a certain number of references. I would observe in this context that in Cocchiarella the Court devised criteria for the purpose of calculating the total length of the proceedings in the event of any intervention by a third party but not to assess whether that length was excessive, merely referring to its previous case-law without further explanation. Moreover, the relevant paragraphs of the four other judgments cited do not contain any criteria for a breach of the \u201creasonable time\u201d requirement to be found. In that context, the reference to Cocchiarella and to the other four judgments, presented as they are as sources of \u201ccriteria derived from its well-established case-law\u201d, would seem to be erroneous. It would thus have been desirable to enumerate in the present case the criteria that are being referred to, or to provide a reference to a judgment in which they have been set out.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Fourthly, the argument of similarity with other cases concerning the length of proceedings must be used with much precaution, as in practice, in spite of certain appearances, judicial proceedings conducted in concrete cases can be very different, particularly as regards the degree of complexity of the legal issues, the establishment of the facts, the conduct of the parties and the course of the proceedings. It is rare for two cases really to be similar. In those circumstances, this argumentum a simile, which is used here without any further explanation, tends not to strengthen but to weaken quite considerably the persuasive force of the reasoning of the Court\u2019s present judgment.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Linos-Alexandre Sicilianos",
+            "role": "president"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": "Guido Raimondi",
+            "role": "judges"
+        },
+        {
+            "name": "Ale\u0161 Pejchal",
+            "role": "judges"
+        },
+        {
+            "name": "Krzysztof Wojtyczek",
+            "role": "judges"
+        },
+        {
+            "name": "Tim Eicke",
+            "role": "judges"
+        },
+        {
+            "name": "Jovan Ilievski",
+            "role": "judges"
+        },
+        {
+            "name": "Renata Degener",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF BOZZA v. ITALY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-177135.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0914JUD001773909",
+    "externalsources": [],
+    "extractedappno": [
+        "17739/09",
+        "64886/01",
+        "22644/03",
+        "36813/97",
+        "59498/00",
+        "4149/04",
+        "41029/04",
+        "39125/04",
+        "33509/04",
+        "50342/99",
+        "33273/03",
+        "31510/02",
+        "71186/01",
+        "26270/04",
+        "43569/13",
+        "30616/05",
+        "69306/01",
+        "32141/04",
+        "63995/00",
+        "35382/97",
+        "30979/96",
+        "22000/03",
+        "34884/97",
+        "34256/96",
+        "33440/96",
+        "35265/97"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-177135",
+    "judgementdate": "14/09/2017 00:00:00",
+    "kpdate": "14/09/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "406",
+        "183",
+        "498",
+        "14",
+        "471",
+        "216",
+        "577",
+        "283"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "34",
+        "35-1",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "BOZZA",
+        "ITALY"
+    ],
+    "rank": "2013.84228515625",
+    "representedby": [
+        "MARRA M. T."
+    ],
+    "respondent": "ITA",
+    "respondentOrderEng": "23",
+    "scl": [
+        "A.P. v. Italy [GC], no 35265/97, \u00a7 18, 28 July 1999",
+        "Akashev v. Russia, no 30616/05, 12 June 2008",
+        "Aksu v. Turkey [GC], nos. 4149/04 and 41029/04, \u00a7 43, ECHR 2012",
+        "Bogdan Vod\u0103 Greek-Catholic Parish v. Romania, no 26270/04, \u00a7 44, 19 November 2013",
+        "Bottazzi v. Italy [GC], no 34884/97, \u00a7 22, ECHR 1999 V",
+        "Burdov v. Russia, 7 May 2002, no 59498/95",
+        "Burdov v. Russia (no 2), no 33509/04, ECHR 2009",
+        "Shvedov v. Russia, no 69306/01, \u00a7\u00a7 29-37, 20 October 2005",
+        "Ciprova v. the Czech Republic (dec.), no 33273/03, 22 March 2005",
+        "Cocchiarella v. Italy [GC], no 64886/01, ECHR 2006 V",
+        "Comingersoll S.A. v. Portugal [GC], no 35382/97, \u00a7 24, ECHR 2000 IV",
+        "Cub\u0103nit v. Romania (dec.), no 31510/02, 4 January 2007",
+        "Di Mauro v. Italy [GC], no 34256/96, \u00a723, ECHR 1999 V",
+        "Di Pede v. Italy, 26 September 1996, Reports 1996 IV",
+        "Ferrari v. Italy [GC], no 33440/96, \u00a7 21, 28 July 1999",
+        "Fuklev v. Ukraine, no 71186/01, \u00a7 84, 7 June 2005",
+        "Frydlender v. France [GC], no 30979/96, \u00a7 45, ECHR 2000 VII",
+        "Guerra and Others v. Italy, 19 February 1998, \u00a7 44, Reports of Judgments and Decisions 1998 I",
+        "Halil Y\u00fcksel Ak\u0131nc\u0131 v. Turkey, no 39125/04, \u00a7 54, 11 December 2012",
+        "Hornsby v. Greece, 19  March 1997, \u00a7 40, Reports 1997 II",
+        "Kosmidis and Kosmidou v. Greece, no 32141/04, \u00a7 24, 8 November 2007",
+        "Kukalo v. Russia, no 63995/00, \u00a7 49, 3 November 2005",
+        "Metaxas v. Greece, no. 8415/02, \u00a7 19, 27 May 2004",
+        "Raylyan v. Russia, no 22000/03, \u00a7 31, 15 February 2007",
+        "Sanglier v. France, no 50342/99, \u00a7 39, 27 May 2003",
+        "Scordino v. Italy (no 1) [GC], no 36813/97, \u00a7 220, ECHR 2006 V",
+        "Sekul v. Croatia (dec.), no 43569/13, \u00a7\u00a7 54-55, 30 June 2015",
+        "Silva Pontes v. Portugal, 23 March 1994, Series A no 286 A",
+        "Zappia v. Italy, 26 September 1996, Reports 1996 IV"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "483922",
+    "typedescription": "15"
+}

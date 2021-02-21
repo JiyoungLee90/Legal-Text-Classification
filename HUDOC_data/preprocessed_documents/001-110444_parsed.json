@@ -1,0 +1,1308 @@
+{
+    "__articles": "3;5;5-1-c;5-3;35;41",
+    "__conclusion": "Remainder inadmissible;No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 5 - Right to liberty and security (Article 5-1-c - Bringing before competent legal authority);Violation of Article 5 - Right to liberty and security (Article 5-3 - Length of pre-trial detention);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "41794/04",
+    "article": [
+        "3",
+        "41",
+        "35",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Effective investigation"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-3 - Length of pre-trial detention"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-110444.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 41794/04) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mr Vladimir Aleksandrovich Chumakov (\u201cthe applicant\u201d), on 19 September 2004.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms K. Kostromina, a lawyer practising in . The Russian Government (\u201cthe Government\u201d) were represented by Mr P. Laptev, former Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant complained, in particular, that he had been ill-treated by the police, that his detention on remand had been unlawful and lengthy, that the criminal proceedings against him had been unfair and that there had been no effective remedies in respect of the alleged violations of his rights. He referred to Articles 2, 3, 5, 6, 7, 8 and 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 24 October 2005 the President of the First Section decided to give notice of the application to the Government. It was also decided to examine the merits of the application at the same time as its admissibility (Article 29 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1979 and lives in Pyatigorsk, the Stavropol Region.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Administrative proceedings against the applicant and his alleged ill-treatment",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0On 29 September 2002 a certain Ms Sh. was murdered. On the next day the police initiated criminal proceedings in that connection.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On the same day a certain Mr M., who had been arrested for the administrative offence of public drunkenness, complained to the police that the day before the applicant had allegedly sworn at him and attempted to start a fight.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 2 October 2002 an administrative offence record was drawn up in respect of the applicant by police officers K. and B. The applicant denied Mr M.\u2019s allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 3 October 2002 he was found guilty of disorderly conduct and sentenced to five days\u2019 administrative detention by the Justice of the Peace of the 1st Circuit of the Kirovskiy District of the Stavropol Region.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 3 October 2002, pursuant to the aforementioned judgment of the same date, the applicant was placed in the temporary holding facility of the Kirovskiy District Police Department of the Stavropol Region (\u201cthe district police department\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0According to the applicant, between 3 and 6 October 2002 police officers forced him to confess to the murder of Ms Sh. by beating him up and threatening him with rape with a rubber truncheon.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 6 October 2002 the applicant signed a confession to the murder of Ms Sh. He stated, in particular, that he had strangled her with a TV power cable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 7 October 2002 the investigator in charge recorded the applicant\u2019s arrest on suspicion of murder.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The investigator also ordered a forensic medical examination of the applicant, which was carried out on 7 October 2002 by a medical expert with ten years\u2019 experience, who certified that he had no injures (certificate no. 181).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": "15.\u00a0\u00a0On 8 October 2002 the Kirovskiy District Court of the Stavropol Region (\u201cthe District Court\u201d) ordered the applicant\u2019s placement in custody as a preventive measure, stating that he was suspected of having committed a particularly serious criminal offence, might abscond from justice and had been given negative character references at the place of his residence. The applicant was then transferred to the remand centre \u201cSIZO-26/2\u201d of Pyatigorsk.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 9 October 2002 the applicant was formally charged with murder.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 6 December 2002 the District Court extended the term of the applicant\u2019s pre-trial detention until 7 January 2003. The applicant\u2019s counsel argued that there were no grounds to believe that the applicant might abscond, that he had a permanent place of residence and permanent work and had confessed to the crime. The fact that he was accused of a serious criminal offence could not, as such, be the basis for his continued pre-trial detention. The court decision read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cBearing in mind that it is impossible to complete the pre-trial investigation within two months ... there are no grounds to change or quash the preventive measure [with regard to the applicant], considering that [the applicant] is charged with a particularly serious crime associated with a high risk to society, which does not exclude the possibility of him absconding from the investigating bodies and the court, the judge finds it necessary to grant the investigator\u2019s request for the extension of the term of detention ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The applicant did not appeal against that decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 27 December 2002 the applicant requested the investigator to exclude his self-incriminating statements of 6 October 2002 from the body of evidence, alleging that he had confessed to the murder under physical and psychological pressure by the police officers during his administrative detention. The applicant alleged that every night they had taken him out of his cell to their office and had psychologically pressurised him to confess.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 30 December 2002 the District Court examined the investigator\u2019s application for the extension of the applicant\u2019s detention. The applicant stated that he had no intention of absconding or influencing witnesses and asked to be released. The court extended the term of his pre-trial detention until 7\u00a0February 2003 for the following reasons:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cBearing in mind that it is impossible to complete the pre-trial investigation within two months ... there are no grounds to change or quash the measure of restraint [with regard to the applicant], considering that [the applicant] is charged with a particularly serious crime, and might impede a thorough, comprehensive and objective investigation or abscond from the investigating bodies, the judge finds it necessary to grant the investigator\u2019s request for the extension of the term of detention ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It does not appear that the applicant appealed against this decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 31 January 2003 the applicant was served with a copy of the bill of indictment for the murder.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 6 February 2003 the case was sent to the District Court for trial.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Court proceedings and the applicant\u2019s detention pending trial",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0First round of court proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "22.\u00a0\u00a0Upon receipt of the case file, on 6 February 2003 the District Court scheduled a preliminary hearing for 17 February 2003. It also ordered that the preventive measure of detention should remain unchanged. It does not appear that the applicant appealed against this decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0On 19 May 2003 the District Court found the applicant guilty of murder and sentenced him to nine years\u2019 imprisonment. It relied, in particular, on his self-incriminating statements. It took into account statements by the police officers, who denied ill-treating the applicant, and the medical expert report, according to which the applicant\u2019s examination on 7 October 2002 had not revealed any injuries on him, and dismissed the applicant\u2019s allegations of ill-treatment as unsubstantiated.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 20 July 2003 the applicant\u2019s counsel obtained written statements from a certain Mr I. Sh. who stated that he had been detained in the same cell as the applicant in the temporary holding facility of the district police department from 3 to 5 October 2002. He stated that the applicant had been taken out of his cell in the night. After his return the applicant had told him that the police officers had beaten him up and that they had threatened him with rape with a rubber truncheon.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 31 July 2003 the  examined the applicant\u2019s appeal against his conviction. It found that the evidence on which the judgment was based contained a number of discrepancies which had not been resolved by the trial court and that the failure to summon witnesses for the applicant properly had undermined the adversarial nature of the trial. It also held that the applicant\u2019s allegations that his self-incriminating statements had been obtained under duress had not been thoroughly examined; that the police officers\u2019 statements did not constitute sufficient evidence of their proper conduct; and that the applicant\u2019s counsel\u2019s complaint to the prosecutor\u2019s office of the Kirovskiy District (\u201cthe district prosecutor\u2019s office\u201d) about the unlawful acts of the police had been left unanswered and no inquiry in that connection had been conducted. The  thus quashed the judgment and remitted the case for a fresh examination by the first-instance court. It also ordered that the applicant remain in custody.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Second round of court proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0On 11 August 2003 the case file arrived at the District Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0On 12 August 2003 the District Court extended the term of the applicant\u2019s detention until 6 November 2003, stating that the applicant was charged with a particularly serious criminal offence and that, if released, he might impede the criminal proceedings or evade trial. It also noted that the case had been before the courts for more than six months; that the initial term of the applicant\u2019s detention established in Article 255 \u00a7 2 of the Russian Code of Criminal Procedure had expired and that it should be extended for the next three months. The applicant, who was neither present nor represented at the hearing, did not appeal against this decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On 12 September 2003 the applicant\u2019s lawyer obtained further written statements from Mr I. Sh., who stated that he had been detained in the same cell as the applicant in the temporary holding facility of the district police department in October 2002. The applicant had been taken out of his cell in the night. After his return the applicant had told him that the police officers had beaten him in the area of the kidneys and liver. Mr I. Sh. further stated that he had seen fresh scratches on the applicant\u2019s left shoulder and elbow and that the applicant\u2019s lower lip had been hurt.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On 6 November 2003 the District Court rejected the applicant\u2019s request for release under an undertaking not to leave a specified place and, with reference to Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, extended his detention for three months until 6 February 2004 on the same grounds as those given in its decision of 12 August 2003. The applicant\u2019s lawyers referred to the length of detention, the applicant\u2019s innocence and the deterioration of his health. The applicant appealed against the decision, arguing, in particular, that it was insufficiently reasoned.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0On 10 December 2003 the  quashed the decision of 6\u00a0November 2003, referring to the absence of a transcript of that hearing in the materials of the case, and remitted the matter to the same court for a fresh examination.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0On 8 January 2004 the District Court ordered, under Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, that the term of the applicant\u2019s detention be extended until 6 February 2004. It relied on the same reasons as those which were set out in the decision of 12 August 2003. The applicant\u2019s lawyers referred to the absence of reasons for the applicant\u2019s continued detention, in particular the lack of grounds for the risk of him absconding, his permanent place of residence and work, positive references and the length of his detention. The court stated that at that stage it could not take into account the argument concerning the applicant\u2019s innocence. It did not address any other arguments put forward by the applicant\u2019s lawyers. The applicant did not appeal against that decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0On 5 February 2004 the District Court again examined the question of the preventive measure applied to the applicant. The applicant asked to be released, referring to the deterioration of his health and stomach complaints. His lawyers referred to the excessive length of his detention, the absence of reasons to believe that he might abscond or otherwise impede the proceedings and the fact that he had received positive character references. The court dismissed their request for release and extended, on the basis of Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, the applicant\u2019s detention for a further three months, until 6 May 2004, for reasons identical to those cited in its previous decisions. It did not address the applicant\u2019s lawyers\u2019 arguments. It does not appear that the applicant appealed against that decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 22 March 2004 the applicant\u2019s father\u2019s flat was searched. The applicant\u2019s father\u2019s complaints about the unlawfulness of the search were dismissed by the district prosecutor\u2019s office on 13 April 2004 and by the District Court on 14 May 2004.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0On 26 April 2004 the District Court convicted the applicant as charged and sentenced him to nine years\u2019 imprisonment. It examined, in particular,  Sh. (see paragraphs 24 and 28 above) who stated before the court that the applicant had not complained about any ill-treatment by the police officers and that he had not seen any injures on the applicant. According to Mr I. Sh., his previous statements to the contrary had been false and had been given at the request of the applicant\u2019s parents and defence counsel in order to help the applicant. Two other witnesses, Mr\u00a0R. and Mr S., who had also been held in the applicant\u2019s cell at some point in October 2002, also stated that they had neither heard from the applicant about any pressure by the police nor seen any injures on him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0On appeal, on 3 August 2004 the  found that the trial court had failed to assess the arguments put forward by the defence properly and that the applicant\u2019s right to defend himself had been violated. It quashed the judgment of 26 April 2004 and remitted the case to the District Court for a fresh examination. The  also ordered that the applicant\u2019s detention on remand as a preventive measure remain unchanged.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Third round of court proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "36.\u00a0\u00a0On 18 August 2004 the case file arrived at the District Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0On 23 August 2004 the District Court scheduled a preliminary hearing in the case for 1 September 2004. It also ordered that the preventive measure applied to the applicant in the form of detention on remand remain unchanged. It does not appear that the applicant appealed against that decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0On 1 September 2004 the District Court extended, with reference to Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, the term of the applicant\u2019s detention for three months, to be calculated from 13 August 2004 until 13 November 2004. The court noted that the term of the applicant\u2019s detention, as previously extended on 5 February 2004 (see paragraph 32 above), had expired on 13 August 2004, and that it had received the case file from the  only on 18 August 2004. The applicant requested the court to release him, referring to the deterioration of his state of health and his stomach ulcer. The court held as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c... the accused ... is charged with a particularly serious crime; the circumstances of the case were not ... established in detail ... in the course of the trial, the evidence which could have determined [his] guilt [or innocence] was not examined ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The positive character references of the accused ... do not constitute sufficient grounds to release him ... because, if released, he might abscond ... and hinder the establishment of the truth in the case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The court cannot take into account ... the claim that the accused is ill and needs medical treatment as he has not submitted any relevant documents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The court has not established any procedural violations in respect of his detention on remand.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The applicant and his counsel appealed against the decision of 1\u00a0September 2004, arguing that the previously authorised term of the applicant\u2019s detention had expired on 13 August 2004 and had not been extended by the court. According to them, the applicant had therefore been detained unlawfully for 18 days from 13 August to 1 September 2004.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0On 17 September 2004 the  upheld the decision of 1\u00a0September 2004 on appeal. It stated that the fact that the applicant was accused of a particularly serious criminal offence had rightly been taken into account by the first-instance court; that the applicant\u2019s state of health did not preclude his being kept in custody and that there had, therefore, been sufficient reasons for extending his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0On 1 November 2004 and 26 January 2005 the District Court further extended the term of the applicant\u2019s detention on remand until 13 February and 13 May 2005 respectively. In its similar decisions the court relied on the same reasons to justify the applicant\u2019s continued detention as those set out in the decision of 1 September 2004. The applicant did not appeal against either of those two decisions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0On 25 April 2005 the District Court convicted the applicant of murder and sentenced him to nine years\u2019 imprisonment. During the hearing  Sh. (see paragraphs 24, 28 and 34 above) stated that the applicant had sometimes been taken out of his cell for interrogation after 10 p.m., that he had seen a scratch on the applicant\u2019s lip and that the applicant had told him that he had been beaten up. According to Mr I. Sh., he did not remember whether there had been other injuries on the applicant. Mr I. Sh. also stated that he had lived at the applicant\u2019s parents\u2019 home for several days and had done some work for them and that the applicant\u2019s family had supported him when he had been detained in the context of another criminal case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0On 22 September 2005 the  quashed the judgment and remitted the case to the District Court for a fresh examination. It found, in particular, that the first-instance judgment was based on conflicting evidence. It also held that the preventive measure should remain in place as there were no grounds to release the applicant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Fourth round of court proceedings",
+                                        "elements": [
+                                            {
+                                                "content": "44.\u00a0\u00a0On 11 October 2005 the case file arrived at the District Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0On 26 October 2005 the District Court held a preliminary hearing in the case for the purpose of taking a decision on the preventive measure to be applied in respect of the applicant. The applicant requested the court to replace his detention with any preventive measure other than deprivation of liberty. His counsel requested that the preventive measure be changed to an undertaking not to leave a specified place and an undertaking of good behaviour, since the applicant had been held in custody for more than three years, had positive character references and did not intend to evade the trial. The prosecutor asked for the preventive measure to remain the same.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The District Court noted that the applicant\u2019s criminal case had been pending before the court since 6 February 2003, and that from that date onwards his detention had been regulated by Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, which allowed it to be extended beyond the initial six-month period for further periods of three months. It further noted that the term of the applicant\u2019s detention had been extended on numerous occasions, and that the last time, on 26 January 2005, the District Court had authorised his detention until 13 May 2005. It also noted that before the expiry of that period, on 25 April 2005, the applicant had been convicted by the trial court. The court then noted that the term of the applicant\u2019s detention, as extended on 26 January 2005, should be considered as having run out on 9 October 2005, provided that the period between 25 April 2005, the date of the conviction, and 22\u00a0September 2005, the date of its quashing on appeal, was excluded from the term of detention on remand, in accordance with paragraph 26 of resolution no. 1 of the Supreme Court of Russia dated 5 March 2004. The court thus held that the term of the applicant\u2019s detention had not been extended in accordance with a procedure prescribed by law and that therefore, despite the seriousness of the charge against him, there were no legal grounds for his further detention on remand. It ordered that the preventive measure be changed to an undertaking not to leave a specified place and an undertaking of good behaviour and that the applicant be released immediately.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0On 3 November 2005 the prosecutor appealed against that decision, arguing that the District Court had erred in its interpretation of paragraph 26 of resolution no. 1 of the Supreme Court of Russia dated 5 March 2004, since it followed from the meaning of Article 255 of the Russian Code of Criminal Procedure that the term of detention should run from the day of a criminal case\u2019s arrival at a first-instance court and not from the day of delivery of an appellate court\u2019s decision. Therefore, in the prosecutor\u2019s opinion, the term of the applicant\u2019s detention should have run out on 29\u00a0October 2005. The applicant disagreed, pointing out the fact that he was employed, that he did not intend to evade justice and that he simply wanted the trial to be concluded as soon as possible and his good name restored.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0On 30 November 2005 the Regional Court found that the District Court had violated Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, as the term of detention of a person who had committed a serious or particularly serious criminal offence had to be extended by a court decision each time, and such extension could not be authorised for a period longer than three months at any one time. It went on to agree with the prosecutor\u2019s submissions and stated that the term of the applicant\u2019s detention should have started running on 11 October 2005, the date when the case file had been received by the District Court, and that therefore it should be regarded as having expired on 29 October 2005. The court then held that this procedural breach was grounds for the annulment of the decision of 26 October 2005, and ordered that the case be sent to the District Court for a new examination. According to the applicant, he attended the hearing of 30 November 2005 and was placed in detention immediately after that hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0On 21 December 2005 the District Court ordered the applicant\u2019s release on an undertaking not to leave his place of residence. It stated that the applicant had been held in detention on remand for more than three years, that after his release on 26 October 2005 he had immediately started working and that he had been given positive character references from his employers. The court held that there were no reasons to believe that he would evade the trial or put pressure on witnesses and thus obstruct the establishment of the truth, and therefore there were no grounds to keep him in detention. The applicant was released immediately.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0On 2 May 2006 the District Court examined the criminal case against the applicant for the fourth time. At the hearing, the applicant insisted that he was innocent and reiterated that he had made his confession at the pre-trial stage because he had been beaten and threatened by the police.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0The District Court observed that the charge against the applicant had mainly been based on his self-incriminating statements and written confession made during the preliminary investigation, which he had later repudiated as having been made under duress. It further noted, as regards the applicant\u2019s medical examination on 7 October 2002, which had not revealed any injuries on him, that the applicant had not been apprised of the investigator\u2019s order to carry out that examination until it had been over. Therefore, in the District Court\u2019s opinion, a note on the resulting expert report to the effect that the applicant had had no comments or questions for the expert, and had not wished to call into question the expert\u2019s authority, was devoid of any legal meaning.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The court further stated that on 6 February 2006 the decision of 27\u00a0January 2003, by which the district prosecutor\u2019s office refused to institute criminal proceedings in respect of the applicant\u2019s allegations of ill-treatment during his administrative detention in October 2002, had been quashed, and that on 15 February 2006 the district prosecutor\u2019s office had again refused to institute criminal proceedings owing to the absence of the constituent elements of a criminal offence in the police officers\u2019 actions. In the District Court\u2019s opinion, however, the applicant\u2019s allegation that he had made self-incriminating statements and had signed his confession as a result of coercion by the police was corroborated by the evidence in the case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0In particular, the court examined the register of detainees of the temporary holding facility where the applicant had been held and noted that the applicant had been taken out of his cell on 3 October 2002, from 7.30\u00a0p.m. to 8.30 p.m., and on 4 October 2002 from 6.25 p.m. to 6.50 p.m. and from 9.40 p.m. to 9.55 p.m. The court further observed that, according to the applicant\u2019s written confession, it had been given on 6 October 2002 in office no. 36 of the temporary holding facility and not in his cell. However, the register did not contain any records confirming that he had been taken out of his cell on that day. Therefore, the District Court doubted the reliability of the official records. It found that the applicant\u2019s confession could not be regarded as having been given voluntarily and was therefore inadmissible as evidence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The District Court also noted that, when the applicant had been interviewed as a suspect on 7 and 9 October 2002, he had not been warned that his statements could be used as evidence, in breach of the domestic law. Having examined the body of evidence in the case, the District Court further stated that it had been contradictory in a number of aspects. In particular, a report on the medical forensic examination of Ms Sh.\u2019s body had attested to the presence of numerous internal injuries. The investigating authorities, however, had never attempted to establish the circumstances in which the victim had sustained those injuries, and the applicant had never admitted inflicting any such injuries on the victim, simply having confessed to having strangled her (see paragraph 12 above). In this respect the District Court noted that, as was clear from the materials of the case, at the time when the applicant had made his self-incriminating statements and signed his confession, the aforementioned expert examination had not yet been carried out and the investigating authorities had not known of the existence of those injuries.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The court further listed a number of other shortcomings in the preliminary investigation and discrepancies in the adduced evidence. It found it unproven that the applicant had committed the imputed offence. The court thus acquitted the applicant and acknowledged his right to rehabilitation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0On 4 July 2006 the  upheld the judgment on appeal. It agreed with the trial court\u2019s finding that the confession had been signed as a result of coercion by the police officers. The court noted in this respect that the very fact that the applicant had been taken out of his cell in breach of relevant regulations had been the proof of coercion, and therefore the arguments of the prosecuting party in the appeal submissions to the effect that the trial court had failed in its judgment to specify the methods of that coercion and to identify those responsible were unfounded. It also agreed with the trial court that the applicant\u2019s self-incriminating statements, which he had later repudiated, had contradicted the other evidence in the case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Investigation into the applicant\u2019s allegations of ill-treatment",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0On 24 January 2003 the applicant\u2019s counsel lodged a complaint with the district prosecutor\u2019s office about the applicant\u2019s ill-treatment by the police officers from the district police department. An inquiry was carried out in connection with that complaint. Several police officers were questioned. They all denied the applicant\u2019s allegations of ill-treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0On 27 January 2003 the district prosecutor\u2019s office decided, relying on their statements and medical expert certificate no. 181 of 7 October 2002, to dispense with criminal proceedings in respect of the applicant\u2019s allegations of ill-treatment owing to the absence of evidence that any crime had been committed. The applicant did not appeal against the decision in court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0On 4 December 2003 the district prosecutor\u2019s office received a complaint from the applicant\u2019s mother about alleged ill-treatment of the applicant by the officers of the district police department.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0On 5 December 2003 a decision not to prosecute the police officers was taken. The Court has not been furnished with a copy of that decision. It does not appear that the applicant attempted to challenge the decision in question before a court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0On 11 August 2005 the district prosecutor\u2019s office quashed the decision of 5 December 2003 and ordered an additional inquiry.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0During that inquiry Mr A., the head of the investigation department, responsible for the investigation of Ms Sh.\u2019s murder at the time of the events in question, and Mr Z., deputy head of the temporary holding facility of the district police department at the material time, were interviewed. They stated that no physical or psychological pressure had ever been exercised on the applicant and that the applicant had voluntarily confessed to the murder and later confirmed his self-incriminating statements during an interview in the presence of his lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0On 18 August 2005 the district prosecutor\u2019s office, with reference to the aforementioned statements of Mr A. and Mr Z., decided not to institute criminal proceedings in connection with the applicant\u2019s allegations owing to the absence of the constituent elements of a criminal offence in the police officers\u2019 actions. The applicant did not appeal against that decision in court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0On 6 February 2006 the prosecutor\u2019s office of the Stavropol Region quashed the decisions of 27 January 2003 and 18 August 2005 as unlawful and unfounded in view of the investigating authorities\u2019 failure to establish all the relevant facts. In particular, it pointed out that the applicant had not been questioned; that the materials of the inquiry lacked an extract from the official records of requests for medical aid in the period from 3 to 6 October 2002; that the register of detainees of the temporary holding facility, where the applicant had been held during the relevant period, had not been examined with a view to establishing when and by whom the applicant had been taken out of his cell(s) for interrogation and to identifying who had been in the cell(s) with him so that they could be questioned in respect of his allegations; that a police officer who had been present when the applicant had signed his confession had not been questioned in that connection; that another police officer who had drawn up the administrative offence record in respect of the applicant had not been questioned in that connection; and that Mr R. and Mr S., who had allegedly shared a cell with the applicant, had not been interviewed either. The district prosecutor\u2019s office was thus ordered to eliminate those defects in the course of an additional inquiry.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0In a decision of 15 February 2006 the district prosecutor\u2019s office again refused to institute criminal proceedings against the police officers owing to the absence of the constituent elements of a crime in their actions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0According to the decision, when interviewed during an additional inquiry, the applicant had stated that on 2 October 2002 he had been taken from his home to a police station where he had met police officers G. and B. The latter had drawn up, on Mr G.\u2019s instructions, an administrative offence record which stated that that the applicant had used obscene language in public. The applicant had been held at the police station from 4 p.m. to 10\u00a0p.m. and then transported to the district police department. On 3 October 2002 he had been placed under administrative arrest for five days and placed in the temporary holding facility of the district police department. Each night the officers of the Kirovskiy district police department, Mr A. and Mr G., had taken him to an office on the third floor in which they had subjected him to psychological pressure. On 6 October 2002, because of that pressure, he had been compelled to make a written confession to the murder of Ms Sh., which had been dictated to him by Mr G.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The decision went on to quote police officer A., who had stated that he had been present when his subordinates, Mr P. and Mr G., had interviewed the applicant. No physical or other form of coercion had been used on the applicant, who had voluntarily confessed to the murder and then confirmed his statements in the presence of his counsel.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0Mr Z., deputy head of the temporary holding facility of the district police department at the material time, had stated that no force had ever been applied to the applicant, who had made no complaints during his detention in that facility. Mr Z. also stated that the applicant, Mr R. and Mr\u00a0S. had never been held in the same cell at the same time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0Mr G. had stated that on 6 October 2002 he had been told that the applicant wished to see him. He had met the applicant at the temporary holding facility. The applicant had told him that he had killed Ms Sh. and had voluntarily written out his confession.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0Mr B. had stated that on 2 October 2002 Mr M. had complained to him that the applicant had sworn at him. He had drawn up an administrative offence record and sent it to the court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0Mr R., who had been detained in the temporary holding facility from 1 to 6 October 2002 for committing an administrative offence, had confirmed that he had shared a cell with the applicant and stated that the applicant had not made any complaints concerning the police officers who had questioned him. Mr S., another detainee during the relevant period, had also been interviewed but had not given any relevant information regarding the applicant\u2019s allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The decision then indicated that, according to the temporary holding facility records concerning medical aid, the applicant had never applied for medical assistance. Nor had he made any complaints concerning his health.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0The decision further stated that, according to the temporary holding facility register of detainees, the applicant had been taken out of his cell on 4 October 2002 at 6.45 p.m. by Mr G. and brought back at 6.50 p.m.; on the same day he had been taken away at 9.40 p.m. by Mr P. and brought back at 9.55 p.m. On 7 October 2002 the applicant had been taken out of his cell from 9 a.m. until 6.15 p.m. for the examination of his statements on the scene of the crime. For the rest of the time the applicant had stayed in his cell.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The decision thus concluded that during the inquiry the applicant\u2019s allegations of ill-treatment had proved unfounded. The applicant did not appeal against that decision in court.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Code of Criminal Procedure",
+                                "elements": [
+                                    {
+                                        "content": "75.\u00a0\u00a0Since 1 July 2002, criminal-law matters have been governed by the Russian Code of Criminal Procedure (Law no. 174-FZ of 18 December 2001, \u201cthe Code\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Preventive measures",
+                                        "elements": [
+                                            {
+                                                "content": "76.\u00a0\u00a0\u201cPreventive measures\u201d include an undertaking not to leave a town or region, personal surety, bail and detention (Article 98). When deciding on a preventive measure, the competent authority is required to consider whether there are \u201csufficient grounds to believe\u201d that the accused would abscond during the investigation or trial, reoffend or obstruct the establishment of the truth (Article 97). It must also take into account the gravity of the charge, information on the accused\u2019s character, his or her profession, age, state of health, family status and other circumstances (Article 99). In exceptional circumstances, and when there exist grounds provided for by Article 97, a preventive measure may be applied to a suspect, taking into account the circumstances listed in Article 99 (Article 100). If necessary, the suspect or accused may be asked to give an undertaking to appear in court (Article 112).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Limits on the duration of detention",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Two types of custody",
+                                "elements": [
+                                    {
+                                        "content": "77.\u00a0\u00a0The Code makes a distinction between two types of custody: the first being \u201cpending investigation\u201d, that is, while a competent agency \u2013 the police or a prosecutor\u2019s office \u2013 is investigating the case, and the second being \u201cbefore the court\u201d (or \u201cpending trial\u201d), at the judicial stage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Limits on the duration of detention \u201cpending investigation\u201d",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0A custodial measure may only be ordered by a judicial decision in respect of a person who is suspected of, or charged with, a criminal offence punishable by more than two years\u2019 imprisonment (Article 108). The maximum length of detention pending investigation is two months (Article\u00a0109). A judge may extend that period up to six months (Article 109 \u00a7\u00a02). Further extensions may only be granted by a judge if the person is charged with serious or particularly serious criminal offences (Article 109 \u00a7\u00a03). No extension beyond eighteen months is permissible and the detainee must be released immediately (Article 109 \u00a7\u00a04).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Limits on the duration of detention \u201cpending trial\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": " practice",
+                                "elements": [
+                                    {
+                                        "content": "80.\u00a0\u00a0In its resolution no. 1 of 5 March 2004 \u201cOn the Application by Courts of the Russian Code of Criminal Procedure\u201d, as in force at the relevant time, the Supreme Court of Russia noted with regard to the provisions of Article 255 \u00a7 3 of the Code, that, when deciding whether to extend a defendant\u2019s detention pending trial, the court should indicate the grounds justifying the extension and its maximum duration (paragraph\u00a016).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0It also stated that, within the meaning of Article 255 \u00a7 2 of the Code, the period after conviction by the first-instance court until such conviction became final, being upheld on appeal, could not be taken into account for the purpose of calculating the six-month period of an individual\u2019s detention pending trial (paragraph 26).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 3 AND 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "82.\u00a0\u00a0The applicant complained that he had been ill-treated by the police in the period between 3 and 6 October 2002 and that there had been no adequate investigation into the matter. He relied on Articles 3 and 13 of the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 3",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 13",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Submissions by the parties",
+                                "elements": [
+                                    {
+                                        "content": "83.\u00a0\u00a0The applicant maintained that he had been subjected to inhuman and degrading treatment, in breach of Article 3 of the Convention, during his detention in the temporary holding facility of the Kirovskiy District Police Department of the Stavropol Region. As regards the medical expert examination carried out on 7 October 2002, which had not established any injuries on him, the applicant referred to the findings of the District Court in its judgment of 2 May 2006, where it had established that the applicant and his lawyer had not been notified of the investigator\u2019s order that such an examination be carried out until after it had been conducted, and therefore a note on the relevant expert report that the applicant had no comments, questions or objections regarding the experts had been devoid of any legal meaning.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0He also argued that in its judgment of 2 May 2006 the District Court had rejected his confession as inadmissible evidence, having stated that the applicant\u2019s allegation that this confessions had been written under pressure by the police had been confirmed by the absence in the register of the temporary holding facility of a record to the effect that on the date when he had signed that confession he had been taken from his cell, whereas the confession, as had been established by the court, had been written in an office of the district police department. Therefore, according to the applicant, in its judgment of 2 May 2006 the District Court had acknowledged the fact that the police officers had exercised pressure on him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0The applicant further contended that the authorities had failed to investigate his allegations of ill-treatment adequately, and therefore he had been deprived of effective remedies in breach of Article 13 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0The Government argued that the applicant had had effective domestic remedies in respect of his complaint of ill-treatment under Article\u00a03 of the Convention, as required by its Article 13, but he had not availed himself of those remedies. In particular, they argued that under Article 125 of the Russian Code of Criminal procedure the applicant could have appealed in court against the decisions of the district prosecutor\u2019s office to dispense with criminal proceeding into his allegations, but he had never used that remedy. The Government argued therefore that the applicant had failed to exhaust domestic remedies in respect of his complaint under Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0As to the merits of the applicant\u2019s complaint, the Government insisted that the applicant\u2019s allegations of ill-treatment had been duly investigated by the district prosecutor\u2019s office and had proved unsubstantiated. They pointed out that the medical expert examination carried out 7 October 2002, that is, immediately after the period during which the applicant had allegedly been ill-treated, had not established any injuries on him. The Government further referred to the statements the police officers against whom the applicant\u2019s allegations had been directed had made during the inquiry into those allegations, as well as their written statements they submitted to the Court, in which they denied ill-treating the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The Government furnished the Court with statements by officers of the temporary holding facility in which the applicant had been detained, as well as three detainees, Mr R., Mr S. and Mr M., who at various times had shared a cell with him, all of them denying seeing any injuries on the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The Government also contended that the fact that, during the fourth round of court proceedings, the trial court had dismissed the applicant\u2019s confession as inadmissible evidence did not prove that the applicant\u2019s allegations of ill-treatment were reliable, as the trial court had merely referred to the absence in the register of the temporary holding facility for the relevant period of a record that on the date when he had made his confession the applicant had been taken out of his cell.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "90.\u00a0\u00a0The Government argued that the applicant had failed to appeal to a court, under Article 125 of the Russian Code of Criminal Procedure, against procedural decisions by which the district prosecutor\u2019s office had refused to institute criminal proceedings into his allegations of ill-treatment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "91.\u00a0\u00a0In this respect, the Court reiterates that, in principle, an appeal against a decision to discontinue criminal proceedings may offer a substantial safeguard against the arbitrary exercise of power by the investigating authority, given a court\u2019s power to annul such a decision and indicate the defects to be addressed (see, mutatis mutandis, Trubnikov v.\u00a0Russia (dec.), no. 49790/99, 14 October 2003). Therefore, in the ordinary course of events such an appeal might be regarded as a possible remedy where the prosecution has decided not to investigate the claims. The Court, however, has strong doubts that this remedy would have been effective in the present case. It observes that the district prosecutor\u2019s office\u2019s decisions to dispense with criminal proceedings in connection with the applicant\u2019s allegations of ill-treatment were quashed on at least two occasions by supervising prosecutors, who instructed the investigating authorities to carry out an additional inquiry (see paragraphs 61 and 64 above). That inquiry also resulted in decisions not to institute criminal proceedings (see paragraphs 63 and 65 above). In these circumstances, the Court is not convinced that an appeal to a court, which could only have had the same effect, would have offered the applicant any redress. It considers, therefore, that such an appeal in the particular circumstances of the present case would be devoid of any purpose. The Court finds that the applicant was not obliged to pursue that remedy and holds that the Government\u2019s objection should therefore be dismissed (see Khatsiyeva and Others v. Russia, no.\u00a05108/02, \u00a7 151, 17 January 2008, or Esmukhambetov and Others v.\u00a0Russia, no. 23445/03, \u00a7 128, 29 March 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0The Court further notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Alleged ill-treatment of the applicant",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Court has observed on many occasions that Article 3 of the Convention enshrines one of the fundamental values of democratic societies and as such prohibits in absolute terms torture or inhuman or degrading treatment or punishment (see, for example, Aksoy v. Turkey, 18 December 1996, \u00a7 62, Reports of Judgments and Decisions 1996-VI, and Ayd\u0131n v.\u00a0Turkey, 25 September 1997, \u00a7 81, Reports 1997VI).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0In order for ill-treatment to fall within the scope of Article 3 it must attain a minimum level of severity. The assessment of this minimum depends on all the circumstances of the case, such as the duration of the treatment, its physical or mental effects and, in some cases, the sex, age and state of health of the victim (see Ireland v. the United Kingdom, 18 January 1978, \u00a7 162, Series A no. 25, and Jalloh v. Germany [GC], no. 54810/00, \u00a7\u00a067, ECHR 2006-IX). Further factors include the purpose for which the treatment was inflicted together with the intention or motivation behind it (see, for instance, Aksoy, cited above, \u00a7 64; Egmez v. Cyprus, no. 30873/96, \u00a7 78, ECHR 2000XII; and Krastanov v. Bulgaria, no. 50222/99, \u00a7 53, 30\u00a0September 2004), as well as its context, such as an atmosphere of heightened tension and emotions (see, for instance, Selmouni v. France [GC], no. 25803/94, \u00a7 104, ECHR 1999V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "95.\u00a0\u00a0The Court has considered treatment to be \u201cinhuman\u201d because, inter alia, it was premeditated, was applied for hours at a stretch and caused either actual bodily injury or intense physical and mental suffering (see Labita v.  [GC], no. 26772/95, \u00a7 120, ECHR 2000IV, and Ramirez Sanchez v. France [GC], no. 59450/00, \u00a7 118, ECHR 2006IX). Treatment has been held to be \u201cdegrading\u201d when it was such as to arouse in its victims feelings of fear, anguish and inferiority capable of humiliating and debasing them and possibly breaking their physical or moral resistance, or when it was such as to drive the victim to act against his will or conscience (see, inter alia, Keenan v. the United Kingdom, no. 27229/95, \u00a7 110, ECHR 2001-III, and Jalloh, cited above, \u00a7\u00a068).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0In assessing evidence, the Court has generally applied the standard of proof \u201cbeyond reasonable doubt\u201d (see Ireland v. the United Kingdom, cited above, \u00a7 161). Such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "97.\u00a0\u00a0Where domestic proceedings have taken place, it is not the Court\u2019s task to substitute its own assessment of the facts for that of the domestic courts and, as a general rule, it is for those courts to assess the evidence before them (see Klaas v. Germany, 22 September 1993, \u00a7 29, Series A no.\u00a0269). Although the Court is not bound by the findings of the domestic courts, in normal circumstances it requires cogent elements to lead it to depart from the findings of fact reached by those courts (see Matko v.\u00a0Slovenia, no. 43393/98, \u00a7 100, 2 November 2006). Where allegations are made under Article 3 of the Convention, however, the Court must apply a particularly thorough scrutiny (see, among other authorities, Vladimir Romanov v. Russia, no. 41461/02, \u00a7 59, 24 July 2008).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0In the present case, the parties agreed that in the period from 3 to 6\u00a0October 2002 the applicant had been detained in a temporary holding facility of the district police department in the context of administrative proceedings brought against him. The applicant alleged that throughout this period police officers had beaten him and threatened him with sexual abuse in an attempt to force him to confess to Ms Sh.\u2019s murder. The Government denied those allegations with reference to medical expert report no. 181 of 7\u00a0October 2002 (see paragraph 14 above), according to which no injuries had been established on the applicant, as well as to the findings of the internal inquiry into the matter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0The Court observes that on 7 October 2002, that is, immediately after the period during which the applicant was allegedly ill-treated by the police, he indeed underwent a medical examination which established that he had no injuries. It further observes that in its judgment of 2 May 2006 the District Court noted certain procedural shortcomings as regards that examination, in particular, the fact that the applicant and his lawyer had not been apprised of the investigator\u2019s decision to order such an examination until after it had been over, with the result that the applicant was apparently unable to effectively make any objections regarding the expert appointed, ask any questions or make any comments concerning the examination (see paragraph 51 above). The domestic court, however, did not specify whether those shortcomings should be regarded as serious enough to cast doubt on the authenticity of the said report, or the validity of its conclusion regarding the absence of any injuries on the applicant. In such circumstances, the Court has no reason to consider the findings of the report of 7 October 2002 unreliable, as was suggested by the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0It further notes that in the proceedings before the national courts the applicant and his lawyers referred to statements by witness I. Sh., who had shared a cell with the applicant at some point between 3 and 6 October 2002 and who had allegedly seen injuries on the applicant and heard him complaining about beatings by the police. In this respect, the Court notes that throughout the trial Mr I. Sh. repeatedly changed his statements concerning the applicant\u2019s allegations of ill-treatment (see paragraphs 24, 28, 34 and 42 above), which cannot but undermine their credibility. Moreover, the impartiality of that witness is also open to doubts given his statement to the effect that he had connections to the applicant\u2019s family (see paragraph 42 above). Two other witnesses, Mr R. and Mr S., who shared cells with the applicant at various times during the relevant period, consistently stated both before the domestic authorities and in written statements adduced by the Government and submitted to the Court that they had not seen any injuries on the applicant or heard him complaining about beatings or any other pressure exercised on him by the police (see paragraphs 34, 71 and 88 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0Against this background the Court is unable to conclude that the applicant was, indeed, beaten by the police as he alleged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0The Court does not overlook the applicant\u2019s assertion that the police officers also subjected him to psychological pressure \u2013 a type of treatment which, for obvious reasons, does not leave any visible traces. He alleged, in particular, that he was threatened with rape with a rubber truncheon. The Court reiterates in this respect that a threat of conduct prohibited by Article 3, provided it is sufficiently real and immediate, may fall foul of that provision. Thus, threatening an individual with torture may constitute inhuman treatment (see G\u00e4fgen v.  [GC], no. 22978/05, \u00a7 91, ECHR 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "103.\u00a0\u00a0In the present case, the District Court in its judgment of 2 May 2006 accepted as well-founded the applicant\u2019s allegation that he had confessed to Ms Sh.\u2019s murder as a result of coercion by the police and thus rejected the applicant\u2019s statement of confession made at the pre-trial stage as inadmissible evidence (see paragraphs 51-53 above). As can be ascertained from the aforementioned judgment, the trial court based its relevant finding on the conflict between the fact that the applicant\u2019s confession had been written on 6 October 2002 in the investigator\u2019s office and the absence of any record in the register of detainees of the temporary holding facility that the applicant had been taken out of his cell on that date. The domestic courts in the present case did not, however, consider it necessary to elaborate on that issue any further and, in particular, to establish what particular methods of coercion had been applied to the applicant (see, by contrast, G\u00e4fgen, cited above, \u00a7\u00a7 94-5). Indeed, when upholding the judgment of 2 May 2006 on appeal, in its decision of 4 July 2006 the  rejected the prosecuting party\u2019s argument to that effect, stating that the very fact that the applicant had been taken out of his cell in breach of relevant regulations had been the proof of coercion (see paragraph 56 above). In the Court\u2019s opinion, such form of coercion, however, cannot be said to have attained \u201ca minimum level of severity\u201d to fall within the scope of Article 3. In the absence of any other findings by the domestic courts in this respect, the Court is unable to assess whether the pressure put on the applicant by the police, as established by the domestic courts, constituted treatment in breach of Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0In the light of the foregoing, the Court finds that it has little evidence to enable it to conclude \u201cbeyond reasonable doubt\u201d that the applicant was subjected to any form of treatment prohibited by Article 3 of the Convention, as alleged by him. Accordingly, the Court finds that there has been no violation of Article 3 of the Convention in its substantive aspect.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Alleged ineffectiveness of the investigation",
+                                "elements": [
+                                    {
+                                        "content": "105.\u00a0\u00a0The Court reiterates that where an individual makes a credible assertion that he has suffered treatment infringing Article 3 at the hands of the police or other similar agents of the State, that provision, read in conjunction with the State\u2019s general duty under Article 1 of the Convention to \u201csecure to everyone within their jurisdiction the rights and freedoms defined in ... [the] Convention\u201d, requires by implication that there should be an effective official investigation. An obligation to investigate \u201cis not an obligation of result, but of means\u201d: not every investigation should necessarily be successful or come to a conclusion which coincides with the claimant\u2019s account of events; however, it should in principle be capable of leading to the establishment of the facts of the case and, if the allegations prove to be true, to the identification and punishment of those responsible. Thus, the investigation of serious allegations of ill-treatment must be thorough. That means that the authorities must always make a serious attempt to find out what happened and should not rely on hasty or ill-founded conclusions to close their investigation or as the basis of their decisions. They must take all reasonable steps available to them to secure the evidence concerning the incident, including, inter alia, eyewitness testimony, forensic evidence, and so on. Any deficiency in the investigation which undermines its ability to establish the cause of injuries or the identity of the persons responsible will risk falling foul of this standard (see, among many other authorities, Mikheyev v. , no. 77617/01, \u00a7\u00a7 107 et seq., 26\u00a0January 2006, and Assenov and Others v. Bulgaria, 28 October 1998, \u00a7\u00a7\u00a0102 et seq., Reports 1998VIII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0Turning to the circumstances of the present case, the Court observes that in his complaint of 27 December 2002, the applicant presented a description of ill-treatment to which he alleged to have been subjected during his administrative detention between 3 and 6 October 2002 (see paragraph 18 above). He then consistently maintained his allegations throughout the domestic proceedings, which were found to be not without foundation by the domestic courts in their decisions of 2 May and 4 July 2006 (see paragraphs 52, 53 and 56 above). The Court sees no reason to depart from these findings by the domestic courts and considers that the applicant\u2019s complaint of ill-treatment was \u201carguable\u201d for the purpose of Article 3, in its procedural aspect, and the domestic authorities were therefore under an obligation to carry out a thorough and effective investigation capable of leading to the identification and punishment of those responsible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0The Court further observes that the authorities carried out an internal inquiry into the applicant\u2019s allegations. It is not convinced, however, that the inquiry was sufficiently thorough and effective to meet the requirements of Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0In this connection, the Court notes, first of all, that although the authorities started the inquiry in question promptly, during the first three years it appears to have been formalistic and superficial. It is clear from the facts of the case that the inquiry commenced in connection with the complaint of the applicant\u2019s lawyer dated 24 January 2003 was terminated on 27 January 2003, that is, three days later (see paragraphs 57 and 58 above). Another inquiry commenced in respect of the complaint of the applicant\u2019s mother of 4 December 2003 was terminated the next day, on 5\u00a0December 2003 (see paragraphs 59 and 60 above). The Court has strong doubts that any meaningful investigative actions could have been or were undertaken during such short periods.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0It further notes that from 2003 to 2005 the inquiry in question was limited to interviewing the police officers against whom the applicant had made his allegations. It comes as no surprise that these officials denied the applicant\u2019s allegations of ill-treatment. Following a supervising prosecutor\u2019s decision of 6 February 2006, which listed a number of shortcomings and ordered that they be eliminated, a more thorough inquiry was obviously conducted. In particular, it appears that for the first time, apart from the aforementioned officials, several other people, including the applicant and those detainees who had shared cells with him during the relevant period, were interviewed. Also, some documentary evidence was examined, in particular, medical records and a register of detainees of the temporary holding facility where the applicant had been held. However, even that inquiry can hardly be said to have been adequate, given, in particular, that, as the applicant pointed out, its findings were subsequently not accepted by the domestic courts as reliable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0The Court also notes that during that latter inquiry a number of essential steps were not taken. In particular, the medical expert who examined the applicant on 7 October 2002 was never interviewed, nor was the applicant given an opportunity, in the course of that inquiry, to question that expert concerning his medical examination. This step would appear the more appropriate, since, as was noted by the District Court, the medical examination had been tainted with certain shortcomings affecting the applicant\u2019s procedural rights (see paragraph 51 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0Moreover, as the Court has already mentioned above, in its judgment of 2 May 2006 the District Court made a number of findings which enabled it to conclude that the applicant\u2019s allegations were not without foundation. It established, in particular, discrepancies between the fact that the applicant had signed his confession in the investigator\u2019s office and the absence of any record in the register of detainees to the effect that the applicant had been taken out of his cell on that date. Also, the court referred to a contradiction between the description of Ms Sh.\u2019s murder the applicant provided in his written confession and subsequent evidence obtained as a result of a medical examination of the victim\u2019s body carried out after the applicant had confessed (see paragraph 54 above). The Court notes that all those discrepancies went unnoticed by the investigating authorities, whereas the District Court, on the basis of the same materials, was able to detect them. In the Court\u2019s opinion, this suggests that the authorities did not, in fact, attempt to investigate the applicant\u2019s allegations diligently and thoroughly.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0In these circumstances, the Court concludes that the inquiry into the applicant\u2019s allegations of ill-treatment was inadequate and ineffective.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0Accordingly, there has been a violation of Article 3 of the Convention on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Alleged lack of effective domestic remedies",
+                                "elements": [
+                                    {
+                                        "content": "114.\u00a0\u00a0The Court observes that, when alleging the absence of domestic remedies under Article 13, the applicant complained, in essence, that the investigation into his allegations of ill-treatment was ineffective. In view of its finding in paragraph 113 above, the Court does not consider it necessary to examine this complaint as it raises no separate issue in the circumstances of the present case.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "115.\u00a0\u00a0The applicant complained that several periods of his detention on remand were not duly authorised, and therefore his detention during those periods was unlawful. In particular, he complained about the court order of 6 February 2003, which had merely stated that the preventive measure applied to him should remain unchanged, and about the court order of 12\u00a0August 2003, by which his continued detention had been authorised in his and his lawyer\u2019s absence. The applicant further complained that on 3\u00a0August 2004 a domestic court had ordered that he remain in custody, without giving reasons or specifying for how long. He also complained that on 1 September 2004 a court had ordered his continued detention for three months, to be calculated from 13 August 2004, thus authorising his detention from 13 August to 1 September 2004 retroactively. Lastly, the applicant appears to have alleged that his detention from 13 November 2004 until 25 April 2005 was unlawful. These complaints fall to be examined under Article 5 \u00a7 1 (c) of the Convention which, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Submissions by the parties",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0The applicant stated that his detention between 3 and 13 August 2004 had not been in accordance with a procedure established by law. In particular, when ordering, in its decision of 3 August 2004, that the preventive measure should remain unchanged, the  had failed to indicate any grounds for his continued detention. He argued that the quashing on appeal of a conviction did not entail by default application of a preventive measure in the form of a deprivation of liberty, and that when ordering that he remain in custody in its decision of 3 August 2004 the Regional Court should have provided relevant reasons based on concrete facts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0He also insisted that the period of his detention from 3 to 13 August 2004 could not have been covered by the court order of 5 February 2004, as this latter order had only authorised his detention from 6 February until 6\u00a0May 2004. It had had no legal force after 26 April 2004, when he had been convicted by the first-instance court, and, in any event, after 6 May 2004, when the period of detention authorised therein had expired.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0The applicant further argued that neither of the decisions of 3 and 23 August 2004 could be regarded as a sufficient legal basis for his detention in the period from 13 August to 1 September 2004, given the absence of any reasons to justify it in any of those two decisions. Moreover, the court order of 1 September 2004 could not be regarded as a legal basis for it either, as it had authorised the applicant\u2019s detention pending trial during the aforementioned period retroactively, which had not been provided for in national law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0The Government insisted that throughout the entire period from 8\u00a0October 2002, when the applicant\u2019s placement in custody had been ordered, until 26 October 2005, when he had been released, his detention on remand had been duly authorised, and had been in accordance with a procedure established by law, as required by Article 5 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "120.\u00a0\u00a0In particular, the Government argued that the applicant\u2019s detention pending trial from 3 to 13 August 2004 had been lawful, as it was based on a decision of 3 August 2004 by which the  had ordered that the preventive measure should remain unchanged. They also argued that the applicant could have challenged the decision of 3 August 2004 through a supervisory review procedure, but had failed to do so, and had therefore failed to exhaust domestic remedies in this respect. The Government further relied on a court order of 5 February 2004 by which the term of the applicant\u2019s detention had been extended until 6 May 2004; they indicated that the applicant had been convicted by the first-instance court on 26 April 2004, that is, ten days before the expiry of the period of detention pending trial authorised by the order of 5 February 2004. The Government insisted, with reference to the resolution of the Supreme Court of 5 March 2004 (see paragraph 81 above), that that ten day period had continued running from 3 August 2004, after the judgment of 26 April 2004 had been quashed on appeal. Therefore, in the Government\u2019s submission, the period of the applicant\u2019s detention between 3 and 13 August 2004 had been covered by the court order of 5 February 2004 and that of 3 August 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0In so far as the period between 13 August and 1 September 2004 was concerned, the Government further referred to the decision of 23\u00a0August 2004 by which the District Court had scheduled a hearing in the applicant\u2019s case and had ordered that the preventive measure remain in place, and to the decision of 1 September 2004 by which the District Court, in accordance with Article 255 \u00a7 3 of the Russian Code of Criminal Procedure, had extended the term of the applicant\u2019s detention for three months, to be calculated from 13 September 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "122.\u00a0\u00a0Lastly, the Government submitted that during the period from 13\u00a0November 2004 to 25 April 2005 the applicant had been detained pursuant to court orders of 1 November 2004 and 26 January 2005.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s detention in 2003",
+                                        "elements": [
+                                            {
+                                                "content": "123.\u00a0\u00a0In so far as the applicant complained that his detention pursuant to court orders of 6 February 2003 and 12 August 2003 was unlawful, the Government submitted that he had not appealed against the latter detention order. The Court does not consider it necessary to address this argument as it notes that the period of the applicant\u2019s detention authorised by the court order of 6 February 2003 ended on 19 May 2003, when the applicant was convicted in the first instance (see paragraphs 22 and 23 above), and the period of the applicant\u2019s detention authorised by the court order of 12\u00a0August 2003 ran out on 6 November 2003, when another court order extending the applicant\u2019s detention pending trial had been taken (see paragraphs 27 and 29 above). The present application was lodged on 19\u00a0September 2004, that is, more than six months after the expiry of the periods of detention complained of.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0It follows therefore that this complaint has been lodged out of time and must be rejected in accordance with Article 35 \u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The applicant\u2019s detention between 3 August and 1 September 2004",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "125.\u00a0\u00a0The Government argued that the applicant had not appealed by way of supervisory review against the decision of 3 August 2004, and therefore had failed to exhaust available domestic remedies. The Court reiterates that, according to its established case-law, an application for a supervisory review in the context of criminal proceedings in Russia has so far not been considered as a remedy to be exhausted under Article 35 \u00a7 1 (see Berdzenishvili v. Russia (dec.), no. 31697/03, ECHR, 17 September 2003). It therefore rejects the Government\u2019s argument.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "126.\u00a0\u00a0The Court further notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "127.\u00a0\u00a0The Court reiterates that Article 5 \u00a7 1 of the Convention requires in the first place that detention be \u201clawful\u201d, which includes the condition of compliance with a procedure prescribed by law. The Convention here essentially refers back to national law and states the obligation to conform to the substantive and procedural rules thereof, but it requires in addition that any deprivation of liberty should be consistent with the purpose of Article 5, namely, to protect individuals from arbitrariness (see, as a recent authority, Medvedyev and Others v. France [GC], no. 3394/03, \u00a7 79, ECHR 2010). It is in the first place for the national authorities, and notably the courts, to interpret domestic law, and in particular, rules of a procedural nature, and the Court will not substitute its own interpretation for theirs in the absence of arbitrariness. However, since under Article 5 \u00a7 1 of the Convention failure to comply with domestic law may entail a breach of the Convention, it follows that the Court can and should exercise a certain power to review whether this law has been complied with (see Toshev v.\u00a0Bulgaria, no. 56308/00, \u00a7 58, 10 August 2006, and Shteyn (Stein) v.\u00a0Russia, no. 23691/06, \u00a7\u00a7 89 and 94, 18 June 2009).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "128.\u00a0\u00a0The Court must, moreover, ascertain whether domestic law itself is in conformity with the Convention, including the general principles expressed or implied therein. On this last point, the Court has stressed that, where deprivation of liberty is concerned, it is particularly important that the general principle of legal certainty be satisfied. It is therefore essential that the conditions for deprivation of liberty under domestic law be clearly defined and that the law itself be foreseeable in its application, so that it meets the standard of \u201clawfulness\u201d set by the Convention, a standard which requires that all law be sufficiently precise to allow the person \u2013 if need be, with appropriate advice \u2013 to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see, among recent authorities, Savenkova v. , no. 30930/02, \u00a7 65, 4 March 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "129.\u00a0\u00a0In the present case, the Government argued that the applicant\u2019s detention on remand during the period under examination had been duly authorised by the  in its decision of 3 August 2004. In this respect, the Court observes that on 3 August 2004 the  quashed the first-instance judgment of 26 April 2004 by which the applicant was convicted, remitted the case for a new consideration by the trial court and ordered that the applicant remain in detention. It gave no reasons for its decision to keep the applicant in custody, nor did it set a maximum time period for his continued detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "130.\u00a0\u00a0The Court has already found violations of Article 5 \u00a7 1 (c) of the Convention in a number of cases against  concerning a similar set of facts (see, for example, Solovyev v. Russia, no. 2708/02, \u00a7\u00a7 95-100, 24 May 2007; Shukhardin v. Russia, no. 65734/01, \u00a7\u00a7 65-70, 28 June 2007; and Belov v. Russia, no. 22053/02, \u00a7\u00a7 79-82, 3 July 2008). In particular, the Court has held that the absence of any grounds given by judicial authorities in their decisions authorising detention for a prolonged period of time is incompatible with the principle of protection from arbitrariness enshrined in Article 5 \u00a7 1. Permitting a prisoner to languish in detention without a judicial decision based on concrete grounds and without setting a specific limit on the duration of that detention would be tantamount to overriding Article 5, a provision which makes detention an exceptional departure from the right to liberty and one that is only permissible in exhaustively enumerated and strictly defined cases (see also Avdeyev and Veryayev v.\u00a0Russia, no. 2737/04, \u00a7\u00a7 45-47, 9 July 2009; Bakhmutskiy v. Russia, no.\u00a036932/02, \u00a7\u00a7 112-14, 25 June 2009; Gubkin v. Russia, no. 36941/02, \u00a7\u00a7\u00a0112-14, 23 April 2009; Ignatov v. , no. 27193/02, \u00a7\u00a7 79-81, 24\u00a0May 2007; and Khudoyorov v. Russia, no. 6847/02, \u00a7 142, ECHR 2005X (extracts)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "131.\u00a0\u00a0The Court sees no reason to reach a different conclusion in the present case. It considers that the decision of 3 August 2004 did not comply with the requirements of clarity, foreseeability and protection from arbitrariness, and therefore that the applicant\u2019s detention pursuant to that decision was not \u201clawful\u201d for the purposes of Article 5 \u00a7 1 of the Convention (see, among others, Savenkova, cited above, \u00a7\u00a068).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0The Government further argued that the period of the applicant\u2019s detention from 3 to 13 August 2004 had also been covered by a court order of 5 February 2004, which had authorised the applicant\u2019s detention from 6\u00a0February until 6 May 2004; they pointed out that the applicant was convicted by a judgment of 26 April 2004, that is, ten days before the expiry of that detention order, and argued that under resolution no. 1 of the Supreme Court of Russia of 5 March 2004 the remaining ten-day period had continued running from 3 August 2004, when the judgment of 26 April 2004 had been set aside on appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0The Court does not accept this argument. It observes that the resolution of the Supreme Court of Russia of 5 March 2004 relied on by the domestic courts and by the Government merely stated in its paragraph 26 that the period between an individual\u2019s conviction by a first-instance court and an appellate court\u2019s decision concerning that conviction was to be excluded from the six-month period provided for an individual\u2019s detention \u201cpending trial\u201d under Article 255 \u00a7 2 of the Russian Code of Criminal Procedure (see paragraph 81 above). The resolution in question said nothing as to whether, in a situation such as the one in the present case where an individual was convicted by a trial court before the expiry of an authorised period of his detention, that \u201cremaining\u201d authorised period should automatically be applied to authorise an individual\u2019s detention after the quashing of his conviction on appeal. No provision to that effect can be found in domestic law either. The Court is therefore of the opinion that the practice adopted by the domestic court was based on an unforeseeable application of domestic law, which was arbitrary. It thus cannot be said to have met the standard of \u201clawfulness\u201d set by the Convention (see paragraph\u00a0128 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "134.\u00a0\u00a0With this in mind, the Court finds that the court order of 5 February 2004 cannot be regarded as a proper legal basis for the applicant\u2019s detention between 3 and 13 August 2004 and cannot therefore enable it to conclude that this detention was \u201clawful\u201d and \u201cin accordance with a procedure prescribed by law\u201d within the meaning of Article 5 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0As regards the period of the applicant\u2019s detention from 13 August to 1 September 2004, the Government referred to a decision of 1 September 2004 by which the Kirovskiy District Court had authorised the applicant\u2019s detention pending trial from 13 August to 13 November 2004. The Court notes that the said court order thus authorised the period of the applicant\u2019s detention between 13 August and 1 September 2004 retroactively. The Government did not indicate any domestic legal provision that permitted a decision to be taken authorising a period of detention retroactively. It follows that the applicant\u2019s detention, in so far as it had been authorised by a judicial decision issued in respect of the preceding period, was not \u201clawful\u201d under domestic law. Furthermore, the Court reiterates that any ex post facto authorisation of detention on remand is incompatible with the \u201cright to security of person\u201d as it is necessarily tainted with arbitrariness (see Khudoyorov, cited above, \u00a7 142, and Solovyev, cited above, \u00a7 99).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0Lastly, in so far as the Government relied on a decision of 23\u00a0August 2004 as authorising the applicant\u2019s detention at least for a part of the period under examination, the Court observes that the said decision did not provide any grounds, or fix a maximum duration for the applicant\u2019s continued detention (see paragraph 37 above). The Court therefore considers that the said decision did not comply with the requirements of Article 5 \u00a7 1 of the Convention for the same reasons as stated in paragraphs\u00a0129-131 above.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "137.\u00a0\u00a0In the light of the foregoing, the Court concludes that there has been a violation of Article 5 \u00a7 1 (c) of the Convention on account of the applicant\u2019s detention from 3 August to 1 September 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The applicant\u2019s detention between 13 November 2004 and 25 April 2005",
+                                        "elements": [
+                                            {
+                                                "content": "138.\u00a0\u00a0As regards the alleged unlawfulness of the applicant\u2019s detention between 13 November 2004 and 25 April 2005, the Court observes that in its decisions of 1 November 2004 and 26 January 2005 the Kirovskiy District Court extended the term of the applicant\u2019s detention until 13\u00a0February and 13 May 2005 respectively. It also provided certain grounds for those decisions, their sufficiency and relevance being analysed below in the context of compliance with Article 5 \u00a7 3 of the Convention. It has never been alleged by the applicant that the District Court acted in excess of its jurisdiction, or that there were any flaws in the relevant detention orders amounting to \u201ca gross and obvious irregularity\u201d so as to render the underlying periods of detention in breach of Article 5 \u00a7 1 of the Convention (see Mooren v.  [GC], no. 11364/03, \u00a7 84, 9 July 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "139.\u00a0\u00a0The Court is therefore satisfied that the period of the applicant\u2019s detention from 13 November 2004 until 25 April 2005, when he was convicted by the trial court, was lawful within the meaning of Article 5 \u00a7 1. It finds that this complaint is manifestly ill-founded and should be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "140.\u00a0\u00a0The applicant complained that there had been no reasonable grounds for his continued pre-trial detention, which had been excessively long. He relied on Article 5 \u00a7 3 of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone arrested or detained in accordance with the provisions of paragraph 1 (c) of this Article shall be ... entitled to trial within a reasonable time or to release pending trial ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Submissions by the parties",
+                                "elements": [
+                                    {
+                                        "content": "141.\u00a0\u00a0The applicant submitted that he had not appealed against a number of court orders extending his detention on remand, because he had been kept in custody and because, in this respect, he had counted on his lawyer who had represented him in the domestic proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0He further maintained that the domestic courts had extended his detention using repetitive arguments, namely, that the applicant had been charged with a serious criminal offence and that he might abscond and obstruct the establishment of the truth in his case. He argued that they had not based their conclusions on any factual findings or evidence. According to the applicant, he and his defence counsel had stated before the domestic courts during the examination of a question concerning the extension of his detention on remand that the applicant had had no prior criminal record, that he had had positive references from work and the place of his residence, had had a permanent address and, prior to his placement in detention, had been employed, and that during the detention his health had deteriorated. However, all those arguments had been ignored by the domestic courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "143.\u00a0\u00a0The applicant also pointed out that, on three occasions, an appellate court had set aside the first-instance judgments by which he had been convicted and sent the case for a new examination. In his opinion, after the first annulment, the courts\u2019 argument that he should remain in custody in order not to obstruct the establishment of the truth had already lost its relevance, as all the witnesses had been questioned during the trial and all the evidence had been adduced, and therefore he could not possibly \u201cobstruct the establishment of the truth\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "144.\u00a0\u00a0The applicant argued, therefore, that there had been no relevant and sufficient grounds for his continued detention, which had lasted too long, in breach of the guarantees of Article 5 \u00a7 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "145.\u00a0\u00a0The Government argued that the applicant had failed to exhaust available domestic remedies in respect of his complaint under Article 5 \u00a7 3 of the Convention, as he had not appealed against the District Court\u2019s decisions of 6 December 2002, 12 August 2003, 8 January and 1 November 2004 and 26 January 2005 to a higher court, and had not challenged the Regional Court\u2019s decisions of 31 July 2003 and 3 August 2004 in a supervisory review procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "146.\u00a0\u00a0They further submitted that every time a decision to extend the applicant\u2019s detention on remand had been taken, the District Court had referred to the seriousness of the charge against the applicant and the fact that he might abscond or obstruct the establishment of the truth in the case. Also, in its decisions of 1 November 2004 and 26 January 2005 the District Court had duly addressed the applicant\u2019s arguments concerning the state of his health, and rejected them in the absence of any recommendations by the doctors of the remand centre where was held at the time to release him. The Government thus insisted that there had been no breach of the applicant\u2019s rights under Article 5 \u00a7 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "147.\u00a0\u00a0As regards the Government\u2019s argument concerning the applicant\u2019s failure to challenge, by a supervisory review procedure, the decisions of 31\u00a0July 2003 and 3 August 2004, the Court has already rejected this argument in paragraph 125 above.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "148.\u00a0\u00a0As to the Government\u2019s argument concerning non-exhaustion of domestic remedies on account of the applicant\u2019s failure to appeal against a number of extension orders (see paragraph 145 above), the Court reiterates that the purpose of the rule requiring domestic remedies to be exhausted is to afford the Contracting States the opportunity of preventing or putting right the alleged violations before those allegations are submitted to the Court (see, among many other authorities, Selmouni, cited above, \u00a7\u00a074). In the context of an alleged violation of Article 5 \u00a7 3 of the Convention, this rule requires that the domestic authorities be given an opportunity to consider whether an applicant\u2019s right to trial within a reasonable time has been respected and whether there exist relevant and sufficient grounds continuing to justify the deprivation of liberty (see, for instance, Shcheglyuk v. Russia, no. 7649/02, \u00a7 35, 14 December 2006, or Pshevecherskiy v.\u00a0, no. 28957/02, \u00a7 50, 24 May 2007).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "149.\u00a0\u00a0In the present case, following his placement in pre-trial detention pursuant to a court order of 8 October 2002 the applicant remained in custody until 26 October 2005, when he was released by a decision of the Kirovskiy District Court of the same date. During that period the applicant challenged at least two court orders extending his detention, and, more specifically, he appealed to a higher court against the decision of 6\u00a0November 2003 (see paragraph 29 above) and against that of 1 September 2004 (see paragraph 39 above). The Court thus considers that, although the applicant did not lodge appeals against any other extension orders issued before September 2004, by lodging an appeal against the aforementioned two detention orders he gave the Stavropol Regional Court \u2013 acting as a court of appeal \u2013 the opportunity to consider whether his detention was compatible with his Convention right to trial within a reasonable time or release pending trial. Indeed, the Regional Court had to assess the necessity of further extensions in the light of the entire preceding period of detention, taking into account how much time the applicant had already spent in custody (see, for similar reasoning, Lyubimenko v. Russia, no. 6270/06, \u00a7\u00a062, 19 March 2009; Polonskiy v. Russia, no. 30033/05, \u00a7 132, 19 March 2009; and Lamazhyk v. , no. 20571/04, \u00a7 80, 30 July 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "150.\u00a0\u00a0Moreover, the Regional Court also had an opportunity to review, on appeal by a prosecutor, the District Court\u2019s decision of 26 October 2005 by which the applicant\u2019s release was ordered. Similarly, in those proceedings nothing prevented the  from assessing the arguments relating to the necessity of extending the applicant\u2019s custody, having regard to the overall period of his detention prior to that date. In other words, the  was given the opportunity to consider whether the applicant\u2019s detention prior to 26 October 2005 was compatible with his Convention right to trial within a reasonable time or release pending trial. The Court considers that the fact that the appeal proceedings in respect of the decision of 26 October 2005 were initiated by a prosecutor rather than by the applicant has no bearing on this conclusion.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "151.\u00a0\u00a0In the light of the foregoing, the Court considers that the applicant cannot be said to have failed to exhaust domestic remedies in respect of his complaint under Article 5 \u00a7 3 of the Convention. It therefore rejects the Government\u2019s objection.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "152.\u00a0\u00a0The Court further notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Period to be taken into consideration",
+                                "elements": [
+                                    {
+                                        "content": "153.\u00a0\u00a0The Court observes that Article 5 \u00a7 3 applies solely in the situation envisaged in Article 5 \u00a7 1 (c) with which it forms a whole. It ceases to apply on the day when the charge is determined, even if only by a court of first instance, as from that day on the person is detained \u201cafter conviction by a competent court\u201d within the meaning of Article 5 \u00a7 1 (a) (see Polonskiy, cited above, \u00a7 141).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "154.\u00a0\u00a0In the present case, the applicant remained in detention from 8\u00a0October 2002, when his placement in custody was ordered by a court, until 26 October 2005, when he was released pending trial. During that period the applicant was convicted by judgments of the Kirovskiy District Court of 19 May 2003, 24 April 2004 and 25 April 2005, which were then quashed on appeal on 31 July 2003, 3 August 2004 and 22 September 2005 respectively. During the periods between the first-instance judgments and the appellate court\u2019s decision setting them aside, the applicant was detained \u201cafter conviction by a competent court\u201d within the meaning of Article 5 \u00a7 1 (a) of the Convention. These periods therefore cannot be taken into account for the purposes of Article 5 \u00a7 3 of the Convention. The Court further observes that after the court order of 26 October 2005 ordering the applicant\u2019s release was quashed by an appellate court on 30 November 2005, the applicant was again detained, and remained so until 21 December 2005, when he was released pursuant to the court order of that date.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "155.\u00a0\u00a0It follows therefore that the applicant spent a total of two years, two months and twenty-two days in detention on remand to be taken into consideration for the purpose of Article 5 \u00a7 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Reasonableness of the length of the period under consideration",
+                                "elements": [
+                                    {
+                                        "content": "156.\u00a0\u00a0According to the Court\u2019s case-law, the issue of whether a period of detention is reasonable cannot be assessed in abstracto. Whether it is reasonable for an accused to remain in detention must be assessed in each case according to its special features. Continued detention will be justified only if there are specific indications of a genuine requirement of public interest which, notwithstanding the presumption of innocence, outweighs the rule of respect for individual liberty.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "157.\u00a0\u00a0The Court is prepared to accept that the applicant\u2019s detention in the present case could have initially been warranted by a reasonable suspicion that he had been involved in the commission of a criminal offence. In this connection, it reiterates that the persistence of a reasonable suspicion that the person arrested has committed an offence is a condition sine qua non for the lawfulness of his or her continued detention. However, after a certain lapse of time it no longer suffices. In such cases, the Court must establish whether the other grounds given by the judicial authorities continued to justify the deprivation of liberty. Where such grounds were \u201crelevant\u201d and \u201csufficient\u201d, the Court must also ascertain whether the competent national authorities displayed \u201cspecial diligence\u201d in the conduct of the proceedings (see Labita, cited above, \u00a7\u00a7 152-53).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "158.\u00a0\u00a0In the present case, the domestic courts authorised the extension of the applicant\u2019s detention on remand on eleven occasions, relying mainly on the seriousness of the charge against him and his potential to abscond, or obstruct the course of the criminal proceedings, if at large (see paragraphs\u00a017, 19, 22, 27, 29, 31, 32, 37, 38 and 41above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "159.\u00a0\u00a0As regards the courts\u2019 reliance on the seriousness of charges as the decisive element, the Court has repeatedly held that this reason cannot by itself serve to justify long periods of detention (see, among other authorities, Khudoyorov, cited above, \u00a7 180). This is particularly true in cases, such as the present one, where the characterisation in law of the facts \u2013 and thus the sentence faced by the applicant \u2013 was determined by the prosecution without a judicial review of the issue of whether the evidence collected supported a reasonable suspicion that the applicant had committed the imputed offence (see Rokhlina v. Russia, no. 54071/00, \u00a7 66, 7 April 2005).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "160.\u00a0\u00a0It remains to be ascertained whether the domestic courts established and convincingly demonstrated the existence of concrete facts in support of their conclusions that the applicant could abscond, or obstruct justice. The Court reiterates that it is incumbent on the domestic authorities to establish the existence of concrete facts relevant to the grounds for continued detention. Shifting the burden of proof to the detained person in such matters is tantamount to overturning the rule of Article 5 of the Convention, a provision which makes detention an exceptional departure from the right to liberty and one that is only permissible in exhaustively enumerated and strictly defined cases (see Rokhlina, cited above, \u00a7 67, and Ilijkov v.\u00a0Bulgaria, no. 33977/96, \u00a7\u00a7 84-85, 26 July 2001).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "161.\u00a0\u00a0The Court observes that the domestic authorities gauged the applicant\u2019s potential to abscond or impede the criminal proceedings on the sole basis of the fact that he had been charged with serious criminal offences, which implied that he was facing a severe sentence. It reiterates in this connection that although the severity of the sentence faced is a relevant element in the assessment of the risk of absconding, the need to continue the deprivation of liberty cannot be assessed from a purely abstract point of view, taking into consideration only the gravity of the offence. Nor can continuation of the detention be used to anticipate a custodial sentence (see Letellier v. , 26 June 1991, \u00a7 51, Series A no. 207; Panchenko v.\u00a0Russia, no. 45100/98, \u00a7 102, 8 February 2005; Goral v. Poland, no.\u00a038654/97, \u00a7 68, 30 October 2003; and Ilijkov, cited above, \u00a7\u00a081).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "162.\u00a0\u00a0In the present case, at no point did the domestic authorities disclose any evidence, or mention any particular facts in the applicant\u2019s case warranting his continued detention. The judiciary never specified why, notwithstanding the arguments put forward by the applicant and his lawyers in support of his requests for release, they considered the risk of his absconding or interfering with the course of justice to exist and to be decisive. Moreover, the preliminary investigation in the present case had ended by 6 February 2003, but the applicant remained in detention for more than another two years. The Court reiterates in this connection that whilst at the initial stages of the investigation the risk that an accused person might pervert the course of justice could justify keeping him or her in custody, after the evidence has been collected that ground becomes less strong (see Mamedova v. , no. 7064/05, \u00a7 79, 1 June 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "163.\u00a0\u00a0The Court further emphasises that when deciding whether a person should be released or detained the authorities have an obligation under Article\u00a05 \u00a7 3 to consider alternative measures of ensuring his or her appearance at the trial (see Sulaoja v. Estonia, no. 55939/00, \u00a7 64, 15\u00a0February 2005, and Jab\u0142o\u0144ski v. Poland, no. 33492/96, \u00a7 83, 21\u00a0December 2000). It does not appear that during the period under consideration the domestic courts once considered the possibility of ensuring the applicant\u2019s attendance by the use of other \u201cpreventive measures\u201d \u2013 such as a written undertaking not to leave a specified place or bail \u2013 which are expressly provided for by Russian law to secure the proper conduct of criminal proceedings, or, at the very least, that they sought to explain in their decisions why such alternatives would not have ensured that the trial would follow its proper course.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "164.\u00a0\u00a0Having regard to the materials in its possession, the Court is not convinced that the domestic courts\u2019 decisions were based on an analysis of all the relevant facts. The Court agrees with the applicant that the authorities took no notice of the arguments in favour of his release pending trial, such as, for instance, his permanent place of residence and work and positive references in his respect. While extending the applicant\u2019s detention by means of identically or similarly worded detention orders, the domestic authorities had no proper regard to his individual circumstances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "165.\u00a0\u00a0Overall, the Court considers that by failing to refer to specific relevant matters or to consider alternative \u201cpreventive measures\u201d and by relying essentially on the seriousness of the charge against the applicant, the authorities extended the applicant\u2019s detention on grounds which cannot be regarded as \u201csufficient\u201d. They thus failed to justify the applicant\u2019s continued deprivation of liberty. In such circumstances it is therefore not necessary to examine whether the case was complex or whether the proceedings were conducted with \u201cspecial diligence\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "166.\u00a0\u00a0In the light of the foregoing consideration, the Court finds that there has been a violation of Article 5 \u00a7 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "167.\u00a0\u00a0The applicant complained under Article 2 of the Convention that during his detention his health had deteriorated. He complained under Article 6 of the Convention alleging overall unfairness of the criminal proceedings against him. The applicant also complained under Article 7 of the Convention that he had been charged with a crime which he had not committed. The applicant further complained under Article 8 of the Convention that the criminal prosecution and, in particular, searches at his father\u2019s flat had adversely affected his private life. Lastly, the applicant complained under Article 13 of the Convention alleging ineffectiveness of the Russian legal system in general.",
+                                "elements": []
+                            },
+                            {
+                                "content": "168.\u00a0\u00a0The Court has examined the above complaints, as submitted by the applicant. However, in the light of all the material in its possession, and in so far as the matters complained of are within its competence, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "169.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "170.\u00a0\u00a0The applicant claimed 200,000  dollars (USD, approximately 150,000 euros, EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "171.\u00a0\u00a0The Government contested that amount, stating that no award should be made to the applicant in the absence of any violations of his Convention rights. They also suggested that should the Court find a violation of the applicant\u2019s rights, the finding of a violation would suffice.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "172.\u00a0\u00a0The Court observes that it has found a violation of Article 3 in its procedural aspect, a violation of Article 5 \u00a7 1 (c), on account of the applicant\u2019s detention pending trial between 3 August and 1 September 2004, and a violation of Article 5 \u00a7 3 of the Convention. The applicant must have suffered anguish and distress on account of those infringements of his rights, which cannot be compensated by a mere finding of a violation. Having regard to these considerations and judging on an equitable basis, the Court finds it reasonable to award the applicant EUR 20,000 under this head, plus any tax that may be chargeable on this amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "173.\u00a0\u00a0The applicant did not submit any claim under this head. Accordingly, the Court considers that there is no call to award him any sum on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "174.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares unanimously the complaints under Articles 3 and 5 \u00a7 1 (c), as regards the period of the applicant\u2019s detention from 3 August to 1\u00a0September 2004, as well as the complaints under Articles\u00a05 \u00a7 3 and 13, in conjunction with Article 3 of the Convention, admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds by six votes to one that there has been no violation of Article 3 of the Convention in its substantive aspect;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds unanimously that there has been a violation of Article 3 of the Convention in its procedural aspect;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds unanimously that there is no need to examine separately the applicant\u2019s complaint under Article 13, in conjunction with Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds unanimously that there has been a violation of Article 5 \u00a7 1 (c) of the Convention on account of the applicant\u2019s detention on remand from 3 August to 1 September 2004;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds unanimously that there has been a violation of Article 5 \u00a7 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds unanimously",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044 \u00a7\u00a02 of the Convention, EUR 20,000 (twenty thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into Russian roubles at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Dismisses unanimously the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 24 April 2012, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the partly dissenting opinion of Judge A. Kovler is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I cannot share the Court\u2019s conclusion that it had little evidence to enable it to conclude \u201cbeyond reasonable doubt\u201d that the applicant was subjected to any form of treatment prohibited by Article 3 of the Convention, as he alleged, and thus that there has been no violation of Article 3 of the Convention in its substantive aspect.",
+                        "elements": []
+                    },
+                    {
+                        "content": "During the final round of the hearings in his case, as during the proceedings as a whole, the applicant had insisted that he was innocent and reiterated that he had made his confession at the pre-trial stage because he had been beaten and threatened by the police (see paragraph 50). The applicant had been taken out of his cell during his administrative detention without the presence of his lawyer for the purpose of obtaining his confession. The fact that the so-called medical examination of the applicant on 7 October 2002 did not reveal any injuries on him is of no relevance in this case. The Court itself recognises that some forms of psychological and physical pressure do not leave any visible traces (see paragraph 102). Unfortunately, the Court has not paid enough attention to this fact. The logic behind my conclusions on this point is different from that of the majority.",
+                        "elements": []
+                    },
+                    {
+                        "content": "First of all, I am more inclined to agree with the applicant\u2019s argument that the very fact that he had been taken out of his cell in breach of the relevant regulation was proof of coercion. I am afraid that the applicant was taken out of his cell several times and it was not for a tea-party with investigators.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Secondly, as a result of the fourth round of court proceedings, the Kirovsk District Court judgment of 2 May 2006 stated that Mr Chumakov\u2019s submission that he had given self\u2013incriminating evidence and had written a \u201cconfession\u201d under pressure from the police officers was confirmed by the register recording when administrative detainees were taken out of their cells. As an administrative detainee, the applicant was, according to the register, taken out of his cell three times on 2 and 4 October, which were the crucial dates of his \u201cconfession\u201d to the crime. The District Court thus concluded that the \u201cconfession\u201d, although written by Mr Chumakov, could not be considered a voluntary statement about the crime in question and consequently could not be considered admissible evidence. For me this is sufficient proof of psychological pressure as prohibited by Article 3 (see G\u00e4fgen v.  [G.C.], no. 22978/05, \u00a7 91, ECHR 2010). I would point out that the District Court ultimately acquitted the applicant and acknowledged his right to rehabilitation.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Nina Vaji\u0107",
+            "role": "president"
+        },
+        {
+            "name": "Anatoly Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "Peer Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Mirjana Lazarova Trajkovska",
+            "role": "judges"
+        },
+        {
+            "name": "Julia Laffranque",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF CHUMAKOV v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-110444.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:0424JUD004179404",
+    "externalsources": [],
+    "extractedappno": [
+        "41794/04",
+        "49790/99",
+        "5108/02",
+        "23445/03",
+        "54810/00",
+        "30873/96",
+        "50222/99",
+        "25803/94",
+        "26772/95",
+        "59450/00",
+        "27229/95",
+        "43393/98",
+        "41461/02",
+        "22978/05",
+        "77617/01",
+        "31697/03",
+        "3394/03",
+        "56308/00",
+        "23691/06",
+        "30930/02",
+        "2708/02",
+        "65734/01",
+        "22053/02",
+        "2737/04",
+        "36932/02",
+        "36941/02",
+        "27193/02",
+        "6847/02",
+        "11364/03",
+        "7649/02",
+        "28957/02",
+        "6270/06",
+        "30033/05",
+        "20571/04",
+        "54071/00",
+        "33977/96",
+        "45100/98",
+        "38654/97",
+        "7064/05",
+        "55939/00",
+        "33492/96"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Article 255 \u00a7 2 of the Russian Code of Criminal Procedure"
+    ],
+    "itemid": "001-110444",
+    "judgementdate": "24/04/2012 00:00:00",
+    "kpdate": "24/04/2012 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "596",
+        "193",
+        "448",
+        "29",
+        "227",
+        "14",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "5-1-c",
+        "3",
+        "5-3",
+        "35",
+        "5",
+        "41"
+    ],
+    "parties": [
+        "CHUMAKOV",
+        "RUSSIA"
+    ],
+    "rank": "879.892761230469",
+    "representedby": [
+        "KOSTROMINA K."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Aksoy v. Turkey, 18 December 1996, Reports of Judgments and Decisions 1996-VI",
+        "Assenov and Others v. Bulgaria, 28 October 1998, \u00a7\u00a7 102 et seq., Reports 1998-VIII",
+        "Avdeyev and Veryayev v. Russia, no. 2737/04, \u00a7\u00a7 45-47, 9 July 2009",
+        "Aydin v. Turkey, 25 September 1997, \u00a7 81, Reports 1997-VI",
+        "Bakhmutskiy v. Russia, no. 36932/02, \u00a7\u00a7 112-14, 25 June 2009",
+        "Belov v. Russia, no. 22053/02, \u00a7\u00a7 79-82, 3 July 2008",
+        "Egmez v. Cyprus, no. 30873/96, \u00a7 78, ECHR 2000-XII",
+        "Esmukhambetov and Others v. Russia, no. 23445/03, \u00a7 128, 29 March 2011",
+        "G\u00e4fgen v. Germany [GC], no. 22978/05, ECHR 2010",
+        "Goral v. Poland, no. 38654/97, \u00a7 68, 30 October 2003",
+        "Gubkin v. Russia, no. 36941/02, \u00a7\u00a7 112-14, 23 April 2009",
+        "Ignatov v. Russia, no. 27193/02, \u00a7\u00a7 79-81, 24 May 2007",
+        "Ilijkov v. Bulgaria, no. 33977/96, 26 July 2001",
+        "Ireland v. the United Kingdom, 18 January 1978, \u00a7\u00a7 161-162, Series A no. 25",
+        "Jablonski v. Poland, no. 33492/96, \u00a7 83, 21 December 2000",
+        "Jalloh v. Germany [GC], no. 54810/00, ECHR 2006-IX",
+        "Keenan v. the United Kingdom, no. 27229/95, \u00a7 110, ECHR 2001-III",
+        "Khatsiyeva and Others v. Russia, no. 5108/02, \u00a7 151, 17 January 2008",
+        "Khudoyorov v. Russia, no. 6847/02, \u00a7 ECHR 2005-X (extracts)",
+        "Klaas v. Germany, 22 September 1993, \u00a7 29, Series A no. 269",
+        "Krastanov v. Bulgaria, no. 50222/99, \u00a7 53, 30 September 2004",
+        "Labita v. Italy [GC], no. 26772/95, ECHR 2000-IV",
+        "Lamazhyk v. Russia, no. 20571/04, \u00a7 80, 30 July 2009",
+        "Letellier v. France, 26 June 1991, \u00a7 51, Series A no. 207",
+        "Lyubimenko v. Russia, no. 6270/06, \u00a7 62, 19 March 2009",
+        "Mamedova v. Russia, no. 7064/05, \u00a7 79, 1 June 2006",
+        "Matko v. Slovenia, no. 43393/98, \u00a7 100, 2 November 2006",
+        "Medvedyev and Others v. France [GC], no. 3394/03, \u00a7 79, ECHR 2010",
+        "Mikheyev v. Russia, no. 77617/01, \u00a7\u00a7 107 et seq., 26 January 2006",
+        "Mooren v. Germany [GC], no. 11364/03, \u00a7 84, 9 July 2009",
+        "Panchenko v. Russia, no. 45100/98, \u00a7 102, 8 February 2005",
+        "Polonskiy v. Russia, no. 30033/05, 19 March 2009",
+        "Pshevecherskiy v. Russia, no. 28957/02, \u00a7 50, 24 May 2007",
+        "Ramirez Sanchez v. France [GC], no. 59450/00, \u00a7 118, ECHR 2006-IX",
+        "Rokhlina v. Russia, no. 54071/00, \u00a7\u00a7 66-67, 7 April 2005",
+        "Savenkova v. Russia, no. 30930/02, 4 March 2010",
+        "Selmouni v. France [GC], no. 25803/94, ECHR 1999-V",
+        "Shcheglyuk v. Russia, no. 7649/02, \u00a7 35, 14 December 2006",
+        "Shteyn (Stein) v. Russia, no. 23691/06, \u00a7\u00a7 89 and 94, 18 June 2009",
+        "Shukhardin v. Russia, no. 65734/01, \u00a7\u00a7 65-70, 28 June 2007",
+        "Solovyev v. Russia, no. 2708/02, \u00a7\u00a7 95-100, 24 May 2007",
+        "Sulaoja v. Estonia, no. 55939/00, \u00a7 64, 15 February 2005",
+        "Toshev v. Bulgaria, no. 56308/00, \u00a7 58, 10 August 2006",
+        "Trubnikov v. Russia (dec.), no. 49790/99, 14 October 2003",
+        "Vladimir Romanov v. Russia, no. 41461/02, \u00a7 59, 24 July 2008"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "373410",
+    "typedescription": "15"
+}

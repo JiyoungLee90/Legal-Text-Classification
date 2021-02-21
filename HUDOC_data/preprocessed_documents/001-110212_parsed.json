@@ -1,0 +1,598 @@
+{
+    "__articles": "6;6+6-3-c;6+6-3-d;6-1;6-3-c;6-3-d;35;41",
+    "__conclusion": "Remainder inadmissible;Violation of Article 6+6-3-c - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing;Article 6-3-c - Defence in person) (Article 6-3-c - Defence in person;Article 6 - Right to a fair trial);Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing;Article 6-3-d - Examination of witnesses) (Article 6-3-d - Examination of witnesses;Article 6 - Right to a fair trial);Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "19946/04",
+    "article": [
+        "6",
+        "41",
+        "35"
+    ],
+    "conclusion": [
+        {
+            "article": "6-3-c",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing",
+                "Article 6-3-c - Defence in person"
+            ],
+            "element": "Violation of Article 6+6-3-c - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-c - Defence in person",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing",
+                "Article 6-3-d - Examination of witnesses"
+            ],
+            "element": "Violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Examination of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Pecuniary damage"
+            ],
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-110212.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no.\u00a019946/04) against  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe\u00a0Convention\u201d) by two\u00a0Romanian nationals, Mr Ioan \u015etefan Popa (\u201cthe\u00a0first\u00a0applicant\u201d) and Mr\u00a0Aurelian \u015etefan T\u0103n\u0103sescu (\u201cthe second applicant\u201d), on 5\u00a0April\u00a02004.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The first applicant was represented by Mr\u00a0S.\u00a0Bartha and Mr\u00a0M.\u00a0Stoica, lawyers practising in . The second applicant was initially represented by Mr. I. C\u0103p\u0103\u0163\u00e2n\u0103, a lawyer practising in . During the proceedings before the Court he withdrew the power of attorney granted to his lawyer and was authorised to represent himself. The\u00a0Romanian Government (\u201cthe\u00a0Government\u201d) were represented by their\u00a0Agent, Mr R\u0103zvanHora\u0163iu Radu.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0As Mr Corneliu B\u00eersan, the judge elected in respect of , had withdrawn from the case (Rule 28 of the Rules of Court), the President of the Chamber appointed Mr Mihai Poalelungi to sit as ad\u00a0hoc\u00a0judge (Article\u00a026\u00a0\u00a7\u00a04 of the Convention and Rule\u00a029\u00a0\u00a7\u00a01 of\u00a0the Rules of Court).",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The applicants alleged that they had been subjected to an unfair trial which had resulted in an unfair conviction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On\u00a07\u00a0July\u00a02009 the President of the Third Section decided to give notice of the application to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article\u00a029\u00a0\u00a7\u00a01).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicants were born in 1971 and 1974 respectively.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The first applicant started serving a seven-year prison sentence in October\u00a02007. On 8 January 2012 his sentence was suspended on probation. According to the latest information submitted by the second applicant he is serving a prison sentence and is detained in Ploie\u015fti Prison.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The Car Boot Affair",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0In January 2000, the applicants were involved in an affair which had largescale media coverage called \u201cThe Car Boot Affair\u201d (Afacerea Portbagajul). R.V., the applicants\u2019 friend, was kidnapped and subjected to illtreatment for almost five weeks by people paid by a businessman, B.M., to get back money he had allegedly stolen from the boot of a car belonging to the businessman.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0In the evening of 11 January 2000, a little before midnight, R.V. received a phone call from one of his friends, D.C., who informed him that he was invited at the headquarters of B.M.\u2019s company to clarify the situation of the stolen money. R.V. accepted the invitation and went to the place indicated. Immediately after his arrival, R.V. admitted under threat that he had stolen the money, with another person. From that moment he was kept prisoner, permanently guarded by the people being paid by B.M., in different buildings in .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 7 February 2000 he was taken to a villa belonging to B.M. in Breaza. On 14 February 2000, taking advantage of a lapse of attention on the part of the people guarding him, R.V. climbed out of a window of the toilets and escaped.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0Immediately after R.V.\u2019s escape, B.M. left the country in order to avoid arrest.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The role played by the applicants in the kidnapping and ill\u00adtreatment of R.V.",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0The role played by the applicants in this affair was highly controversial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The prosecutors presented them as individuals paid by B.M. to kidnap R.V. and keep him under guard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0According to the statements given by R.V., the victim, and other witnesses, the applicants were friends of the victim and they were present at the meeting between B.M. and R.V. as protection for the latter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0According to a statement given by a witness, P.C., before the Bucharest County Court on 28 May 2001, the applicants were sent to the headquarters of B.M.\u2019s company to protect R.V. and to keep their mutual friends informed of what was happening.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0In his statement given on 2 February 2001, D.C. recognised that he had contacted the applicants and asked them to be present at the meeting. He also added that they had informed him that their friend R.V. needed help, which they could not provide as they were outnumbered and surrounded by armed persons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0Furthermore, at the last hearing before the Bucharest County Court held on 8 February 2002, R.V.\u2019s lawyer called for the two applicants to be acquitted, stressing that they were the victim\u2019s friends, who had tried to make their friend\u2019s situation easier under the circumstances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0According to the applicants, they were present at the meeting which took place on 11 January 2000 between their friend and B.M. They informed D.C. and M.C. (another friend of R.V.) that R.V. would not be released until he returned the stolen money. When they saw that the people paid by B.M. had left the headquarters of B.M.\u2019s company with their\u00a0friend, they tried to find out where he had been taken. On being informed that their\u00a0friend was being kept in a deserted house outside , they went there and tried to release him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0When threatened by B.M. and the people paid by him they were forced to give up and leave. They maintained that they did not inform the police, because they were frightened by B.M.\u2019s threats.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0Also, when they found out that D.C.\u2019s house had been set on fire and that M.C.\u2019s car had been found full of spent bullets, the applicants decided to run and hide in  until the situation was clarified even though they knew that warrants had been issued on them as witnesses.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The criminal proceedings against the applicants",
+                                "elements": [
+                                    {
+                                        "content": "21.\u00a0\u00a0By a bill of indictment delivered on 25 May 2000 by the prosecutor\u2019s office attached to the Prahova County Court, the applicants and ten other defendants were charged with conspiracy to commit a crime under Article\u00a0323 of the Criminal Code and with deprivation of liberty under Article\u00a0189 of the Criminal Code. Their arrest was also ordered. It was not possible to arrest the applicants as they were hiding in .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On 26 May 2001 the applicants informed the mass media that they intended to surrender to the Romanian authorities the next day. They alleged that in this way they had tried to obtain some protection against the individuals in the pay of B.M., who were continuing to threaten them. The next day they surrendered to police at .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0At a hearing on 18 July 2001 the  replaced the arrest warrant on the applicants with an obligation not to leave the city, citing as a reason that the justification for keeping them under arrest had changed in the light of the evidence adduced before the court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0By a judgment delivered on 15\u00a0February\u00a02002 the Bucharest County\u00a0Court acquitted the applicants. It found the rest of the defendants guilty as charged and sentenced them to imprisonment (most of them to seven years). It noted that the victim had stated before the court that the applicants \u201cdid not threaten or hit him or keep him prisoner, but on the contrary they protected him as much they could, and maybe if they had not been there he would be dead\u201d. Furthermore, it referred to the victim\u2019s statement of 12\u00a0May\u00a02000, which reads as follows: \u201dStef and Auras untied me and they could not simply just leave as they were afraid...and on the other hand they tried to calm things down, helping me as much they could so as not to be killed (omor\u00e2t \u00een b\u0103taie)\u201d. The Court also noted that this\u00a0statement was in agreement with the statements of the witnesses B.F., D.C. and M.C.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The prosecutor\u2019s office attached to the  lodged an appeal, seeking, inter\u00a0alia, a guilty verdict on the applicants. It maintained that the applicants were part of the group controlled by B.M. and that they had contributed to R.V.\u2019s being held captive, as they had invited him to the place where he was kidnapped.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 5 July 2002 the Bucharest Court of Appeal allowed the appeal in part but maintained the not-guilty verdict on the applicants. It held that the mere fact of their presence at the headquarters of B.M\u2019s company could not lead to the conclusion that they were guilty, in the absence of any incriminatory evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The prosecutor\u2019s office attached to the Bucharest Court of Appeal lodged an appeal on points of law, again seeking the conviction of the applicants. In its grounds for appeal it maintained that even if the applicants could not be convicted as perpetrators they should be convicted as accomplices.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0At the last hearing before the High Court of Cassation and Justice held on 18 September 2003, all the lawyers representing the defendants submitted oral conclusions on the admissibility of the appeals. No other evidence was adduced before the court. The applicants were invited to speak only before the end of the hearing (ultimul cuv\u00e2nt al inculpatului). They said that they agreed with the statements submitted by their lawyers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0Public pronouncement of the decision was adjourned until 13\u00a0October\u00a02003, as the court needed more time for deliberation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 13 October 2003 the High Court of Cassation and Justice allowed in part the appeal on points of law lodged by the prosecutor, set aside the decisions of the first two courts with respect to the acquittal of the applicants, and retained the file for fresh consideration without setting a date for a new hearing. It found the applicants guilty as charged and sentenced each of them to seven years\u2019 imprisonment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0The High Court of Cassation and Justice considered that the findings of fact by the first-instance courts were not ill-founded and were thus suitable for appellate review without taking further evidence. Giving a new interpretation to the facts it found that the applicants\u2019 roles consisted in luring (ademenirea) the victim to the headquarters of B.M.\u2019s company. It also found that the applicants were members of B.M.\u2019s group.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0Although it held that the applicants\u2019 role consisted only of luring the victim and that they were present only on the evening of 11 January 2000 and the night which followed, they were sentenced to seven years\u2019 imprisonment, the same punishment received by the other co-defendants, who had kept R.V. in captivity for the whole fiveweek period and had subjected him to constant ill-treatment.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "33.\u00a0\u00a0The relevant provisions concerning the appeal on points of law of the Romanian Code of Criminal Procedure as in force at the material time are described in Constantinescu v. Romania, no.\u00a028871/95, \u00a7 37, ECHR 2000-VIII), and D\u0103nil\u0103 v. Romania, (no.\u00a03897/00, \u00a7 26, 8 March\u00a02007).",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0Law no.\u00a0356/2006 which amended the Code of Criminal\u00a0Procedure made it mandatory for an appeal court to hear an accused when the firstinstance court had acquitted him or her. Currently, where an appeal court quashes a judgment given by a first-instance court, it must decide on the evidence to be adduced and set a date on which it will take statements from the accused if the latter has not been heard or if he or she was acquitted by the first-instance court (Articles\u00a038514\u00a0\u00a7\u00a011 and\u00a038516, as amended).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "35.\u00a0\u00a0The applicants complained that the High Court of Cassation and Justice had not secured a fair trial, as it had re-examined the case and worsened their situation without hearing them or allowing them to adduce evidence in their defence. They relied on Article\u00a06\u00a0\u00a7\u00a7\u00a01 and\u00a03 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "... (c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "36.\u00a0\u00a0The Court notes that the complaint is not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B. \u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "Submissions of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0The first applicant complained that he and the second applicant had been convicted by the High Court of Cassation and Justice without evidence being heard from them in person. He submitted that the court of last resort had ruled solely on the basis of the evidence put before the court of first instance; it gave a new interpretation to the witness and defendants statements without making any reference to crucial statements which in the opinion of the first two courts proved the applicants\u2019 innocence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The second applicant contended that the High\u00a0Court of Cassation and Justice had incorrectly stated in its decision that he was employed by B.M. in order to associate him with the group of people who were paid by B.M. to kidnap R.V. and keep him prisoner, although he submitted a document proving that he had been an employee of another company, which was not related to B.M.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0He also contended that since the High Court of Cassation and Justice had delivered the decision concerning the admissibility of the appeal on points of law and the merits of the case on the same day, there had been no proper retrial on the merits. He had not been informed about the quashing of the two previous court decisions and had not therefore been allowed to prepare and present his defence before the court of last resort.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0The Government submitted that the finding of guilt in relation to the applicants, reached solely on the basis of the evidence put before the court of first instance, did not breach the requirements of a fair trial within the meaning of Article 6 \u00a7 1 of the Convention. They averred that the court of last resort had not determined new questions of fact, but on the basis of a new interpretation of the facts it had determined only a question of law relating to the subjective element of the offence, that is, whether there had been an intention to commit the offence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The Government contended that the applicants had already had the opportunity to state their position regarding the charges before the first-instance court, and that their written statements were accessible in the file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0Lastly, the Government insisted that the applicants\u2019 lawyers had addressed the High Court of Cassation and Justice during the hearing of 18\u00a0September 2000 and they did not require new evidence to be adduced before the court. Furthermore, they maintained that the applicants had addressed the same court last.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\tThe Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court notes at the outset that the requirements of Article 6\u00a0\u00a7\u00a03 are to be seen as particular aspects of the right to a fair trial guaranteed by Article\u00a06\u00a0\u00a7\u00a01, and therefore the applicant\u2019s complaints under Article\u00a06\u00a0\u00a7\u00a7\u00a01 and 3 should be examined together (see Sinichkin v. Russia, no.\u00a020508/03, \u00a7\u00a036, 8\u00a0April\u00a02010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Court reiterates that the manner of application of Article\u00a06 to proceedings before courts of appeal depends on the special features of the proceedings involved; account must be taken of the entirety of the proceedings in the domestic legal order and of the role of the appellate court therein.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0However, the Court has held that where an appellate court is called upon to examine a case as to the facts and the law and to make a full assessment of the question of the applicant\u2019s guilt or innocence, it cannot, as a matter of fair trial, properly determine those issues without a direct assessment of the evidence given in person by an accused who claims that he has not committed the act alleged to constitute a criminal offence (see Ekbatani v. Sweden, 26 May 1988, \u00a7 32, Series A no.\u00a0134, Andreescu v.\u00a0Romania, no. 19452/02, \u00a7 64, 8 June 2010 and Marcos Barrios v. , no. 17122/07, \u00a7\u00a032, 21 September 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0Moreover, the Court is of the view that, in the determination of criminal charges, the hearing of the defendant in person should nevertheless be the general rule. Any derogation from this principle should be exceptional and subjected to restrictive interpretation. It takes this view notably because what was at stake for the applicants was imprisonment, and they were actually sentenced to a sevenyear term, which obviously carried a significant degree of stigma.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Accordingly, in order to determine whether there has been a violation of Article\u00a06 in the instant case, an examination must be made of the role of the High Court of Cassation and Justice and the nature of the issues which it was called upon to try.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Court reiterates that in the instant case the scope of the High\u00a0Court of Cassation and Justice\u2019s powers, sitting as an appellate court, is set out in Articles\u00a038515and 38516of the Code of Criminal Procedure. In accordance with Article\u00a038515, the High Court of Cassation and Justice, sitting as an appellate court, can give a fresh judgment on the merits. On 13\u00a0October\u00a02003 the High Court of Cassation and Justice quashed the judgment of 15\u00a0February\u00a02002 and the decision of 5\u00a0July\u00a02002 and gave a fresh judgment on the merits. According to the above-mentioned legal provisions, the effect of this was that the proceedings in the High\u00a0Court of Cassation and Justice were full proceedings governed by the same rules as a trial on the merits, with the court being required to examine both the facts of the case and questions of law. The High Court of Cassation and Justice could decide either to uphold the applicants\u2019 acquittal or convict them, after making a thorough assessment of the question of their guilt or innocence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0The Court notes that, having quashed the decisions to acquit made by the first two courts, the Bucharest County Court and Bucharest Court\u00a0of\u00a0Appeal respectively, the High Court of Cassation and Justice determined two criminal charges against each applicant, convicting them without hearing evidence from them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0The Court is not satisfied with the Government\u2019s argument, that the fact that the accused addressed the court last was sufficient in the present case. Therefore, it stresses that, although an accused\u2019s right to address the court last is certainly of importance, it cannot be equated with his right to be heard by the court during the trial (see Constantinescu, cited above, \u00a7\u00a058; Andreescu, cited above, \u00a7\u00a068; and Sp\u00eenu v. Romania, no.\u00a032030/02, \u00a7\u00a058, 29\u00a0April\u00a02008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0Moreover, the High Court of Cassation and Justice only heard the parties on the admissibility of the appeals and did not inform the applicants of its intention to quash the decisions delivered by the Bucharest Court of\u00a0Appeal and Bucharest County Court and to reexamine the merits of the accusation. The Court considers that, as a matter of fair trial, a court cannot quash a previous judgment and reassess evidence without properly informing the interested parties and allowing them the opportunity to present their\u00a0case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The failure to hear the accused in person is even more difficult to accommodate with the requirements of a fair trial in the specific circumstances of this case, where the court of last resort carried out an assessment of the subjective element of the alleged offence, namely the applicants\u2019 intent to commit the offences, and was the first court to convict them in proceedings brought to determine a criminal charge against them (see Constantinescu, cited above, \u00a7 59, Andreescu, cited above, \u00a7 70, Igual\u00a0Coll v. Spain, no.\u00a037496/04, \u00a7 35, 10 March 2009 and Marcos\u00a0Barrios, cited above, \u00a7 40).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0The Court acknowledges the changes in the domestic legislation which seem to bring criminal procedures closer to the Convention requirements on this point (see paragraph 34 above). Nevertheless, those changes occurred in 2006 and thus remain without relevance for the instant case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that in the instant case the High Court of Cassation and Justice failed to comply with the requirements of a fair trial.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0Since that requirement was not satisfied, the Court considers that there has been a violation of Article\u00a06\u00a0\u00a7\u00a01 in conjunction with Article\u00a06\u00a0\u00a7\u00a03\u00a0(c) and\u00a0(d) of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "56.\u00a0\u00a0The applicants complained under Article\u00a05 of the Convention that they were arrested on the basis of an order issued by a prosecutor who according to the Romanian Constitution could not be considered a magistrate. They also claimed that their arrest was ordered by a bill of indictment, contrary to Romanian law. In this respect the Court notes that the bill of indictment ordering their arrest was issued on 25 May 2000, while their application was lodged with the Court on 5\u00a0April\u00a02004.",
+                                "elements": []
+                            },
+                            {
+                                "content": "It follows that this complaint has been introduced out of time and must be rejected in accordance with Article\u00a035\u00a0\u00a7\u00a7\u00a01 and\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "57.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0The first applicant claimed 29,614\u00a0euros (EUR) in respect of pecuniary damage, representing the salary to which he would have been entitled during his detention and the expenses he incurred during his\u00a0detention. The second applicant claimed EUR\u00a081,905 in respect of pecuniary damage, of which EUR 57,500 represented the amount he lost because he was forced to sell his apartment and EUR\u00a024,405 the salary to which he would have been entitled if not detained and the cost of the expenses he incurred during detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In respect of nonpecuniary damage, the first applicant asked for EUR\u00a010,000 and the second applicant for EUR\u00a030,000 justified by the pressure, stress and suffering to which they were exposed by the Romanian\u00a0authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0The Government stated that the amounts claimed by the applicants for pecuniary damage were speculative, excessive and not proven.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In respect of the compensation for non-pecuniary damage claimed by the applicants, the Government stated that it was excessive and asked the Court, if it found a violation, to consider that violation of itself to be sufficient just satisfaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court notes that in the present case an award of just satisfaction can only be based on the fact that the applicants did not have the benefit of the guarantees of Article\u00a06. Whilst the Court cannot speculate as to the outcome of the trial had the position been otherwise, it considers that the applicants suffered a non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0Therefore, ruling on an equitable basis, in accordance with Article\u00a041, it awards them EUR\u00a05,000 each in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0Moreover, the Court reiterates that when a person, as in the instant case, was convicted in domestic proceedings which failed to comply with the requirements of a fair trial, a new trial or the reopening of the domestic proceedings at the request of the interested person represents an appropriate way to redress the inflicted violation. In this respect, it notes that Article\u00a04081 of the Romanian Code of Criminal Procedure provides for the possibility of revision of a domestic trial where the Court has found a violation of an applicant\u2019s fundamental rights and freedoms.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0The first applicant also claimed EUR 5,830 for costs and expenses incurred before the domestic courts and the Court representing lawyers\u2019 fees, translation fees and transport fees. He submitted invoices for 6,500\u00a0Romanian\u00a0lei (RON) paid to the lawyers and RON\u00a01,500 paid for translation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government considered that the first applicant had justified with invoices only RON\u00a06,500 representing expenses for lawyers\u2019 fees.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The second applicant claimed EUR 4,500 for lawyers\u2019 fees and EUR\u00a0300 for translation of documents submitted to the Court and correspondence costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government contended that the second applicant had not submitted documents to justify those expenses and costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its\u00a0possession and the above criteria, the Court rejects the claim for costs and expenses lodged by the second applicant and considers it reasonable to award the sum of RON\u00a08,000 (the equivalent of EUR\u00a01,900) to the first\u00a0applicant to cover costs and expenses in the proceedings before the\u00a0Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning the fairness of the proceedings under Article\u00a06\u00a0\u00a7\u00a01 in conjunction with Article 6\u00a0\u00a7\u00a03 (c) and (d) of the Convention admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 in conjunction with Article 6\u00a0\u00a7\u00a03 (c) and (d) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three\u00a0months of the date on which the judgment becomes final in accordance with Article 44 \u00a7 2 of the Convention, the following amounts, to be converted into the respondent State\u2019s national currency at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "\n(b)\u00a0\u00a0that from the expiry of the above-mentioned three\u00a0months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 10 April 2012, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Egbert Myjer",
+            "role": "judges"
+        },
+        {
+            "name": "J\u00e1n \u0160ikuta",
+            "role": "judges"
+        },
+        {
+            "name": "Ineta Ziemele",
+            "role": "judges"
+        },
+        {
+            "name": "Nona Tsotsoria",
+            "role": "judges"
+        },
+        {
+            "name": "Mihai Poalelungi",
+            "role": "judges"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": "Santiago Quesada",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF POPA AND TANASESCU v. ROMANIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-110212.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:0410JUD001994604",
+    "externalsources": [],
+    "extractedappno": [
+        "19946/04",
+        "28871/95",
+        "3897/00",
+        "20508/03",
+        "19452/02",
+        "17122/07",
+        "32030/02",
+        "37496/04"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 385(15), 385(16) and 408-1 of the Code of Criminal Procedure"
+    ],
+    "itemid": "001-110212",
+    "judgementdate": "10/04/2012 00:00:00",
+    "kpdate": "10/04/2012 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "85",
+        "122",
+        "14",
+        "216",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "6-3-c",
+        "6-3-d",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "POPA AND TANASESCU",
+        "ROMANIA"
+    ],
+    "rank": "876.427307128906",
+    "representedby": [
+        "BARTHA S.",
+        "STOICA M."
+    ],
+    "respondent": "ROU",
+    "respondentOrderEng": "37",
+    "scl": [
+        "Andreescu v. Romania, no. 19452/02, 8 June 2010",
+        "Constantinescu v. Romania, no. 28871/95, ECHR 2000-VIII",
+        "Ekbatani v. Sweden, 26 May 1988, \u00a7 32, Series A no. 134",
+        "Igual Coll v. Spain, no. 37496/04, \u00a7 35, 10 March 2009",
+        "Marcos Barrios v. Spain, no. 17122/07, 21 September 2010",
+        "Sinichkin v. Russia, no. 20508/03, \u00a7 36, 8 April 2010",
+        "Sp\u00eenu v. Romania, no. 32030/02, \u00a7 58, 29 April 2008"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "370468",
+    "typedescription": "15"
+}

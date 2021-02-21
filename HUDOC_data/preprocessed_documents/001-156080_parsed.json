@@ -1,0 +1,584 @@
+{
+    "__articles": "6;6-1;13;13+6-1;41;46",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Civil proceedings;Article 6-1 - Reasonable time);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "48322/12",
+    "article": [
+        "6",
+        "46",
+        "41",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-156080.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 48322/12) against Hungary lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Hungarian national, Mr Gy\u00f6rgy Gazs\u00f3 (\u201cthe applicant\u201d), on 24 July 2012.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr D. Karsai, a lawyer practising in Budapest. The Hungarian Government (\u201cthe Government\u201d) were represented by Mr Z. Tall\u00f3di, Agent, Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that litigation in his labour dispute had lasted an unreasonably long time and there was no effective remedy available to him in this regard. He relied on Articles 6 and 13 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 13 November 2014 the application was communicated to the Government. At the same time, the Court proposed the pilot judgment procedure (Rule 61 of the Rules of Court) to the parties. The parties submitted comments in that respect.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1963 and lives in Telki.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0Between 25 February 2002 and 18 May 2005, litigation was in progress between the applicant and his former employer. The latter was eventually obliged to re-employ the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The applicant did not accept the position that was offered to him in pursuit of the re-employment order. New litigation started on \n5 January 2006.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 18 November 2008 the Budapest Labour Court dismissed the applicant\u2019s action.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On appeal, on 9 July 2010 the Budapest Regional Court reversed this decision and found for the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The respondent pursued a petition for review before the K\u00faria. On 29\u00a0February 2012 this court reversed the appeal judgment and found for the respondent.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "11.\u00a0\u00a0The applicant complained that the length of the proceedings had been incompatible with the \u201creasonable time\u201d requirement of Article 6 \u00a7 1 of the Convention, which, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by [a] ... tribuna l...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0The Government contested this view.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0The period to be taken into consideration began on 5 January 2006 and ended on 29\u00a0February 2012. It thus lasted almost six years and two months for three levels of jurisdiction.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "14.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "15.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicant and the relevant authorities and what was at stake for the applicant in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII. The Court reiterates that special diligence is necessary in employment disputes (see Ruotolo v.\u00a0Italy, 27 February 1992, \u00a7 17, Series A no. 230D; Mangualde Pinto v. France, no. 43491/98, \u00a7 27, 9 April 2002).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0The Court has frequently found violations of Article 6 \u00a7 1 of the Convention in cases raising issues similar to the one in the present application (see, among many other authorities, K\u00fatfalvi v. Hungary, no.\u00a04853/02, \u00a7\u00a7 17-19, 5 October 2004).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the instant case, the Court observes that the dispute was not of any particular complexity. It concerned the question of the applicant\u2019s re-employment; however, the Court is not satisfied that the authorities exercised the requisite due diligence in bringing the case to an end. Moreover, the applicant or the respondent party have not been shown to have caused any particular delay.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0Having examined all the material submitted to it, the Court considers that the Government have not put forward any fact or convincing argument capable of persuading it to reach a different conclusion in the present circumstances. Having regard to its case-law on the subject, the Court considers that the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There has accordingly been a breach of Article 6 \u00a7 1.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 READ IN CONJUNCTION WITH ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The applicant further complained of the fact that there was no effective remedy available to him by which to accelerate the proceedings. He relied on Article 13 of the Convention which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Government contested this view in general terms.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) or inadmissible on any other grounds. It must therefore be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Convention institutions have already held that there was no effective domestic remedy available in respect of the protraction of civil proceedings in Hungary (see Bartha v. Hungary, no. 33486/07, \u00a7\u00a021, 25\u00a0March 2014; Mr T.K. and Mrs T.K. v. Hungary, no. 26209/95, Commission decision of 21 May 1997). The Government have not shown that the situation has changed in the meantime, either in terms of acceleratory or compensatory remedies.",
+                                "elements": []
+                            },
+                            {
+                                "content": "For these reasons, there has been a violation of Article 13 read in conjunction with Article 6 \u00a7 1 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 46 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "22.\u00a0\u00a0The Court notes that the instant case concerns a recurring problem underlying the most frequent violations of the Convention found by the Court in respect of Hungary (see paragraph 34 below). Moreover, the Hungarian legal system offers no effective domestic remedy, as required by Article 13 of the Convention, to prevent excessively long judicial proceedings or to afford redress for the damage created by such proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0The Court finds that the issues of excessive length of civil proceedings and lack of effective domestic remedies in the Hungarian legal system are unresolved, despite the fact that there has been for quite some time clear case-law giving the Government reason to take appropriate measures to resolve those issues.",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0The Court reiterates that, in accordance with Article 46 of the Convention, the finding of a violation imposes on the respondent State a legal obligation not just to pay those concerned the sums awarded by way of just satisfaction under Article 41, but also to select, subject to supervision by the Committee of Ministers, the general and/or, if appropriate, individual measures to be adopted in their domestic legal order to put an end to the violation found by the Court and to redress so far as possible the effects (see Broniowski v. Poland [GC], no. 31443/96, \u00a7 192, ECHR 2004\u2011V).",
+                                "elements": []
+                            },
+                            {
+                                "content": "25.\u00a0\u00a0In these circumstances the Court considers it necessary to examine this case under Article 46 of the Convention, which, in so far as relevant, reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0The applicant submitted that the Hungarian authorities\u2019 continuing failure to secure a \u201chearing within a reasonable time\u201d in civil cases or to introduce an effective domestic remedy constituted a systemic problem.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Without formally opposing the pilot judgment procedure, the Government considered it unnecessary for the Court to embark on such a procedure, given that they had already submitted an Action Plan in the matter to the Committee of Ministers. This plan comprised, in regard to civil proceedings, a number of administrative reforms as well as a certain restructuring of the judicial system, measures enacted in 2011.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Application of the pilot judgment procedure",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0The Court reiterates that Article 46 of the Convention, as interpreted in the light of Article 1, imposes on the respondent State a legal obligation to implement, under the supervision of the Committee of Ministers, appropriate general and/or individual measures to secure the right of the applicant which the Court found to be violated. Such measures must also be taken in respect of other persons in the applicant\u2019s position, notably by solving the problems that have led to the Court\u2019s findings (see Scozzari and\u00a0Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 249, ECHR\u00a02000VIII; Lukenda v. Slovenia, no. 23032/02, \u00a7\u00a7 94-95, ECHR 2005\u2011X; and S. and Marper v. the United Kingdom [GC], nos. 30562/04 and\u00a030566/04, \u00a7 134, ECHR 2008).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0In its resolution on judgments revealing an underlying systemic problem, adopted on 12 May 2004, the Committee of Ministers invited the Court \u201cto identify in its judgments finding a violation of the Convention what it considers to be an underlying systemic problem and the source of that problem, in particular when it is likely to give rise to numerous applications, so as to assist States in finding the appropriate solution and the Committee of Ministers in supervising the execution of judgments\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0In order to facilitate the effective implementation of its judgments along these lines, the Court may adopt a pilot judgment procedure allowing it to clearly identify in a judgment the existence of structural and/or systemic problems underlying the violations and to indicate specific measures or actions to be taken by the respondent State to remedy them (see Broniowski, cited above, \u00a7\u00a7 189-194 and the operative part; Hutten-Czapska v.\u00a0Poland [GC], no. 35014/97, \u00a7\u00a7\u00a0231-239 and the operative part, ECHR\u00a02006VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0In line with its approach in the case of \u00dcmm\u00fchan Kaplan v. Turkey (no. 24240/07, \u00a7\u00a7 59 to 77, 20 March 2012) which concerned similar issues, the Court considers it appropriate to apply the pilot judgment procedure in the present case, given notably the recurrent and persistent nature of the underlying problems, the number of people affected by them in Hungary and the need to grant them speedy and appropriate redress at domestic level (see paragraphs 33 to 40 below).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The Court notes the Government\u2019s submission about having already introduced to the Committee of Ministers an Action Plan with a view to addressing the problem of protraction of proceedings. It welcomes the Government\u2019s commitment to deal with this issue and encourages them continue these efforts (see Torreggiani and Others v. Italy, nos. 43517/09, 46882/09, 55400/09, 57875/09, 61535/09, 35315/10 and 37818/10, \u00a7 92, 8\u00a0January 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0However, the Court cannot but observe that the problem has persisted in the four years that have elapsed since the enactment of the reforms referred to by the Government. Therefore, it considers that the pilot judgment procedure will allow it to emphasise that the respondent State must introduce remedies which address, in a genuinely effective manner, the violations of the Convention on account of the protraction of court proceedings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Existence of a practice incompatible with the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0From Hungary\u2019s accession to the Convention system and up to 1\u00a0May 2015, more than 200 judgments have involved the finding of a violation by Hungary concerning the excessive length of civil proceedings. In 2014 alone, violations of the right to a hearing within a reasonable time in civil cases were found on 24 occasions. Moreover, the Government have concluded friendly settlements and submitted unilateral declarations in numerous cases concerning the length of civil proceedings; these applications were subsequently struck out of the list of cases.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The Court notes that the respondent State has failed so far to put into effect any measures actually improving the situation, despite the Court\u2019s substantial and consistent case-law on the matter.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The systemic character of the problems identified in the present case is further evidenced by the fact that, on 1 May 2015, approximately 400 cases submitted against Hungary and concerning the same issue are pending before the Court\u2019s various judicial formations, and the number of such applications is constantly increasing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0In view of the foregoing, the Court concludes that the violations found in the present judgment were neither prompted by an isolated incident nor were they attributable to a particular turn of events in this case, but were the consequence of shortcomings of the respondent State. Accordingly, the situation in the present case must be qualified as resulting from a practice incompatible with the Convention (see Bottazzi v. Italy [GC], no. 34884/97, \u00a7\u00a022, ECHR 1999\u2011V).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Adoption of measures to remedy the systemic problems",
+                                        "elements": [
+                                            {
+                                                "content": "38.\u00a0\u00a0The Court reiterates that it is in principle not its task to determine what remedial measures may be appropriate to satisfy the respondent State\u2019s obligations under Article 46 of the Convention. Subject to monitoring by the Committee of Ministers, the respondent State remains free to choose the means by which it will discharge its legal obligation under Article 46 of the Convention, provided that such means are compatible with the conclusions set out in the Court\u2019s judgment (see Scozzari and Giunta v. Italy, cited above, \u00a7 249, ECHR 2000VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Court considers that the respondent State must introduce without delay, and at the latest within one year from the date on which this judgment becomes final, a remedy or a combination of remedies in the national legal system in order to bring it into line with the Court\u2019s conclusions in the present judgment and to comply with the requirements of Article 46 of the Convention. It must further ensure that the remedy or remedies comply, both in theory and in practice, with the key criteria set by the Court (see S\u00fcrmeli v. Germany [GC], no. 75529/01, \u00a7\u00a7 97-101, ECHR\u00a02006VII). In particular, the Court recalls that \u201cthe best solution in absolute terms is indisputably, as in many spheres, prevention. Where the judicial system is deficient with regard to the reasonable-time requirement in Article\u00a06 \u00a7 1 of the Convention, a remedy designed to expedite the proceedings in order to prevent them from becoming excessively lengthy is the most effective solution. Such a remedy offers an undeniable advantage over a remedy affording only compensation since it also prevents a finding of successive violations in respect of the same set of proceedings and does not merely repair the breach a posteriori, as does a compensatory remedy. Some States have understood the situation perfectly by choosing to combine two types of remedy, one designed to expedite the proceedings and the other to afford compensation\u201d (see S\u00fcrmeli, cited above, \u00a7 100). Article 13 also allows a State to choose between a remedy which can expedite pending proceedings or a remedy post factum in damages for delay that has already occurred. While the former is preferred as it is preventative of delay, a compensatory remedy may be regarded as effective when the proceedings have already been excessively long and a preventative remedy did not exist (see McFarlane v. Ireland [GC], no. 31333/06, \u00a7 108, 10 September 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "In identifying a solution to the problem of remedies, the Hungarian authorities should also have due regard to the Committee of Ministers\u2019 recommendations to the member States on the improvement of domestic remedies of 12 May 2004.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Procedure to be followed in similar cases",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0The Court reiterates that one of the aims of the pilot judgment procedure is to allow the speediest possible redress to be granted at domestic level to the large numbers of persons suffering from the structural problem identified in the pilot judgment (see Burdov v. Russia (no. 2), no.\u00a033509/04, \u00a7 \u00a7 127, ECHR 2009). While the respondent State\u2019s action should primarily aim at the resolution of such a dysfunction and at the introduction of effective domestic remedies in respect of the violations in question, it may also include ad hoc solutions such as friendly settlements with the applicants or unilateral remedial offers in line with the Convention requirements.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0In the present circumstances the Court considers it necessary to adjourn the examination of any similar new cases which will be introduced after the date on which this judgment becomes final pending the implementation of the relevant measures by the respondent State, and this for one year counted from that date (see \u00dcmm\u00fchan Kaplan, cited above, \u00a7\u00a077).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "42.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The applicant claimed 20,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Government contested this claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The Court considers that the applicant must have suffered some non-pecuniary damage and awards him, on the basis of equity, EUR 1,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "46.\u00a0\u00a0The applicant also claimed EUR 2,400 plus VAT for the costs and expenses incurred before the Court. This should correspond to twelve hours of legal work charged at an hourly rate of EUR 200 plus VAT, billable by his lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0The Government contested this claim.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the full sum claimed.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 13 read in conjunction with Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that the above violations originated in a practice incompatible with the Convention which consists in the respondent State\u2019s recurrent failure to ensure that proceedings determining civil rights and obligations are completed within a reasonable time and to take measures enabling applicants to claim redress for excessively long civil proceedings at a domestic level;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that the respondent State must introduce without delay, and at the latest within one year from the date on which the judgment becomes final in accordance with Article 44 \u00a7 1 of the Convention, an effective domestic remedy or combination of such remedies capable of addressing, in an adequate manner, the issue of excessively long court proceedings, in line with the Convention principles as established in the Court\u2019s case-law;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Adjourns the examination of any similar new cases which will be introduced after the date on which this judgment becomes final, pending the implementation of the relevant measures by the respondent State, and this for one year counted from that date;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 16 July 2016, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "president"
+        },
+        {
+            "name": "Andr\u00e1s Saj\u00f3",
+            "role": "judges"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Helen Keller",
+            "role": "judges"
+        },
+        {
+            "name": "Paul Lemmens",
+            "role": "judges"
+        },
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "judges"
+        },
+        {
+            "name": "Jon Fridrik Kj\u00f8lbro",
+            "role": "judges"
+        },
+        {
+            "name": "Stanley Naismith",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GAZS\u00d3 v. HUNGARY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-156080.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2015:0716JUD004832212",
+    "externalsources": [],
+    "extractedappno": [
+        "48322/12",
+        "30979/96",
+        "43491/98",
+        "4853/02",
+        "33486/07",
+        "26209/95",
+        "31443/96",
+        "39221/98",
+        "41963/98",
+        "23032/02",
+        "30562/04",
+        "30566/04",
+        "35014/97",
+        "24240/07",
+        "43517/09",
+        "46882/09",
+        "55400/09",
+        "57875/09",
+        "61535/09",
+        "35315/10",
+        "37818/10",
+        "34884/97",
+        "75529/01",
+        "31333/06",
+        "33509/04"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-156080",
+    "judgementdate": "16/07/2015 00:00:00",
+    "kpdate": "16/07/2015 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "406",
+        "444",
+        "110",
+        "216",
+        "577",
+        "283",
+        "26",
+        "638",
+        "636",
+        "637"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "13",
+        "46",
+        "6-1",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "GAZS\u00d3",
+        "HUNGARY"
+    ],
+    "rank": "1324.4267578125",
+    "representedby": [
+        "KARSAI D."
+    ],
+    "respondent": "HUN",
+    "respondentOrderEng": "20",
+    "scl": [
+        "Bartha v. Hungary, no. 33486/07, \u00a7 21, 25 March 2014",
+        "Bottazzi v. Italy [GC], no. 34884/97, \u00a7 22, ECHR 1999 V",
+        "Broniowski v. Poland [GC], no. 31443/96, ECHR 2004 V",
+        "Burdov v. Russia (no. 2), no. 33509/04, \u00a7 \u00a7 127, ECHR 2009",
+        "Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII",
+        "Hutten-Czapska v. Poland [GC], no. 35014/97, ECHR 2006 VIII",
+        "K\u00fatfalvi v. Hungary, no. 4853/02, \u00a7\u00a7 17-19, 5 October 2004",
+        "Lukenda v. Slovenia, no. 23032/02, \u00a7\u00a7 94-95, ECHR 2005 X",
+        "Mangualde Pinto v. France, no. 43491/98, \u00a7 27, 9 April 2002",
+        "McFarlane v. Ireland [GC], no. 31333/06, \u00a7 108, 10 September 2010",
+        "Mr T.K. and Mrs T.K. v. Hungary, no. 26209/95, Commission decision of 21 May 1997",
+        "Ruotolo v. Italy, 27 February 1992, \u00a7 17, Series A no. 230 D",
+        "S. and Marper v. the United Kingdom [GC], nos. 30562/04 and 30566/04, \u00a7 134, ECHR 2008",
+        "Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, ECHR 2000-VIII",
+        "S\u00fcrmeli v. Germany [GC], no. 75529/01, ECHR 2006 VII",
+        "Torreggiani and Others v. Italy, nos. 43517/09, 46882/09, 55400/09, 57875/09, 61535/09, 35315/10 and 37818/10, \u00a7 92, 8 January 2013",
+        "\u00dcmm\u00fchan Kaplan v. Turkey, no. 24240/07, 20 March 2012"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "450725",
+    "typedescription": "15"
+}

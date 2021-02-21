@@ -1,0 +1,1347 @@
+{
+    "__articles": "3;6;6-1;6-3;6-3-d;8;8-1;35;41",
+    "__conclusion": "Remainder inadmissible;Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-3 - Rights of defence;Article 6-3-d - Examination of witnesses;Obtain attendance of witnesses);Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Fair hearing;Equality of arms);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for private life);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "7259/03",
+    "article": [
+        "3",
+        "8",
+        "35",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Effective investigation"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-3 - Rights of defence",
+                "Article 6-3-d - Examination of witnesses",
+                "Obtain attendance of witnesses"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Fair hearing",
+                "Equality of arms"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for private life"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-113648.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no.\u00a07259/03) against the  lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Latvian national, Mr Andris Mitkus (\u201cthe applicant\u201d), on 19\u00a0February 2003.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by Ms\u00a0I.\u00a0Niku\u013cceva, a lawyer practising in . The Latvian Government (\u201cthe Government\u201d) were represented by their Agent, Mrs I. Reine.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 8\u00a0September 2009 the Chamber to which the case had been allocated decided to give notice of the complaints concerning the length and fairness of the criminal proceedings against the applicant, the fairness of two sets of civil proceedings initiated by the applicant, the substantive and procedural aspects of the applicant\u2019s allegation of having been infected with HIV and hepatitis C, and the alleged violation of the applicant\u2019s right to respect for his private life to the Government. It also decided to rule on the admissibility and merits of the application at the same time (Article 29\u00a0\u00a7\u00a01).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1959. The facts of the case may be summarised as follows.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On\u00a020 July 1999 the applicant was arrested on suspicion of extortion. While in detention awaiting the trial in the extortion case, on 26\u00a0November 1999 the applicant was charged with having committed robbery on 18\u00a0July 1999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0On 29\u00a0March 2000 the applicant submitted a complaint to the Public Prosecutor\u2019s Office attached to the , maintaining his innocence with regard to the charges of robbery and pointing out that his alibi could be proved by his neighbours, who had seen him working in the yard of his residence on the day in question. Similar complaints were addressed to the Prosecutor General\u2019s Office on 11\u00a0July 2000 and on 11\u00a0August 2000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On 7\u00a0July 2000 a confrontation was carried out between the applicant and a witness M.B. The applicant\u2019s counsel was present. According to the record of the confrontation, M.B. confirmed the applicant\u2019s involvement in the robbery and the applicant denied it. When given an opportunity to put questions to M.B., the applicant did not have any.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 25\u00a0August 2000 the pre-trial investigation in the applicant\u2019s criminal case was completed and he was given an opportunity to read the materials in the case file. After reading the case file the applicant submitted several written requests, including a request to hold an identity parade to determine whether the victim of the robbery could identify him in a line-up.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 26\u00a0September 2000 a prosecutor rejected the applicant\u2019s requests. With regard to the identity parade, the prosecutor considered that it would serve no useful purpose as the victim had stated that he would not able to recognise his attackers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 9\u00a0April 2001 the R\u012bga City Zemgale District Court convicted the applicant of extortion and sentenced him to a prison term of two and a half years. That judgment eventually became final after the applicant revoked his appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0From 26\u00a0June to 2\u00a0July 2002 hearings in the robbery case took place in the . At the hearing, apart from the applicant and his two co-accused, the following witnesses were present and testified: U.I., who explained that he had driven all the accused persons to the victim\u2019s residence; A.\u0160., the victim\u2019s neighbour, who had not seen the act of robbery but had heard some conversations through the doors of his apartment and had later seen that the victim had been beaten; two minor girls, who had noticed a car in which goods taken from the victim\u2019s apartment were being loaded and had written down its licence number; L.G., the applicant\u2019s former partner, who testified that she had seen the applicant at home on the day of the robbery; B.B., a friend of L.G., who had also seen the applicant at home on the day of the robbery; T.B., the applicant\u2019s neighbour, who had seen the applicant working in the yard of his house on the day of the robbery; S.B., the applicant\u2019s neighbour, who on the day of the robbery had worked in the yard together with the applicant, and three other witnesses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The court then turned to the question of whether the pre-trial statements of the victim and the witness M.B. could be read out in their absence. The applicant insisted that they had to be questioned in court. On 10\u00a0June 2002 the victim had written to the court and indicated that he was unable to attend the hearing \u201cowing to a disability\u201d. The court decided to read out the victim\u2019s pre-trial statements.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0On 27\u00a0June 2002 the court ordered that M.B. be brought to the hearing by the police under constraint, since he had failed to appear at the court without a legitimate excuse. On the following day the police informed the court that M.B. was not residing at the address known to the court. The court then decided to read out the pre-trial statements of M.B. The applicant again insisted that M.B. had to be questioned in person because his testimony directly implicated the applicant in the commission of the crime. The court nevertheless read out the statements obtained during the pre-trial investigation, according to which M.B. had attempted to enlist U.I.\u2019s help in recovering his stolen motorcycle and that the three accused had also joined in. M.B. had waited in the car outside the victim\u2019s apartment building, so he did not see what happened inside but saw the accused carrying out a TV set and other items, which they loaded into the boot of the car and eventually took with them",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 2\u00a0July 2002 the  adopted a judgment by which the applicant was convicted of robbery and sentenced to 8\u00a0years\u2019 imprisonment. The court held that the applicant and his co-accused had gone to the victim\u2019s apartment to help M.B. find his stolen motorcycle. It considered that the applicant\u2019s guilt had been established by the testimonies of the applicant\u2019s co-accused, the victim, M.B., U.I., A.\u0160., and the two minor girls who had written down the number of the licence plate of the car used to transport the victim\u2019s stolen property. The court considered that there was no reason not to believe the pre-trial statements of M.B. and that slight discrepancies in the testimony of U.I. could be explained by the fact that three years had passed since the events in question. The court did not believe the testimonies of the witnesses who confirmed that on the day of the robbery the applicant had been working in the yard of his house, because those witnesses had been questioned at the applicant\u2019s request and because too long a time had passed since the day of the robbery and they could not possibly remember what the applicant had been doing on that particular day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 5\u00a0August 2002 the applicant submitted an appeal, which he amended on 19\u00a0September 2002. He complained inter alia about the victim\u2019s absence from the hearing, which had been justified with reference to his disability; yet, according to the information available to the applicant, his disability was not such as to prevent him from attending the trial. Further, the applicant alleged that his defence had been impaired by the absence of M.B. from the court hearing, especially because M.B. had a reason to falsely accuse him because of their strained personal relationship. He complained that two other people \u2013 S.K-a and S.K-s \u2013 had not been summoned to the court and that their testimonies given during the pre-trial investigation had not even been read out. The applicant requested that the victim, M.B., S.K-a and S.K-s be summoned to the appeal hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 13\u00a0February 2003 the Criminal Chamber of the Supreme Court rejected the applicant\u2019s appeal against the judgment of the first-instance court, essentially relying on the reasoning of the first-instance court and without specifically addressing any of the above-mentioned issues raised by the applicant in his appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 3\u00a0March 2003 the applicant submitted an appeal on points of law to the Senate of the Supreme Court. He essentially repeated the submissions he had made in his appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 2\u00a0April 2003 the Ministry of Justice sent the applicant a letter, explaining, inter alia, that there had been a delay with regard to the hearing of his case in the  because of \u201cobjective reasons\u201d \u2013 the heavy workload of that court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 23\u00a0April 2003 the Senate of the Supreme Court rejected the applicant\u2019s appeal on points of law. In its decision the Senate pointed out, inter alia, that during the trial at the court of appeal the applicant had not repeated his request that \u2013 among others \u2013 M.B. and the victim be summoned to the hearing. The Senate therefore held that the applicant\u2019s complaint about their absence was ill-founded.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Civil proceedings against Central Prison",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0On 21\u00a0March 2003 the Prisons Administration (Ieslodz\u012bjuma vietu p\u0101rvalde) sent a letter to the applicant informing him that in 2002 a blood test had disclosed that he was HIV positive. Subsequently, additional tests had revealed that the applicant was also infected with hepatitis C.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 31\u00a0March 2003 the applicant sent a letter to the Prisons Administration, inter alia expressing his belief that he had been infected in Central Prison in circumstances unknown to him. The applicant also explained that he had never used intravenous drugs and that he was not a homosexual.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0On four occasions in 2003 the Human Rights Bureau received letters from the applicant in which he explained that he had been infected with HIV while in Central Prison. However, he consistently reiterated that he did not know in what circumstances he had been infected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 30\u00a0April 2003 the applicant lodged a claim with the  seeking damages from Central Prison because he had been infected with HIV by the fault of the prison staff.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 25\u00a0July 2003 the administration of Central Prison submitted its response. It pointed out that on 26\u00a0July 1999, upon the applicant\u2019s arrival at Central Prison, his HIV test had been negative. On 24\u00a0September 2002 the test had been positive, which made the representatives of Central Prison believe that the initial test could have been performed during the \u201cwindow\u201d period and that the applicant had been infected before his arrest or, alternatively, that he had been infected while in prison because of failure to observe personal hygiene or by way of a sexual intercourse. It was also noted that all the blood samples in Central Prison were taken using single-use vacuum containers, which excluded the possibility of being infected during the taking of a blood sample.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0In his reply of 24\u00a0November 2003 the applicant indicated that, on the contrary, when his blood was taken in 1999, a multiple-use glass syringe had been used. He contended that he could not have been infected by his cell-mates and that, instead, he had been infected with HIV and hepatitis\u00a0C in 1999 when the medical staff of Central Prison had used a multiple-use syringe to take a sample of his blood.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On the same day the applicant amended his claim, additionally alleging that because of the negligence of the prison\u2019s medical staff he had been infected with hepatitis C.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On 4 February 2004 Central Prison replied to the applicant\u2019s statement of 24\u00a0November 2003, pointing out, inter alia, that Central Prison had used single-use syringes since the beginning of the 1990s and that there were no multiple-use syringes in the medical centre of that prison in 1999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0On 12\u00a0February 2004 the  rejected the applicant\u2019s claim. The judgment noted that the very fact of being placed in prison placed people at a risk of being infected with HIV and hepatitis C. The nurse who had taken the applicant\u2019s blood sample in 1999 had testified before the court that exclusively single-use syringes had been used for blood tests in Central Prison since 1996 or 1997. The court considered that the respondent had proved that a single-use syringe had been used when taking the applicant\u2019s blood sample. It also noted that it was impossible to pinpoint exactly when the applicant had been infected with hepatitis\u00a0C, since he had not been tested for that disease upon his arrival at Central Prison in 1999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0On 17\u00a0February 2004 the applicant submitted an appeal against the judgment of the first-instance court, which he disputed in a general manner. A week later he amended his appeal and noted that, while single-use syringes might indeed have been available in Central Prison, they had not been used for his blood test in 1999. He also requested that his presence at the hearing be ensured.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0In a letter of 15\u00a0June 2004 the Supreme Court informed the applicant that the hearing concerning his appeal would be held on 30\u00a0September 2004. The applicant was invited (aicin\u0101ts) to attend the hearing. On 20\u00a0September 2004 the administration of Jelgava Prison sent confirmation to the Supreme Court that the applicant had attested by his signature that he had received the above information.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0On 30\u00a0September 2004 the Civil Chamber of the Supreme Court held a hearing and issued a judgment with regard to the applicant\u2019s appeal. In the judgment the court pointed out that \u201cthe plaintiff has not appeared [at the hearing] because he is detained\u201d. There was no further analysis of the question of the applicant\u2019s absence. The appeal court essentially dismissed the appeal by relying on the same grounds as the first-instance court. The respondent\u2019s representatives and the nurse from Central Prison were reported to have stated that Central Prison had used exclusively single-use syringes since 1998.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0On 11\u00a0October 2004 the applicant lodged an appeal on points of law. Among other things he complained that he had not been transported to the appeal court hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0On 25\u00a0October 2004 and then again on 22\u00a0December 2004 the applicant complained to the Prosecutor General that he had been infected with HIV because of negligence on the part of the medical staff of Central Prison. The applicant\u2019s complaint requested \u201cthe initiation of criminal proceedings against the persons responsible for infecting me with HIV and hepatitis\u00a0C\u201d. The Prosecutor General forwarded the applicant\u2019s claim to the Ministry of Justice, which on 12\u00a0January 2005 refused to initiate an internal investigation concerning the actions of the prison staff because the applicant\u2019s appeal on points of law was still pending before the Senate of the Supreme Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0In the meantime, on 20\u00a0December 2004 the Senate, by a decision of a preparatory meeting (r\u012bc\u012bbas s\u0113de), had dismissed the applicant\u2019s appeal on points of law. The Senate did not address the applicant\u2019s complaints about his absence from the appeal court hearing.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Civil proceedings against the newspaper publisher",
+                                "elements": [
+                                    {
+                                        "content": "35.\u00a0\u00a0At a hearing held on 27\u00a0August 2003 in the case concerning the applicant\u2019s alleged infection, he had left to the court\u2019s discretion the decision whether to open the trial to the public. The court had decided to hold a closed hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0At the hearing on 24\u00a0November 2003 the applicant expressed his desire for the trial to be open to the public, as long as no photos were taken. The representative of Central Prison objected to opening the trial to the public, since the case concerned sensitive medical information. The court allowed the applicant\u2019s request and the trial was opened to the public.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 25\u00a0November 2003 a daily newspaper, R\u012bgas Balss, published an article entitled \u201cPrison Doctors Accused of Injecting AIDS\u201d, where it was stated that \u201cprisoner Andris M.\u201d had lodged a complaint against Central Prison alleging that he had been infected with AIDS because of the fault of the doctors at the prison. The article also included a photograph of the applicant behind bars, in three-quarters profile, where his facial features were clearly distinguishable. It also reported that the trial had not been open to the public and further described the applicant as a recidivist, who had been convicted six times and was currently serving a prison term of eight years in Jelgava Prison.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0On 12\u00a0February 2004 another hearing was held in the trial between the applicant and Central Prison. The applicant told the court that he did not object to the presence of representatives of the media at the hearing, but added that no pictures should be taken and that his name should not be published. If video recordings were to be made, the applicant insisted that his face should not be visible and his name should not be shown. The court acceded to the applicant\u2019s demands and prohibited the representatives of the media from disclosing the applicant\u2019s identity, while otherwise authorising media coverage of the trial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0On 16\u00a0June 2004 the applicant lodged a claim with the R\u012bga Regional Court, naming the publisher of R\u012bgas Balss (SIA \u201cMediju Nams\u201d) as the respondent and requesting non-pecuniary damages for moral and psychological harm caused to him when R\u012bgas Balss published the above-mentioned article, which included his photo in which he was fully recognisable. The claim was based on an alleged infringement of personal data protection legislation and an alleged violation of criminal law which, in accordance with the Civil Law, created an obligation to pay damages.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0In its response the publisher pointed out that the applicant had implicitly consented to the disclosure of his personal data when he had lodged a claim against Central Prison. Furthermore, he had not asked for the trial to be closed to public. At an unspecified later date the respondent publisher amended its observations, indicating that the disputed article had merely put together information that had been in the public domain. Furthermore the applicant himself had striven to make the information about his case as widely available as possible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0On 21\u00a0December 2004 the  adopted a judgment by which it dismissed the applicant\u2019s claim. It expressed the opinion that data protection legislation was applicable to the applicant, as he could be identified from the photograph published in the newspaper. It also agreed that the applicant had not consented to the publication of his personal data, since during the trial he had asked not to be filmed or photographed. Thus the respondent newspaper had contravened the law by publishing sensitive personal data. Nevertheless, the applicant had failed to prove the existence of any damage and/or had not referred to any legal basis for the damages claimed; therefore his claim for compensation had to be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0On 23\u00a0December 2004 the applicant appealed. Among other things he indicated specific types of damage he had allegedly suffered. On 14\u00a0January 2005 the applicant submitted additional comments to the appeal court in which he emphasised that the publication of his data and photo had been prohibited by the court during the hearing of 24\u00a0November 2003 in the case against Central Prison.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0On 11\u00a0April and 9\u00a0May 2005 the applicant asked the appeal court when his appeal would be heard and also requested that his presence at the hearing be ensured.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0On 2\u00a0February 2006 the Civil Chamber of the Supreme Court held an appeal hearing. Its verbatim record indicates that the court noted that the applicant had not appeared at the hearing and, after asking for the opinion of the respondent, it decided to proceed in the applicant\u2019s absence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0On the same date the Supreme Court adopted its judgment, in which it was pointed out that the applicant had not been escorted to the hearing and that the case could be heard in his absence. No further comments in this regard were made.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0As to the substance, the court held that the media were not subject to the data protection legislation and that there were no legal grounds for compensating the non-pecuniary damage allegedly caused to the applicant by the publication.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0On 27\u00a0February 2006 the applicant lodged an appeal on points of law. He complained, among other things, that the case had been heard by the appeal court in his absence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0On 26\u00a0April 2006 the Senate of the Supreme Court, by a decision of a preparatory meeting, dismissed the applicant\u2019s appeal on points of law. The Senate considered that the applicant had merely disputed the assessment of facts by the first-instance and appeal courts and therefore his appeal on points of law did not meet the procedural requirements. The decision did not mention the applicant\u2019s complaint about his absence from the appeal hearing.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND COUNCIL OF EUROPE DOCUMENTS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Burden and means of proof in civil proceedings",
+                                "elements": [
+                                    {
+                                        "content": "49.\u00a0\u00a0As in force at the material time, section\u00a010\u00a0(1) of the Law of Civil Procedure provided that civil proceedings were to be conducted on an adversarial basis (\u201csac\u012bkstes form\u0101\u201d). In practice it meant the following:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cSection\u00a093. The duty to prove and to submit evidence",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Each party shall prove the facts forming the basis of its claims or objections. ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Evidence shall be submitted by the parties and by other participants. If it is not possible for the parties or other participants to submit evidence, the court shall ask (izpras\u012bt) for such evidence on the basis of a reasoned request.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Criminal responsibility for medical negligence",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0As in force at the relevant time, section\u00a0138 of the Criminal Law provided for criminal responsibility for inadequate performance of professional duties by a medical professional resulting in serious or life-threatening injuries, a person\u2019s death or infection with HIV. Under section\u00a056\u00a0(1) of the Criminal Law the statute of limitations for this crime was five years.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Initiating criminal proceedings",
+                                "elements": [
+                                    {
+                                        "content": "51.\u00a0\u00a0Article\u00a03 of the Code of Criminal Procedure as in force at the relevant time obligated prosecutors to initiate criminal proceedings every time signs of a criminal offence (noziedz\u012bga nodar\u012bjuma paz\u012bmes) were discovered. According to Article\u00a0107 criminal proceedings could be initiated only in those cases when there was a sufficient basis (pietiekams pamats) to believe that a criminal offence had been committed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0Article\u00a0109 provided as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c[A] prosecutor ... has to accept materials, applications and declarations concerning a criminal offence that has been committed ..., including in cases which do not fall under his jurisdiction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In relation to the materials, application or declaration received one of the following decisions shall be taken:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to initiate criminal proceedings;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to refuse to initiate criminal proceedings;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to submit the application or declaration to [a competent institution].",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Applications and declarations concerning crimes shall be examined immediately but at the latest within ten days of their receipt. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0Article\u00a0112 of the Code of Criminal Procedure provided that a copy of a prosecutor\u2019s decision to refuse to initiate criminal proceedings was to be sent to the person who had submitted the complaint. The complainant was also to be informed of his or her right to appeal against the decision.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Length of criminal proceedings",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0At the relevant time Article\u00a0241 of the Code of Criminal Procedure provided that the trial in the first-instance court had to start no later than one month after a criminal case had been received at that court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Parties\u2019 attendance at civil proceedings",
+                                "elements": [
+                                    {
+                                        "content": "55.\u00a0\u00a0According to the Law of Civil Procedure as in force at the relevant time, the parties to a case had a right to participate in hearings (section\u00a074\u00a0(2)\u00a0(2)). However, a hearing could proceed even if a party to the case failed to appear in court (section\u00a0156). Nevertheless, according to section\u00a0209 a court had an obligation to postpone a hearing if a party was not present because he or she had not been informed of the time and place of the hearing or if he or she had not appeared for reasons the court found to be justified. A court had a choice whether to postpone a hearing if a party who had been informed of the time and place of a hearing failed to appear for unknown reasons (section\u00a0210).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "F.\u00a0\u00a0Data Protection",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0Under section 11(1) of the Personal Data Protection Law the processing of sensitive personal data is prohibited, except if the data subject has given his or her written consent for the processing of his or her sensitive personal data.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0Section 5(1) of the Personal Data Protection Law provides, among other things, that section 11 does not apply if personal data is processed for journalistic, artistic or literary purposes, and it is not prescribed otherwise by law. Section 5(2) of that law, however, provides that section 5(1) has to be applied in compliance with the right to private life of an individual and the freedom of speech.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0In accordance with section 7(6) of the Law on Press and Other Mass Media it is prohibited to publish information concerning the state of health of individuals without their consent.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "G.\u00a0\u00a0Dissemination of private data and medical information",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0On 23\u00a0January 1970 the Parliamentary Assembly of the Council of Europe adopted Resolution\u00a0428, containing a Declaration on Mass Communication Media and Human Rights, the relevant part of which reads as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cC.\u00a0\u00a0Measures to protect the individual against interference with his right to privacy\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0There is an area in which the exercise of the right of freedom of information and freedom of expression may conflict with the right to privacy protected by Article 8 of the Convention on Human Rights. The exercise of the former right must not be allowed to destroy the existence of the latter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The right to privacy consists essentially in the right to live one\u2019s own life with a minimum of interference. It concerns private, family and home life, physical and moral integrity, honour and reputation, avoidance of being placed in a false light, non-revelation of irrelevant and embarrassing facts ... protection from disclosure of information given or received by the individual confidentially...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The right to privacy afforded by Article 8 of the Convention on Human Rights should not only protect an individual against interference by public authorities, but also against interference by private persons or institutions, including the mass media. National legislations should comprise provisions guaranteeing this protection.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0Recommendation Rec\u00a0(89)\u00a014 on \u201cThe ethical issues of HIV infection in the health care and social settings\u201d, adopted by the Committee of Ministers of the Council of Europe on 24\u00a0October 1989, reads as follows in so far as is relevant to the present case:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cB.\u00a0\u00a0Confidentiality\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cPublic health authorities are recommended:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "in relation to reporting of cases:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to ensure that the reporting of AIDS cases ... is used for epidemiological purposes only and therefore carried out in strict compliance with appropriate confidentiality regulations and in particular that data is transmitted on a non-identifiable basis;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to avoid any possible discriminatory use of sensitive health-related data;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": " to avoid discouraging individuals from seeking voluntary testing,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "in relation to the patient-health care worker relationship:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to strongly support respect for confidentiality, if necessary by introducing specific policies and by promoting educational programs for health care workers to clarify confidentiality issues in relation to HIV infection.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "61.\u00a0\u00a0The applicant complained that he had been infected with HIV and hepatitis\u00a0C while in Central Prison and that his complaints in that regard had not been adequately investigated by the national authorities. He relied on Article\u00a03 of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicability of Article\u00a03",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0At the outset the Court will, of its own motion, examine the question whether Article\u00a03 of the Convention is applicable to the situation complained of by the applicant. The Court does not lose sight of the fact that in certain cases comparable factual situations have been examined from the angle of Article\u00a02 of the Convention (see, for example, Karchen and Others v. France (dec.), no.\u00a05722/04, 4\u00a0March 2008; G.N. and Others v.\u00a0Italy, no.\u00a043134/05, \u00a7\u00a069, 1\u00a0December 2009; and Oyal v. , no.\u00a04864/05, \u00a7\u00a7\u00a057-58, 23\u00a0March 2010). At the same time, the Court has also emphasised that if no death of a victim as a result of actions attributable to the State or its agents has occurred, then such actions will be analysed from the angle of Article\u00a02 only in exceptional circumstances (see Karchen and Others, cited above). The Court considers that no such exceptional circumstances are present in this case. The crux of the applicant\u2019s complaint appears to concern the single but inevitably shocking fact of being infected with two dangerous diseases. Therefore the Court will examine the applicant\u2019s complaints under the substantive and the procedural aspects of Article\u00a03.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s infection with HIV and hepatitis C",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "63.\u00a0\u00a0The Government argued that the applicant had failed to prove beyond reasonable doubt that he had been infected with HIV and hepatitis C when his blood sample was drawn in Central Prison on 26\u00a0July 1999. According to the information provided to the Government Agent by the Prisons Administration, since 1992 the medical unit of Central Prison had used exclusively single-use syringes, needles and vacuum containers for blood tests, therefore it was not possible that the applicant\u2019s blood sample had been drawn using a reusable syringe, as he alleged. Furthermore, his blood sample had been sent for analysis to the laboratory of the Infectious Disease Centre, which only accepted blood samples in vacuum containers. The Government further referred to the report of the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (hereinafter \u201cthe CPT\u201d) on its visit to Latvia from 24\u00a0January to 3\u00a0February 1999, that is, shortly before the disputed blood sample was taken from the applicant. While the CPT had found and brought to light certain shortcomings relating to the treatment of HIV-positive prisoners in the medical unit of Central Prison, their report did not contain any information about the alleged use of reusable syringes, which is a matter that would normally have been particularly seriously scrutinised by the CPT.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The Government further argued that despite the fact that shortly after the applicant\u2019s arrest the analysis of his blood had not revealed any infection with HIV and hepatitis C, he could nevertheless have become infected before his arrest. In this regard the Government referred to the \u201cwindow period\u201d during which the presence of HIV antibodies cannot be determined in the blood of infected persons. The \u201cwindow period\u201d can last anywhere between three and six months after the date of the infection. As for hepatitis\u00a0C, the Government pointed out that persons infected with it sometimes did not display any symptoms or displayed only mild symptoms for ten or even up to twenty years after having been infected. The Government argued that the applicant could have been infected with the two diseases prior to his arrest, while getting tattoos, or sharing needles when injecting drugs, or in some other way. He could also have been infected during long-term meetings with private individuals when already in prison.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0The Government submitted that it was only in his letters to the Court that the applicant had put forth the theory that he had been infected when his blood sample was taken in Central Prison. In his correspondence with the various national authorities he had consistently stated that he did not know when and how he had been infected. According to the Government, that undermined the reliability of his claim.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The applicant denied the Government\u2019s suggestion that he could have been infected with HIV and hepatitis\u00a0C prior to his arrest. He stated that prior to being taken into custody he had lived with his partner, who was not HIV-positive. He further stressed that he had never taken drugs and therefore could not have been infected by using shared needles to inject drugs. He did have some tattoos, but they had been acquired long before his arrest. Lastly, the applicant had had no long-term visitors in prison between the time of his arrest and 19\u00a0September 2002 when he was diagnosed with HIV and hepatitis\u00a0C. The applicant had clearly seen that on 26\u00a0July 1999 the nurse had drawn his blood using a multiple-use syringe. According to him, that fact could have been confirmed by the other thirteen detainees whose blood samples had been taken in Central Prison on the same day.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "67.\u00a0\u00a0The Court reiterates that in assessing evidence in a claim of a violation of Article 3 of the Convention, it adopts the standard of proof \u201cbeyond reasonable doubt\u201d (see Ireland v. the United Kingdom, 18 January 1978, \u00a7 161, Series A no.\u00a025; Bazjaks v. , no.\u00a071572/01, \u00a7\u00a074, 19\u00a0October 2010; and Kova\u013ckovs v. Latvia (dec.), no.\u00a035021/05, \u00a7\u00a052, 31\u00a0January 2012). Such proof may, however, follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Bazjaks, \u00a7\u00a074, and Kova\u013ckovs, \u00a7\u00a052, both cited above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0In the present case the Court notes the existence of different opinions as to exactly when the medical service of Central Prison stopped using reusable syringes for blood tests. In various contexts that date has been reported to be the beginning of the 1990s (see paragraph\u00a027 above), 1992 (paragraph\u00a063), 1996 or 1997 (paragraph\u00a028) and 1998 (paragraph\u00a031). Such discrepancies undermine the reliability of the arguments submitted by the Government. Despite this uncertainty the Court considers that reasonable doubts equally persist that the applicant was infected with HIV and hepatitis C only after his arrest. The Court has previously found that the existence of a \u201cwindow period\u201d for detecting the presence of HIV antibodies means that there exists the possibility that the infection might have been contracted prior to the person\u2019s arrest (see, for example I.T. v.  (dec.), no.\u00a040155/02, 24\u00a0November 2005). As to the infection with hepatitis C, the Court notes that it does not have any information that the applicant had ever been tested for that disease prior to his arrest in 1999. An ordinary medical check-up does not suffice to reveal chronic hepatitis and, as noted by the Government, the disease can remain asymptomatic for extended periods of time. Therefore doubts persist that the applicant was infected only after his arrest (see also Mechenkov v. , no.\u00a035421/05, \u00a7\u00a7\u00a080-81, 7\u00a0February 2008, and Ghavtadze v. , no.\u00a023204/07, \u00a7\u00a079, 3\u00a0March 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0In the light of the above, the Court finds that the material in the case file does not enable it to conclude beyond all reasonable doubt that the applicant was infected with HIV and hepatitis C after his incarceration. It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35\u00a0\u00a7\u00a7\u00a03\u00a0(a) and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The investigation into the applicant\u2019s infection",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "70.\u00a0\u00a0The Court underlines that, despite having found above that the applicant\u2019s allegations about the circumstances of his infection with HIV and hepatitis C did not meet the exacting standard of proof \u201cbeyond reasonable doubt\u201d applied by the Court, his complaints to the domestic authorities, in particular the complaints to the Prosecutor General of 25\u00a0October and 22\u00a0December 2004 (see paragraph\u00a033 above) contained serious and reasonably credible allegations, which were supported by sufficient details and thus ought to have triggered a procedural obligation under Article\u00a03 of the Convention for the domestic authorities to investigate his allegations (among many other authorities, see Assenov and Others v.\u00a0Bulgaria, 28 October 1998, \u00a7\u00a0102, Reports of Judgments and Decisions 1998VIII, and Labita v.  [GC], no. 26772/95, \u00a7\u00a0131, ECHR 2000IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0For these reasons the Court finds that the complaint about the effectiveness of the investigation is not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "72.\u00a0\u00a0The Government argued that the first time the applicant had made an allegation that he had been infected with HIV as a result of negligence on the part of Central Prison staff was when he lodged a civil claim for damages on 23\u00a0April 2003. Subsequently the applicant amended his claim to argue that he had been infected with hepatitis C in the same circumstances. Two levels of domestic courts properly examined the evidence submitted by the applicant, including summoning and questioning the nurse who had drawn his blood on 26\u00a0July 1999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0Only after the applicant\u2019s claim had been dismissed by the civil courts did he submit a complaint to the Office of the Prosecutor General, seeking the institution of a criminal investigation into his infection with HIV and hepatitis\u00a0C (see paragraph 33 above). According to the Government, the Office of the Prosecutor General had acted fully in compliance with the applicable domestic law when it forwarded the applicant\u2019s complaint for examination to the Ministry of Justice. The Prisons Administration informed the Office of the Prosecutor General that the applicant\u2019s claim had already been examined on the merits and rejected by the civil courts. On the basis of that information the prosecutors had concluded that the applicant\u2019s rights had not been violated and that no further investigation was necessary.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The applicant referred to the response to his civil claim which the representatives of Central Prison had submitted to the , suggesting that he could have been infected when sharing items of hygiene (a toothbrush or a razor) with HIV-positive prisoners, or else by way of sexual intercourse with such prisoners. In the applicant\u2019s view that response attested to the fact that Central Prison had failed to carry out any investigation of his claims whatsoever. He had not shared any items of personal hygiene with other prisoners, was not a homosexual and in any case homosexual prisoners in Latvian prisoners were held separately from others. The prison authorities had failed to verify whether the applicant\u2019s partner, with whom he had lived prior to his arrest, was HIV-positive. They had not questioned the prisoners whose blood samples had been taken on the same day as his own. In any case, civil proceedings could not be considered an effective official investigation, since civil proceedings were carried out on an adversarial basis, thus all evidence of the applicant\u2019s allegations had to be collected and submitted by the applicant himself. The applicant\u2019s complaint to the Office of the Prosecutor General had been dismissed without any official investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0The Government responded to the applicant\u2019s complaint about the domestic authorities\u2019 failure to question the other prisoners whose blood samples had been taken on the same day by stating that by the time the applicant had brought his grievances to the attention of the national authorities it was no longer possible to identify those other prisoners, who in any case were likely to have been transferred to other prisons or else released from detention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "76.\u00a0\u00a0At the outset the Court reiterates that the Convention does not as such guarantee a right to have criminal proceedings instituted against third parties (see Perez v. France [GC], no.\u00a047287/99, \u00a7\u00a070, ECHR\u00a02004-I). However, the Court has said on a number of occasions that the effective judicial system required by the Convention may, and under certain circumstances must, include recourse to the criminal law. However, if the infringement of the right to life or to personal integrity is not caused intentionally, the positive obligation imposed under the Convention to set up an effective judicial system does not necessarily require the provision of a criminal-law remedy in every case. In the specific sphere of medical negligence the obligation may, for instance, also be satisfied if the legal system affords victims a remedy in the civil courts, either alone or in conjunction with a remedy in the criminal courts, enabling any liability of the doctors concerned to be established and any appropriate civil redress, such as an order for damages and for the publication of the decision, to be obtained. Disciplinary measures may also be envisaged (see Calvelli and Ciglio v. Italy [GC], no. 32967/96, \u00a7 51, ECHR 2002 I). However, the above-mentioned rule is not absolute. In certain situations it is only by recourse to criminal-law remedies that it can be ensured that situations are investigated and evidence is collected in conformity with the Convention requirements. In Latvian law, as in French law, \u201ccriminal proceedings prevail over civil proceedings ... in terms of the means available to establish the facts and gather evidence\u201d (see Perez, cited above, \u00a7\u00a066). While in theory parties to a civil case could ask a court to secure evidence to which they had no access (section\u00a093\u00a0(2) of the Law of Civil Procedure, see paragraph\u00a049 above), in practice such a method of gathering evidence might in many cases be cumbersome. In the particular circumstances of the present case two considerations militate against civil proceedings as an effective means of investigation. First, because he was in prison the applicant\u2019s personal investigative capacity was inevitably severely curtailed. Second, the applicant was absent from the appeal court\u2019s hearing in the civil proceedings he had instituted concerning his infection. While the impact of his absence on his right to a fair trial guaranteed by Article 6 of the Convention will be dealt with below (see paragraphs\u00a0107-115), for the purposes of the present analysis the Court has some doubts whether the applicant was able to have \u201ca full adversarial hearing on [his] allegations of negligence\u201d (see Powell v. the  (dec.), no.\u00a045305/99, ECHR\u00a02000V, and Vo v. France [GC], no.\u00a053924/00, \u00a7\u00a091, ECHR\u00a02004VIII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0In the light of the foregoing the Court concludes that, given the applicant\u2019s particular situation, in the present case civil proceedings did not offer him a sufficient possibility to establish facts, gather evidence and find out the truth about the circumstances of his infection. Consequently, the applicant\u2019s decision to submit a criminal complaint to the Office of the Prosecutor General was justified and the domestic authorities had an obligation to make use of the criminal-law remedies available to them. That conclusion is wholly independent from the fact that according to the domestic law applicable at the time prosecutors had a strict obligation to initiate criminal proceedings every time there were sufficient reasons to suspect that a criminal offence had been committed (see paragraph\u00a051 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0The Court has frequently held that the obligation to investigate, which stems from Articles\u00a01 and 3 of the Convention, \u201cis not an obligation of results, but of means\u201d (see Paul and Audrey Edwards v. the , no. 46477/99, \u00a7\u00a071, ECHR 2002II). What this means is that the domestic authorities are not obliged to come to a conclusion which coincides with the claimant\u2019s account of events. However, any investigation carried out by such authorities should in principle be capable of leading to the establishment of the facts of the case and the potential identification and punishment of those responsible. Thus, the investigation into serious allegations of treatment contrary to Article\u00a03 of the Convention must be thorough and the authorities must always make a serious attempt to find out what happened (see Mikheyev v. , no.\u00a077617/01, \u00a7\u00a7\u00a0107-108, 26\u00a0January 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0Because of its subsidiary role, the Court\u2019s task is not to substitute itself for the domestic authorities. The Court will thus normally accept the national authorities\u2019 interpretation of the domestic substantive and procedural law, unless that interpretation is manifestly unreasonable or arbitrary or it produces consequences that are not consistent with the principles of the Convention as interpreted in the light of the Court\u2019s case-law (see, mutatis mutandis, McFarlane v.  [GC], no.\u00a031333/06, \u00a7\u00a0114, 10\u00a0September 2010, and Alimu\u00e7aj v. , no.\u00a020134/05, \u00a7\u00a0152, 7\u00a0February 2012). Thus it is not open to the Court to speculate, in the absence of observations in that respect, whether a criminal investigation of the applicant\u2019s complaints might have been impossible for objective reasons, such as, for example, the expiry of the statute of limitations. What the Office of the Prosecutor General did was to forward the applicant\u2019s complaints to the Ministry of Justice. It appears that subsequently that Office acquiesced to the Ministry of Justice\u2019s reliance on the findings of the civil courts (see paragraph\u00a033 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0Thus the Office of the Prosecutor General neither initiated a criminal investigation into the applicant\u2019s allegations nor refused to do so. If a decision refusing to initiate criminal proceedings had been adopted, it would have been amenable to appeal (Article\u00a0112 of the Code of Criminal Procedure, see paragraph\u00a053 above). While it is true that Article\u00a0109 of the Code of Criminal Procedure provided for an option to forward complaints to \u201ccompetent authorities\u201d for examination (see paragraph\u00a052 above), the Court fails to comprehend how the Ministry of Justice would be an authority competent to examine a complaint specifically calling for a criminal investigation into actions that, at least prima facie, fall exactly within the scope of a criminal act clearly proscribed by the Criminal Law (see paragraph\u00a051 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0What is more, the Office of the Prosecutor General assented to the Ministry of Justice\u2019s assessment that the applicant\u2019s complaints had been adequately vented and dismissed by the civil courts. The Office of the Prosecutor General appears not to have found it necessary to set that conclusion out in a formal decision, however succinct it might have been (for a case where very abbreviated motivation of refusals to initiate criminal proceedings was found to satisfy the Convention requirements, see, for example, Po\u010dkajevs v. Latvia (dec.), no.\u00a076774/01, 21\u00a0October 2004).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0In the light of these considerations, the Court cannot but conclude that the Prosecutor General did not carry out an attempt to find out what happened in accordance with the national law. There has accordingly been a violation of the procedural aspect of Article 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6\u00a0\u00a7\u00a01 OF THE CONVENTION IN THE CRIMINAL PROCEEDINGS",
+                        "elements": [
+                            {
+                                "content": "83.\u00a0\u00a0The applicant complained that the criminal proceedings against him had been excessively lengthy, contrary to the requirements of Article 6\u00a0\u00a7\u00a01 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "84.\u00a0\u00a0The applicant particularly emphasised the long period of complete inactivity of the first-instance court, which had not been caused by the complexity of the case but rather, as admitted by the domestic authorities (see paragraph\u00a018 above), by the heavy workload of the first-instance court. The delay had in addition been in breach of the domestic legal time-limits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0The Government argued that the overall length of the criminal proceedings had complied with the requirements of Article 6\u00a0\u00a7\u00a01. They underlined that altogether the proceedings had lasted for less than three and a half years. Furthermore, once the trial started, the proceedings had been completed within ten months in three levels of domestic courts. The Government referred to several cases against  in which the Court had found that proceedings of comparable length had complied with the guarantees of Article 6 \u00a7 1.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0As regards the applicant\u2019s argument that the period of inactivity in the first-instance court had breached the time-limit provided for in Article\u00a0241 of the Code of Criminal Procedure (see paragraph\u00a054 above), the Government noted that a failure to abide by the time-limit prescribed by domestic law did not in itself contravene Article 6 \u00a7 1 of the Convention (Svipsta v. Latvia, no.\u00a066820/01, \u00a7\u00a0159, ECHR 2006III (extracts), and Estrikh v. , no.\u00a073819/01, \u00a7\u00a0138, 18\u00a0January 2007).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0The Court notes that the parties disagree about the date when the criminal proceedings against the applicant started. While it is aware that the applicant was detained from 20\u00a0July 1999 onwards, the Court remarks that the applicant\u2019s length of proceedings complaint to the Court relates only to the criminal proceedings in which he was charged with robbery. His detention on 20\u00a0July 1999 had been ordered in connection with unrelated extortion charges which are not the subject of the present proceedings. He was charged with robbery on 3\u00a0November 1999, which for the Court is the start of the proceedings the reasonableness of the length of which the applicant has asked it to assess.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The criminal proceedings against the applicant thus lasted three years, four months, and twenty-four days, out of which for two years, seven months, and two days the case was pending before the first-instance court. The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the complexity of the case as well as to the conduct of the applicant and the relevant authorities (see, among many other authorities, P\u00e9lissier and Sassi v. France [GC], no.\u00a025444 /94, \u00a7\u00a067, ECHR 1999-II). In addition the Court notes that, as it has held on many occasions before, failure to abide by the time-limit prescribed by domestic law does not in itself contravene Article 6\u00a0\u00a7\u00a01 of the Convention (see, for example, Estrikh, cited above, \u00a7\u00a0138, and Wiesinger v. Austria, 30\u00a0October 1991, \u00a7\u00a060, Series A no.\u00a0213). Taking into account all the relevant factual and legal elements of the present case, namely the complexity of the case, the delays caused by the attempts to ensure the attendance of witness M.B., and the overall speed with which the case was decided by the Supreme Court and the Senate of the Supreme Court, the Court considers that the length of the proceedings was reasonable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0Accordingly the applicant\u2019s complaint in that regard is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and\u00a04 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 3 (d) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "90.\u00a0\u00a0The applicant complained of a violation of his right to examine witnesses against him and on his behalf. In particular, he complained that the domestic courts had not heard his neighbours, who could allegedly have confirmed his alibi, and had not heard the victim of the robbery and M.B., who was directly implicated in the robbery. He relied on Article\u00a06\u00a0\u00a7\u00a03 (d) of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him; ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s neighbours",
+                                        "elements": [
+                                            {
+                                                "content": "91.\u00a0\u00a0The Government argued that the applicant\u2019s complaint concerning the domestic courts\u2019 alleged failure to summon and examine his neighbours who could allegedly have confirmed his alibi was inadmissible for failure to exhaust the domestic remedies, because the applicant, who had been represented by counsel, had not complained \u2013 either in his appeal or during the hearing before the appeal court \u2013 that the first-instance court had refused to summon any witnesses on his behalf.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0The applicant did not dispute that statement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0The Court therefore accepts that the applicant has failed to exhaust the domestic remedies in so far as the attendance and examination of his neighbours who were not heard by the first-instance court is concerned. It follows that this complaint must be rejected under Article\u00a035 \u00a7\u00a7\u00a01 and\u00a04 of the Convention for non-exhaustion of domestic remedies.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Other witnesses",
+                                        "elements": [
+                                            {
+                                                "content": "94.\u00a0\u00a0The Government pointed out that all other witnesses on the applicant\u2019s behalf whose attendance he had requested had in fact been summoned to the first-instance court and had testified. Accordingly, the applicant\u2019s complaint in that regard was manifestly ill-founded.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0In his submissions submitted to the Court after the application was communicated to the respondent Government was the first time that the applicant complained that the appeal court had refused to summon witnesses S.K.-s and S.K.-a, who could have attested to his innocence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "96.\u00a0\u00a0The Court does not need to determine whether the applicant\u2019s complaint concerning the absence of S.K.-s and S.K.-a has been submitted to it in time, since it is in any case inadmissible for the following reasons. In his appeal to the Supreme Court the applicant stated that S.K-a and S.K-s \u2013 who had no direct knowledge of the crime and who have never been alleged to have witnessed the robbery \u2013 should testify at court because their statements would be important for \u201cthe objective adjudication of the case\u201d and in order to establish \u201call the true circumstances and reasons in this criminal case\u201d. The applicant has failed to adequately substantiate the importance of questioning these two persons. His complaint under Article\u00a06\u00a0\u00a7\u00a03\u00a0(d) in that regard is therefore manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0The Court notes that the applicant\u2019s remaining complaints under Article\u00a06\u00a0\u00a7\u00a03\u00a0(d) of the Convention are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that those complaints are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Examination of the victim",
+                                        "elements": [
+                                            {
+                                                "content": "98.\u00a0\u00a0The Government pointed out that Article 6\u00a0\u00a7\u00a03 (d) of the Convention did not grant the accused an unlimited right to secure the appearance of witnesses in court. The question instead was whether the proceedings in their entirety, including the way in which evidence had been taken, had been fair (\u017d. v. , no.\u00a014755/03, \u00a7\u00a094, 24\u00a0January 2008, and Pacula v.\u00a0Latvia, no.\u00a065014/01, \u00a7\u00a059, 15\u00a0September 2009). For that reason it was necessary to establish the reason why the applicant had requested that the victim testify in court, which, according to the Government, was only to demonstrate that the victim would be unable to identify him as one of the assailants. The Government argued that during the pre-trial investigation the victim had consistently stated that he had never seen his assailants before the robbery and thus would not be able to recognise them. The Government submitted that the victim\u2019s testimony, which had been read out during trial at the first-instance court and on appeal because the victim was disabled and thus unable to appear at the hearings in person, had not been the sole or decisive piece of evidence for establishing the applicant\u2019s guilt. In addition, the applicant and his counsel had been given an opportunity to comment on the victim\u2019s statements which had been read out at the hearing. Lastly the Government emphasised that neither the applicant nor his counsel had objected to the victim\u2019s absence from the appeal court hearing or requested that the hearing be adjourned because of the victim\u2019s absence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0The applicant disputed the Government\u2019s argument that during the pre-trial investigation the victim had stated that he would not be able to identify his assailants. According to the victim\u2019s interrogation records, on 18\u00a0July 1999 he had stated that his assailants were not known to him but that he would be able to recognise them. When questioned, on 13\u00a0October 1999, the victim had stated that he did not remember the features of the assailants. In addition, the statements given by the victim during the pre-trial investigation had been inconsistent and had contradicted statements given by other witnesses during the trial. Those discrepancies led the applicant to submit that having an opportunity to put questions to the victim in person would have been particularly important. The applicant had had no other possibility to challenge the victim\u2019s version of the events, his request to organise an identity parade and a confrontation between him and the victim having been denied. The applicant further disputed the argument that the victim had been unable to attend the court hearing because of his disability. According to the applicant the victim had been disabled since his childhood but was nevertheless physically capable of attending court hearings. Lastly the applicant submitted that under the laws governing criminal procedure the courts had the possibility to question witnesses in their place of residence, yet the first-instance court and the appeal court had not used that possibility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0The Government responded to the applicant\u2019s allegation that a prosecutor had refused his request to arrange an identity parade and a confrontation between him and the victim by indicating that the applicant could have lodged an interim appeal against the prosecutor\u2019s refusal to carry out the requested procedural steps but had never done so.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0The Court reiterates that Article\u00a06\u00a0\u00a7\u00a03\u00a0(d) of the Convention enshrines the principle that, before an accused can be convicted, all evidence against him must normally be produced in his presence at a public hearing with a view to adversarial argument. Two requirements follow from that principle. First is the so-called \u201csole or decisive\u201d rule, according to which Article 6 may be violated when a conviction is based solely or to a decisive degree on depositions that have been made by a person whom the accused has had no opportunity to examine or to have examined, whether during the investigation or at the trial (see Al-Khawaja and Tahery v. the  [GC], nos.\u00a026766/05 and 22228/06, \u00a7\u00a0119, 15\u00a0December 2011). In this context the word \u201cdecisive\u201d should be interpreted narrowly (ibid., \u00a7\u00a0131). Secondly, even where the evidence of an absent witness has not been sole or decisive, Article 6 may be violated when no good reason has been shown for the failure to have the witness examined (ibid., \u00a7\u00a0120, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "102.\u00a0\u00a0The Court finds that the evidence given by the victim of the robbery at the pre-trial stage was neither sole nor decisive. It was the statements of the applicant\u2019s co-accused and of U.I. that placed the applicant at the scene of the robbery. The Government and the applicant appear to be in agreement that as from 13\u00a0October 1999 the victim could no longer remember the specific features of his assailants and therefore could not have reliably eliminated the applicant from among the persons who had attacked him. Second, even though the domestic court accepted, without delving further into the issue, the victim\u2019s claim that he could not participate in the trial because of his disability, the applicant himself might have contributed to that omission by failing to consistently maintain his complaint in that regard before the appeal court. Overall the Court considers that the applicant has failed to demonstrate that the fact that the victim\u2019s absence from the proceedings impaired his defence rights to such an extent as to render the whole proceedings unfair. The applicant was convicted on the basis of solid evidence (testimonies of witnesses and his co-defendants, expert reports, and so on). There has thus been no violation of Article 6 on account of the victim\u2019s absence from the applicant\u2019s criminal trial.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Examination of M.B.",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0The Government asserted that the domestic courts had applied their best efforts to have M.B. testify at the trial, but eventually failed. The Government further underlined that Article 6\u00a0\u00a7\u00a03 (d) of the Convention obliged the Contracting States to take reasonable steps to secure the presence of witnesses in criminal cases; however, if the authorities have been diligent in their efforts to bring witnesses to court but have been unable to do so because they have turned out to be missing, the unavailability of witnesses as such does not make it necessary to discontinue the prosecution (\u017d., cited above, \u00a7\u00a094). If a missing witness\u2019s statements were corroborated by other evidence, the reading out of such statements given during the pre-trial investigation did not violate Article\u00a06\u00a0\u00a7\u00a03\u00a0(d) (in this regard the Government relied, inter alia, on Scheper v. the Netherlands (dec.), no.\u00a039209/02, 5\u00a0April 2005). The applicant and his counsel had been given an opportunity to comment on the statements that M.B. had given during the pre-trial investigation which had been read out during the trial. What is more, during the pre-trial investigation, on 7\u00a0July 2000, the applicant, in the presence of his defence counsel, had been confronted with M.B. but had not asked him any questions. Neither had the applicant and his counsel requested the appeal court to summon M.B. or to adjourn a hearing because of his absence. Lastly the Government pointed out that, in so far as the applicant\u2019s conviction had been based on the statements of M.B., those statements had been corroborated by other evidence in the file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "104.\u00a0\u00a0The applicant argued that the statements of M.B. had played a crucial role in his conviction and that the domestic authorities had not displayed due diligence in their attempts to secure M.B.\u2019s appearance at the trial. According to the applicant, the authorities failed to search for M.B. at his place of work or to search for his address in national registers. The applicant had complained about M.B.\u2019s absence from the hearings of the first-instance and appeal courts, thus the Government was wrong to argue that he had not requested the appeal court to summon M.B. to its hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0The Government disagreed with the applicant\u2019s assertion that the domestic authorities had not displayed due diligence in searching for M.B. Summonses had been sent to the address which had been obtained from the national population register and to the address which M.B. had indicated to the police during questioning. When the applicant\u2019s defence counsel informed the first-instance court about another possible address of M.B., that court had adjourned the hearing and ordered the police to verify that information. The police had been unable to find M.B. at the stated address and therefore the first-instance court had proceeded to read out the statements he had given during the pre-trial investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court refers to the main principles concerning absent witnesses, as outlined above (see paragraph\u00a0101). The Court finds that the pre-trial statements of M.B. did not have the decisive and certainly not the sole importance in the applicant\u2019s conviction. While it is true that it appears to have been the earlier theft of M.B.\u2019s motorcycle that launched the sequence of events that eventually led to the robbery in the victim\u2019s apartment, in so far as the applicant\u2019s role in the events was concerned, M.B.\u2019s statements were corroborated by the testimony of the applicant\u2019s co-accused and of U.I. In any case M.B. had not witnessed the actual robbery, as he had been waiting in the car outside. The Court is of the opinion that the national authorities cannot be blamed for lack of effort to ensure M.B.\u2019s presence at the trial. The first-instance court sent summonses to his address on file as well as ordering the police to look for him. Those attempts remained unsuccessful. In addition, the Court does not overlook the fact that on 7\u00a0July 2000 the applicant, who was assisted by counsel, was confronted with M.B. and did not use the opportunity to ask him questions (see paragraph\u00a09 above). Overall the Court considers that the applicant has failed to demonstrate that the fact that M.B.\u2019s absence from the proceedings impaired his defence rights to such an extent as to render the whole proceedings unfair. The applicant was convicted on the basis of solid evidence (testimonies of witnesses and his co-defendants, expert reports and so on). Taking into account the above considerations, the Court is of the opinion that there has been no violation of Article 6 on account of M.B.\u2019s absence from the applicant\u2019s criminal trial.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 6 \u00a7 1 OF THE CONVENTION IN THE CIVIL PROCEEDINGS",
+                        "elements": [
+                            {
+                                "content": "107.\u00a0\u00a0The applicant further complained that he had been deprived of a fair hearing when he was not transported to appeal court hearings in the cases concerning his civil claims against Central Prison and against SIA \u201cMediju \u201d. He relied on Article 6 \u00a7 1 of the Convention, which, in so far as is relevant, provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "108.\u00a0\u00a0Considering that the applicant\u2019s complaints about both sets of proceedings raise essentially identical legal issues, the Court will deal with the two complaints simultaneously.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "109.\u00a0\u00a0The Court notes that the above-mentioned complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "110.\u00a0\u00a0The Government noted that at the material time the Law of Civil Procedure provided for a mandatory oral hearing before the appeal court. However, the parties\u2019 attendance in appeal hearings was not compulsory and courts were free to proceed with the examination of cases in the absence of one or both of the parties unless the parties had not been adequately informed of the time and the place of the hearing or had failed to appear for justified reasons (section 209 of the Law of Civil Procedure, cited in paragraph 55 above). The Government observed that the domestic procedural law gave the domestic courts absolute discretion to decide whether to adjourn a hearing because of the failure of one or both of the parties to appear. In this regard the Government pointed out that it was primarily for the domestic courts to interpret and apply the procedural rules (Miholapa v. , no.\u00a061655/00, \u00a7 24, 31 May 2007).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0As for the specific situation of the applicant, the Government noted that the appeal courts had established that his appeal did not contain any new evidence that would render his presence indispensable. Lastly, the Government argued that since the applicant had been notified of the date of the appeal hearings, nothing had prevented him from appointing a legal representative for those hearings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0The applicant emphasised the importance of the principle of the equality of arms in civil proceedings. He furthermore pointed to the undesirability of an excessively formal application of domestic procedural rules, which had been held to be in danger of being contrary to Article 6 \u00a7 1 of the Convention when the excessive formality operated to the disadvantage of one party to the civil proceedings (Miholapa, cited above, \u00a7\u00a024). The applicant had explicitly requested the appeal courts to ensure his presence at the hearings. Given that the applicant was in detention, it had been the obligation of the courts to ensure his appearance. The fact that the appeal courts had failed to ensure that the applicant was transported to the hearings had placed him in a substantially disadvantageous position vis\u00e0vis the respondents.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0The Court reiterates that the right to a fair trial presumes the observance of the principle of equality of arms, which requires each party to a court case to be given a reasonable opportunity to present its case under conditions that do not place it at a substantial disadvantage vis-\u00e0-vis its opponent (see Kr\u010dm\u00e1\u0159 and Others v. the , no. 35376/97, \u00a7\u00a039, 3\u00a0March 2000). That principle \u2013 or, indeed, Article 6\u00a0\u00a7\u00a01 of the Convention more generally \u2013 does not guarantee an absolute right to personal presence before a civil court (see Larin v. , no. 15034/02, \u00a7\u00a035, 20\u00a0May 2010). What is decisive is whether both parties have had a substantially comparable opportunity to present their case to the court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0Turning to the present case, the Court notes that the respondents were present and given an opportunity to make oral submissions to appeal courts in both civil cases instituted by the applicant. The applicant himself was absent, despite having requested that his attendance be ensured. In those circumstances the Court cannot but conclude that the applicant was placed at a significant disadvantage vis-\u00e0-vis the respondents (see Larin, cited above, \u00a7\u00a052). The Court does not exclude that if the circumstances of the case were different and the applicant had been informed in sufficient time that he would not be transported to the hearings, it would not have been contrary to Article 6\u00a0\u00a7\u00a01 of the Convention for him to be required to appoint a representative should he have wished to submit oral arguments to the court (however, contrast Kovalev v. , no. 78145/01, \u00a7 37, 10 May 2007). However, in the proceedings under review the applicant did not receive any advance notification that he would not be able to attend the hearings in person. The appeal courts did nothing to rectify the inequality of arms thus created.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "115.\u00a0\u00a0There has accordingly been a violation of Article 6\u00a0\u00a7\u00a01 due to the applicant\u2019s absence from the hearings of the appeal courts in the civil proceedings between him and Central Prison and between him and SIA \u201cMediju \u201d.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "116.\u00a0\u00a0Referring to Article 3 of the Convention, the applicant complained that the article in R\u012bgas Balss which had disclosed information about his HIV infection had invaded his privacy. The Court considers it appropriate to examine this complaint in the light of Article 8 of the Convention, under which this complaint was communicated to the respondent Government. Article 8 provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private ... life ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court notes that the above-mentioned complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. This complaint must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "118.\u00a0\u00a0The Government argued that the alleged interference with the applicant\u2019s right to respect for his private life was not attributable to the State. Unlike in similar cases decided by the Court (Sciacca v. , no.\u00a050774/99, ECHR 2005I, and Khuzhin and Others v. , no.\u00a013470/02, 23 October 2008), here the applicant\u2019s private data had not been released to the press by State authorities. On the contrary, the  had explicitly prohibited the publication of such data, yet R\u012bgas Balss had published the applicant\u2019s photo, his name and other data in defiance of that prohibition. In so far as the State\u2019s positive obligation to adopt measures designed to secure respect for private life in the sphere of relations between private parties was concerned, the respondent Government submitted that  had complied with this obligation for the following reasons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "119.\u00a0\u00a0The Government insisted that the applicant himself had explicitly consented to the publication of sensitive data about him in the mass media. During the civil proceedings against Central Prison in the , the applicant himself had requested the court to open the trial to the general public, including the mass media. The representative of Central Prison had requested that the trial be closed to the public. The Government submitted that a logical consequence of allowing representatives of mass media to attend a court hearing on a controversial issue would be the publication in the media of information about the trial and the persons involved in it. In addition, information about the proceedings had also been published by the Latvian news agency LETA and the daily newspaper Diena. The applicant had not objected to those publications, which had not been accompanied by his photo. The Government submitted that it thus logically followed that the applicant had only objected to the fact that his photo had been published by R\u012bgas Balss.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "120.\u00a0\u00a0The Government argued that it was in any case impossible to identify the applicant from the information published in R\u012bgas Balss, in particular because he had only been referred to by his first name and the first letter of his last name.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0The publication of lawfully obtained photographs, even if the persons depicted therein were identifiable, was not in violation of the domestic data protection laws. R\u012bgas Balss had obtained the applicant\u2019s photograph from the internet site of the photography agency AFI. According to the Government, the availability of the applicant\u2019s photograph on the internet site of AFI suggested that he must previously have consented to the inclusion of his picture in the data base maintained by AFI and had thus implicitly consented to its potential publication in the media.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0The Government proposed assessing the legitimacy of the publication of the applicant\u2019s photograph and information about his health condition against the background of the circumstances surrounding the publication. In the Government\u2019s view the fact that the civil claim submitted by the applicant was the first time in Latvian legal history that a prisoner had alleged that he had been infected with a transmissible disease as a result of the negligence of the prison authorities created a pressing social need to disseminate information about the ongoing civil proceedings. The Government furthermore described R\u012bgas Balss as a very insignificant newspaper and suggested that the possibility that the applicant would be identified by anyone was therefore negligible.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "123.\u00a0\u00a0The applicant submitted that as a result of the publication of the sensitive data about his health condition in R\u012bgas Balss other prisoners had ostracised him. He disputed the Government\u2019s suggestion that he had consented to the dissemination of his personal information. On the contrary, at the hearing in the  he had stated that he wished for the hearing to be open to the public but did not want any photos to be taken. He had certainly never consented to the publication of any information about his HIV infection. The applicant further suggested that the dissemination of information about him had contravened domestic data protection laws. Therefore, the interference with the right to respect for his private life had not been in accordance with the law within the meaning of Article\u00a08\u00a0\u00a7\u00a02 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "124.\u00a0\u00a0The Court has previously held that the notion of \u201cprivate life\u201d within the meaning of Article 8 of the Convention is a broad concept which encompasses, inter alia, personal information relating to a patient (\u00a0v.\u00a0, no.\u00a020511/03, \u00a7\u00a035, 17\u00a0July 2008; Armonien\u0117 v. Lithuania, no.\u00a036919/02, \u00a7\u00a035, 25\u00a0November 2008; and Biriuk v. Lithuania, no.\u00a023373/03, \u00a7\u00a034, 25\u00a0November 2008) as well as a person\u2019s name and photograph (see Von Hannover v. Germany, no.\u00a059320/00, \u00a7\u00a7\u00a050 and 53, ECHR 2004VI). The Court sees no reason to depart from that line of reasoning in the present case, which concerns the publication in a newspaper of the applicant\u2019s photo, information concerning his health, and his first name and the first letter of his surname. The Court accordingly finds that the applicant\u2019s complaint falls within the scope of Article\u00a08 of the Convention, which has also not been disputed by the parties.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0Concerning the Government\u2019s argument that, unlike in the above-mentioned Sciacca and Khuzhin and Others judgments, in the present case the alleged interference with the applicant\u2019s right to respect for his private life was not attributable to the State, the Court notes that, although the object of Article\u00a08 of the Convention is essentially that of protecting the individual against arbitrary interference by public authorities, it does not merely compel the State to abstain from such interference. In addition to this primarily negative undertaking, there may be positive obligations inherent in an effective respect for private or family life. These obligations may involve the adoption of measures designed to secure the right even in the sphere of relations between individuals (see Evans v. the United Kingdom [GC], no.\u00a06339/05, \u00a7\u00a075, ECHR 2007...; Armonien\u0117, cited above, \u00a7\u00a036; and Biriuk, cited above, \u00a7\u00a035). What this means is that the Court will need to determine whether the respondent State failed to protect the applicant\u2019s Article\u00a08 rights from interference by other individuals (see, mutatis mutandis, Appleby and Others v. the , no.\u00a044306/98, \u00a7\u00a041, ECHR 2003VI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0The Court thus accepts the Government\u2019s argument that the present complaint does not concern negative obligations of the State. In other words, the publication in question in this case was not the result of an action or co-operation on the part of State bodies (see Sciacca, cited above, \u00a7\u00a027). Instead, the question of the positive obligations of the respondent State arises at the level of the decisions of the domestic courts, which, according to the applicant, did not grant him sufficient protection against the incursion into his private life by the publication of the disputed article in R\u012bgas Balss (see Gurgenidze v. Georgia, no.\u00a071678/01, \u00a7\u00a039, 17\u00a0October 2006, and Von Hannover, cited above, \u00a7\u00a056). The positive obligations of a State also apply to the protection of a person\u2019s picture against abuse by others (see Von Hannover, cited above, \u00a7\u00a057).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "127.\u00a0\u00a0The Court reiterates that, as regards such positive obligations, the notion of \u201crespect\u201d for private life is not clear-cut. In view of the diversity of the practices followed and the situations obtaining in the Contracting States, the notion\u2019s requirements will vary considerably from case to case. Accordingly, this is an area in which the Contracting Parties enjoy a wide margin of appreciation in determining the steps to be taken to ensure compliance with the Convention, account being taken of the needs and resources of the community and of individuals. The Court nonetheless notes that Article 8, like any other provision of the Convention or its protocols, must be interpreted in such a way as to guarantee not rights that are theoretical or illusory but rights that are practical and effective (see Armonien\u0117, cited above, \u00a7 38, and Biriuk, cited above, \u00a7 37).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0In particular in cases concerning newspaper publications, the Court has previously held that the protection of private life has to be balanced, among other things, against the freedom of expression guaranteed by Article\u00a010 of the Convention (see Karak\u00f3 v. , no.\u00a039311/05, \u00a7\u00a026, 28\u00a0April 2009; Armonien\u0117, cited above, \u00a7 39; and Biriuk, cited above, \u00a7 38). In this regard the Court has observed that the press must not overstep certain bounds, particularly as regards the reputation and rights of others and the need to prevent the disclosure of confidential information (see Tammer v.\u00a0Estonia, no.\u00a041205/98, \u00a7\u00a062, ECHR 2001I, and Dalban v.  [GC], no.\u00a028114/95, \u00a7\u00a049, ECHR 1999VI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0It is therefore important to establish whether in the present case the informative value of the publication in question was sufficient to justify an interference with the right to respect for a person\u2019s private life (see, for example, MGN Limited v. the , no.\u00a039401/04, \u00a7\u00a0143, 18\u00a0January 2011, and Hachette Filipacchi Associ\u00e9s v. , no.\u00a071111/01, \u00a7\u00a043, 14\u00a0June 2007). The Court has previously held that a photograph published in the context of reporting on pending criminal proceedings has no such informative value (see Khuzhin and Others, cited above, \u00a7\u00a0117). The same conclusion has been reached as concerns the publication of the photo of a person who was accused in the accompanying magazine article of having stolen the unpublished manuscript of a well-known Georgian writer (see Gurgenidze, cited above, \u00a7\u00a7\u00a060-61), and with regard to personal or even intimate pictures of the heiress presumptive to the throne of Monaco (see Von Hannover, cited above, \u00a7\u00a059).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0The Government suggested that the informative value of the publication in R\u012bgas Balss derived from the fact that the article reported on unprecedented court proceedings in which representatives of the penitentiary system had been accused of infecting a prisoner with HIV. The Court has indeed previously recognised the publicity of court proceedings (see Z v. , 25\u00a0February 1997, \u00a7\u00a099, Reports 1997I) and the quality of the work of the judiciary (see Sabou and Pircalab v.\u00a0Romania, no.\u00a046572/99, \u00a7\u00a039, 28\u00a0September 2004) as pertinent topics with an informative value. While the Court recognises that informing the general public about hot topics of jurisprudence is indeed a worthy cause, it remains to be determined whether the Latvian courts struck the correct balance between journalistic freedom and the degree of interference in the applicant\u2019s private life.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "131.\u00a0\u00a0The considerations to be taken into account when appraising the degree of interference with a person\u2019s private life are the extent of that person\u2019s pre-existing public exposure and the nature of the information disclosed about that person.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "132.\u00a0\u00a0With regard to the degree of interference, the Court in its case-law has vigorously defended the privacy rights of individuals who have not consciously and intentionally submitted themselves to public scrutiny (among many other examples, see Reklos and Davourlis v. , no.\u00a01234/05, \u00a7\u00a041, 15 January 2009; Gurgenidze, cited above, \u00a7\u00a040; and Sciacca, cited above, \u00a7\u00a030). The same degree of protection is not afforded to public figures (see Von Hannover v.  (no.\u00a02) [GC], nos.\u00a040660/08 and 60641/08, \u00a7\u00a0110, 7\u00a0February 2012, with further references). It is evident from the case file that the applicant is not a public figure, however that term might be interpreted, and there is no suggestion to the contrary in the submissions of the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "133.\u00a0\u00a0Concerning the nature of the disclosed information, the Court has previously emphasised the importance of the protection of personal data, and in particular of medical data, paying particular attention to the importance of the protection of the confidentiality of a person\u2019s HIV status (see also the Council of Europe documents cited in paragraphs\u00a059 and 60 above), inter alia because of the risk of ostracism of HIV-positive persons (see Armonien\u0117, cited above, \u00a7 40, and Biriuk, cited above, \u00a7 39).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "134.\u00a0\u00a0The Court notes that the applicant\u2019s features were clearly visible and distinguishable in the photo that appeared in the publication at issue. Since the article also mentioned his first name and the first letter of his surname as well as details of his past criminal convictions and his place of imprisonment, his identification by his fellow prisoners and other persons was perfectly possible (see, mutatis mutandis, Gurgenidze, cited above, \u00a7\u00a059). The applicant has furthermore indicated to the Court that as a result of the publication of the disputed article he was ostracised by other prisoners because of the information about his HIV infection (see paragraph\u00a0123 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "135.\u00a0\u00a0The Court rejects the Government\u2019s argument that the applicant himself had consented to the publication of his personal data by allowing representatives of the media to attend the hearing concerning his claim against Central Prison. The fact that the applicant had asked not to be filmed or photographed during the trial against Central Prison was clearly established in the 21\u00a0December 2004 judgment of the  (see paragraph\u00a044 above). The Government themselves pointed out that R\u012bgas Balss had published the applicant\u2019s photograph in defiance of a prohibition issued by the  (see paragraph\u00a0118 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "136.\u00a0\u00a0The Court will now examine whether the impugned article was written in good faith and in accordance with the ethics of the profession of journalist (see Flux v.  (no. 6), no.\u00a022824/04, \u00a7\u00a026, 29\u00a0July 2008). The Court has previously found that diligent journalists ought to attempt to contact the subjects of their articles and to give those persons a possibility to comment on the contents of such articles and consent or object to the publishing of the subject\u2019s photo (see, for example, Polanco Torres and Movilla Polanco v. Spain, no.\u00a034147/06, \u00a7\u00a050, 21\u00a0September 2010; and, mutatis mutandis, Reklos and Davourlis v. Greece, cited above, \u00a7\u00a038, and Von Hannover (no.\u00a02), cited above, \u00a7\u00a096; and contrast Flux (no.\u00a06), cited above, \u00a7\u00a029). The applicant was not contacted by any representatives of R\u012bgas Balss. In the light of the applicant\u2019s objection to the publication of his photograph and the corresponding order of the R\u012bga Regional Court, R\u012bgas Balss could have informed the public about the pending proceedings concerning the alleged negligence of the medical staff at Central Prison without publishing his picture, without the article losing much of its informative value, if any at all (see, mutatis mutandis, Tammer, cited above, \u00a7\u00a067).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "137.\u00a0\u00a0Taking into account the considerations outlined above and in particular the fact that, as interpreted by the domestic courts, at the relevant time the national data protection laws (see paragraphs 56-58 above) were not binding on privately published newspapers (see, mutatis mutandis, Armonien\u0117, cited above, \u00a7\u00a045, and Biriuk, cited above, \u00a7\u00a044), the Court finds that the domestic authorities have failed to protect the applicant\u2019s right to respect for his private life from interference by the publication of his personal data in R\u012bgas Balss. There has accordingly been a violation of Article 8 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "138.\u00a0\u00a0Lastly, the applicant submitted various other complaints under Articles 3, 5, 6, and 14 of the Convention. However, in the light of all the material in its possession, and in so far as the matters complained of are within its competence, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application is manifestly ill-founded and must be rejected in accordance with Article\u00a035\u00a0\u00a7\u00a7\u00a03\u00a0(a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "139.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "140.\u00a0\u00a0The applicant claimed a total sum of 3,150,000 euros (EUR) in respect of non-pecuniary damage, of which EUR\u00a0150,000 with respect to the length and alleged unfairness of the criminal proceedings, EUR\u00a01,000,000 with respect to the damage to his health (HIV and hepatitis\u00a0C infection) and EUR\u00a02,000,000 with respect to the dissemination of his personal data.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "141.\u00a0\u00a0The Government considered the applicant\u2019s claims excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0Taking into account the violations it has found in the present case, the Court awards the applicant EUR\u00a016,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "143.\u00a0\u00a0The applicant did not make any claims for costs and expenses.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "144.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares unanimously the complaints concerning the quality of the investigation of the applicant\u2019s complaints regarding his infection with HIV and hepatitis C, concerning the applicant\u2019s right to examine witnesses against him, in particular the victim of the robbery and M.B., concerning the applicant\u2019s absence from appeal court hearings in two sets of civil proceedings, and concerning the interference by the publication in R\u012bgas Balss with the applicant\u2019s right to respect for his private life admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds by six votes to one that there has been a violation of the procedural aspect of Article\u00a03 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds unanimously that there has been no violation of Article\u00a06\u00a0\u00a7\u00a03\u00a0(d) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds by six votes to one that there has been a violation of Article 6\u00a0\u00a7\u00a01 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds by six votes to one that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds by six votes to one",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR 16,000 (sixteen thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses unanimously the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 2 October 2012, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the separate opinion of Judge Myjer is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1. Just to be clear, I find it most unfortunate for the applicant that he was discovered to be HIV-positive. But I voted against finding any violation in his case even so.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2. As far as the alleged violation of Article 3 is concerned, I am of the opinion that the majority applied the wrong standard. Let me try to explain.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It is by now an established fact that HIV is most commonly passed on from one person to another by having sex with someone infected with HIV without using a condom, or by using or sharing needles infected with HIV. I\u00a0have taken the following information from the website of the United Kingdom National Health Service, but it can be found elsewhere: HIV is not passed on easily from one person to another. The virus does not spread through the air like cold and flu viruses. HIV lives in the blood and in some body fluids. For a healthy person to get infected with HIV, one of these fluids from someone already infected with HIV has to find its way into that person\u2019s blood. The body fluids that contain enough HIV to infect someone are: semen, vaginal fluids (including, but not limited to, menstrual blood), breast milk, blood and the lining inside the anus. Other body fluids, like saliva, sweat or urine, do not contain enough of the virus to infect another person. The main pathways through which the virus enters the bloodstream are: cuts and sores in the skin, the thin lining on or inside the anus and genitals, the thin lining of the mouth and eyes. One cannot catch HIV from an infected person through kissing, or through contact with unbroken, healthy skin, through being sneezed on, through sharing baths, towels or cutlery, through using the same toilets and swimming pools, or through contact with animals or insects such as mosquitoes.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It is important to realise this, since certain other infections, such as tuberculosis, can be caused by inhaling tiny droplets of saliva from the coughs or sneezes of an infected person. In this way overcrowding in a prison can help spread tuberculosis. See for instance the documents cited in the \u2018Relevant law and other national and international documents\u2019 part of the Court\u2019s judgment in the case of Makharadze and Sikharulidze v.\u00a0Georgia (judgment of 22 November 2011).",
+                        "elements": []
+                    },
+                    {
+                        "content": "It should also be pointed out that there is a \u2018window\u2019 period of approximately three months during which the infection, although present, cannot be detected.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3. From the facts in this case it is clear that upon the applicant\u2019s arrival at Central Prison on 26 July 1999 his HIV test had been negative. On 24\u00a0September 2002 \u2013 at which time the applicant was still in detention \u2013 a blood test showed him to be HIV-positive (paragraph 23).",
+                        "elements": []
+                    },
+                    {
+                        "content": "Several scenarios occur to me, the most plausible being:",
+                        "elements": []
+                    },
+                    {
+                        "content": "a. the initial test was performed during the \u2018window\u2019 period and the applicant had been infected before his arrest (a possibility suggested by the Government \u2013 paragraph 24);",
+                        "elements": []
+                    },
+                    {
+                        "content": "b. the applicant was infected in detention, because the prison staff used multiple-use syringes infected with HIV when taking a sample of his blood (as was claimed by the applicant);",
+                        "elements": []
+                    },
+                    {
+                        "content": "c. the applicant was infected during his detention because of his own failure to observe the necessary caution when sharing or using needles infected with HIV (another possibility suggested by the Government);",
+                        "elements": []
+                    },
+                    {
+                        "content": "d. the applicant was infected during his detention by way of sexual intercourse with a co-detainee who was already infected with HIV (a third possibility suggested by the Government). In this alternative a further subdivision should be made: sexual intercourse, if it occurred, might have been (1) consensual or (2) forced on the applicant (rape). In the latter hypothesis the responsibility of the Government may come into play as well. However, as the applicant did not claim that he was raped, I do not need to elaborate on that.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4. Since the first test, after the arrest, was negative, and only years later \u2013 while the applicant was still in detention \u2013 did a test show him to be HIV-positive, I accept that there is a prima facie likelihood that the infection happened while he was in detention. I am also prepared to accept that in a case like this the burden of proof shifts. It is not sufficient for the Government to point out other possible causes of the infection; they must produce evidence that they cannot be blamed and that the account given by the applicant is untrue. And that is precisely what the Government did. In the civil case instituted by the applicant, the nurse who had taken the applicant\u2019s blood sample in 1999 testified before the court that single-use syringes had been used exclusively for blood tests in Central Prison since 1996 or 1997 (paragraph 28). The applicant merely stated, without any corroboration, that he knew for certain that in 1999 a multiple-use syringe had been used to take a sample of his blood (paragraph 29). Under these circumstances the burden shifts again and it was up to him to proffer further evidence which could cast doubt on the veracity of the nurse\u2019s testimony. This he was quite unable to do. So in the end the testimony of the nurse was sufficient for the national court to accept that the Government could not be blamed, and it is sufficient for me as well.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5. I do not agree with the reasoning in the judgment that in the present case the civil proceedings did not offer the applicant a sufficient possibility to establish facts, gather evidence and find out the truth about the circumstances of his infection, that the decision to submit a criminal complaint to the Office of the Prosecutor-General was accordingly justified and that the domestic authorities had an obligation to give him access to the available criminal-law remedies (paragraph 77). The unfortunate corollary of such reasoning is this: never mind if you lose your civil case, just file a criminal complaint and the prosecutor has the obligation to carry out an in-depth investigation, hopefully leading to the conclusion that the final civil judgment was wrong. I find that absurd. And what should have been further investigated anyway? The applicant suggested the following lines of investigation: to find out whether the applicant\u2019s partner, with whom he had lived prior to his arrest, was HIV-positive, and to question the prisoners whose blood samples had been taken on the same day as his own.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I am firmly convinced that the applicant himself could have submitted the information on his partner in the civil proceedings. And even if his partner was HIV-negative and it could be proven that she was the only person to have had sexual intercourse with the applicant in the months before he was arrested, that would not prove anything other than that the applicant was not infected before his arrest. Besides, what could be proven by questioning the other prisoners? Would they remember the type of syringes? And would their testimony be more relevant than the testimony of a professional nurse who knows the material he or she works with? Or should their medical records be examined and included in the file of the criminal investigation? What about their privacy? And even if they (or one of them) had turned out to be HIV-positive at the first test, would that prove that the nurse had been mistaken or had lied?",
+                        "elements": []
+                    },
+                    {
+                        "content": "The only reason I can think of why, after a final civil judgment, a criminal investigation would be justified is that there were newly discovered facts indicating that the nurse lied or may not have spoken the truth, but no such facts have been mentioned.",
+                        "elements": []
+                    },
+                    {
+                        "content": "To conclude: it is my firm belief that after the final judgment by the civil courts, the case was closed. The Office of the Prosecutor General had no obligation to \u2018attempt to find out what happened\u2019 (paragraph 82).",
+                        "elements": []
+                    },
+                    {
+                        "content": "6. I now come to the complaint that the applicant was deprived of a fair hearing when he was not transported to appeal court hearings in the civil cases against the prison authorities and against the newspaper. Here I can be brief. In paragraph 29 it is mentioned that in the amendment to his appeal he requested that his presence at the hearing be ensured. Likewise, in paragraph 43 it is mentioned that the applicant asked the appeal court when his appeal would be heard, and that he also requested that his presence at the hearing be ensured. Of course the applicant should be notified in proper time of the date of the hearing(s), so as to be able to ask the authorities to make arrangements to have him escorted to the hearing as domestic law allows. But it cannot be the task of the court of appeal to ensure a suspect\u2019s presence at the hearing, not even in the present case where the applicant expressly so requested. I could not find in the file any indication that the applicant asked the relevant (prison) authorities to organise transport and/or that his request was rejected on unreasonable or arbitrary grounds. Nor could I find any indication that under Latvian law people deprived of their liberty are prevented from attending any civil court hearing in which they themselves are a party. If that had been the case, I might have agreed with the finding of a violation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7. As far as the possible violation of Article 8 is concerned, I do not agree with my colleagues here either. According to paragraph 36 it was the applicant who expressed his desire that the civil trial should be open to the public, as long as no photographs were taken. The defendant prison authorities objected to opening the trial to the public, considering that the case concerned sensitive material. The court nonetheless allowed the applicant\u2019s request. I cannot but conclude that the applicant wanted the case he had instituted against the prison authorities to be given a great deal of media attention. He was served according to his wishes. Paragraph 37 describes how a newspaper did indeed publish an article with the lurid title \u2018Prison Doctors Accused of Injecting AIDS\u2019. The newspaper also reported that it was the applicant who had instituted the proceedings, but only referred to him as Andris M., describing him as a recidivist who was currently serving his prison sentence. They even added a photograph of the applicant, albeit one that had not been taken at the hearing in question. As the Government pointed out in their observations, the newspaper had obtained the photo from the internet portal of the photography agency AFI, with whom the publisher had an agreement about the use of the photos found there. It emerged that the applicant had previously consented to the inclusion of his personal photo on the site and had been aware of the risk that it might be published at some point in the future, although not in what context.",
+                        "elements": []
+                    },
+                    {
+                        "content": "To me it sounds disingenuous for the applicant now to argue that the newspaper \u2013 which I repeat was only allowed to attend the hearing at his own express wish \u2013 invaded his privacy. This applicant cannot be compared with someone who has not consciously and intentionally submitted himself to public scrutiny. He himself asked for publicity. Did he really believe that the newspapers would only report what he wanted them to report? That the newspapers, in their oft-mentioned role of public watchdog, would only bark the way he wanted them to bark? A newspaper has its own professional duties and responsibilities, although admittedly limited in its reporting by the relevant legal provisions. The fact that Latvian data protection laws were not binding on privately published newspapers is, as far as I am concerned, not relevant in the present case. The Court has to deal with European minimum standards. Must I take it that from now on, in any other of the 47 High Contracting Parties, in a comparable civil case where the press is expressly invited by a \u2018vulnerable\u2019 party (and against the advice of the Government party) to be present, the press will not be permitted to publish the name or sensitive personal details of that same \u2018vulnerable\u2019 party \u2013 even if those details, as such, are relevant to the hearing? That cannot be right.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I do not agree that in the particular circumstances of this case the domestic courts failed to protect the applicant\u2019s right to respect for his private life.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8. Oddly enough in view of the position he has taken before our Court, the applicant did not ask to be granted anonymity (Rule 47 \u00a7 3 of the Rules of Court). In the particular circumstances of the case I saw no reason to propose that the Court grant it of its own motion.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Egbert Myjer",
+            "role": "judges"
+        },
+        {
+            "name": "Corneliu B\u00eersan",
+            "role": "judges"
+        },
+        {
+            "name": "Alvina Gyulumyan",
+            "role": "judges"
+        },
+        {
+            "name": "Ineta Ziemele",
+            "role": "judges"
+        },
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "judges"
+        },
+        {
+            "name": "Nona Tsotsoria",
+            "role": "judges"
+        },
+        {
+            "name": " Quesada",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MITKUS v. LATVIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-113648.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:1002JUD000725903",
+    "externalsources": [
+        "Resolution 428 of the Parliamentary Assembly of the Council of Europe containing a Declaration on Mass Communication Media and Human Rights",
+        "Recommendation Rec (89) 14 on \u201cThe ethical issues of HIV infection in the health care and social settings\u201d"
+    ],
+    "extractedappno": [
+        "7259/03",
+        "5722/04",
+        "43134/05",
+        "4864/05",
+        "71572/01",
+        "35021/05",
+        "40155/02",
+        "35421/05",
+        "23204/07",
+        "26772/95",
+        "47287/99",
+        "32967/96",
+        "45305/99",
+        "53924/00",
+        "46477/99",
+        "77617/01",
+        "31333/06",
+        "20134/05",
+        "76774/01",
+        "66820/01",
+        "73819/01",
+        "14755/03",
+        "65014/01",
+        "26766/05",
+        "22228/06",
+        "39209/02",
+        "61655/00",
+        "35376/97",
+        "15034/02",
+        "78145/01",
+        "50774/99",
+        "13470/02",
+        "20511/03",
+        "36919/02",
+        "23373/03",
+        "59320/00",
+        "6339/05",
+        "44306/98",
+        "71678/01",
+        "39311/05",
+        "41205/98",
+        "28114/95",
+        "39401/04",
+        "71111/01",
+        "46572/99",
+        "1234/05",
+        "40660/08",
+        "60641/08",
+        "22824/04",
+        "34147/06"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Sections 10 (1) and 93 of the Law of Civil Procedure",
+        "Section 56 (1) of the Criminal Law",
+        "Articles 3, 107, 109, 112 and 241 of the Code of Criminal Procedure",
+        "Sections 156 and 210 of the Law of Civil Procedure",
+        "Sections 5 and 11 of the Personal Data Protection Law",
+        "Section 7(6) of the Law on Press and Other Mass Media"
+    ],
+    "itemid": "001-113648",
+    "judgementdate": "02/10/2012 00:00:00",
+    "kpdate": "02/10/2012 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "596",
+        "445",
+        "40",
+        "76",
+        "136",
+        "119",
+        "440",
+        "122",
+        "295",
+        "451",
+        "429",
+        "14",
+        "216",
+        "310"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "6-3-d",
+        "3",
+        "8",
+        "8-1",
+        "6-1",
+        "6-3",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "MITKUS",
+        "LATVIA"
+    ],
+    "rank": "921.848022460938",
+    "representedby": [
+        "NIKULCEVA I."
+    ],
+    "respondent": "LVA",
+    "respondentOrderEng": "24",
+    "scl": [
+        "Alimu\u00e7aj v. Albania, no. 20134/05, \u00a7 152, 7 February 2012",
+        "Al-Khawaja and Tahery v. the United Kingdom [GC], nos. 26766/05 and 22228/06, \u00a7 119, 15 December 2011",
+        "Appleby and Others v. the United Kingdom, no. 44306/98, \u00a7 41, ECHR 2003-VI",
+        "Armoniene v. Lithuania, no. 36919/02, 25 November 2008",
+        "Assenov and Others v. Bulgaria, 28 October 1998, \u00a7 102, Reports of Judgments and Decisions 1998-VIII",
+        "Bazjaks v. Latvia, no. 71572/01, \u00a7 74, 19 October 2010",
+        "Biriuk v. Lithuania, no. 23373/03, 25 November 2008",
+        "Calvelli and Ciglio v. Italy [GC], no. 32967/96, \u00a7 51, ECHR 2002 I",
+        "Dalban v. Romania [GC], no. 28114/95, \u00a7 49, ECHR 1999-VI",
+        "Estrikh v. Latvia, no. 73819/01, \u00a7 138, 18 January 2007",
+        "Evans v. the United Kingdom [GC], no. 6339/05, \u00a7 75, ECHR 2007-...",
+        "Flux v. Moldova (no. 6), no. 22824/04, 29 July 2008",
+        "G.N. and Others v. Italy, no. 43134/05, \u00a7 69, 1 December 2009",
+        "Ghavtadze v. Georgia, no. 23204/07, \u00a7 79, 3 March 2009",
+        "Gurguenidze v. Georgia, no. 71678/01, 17 October 2006",
+        "Hachette Filipacchi Associ\u00e9s v. France, no. 71111/01, \u00a7 43, 14 June 2007",
+        "I. v. Finland, no. 20511/03, \u00a7 35, 17 July 2008",
+        "I.T. v. Romania (dec.), no. 40155/02, 24 November 2005",
+        "Ireland v. the United Kingdom, 18 January 1978, \u00a7 161, Series A no. 25",
+        "Karak\u00f3 v. Hungary, no. 39311/05, \u00a7 26, 28 April 2009",
+        "Karchen and Others v. France (dec.), no. 5722/04, 4 March 2008",
+        "Khuzhin and Others v. Russia, no. 13470/02, \u00a7 117, 23 October 2008",
+        "Kovalev v. Russia, no. 78145/01, \u00a7 37, 10 May 2007",
+        "Kovalkovs v. Latvia (dec.), no. 35021/05, \u00a7 52, 31 January 2012",
+        "Krcm\u00e1r and Others v. the Czech Republic, no. 35376/97, \u00a7 39, 3 March 2000",
+        "Labita v. Italy [GC], no. 26772/95, \u00a7 131, ECHR 2000-IV",
+        "Larin v. Russia, no. 15034/02, 20 May 2010",
+        "McFarlane v. Ireland [GC], no. 31333/06, \u00a7 114, 10 September 2010",
+        "Mechenkov v. Russia, no. 35421/05, \u00a7\u00a7 80-81, 7 February 2008",
+        "MGN Limited v. the United Kingdom, no. 39401/04, \u00a7 143, 18 January 2011",
+        "Mikheyev v. Russia, no. 77617/01, \u00a7\u00a7 107-108, 26 January 2006",
+        "Oyal v. Turkey, no. 4864/05, \u00a7\u00a7 57-58, 23 March 2010",
+        "Paul and Audrey Edwards v. the United Kingdom, no. 46477/99, \u00a7 71, ECHR 2002-II",
+        "P\u00e9lissier and Sassi v. France [GC], no. 25444 /94, \u00a7 67, ECHR 1999-II",
+        "Perez v. France [GC], no. 47287/99, ECHR 2004-I",
+        "Pockajevs v. Latvia (dec.), no. 76774/01, 21 October 2004",
+        "Polanco Torres and Movilla Polanco v. Spain, no. 34147/06, \u00a7 50, 21 September 2010",
+        "Powell v. the United Kingdom (dec.), no. 45305/99, ECHR 2000-V",
+        "Reklos and Davourlis v. Greece, no. 1234/05, 15 January 2009",
+        "Sabou and Pircalab v. Romania, no. 46572/99, \u00a7 39, 28 September 2004",
+        "Scheper v. the Netherlands (dec.), no. 39209/02, 5 April 2005",
+        "Sciacca v. Italy, no. 50774/99, ECHR 2005-I",
+        "Tammer v. Estonia, no. 41205/98, ECHR 2001-I",
+        "Vo v. France [GC], no. 53924/00, \u00a7 91, ECHR 2004-VIII",
+        "Von Hannover v. Germany (no. 2) [GC], nos. 40660/08 and 60641/08, 7 February 2012",
+        "Von Hannover v. Germany, no. 59320/00, \u00a7\u00a7 50 and 53, ECHR 2004-VI",
+        "Wiesinger v. Austria, 30 October 1991, \u00a7 60, Series A no. 213",
+        "Z v. Finland, 25 February 1997, \u00a7 99, Reports 1997-I"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "434518",
+    "typedescription": "15"
+}

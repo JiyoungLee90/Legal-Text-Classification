@@ -1,0 +1,1094 @@
+{
+    "__articles": "3;5;5-1;5-1-f;5-2;5-4;5-5;13;13+3;35;35-1;41",
+    "__conclusion": "Preliminary objection joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Remainder inadmissible;Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-f - Expulsion);Violation of Article 5 - Right to liberty and security (Article 5-2 - Information on reasons for arrest;Prompt information);Violation of Article 5 - Right to liberty and security (Article 5-4 - Review of lawfulness of detention);Violation of Article 5 - Right to liberty and security (Article 5-5 - Compensation);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture;Degrading treatment);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "14344/13",
+    "article": [
+        "3",
+        "35",
+        "5",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 35-1 - Exhaustion of domestic remedies"
+            ],
+            "element": "Preliminary objection joined to merits and dismissed",
+            "type": "other"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-5 - Compensation"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Degrading treatment"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-166487.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 14344/13) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a national of Uzbekistan, Mr Bakhtiyor Alimov (\u201cthe applicant\u201d), on 14 February 2013.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr A. Y\u0131lmaz, Ms S. N. Y\u0131lmaz and Mr B. \u00c7etinkaya, lawyers practising in Istanbul. The Turkish Government (\u201cthe Government\u201d) were represented by their Agent.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 24 March 2014 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1970 and lives in Gaziantep.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicant\u2019s entry into Turkey and his detention",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0In 2010 the applicant and his family left Uzbekistan to escape the oppression they faced on account of their religious beliefs. After spending some time in Kazakhstan, in 2010 they entered Turkey by legal means.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0Subsequent to their arrival in Turkey, the applicant and his wife made a request for asylum. The applicant\u2019s wife was granted a residence permit in the city of Gaziantep pending her asylum request, but the applicant was not able to obtain one as he could not pay the requisite fee for the permit. The applicant, therefore, resided illegally in Gaziantep.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0 On 5 April 2011 the applicant and his family travelled from Turkey to Ukraine to seek medical treatment for his wife. The applicant was subjected to a fine of 900\u00a0Turkish liras (TRY) by the Turkish border police on account of his illegal residence in Turkey. He was also banned from entering the country for five years.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 4 May 2012 the applicant and his family attempted to re-enter Turkey through Sabiha G\u00f6k\u00e7en Airport in Istanbul. The applicant, however, was not permitted entry, and he was placed in the detention facility at the airport for \u201cinadmissible passengers\u201d pending his repatriation to Ukraine.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On 5 May 2012 the applicant lodged an objection to his repatriation and lodged a new asylum request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 13 May 2012 the Ministry of the Interior (\u201cthe Ministry\u201d) requested the offices of the Istanbul and Gaziantep governors to notify the applicant that he would be accommodated at the airport detention facility pending a decision on his asylum request. According to a note dated 21\u00a0May\u00a02012 addressed by the Istanbul governor\u2019s office to the Ministry, the applicant was notified as requested. The note did not, however, indicate when the relevant notification had been made.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 30 May 2012 the Ministry rejected the applicant\u2019s asylum request. The applicant was notified of this decision on 31\u00a0May\u00a02012. He was also informed on that date that he could lodge an objection to the Ministry\u2019s decision within seventy-two hours, that he would be deported in the event of the dismissal of his objection and that he would continue to be accommodated in the airport detention facility in the meantime.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 1 June 2012 the applicant lodged an objection to the Ministry\u2019s decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 10 July 2012 the applicant was transferred from Sabiha\u00a0G\u00f6k\u00e7en Airport to the Kumkap\u0131 Foreigners\u2019 Removal Centre in Istanbul (\u201cthe Kumkap\u0131 Removal Centre\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The applicant was kept in the Kumkap\u0131 Removal Centre until 15\u00a0August 2012. On that date, he was granted a temporary residence permit pending his asylum request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0There is no information in the case file regarding the outcome of the applicant\u2019s asylum request.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The conditions of the applicant\u2019s detention at Sabiha G\u00f6k\u00e7en Airport and the Kumkap\u0131 Removal Centre",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "16.\u00a0\u00a0The applicant claimed that the detention facility at Sabiha G\u00f6k\u00e7en Airport where he had been kept for sixty-eight days between 4 May and 10\u00a0July 2012 had been a room of about 20 square metres and that, while the numbers had fluctuated, the room had accommodated up to fifteen people at times. There had been no furniture in the room suitable for sleeping on, but only five chaises longues, which had been impossible to rest on. The applicant further claimed that throughout his detention, he had not been allowed to leave that room, nor had he had any contact with the outside world, including with a lawyer. He had also been denied any access to natural light and fresh air, as the room in question had had no windows. According to the applicant, the detention facility had been designed for holding inadmissible passengers for short periods and had been unsuitable for long-term detention. All other passengers in his situation had either been released or repatriated after one or two days of detention at most.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0The applicant claimed that the Kumkap\u0131 Removal Centre had been severely overcrowded at the time of his detention. He had had to share a dormitory room of approximately 35 square metres with thirty to forty-five other people, who had been provided with only fifteen bunk beds to sleep on. He had had to spend all his time in that humid and smoke-filled room without being able to engage in any social activities and had not been allowed access to outdoor exercise throughout his detention. The applicant further alleged that the overcrowding of the removal centre had led to hygiene problems. The building had been infested with insects and there had been frequent outbreaks of contagious diseases. The quality and quantity of the food provided had also been fairly poor.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "18.\u00a0\u00a0The Government claimed that the room in which the applicant had been held at Sabiha G\u00f6k\u00e7en Airport had measured 53.73 square metres. The room had been equipped with five beds for men, as well as a ventilation system, a television, a toilet and a shower. The room had had a padded sitting area for rest and sleep, and had been cleaned every day. The Government submitted that during the applicant\u2019s stay between 4 May and 10 July 2012, the number of detainees had never exceeded five. They did not, however, submit any documents in support of that submission, such as a list of the detainees kept in the detention facility during the relevant period. Nor did they submit any photographs of the detention facility, despite the Court\u2019s request to that effect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0The Government stated that the Kumkap\u0131 Removal Centre\u2019s capacity had been reduced from 560 to 300, in line with recommendations made by the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (\u201cthe CPT\u201d), following its visit in June\u00a02009. Accordingly, the number of detainees during the period of the applicant\u2019s detention had never exceeded 300. They did not, however, submit the registers recording the occupation rates during the period in question.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0The Government stated that the detainees had been accommodated on three floors at the removal centre: the first two floors had been reserved for male detainees, and the third floor for females. The information provided as to the number and size of the rooms was, however, inconsistent. While the Government claimed in their observations that there had been five dormitory rooms on each floor, measuring 50, 69, 76 and 84 square metres respectively, the information note prepared by the Ministry and appended to their observations indicated that there had been only four rooms on the first floor, measuring 50, 58, 76 and 84 square metres, and five rooms on both the second and third floors, measuring 50, 58, 69, 76 and 84 square metres. The Government stated that they were not able to provide information as to the exact number of people that the applicant had shared a room with, because detainees had been left to make their own choice of rooms. They submitted, however, that there had been fifteen to twenty beds in each room.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0The Government further submitted that there had been a cafeteria measuring 69 square metres on each floor, where breakfast, lunch and dinner had been served daily. The detainees had had the right to outdoor exercise in suitable weather conditions, as well as the right to engage in sports and watch television. The detainees had had access to medical care in cases of emergency and a doctor had visited the removal centre once a week. As for hygiene standards in the facility, there had been six cleaning staff working full time at the removal centre, and the building had been disinfected at certain times.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0In support of their claims, the Government submitted, inter alia, photographs of two of the dormitory rooms, both of which appeared well-lit and fairly clean, as well as of the hallway and the cafeteria on one of the floors reserved for male detainees. Although the total number of beds cannot be ascertained from the photos, it can be determined that there were at least twentytwo beds (that is to say eleven bunk beds) in both rooms. It is further observed that there were two rows of bunk beds positioned against the walls in both rooms, leaving a narrow corridor in the middle of the room. While some of the bunks were touching each other, others were separated by big metal lockers. No other furniture, such as tables and chairs, was present in the rooms; there were blankets on the beds in only one of the rooms and the other room had no bedding at all. A television was available on each floor in the cafeteria. Moreover, a metal situp bench and an exercise bike were shown in the photograph of the hallway. No photos of the toilets or the showers were provided.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0The Government also submitted an outdoor photo of some detainees in the removal centre\u2019s courtyard. There were no men amongst these detainees \u2013 only women and children.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Domestic law and practice",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Relevant legislation and practice",
+                                        "elements": [
+                                            {
+                                                "content": "24.\u00a0\u00a0A description of the relevant domestic law and practice at the material time can be found in the cases of Abdolkhani and Karimnia v.\u00a0Turkey (no. 30471/08, \u00a7\u00a7\u00a029-45, 22 September 2009), and Yarashonen v.\u00a0Turkey (no.\u00a072710/11, \u00a7\u00a7 21-26, 24\u00a0June 2014).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Report of the sub-committee established by the Human Rights Inquiry Committee of the Grand National Assembly of Turkey",
+                                        "elements": [
+                                            {
+                                                "content": "25.\u00a0\u00a0At its meeting of 8 December 2011 the Human Rights Inquiry Committee of the Grand National Assembly of Turkey established a subcommittee to look into the problems encountered by refugees, asylum seekers and irregular migrants in Turkey, including the conditions in which they were detained pending their deportation. For that purpose, on 10 and 11 May 2012, that is a couple of months before the applicant\u2019s detention at the Kumkap\u0131 Removal Centre, two members of parliament (\u201cMPs\u201d) visited the removal centres in Edirne, K\u0131rklareli and Istanbul, including the Kumkap\u0131 Removal Centre.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0The visit report indicated that the Kumkap\u0131 Removal Centre had a total capacity of 300 detainees (200 male and 100 female). However, at the time of the delegation\u2019s visit (11 May 2012), the removal centre had accommodated 297 male, ninety-seven female and seven minor detainees. The number of beds varied according to the rooms and the hygiene standards in the toilets and bathrooms were unsatisfactory. There was a big cafeteria in the removal centre, with sufficient amenities, as well as the possibility to purchase food and basic provisions. The detainees had freedom of movement inside the centre and also had access to television in the cafeterias. They also benefited from the sports equipment provided in the corridors.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The delegation was particularly critical of the fact that the detainees were authorised to go outdoors only once a week, when weather conditions permitted. It recommended measures allowing the detainees daily outdoor exercise, at their own convenience.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0International material",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0CPT standards regarding conditions of detention in point of entry holding facilities",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0The standards of the CPT in respect of the conditions of detention of foreign nationals (see the \u201c7th General Report on the CPT\u2019s Activities\u201d (CPT/Inf (97) 10 [EN]), published on 22 August 1997) provide, in so far as relevant, as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c25.\u00a0\u00a0CPT visiting delegations have met immigration detainees in a variety of custodial settings, ranging from holding facilities at points of entry to police stations, prisons and specialised detention centres. As regards more particularly transit and \u2018international\u2019 zones at airports ... the CPT has always maintained that a stay in a transit or \u2018international\u2019 zone can, depending on the circumstances, amount to a deprivation of liberty within the meaning of Article 5 (1)(f) of the European Convention on Human Rights, and that consequently such zones fall within the Committee\u2019s mandate.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0Point of entry holding facilities have often been found to be inadequate, in particular for extended stays. More specifically, CPT delegations have on several occasions met persons held for days under makeshift conditions in airport lounges. It is axiomatic that such persons should be provided with suitable means for sleeping, granted access to their luggage and to suitably-equipped sanitary and washing facilities, and allowed to exercise in the open air on a daily basis. Further, access to food and, if necessary, medical care should be guaranteed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0In the view of the CPT, in those cases where it is deemed necessary to deprive persons of their liberty for an extended period under aliens legislation, they should be accommodated in centres specifically designed for that purpose, offering material conditions and a regime appropriate to their legal situation and staffed by suitablyqualified personnel.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Obviously, such centres should provide accommodation which is adequatelyfurnished, clean and in a good state of repair, and which offers sufficient living space for the numbers involved. Further, care should be taken in the design and layout of the premises to avoid as far as possible any impression of a carceral environment. As regards regime activities, they should include outdoor exercise, access to a day room and to radio/television and newspapers/magazines, as well as other appropriate means of recreation (e.g. board games, table tennis). The longer the period for which persons are detained, the more developed should be the activities which are offered to them.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0CPT standards regarding overcrowding and access to outdoor exercise in detention facilities",
+                                        "elements": [
+                                            {
+                                                "content": "29.\u00a0\u00a0In the \u201c2nd General Report on the CPT\u2019s Activities\u201d (CPT/Inf (92) 3 [EN]), published on 13 April 1992, the CPT noted the following:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c46.\u00a0\u00a0Overcrowding is an issue of direct relevance to the CPT\u2019s mandate. All the services and activities within a prison will be adversely affected if it is required to cater for more prisoners than it was designed to accommodate; the overall quality of life in the establishment will be lowered, perhaps significantly. Moreover, the level of overcrowding in a prison, or in a particular part of it, might be such as to be in itself inhuman or degrading from a physical standpoint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0Specific mention should be made of outdoor exercise. The requirement that prisoners be allowed at least one hour of exercise in the open air every day is widely accepted as a basic safeguard (preferably it should form part of a broader programme of activities). The CPT wishes to emphasise that all prisoners without exception (including those undergoing cellular confinement as a punishment) should be offered the possibility to take outdoor exercise daily. It is also axiomatic that outdoor exercise facilities should be reasonably spacious and whenever possible offer shelter from inclement weather.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0CPT\u2019s visit to Turkey in 2009",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0In June 2009 the CPT visited six removal centres for foreigners in different provinces in Turkey, including the Kumkap\u0131 Removal Centre in Istanbul (which it referred to as the \u201cIstanbul-Kumkap\u0131 Detention Centre\u201d) where the applicant would be detained in 2012. The relevant extracts from its visit report, dated 16 December 2009, read as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cIstanbul-Kumkap\u0131 Detention Centre, which was opened in March 2007, is the largest detention facility for immigration detainees in Turkey, with an official capacity of 560 places (for 360 male and 200 female detainees). At the time of the visit, the centre was accommodating 124 foreign nationals.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0As regards material conditions in the detention centres visited, the delegation noted a sharp reduction in the number of detained persons during the two preceding weeks in several establishments visited (in particular at Istanbul-Kumkap\u0131 and Edirne-Tun\u00e7a), where apparently up to 50% of all detainees had been released. This had obviously had a beneficial effect on the living conditions prevailing in the establishments at the time of the visit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0At Istanbul-Kumkap\u0131, material conditions in the new detention facility were generally much better than those found in the past in the former detention facilities in Istanbul [footnote: Though some improvements were made only very shortly before the visit (e.g. painting of walls, contracting of external cleaning staff, etc.)]. In particular, most detention rooms were spacious, well lit (with good access to natural light) and very clean.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "That said, it is clear that the centre\u2019s current official capacity of 560 places is far too high, given the space and facilities available. In particular, the living space in the detention rooms is insufficient (e.g. 58 m\u00b2 for 30 beds), and communal rooms are inadequate in terms of size and equipment (e.g. on the ground floor with a total of 120\u00a0beds, the communal room was equipped with eight tables and 23 chairs). The CPT recommends that steps be taken to significantly reduce the official capacity of Istanbul-Kumkap\u0131 Detention Centre and to ensure that future occupancy levels are always kept within the limits of the new capacity.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0It is of particular concern that, with the exception of K\u0131rklareli and, as regards women and children, Istanbul-Kumkap\u0131 [footnote: At Kumkap\u0131, the existing courtyard was primarily used as a parking area for police vehicles. Due to the limited space available, only female detainees and children benefited from daily outdoor exercise, whereas male adult detainees were usually denied outdoor exercise for weeks and months on end], foreign nationals held in the detention centres visited were offered no outdoor exercise at all. Such a state of affairs is unacceptable.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "During the end-of-visit talks, the delegation made an immediate observation and called upon the Turkish authorities to take the necessary measures to ensure that all immigration detainees at the detention centres in A\u011fr\u0131, Edirne-Tun\u00e7a, Istanbul-Kumkap\u0131, Konya and Van are able to benefit from at least one hour of outdoor exercise per day.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "By a letter of 23 September 2009, the Turkish authorities informed the Committee that foreign nationals held at Istanbul-Kumkap\u0131 Detention Centre \u201care allowed to open air for an average of one hour per day and benefit from outdoor activities\u201d...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The CPT welcomes the steps taken thus far and would like to receive confirmation that all foreign nationals held at A\u011fr\u0131 and Istanbul-Kumkap\u0131 Detention Centres are able to benefit from at least one hour of outdoor exercise per day.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0In several detention centres visited, many complaints were received about the quality and/or quantity of the food provided. The director of one of the centres visited affirmed to the delegation that, in his experience, the budgetary allocation of 4.60\u00a0TLR per person and day was clearly insufficient. The CPT recommends that the provision of food to immigration detainees be reviewed in all the detention centres for foreigners, to ensure that it is adequate in terms of both quantity and quality.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0The UN Special Rapporteur\u2019s visit to Turkey in 2012",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0The United Nations Special Rapporteur on the Human Rights of Migrants (\u201cthe UN Special Rapporteur\u201d), Mr Fran\u00e7ois Cr\u00e9peau, undertook an official visit to Turkey from 25 to 29 June 2012, that is approximately fifteen days before the applicant\u2019s detention at the Kumkap\u0131 Removal Centre, at the invitation of the Turkish Government. He visited, inter alia, the removal centres in Kumkap\u0131 and Edirne, and submitted a report to the UN General Assembly on 17 April 2013 (A/HRC/23/46/Add.2). The relevant parts of the report read as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c42.\u00a0\u00a0During his visit, the Special Rapporteur noted an insufficient regulation of the reasons for administrative detention of migrants, its duration, detention conditions and the access to safeguards for the detained migrants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0While a circular issued by the Turkish National Police in September 2010 gave the instruction to systematically inform irregular migrants held in removal centres in writing of the reason for being held in the centre, the duration of stay, their right to have access to a lawyer, and the right of appeal against the decision to be held in a removal centre or deportation order, the Special Rapporteur\u2019s interviews with detained migrants at Edirne and Kumkap\u0131 removal centres indicate that this circular is not systematically implemented in practice.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Special Rapporteur also remains disturbed about the conditions in these removal centres: detainees, including children, are often locked in their rooms or wards, and are given little or no access to outdoor areas. Overcrowding and unclean conditions, including inadequate food, are also significant concerns.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "32.\u00a0\u00a0Relying on Article 5 \u00a7\u00a7 1, 2, 3 and 4 and Article 13 of the Convention, the applicant complained that he had been unlawfully detained without the opportunity to challenge the lawfulness of his detention and that he had not been duly informed of the reasons for his deprivation of liberty, nor had he been brought before a judge promptly. He further maintained, under Article 5 \u00a7 5 of the Convention, that he had had no right to compensation under domestic law in respect of these complaints.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 5 of the Convention provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph 1\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0The Court considers at the outset that the complaint under Article 13 falls to be examined under Article 5 \u00a7 4 of the Convention alone, which provides a lex specialis in relation to the more general requirements of Article 13 (see Amie and Others v. Bulgaria, no. 58149/08, \u00a7\u00a063, 12\u00a0February 2013).",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "34.\u00a0\u00a0As regards the complaint under Article 5 \u00a7 3 of the Convention, the Court notes that while the applicant complained of not having been brought promptly before a judge under that provision, there is no evidence in the case file to suggest that he had been arrested or detained in accordance with the provisions of paragraph 1 (c) of Article 5, as required under Article\u00a05\u00a0\u00a7\u00a03. It follows that this complaint is incompatible ratione materiae with the provisions of the Convention and must be rejected, in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention (see Musaev v. Turkey, no.\u00a072754/11, \u00a7 25, 21 October 2014).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court notes that the remaining complaints under Article 5 \u00a7\u00a7\u00a01, 2, 4 and 5 are not manifestly illfounded within the meaning of Article\u00a035\u00a0\u00a7\u00a03 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Alleged violation of Article 5 \u00a7 1 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "36.\u00a0\u00a0The Government stated that the applicant had been detained on 4\u00a0May 2012 as an \u201cinadmissible passenger\u201d on account of the ban on his entering Turkey. His detention had therefore been governed by section 23 of the Act on the Residence and Travel of Foreigners in Turkey (Law no. 5683), which had been in force at the material time and fell within the scope of Article 5 \u00a7 1 (f) of the Convention. The Government also stated that it was aware of the Court\u2019s relevant case-law in respect of this provision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The applicant maintained his allegation that his detention had had no basis in domestic law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The Court considers \u2013 in the light of the content of the case file, as well as the Government\u2019s submissions noted above \u2013 that the applicant was deprived of his liberty in the context of immigration controls with a view to his removal within the meaning of Article 5 \u00a7 1 (f) of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Court has already examined a similar grievance in the case of Abdolkhani and Karimnia (cited above, \u00a7\u00a7 125-135), in which it found that in the absence of clear legal provisions in Turkish law establishing the procedure for ordering detention with a view to deportation, the applicants\u2019 detention had not been \u201clawful\u201d for the purposes of Article 5 of the Convention. The Court has examined the present case and finds no particular circumstances which would require it to depart from its findings in the above-mentioned judgment (see, also, Musaev, cited above, \u00a7 30, and Aliev v. Turkey, no. 30518/11, \u00a7 56, 21 October 2014).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0There has accordingly been a violation of Article 5 \u00a7 1 of the Convention in the instant case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Alleged violation of Article 5 \u00a7 2 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "41.\u00a0\u00a0The Government submitted that on 13 May 2012 the Ministry had informed the offices of the Istanbul and Gaziantep governors that the applicant would be detained at the airport detention facility pending a decision on his asylum request. Upon the refusal of his asylum request on 30 May 2012 by the Ministry, the applicant had been further informed that he would continue to be detained at the airport detention facility until the determination of any objections he might lodge against the decision of the Ministry. Accordingly, the Government argued that the applicant had been informed of the reasons for his detention, albeit with a delay of approximately two weeks.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The applicant stated that the document dated 13 May 2012 referred to by the Government constituted an instruction from the Ministry addressed to the offices of the Istanbul and Gaziantep governors, and had not constituted a notification to the applicant. The applicant claimed that he had in fact never been informed of the reasons for his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court notes that the general principles governing the elementary safeguard embodied in Article 5 \u00a7 2 of the Convention were set out in the case of Abdolkhani and Karimnia (cited above, \u00a7 136).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Court observes that the parties in the instant case disagree as to whether the applicant was notified of the reasons for his detention. While the Government claimed that the applicant had been informed, in line with the instruction of the Ministry dated 13 May 2012, they accepted that the notification had been made some two weeks after the start of the detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court considers that even if it were to accept that the applicant was notified of the reasons for his detention, as submitted by the Government, that notification was not made sufficiently promptly to satisfy the requirements of Article 5 \u00a7 2 of the Convention. The Court notes in this connection that anyone entitled to take proceedings to have the lawfulness of his detention speedily decided cannot make effective use of that right unless he or she is promptly and adequately informed of the reasons relied on to deprive him or her of his or her liberty (see Van der Leer v. the Netherlands, judgment of 21 February 1990, Series A no. 170A, p. 13, \u00a7\u00a028, and Shamayev and Others v. Georgia and Russia, no. 36378/02, \u00a7\u00a0413, ECHR 2005III).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Court moreover notes that there is no information in the case file to suggest that the applicant was notified of the reason for his continued detention once he had been transferred from Sabiha G\u00f6k\u00e7en Airport to the Kumkap\u0131 Removal Centre. The Government made no observations on this matter.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Having regard to the foregoing, the Court concludes that there has been a violation of Article 5 \u00a7 2 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Alleged violation of Article 5 \u00a7\u00a7 4 and 5 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "48.\u00a0\u00a0The Government submitted that the applicant could have applied to the administrative courts under Articles 36 and 125 of the Constitution in order to challenge the lawfulness of his detention, and could have sought a stay of execution in respect of his detention under section 27 of the Administrative Procedure Act (Law no. 2577).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0The applicant maintained his allegations and claimed that the remedies suggested by the Government were not effective in practice.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0The Court notes that it has found a violation of Article 5 \u00a7\u00a7 4 and 5 of the Convention in the past in a number of similar cases where it concluded that the Turkish legal system at the material time did not provide persons in the applicant\u2019s position with a remedy whereby they could obtain judicial review of the lawfulness of their detention, within the meaning of Article\u00a05\u00a0\u00a7 4, and receive compensation for their unlawful detention, as required under Article 5 \u00a7 5 of the Convention (see Abdolkhani and Karimnia, cited above, \u00a7 142; Tehrani and Others v. Turkey, nos. 32940/08, 41626/08 and 43616/08, \u00a7 79, 13 April 2010; and Dbouba v. Turkey, no.\u00a015916/09, \u00a7\u00a7 53-54, 13 July 2010). In the absence of any examples of cases submitted by the Government in which the administrative courts speedily examined requests and ordered the release of an asylum seeker on grounds of unlawfulness of his or her detention and awarded him or her compensation, the Court sees no reason to depart from its findings in the aforementioned judgments.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0Moreover, the Court has already found that the applicant was not duly informed of the reasons for the deprivation of his liberty (see paragraph 47 above). It considers that this fact in itself had the effect that the applicant\u2019s right of appeal against his detention under Article 5 \u00a7 4 was deprived of all substance (see Shamayev and Others, cited above, \u00a7 432, ECHR 2005III, and Abdolkhani and Karimnia, cited above, \u00a7 141).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0In the light of the above, the Court concludes that there has been a violation of Article 5 \u00a7\u00a7 4 and 5 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 TAKEN ALONE AND IN CONJUNCTION WITH ARTICLE 13 OF THE CONVENTION IN CONNECTION WITH THE MATERIAL CONDITIONS OF THE APPLICANT\u2019S DETENTION",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0Relying on Article 3 of the Convention, the applicant complained about the material conditions of his detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre respectively. He argued in particular that both facilities had been overcrowded and that he had not been allowed access to outdoor exercise throughout his detention in either facility.",
+                                "elements": []
+                            },
+                            {
+                                "content": "He further claimed under Article 13, in conjunction with Article 3, that there had been no effective domestic remedies available to him by which to complain of his detention conditions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Articles 3 and 13 of the Convention provide as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 3",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 13",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Non-exhaustion of domestic remedies",
+                                        "elements": [
+                                            {
+                                                "content": "54.\u00a0\u00a0The Government submitted that this part of the application should be rejected for failure to exhaust domestic remedies within the meaning of Article 35 \u00a7 1 of the Convention. They maintained in this connection that the applicant should have applied to the administrative or judicial authorities and sought compensation under Articles 36 and 125 of the Constitution in relation to his grievances.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The applicant contested the Government\u2019s argument, stating that no adequate remedy had existed in relation to his complaints, which also explained the Government\u2019s failure to submit any examples demonstrating how the legal provisions in question would have provided effective redress in practice.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The Court considers that the issue of exhaustion of domestic remedies is closely linked to the merits of the applicant\u2019s complaint that he did not have an effective remedy at his disposal by which to complain of inhuman and degrading conditions during his detention. The Court therefore finds it necessary to join the Government\u2019s objection to the merits of the complaint under Article 13 of the Convention (see, inter alia, Sergey\u00a0Babushkin v. Russia, no. 5993/08, \u00a7 34, 28 November 2013, and Yarashonen, cited above, \u00a7 54).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Compliance with the six-month rule",
+                                        "elements": [
+                                            {
+                                                "content": "57.\u00a0\u00a0The Court reiterates that, unlike in the case of an objection as to the nonexhaustion of domestic remedies, which must be raised by the respondent Government, it cannot set aside the application of the six-month rule set out in Article 35 \u00a7 1 solely because a government has not made a preliminary objection to that effect (see Walker v. the United Kingdom (dec.), no. 34979/97, ECHR 2000I, and Ble\u010di\u0107 v. Croatia [GC], no.\u00a059532/00, \u00a7 68, ECHR 2006III).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Court notes that in the present case, the applicant complained about the conditions of his detention in two different facilities, namely the Sabiha G\u00f6k\u00e7en Airport detention facility (from 4 May to 10 July 2012) and the Kumkap\u0131 Removal Centre (from 10 July to 15 August 2012). The Court further notes that the applicant lodged his application on 14 February 2013, that is to say, more than six months after his detention at Sabiha G\u00f6k\u00e7en Airport had ended. Given these circumstances, the Court must determine whether the complaints concerning the conditions at Sabiha G\u00f6k\u00e7en Airport detention facility fall outside the six-month time-limit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0In this connection, the Court refers to its case-law, as summarised in I.D. v. Moldova (no. 47203/06, \u00a7\u00a7 27-31, 30 November 2010), concerning the application of the six-month rule to complaints about conditions of detention, where such complaints pertain to conditions in different facilities. In principle, where an applicant is transferred from one facility to another, he or she is required to submit a complaint about the conditions of detention in the previous facility within six months of his or her transfer (see Ananyev and Others v. Russia, nos. 42525/07 and 60800/08, \u00a7 76, 10 January 2012). However, continuous detention in similar conditions, even if in different facilities, have in certain circumstances been considered to warrant examination of the relevant period of detention as a whole, where the nature of the applicant\u2019s complaints about the conditions of his detention remained substantially the same (see Benediktov v. Russia, no. 106/02, \u00a7 31, 10\u00a0May 2007; Guliyev v. Russia, no. 24650/02, \u00a7\u00a7 31-33, 19 June 2008; Seleznev v.\u00a0Russia, no. 15591/03, \u00a7\u00a7 34-36, 26 June 2008; Sudarkov v. Russia, no.\u00a03130/03, \u00a7 40, 10 July 2008; Lutokhin v. Russia, no.\u00a012008/03, \u00a7\u00a7\u00a04043, 8 April 2010; Ananyev and Others, cited above, \u00a7\u00a7\u00a075-78; Constantin Modarca v. the Republic of Moldova, no. 37829/08, \u00a7\u00a020, 13\u00a0November 2012; Struc v. the Republic of Moldova, no. 40131/09, \u00a7\u00a063, 4\u00a0December 2012; and Gorbulya v. Russia, no. 31535/09, \u00a7\u00a7\u00a047-48, 6\u00a0March 2014). Accordingly, when dealing with complaints in relation to conditions of detention which do not simply relate to a specific event, but which concern a whole range of problems regarding sanitary conditions, the temperature in cells, overcrowding, lack of adequate medical treatment, and so on, which have affected an inmate throughout his or her incarceration, the Court regards this as a \u201ccontinuing situation\u201d, even if the person concerned has been transferred between various detention facilities in the relevant period (see Neshkov and Others v. Bulgaria, nos. 36925/10, 21487/12, 72893/12, 73196/12, 77718/12 and 9717/13, \u00a7 199, 27\u00a0January 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0Turning to the facts before it, the Court notes that in describing the conditions of his detention at the airport detention facility and the Kumkap\u0131 Removal Centre, the applicant primarily alleged that both facilities had been overcrowded and that he had not been allowed outdoors for the entire duration of his detention in both facilities, which had lasted for a total of 104 days.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0Having regard to the continuous nature of the applicant\u2019s detention and the allegation of overcrowding and lack of outdoor exercise as the main characteristic of the detention conditions in both facilities, the Court finds that the two periods constitute a \u201ccontinuing situation\u201d, which brings the events concerning the applicant\u2019s detention at the Sabiha G\u00f6k\u00e7en Airport detention facility within its competence (see Lutokhin, cited above, \u00a7\u00a043, and Constantin Modarca, cited above, \u00a7 20).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The Court therefore finds, having regard also to its conclusion in paragraph 67 below, that the applicant complied with the sixmonth rule in respect of his complaints under Articles 3 and 13 relating to the entire period of his detention between 4 May and 15 August 2012. The Court further finds that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention, nor are they inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Article 13 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "63.\u00a0\u00a0As indicated in paragraph 54 above, the Government submitted that the applicant had had effective remedies in respect of his grievances concerning the conditions of his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0The applicant reiterated his complaints and arguments, as set out in paragraph 55 above.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0The Court points out at the outset that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they may happen to be secured in the domestic legal order. The effect of Article 13 is thus to require the provision of a domestic remedy to deal with the substance of an \u201carguable complaint\u201d under the Convention, as in the present case (see below paragraphs 71-88) and to grant appropriate relief (see, among many other authorities, Kud\u0142a v. Poland [GC], no.\u00a030210/96, \u00a7\u00a0157, ECHR 2000XI).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The Court notes that it has already examined and rejected similar submissions by the respondent Government in comparable cases and found a violation of Article 13 of the Convention (see Yarashonen, cited above, \u00a7\u00a7\u00a05666; Musaev, cited above, \u00a7\u00a7 53-55; and T. and A. v. Turkey, no.\u00a047146/11, \u00a7 86, 21 October 2014). In the absence of any examples submitted by the Government of instances where recourse to an administrative or judicial authority led to the improvement of detention conditions and/or to an award of compensation for the anguish suffered on account of adverse material conditions, the Court finds no reason to depart from its findings in the abovementioned cases. The Court also wishes to stress that the applicant alleged, and the Government did not contest, that he had had no access to legal assistance throughout his detention at the airport detention facility, and that such lack of access would have in any event prevented him from making use of any available legal remedies (see Abdolkhani and Karimnia v. Turkey (no. 2), no.\u00a050213/08, \u00a7\u00a7\u00a025-26, 27\u00a0July 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0The Court therefore rejects the Government\u2019s objection concerning the non-exhaustion of domestic remedies and concludes that there has been a violation of Article 13 of the Convention, in conjunction with Article 3, on account of the absence of an effective remedy to complain about the inadequate conditions of the applicant\u2019s detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Article 3 of the Convention",
+                                        "elements": [
+                                            {
+                                                "content": "68.\u00a0\u00a0The Government reiterated their account of the detention conditions at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre respectively (see paragraphs 18-23 above), and stated that those conditions had complied with the requirements of Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0The applicant maintained that during the period of his detention, both the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre had been very crowded and that he had not been allowed out into the open air in either facility. The applicant claimed that while in Kumkap\u0131 he had shared a room of approximately 40 square metres with between thirty and forty-five people (that is to say, the room had space amounting to between 1.33 and 0.89 square metres per occupant) and that the overall capacity of the removal centre had been 560 at the time, and not 300, as alleged by the Government. Moreover, the number of detainees during his detention there had rarely fallen below 350. He further stated that the Government had failed to submit the registration logs recording the number of male detainees held at the Kumkap\u0131 Removal Centre during the period of his detention there, and nor had they provided specific information on the surface area and occupancy rate of the particular room in which he had stayed. However, the cramped conditions of the centre were evident from the photographs that the Government had submitted, which demonstrated that there was not much space to move between the furniture, that some of the bunk beds were touching each other and that it was difficult for two people to walk side by side in the rooms. The applicant also stressed that during his detention in Kumkap\u0131 there had been fifteen bunk beds \u2013 that is to say, thirty beds \u2013 in each room, as opposed to the fifteen to twenty beds stated by the Government. The photographs submitted by the Government also showed that there were at least twenty-two beds (that is to say eleven bunk beds) in the rooms. Moreover, the applicant submitted that when the number of detainees had exceeded the capacity of the removal centre, the detainees had been forced to sleep on dirty blankets they had laid on the floor. As proof of his arguments, the applicant sent the photograph of a man sleeping on the corridor.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0The applicant argued that in addition to overcrowding and a lack of access to outdoor exercise, the conditions at the airport detention facility had further been exacerbated by the absence of any windows allowing access to natural light and fresh air and suitable furniture for sleeping. While these particular problems had not been an issue at the Kumkap\u0131 Removal Centre, he had experienced other additional problems there, such as a lack of sufficient and nutritious food, unhygienic conditions, humidity, unfavourable sleeping conditions and being exposed to cigarette smoke. The applicant claimed that the rooms of the Kumkap\u0131 Removal Centre looked deceptively cleaner and tidier in the photographs provided by the Government; it was evident that they had been cleaned just before the photographs had been taken. In reality, the whole facility had been infested with insects, including bedbugs. By way of proof, the applicant submitted a photograph of a number of detainees who had been badly bitten by bedbugs. He also submitted photos of different parts of the facility, including some rooms, corridors, showers and toilets, which showed that the place had very poor sanitary and hygienic conditions. He added that the sports equipment shown in the photographs submitted by the Government (a metal situp bench and an exercise bike) had not been available for use by detainees.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0The Court refers to the principles established in its caselaw regarding conditions of detention (see, for instance, Kud\u0142a, cited above, \u00a7\u00a7\u00a09094; Kalashnikov v. Russia, no. 47095/99, \u00a7\u00a7 95-103, ECHR\u00a02002VI; and Neshkov and Others, cited above, \u00a7\u00a7 225-244; see also M.S.S. v.\u00a0Belgium and Greece [GC], no. 30696/09, \u00a7\u00a7 216-234, ECHR 2011 for the application of these general principles in the context of the detention of foreigners). It reiterates, in particular, that under Article 3 of the Convention, the State must ensure that a person is detained in conditions which are consistent with respect for human dignity and that the manner and method of executing the detention measure in question do not cause that individual to suffer distress or hardship of an intensity exceeding the unavoidable level of suffering inherent in detention. When assessing conditions of detention, account must be taken of the cumulative effects of those conditions, as well as of the specific allegations made by the applicant (see Dougoz v. Greece, no.\u00a040907/98, \u00a7 46, ECHR 2001II). The length of the period during which a person is detained in the particular conditions must also be considered (see, among other authorities, Alver v. Estonia, no.\u00a064812/01, \u00a7 50, 8 November 2005, and Idalov v. Russia [GC], no.\u00a05826/03, \u00a7 94, 22 May 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0The Court has already established in paragraph 60 above that the main problems raised by the applicant regarding the conditions of his detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre concerned overcrowding and lack of access to outdoor exercise. The Court will now examine whether such conditions, individually or cumulatively, amounted to degrading treatment within the meaning of Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0The Court notes that the parties disagreed both on the size of the detention facility and the number of persons held there during the course of the applicant\u2019s detention. While the applicant claimed that the population of the detention facility, which measured about 20 square metres, had risen to as high as fifteen on certain days, leaving only 1.33 square metres of living space per person, the Government insisted that the detention facility had measured 53.73 square metres and that its population had never exceeded five (see paragraphs 16 and 18 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0The Court reiterates that in cases which concern conditions of detention, applicants are expected in principle to submit detailed and consistent accounts of the facts complained of and to provide, as far as possible, some evidence in support of their complaints (see Visloguzov v.\u00a0Ukraine, no. 32362/02, \u00a7 45, 20 May 2010, with further references; Kyriacou Tsiakkourmas and Others v. Turkey, no. 13320/02, \u00a7\u00a0279, 2 June 2015; and Story and Others v. Malta, nos. 56854/13, 57005/13 and 57043/13, \u00a7 110, 29 October 2015). The Court, however, also notes that in practice it may be very difficult for a detainee to collect evidence concerning the material conditions of his detention and it may thus be permissible, under certain circumstances, to shift the burden of proof from the applicant to the Government in question, especially where the Government alone have access to information capable of corroborating or refuting allegations (see, among other authorities, Kokoshkina v.\u00a0Russia, no.\u00a02052/08, \u00a7 59, 28 May 2009; Zakharkin v. Russia, no. 1555/04, \u00a7\u00a0123, 10\u00a0June 2010; and Khodorkovskiy v.\u00a0Russia, no. 5829/04, \u00a7 106, 31\u00a0May 2011). In such circumstances, a failure on the part of a Government to submit the relevant information without a satisfactory explanation may give rise to the drawing of inferences as to the well-foundedness of the applicant\u2019s allegations (see Ananyev and Others, cited above, \u00a7 123).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0The Court observes in the instant case that the applicant claimed, and the Government did not contest, that he had had no access to legal assistance throughout his sixty-eight-day detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and that all other passengers admitted to that facility during the course of his detention had either been released or repatriated within very short periods. Having regard to the high turnover of detainees, the inevitable communication difficulties caused by language barriers, and the lack of any access to legal assistance, the Court accepts that it would have been very difficult for the applicant to procure evidence to support his allegations, such as witness accounts. In such circumstances, and given the consistency and the sufficient detail in the applicant\u2019s submissions, the Court deems it possible to shift the burden of proof to the Government (see, mutatis mutandis, Khodorkovskiy, cited above, \u00a7 108).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0The Court notes in this connection that the Government\u2019s statements as to the size and occupancy level of the Sabiha G\u00f6k\u00e7en Airport detention facility were not corroborated by any documents enabling the Court to verify their validity, even though it was open to them to submit copies of registration logs with the names of the passengers detained together with the applicant in the relevant period, as well as photos or video footage of the facility and other pertinent information regarding its size (see, mutatis mutandis, Bakhmutskiy v. Russia, no. 36932/02, \u00a7\u00a7\u00a091-92, 25 June 2009). The Court stresses that the Government failed to submit such information, despite having been expressly requested to do so by the Court, and they did not provide any explanation for their failure. It further notes that the Government did not specify whether the facility\u2019s alleged 53.73 square metres of surface area included the showers and toilets, which would have certainly reduced the size of the living area. The Court moreover notes that although the Government stated that five beds had been provided in the room for men, they did not give any information on how many beds had been made available for female detainees and whether the room had been divided to accommodate men and women separately, which would have further reduced the living area afforded to the applicant. In these circumstances, the Court finds that the applicant\u2019s allegations as to the size and occupancy of the Sabiha G\u00f6k\u00e7en Airport detention facility remain unrefuted and that he had as little as 1.33\u00a0square metres of personal space at certain times during his detention at that facility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0The Court notes that such severe overcrowding may in itself create a strong presumption that the conditions of detention amounted to degrading treatment (see Ananyev and Others, cited above, \u00a7\u00a7 144-148; Logothetis and Others v. Greece, no. 740/13, \u00a7\u00a7 37-48, 25 September 2014; and Varga and Others v. Hungary, nos. 14097/12, 45135/12, 73712/12, 34001/13, 44055/13, and 64586/13, \u00a7 74, 10 March 2015). The information in the case file does not allow the Court to determine for how long the applicant was subjected to such severe overcrowding and whether such scarcity of space was only short-term or occasional. Nevertheless, in the absence of any convincing information from the Government to the contrary, and in view of the principles cited in paragraph 74 above, the Court accepts the applicant\u2019s argument that the Sabiha G\u00f6k\u00e7en Airport detention facility was filled beyond its design capacity during the course of his detention, at times to the point of constituting a flagrant lack of personal space (see, mutatis mutandis, Mironovas and Others v. Lithuania, nos.\u00a040828/12, 29292/12, 69598/12, 40163/13, 66281/13, 70048/13 and 70065/13, \u00a7 143, 8 December 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0The Court further notes that while scarce space in relative terms may in some circumstances be compensated for by the possibility to move about freely within the confines of a detention facility (see Vala\u0161inas v.\u00a0Lithuania, no.\u00a044558/98, \u00a7 103 and 107, ECHR 2001VIII, and Nurmagomedov v.\u00a0Russia (dec.), no. 30138/02, 16 September 2004) and by unobstructed access to natural light and air (see, for example, Shkurenko v. Russia (dec.), no.\u00a015010/04, 10 September 2009), the applicant claimed \u2013 and the Government did not deny \u2013 that the facility in question was made up of one room only, with no access to natural light whatsoever, and the applicant was not authorised to leave that room and circulate freely within the airport.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0The Court notes that the parties similarly disagreed on the total capacity of the Kumkap\u0131 Removal Centre and of the rooms reserved for male detainees. The applicant argued that the room where he had stayed had measured about 35-40 square metres and had had fifteen bunk beds, but the number of the occupants of the room had varied between thirty and fortyfive, which meant that some people had had to sleep on the floor. As proof of his arguments he sent photographs showing the cramped conditions in various rooms, as well as the photograph of a man sleeping on the corridor. The Government, on the other hand, provided no information on the size of the room where the applicant was held or on the number of persons accommodated together with him. Moreover, although they claimed that the population of the removal centre had not exceeded 300 throughout the applicant\u2019s detention, they did not submit the relevant registration logs to corroborate that claim, nor did they specify the population of the male detainees during that period. In these circumstances, the applicant\u2019s allegations regarding the overcrowded conditions of his detention at the Kumkap\u0131 Removal Centre remain wholly unrefuted.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80. The applicant\u2019s allegations also coincide with the earlier observations of the CPT regarding the problem of overcrowding at the Kumkap\u0131 Removal Centre, which provide a reliable basis for the Court\u2019s assessment (see Kehayov v.\u00a0Bulgaria, no. 41035/98, \u00a7 66, 18 January 2005). The Court does not rule out the possibility that improvements \u2013 such as the reduction of the centre\u2019s official capacity \u2013 were made between the CPT\u2019s visit in June 2009 and the applicant\u2019s detention from 10 July to 15 August 2012. However, the subsequent visits of the members of the Grand National Assembly of Turkey and the UN Special Rapporteur on the Human Rights of Migrants in May and June 2012 respectively (that is to say, only a couple of months prior to the applicant\u2019s detention) also corroborate the evidence of a problem of overcrowding at the removal centre in question (see paragraphs 26 and 31 above). In particular, the number of male detainees reported by the MPs, which was 297 on the day of the scheduled visit, shows that the Kumkap\u0131 Removal Centre was used beyond its design capacity as claimed by the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81. The Court further notes that there is no evidence in the case file to show that this overcrowding was alleviated by sufficient possibility of freedom of movement within the removal centre, which problem had also been noted in the Yarashonen case (cited above, \u00a7 79). The Court notes in this connection that apart from the cafeteria on each floor where food was served (whose size \u2013 69 square metres \u2013 appears to have been inadequate to accommodate the detainees in any event), the Government did not mention any facilities or communal areas where the detainees could spend time outside their dormitory rooms. It was also not made clear whether the cafeterias in question were accessible outside meal times (see the discussion in Yarashonen, cited above, on this issue). In these circumstances, it appears that the applicant was mostly confined to his overcrowded dormitory room, which had no furniture other than beds and lockers (ibid).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0The applicant alleged that he had not been allowed to step outdoors during the entire period of his detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre for 104 days. The Government did not contest this allegation insofar as it concerned the airport detention facility, but they claimed that detainees at the Kumkap\u0131 Removal Centre had been authorised to go outdoors \u201cin appropriate weather conditions\u201d. They did not, however, indicate whether the applicant had benefited from that right or how often such authorisation was granted.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The Court notes that access to outdoor exercise is a fundamental component of the protection afforded to persons deprived of their liberty under Article 3 and as such it cannot be left to the discretion of the authorities; according to the CPT, all detainees \u2013 even those confined to their cells as a punishment \u2013 have a right to at least one hour of exercise in the open air every day, regardless of how good the material conditions might be in their cells (see paragraph 48 of the CPT\u2019s Second General Report, cited in paragraph 29 above; see also Ananyev and Others, cited above, \u00a7\u00a7 150-152, with further references). This, however, was clearly not the case either at the Sabiha G\u00f6k\u00e7en Airport detention facility or the Kumkap\u0131 Removal Centre. The denial to the male detainees of access to outdoor exercise at the latter facility was also reported by the delegation of Turkish MPs, the CPT and the UN Special Rapporteur (see paragraphs 27, 30 and 31 above, respectively).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The Court has established above that from 4 May until 15 August 2012, the applicant was detained in conditions under which he was not afforded sufficient living space; that situation was further exacerbated by the fact that he was not allowed access to outdoor exercise at any time. In the Court\u2019s opinion, these findings \u2013 coupled with the length of the applicant\u2019s unlawful detention and possible anxiety caused by uncertainty as to when it would end \u2013 are sufficient to conclude that the conditions of his detention caused the applicant distress which exceeded the unavoidable level of suffering inherent in detention and attained the threshold of degrading treatment proscribed by Article 3. It is therefore not necessary to examine the remaining aspects of the applicant\u2019s complaints regarding the material conditions of his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0In the light of the foregoing, there has been a violation of Article 3 of the Convention on account of the material conditions in which the applicant was detained in the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "86.\u00a0\u00a0In his observations dated 14 October 2014 the applicant submitted a new complaint regarding the alleged denial of medical assistance at the Kumkap\u0131 Removal Centre in relation to a severe illness he had been suffering from at the time, without providing any further details as to the nature of that illness.",
+                                "elements": []
+                            },
+                            {
+                                "content": "87.\u00a0\u00a0The Court notes that this additional complaint concerns matters relating to the applicant\u2019s detention, which ended on 15 August 2012. The Court further notes that it does not constitute an elaboration on the applicant\u2019s original complaints to the Court, on which the Government have already commented, but raises a new issue. Accordingly, the Court must reject it pursuant to Article 35 \u00a7\u00a7 1 and 4 of the Convention for having been lodged outside the six-month timelimit (see Ashot Harutyunyan v.\u00a0Armenia, no. 34334/04, \u00a7\u00a099, 15\u00a0June\u00a02010, and A.D. and Others v.\u00a0Turkey, no. 22681/09, \u00a7 127, 22\u00a0July 2014).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "89.\u00a0\u00a0The applicant claimed 15,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0The Government contested that claim as excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The Court considers that the applicant must have suffered nonpecuniary damage, which cannot be compensated for solely by the finding of violations. Having regard to the seriousness of the violations in question and to equitable considerations, it awards the applicant EUR\u00a010,000 under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "92.\u00a0\u00a0The applicant also claimed EUR 3,835 for lawyer\u2019s fees and EUR\u00a0527 for other costs and expenses incurred before the Court, such as travel expenses, stationery, photocopying, translation, postage and communication. In that connection, he submitted a time sheet showing that his legal representatives had carried out thirty-two and a half hours\u2019 legal work, a legal services agreement concluded with his representatives, invoices for translation and transportation expenses, and an invoice in relation to some material posted to the Court. The remaining expenses were not supported with any documents.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "93.\u00a0\u00a0The Government contested those claims, deeming them unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 4,330 covering costs under all heads.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "95.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins the Government\u2019s objection as to the non-exhaustion of domestic remedies in relation to the adverse material conditions of detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre to the merits of the complaint under Article 13 of the Convention and dismisses it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaints under Article\u00a05\u00a0\u00a7\u00a7 1, 2, 4 and 5 of the Convention (regarding the applicant\u2019s right to liberty) and the complaints under Articles 3 and 13 of the Convention (regarding the material conditions of his detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre, as well as the lack of effective remedies by which to raise his allegations concerning those conditions) admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds there has been a violation of Article 5 \u00a7\u00a7 1, 2, 4 and 5 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds there has been a violation of Article 3 of the Convention on account of the material conditions of the applicant\u2019s detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention in conjunction with Article 3 on account of the absence of effective remedies to complain about the material conditions of detention at the Sabiha G\u00f6k\u00e7en Airport detention facility and the Kumkap\u0131 Removal Centre;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period, plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 6 September 2016, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Julia Laffranque",
+            "role": "president"
+        },
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "judges"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Valeriu Gri\u0163co",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Jon Fridrik Kj\u00f8lbro",
+            "role": "judges"
+        },
+        {
+            "name": "St\u00e9phanie Mourou-Vikstr\u00f6m",
+            "role": "judges"
+        },
+        {
+            "name": "Hasan Bak\u0131rc\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF ALIMOV v. TURKEY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-166487.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2016:0906JUD001434413",
+    "externalsources": [
+        "Report of the sub-committee established by the Human Rights Inquiry Committee of the Grand National Assembly of Turkey",
+        "CPT\u2019s visit report to Turkey of 16 December 2009",
+        "UN Special Rapporteur\u2019s report regarding his visit to Turkey in 2012, submitted to the UN General Assembly on 17 April 2013 (A/HRC/23/46/Add.2)"
+    ],
+    "extractedappno": [
+        "14344/13",
+        "30471/08",
+        "72710/11",
+        "58149/08",
+        "72754/11",
+        "30518/11",
+        "36378/02",
+        "32940/08",
+        "41626/08",
+        "43616/08",
+        "15916/09",
+        "5993/08",
+        "34979/97",
+        "59532/00",
+        "47203/06",
+        "42525/07",
+        "60800/08",
+        "106/02",
+        "24650/02",
+        "15591/03",
+        "3130/03",
+        "12008/03",
+        "37829/08",
+        "40131/09",
+        "31535/09",
+        "36925/10",
+        "21487/12",
+        "72893/12",
+        "73196/12",
+        "77718/12",
+        "9717/13",
+        "30210/96",
+        "47146/11",
+        "50213/08",
+        "47095/99",
+        "30696/09",
+        "40907/98",
+        "64812/01",
+        "5826/03",
+        "32362/02",
+        "13320/02",
+        "56854/13",
+        "57005/13",
+        "57043/13",
+        "2052/08",
+        "1555/04",
+        "5829/04",
+        "36932/02",
+        "740/13",
+        "14097/12",
+        "45135/12",
+        "73712/12",
+        "34001/13",
+        "44055/13",
+        "64586/13",
+        "40828/12",
+        "29292/12",
+        "69598/12",
+        "40163/13",
+        "66281/13",
+        "70048/13",
+        "70065/13",
+        "44558/98",
+        "30138/02",
+        "15010/04",
+        "41035/98",
+        "34334/04",
+        "22681/09"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [
+        "Section 27 of the Administrative Procedure Act (Law no. 2577)"
+    ],
+    "itemid": "001-166487",
+    "judgementdate": "06/09/2016 00:00:00",
+    "kpdate": "06/09/2016 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "448",
+        "220",
+        "130",
+        "191",
+        "351",
+        "438",
+        "45",
+        "444",
+        "110",
+        "14",
+        "128",
+        "216",
+        "577",
+        "283"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "13",
+        "3",
+        "5-4",
+        "5-1-f",
+        "5-5",
+        "35-1",
+        "35",
+        "5-1",
+        "5",
+        "5-2",
+        "41"
+    ],
+    "parties": [
+        "ALIMOV",
+        "TURKEY"
+    ],
+    "rank": "1616.78930664063",
+    "representedby": [
+        "YILMAZ A.",
+        "YILMAZ S.N.",
+        "CETINKAYA B."
+    ],
+    "respondent": "TUR",
+    "respondentOrderEng": "47",
+    "scl": [
+        "A.D. and Others v. Turkey, no. 22681/09, \u00a7 127, 22 July 2014",
+        "Abdolkhani and Karimnia v. Turkey (no. 2), no. 50213/08, 27 July 2010",
+        "Aliev v. Turkey, no. 30518/11, \u00a7 56, 21 October 2014",
+        "Alver v. Estonia, no. 64812/01, \u00a7 50, 8 November 2005",
+        "Amie and Others v. Bulgaria, no. 58149/08, \u00a7 63, 12 February 2013",
+        "Ananyev and Others v. Russia, nos. 42525/07 and 60800/08, 10 January 2012",
+        "Ashot Harutyunyan v. Armenia, no. 34334/04, \u00a7 99, 15 June 2010",
+        "Bakhmutskiy v. Russia, no. 36932/02, \u00a7\u00a7 91-92, 25 June 2009",
+        "Benediktov v. Russia, no. 106/02, \u00a7 31, 10 May 2007",
+        "Ble\u010di\u0107 v. Croatia [GC], no. 59532/00, \u00a7 68, ECHR 2006 III",
+        "Constantin Modarca v. the Republic of Moldova, no. 37829/08, \u00a7 20, 13 November 2012",
+        "Dbouba v. Turkey, no. 15916/09, \u00a7\u00a7 53-54, 13 July 2010",
+        "Dougoz v. Greece, no. 40907/98, \u00a7 46, ECHR 2001 II",
+        "Gorbulya v. Russia, no. 31535/09, \u00a7\u00a7 47-48, 6 March 2014",
+        "Guliyev v. Russia, no. 24650/02, \u00a7\u00a7 31-33, 19 June 2008",
+        "Idalov v. Russia [GC], no. 5826/03, \u00a7 94, 22 May 2012",
+        "Kalashnikov v. Russia, no. 47095/99, \u00a7\u00a7 95-103, ECHR 2002 VI",
+        "Kehayov v. Bulgaria, no. 41035/98, \u00a7 66, 18 January 2005",
+        "Khodorkovskiy v. Russia, no. 5829/04, \u00a7\u00a7 106-108, 31 May 2011",
+        "Kokoshkina v. Russia, no. 2052/08, \u00a7 59, 28 May 2009",
+        "Kud\u0142a v. Poland [GC], no. 30210/96, ECHR 2000 XI",
+        "Kyriacou Tsiakkourmas and Others v. Turkey, no. 13320/02, \u00a7 279, 2 June 2015",
+        "Logothetis and Others v. Greece, no. 740/13, \u00a7\u00a7 37-48, 25 September 2014",
+        "Lutokhin v. Russia, no. 12008/03, \u00a7\u00a7 40-43, 8 April 2010",
+        "M.S.S. v. Belgium and Greece [GC], no. 30696/09, \u00a7\u00a7 216-234, ECHR 2011",
+        "Mironovas and Others v. Lithuania, nos. 40828/12, 29292/12, 69598/12, 40163/13, 66281/13, 70048/13 and 70065/13, \u00a7 143, 8 December 2015",
+        "Musaev v. Turkey, no. 72754/11, 21 October 2014",
+        "Neshkov and Others v. Bulgaria, nos. 36925/10, 21487/12, 72893/12, 73196/12, 77718/12 and 9717/13, \u00a7 199, 27 January 2015",
+        "Nurmagomedov v. Russia (dec.), no. 30138/02, 16 September 2004",
+        "Seleznev v. Russia, no. 15591/03, \u00a7\u00a7 34-36, 26 June 2008",
+        "Sergey Babushkin v. Russia, no. 5993/08, \u00a7 34, 28 November 2013",
+        "Shamayev and Others v. Georgia and Russia, no. 36378/02, ECHR 2005 III",
+        "Shkurenko v. Russia (dec.), no. 15010/04, 10 September 2009",
+        "Story and Others v. Malta, nos. 56854/13, 57005/13 and 57043/13, \u00a7 110, 29 October 2015",
+        "Struc v. the Republic of Moldova, no. 40131/09, \u00a7 63, 4 December 2012",
+        "Sudarkov v. Russia, no. 3130/03, \u00a7 40, 10 July 2008",
+        "T. and A. v. Turkey, no. 47146/11, \u00a7 86, 21 October 2014",
+        "Tehrani and Others v. Turkey, nos. 32940/08, 41626/08 and 43616/08, \u00a7 79, 13 April 2010",
+        "Vala\u0161inas v. Lithuania, no. 44558/98, \u00a7\u00a7 103 and 107, ECHR 2001 VIII",
+        "Van der Leer v. the Netherlands, judgment of 21 February 1990, Series A no. 170 A, p. 13, \u00a7 28",
+        "Varga and Others v. Hungary, nos. 14097/12, 45135/12, 73712/12, 34001/13, 44055/13, and 64586/13, \u00a7 74, 10 March 2015",
+        "Visloguzov v. Ukraine, no. 32362/02, \u00a7 45, 20 May 2010",
+        "Walker v. the United Kingdom (dec.), no. 34979/97, ECHR 2000 I",
+        "Yarashonen v. Turkey, no. 72710/11, \u00a7\u00a7 54-66, 24 June 2014",
+        "Zakharkin v. Russia, no. 1555/04, \u00a7 123, 10 June 2010"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "454577",
+    "typedescription": "15"
+}

@@ -1,0 +1,459 @@
+{
+    "__articles": "5;5-1;5-3;6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention);Violation of Article 5 - Right to liberty and security (Article 5-3 - Length of pre-trial detention);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Criminal proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "13919/12",
+    "article": [
+        "6",
+        "13",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-3 - Length of pre-trial detention"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Criminal proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-205140.docx": [
+            {
+                "content": "INTRODUCTION",
+                "elements": [
+                    {
+                        "content": "The case concerns the lawfulness and length of the applicant\u2019s pre-trial detention, the length of the criminal proceedings against her and the lack of effective remedies in that regard.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "introduction"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The applicant was born in 1954 and lives in Sevastopol. She was represented by Mr R.\u00a0Martynovskiy, a lawyer practising in Kyiv.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Government were represented by their Agent, Mr\u00a0I. Lishchyna.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The facts of the case, as submitted by the parties, may be summarised as follows.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 5 September 2007 criminal proceedings were instituted against the applicant on charges of theft. On the same date she was questioned as a suspect. As a preventive measure, she signed an undertaking not to abscond. On 30 October 2007 the criminal case was referred to the court for trial.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 13 April 2009 the applicant was involved in a drunken brawl with her cohabitant at home. During the brawl the applicant allegedly hit the man with a hammer. The man was taken to hospital where he died a few days after the incident.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0On 17 April 2009 the applicant was arrested and questioned in relation to the incident with her cohabitant.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0On 20 April 2009 the Leninskyy District Court of Sevastopol ordered her pre-trial detention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0On 15 June 2009 the Sevastopol City Prosecutor approved the bill of indictment charging the applicant with aggravated infliction of serious bodily harm resulting in death of the victim and referred the case to the District Court for further proceedings. The applicant remained in custody.",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0On 6 July 2009 the Nakhimovskiy District Court of Sevastopol (\u201cthe District Court\u201d) committed the applicant for trial and ruled that the preventive measure in respect of her should remain in place.",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0On 5 August 2011 and 10 May 2012 the District Court dismissed, as unfounded, the applicant\u2019s applications to be released pending trial, considering that there had been no grounds to change the preventive measure.",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0On 20 June 2012 the District Court decided to change the custodial preventive measure in respect of the applicant, accepting as guarantors her relatives. The applicant was released.",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0On 19 September 2012 the prosecutor dropped the charge of theft against the applicant for lack of constituent elements of the crime.",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0On 6 February 2013 the District Court convicted the applicant of the unintentional homicide of her cohabitant and sentenced her to two years\u2019 imprisonment.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "RELEVANT LEGAL FRAMEWORK",
+                "elements": [
+                    {
+                        "content": "14.\u00a0\u00a0Article 156 of the 1960 Code of Criminal Procedure (in force at the relevant time) provided that detention during the pre-trial investigation should not exceed two months. A judge was, however, empowered to extend pre-trial detention following a request to that effect.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "relevant_law"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "Preliminary remarks",
+                        "elements": [
+                            {
+                                "content": "15.\u00a0\u00a0The Government submitted that they had been unable to provide any proper comments on the application because the domestic case file had been at the Nakhimovsky District Court of Sevastopol and, at the time they had been given notice of the application, Ukraine had not controlled Crimea and the city of Sevastopol.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0The applicant submitted that she had provided all the necessary documents to the Court in support of her complaints. She insisted that the electronic copies of the relevant court decisions were also available to the Government in the Unified State Register of Judicial Decisions. She noted that the Government had full access to that official electronic database.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0Having regard to the nature of the complaints, which are the subject of well-established case-law, and the applicant\u2019s submissions, the Court considers it possible to proceed with the case file as it stands (see, to similar effect, Litvinyuk v. Ukraine [Committee], no. 55109/08, \u00a7\u00a7 16 et seq., 1\u00a0March 2018).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a01 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "18.\u00a0\u00a0The applicant complained under Article 5\u00a0\u00a7\u00a01 of the Convention that (a)\u00a0her pre-trial detention after the termination of the investigation in June 2009 had not been based on any court order until 6 July 2009; and (b) that the court decision of 6 July 2009 authorising her further pre-trial detention had been arbitrary.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0The relevant part of Article 5\u00a0\u00a7\u00a01 provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0The Government submitted that the applicant had not exhausted domestic remedies since it had been open to her to appeal against the initial detention order of 20 April 2009.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The applicant contended that her complaint under Article 5\u00a0\u00a7\u00a01 of the Convention concerned other periods of detention which had not been covered by the court order of 20 April 2009.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0The Court reiterates that the only remedies which an applicant is required to exhaust are those that relate to the breaches alleged and which are at the same time available and sufficient (see Aquilina v. Malta [GC], no. 25642/94, ECHR 1999-III). The Government have not shown that the remedy in question could have addressed the substance of the applicant\u2019s complaint which concerned the other period of pre-trial detention. The objection is therefore dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The Court notes that this complaint is neither manifestly ill-founded nor inadmissible on any other grounds listed in Article 35 of the Convention. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0The applicant maintained her complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The Government did not provide any comments on the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0The Court observes that after the expiry of the detention order of 20\u00a0April 2009, the validity of which could not exceed two months (see paragraph 14 above), the applicant\u2019s further detention was\u00a0based on the fact that a bill of indictment had been submitted to the District Court (see paragraph 8 above). The domestic courts did not return to the issue of the applicant\u2019s detention until 6 July 2009, when the District Court prolonged the applicant\u2019s detention without providing any justification (see paragraph\u00a09 above). In that connection, the Court notes that it\u00a0has previously examined similar cases against Ukraine and found them to be incompatible with the principles of legal certainty and protection from arbitrariness under Article 5 \u00a7 1 of the Convention (see Kharchenko v. Ukraine, no. \u00a040107/02, \u00a7\u00a7\u00a071, 73-75 and 98, 10 February 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The Court does not see any reason in the present case to depart from its earlier findings. Accordingly, there has been a violation of Article 5 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 5\u00a0\u00a7\u00a03 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "28.\u00a0\u00a0The applicant complained that the overall length of her pre-trial detention had been excessive. She relied on Article 5 \u00a7 3 of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0The Court observes that the general principles regarding the right to a trial within a reasonable time or to release pending trial, as guaranteed by Article 5 \u00a7 3 of the Convention, have been stated in a number of its previous judgments (see, among many other authorities, Kud\u0142a v. Poland [GC], no.\u00a030210/96, \u00a7 110, ECHR 2000-XI, and McKay v. the United Kingdom [GC], no. 543/03, \u00a7\u00a7 41-44, ECHR 2006-X, with further references).",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0The Court notes that the applicant\u2019s uninterrupted detention lasted for more than three years and two months (see paragraphs 6 and 11 above) and there is nothing in the file to justify such a prolonged period of detention. In Kharchenko (cited above, \u00a7\u00a7 7981 and 99), the Court found a violation in respect of issues similar to those in the present case and pointed to the systemic problem of the excessive length of pre-trial detention in Ukraine. The Court does not see any reason in the present case to depart from its earlier findings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0This complaint is therefore admissible and discloses a breach of Article 5 \u00a7 3 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 6\u00a0\u00a7\u00a01 and Article 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "32.\u00a0\u00a0The applicant complained under Article 6 \u00a7 1 of the Convention that the length of the criminal proceedings against her had been unreasonable. She complained under Article 13 of the Convention that she had not had effective remedies against the excessive delays in the domestic proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0Article 6 \u00a7 1 and Article 13 read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 \u00a7 1",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 13",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicant and the relevant authorities and what was at stake for the applicant in the dispute (see Frydlender v. France [GC], no.\u00a030979/96, \u00a7 43, ECHR 2000-VII).",
+                                "elements": []
+                            },
+                            {
+                                "content": "35.\u00a0\u00a0In the leading case of Merit v. Ukraine (no. 66561/01, \u00a7\u00a7\u00a072-76 and\u00a078-79, 30 March 2004) the Court already found a violation in respect of issues similar to those in the present case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0The Court notes that in the instant case the length of the criminal proceedings exceeded five years (see paragraphs 4 and 13 above), at only one level of jurisdiction. The Court finds no justification for the excessive duration of the criminal proceedings against the applicant, who had to spend the majority of that period in detention. Having examined the available material, the Court concludes that the \u201creasonable time\u201d requirement has not been met in the present case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0The Court further finds that the applicant did not have at her disposal an effective remedy in respect of her complaint about the excessive length of the domestic proceedings (see Merit, cited above, \u00a7\u00a079).",
+                                "elements": []
+                            },
+                            {
+                                "content": "38.\u00a0\u00a0The complaints are therefore admissible and disclose a breach of Article 6 \u00a7 1 and Article 13 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "39.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "40.\u00a0\u00a0The applicant claimed 6,500 euros (EUR) in respect of non-pecuniary damage.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0The Government submitted that the claim was unfounded.",
+                                "elements": []
+                            },
+                            {
+                                "content": "42.\u00a0\u00a0The Court awards the applicant EUR 2,400 euros in respect of non-pecuniary damage, plus any tax that may be chargeable.",
+                                "elements": []
+                            },
+                            {
+                                "content": "43.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 5\u00a0\u00a7\u00a01 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 5\u00a0\u00a7\u00a03 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 6\u00a0\u00a7\u00a01 and Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the respondent State is to pay the applicant, within three months, EUR\u00a02,400 (two thousand four hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 22 October 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Gabriele Kucsko-Stadlmayer",
+            "role": "president"
+        },
+        {
+            "name": "Latif H\u00fcseynov",
+            "role": "judges"
+        },
+        {
+            "name": "Lado Chanturia",
+            "role": "judges"
+        },
+        {
+            "name": "Anne-Marie Dougin",
+            "role": "acting deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF TALALIKHINA v. UKRAINE",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-205140.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:1022JUD001391912",
+    "externalsources": [],
+    "extractedappno": [
+        "13919/12",
+        "55109/08",
+        "25642/94",
+        "40107/02",
+        "30210/96",
+        "543/03",
+        "30979/96",
+        "66561/01"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-205140",
+    "judgementdate": "22/10/2020 00:00:00",
+    "kpdate": "22/10/2020 00:00:00",
+    "kpthesaurus": [
+        "448",
+        "220",
+        "227",
+        "445",
+        "76",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "29",
+    "paragraphs": [
+        "13",
+        "5-3",
+        "6-1",
+        "5-1",
+        "5",
+        "6"
+    ],
+    "parties": [
+        "TALALIKHINA",
+        "UKRAINE"
+    ],
+    "rank": "8192.896484375",
+    "representedby": [
+        "MARTYNOVSKIY R."
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "501428",
+    "typedescription": "15"
+}

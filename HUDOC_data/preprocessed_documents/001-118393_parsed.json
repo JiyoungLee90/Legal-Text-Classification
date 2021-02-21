@@ -1,0 +1,1287 @@
+{
+    "__articles": "6;6+6-3-b;6+6-3-c;6+6-3-d;6-1;6-3-b;6-3-c;6-3-d;7;7-1;11;11-1;11-2;35;41;46;46-2",
+    "__conclusion": "Remainder inadmissible;Violation of Article 11 - Freedom of assembly and association (Article 11-1 - Freedom of peaceful assembly);Violation of Article 7 - No punishment without law (Article 7-1 - Nulla poena sine lege;Nullum crimen sine lege);Violation of Article 6+6-3-b - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Fair hearing;Article 6-3-b - Adequate facilities;Adequate time) (Article 6-3-b - Adequate facilities;Adequate time;Article 6 - Right to a fair trial);Violation of Article 6+6-3-c - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Fair hearing;Article 6-3-c - Defence through legal assistance) (Article 6-3-c - Defence through legal assistance;Article 6 - Right to a fair trial);Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Fair hearing;Article 6-3-d - Examination of witnesses) (Article 6-3-d - Examination of witnesses;Article 6 - Right to a fair trial);Violation of Article 6 - Right to a fair trial (Article 6 - Administrative proceedings;Article 6-1 - Fair hearing);Respondent State to take measures of a general character (Article 46-2 - Legislative amendments);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "20372/11",
+    "article": [
+        "7",
+        "46",
+        "35",
+        "6",
+        "11",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "11",
+            "base_article": "11",
+            "details": [
+                "Article 11-1 - Freedom of peaceful assembly"
+            ],
+            "element": "Violation of Article 11 - Freedom of assembly and association",
+            "type": "violation"
+        },
+        {
+            "article": "7",
+            "base_article": "7",
+            "details": [
+                "Article 7-1 - Nulla poena sine lege",
+                "Nullum crimen sine lege"
+            ],
+            "element": "Violation of Article 7 - No punishment without law",
+            "type": "violation"
+        },
+        {
+            "article": "6-3-b",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Fair hearing",
+                "Article 6-3-b - Adequate facilities",
+                "Adequate time"
+            ],
+            "element": "Violation of Article 6+6-3-b - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-b - Adequate facilities",
+                "Adequate time",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6-3-c",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Fair hearing",
+                "Article 6-3-c - Defence through legal assistance"
+            ],
+            "element": "Violation of Article 6+6-3-c - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-c - Defence through legal assistance",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Fair hearing",
+                "Article 6-3-d - Examination of witnesses"
+            ],
+            "element": "Violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Examination of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Administrative proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 46-2 - Legislative amendments"
+            ],
+            "element": "Respondent State to take measures of a general character",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-118393.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 20372/11) against  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Ukrainian national, Mr Oleksiy Oleksandrovych Vyerentsov (\u201cthe applicant\u201d), on 21 March 2011.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr V.M. Yavorskyy, a lawyer practising in Kyiv. The Ukrainian Government (\u201cthe Government\u201d) were represented by their Agent, Mr N. Kulchytskyy, from the Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged, in particular, that the domestic authorities had violated his rights guaranteed by Article 6 \u00a7\u00a7 1 and 3, Articles 7 and 11 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 9 February 2012 notice of the application was given to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1973 and lives in Lviv.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 17 August 2010 the applicant notified the Lviv City Mayor on behalf of a local human-rights NGO, \u201cVartovi zakonu\u201d, of its intention to hold a demonstration every Tuesday from 10.30 a.m. to 1 p.m. near the building of the Lviv Regional Prosecutor\u2019s Office during the period between 17 August 2010 and 1 January 2011. The aim of the demonstration was to draw attention to the issue of corruption in the prosecution service. The number of possible participants was declared as up to fifty persons. There is no information as to whether any such demonstration was held prior to 12 October 2010 (see below).",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 5 October 2010 the Executive Committee of the Lviv City Council lodged a claim with the  seeking to restrict the demonstration announced by the applicant. On 6 October 2010 the court left the above claim without consideration as being submitted too late. The Executive Committee resubmitted its claim on 11 October with a request for renewal of the time-limit for lodging the claim. The same day the court allowed the request and accepted the claim for examination.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On Tuesday 12 October 2010, further to his previous announcement of 17\u00a0August 2010, the applicant informed the City Council about the demonstration to be held on that particular day. He thus organised a peaceful demonstration near the Lviv Regional Prosecutor\u2019s Office later that day between 11.30 a.m. and 12.40 a.m. About twenty-five persons took part. They were standing on the pavement in front of the building of the Prosecutor\u2019s Office when the police told them that they should remain at a distance of five metres from the building. That would have forced the demonstrators to stand in the road and obstruct the traffic. After some discussion with the police, they crossed the road and stood on a lawn on the opposite side. The police, however, told the demonstrators that they could not stand on the lawn and should move away, which meant standing in the road again and obstructing the traffic, causing temporary traffic-jams.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0Immediately afterwards, the applicant was called aside by two police officers. They grabbed his arms and took him in the direction of the nearby police station. Some of the demonstrators requested the officers to show them their identification and started filming the incident; the officers then let the applicant go.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0On 13 October 2010 the  granted a request by the Executive Committee of the Lviv City Council to prohibit the holding of the pre-announced demonstrations by the applicant\u2019s NGO as from 19\u00a0October 2010. The decision was appealed against.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0According to the applicant, on the same day he was invited to the police station on the pretext that he had failed to appear at a court hearing to which he had been summoned. Upon his arrival at the Galytskyy District Police Station at about 5\u00a0p.m., the police accused the applicant of having committed the administrative offences of malicious disobedience to a lawful order by the police and of breaching the procedure for organising and holding a demonstration on 12\u00a0October. Between 10 p.m. and 11 p.m. the police drew up reports on those administrative offences. The applicant telephoned his lawyer, but the latter was not allowed onto the premises of the police station. At 11 p.m. the applicant was placed in a cell, where he remained without food until 3 p.m. on the next day, 14 October 2010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 14 October 2010, before taking him to the court, the police drew up anew the reports on the administrative offences of malicious disobedience to a lawful order by the police and of breaching the procedure for organising and holding a demonstration. In their reports they referred to provisions of the Code on Administrative Offences and to the procedure for organising and holding meetings, rallies, street marches and demonstrations in the city of  (see paragraphs 21 and 28 to 30 below). The reports were signed by the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0At 3 p.m. the applicant was taken to the Galytskyy District Court. He had no opportunity to study the case-file materials before the court hearing. During the hearing, the court rejected the applicant\u2019s request to be represented by the lawyer of his choosing on the ground that the applicant was a human-rights defender and could defend himself. The applicant\u2019s request to summon and question witnesses and examine a video made during the events of 12\u00a0October 2010 was also rejected by the court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0By a decision of the same day, the court found the applicant guilty of committing the administrative offences of malicious disobedience to a lawful order by the police, and of breaching the procedure for organising and holding a demonstration. The court noted that the applicant had held a street march without the permission of the Lviv City Council and had ignored the lawful demands of the police to stop breaching the peace. He also refused to follow the police to their station but instead called the participants in the demonstration, who shouted and threatened the officers. The applicant denied all accusations. Having heard the applicant and examined the case-file materials, the court concluded that the applicant\u2019s testimony was refuted by the written reports of the police officers and the traffic police officers. The court noted that the said reports had been drawn up correctly and therefore had to be taken into account. It sentenced the applicant to three days of administrative detention starting from 6 p.m. on 14\u00a0October 2010 with reference to the relevant provisions of the Code on Administrative Offences.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0At around 6 p.m. on 17 October 2010 the applicant was released.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 18 October 2010 the applicant appealed against the court\u2019s decision of 14\u00a0October 2010. In his appeal, he complained that he had been found guilty even though he had not committed the alleged offences. He noted that under Article 39 of the Constitution a demonstration could be held subject to notifying the authorities and any restrictions on holding one could be imposed only by a court; no permission had therefore been required. He also noted that he had notified the City Council twice about the gathering in question and at the time it was held there had been no court decision prohibiting it. Therefore, he considered that he had organised the gathering of 12 October 2010 lawfully and the conclusions of the first-instance court that he had \u201cheld a meeting without permission of the City Council\u201d had not been based on law as no such permission was required by domestic law. He further challenged the conclusion of the police that he had notified the authorities about the event only a few hours in advance, claiming that he had already done so on 17 August 2010. Furthermore, in his opinion, even the requirement of notification two days in advance, which had been established by the procedure for organising and holding meetings, rallies, street marches and demonstrations in the city of Lviv and to which the police referred in their reports on administrative offences, was not based on law, as the Constitutional Court in its decision of 19 April 2001 had decided that the procedure for such notification had to be a matter for legislative regulation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0The applicant further maintained in his appeal that, in the absence of any lawful restrictions on holding a demonstration, demands by the police to stop such an event could not be considered lawful and the law did not provide for liability for disobeying unlawful demands of police officers. He finally complained that the first-instance court had violated his right to defend himself as it had refused to allow his lawyer to appear in the case on the ground that the applicant was a human-rights defender and therefore able to defend his rights himself.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0In a supplement to his appeal of 27 October 2010, the applicant complained that his punishment violated Article 11 of the Convention. Referring to provisions of Article 6 \u00a7\u00a7 1 and 3 (b-d) of the Convention, he further complained that his right to defend himself had been violated, and that the first-instance court had refused to question the witnesses and to examine a video record of the peaceful demonstration.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 27 October 2010 the Lviv Regional Court of Appeal examined the applicant\u2019s appeal in the presence of the applicant and his lawyer and rejected it. It summarised the findings of the first-instance court and the arguments of the applicant\u2019s appeal. The court noted that the findings of the first-instance court as to the applicant\u2019s guilt were well-founded and corresponded to the factual circumstances of the case. Those findings, in the court\u2019s opinion, were confirmed by the police reports and other explanations and evidence. In reply to the applicant\u2019s arguments to the effect that there had been no corpus delicti in his actions, the Court of Appeal noted that they should be disregarded, because they were refuted by the body of evidence in the case, without elaborating further on that point. The court referred in its decision to the relevant provisions of the Code on Administrative Offences.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Constitution of ",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0The relevant provisions of the Constitution read, in so far as relevant, as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 22",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cHuman and citizens\u2019 rights and freedoms affirmed by this Constitution are not exhaustive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Constitutional rights and freedoms are guaranteed and shall not be abolished.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The content and scope of existing rights and freedoms shall not be diminished by the enactment of new laws or the amendment of laws that are in force.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 39",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cCitizens have the right to assemble peacefully without arms and to hold meetings, rallies, marches and demonstrations, after notifying the executive authorities and bodies of local self-government beforehand.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Restrictions on the exercise of this right may be established by a court in accordance with the law \u2212 in the interests of national security and public order only \u2212 for the purpose of preventing disturbances or crimes, protecting the health of the population, or protecting the rights and freedoms of other persons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 92",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe following are determined exclusively by the laws of :",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1)\u00a0\u00a0human and citizens\u2019 rights and freedoms; the guarantees of these rights and freedoms; the main duties of the citizen ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Chapter XV",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Transitional Provisions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Laws and other normative acts enacted prior to the entry into force of this Constitution shall apply in so far as they do not conflict with the Constitution of ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Code on Administrative Offences",
+                                "elements": [
+                                    {
+                                        "content": "21.\u00a0\u00a0The relevant provisions of the Code read, in so far as relevant, as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 185",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Malicious disobedience to a lawful order or demand by a police officer, a member of a public body for the protection of public order or the State border, or a military officer",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cMalicious disobedience to a lawful order or demand by a police officer who is carrying out his official duties ... shall be punishable by a fine of between eight and fifteen times the minimum monthly wage, or by correctional labour of between one and two months with a deduction of 20% of earnings; or, in the event that in the particular circumstances of the case and with regard to the offender\u2019s character these measures are found to be insufficient, by administrative detention of up to fifteen days.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 185-1",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Breach of the procedure for organising and holding meetings, rallies, street marches and demonstrations",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA breach of the procedure for organising and holding meetings, rallies, street marches and demonstrations shall be punishable by a reprimand or by a fine of between ten and twenty-five times the minimum monthly wage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The same actions committed within a year of the application of administrative penalties or by the organiser of the meeting, rally, street procession or demonstration shall be punishable by a fine of between twenty and one hundred times the minimum monthly wage, or by correctional labour of one to two months, with a deduction of 20% of earnings; or by administrative detention of up to fifteen days.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 185-2",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Creation of conditions for the organisation and holding of meetings, rallies, street marches and demonstrations, in violation of the established procedure",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe provision by officials of premises, transport, or technical means, or the creating of other conditions for the organisation and holding of meetings, rallies, street marches and demonstrations, in violation of the established procedure, shall be punishable by a fine of between twenty and one hundred times the minimum monthly wage.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0Paragraph 1 of Article 268 of the Code provides, inter alia, for the following rights in respect of a person whose administrative liability is engaged:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA person whose administrative liability is engaged shall be entitled to study the case materials, to give explanations, to present evidence, to make requests, and to have the assistance of a lawyer ... during the examination of the case ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The right to a lawyer in administrative offence proceedings is further guaranteed by Article 271 of the Code.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0According to Article 294 of the Code, a court resolution concerning an administrative offence could be appealed against. The relevant part of the Article provides as to the appellate court\u2019s competence as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA court of appeal shall review the case within the scope of the appeal. The court of appeal is not limited to arguments of the appeal if incorrect application of substantive law or violation of procedural norms has been established during the hearing. The court of appeal can examine new pieces of evidence which have not been examined before, if it finds that the failure to present them to the local court was justified or that the local court rejected them without good reason.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The Decree of the Presidium of the Supreme Soviet of the USSR of 28 July 1988 on the procedure for organising and holding meetings, rallies, street marches and demonstrations in the USSR (the 1988 Decree)",
+                                "elements": [
+                                    {
+                                        "content": "25.\u00a0\u00a0The Decree lays down the procedure for seeking and granting permission to organise and hold meetings, rallies, street marches and demonstrations. The Decree provides inter alia as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe Constitution of the USSR, according to the interests of the people and for the strengthening and development of the socialist system, guarantees to the citizens of the USSR the freedom to hold meetings, rallies, street marches and demonstrations. Exercise of these political freedoms shall be ensured to the working people and their organisations by providing them with public buildings, streets, squares and other places ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0An application to hold a meeting, rally, street procession or demonstration shall be submitted to the executive committee of the appropriate local Soviet of people\u2019s deputies...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0An application to hold a meeting, rally, street procession or demonstration shall be submitted in writing no later than ten days before the planned date of the event in question...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The executive committee of the Soviet of people\u2019s deputies shall examine the application and notify the representatives (organisers) of its decision no later than five days prior to the date of the event mentioned in the application...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0The executive committee of the Soviet of people\u2019s deputies shall ban a meeting, rally, street procession or demonstration if the goal of the event in question is contrary to the Constitution of the USSR, the Constitutions of the Republics of the Union or of the autonomous republics or poses a threat to the public order and safety of citizens.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The USSR Law on approving Decrees of the Presidium of the Supreme Soviet of the USSR amending or supplementing certain USSR legal acts (28 October 1988)",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0By enacting this Law, the Supreme Soviet of the  approved a number of Decrees of the Presidium, including the above-mentioned Decree of 28\u00a0July 1988.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0The Resolution of the Verkhovna Rada of Ukraine of 12\u00a0September 1991 on temporary application of certain legislative acts of the Soviet Union",
+                                "elements": [
+                                    {
+                                        "content": "27.\u00a0\u00a0The Resolution provides in particular:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c ... before the relevant legislation of Ukraine is enacted, the legislation of the USSR shall be applicable within the territory of the republic in respect of issues that have not been regulated by the legislation of Ukraine and in so far as they do not contravene the Constitution and legislation of Ukraine.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "F.\u00a0\u00a0Decision of the Executive Committee of the Lviv City Council of 16 April 2004 on the procedure for organising and holding meetings, rallies, street marches and demonstrations in the city of Lviv",
+                                "elements": [
+                                    {
+                                        "content": "28.\u00a0\u00a0This decision introduced the procedure for organising peaceful gatherings in the city of . According to that decision, the freedom of assembly was guaranteed, but could be restricted by a court for considerations of public health, prevention of crime and disorder and protection of the rights of others. To restrict such a gathering, the Executive Council could apply to a court. Item 7 of the procedure provided that notification about a planned gathering had to be given at least two working days prior to the date on which it was to be held.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0Item 14 of the procedure specified that gatherings could not be held in the road (except street marches and demonstrations), on lawns and flower beds, or in front of the central entrance (not closer than seven metres) and other entrances of administrative buildings. Nor could they be held in case of non-compliance with sanitary norms. Item 16 of the procedure specified that holding a gathering in breach of any of the restrictions imposed by item 14 should be considered a breach of the peace and should engage liability under the law. Item 15 further provided that the organisers should be responsible for ensuring public order during a gathering. Item 20 further provided that the authorities could apply to a court for the purpose of establishing the liability of persons responsible for breaching the procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 1 June 2011 the Lviv City Council annulled the decision of 16\u00a0April 2004 of its Executive Committee and ordered a new procedure on the holding of such gatherings to be drawn up.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "G.\u00a0\u00a0Domestic case-law",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Decision of the Constitutional Court of Ukraine of 19 April 2001 in a case regarding timely notification of peaceful assembly",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0In its decision the  held inter alia:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c1.\u00a0\u00a0... the Ministry of the Interior of Ukraine applied to the Constitutional Court of Ukraine for an official interpretation of the provisions of Article 39 of the Constitution of Ukraine regarding timely notification to executive authorities or bodies of local self-government of planned meetings, rallies, marches or demonstrations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "In this constitutional application it is noted that, under Article 39 of the Constitution of Ukraine, citizens have the right to assemble peacefully without arms and to hold meetings, rallies, marches or demonstrations following prior notification to the executive authorities or bodies of local self-government. However, it is stressed that the current legislation of  does not provide for a specific time-limit within which the executive authorities or bodies of local self-government are to be notified about such actions...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... the  holds as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "1.\u00a0\u00a0The provisions of the first part of Article 39 of the Constitution of Ukraine on the timely notification to the executive authorities or bodies of local self-government about planned meetings, rallies, marches or demonstrations relevant to this constitutional application shall be understood to mean that where the organisers of such peaceful gatherings are planning to hold such an event they must inform the above-mentioned authorities in advance, that is, within a reasonable time prior to the date of the planned event. These time-limits should not restrict the right of citizens under Article 39 of the Constitution of Ukraine, but should serve as a guarantee of this right and at the same time should provide the relevant executive authorities or bodies of local self-government with an opportunity to take measures to ensure that citizens may freely hold meetings, rallies, marches and demonstrations and to protect public order and the rights and freedoms of others.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Specifying the exact deadlines for timely notification with regard to the particularities of [different] forms of peaceful assembly, the number of participants, the venue, at what time the event is to be held, and so on, is a matter for legislative regulation ...\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Review of the practice of the Supreme Court in cases concerning administrative offences (Articles 185-185-2 of the Code on Administrative Offences) of 1\u00a0March 2006",
+                                        "elements": [
+                                            {
+                                                "content": "32.\u00a0\u00a0In its review the Supreme Court noted inter alia as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c... No legislation has been enacted in  establishing a mechanism for fulfilling the right to freedom of peaceful assembly. According to the Resolution of the Verkhovna Rada of Ukraine of 12\u00a0September 1991 no. 1545-XII on temporary application of certain legislative acts of the Soviet Union, the normative acts of the USSR remain in force, applying in order of legal rank, for example, the Decree of the Presidium of the Supreme Soviet of the USSR of 28 July 1988 on the procedure for organising and holding meetings, rallies, street marches and demonstrations in the USSR ...\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Information note of April 2012 by the Higher Administrative Court of Ukraine on a study and summary of the jurisprudence of administrative courts applying the relevant legislation and deciding cases concerning the exercise of the right to peaceful assembly (meetings, rallies, marches, demonstrations, etc.) in 2010 and 2011",
+                                        "elements": [
+                                            {
+                                                "content": "33.\u00a0\u00a0The note mentioned, inter alia, as follows:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c...The legislation of  does not currently have a special law regulating public relations in the sphere of peaceful assembly. One of the urgent problems to be settled by such a law is the time-limits for notifying the authorities of a planned peaceful gathering in order to ensure that it is held in safe conditions. Article 39 of the Constitution of Ukraine, while providing that the executive authorities or bodies of local self-government must be notified in a timely manner that a peaceful gathering is to be held, does not establish specific deadlines for such notification. The uncertainty of this matter results in the relevant constitutional norm being applied inconsistently and thus requires legal regulation ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... The judicial practice contains instances of cases restricting the right to peaceful assembly being decided on the basis of the procedure for organising and holding meetings, rallies, street marches and demonstrations laid down by the Decree of the Presidium of the Supreme Soviet of the USSR of 28 July 1988 No. 9306-XI on the procedure for organisation and holding of meetings, rallies, street marches and demonstrations in the USSR. This approach is incorrect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Since the norms of this Decree establish the procedure for authorising (registering) peaceful assembly and empower the authorities and bodies of local self-governments to ban such events, whereas the norms of the Constitution of Ukraine provide for a procedure whereby the authorities are notified that a gathering is to be held and provides that only the courts have power to ban a peaceful gathering, the above-mentioned legal act should not be applied by courts when deciding such cases ...\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Decisions of administrative courts",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0In the judgment of the Babushkinsky District Court of Dnipropetrovsk of 30\u00a0March 2007 in the case of S. v. the Executive Committee of the Dnipropetrovsk City Council concerning the adoption of regulations on holding mass events in the city of Dnipropetrovsk, the court held, inter alia, that the procedures for exercising the right to freedom of assembly and the procedures and grounds for restricting the right were not regulated by Ukrainian legislation and therefore the Council had no grounds for adopting the impugned regulation, which would interfere with the rights of citizens.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0In another case the , in a judgment of 29\u00a0November 2011, restricted the right of several NGOs and private persons to hold a demonstration on account, in particular, of their failure to notify the Kyiv City State Administration of their intention ten days in advance. The court referred to the 1988 Decree. The participants appealed against that judgment. On 16 May 2012 the Kyiv Administrative Court of Appeal quashed the judgment of the first-instance court. In its decision the Court of Appeal noted that the 1988 Decree conflicted with the Constitution as it required the organisers to seek permission to hold a demonstration and authorised the executive authorities to ban such an event, whereas Article\u00a039 of the Constitution provided that the authorities should be notified that a demonstration was being planned, and empowered only the judicial authorities to place restrictions on the organisation thereof. It also noted that in its decision of 19 April 2001 (see paragraph 31 above) the  had not referred to the 1988 Decree as a normative act which should apply in  to the legal relations under consideration. The court also noted that the file contained no documents proving that notification about the demonstration less than 10 days in advance had not allowed the police to ensure public order during the demonstration and that the holding of such an event could create a real risk of riots or crimes or endanger the health of the population and imperil the rights and freedoms of others. It concluded that the judgment of the first-instance court was incompatible with Article\u00a039 of the Constitution and Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0In another case the Kyiv Administrative Court of Appeal, in a decision of 11 October 2012, quashed the judgment of the , which had restricted the freedom of peaceful assembly in respect of a number of political and non-governmental organisations upon an application by the Kyiv City State Administration. In its decision the Administrative Court of Appeal noted that, in deciding the case, the first-instance court had had regard to the provisions of the 1988 Decree, whereas since 1996 the question of holding peaceful gatherings had been regulated by the Constitution. The court further stated that the 1988 Decree conflicted with the Constitution as it provided for a procedure for seeking permission to hold a demonstration and that the Decree concerned the holding of such events in a non-existent country (\u201cthe USSR\u201d), regulated relations between the citizens of the USSR and the executive committees of the Soviets of People\u2019s Deputies, and considered demonstrations on the basis of their compatibility with the Constitution of the USSR, the constitutions of the union and the autonomous republics, that is, non-existent constitutions of non-existent subjects. The court also noted that under the Ukrainian Constitution human rights and freedoms, and the relevant safeguards, could be defined only by the laws of .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0According to the Ukrainian Helsinki Human Rights Union in 2012 the Ukrainian authorities sought to restrict peaceful gatherings in 358 cases and in 90% of the cases they succeeded.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "H.\u00a0\u00a0Information letter of the Ministry of Justice of Ukraine of 26\u00a0November 2009",
+                                "elements": [
+                                    {
+                                        "content": "38.\u00a0\u00a0At the request of a Ukrainian MP, the Ministry of Justice sent an information letter to an NGO in Kyiv. The text of this letter can be found on the official website of the Ukrainian Parliament.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0The relevant parts of the letter read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... It should be noted that the current legislation on the organisation and holding of peaceful demonstrations is not perfect. For example, today the organisation and conduct of peaceful demonstrations is regulated by the Decree of the Presidium of the Supreme Soviet of the USSR of 28 July 1988 N 9306 on the organisation and holding of meetings, rallies, street marches and demonstrations in the USSR (hereinafter \u2013 \u201cthe Decree\u201d) which, in accordance with paragraph 1 of Chapter XV - Transitional Provisions of the Constitution of Ukraine \u2212 is effective in so far as it does not contradict the Constitution of Ukraine. The above Decree defined, in particular, which persons were authorised to contact the executive bodies of village, settlement and town councils to notify them of proposed peaceful demonstrations; requirements for the content of such notifications; requirements for the executive bodies of village, settlement and town councils in ensuring conditions for the holding of a peaceful demonstration; etc.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Thus, the requirements as to the organisation and holding of peaceful demonstrations, the time-limit for notification to be given to executive or local government bodies, the documents to be attached to the application for holding the event, etc. are currently not regulated by law ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Given the inadequacy of the current state of the legal regulation of the procedure for the organisation and conduct of peaceful demonstrations, which results in problems in the application of law, since the legal norms are not formulated with sufficient clarity and are subject to ambiguous interpretation by those wishing to have recourse to them (including bodies of local government), only legislative regulation of the procedure for organising and holding such demonstrations will eliminate the negative practices that have arisen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Because of the need for legislative support for the practical application of the aforesaid right defined by Article 39 of the Constitution of Ukraine - to assemble peacefully without arms and to hold meetings, rallies, demonstrations, pickets and marches - the Ministry of Justice has drafted the Law of Ukraine on the organisation and conduct of peaceful demonstrations, which was submitted by the Government of Ukraine to the Verkhovna Rada of Ukraine (registration N 2450 from 6 May 2008) and was approved by the Parliament on its first reading on 3 June 2009 ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0The draft law mentioned in the letter is currently awaiting its second reading in Parliament.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0INTERNATIONAL MATERIALS",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Guidelines on Freedom of Peaceful Assembly of the Organisation for Security and Co-operation in Europe (2007)",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The Guidelines provide in so far as relevant as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section A",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Advance notice. The legal provisions concerning advance notice should require a notice of intent rather than a request for permission. The notification process should not be onerous or bureaucratic. The period of notice should not be unnecessarily lengthy, but should still allow adequate time prior to the notified date of the assembly for the relevant state authorities to plan and prepare for the event, and for the completion of an expeditious appeal to a tribunal or court should the legality of any restrictions imposed be challenged. If the authorities do not promptly present any objections to a notification, the organizers of a public assembly should be able to proceed with the planned activity in accordance with the terms notified and without restriction.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Section B, Interpretative Notes",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The legal framework",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0Regulating freedom of assembly in domestic law. Freedom of peaceful assembly should be accorded constitutional protection that ought to contain, at a minimum, a positive statement of both the right and the obligation to safeguard it. There should also be a constitutional provision that guarantees fair procedures in the determination of the rights contained therein. Constitutional provisions, however, cannot provide for specific details or procedures. As such, general constitutional provisions can be abused and, of themselves, afford unduly wide discretion to the authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0Domestic laws regulating freedom of assembly must be consistent with the international instruments ratified by that state, and the legitimacy of domestic laws will be judged accordingly. Domestic laws must also be interpreted and implemented in conformity with the relevant international and regional jurisprudence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Legality",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0Any restrictions imposed must have a formal basis in primary law. The law itself must be sufficiently precise to enable an individual to assess whether or not his or her conduct would be in breach of the law, and to foresee what the consequences of such breaches would likely be. The incorporation of clear definitions in domestic legislation is vital to ensuring that the law remains easy to understand and to apply, and that regulation does not encroach upon activities that ought not to be regulated. Definitions should therefore be neither too elaborate nor too broad.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Advance notification",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0It is common for the regulatory authority to require advance written notice of public assemblies. Such a requirement is justified by the state\u2019s positive duty to put in place any necessary arrangements to facilitate freedom of assembly and protect public order, public safety, and the rights and freedom of others. The UN Human Rights Committee has held that a requirement to give notice, while a de facto restriction on freedom of assembly, is compatible with the permitted limitations laid down in Article 21 of the ICCPR. Similarly, the European Commission on Human Rights, in Rassemblement Jurassien (1979), stated that: \u201cSuch a procedure is in keeping with the requirements of Article 11(1), if only in order that the authorities may be in a position to ensure the peaceful nature of the meeting, and accordingly does not as such constitute interference with the exercise of the right.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0The notification process should not be onerous or bureaucratic, as this would undermine the freedom of assembly by discouraging those who might wish to hold an assembly. Furthermore, individual demonstrators should not be required to provide advance notification to the authorities of their intention to demonstrate. Where a lone demonstrator is joined by another or others, then the event should be treated as a spontaneous assembly...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "93.\u00a0\u00a0The period of notice should not be unnecessarily lengthy (normally no more than a few days), but should still allow adequate time prior to the notified date of the assembly for the relevant state authorities to plan and prepare for the event (deploy police officers, equipment, etc.), for the regulatory body to give a prompt official response to the initial notification, and for the completion of an expeditious appeal to a tribunal or court should the legality of any restrictions imposed be challenged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0The official receiving the notice should issue a receipt explicitly confirming that the organizers of the assembly are in compliance with the applicable notice requirements. The notice should also be communicated immediately to all state organs involved in the regulatory process, including the relevant police authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Notification, not authorization",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "95.\u00a0\u00a0Legal provisions concerning advance notice should require a notice of intent rather than a request for permission. Although lawful in several jurisdictions, a permit requirement accords insufficient value to both the fundamental freedom to assemble and to the corresponding principle that everything not regulated by law should be presumed to be lawful. Those countries where a permit is required are encouraged to amend domestic legislation so as to require notification only. It is significant that, in a number of jurisdictions, permit procedures have been declared unconstitutional. Any permit system must clearly prescribe in law the criteria for issuance of a permit. In addition, the criteria should be confined to considerations of time, place, and manner, and should not provide a basis for content-based regulation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0If the authorities do not respond promptly to a notification, the organizers of a public assembly may proceed with the activities according to the terms notified without restriction. Even in countries where authorization rather than notification is still required, authorization should be presumed granted if a response is not given within a reasonable time.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Opinion of the  Commission",
+                                "elements": [
+                                    {
+                                        "content": "42.\u00a0\u00a0At its 64th plenary session (21-22 October 2005) the European Commission for Democracy through Law (the Venice Commission) adopted an opinion interpreting the OSCE/ODIHR guidelines on drafting laws on freedom of assembly with regard to the regulation of public meetings, including the requirement of advance notice of demonstrations in public places:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c29.\u00a0\u00a0Establishing a regime of prior notification of peaceful assemblies does not necessarily extend to an infringement of the right. In fact, in several European countries such regimes do exist. The need for advance notice generally arises in respect of certain meetings or assemblies \u2013 for instance, when a procession is planned to take place on the highway, or a static assembly is planned to take place on a public square \u2013 which require the police and other authorities to enable it to occur and not to use powers that they may validly have (for instance, of regulating traffic) to obstruct the event.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The Venice Commission also emphasised that the regime of prior notification must not be such as to frustrate the intention of the organisers to hold a peaceful demonstration, and thus indirectly restrict their rights.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE GOVERNMENT\u2019S REQUEST FOR THE APPLICATION TO BE STRUCK OUT UNDER ARTICLE 37 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "44.\u00a0\u00a0On 18 September 2012 the Government submitted a unilateral declaration requesting the Court to strike out the application.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The applicant objected to the proposal.",
+                                "elements": []
+                            },
+                            {
+                                "content": "45.\u00a0\u00a0Having studied the terms of the Government\u2019s unilateral declaration, the Court considers, in the particular circumstances of the applicant\u2019s case, that it does not provide a sufficient basis for concluding that respect for human rights as defined in the Convention and its Protocols does not require it to continue its examination of the case (see, mutatis mutandis, Rantsev v.\u00a0Cyprus and Russia, no. 25965/04, \u00a7\u00a7 194-202, ECHR 2010 (extracts)). In finding so, the Court also takes into account that the issues raised in the present application under Articles 7 and 11 of the Convention have not been previously examined by this Court in respect of .",
+                                "elements": []
+                            },
+                            {
+                                "content": "46.\u00a0\u00a0This being so, the Court rejects the Government\u2019s request to strike the application out of its list of cases under Article 37 of the Convention and will accordingly pursue its examination of the admissibility and merits of the case.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 11 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "47.\u00a0\u00a0Under Article 11 the applicant complained that the interference with his right to freedom of peaceful assembly was not prescribed by law and was not necessary in a democratic society. The provision relied upon reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the state.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "49.\u00a0\u00a0The Government submitted in general terms that the applicant\u2019s case had been examined by domestic courts at two levels of jurisdiction and they had not found any violation of the applicant\u2019s rights. Therefore, they considered that there had been no violation of the applicant\u2019s rights under this head.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The applicant maintained his original complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court reiterates that the expression \u201cprescribed by law\u201d in Article 11 of the Convention not only requires that the impugned measure should have some basis in domestic law, but also refers to the quality of the law in question. The law should be accessible to the persons concerned and formulated with sufficient precision to enable them \u2013 if need be, with appropriate advice \u2013 to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see, for example, The Sunday Times v. the United Kingdom (no. 1), 26 April 1979, \u00a7 49, Series A no. 30; Rekv\u00e9nyi v. Hungary [GC], no. 25390/94, \u00a7 34, ECHR 1999III; Rotaru v. Romania [GC], no. 28341/95, \u00a7 55, ECHR 2000V; and Maestri v. Italy [GC], no. 39748/98, \u00a7 30, ECHR 2004I).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court notes that the applicant was sentenced to three-day administrative arrest under Articles 185 and 185-1 of the Code on Administrative Offences. The latter provision prescribed a penalty for breaches of the procedure for organising and holding demonstrations. Therefore, the interference had a basis in domestic law. The Court has no reason to doubt that the Code was accessible. It remains, therefore, to be determined whether the application of this provision was foreseeable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court reiterates that its power to review compliance with domestic law is limited, as it is in the first place for the national authorities to interpret and apply that law (see Mkrtchyan v. Armenia, no. 6562/03, \u00a7\u00a043, 11 January 2007). From the materials of the case and the applicant\u2019s submissions it is clear that there is no single view on the applicability of the 1988 Decree and the existence of a clear and foreseeable procedure for organising and holding peaceful demonstrations. The practice of the domestic courts also reveals inconsistencies in this sphere (see paragraph 33 above). It is true that the Constitution of Ukraine provides for some general rules as to the possible restrictions on the freedom of assembly, but those rules require further elaboration in the domestic law. The only existing document establishing such a procedure is the 1988 Decree, whose provisions are not generally accepted as the valid procedure for holding demonstrations and which provides, as is confirmed in the practice of the domestic courts (see paragraphs 34 to 36 above), for a different procedure from the one outlined in the Constitution. Indeed, whilst the Ukrainian Constitution requires advance notification to the authorities of an intention to hold a demonstration and stipulates that any restriction thereon can be imposed only by a court, the 1988 Decree, drafted in accordance with the Constitution of the USSR of 1978, provides that persons wishing to hold a peaceful demonstration have to seek permission from the local administration which is also entitled to ban any such demonstration. From the preamble of the Decree it is clear that it had been intended for a very different purpose, namely for only certain categories of individuals to be provided by the administration with facilities to express their views in favour of a particular ideology, this in itself being incompatible with the very essence of the freedom of assembly guaranteed by the Ukrainian Constitution and the Convention. As found by a domestic court (see paragraph 36 above), demonstrations under the 1988 Decree were considered on the basis of their compatibility with \u201cnon-existent constitutions of non-existent subjects\u201d. Therefore, it cannot be concluded that the \u201cprocedure\u201d referred to in Article 185-1 of the Code on Administrative Offences was formulated with sufficient precision to enable the applicant to foresee, to a degree that was reasonable in the circumstances, the consequences of his actions (see, mutatis mutandis, Mkrtchyan, ibid.). Nor do the procedures introduced by the local authorities to regulate the organisation and holding of demonstrations in their particular regions appear to provide a sufficient legal basis, for the same reason \u2013 there was no general Act of Parliament on which such local documents could be based and the domestic courts moreover doubted the validity of such local decisions (see paragraph 34 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The Court further observes that, admittedly, the Resolution of the Ukrainian Parliament on temporary application of certain legislative acts of the Soviet Union refers to temporary application of Soviet legislation and no law has yet been enacted by the Ukrainian Parliament regulating the procedure for holding peaceful demonstrations, although Articles 39 and 92 of the Constitution clearly require that such a procedure be established by law, that is, by an Act of the Ukrainian Parliament. Whilst the Court accepts that it may take some time for a country to establish its legislative framework during a transitional period, it cannot agree that a delay of more than twenty years is justifiable, especially when such a fundamental right as freedom of peaceful assembly is at stake. The Court thus concludes that the interference with the applicant\u2019s right to freedom of peaceful assembly was not prescribed by law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0Having reached this conclusion, the Court does not need to verify whether the other two requirements (legitimate aim and necessity of the interference) set forth in Article 11 \u00a7 2 have been complied with.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0Accordingly, there has been a violation of Article 11 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 7 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "58.\u00a0\u00a0Under Article 7 of the Convention, the applicant complains that he was found guilty of breaching the procedure for the holding of demonstrations, despite the fact that such procedure was not clearly defined in the domestic law. The said Article reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0This article shall not prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "60.\u00a0\u00a0The Government maintained the same argument as set out above (see paragraph 49).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The applicant maintained his original complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court reiterates that the guarantee enshrined in Article 7, which is an essential element of the rule of law, occupies a prominent place in the Convention system of protection, as is underlined by the fact that no derogation from it is permissible under Article 15 of the Convention in time of war or other public emergency. It should be construed and applied, as follows from its object and purpose, in such a way as to provide effective safeguards against arbitrary prosecution, conviction and punishment (see S.W. v. the United Kingdom, 22 November 1995, \u00a7 34, Series A no. 335B, and C.R. v. the United Kingdom, 22 November 1995, \u00a7 33, Series A no.\u00a0335C). Accordingly, it embodies, in general terms, the principle that only the law can define a crime and prescribe a penalty (nullum crimen, nulla poena sine lege) (see Kokkinakis v. Greece, 25 May 1993, \u00a7 52, Series\u00a0A no. 260A). While it prohibits in particular extending the scope of existing offences to acts which previously were not criminal offences, it also lays down the principle that the criminal law must not be extensively construed to an accused\u2019s detriment, for instance by analogy (see Co\u00ebme\u00a0and Others v. Belgium, nos. 32492/96, 32547/96, 32548/96, 33209/96 and 33210/96, \u00a7 145, ECHR 2000-VII; Achour v. France [GC], no. 67335/01, \u00a7 41, ECHR 2006IV; and Kononov v. Latvia [GC], no.\u00a036376/04, \u00a7 185, ECHR 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0When speaking of \u201claw\u201d Article 7 alludes to the very same concept as that to which the Convention refers elsewhere when using that term, a concept which comprises statute law as well as case-law (see, mutatis mutandis, The Sunday Times (no. 1), cited above, \u00a7 47; Kruslin v. France, 24 April 1990, \u00a7 29, Series A no. 176A; and Casado Coca v. Spain, 24\u00a0February 1994, \u00a7 43, Series A no. 285A). In this connection, the Court has always understood the term \u201claw\u201d in its \u201csubstantive\u201d sense, not its \u201cformal\u201d one. It has thus included both enactments of lower rank than statutes and unwritten law (see, in particular, mutatis mutandis, De\u00a0Wilde,\u00a0Ooms and Versyp v. Belgium, 18 June 1971, \u00a7 93, Series A no.\u00a012). In sum, the \u201claw\u201d is the provision in force as the competent courts have interpreted it (see Leyla \u015eahin v.  [GC], no.\u00a044774/98, \u00a7 88, ECHR 2005-XI).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0Furthermore, the term \u201claw\u201d implies qualitative requirements, including those of accessibility and foreseeability (see, among other authorities, Cantoni v. France, 15 November 1996, \u00a7 29, Reports of Judgments and Decisions 1996V; Co\u00ebme and Others, cited above, \u00a7 145; and E.K. v. Turkey, no. 28496/95, \u00a7 51, 7 February 2002). These qualitative requirements must be satisfied as regards both the definition of an offence and the penalty that the offence in question carries (see Achour [GC], cited above, \u00a7 41). An individual must know from the wording of the relevant provision and, if need be, with the assistance of the courts\u2019 interpretation thereof, what acts and omissions will render him criminally responsible and what penalty will be imposed for the act and/or omission in question (see, among other authorities, Cantoni, cited above, \u00a7 29). Furthermore, a law may still satisfy the requirement of \u201cforeseeability\u201d where the person concerned has to take appropriate legal advice to assess, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see, among other authorities, Cantoni, cited above, \u00a7 35, and Achour [GC], cited above, \u00a7 54).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0The Court has acknowledged in its case-law that, however clearly drafted a legal provision may be, in any system of law, including criminal law, there is an inevitable element of judicial interpretation. There will always be a need for elucidation of doubtful points and for adaptation to changing circumstances. Again, whilst certainty is highly desirable, it may bring in its train excessive rigidity and the law must be able to keep pace with changing circumstances. Accordingly, many laws are inevitably couched in terms which, to a greater or lesser extent, are vague and whose interpretation and application are questions of practice (see, mutatis mutandis, The Sunday Times (no. 1), cited above, \u00a7 49, and Kokkinakis, cited above, \u00a7 40). The role of adjudication vested in the courts is precisely to dissipate such interpretational doubts as remain (see, mutatis mutandis, Cantoni, cited above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0In the circumstances of the present case, the Court notes that the applicant was punished under Articles 185 and 185-1 of the Code on Administrative Offences, which established liability for disobedience to lawful orders of the police and for breaches of the procedure for holding demonstrations. The legal basis for the applicant\u2019s punishment was therefore the law on administrative offences as applicable at the material time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The Court reiterates its earlier findings that although the offence of a breach of the procedure for holding demonstrations was provided for by the Code on Administrative Offences, the basis of that offence, that is the said procedure, was not established in the domestic law with sufficient precision (see paragraphs 54 and 55 above). In the absence of clear and foreseeable legislation laying down the rules for the holding of peaceful demonstrations, his punishment for breaching an inexistent procedure was incompatible with Article 7 of the Convention. In these circumstances, it is not necessary to examine separately whether the police orders could be considered lawful and therefore foreseeable from the viewpoint of the same provision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "There has accordingly been a violation of Article 7 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7\u00a7 1 AND 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "68.\u00a0\u00a0Referring to Article 6 \u00a7 1, the applicant complained that the court decisions in his case were ill-founded and that the courts had failed to respond to his pertinent arguments. Furthermore, he had had no time to prepare his defence, to examine witnesses or to obtain the assistance of a lawyer as guaranteed by Article 6 \u00a7 3 (b), (c) and (d) of the Convention:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government maintained the same argument as set out above (see paragraph 49).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant maintained his original complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court reiterates that the requirements of Article 6 \u00a7 3 are to be seen as particular aspects of the right to a fair trial guaranteed by Article 6 \u00a7\u00a01. The Court will therefore examine the relevant complaints under both provisions taken together (see, among many other authorities, F.C.B.\u00a0v.\u00a0Italy, 28 August 1991, \u00a7 29, Series A no. 208B, and Poitrimol v.\u00a0France, 23 November 1993, \u00a7 29, Series A no. 277A).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The right to adequate time and facilities to prepare one\u2019s defence",
+                                        "elements": [
+                                            {
+                                                "content": "73.\u00a0\u00a0The applicant maintained that the reports on administrative offences had been drawn up just several hours before the court hearing and he had not been allowed to study any other case-file materials prior to that hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0The Government made no observations on the merits.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0The Court reiterates that Article 6 \u00a7 3 (b) guarantees the accused \u201cadequate time and facilities for the preparation of his defence\u201d and therefore implies that the substantive defence activity on his behalf may comprise everything which is \u201cnecessary\u201d to prepare for the main trial. The accused must have the opportunity to organise his defence in an appropriate way and without restriction as to the opportunity to put all relevant defence arguments before the trial court and thus to influence the outcome of the proceedings (see Can v. Austria, 30 September 1985, \u00a7 53, Series A no. 96; Connolly v. the United Kingdom (dec.), no. 27245/95, 26 June 1996; and Mayzit v. Russia, no. 63378/00, \u00a7 78, 20 January 2005). Furthermore, the facilities available to everyone charged with a criminal offence should include the opportunity to acquaint himself for the purposes of preparing his defence with the results of investigations carried out throughout the proceedings (see C.G.P. v. the Netherlands, (dec.), no. 29835/96, 15\u00a0January 1997, and Foucher v. France, 18 March 1997, \u00a7\u00a7 26-38, Reports 1997II). The issue of the adequacy of the time and facilities afforded to an accused must be assessed in the light of the circumstances of each particular case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0In the present case, the Court notes that despite the lack of a clear indication of the exact lapse of time between the drawing up of the administrative offence reports and the examination of the applicant\u2019s administrative case, it is evident that this period was not longer than a few hours. Even if it is accepted that the applicant\u2019s case was not a complex one, the Court doubts that the circumstances in which the applicant\u2019s trial was conducted were such as to enable him to familiarise himself properly with and to assess adequately the charge and evidence against him and to develop a viable legal strategy for his defence. The further appeal proceedings could not remedy the situation, given that, by the time the appellate court examined the case, the applicant had already served his administrative detention. Furthermore, the appellate court failed to reply to the applicant\u2019s complaint under this head. Therefore, the Court concludes that the applicant was not afforded adequate time and facilities for the preparation of his defence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0There has accordingly been a violation of Article\u00a06 \u00a7 1 of the Convention taken together with Article 6 \u00a7 3 (b) of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The right to defend oneself through legal assistance of one\u2019s own choosing",
+                                        "elements": [
+                                            {
+                                                "content": "78.\u00a0\u00a0The Court emphasises that, although not absolute, the right of everyone charged with a criminal offence to be effectively defended by a lawyer, assigned officially if need be, is one of the fundamental features of fair trial (see Krombach v. France, no. 29731/96, \u00a7 89, ECHR 2001II). The very fact of restricting access of a detained suspect to a lawyer may prejudice the rights of the defence even where no incriminating statements are obtained as a result (see, for example, Dayanan v. Turkey, no. 7377/03, \u00a7\u00a7 32-33, 13 October 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0In the present case, the right to legal representation was guaranteed to the applicant by the Code on Administrative Offences and the applicant expressly requested to be represented by a lawyer of his choosing. The domestic court, however, refused that request on the ground that the applicant was a human rights defender himself. This fact does not necessarily mean, however, that every human rights defender is a lawyer and, even if such a person is a lawyer, like the applicant, that he was not vulnerable or in need of an advocate\u2019s support in his procedural capacity as a suspect. If the applicant considered that he needed legal assistance and the domestic legislation guaranteed him the right to a lawyer regardless of his own legal background, the refusal of the domestic authorities to allow his legal representation appears to be unlawful and arbitrary. The further appeal proceedings, in which the applicant was represented by the lawyer, could not remedy the situation, given that, by the time the appellate court examined the case, the applicant had already served his administrative detention. Furthermore, the appellate court failed to reply to the applicant\u2019s complaint under this head too.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0In these circumstances the Court concludes that there has been a violation of Article 6 \u00a7 1 taken together with Article 6 \u00a7 3 (c) of the Convention in the present case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The right to examine or have examined witnesses",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The Court reiterates that all the evidence must normally be produced at a public hearing, in the presence of the accused, with a view to adversarial argument. There are exceptions to this principle, but they must not infringe the rights of the defence. It may prove necessary in certain circumstances to refer to statements made during the investigative stage. If the defendant has been given an adequate and proper opportunity to challenge such statements, either when made or at a later stage, their admission in evidence will not in itself contravene Article 6 \u00a7\u00a7 1 and 3 (d). The corollary of that, however, is that the defendant\u2019s conviction should not be based either solely or to a decisive extent on statements which the defence has not been able to challenge (see Zhoglo v. Ukraine, no.\u00a017988/02, \u00a7\u00a7 38-40, 24 April 2008, with further references; and AlKhawaja and Tahery v. the United Kingdom [GC], nos.\u00a026766/05 and 22228/06, \u00a7\u00a7 118-119, ECHR 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0In the circumstances of the present case, the applicant was the only person questioned by the court. Otherwise, the court findings were based exclusively on the written submissions, principally reports of the police. Neither the police officers themselves, nor the participants in the demonstration who had eye-witnessed the events of 12 October 2010 and had filmed them had been summoned and questioned by the court, despite the applicant\u2019s request for their appearance. The appeal proceedings, in which the applicant and his lawyer had been present, could not remedy the situation, given that, by the time the appellate court examined the case, the applicant had already served his administrative detention. Furthermore, the appellate court failed to call any witnesses and to reply to the applicant\u2019s complaint under this head.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The Court accordingly concludes that there has been a violation of Article 6 \u00a7 1 taken together with Article 6 \u00a7 3 (d) of the Convention in the present case too.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Reasoning of the domestic courts in the applicant\u2019s case",
+                                        "elements": [
+                                            {
+                                                "content": "84.\u00a0\u00a0The Court notes that, according to its established case-law reflecting a principle related to the proper administration of justice, judgments of courts and tribunals should adequately state the reasons on which they are based. The extent to which this duty to give reasons applies may vary according to the nature of the decision and must be determined in the light of the circumstances of the case (see Garc\u00eda Ruiz v. Spain [GC], no.\u00a030544/96, \u00a7 26, ECHR 1999I, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The Court also reiterates that its duty, under Article 19 of the Convention, is to ensure the observance of the engagements undertaken by the Contracting Parties to the Convention. In particular, it is not its function to deal with errors of fact or of law allegedly committed by a national court unless and in so far as they may have infringed rights and freedoms protected by the Convention (see Schenk v. Switzerland, 12 July 1988, \u00a7\u00a04546, Series A no. 140, and Teixeira de Castro v. Portugal, 9 June 1998, \u00a7 34, Reports 1998IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0In that context, regard must also be had, in particular, to whether the applicant was given the opportunity of challenging the authenticity of the evidence and of opposing its use. The quality of the evidence is also taken into account, including whether the circumstances in which it was obtained cast doubt on its reliability or accuracy (see Jalloh v. Germany [GC], no.\u00a054810/00, \u00a7 96, ECHR 2006IX).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0In the present case, the applicant\u2019s arguments before the judicial authorities concerned both the factual circumstances and the legal issues of his case. In particular, in his appeal he advanced a number of legal arguments concerning the legislative regulation of the procedure for holding peaceful demonstrations, mainly complaining that he had been accused of holding one without permission, even though such permission was not required by law. In the Court\u2019s opinion, these arguments were both important and pertinent. Furthermore, the legal framework for the exercise of freedom of assembly in , which has been examined in detail in the present case, clearly demonstrates that the answers to his arguments were not obvious and self-evident. Nevertheless, the domestic courts, in particular the Court of Appeal, which examined the applicant\u2019s written arguments on the issue, ignored them altogether, simply stating that they were refuted by the (unnamed) case-file materials and the body of evidence in the case. Neither did it answer to the applicant\u2019s complaints about a violation of his procedural rights as guaranteed by Article 6 \u00a7 3 (b-d) of the Convention (see paragraphs 76, 79 and 82 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "88.\u00a0\u00a0The Court has previously held, in the context of its examination of the fairness of criminal proceedings, that by ignoring a specific, pertinent and important point made by the accused, the domestic courts had fallen short of their obligations under Article 6 \u00a7 1 of the Convention (see Nechiporuk and Yonkalo v.\u00a0Ukraine, no. 42310/04, \u00a7 280, 21 April 2011). It observes a similar issue in the present case, where that requirement was not met.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "89.\u00a0\u00a0Having regard to the above considerations, the Court concludes that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the lack of adequate reasoning in the domestic courts\u2019 decisions.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "90.\u00a0\u00a0The applicant also complained that there had been no grounds for his arrest on 13 October 2010. Furthermore, his arrest had been conducted in violation of the domestic law and he had been taken to the police station under a false pretext. He also complained that the domestic courts had not taken into account the time of his actual arrest and therefore he had spent an additional twenty-six hours in detention. The applicant maintained that the domestic legislation did not provide for compensation for unlawful detention in cases like his. He complained that he had had no effective domestic remedy by which to challenge the lawfulness of his arrest and detention after the three-day period of administrative arrest had expired. He referred to Article 5 \u00a7\u00a7 1 (a) and (c) and 5 and Article 13 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "91.\u00a0\u00a0Lastly, making his complaint under Article 7, the applicant referred to Article 18 as well, but did not provide any explanations whatsoever as to the relevance of this provision to his above complaint or any other complaint.",
+                                "elements": []
+                            },
+                            {
+                                "content": "92.\u00a0\u00a0 The Court finds that the applicant\u2019s submissions and the case-file materials in its possession do not disclose any appearance of a violation of the above provisions. It follows that this part of the application is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 46 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "93.\u00a0\u00a0Before examining the claims for just satisfaction submitted by the applicant under Article 41 of the Convention, and having regard to the circumstances of the case, the Court considers it necessary to determine what consequences may be drawn from Article 46 of the Convention for the respondent State. Article 46 of the Convention reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "94.\u00a0\u00a0The Court reiterates that Article 46 of the Convention, as interpreted in the light of Article 1, imposes on the respondent State a legal obligation to implement, under the supervision of the Committee of Ministers, appropriate general and/or individual measures to secure the right of the applicant which the Court has found to have been violated. Such measures must also be taken in respect of other persons in the applicant\u2019s position, notably by solving the problems that have led to the Court\u2019s findings (see Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 249, ECHR 2000-VIII; Christine Goodwin v. the United Kingdom [GC], no.\u00a028957/95, \u00a7 120, ECHR 2002-VI; Lukenda v. Slovenia, no. 23032/02, \u00a7\u00a094, ECHR 2005-X; and S. and Marper v. the United Kingdom [GC], nos.\u00a030562/04 and 30566/04, \u00a7 134, ECHR 2008-...). This obligation has been consistently emphasised by the Committee of Ministers in the supervision of the execution of the Court\u2019s judgments (see, for example, ResDH(97)336, IntResDH(99)434, IntResDH(2001)65 and ResDH(2006)1). In theory it is not for the Court to determine what measures of redress may be appropriate for a respondent State to take in accordance with its obligations under Article 46 of the Convention. However, the Court\u2019s concern is to facilitate the rapid and effective suppression of a shortcoming found in the national system of protection of human rights (see Driza v.\u00a0Albania, no. 33771/02, \u00a7 125, ECHR 2007XII (extracts)).",
+                                "elements": []
+                            },
+                            {
+                                "content": "95.\u00a0\u00a0In the present case the Court found violations of Articles 11 and 7 which stem from a legislative lacuna concerning freedom of assembly which remains in the Ukrainian legal system for more than two decades. It has been the Court\u2019s practice, when discovering a shortcoming in the national legal system, to identify its source in order to assist the Contracting States in finding an appropriate solution and the Committee of Ministers in supervising the execution of judgments (see, for example, Maria Violeta L\u0103z\u0103rescu v. Romania, no. 10636/06, \u00a7 27, 23 February 2010; Driza, cited above, \u00a7\u00a7 122-126; and \u00dcrper and Others v. Turkey, nos. 14526/07, 14747/07, 15022/07, 15737/07, 36137/07, 47245/07, 50371/07, 50372/07 and 54637/07, \u00a7\u00a7 51 and 52, 20 October 2009). Having regard to the structural nature of the problem disclosed in the present case, the Court stresses that specific reforms in Ukraine\u2019s legislation and administrative practice should be urgently implemented in order to bring such legislation and practice into line with the Court\u2019s conclusions in the present judgment and to ensure their compliance with the requirements of Articles 7 and 11 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "96.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "97.\u00a0\u00a0The applicant claimed 6,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0The Government disagreed. They maintained that there was no causal link between the applicant\u2019s allegations and the applicant\u2019s claim. They further considered the amount claimed as being excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0The Court considers that the applicant suffered non-pecuniary damage which cannot be compensated for by the mere finding of a violation of his Convention rights. Having regard to the circumstances of the case and ruling on an equitable basis, as required by Article 41, the Court awards the amount claimed in respect of non-pecuniary damage in full.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "100.\u00a0\u00a0The applicant did not submit any claim under this head. Accordingly, the Court makes no award.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "101.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Rejects the Government\u2019s request to strike the application out of the list;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the complaints under Articles 6, 7 and 11 of the Convention admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 11 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 7 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (b) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention on account of the lack of adequate reasoning in the domestic courts\u2019 decisions;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, EUR 6,000 (six thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 11 April 2013, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Mark Villiger",
+            "role": "president"
+        },
+        {
+            "name": "Angelika Nu\u00dfberger",
+            "role": "judges"
+        },
+        {
+            "name": "Bo\u0161tjan M. Zupan\u010di\u010d",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Andr\u00e9 Potocki",
+            "role": "judges"
+        },
+        {
+            "name": "Paul Lemmens",
+            "role": "judges"
+        },
+        {
+            "name": "Ale\u0161 Pejchal",
+            "role": "judges"
+        },
+        {
+            "name": "Claudia Westerdiek",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF VYERENTSOV v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-118393.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2013:0411JUD002037211",
+    "externalsources": [],
+    "extractedappno": [
+        "20372/11",
+        "25965/04",
+        "25390/94",
+        "28341/95",
+        "39748/98",
+        "6562/03",
+        "32492/96",
+        "32547/96",
+        "32548/96",
+        "33209/96",
+        "33210/96",
+        "67335/01",
+        "36376/04",
+        "44774/98",
+        "28496/95",
+        "27245/95",
+        "63378/00",
+        "29835/96",
+        "29731/96",
+        "7377/03",
+        "17988/02",
+        "26766/05",
+        "22228/06",
+        "30544/96",
+        "54810/00",
+        "42310/04",
+        "39221/98",
+        "41963/98",
+        "28957/95",
+        "23032/02",
+        "30562/04",
+        "30566/04",
+        "33771/02",
+        "10636/06",
+        "14526/07",
+        "14747/07",
+        "15022/07",
+        "15737/07",
+        "36137/07",
+        "47245/07",
+        "50371/07",
+        "50372/07",
+        "54637/07"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [
+        "Art. 185 and 185-1 of the Code of Administrative Offences",
+        "Decree of the Presidium of the Supreme Soviet of the USSR of 28 July 1988 on the procedure for organising and holding meetings, rallies, street marches and demonstrations in the USSR",
+        "Art. 22, 39 and 92 of the Constitution"
+    ],
+    "itemid": "001-118393",
+    "judgementdate": "11/04/2013 00:00:00",
+    "kpdate": "11/04/2013 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "13",
+        "136",
+        "11",
+        "12",
+        "86",
+        "122",
+        "288",
+        "290",
+        "291",
+        "145",
+        "151",
+        "317",
+        "525",
+        "14",
+        "216",
+        "26",
+        "126",
+        "243",
+        "225"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "6-3-c",
+        "7",
+        "6-3-d",
+        "46-2",
+        "7-1",
+        "6-3-b",
+        "11-1",
+        "46",
+        "11-2",
+        "6-1",
+        "35",
+        "6",
+        "11",
+        "41"
+    ],
+    "parties": [
+        "VYERENTSOV",
+        "UKRAINE"
+    ],
+    "rank": "978.536926269531",
+    "representedby": [
+        "YAVORSKYY V.M."
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [
+        "Achour v. France [GC], no. 67335/01, ECHR 2006-IV",
+        "Al-Khawaja and Tahery v. the United Kingdom [GC], nos. 26766/05 and 22228/06, \u00a7\u00a7 118-119, ECHR 2011",
+        "C.G.P. v. the Netherlands, (dec.), no. 29835/96, 15 January 1997",
+        "C.R. v. the United Kingdom, 22 November 1995, \u00a7 33, Series A no. 335-C",
+        "Can v. Austria, 30 September 1985, \u00a7 53, Series A no. 96",
+        "Cantoni v. France, 15 November 1996, Reports of Judgments and Decisions 1996-V",
+        "Casado Coca v. Spain, 24 February 1994, \u00a7 43, Series A no. 285-A",
+        "Christine Goodwin v. the United Kingdom [GC], no. 28957/95, \u00a7 120, ECHR 2002-VI",
+        "Co\u00ebme and Others v. Belgium, nos. 32492/96, 32547/96, 32548/96, 33209/96 and 33210/96, ECHR 2000-VII",
+        "Connolly v. the United Kingdom (dec.), no. 27245/95, 26 June 1996",
+        "Dayanan v. Turkey, no. 7377/03, \u00a7\u00a7 32-33, 13 October 2009",
+        "De Wilde, Ooms and Versyp v. Belgium, 18 June 1971, \u00a7 93, Series A no. 12",
+        "Driza v. Albania, no. 33771/02, ECHR 2007-XII (extracts)",
+        "E.K. v. Turkey, no. 28496/95, \u00a7 51, 7 February 2002",
+        "F.C.B. v. Italy, 28 August 1991, \u00a7 29, Series A no. 208-B",
+        "Foucher v. France, 18 March 1997, \u00a7\u00a7 26-38, Reports 1997-II",
+        "Garc\u00eda Ruiz v. Spain [GC], no. 30544/96, \u00a7 26, ECHR 1999-I",
+        "Jalloh v. Germany [GC], no. 54810/00, \u00a7 96, ECHR 2006-IX",
+        "Kokkinakis v. Greece, 25 May 1993, Series A no. 260-A",
+        "Kononov v. Latvia [GC], no. 36376/04, \u00a7 185, ECHR 2010",
+        "Krombach v. France, no. 29731/96, \u00a7 89, ECHR 2001-II",
+        "Kruslin v. France, 24 April 1990, \u00a7 29, Series A no. 176-A",
+        "Leyla Sahin v. Turkey [GC], no. 44774/98, \u00a7 88, ECHR 2005-XI",
+        "Lukenda v. Slovenia, no. 23032/02, \u00a7 94, ECHR 2005-X",
+        "Maestri v. Italy [GC], no. 39748/98, \u00a7 30, ECHR 2004-I",
+        "Maria Violeta Lazarescu v. Romania, no. 10636/06, \u00a7 27, 23 February 2010",
+        "Mayzit v. Russia, no. 63378/00, \u00a7 78, 20 January 2005",
+        "Mkrtchyan v. Armenia, no. 6562/03, 11 January 2007",
+        "Nechiporuk and Yonkalo v. Ukraine, no. 42310/04, \u00a7 280, 21 April 2011",
+        "Poitrimol v. France, 23 November 1993, \u00a7 29, Series A no. 277-A",
+        "Rantsev v. Cyprus and Russia, no. 25965/04, \u00a7\u00a7 194-202, ECHR 2010 (extracts)",
+        "Rekv\u00e9nyi v. Hungary [GC], no. 25390/94, \u00a7 34, ECHR 1999-III",
+        "Rotaru v. Romania [GC], no. 28341/95, \u00a7 55, ECHR 2000-V",
+        "S. and Marper v. the United Kingdom [GC], nos. 30562/04 and 30566/04, \u00a7 134, ECHR 2008-...",
+        "S.W. v. the United Kingdom, 22 November 1995, \u00a7 34, Series A no. 335-B",
+        "Schenk v. Switzerland, 12 July 1988, \u00a7 45-46, Series A no. 140",
+        "Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 249, ECHR 2000-VIII",
+        "Teixeira de Castro v. Portugal, 9 June 1998, \u00a7 34, Reports 1998-IV",
+        "The Sunday Times v. the United Kingdom (no. 1), 26 April 1979, Series A no. 30",
+        "\u00dcrper and Others v. Turkey, nos. 14526/07, 14747/07, 15022/07, 15737/07, 36137/07, 47245/07, 50371/07, 50372/07 and 54637/07, \u00a7\u00a7 51 and 52, 20 October 2009",
+        "Zhoglo v. Ukraine, no. 17988/02, \u00a7\u00a7 38-40, 24 April 2008"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "368631",
+    "typedescription": "15"
+}

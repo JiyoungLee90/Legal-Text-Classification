@@ -1,0 +1,1667 @@
+{
+    "__articles": "2;2-1;3;5;5-1;13;13+2;13+3;34;38;41",
+    "__conclusion": "No violation of Article 38 - Examination of the case-{general} (Article 38 - Obligation to furnish all necessary facilities);Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-1 - Liberty of person;Security of person);Violation of Article 13+2 - Right to an effective remedy (Article 2-1 - Life;Article 2 - Right to life);Violation of Article 13+3 - Right to an effective remedy (Article 3 - Inhuman treatment;Prohibition of torture);No violation of Article 34 - Individual applications (Article 34 - Hinder the exercise of the right of application);Non-pecuniary damage - award",
+    "applicability": "",
+    "appno": "69481/01",
+    "article": [
+        "3",
+        "38",
+        "2",
+        "34",
+        "5",
+        "13",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "38",
+            "base_article": "38",
+            "details": [
+                "Article 38 - Obligation to furnish all necessary facilities"
+            ],
+            "element": "No violation of Article 38 - Examination of the case-{general}",
+            "type": "no-violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Life"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Liberty of person",
+                "Security of person"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Life",
+                "Article 2 - Right to life"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 2-1 - Life",
+                "Article 2 - Right to life"
+            ],
+            "element": "Violation of Article 13+2 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 3 - Inhuman treatment",
+                "Prohibition of torture"
+            ],
+            "element": "Violation of Article 13+3 - Right to an effective remedy",
+            "type": "violation"
+        },
+        {
+            "article": "34",
+            "base_article": "34",
+            "details": [
+                "Article 34 - Hinder the exercise of the right of application"
+            ],
+            "element": "No violation of Article 34 - Individual applications",
+            "type": "no-violation"
+        },
+        {
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-76493.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 69481/01) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Fatima Sergeyevna Bazorkina (\u201cthe applicant\u201d), on 11 April 2001.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by lawyers from the Stichting Russian Justice Initiative (\u201cSRJI\u201d), an NGO based in the Netherlands with a representative office in . The Russian Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0P.\u00a0Laptev, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that her son \u201cdisappeared\u201d after being apprehended by Russian military servicemen in February 2000 in . She referred to Articles 2, 3, 5, 6, 8, 13, 34 and 38 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The application was allocated to the First Section of the Court (Rule\u00a052 \u00a7\u00a01 of the Rules of Court). Within that Section, the Chamber that would consider the case (Article 27 \u00a7 1 of the Convention) was constituted as provided in Rule 26 \u00a7 1.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 1 November 2004 the Court changed the composition of its Sections (Rule 25 \u00a7 1), but this case remained with the Chamber constituted within former First Section.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0By a decision of 15 September 2005, the Court declared the application admissible.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0The applicant and the Government each filed further written observations (Rule 59 \u00a7 1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0A hearing took place in public in the Human Rights Building, , on 8 December 2005 (Rule 59 \u00a7 3).",
+                        "elements": []
+                    },
+                    {
+                        "content": "There appeared before the Court:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0for the Government\nMr\u00a0Laptev, Representative of the Russian Federation at the European Court of Human Rights,\u00a0\tAgent,\u00a0\nMr\u00a0Berestnev, \nMr Devyatko, \tCounsels,\nMrs\u00a0Saprykina, \tAdviser;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0for the applicant\nMr Solvang, Director of SRJI,\nMr Nikolaev,\nMrs Straisteanu,\nMrs Ezhova, \tAdvisers.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Court heard addresses by Mr Solvang, Mr Nikolaev, Ms Straisteanu and Ms Ezhova for the applicant and by Mr Laptev and Mr Devyatko for the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "9.\u00a0\u00a0The applicant was born in 1938 and lives in the town of , Ingushetia. The complaint is also brought in respect of the applicant\u2019s son, Khadzhi-Murat Aslanbekovich Yandiyev, born in 1975.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The facts",
+                                "elements": [
+                                    {
+                                        "content": "10.\u00a0\u00a0The facts surrounding the disappearance of the applicant\u2019s son were partially disputed. In view of this the Court requested that the Government produce copies of the entire investigation file opened in relation to Khadzhi-Murat Yandiyev\u2019s disappearance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0The parties\u2019 submissions on the facts concerning the circumstances of the apprehension and disappearance of the applicant\u2019s son and the ensuing investigations are set out in Sections 1 and 2 below. A description of the materials submitted to the Court is contained in Part B.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Circumstances of the applicant\u2019s son\u2019s disappearance",
+                                        "elements": [
+                                            {
+                                                "content": "12.\u00a0\u00a0The applicant\u2019s son, Khadzhi-Murat Aslanbekovich Yandiyev, was born on 27 August 1975. Until August 1999 he was a student at the . The applicant submits that he left the University in August 1999 before completing his final year of studies. One of his classmates told the applicant that her son had travelled to . The applicant believes that he wanted to find his father, who had apparently gone there. She has not heard from her son since August 1999.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "13.\u00a0\u00a0In autumn 1999 hostilities began in . After  was captured by federal forces in late January - early February 2000, a large group of Chechen fighters left the city and moved south-west towards the mountains. En route the fighters, and anyone leaving the city with them, encountered mine fields. Many people sustained injuries, especially to their feet and legs. Many of the wounded were treated in a hospital in the  (also called Yermolovka), which was taken by the Russian military in early February 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0On 2 February 2000 the applicant saw her son on a news broadcast about the capture of Alkhan-Kala by the Russian forces. He was wearing camouflage uniform and was being interrogated by a Russian officer, who was also wearing camouflage.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "15.\u00a0\u00a0The applicant later obtained a full copy of the recording, made by a reporter for the NTV (Russian Independent TV) and CNN who had entered Alkhan-Kala with the federal troops. A copy of that recording and a transcript of the interrogation have been submitted to the Court by the applicant.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "16.\u00a0\u00a0The recording shows the applicant\u2019s son, who is standing near a bus with wounded men. The bus is surrounded by Russian soldiers and the wounded are being removed from the bus. A passing soldier pushes the applicant\u2019s son on his right leg; he winces with pain. He is speaking in a low voice and his words are barely audible. The officer questioning him is speaking in a harsh voice. The following is a translation of the relevant parts of the transcript:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cOfficer: - Turn your face [to me]! Turn it properly. Who are you?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee answers something, but the words are not audible.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Officer: - What did you say? From Ingushetia? - / The detainee says something about Nazran/ - From Nazran? Where do you live in Nazran?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Another serviceman who is standing nearby orders: Hands out of your pockets!",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...The officer takes something - identity documents - from the pocket of the detainee\u2019s camouflage jacket, and inspects them, asking questions. The answers are not audible.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Officer: - What is your last name? What is your first and patronymic name?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee: - Born on 27 August 1975.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Another officer: - Alexander Andreyevich, we need to get the convoy group ready. We have to take all three buses there.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The officer takes something out of a small leather packet, wrapped in cellophane, that was among the detainee\u2019s papers [apparently, a compass], and shows it to somebody: - There, you see! A solid, trained fighter.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "He puts the device back into the packet and wraps it in cellophane.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Another officer asks: - Where did you leave your arms?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee, shown with his head to the side: - My weapons were left over there.... /Says something about a mine field. /",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The second officer repeats: In a mine field?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...The officer, pointing at his camouflage jacket: - From which soldier did you take this? From a federal soldier? From [one of] your soldiers?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee says something to the effect that it was given to him. He says something about \u201cfighting against\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The officer: - Fighting against whom? Fighting against such [people] as here? Why did you come here? People are dying because of you!",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee: - Because of me?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The officer: - Of course!",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee: - People are dying...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The officer: - Take him away, damn it, finish him off there, shit, - that\u2019s the whole order. Get him out of here, damn it. Come on, come on, come on, do it, take him away, finish him off, shoot him, damn it...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The detainee is led away by two soldiers\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0The video also shows Russian military equipment and other wounded detainees. They are taken out of the buses or remain inside; many have their feet and legs wrapped in bandages or cellophane. The video also contains interviews with the villagers of Alkhan-Kala, who say that the village was shelled on the previous day.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0The CNN journalists who filmed the interrogation later visited the applicant in Ingushetia and identified the interrogating officer as Colonel-General Alexander Baranov.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Investigation into the disappearance",
+                                        "elements": [
+                                            {
+                                                "content": "19.\u00a0\u00a0After seeing her son on the news broadcast on 2 February 2000, the applicant immediately began searching for him. She has had no news of him since.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0She applied on numerous occasions to prosecutors at various levels, to the Ministry of the Interior and the Ministry of Justice, to the Special Envoy of the Russian President for rights and freedoms in the , and others. She also personally visited detention centres and prisons in Chechnya and other regions in the Northern Caucasus.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0Acting on the applicant\u2019s behalf, the NGOs Human Rights Watch and Memorial and the Head of the OSCE mission in  forwarded requests for information about her son to various bodies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0The applicant received very little substantive information from official bodies about the investigation into her son\u2019s disappearance. On several occasions she received copies of letters from various authorities directing her complaints to the Military Prosecutor\u2019s Office for the Northern Caucasus, to the Grozny District Prosecutor\u2019s Office and to the military prosecutor of military unit no. 20102.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0On 18 August 2000 the Main Prisons Directorate of the Ministry of Justice (GUIN, \u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u042e\u0441\u0442\u0438\u0446\u0438\u0438 \u0420\u0424, \u0413\u0423\u0418\u041d) informed the applicant that her son was not being held in any prison in . The applicant was advised to apply to the Ministry of the Interior.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 1 November 2000 the Special Envoy of the Russian President for rights and freedoms in the Chechen Republic replied to the Head of the OSCE mission in , stating that the applicant\u2019s son was listed as no.\u00a0363 in the list of missing persons compiled by his office following citizens\u2019 complaints. On 1 November 2000 his office had forwarded a request for information in respect of Yandiyev\u2019s whereabouts to the Prosecutor General.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 24 November 2000 the military prosecutor of military unit no.\u00a020102 in Khankala, where the headquarters of the Russian military forces in  were based, returned the applicant\u2019s complaint to the Grozny District Department of the Interior, with a copy to the applicant. The accompanying letter stated that there were no grounds to apply to the military prosecutor\u2019s office, because the \u201cattached materials did not corroborate the involvement of any military servicemen in the disappearance of the applicant\u2019s son\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0On 30 November 2000 the military prosecutor of military unit no.\u00a020102 replied to the NGO Memorial that, following examination of its submissions, it had been concluded that \u201cYandiyev\u2019s corpse had never been discovered and it did not follow from the videotape that he had been killed, as the videotape did not contain such facts.\u201d Consequently, it was decided, under Article 5 part 1 of the Code of Criminal Procedure, not to open a criminal investigation on account of the absence of a criminal act. In a similar reply to Memorial, dated 30 December 2000, the same military prosecutor stated that there were no grounds to conclude that military servicemen had been responsible for the actions shown in the videotape.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0On 8 December 2000 the Chechnya Prosecutor informed the Special Envoy about progress being made in several cases, including that involving a videotape \u201cwhere an officer of the federal forces orders the execution of a wounded fighter. The latter was identified by his relatives as Yandiyev Kh. S. The said videotape has been forwarded to the military prosecutor of military unit no.\u00a020102 for checking and investigation under Article 109 of the Criminal Procedural Code\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0On 18 December 2000 the  bureau of Human Rights Watch sent a letter to the General Prosecutor with the following questions:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c(1) Was a criminal investigation opened into Yandiyev\u2019s disappearance?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(2) Was the identity of the interrogating officer established?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(3) Was he questioned? If not, why not?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(4) Were the whereabouts of Yandiyev established, in particular if he was still alive?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "(5) Was the interrogating officer or anybody else charged with Yandiyev\u2019s \u201cdisappearance\u201d?",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "If a criminal investigation into Yandiyev\u2019s \u201cdisappearance\u201d and ill-treatment has not been opened, please open such an investigation.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On 29 December 2000 and 24 January 2001 the Military Prosecutor\u2019s Office for the Northern Caucasus informed the applicant and Human Rights Watch that their complaints had been forwarded to the military prosecutor\u2019s office of military unit no.\u00a020102.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0In February 2001 two individuals, I. and B., submitted affidavits to the head of the Karabulak District Department of the Interior, in which they stated that on 2 February 2000 Khadzhi-Murat Yandiyev had been detained in Alkhan-Kala by federal troops. The affidavits did not contain the addresses of I. and B. and did not explain how they became aware of Yandiyev\u2019s detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0On 13 February 2001 the Chechnya Prosecutor wrote to Memorial acknowledging receipt of the videotape depicting Khadzhi-Murat Yandiyev\u2019s interrogation. The videotape had been forwarded to military unit no.\u00a020102 for the purposes of the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0On 13 and 27 February 2001 the military prosecutor of military unit no.\u00a020102 forwarded all requests pertaining to the case to the Grozny District Department of the Interior.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 16 May 2001 Human Rights Watch wrote to the Military Prosecutor\u2019s Office for the Northern Caucasus, asking the prosecutor to quash the decision by the military prosecutor of military unit no.\u00a020102 not to open a criminal investigation. The letter referred to the contents of the videotape and to the fact that Yandiyev had not been seen subsequently. It again requested that the officers who appeared in the recording be identified and questioned. In reply, on 31 May 2001 the Military Prosecutor\u2019s Office wrote that an inquiry would be conducted. On 22 June 2001 it informed Human Rights Watch that all the documents pertaining to the case had been transferred to the Grozny District Department of the Interior.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0On 14 July 2001 a prosecutor from the Chechnya Prosecutor\u2019s Office opened criminal investigation no.\u00a019112 into the abduction of Khadzhi-Murat Yandiyev by unidentified persons in February 2000 in Alkhan-Kala. The decision referred to Article 126 part 2 of the Criminal Code (kidnapping).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0On 17 August 2001 Human Rights Watch again sent a letter to the Chief Military Prosecutor. On 4 September 2001 he replied that the criminal case was being investigated by the local prosecutors\u2019 office in , which would inform the interested parties of its progress.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The applicant submits that in December 2001 she was visited at her home by certain persons who stated that they were carrying out a population census. They asked her and her neighbours about her son and whether he had returned home. The next day they returned and told her that they were from the Karabulak Town Prosecutor\u2019s Office and that they had received documents from the Chechnya Prosecutor\u2019s Office pertaining to her son\u2019s disappearance. The applicant confirmed that her son was missing and that she had had no news of him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0On 23 October 2002 the SRJI asked the Chechnya Prosecutor for an update on the investigation into Yandiyev\u2019s \u201cdisappearance\u201d and possible killing. No response was given.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0On 20 December 2002 the SRJI submitted a similar request for information to the General Prosecutor\u2019s Office. On 4 February 2003 the General Prosecutor\u2019s Office informed the SRJI that its letter had been forwarded to the Prosecutor\u2019s Office for the Southern Federal Circuit. In March 2003 that Office informed the SRJI that its request had been forwarded to the Chechnya Prosecutor\u2019s Office.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0On 15 April 2003 the SRJI wrote to the military prosecutor of military unit no.\u00a020102 and asked, with reference to its letter of 30\u00a0November 2000, for a copy of the decision by which he had refused to open a criminal investigation into the applicant\u2019s complaint about her son\u2019s possible murder. In June 2003 the military prosecutor responded that all documents related to the case had been forwarded to the Grozny District Temporary Department of the Interior (VOVD) on 24 November 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0On 7 December 2003 the investigator of the Grozny District Prosecutor\u2019s Office informed the applicant that the investigation in criminal case no.\u00a019112 had been resumed on 6 December 2003. On 6\u00a0February 2004 the applicant was informed by the same Office that the investigation had been adjourned for failure to identify the culprits. The applicant was informed that it was possible to appeal that decison.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0The applicant submits that on 30 March 2004 she was visited at her home in Karabulak by two persons from the Grozny District Prosecutor\u2019s Office who again questioned her about her missing son and about other members of her family. The applicant submitted a description of her son, but explained that she had run out of photographs of him because she had previously submitted them to various offices, including the prosecution service. The applicant signed the record of the questioning.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The applicant referred to the Human Rights Watch report of March 2001 entitled \u201cThe \u2018Dirty War\u2019 in : Forced Disappearances, Torture and Summary Executions\u201d which reports Khadzhi-Murat Yandiyev\u2019s story and his \u201cdisappearance\u201d after detention by Russian servicemen.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0In November 2003 the application was communicated to the Russian Government, which were requested at that time to submit a copy of investigation file no.\u00a019112. In March 2004 the Government submitted 80\u00a0pages out of about 200. The Court on two occasions reiterated its request for the remaining documents, to which the Government responded that their disclosure would be in violation of Article 161 of the Code of Criminal Procedure, would compromise the investigation and would prejudice the rights and interests of the participants in the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0In September 2005 the Court declared the application admissible and reiterated its request for the remaining documents. In November 2005 the Government submitted a copy of the entire criminal investigation file, comprising five volumes (about 900 pages) and three volumes of attachments (about 700 pages). In addition, in January and March 2006 the Government submitted two more volumes of the latest documents from the criminal investigation file (comprising about 470 pages).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The investigation established that the applicant\u2019s son had been detained on 2 February 2000 in Alkhan-Kala, together with other members of illegal armed groups. Immediately after arrest he was handed over to servicemen from the GUIN for transportation to the pre-trial detention centre in . Khadzhi-Murat Yandiyev did not arrive at Chernokozovo and his subsequent whereabouts could not be established. As of July 2001 Yandiyev was placed on the search list as a missing person, and as of October 2004 his name was placed on the federal wanted list. In October 2004 a criminal investigation in respect of Khadzhi-Murat Yandiyev was opened by the military prosecutor of the United Group Alliance (UGA) under Article 208 of the Criminal Code \u2013 participation in an illegal armed group.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The applicant and her husband were questioned on several occasions and granted victim status in the proceedings. The investigation also identified and questioned a large number of eye-witnesses to and participants in the events, including servicemen from the army, the interior troops and the GUIN, journalists and local residents. Several witnesses confirmed that they had observed the encounter between Yandiyev and Colonel-General Baranov and that the latter\u2019s words had been regarded by everyone present not as an order but as \u201ca figure of speech\u201d aimed at calming down Yandiyev, who had behaved in an aggressive and provocative manner and could have inspired disobedience among the detainees. After questioning Yandiyev had been taken away from the bus containing the other wounded and had been placed against the fence; he had remained there for some time. The file also contains a statement by General Nedobitko, who had been in charge of the operation and who denied that any summary executions had taken place. All servicemen present were questioned as witnesses. No one was charged with a crime.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Colonel-General Baranov was questioned twice about the events and stated that he had not given an order to \u201cshoot\u201d Yandiyev, but that he had intended to stop his aggressive behaviour and to prevent possible disturbances that could have ignited violence and entail further casualties among the arrested insurgents and the federal forces.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0Several expert reports were carried out on the video recording in question, in order to establish its authenticity; to establish whether the conversation between General Baranov and Yandiyev could be regarded as a proper order given within the chain of command; to evaluate the psychological state of the persons depicted; and to conclude whether the General had insulted Yandiyev. The videotape was found to be authentic. An expert report also concluded that the words used by General Baranov could not have been regarded as a proper order issued to his subordinates within the military chain of command because of its inappropriate form and contents.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0The investigation did not establish the fate of Yandiyev following his transfer to the GUIN servicemen on 2 February 2000. Various detention centres, military and law-enforcement bodies denied that his name had ever been on their records. Several men who were detained in Alkhan-Kala on 2\u00a0February 2000 stated that they had not seen Yandiyev after his detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0Between July 2001 and February 2006 the investigation was adjourned and reopened six times. The case was transferred from the Chechnya Prosecutor\u2019s Office to the Grozny District Prosecutor\u2019s Office and then to the military prosecutor of the UGA. The majority of documents in the case file are dated after December 2003.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Documents submitted by the parties",
+                                "elements": [
+                                    {
+                                        "content": "51.\u00a0\u00a0The parties submitted numerous documents concerning the investigation into the disappearance. The main documents of relevance are as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Documents from the investigation file",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0Decision to open a criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0On 14 July 2001 a prosecutor from the Chechnya Prosecutor\u2019s Office opened a criminal investigation into the abduction of Khadzhi-Murat Yandiyev, born in 1975, by unidentified persons in February 2000 in Alkhan-Kala. The decision referred to Article 126 part 2 of the Criminal Code (kidnapping). On the same date the criminal case was forwarded to the Grozny District Prosecutor\u2019s Office for investigation, which accepted it on 19 July 2001. The case file was assigned no.\u00a019112. In May 2004 the investigation was transferred to the military prosecutor of the UGA, where it was assigned case file no. 34/00/0020-04D.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0Statements by the applicant",
+                                "elements": [
+                                    {
+                                        "content": "54.\u00a0\u00a0The file contains the applicant\u2019s letter of 30 May 2001 to the General Prosecutor, in which she stated the known facts concerning her son\u2019s disappearance. She stated that, having seen her son on a news broadcast on 2 February 2000, she immediately set out for Alkhan-Kala. She reached there only on 6\u00a0February 2000, and was told that her son, who was listed among 105 detainees, had been transferred to Tolstoy-Yurt. On 8\u00a0February 2000 she arrived at Tolstoy-Yurt, where she was told that at 3 p.m. that day the detainees had been transferred to the Chernokozovo pre-trial detention centre. At Chernokozovo she was told that her son was not in their custody and that his name was not on their lists. The applicant had no further news of her son, and requested the prosecutor\u2019s office to establish his whereabouts and to inform her if he had been charged with any crimes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0On 20 January 2002 the applicant was questioned in her home town. Her brief statement repeated the circumstances of her son\u2019s disappearance and reiterated that she had had no news of him. On the same day the applicant was granted victim status in the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0Later the applicant was again questioned on several occasions. Her husband, Khadzhi-Murat Yandiyev\u2019s father, was also questioned and confirmed her previous statements.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "c)\u00a0\u00a0Statements by witnesses to Yandiyev\u2019s detention",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0The investigators questioned the witnesses to the encounter between General Baranov and Khadzhi-Murat Yandiyev, including servicemen and journalists.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0In December 2003 and January 2004 the investigation questioned several officers from special police forces (OMON) from the  region. They submitted, almost word for word, that from November 1999 to March 2000 they had been on mission in Alkhan-Kala and that in early February 2000 an operation had been carried out in the village. Their detachment was being held in reserve, but they were aware that a large group of fighters had entered the village, and several thousand federal troops, with support from aviation and armoured vehicles, had captured a large number of fighters \u2013 possibly about 700 persons. The operation was under the command of General-Major Nedobitko, the commander of a division of the interior troops, and was visited by Major-General Vladimir Shamanov, the head of the Western Zone Alignment. The Federal Security Service (FSB) and members of the military intelligence dealt with the detainees.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0Several army servicemen stated in September and October 2005 that, on 2 February 2000, a group of senior officers headed by Colonel-General Baranov, who at the time had headed the UGA staff, had arrived in Alkhan-Kala by helicopter. They came because a large group of fighters, including casualties, had been detained. They were accompanied by journalists, including TV cameramen. They first visited the Alkhan-Kala hospital, where a large group of wounded fighters was found in the cellar. The cellar was dirty, the wounded were lying on the floor and there was a strong smell of decay. The soldiers deposited a large number of arms and ammunition collected from the fighters near the hospital. They then went to Alkhan-Kala\u2019s central square to see a convoy of three or four buses containing fighters, some of them wounded. The buses were blocked on all sides by army vehicles and guarded by servicemen, who had already disarmed the men inside. Local residents had gathered to watch behind the security cordon. When the senior officers approached the buses they noticed one of the fighters near the first bus, who had been talking to a reporter. He was wearing a new army camouflage jacket and behaved in an aggressive and provocative manner, trying to instigate the detainees and local residents to disobey. The witnesses suggested that he had been under the influence of narcotics. Some witnesses also noted that he was wounded in the hip. Colonel-General Baranov talked to the detainee and calmed him down using harsh words, saying that he should be shot. He also found identity documents, a compass and a map in his pocket. The soldiers then took the detainee away from the bus containing the other fighters and placed him next to a metal fence about five metres away, where he remained calmly for an hour or an hour and a half. Colonel-General Baranov and other army officers left Alkhan-Kala after about an hour and a half, and the detained fighters were left in the charge of the GUIN servicemen. The witnesses stressed that Baranov\u2019s words had not been regarded as an order, that Yandiyev had remained near the bus for a long time after the conversation and that, in any event, there had been far too many people around to issue or to carry out such an order. They also specified that most of the servicemen appearing in the videotape belonged to the Ministry of the Interior (OMON) or Ministry of Justice (GUIN) troops, and thus were not subordinate to a Colonel-General in the army. They denied that summary executions had taken place.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0In May 2004 the investigation questioned General-Major Nedobitko who had headed the operation in Alkhan-Kala. He stated that the operation had been carried out by a joint group of the army, internal troops, police units from  and other regions and GUIN troops from the Ministry of Justice. Work with the detainees came within the competence of the GUIN units. He denied that the servicemen had committed summary executions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0Journalists and cameramen from NTV, RTR and the army\u2019s press service stated that Yandiyev had told the reporters that he had been in charge of a small group of fighters. During the encounter with General Baranov he had behaved in a slowed-down manner, as if under the influence of narcotics. They also testified that Yandiyev had behaved aggressively and thus provoked General Baranov\u2019s remarks. One reporter testified that after the conversation depicted in the videotape Yandiyev had been taken to a fence, where he remained for about 10 minutes, after which servicemen put him into an armoured personnel carrier (APC) and drove away. Other reporters stated that he remained by the fence for about an hour or more, until the group headed by Colonel-General Baranov had left.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0In November 2005 the investigation questioned Ryan Chilcote, the CNN correspondent who had been at the scene on 2 February 2000. He stated that he had witnessed the dialogue between the wounded fighter, later identified as Yandiyev, and a high-ranking military officer, later identified as Colonel-General Baranov. He confirmed that although his Russian was weak, he could grasp the meaning of the conversation and had understood that the officer had questioned the fighter about his army jacket and later said that he should be \u201cfinished off\u201d. He testified that he saw Yandiyev taken away by soldiers to an APC.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "d)\u00a0\u00a0Statements by Colonel-General Baranov",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0The investigation questioned Colonel-General Alexander Baranov as a witness on two occasions \u2013 in June 2004 and in September 2005. On both occasions he confirmed that he had a conversation with a young rebel fighter (\u201cboyevik\u201d), later identified as Yandiyev, who had been standing outside the bus with other fighters and who had been creating a disturbance by his statements. The witness stated that he had concluded from the fighter\u2019s inadequate reaction that Yandiyev had been intoxicated, but as there was no smell of alcohol, he thought he might be under the influence of narcotics. The officer said that his harsh reaction had been caused by the detainee\u2019s dangerous conduct, which could have incited other fighters and the villagers to disobey. In his first witness statement Mr Baranov claimed that the video footage had been altered to omit the fighter\u2019s provocative statements. He stressed that the servicemen surrounding him were not his subordinates and thus could not have taken orders from him. In any event, nobody regarded his remarks as an order and Yandiyev was simply taken away from the bus and stood by the fence for a long time afterwards. The GUIN servicemen had dealt with the detainees and Mr Baranov had had no involvement in this.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "e)\u00a0\u00a0Expert reports",
+                                "elements": [
+                                    {
+                                        "content": "64.\u00a0\u00a0A number of expert reports were carried out in the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0In October 2004 experts from the Criminological Institute of the Federal Security Service (\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b\u0438\u0441\u0442\u0438\u043a\u0438 \u0424\u0421\u0411) concluded that the videotape did not contain any signs of altering or editing of image or sound and that the voice which had given the order to execute Yandiyev was that of Mr Baranov.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0In October 2005 a professor of linguistics at  concluded that, although Colonel-General Baranov had used obscene words and expressions, these were not addressed directly at Yandiyev or anyone in particular and could not therefore be regarded as an insult.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0In October 2005 a comprehensive psychological and psychiatric report carried out by two senior medical experts concluded that, judging by the video extract and other materials, the behaviour of both Colonel-General Baranov and Khadzhi-Murat Yandiyev on 2 February 2000 had been adequate to the situation and that neither had displayed any signs of weakening of mental performance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0In November 2005 an expert commission made up of three professors from military academies concluded that the extract in the videotape did not contain a valid order given within the chain of command due to its contents and improper form. In particular, the experts\u2019 report recalled that orders had to comply with the Constitution and other legal acts and that they could only deal with matters which were relevant to the work of the military and were within the superior\u2019s competence. Furthermore, orders could only be issued by a superior to an identified person under his command; they were to be given in a clear and unambiguous manner. None of these conditions had been met and therefore the report concluded that neither the Colonel-General nor any of the servicemen present at the scene could have regarded his words as an order.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "f)\u00a0\u00a0The situation of other detainees",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The investigation collected a large amount of information about the persons detained on 2 February 2000 in Alkhan-Kala. It identified and questioned the servicemen who had participated in the operation and escorted the detainees to the detention centre, and also the drivers of the buses and other detainees.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0Musa G., a resident of Alkhan-Kala, was questioned in June 2004 and October 2005. He stated that on 2 February 2000 he had tried to leave the village with his family in a PAZ bus. He was stopped by a group of armed men who ordered him to remove his belongings and to take the bus to the Alkhan-Kala hospital. At the hospital two other PAZ buses, also driven by villagers, were waiting. The armed men took wounded individuals out of the hospital and loaded them onto the three buses; the drivers were initially instructed to travel to Urus-Martan. However, they were not permitted to pass through a military roadblock at the exit of the village and returned to Alkhan-Kala. They were then instructed to go to Tolstoy-Yurt, where, as the witness understood it, the wounded were removed from the buses by servicemen from the Ministry of Justice. The witness identified Khadzhi-Murat Yandiyev from photographs and stated that he had seen that individual being placed in an APC in Alkhan-Kala and subsequently transferred to another APC at the military roadblock at the exit from the village. The witness also stated that he had seen how the servicemen searched the man and found a black flag with Arabic inscriptions. He did not see any ill-treatment of the man or of other detainees. He had not seen the man later identified as Yandiyev prior to 2\u00a0February 2000, not did he see him afterwards.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0In May 2004 B. (see \u00a7\u00a030 above) testified that he had known Yandiyev since their childhood in . In December 1999 and January 2000 he met him in  on several occasions. At that time Yandiyev was wearing his hair long, had a beard and wore an army camouflage jacket, but he was not armed. At the end of January 2000 the witness left  through a \u201csafe corridor\u201d towards Alkhan-Kala. En route the column was shelled and the witness was wounded in the right arm. In Alkhan-Kala he was admitted to hospital, where he again met Khadzhi-Murat Yandiyev, who had been wounded in the hip. On the morning of 2 February 2000 three buses were organised to take the wounded to the Urus-Martan hospital, but the convoy was stopped at a roadblock by the military and returned to Alkhan-Kala. There the buses were surrounded by servicemen and military vehicles and the men were taken out of the buses and searched. B. was placed by a metal fence with his back to the buses. He heard Yandiyev\u2019s voice behind him and recalled that Yandiyev talked to some senior officer who ended the conversation by an order to \u201cshoot\u201d Yandiyev. The witness then saw Yandiyev being taken away. He and the other detainees were first taken to a \u201cfiltration point\u201d in Tolstoy-Yurt, from where they were transferred to the Chernokozovo pre-trial detention centre about five days later. After that the witness was detained in two other pre-trial detention centres and was released in July 2000. He had not seen Khadzhi-Murat Yandiyev after 2\u00a0February 2000 and had no news of him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The investigation obtained documents from the criminal investigation file opened in respect of B. The file contained a police report about his detention in Alkhan-Kala on 2 February 2000 on suspicion of participation in an illegal armed group. On 4 February 2000 B. was questioned in Tolstoy-Yurt and denied the charges. On the same day he was charged with participation in an illegal armed group and his detention was authorised by a prosecutor. In July 2000 the charges were dropped and B. was released under an amnesty granted to persons charged with participation in illegal armed groups in the Northern Caucasus who had not committed any serious crimes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0In December 2005 the investigation questioned two other men who had been detained in February 2000 in Alkhan-Kala and taken to Tolstoy-Yurt. One of them identified Khadzhi-Murat Yandiyev from a photograph and stated that he had seen that individual being taken out of a bus in Alkhan-Kala by servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0In November 2005 the investigation questioned several servicemen from the Ministry of Justice, from various regions of , who had been deployed in Alkhan-Kala in February 2000. They stated that although their units had not been involved in the transportation of the three buses, the detainees had been transported on that day to a \u201cfiltration point\u201d in the . They also stated that those detainees who had been identified as \u201cfield commanders\u201d or others who were believed to be able to provide valuable information were taken away by officers from the FSB and military intelligence (\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0435\u0434\u044b\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0413\u0420\u0423 \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0420\u0424) and were not transported to the filtration points with the other detainees. They also stated that a system of detainee records had been maintained and that individual minutes of detention had been drawn up in respect of each of the detained persons. They estimated that on 2 February 2000 between 100 and 150 persons had been detained on suspicion of participation in illegal armed groups.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0The Government also submitted to the Court about 700 pages of documents from other criminal investigation files opened in relation to 62\u00a0persons detained in early February 2000 in and around Alkhan-Kala. Each of the detainees was questioned on 4 February 2000 in Tolstoy-Yurt, presented with charges and sent to various pre-trial detention centres. A detention order was issued in respect of each detainee, on suspicion of participation in illegal armed groups, by a prosecutor. It appears that most of the detainees were later released under an amnesty act. No such documents exist with reference to Khadzhi-Murat Yandiyev.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "g)\u00a0\u00a0Search for Khadzhi-Murat Yandiyev",
+                                "elements": [
+                                    {
+                                        "content": "76.\u00a0\u00a0The investigation tried to obtain information about Yandiyev\u2019s whereabouts from various sources. A number of law-enforcement agencies and detention centres in Chechnya, the Northern Caucasus and further afield in the Russian Federation, including pre-trial detention centre no. 20/2 in Chernokozovo, denied that he had ever been arrested or detained by them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0Their family\u2019s neighbours in Grozny stated that they had not seen the Yandiyevs after they left  in 1994. One neighbour, Ibragim D., questioned in October 2004, testified that in spring 2003 he had noticed a man resembling Khadzhi-Murat Yandiyev in a market in . The witness did not know Yandiyev very well and did not approach the man in the market or talk to him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0Also in October 2004 the investigation questioned a local resident in Alkhan-Kala who stated that in February 2000 he had witnessed Yandiyev\u2019s arrest. He stated that in August 2000 he had noticed a man resembling the detainee in a shop in Alkhan-Kala. The witness did not know Yandiyev personally and did not know him by name.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The investigators questioned a number of Alkhan-Kala residents, including a policeman and the head of the local administration. In similarly worded statements they stated that in early February 2000 a large group of fighters headed by the field commander Arbi Barayev had entered the village. The village had been shelled and large detachments of the federal forces had then entered the village in APCs. None of the villagers questioned had ever heard of Khadzhi-Murat Yandiyev, but they stated that several young men from Alkhan-Kala had been detained by the federal forces on that day and later released.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0Several of Yandiyev\u2019s classmates from the  stated that they had not seen him after the summer of 1999. They described him as a devout young man who had observed Islamic customs and studied religious literature. The investigation obtained a copy of the order by the Rector of the University by which the student Yandiyev had been discharged as of 15 November 1999 for systematic absence from classes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0Yandiyev\u2019s relatives with whom he had lived in Moscow from 1993 to 1999 testified that he had left for  in the summer of 1999 and that they had had no news from him since.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The investigation explored the version that the convoy which had transported Yandiyev from Alkhan-Kala could have been ambushed and that he could have escaped or been killed in the skirmish. It requested information from a number of sources about recorded ambushes of convoys in February 2000 and about escaped detainees, but received no examples of such incidents. None of the servicemen questioned were aware of such incidents. The investigation also explored whether Yandiyev could have used a false identity on arrival at the detention centre in Chernokozovo, but the guards of the facility, questioned in December 2005, testified that all the detainees who arrived there had been in possession of identity documents or police reports confirming their identities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0In December 2005 the central information bureau of the Russian railroads submitted data to the investigation about all rail road tickets purchased under the name of Yandiyev from February 1998 to October 2005 (over 450 entries).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0On 21 January 2006 the investigation ordered a molecular-genetic analysis of the applicant\u2019s blood sample, in order to verify if her relationship could be traced through samples of any persons killed in action while resisting the federal authorities.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "h)\u00a0\u00a0Criminal investigation in respect of Yandiyev",
+                                "elements": [
+                                    {
+                                        "content": "85.\u00a0\u00a0On 6 October 2004 the military prosecutor\u2019s office in charge of investigating Yandiyev\u2019s kidnapping opened a criminal investigation into Khadzhi-Murat Yandiyev\u2019s involvement in an illegal armed group, a crime under Article 208 part 2 of the Criminal Code. On the same day Yandiyev was charged in absentia with the above crime and his name was included on the federal search list. This investigation was assigned case file number 34/00/0040-04.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "i)\u00a0\u00a0Information related to the discovery of bodies in Alkhan-Kala",
+                                "elements": [
+                                    {
+                                        "content": "86.\u00a0\u00a0On 17 February 2005 the military prosecutor responsible for the case adjourned the investigation into Yandiyev\u2019s kidnapping on the ground of failure to identify the culprits. The relevant document summarised the findings by that date. It referred, in particular, to the testimonies of four policemen from the Saratov Region who had been on mission in  in February 2000. Each of them stated that in mid-February 2000 five male bodies, dressed in camouflage outfits and civilian clothes, had been discovered on the outskirts of Alkhan-Kala, near the cemetery. The residents refused to bury them because they were not from Alkhan-Kala. The bodies were delivered to the Grozny District VOVD, where they were filmed and photographed by officers from the Grozny District Prosecutor\u2019s Office. The bodies were then taken by a car belonging to the Grozny district military command to Mozdok, North Ossetia.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0The document of 17 February 2005 cited a report by an officer of the Grozny VOVD to the effect that the registration log of the Mozdok forensic centre contained no information about the delivery of unidentified bodies in the first half of 2000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0The document further referred to information from the Grozny District Prosecutor\u2019s Office that no criminal investigation had ever been conducted by that office into the discovery of five male bodies at the Alkhan-Kala cemetery in February 2000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The case file reviewed by the Court does not contain these documents.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "j)\u00a0\u00a0The prosecutors\u2019 orders",
+                                "elements": [
+                                    {
+                                        "content": "90.\u00a0\u00a0At different stages of the proceedings several orders were issued by the supervising prosecutors, enumerating the steps to be taken by the investigators. On 3 December 2001 a prosecutor from the Chechen Prosecutor\u2019s Office ordered that all the circumstances of Yandiyev\u2019s disappearance were to be fully investigated, those who had taken part in a special operation in Alkhan-Kala in early February 2000 were to identified, and that the applicant was to be found and granted victim status in the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0On 6 December 2003 a prosecutor from the Grozny District Prosecutor\u2019s Office noted that \u201cno real investigation has taken place and the necessary steps have not been taken to establish and investigate the circumstances of the case\u201d. He ordered the investigators to question the applicant and her husband about the \u201cpersonality\u201d of Khadzhi-Murat Yandiyev and about the details of their search for him. It was also necessary to find a copy of the videotape containing Yandiyev\u2019s questioning. The document also ordered that steps be taken to identify the detachments of federal forces that could have been involved in the special operation in Alkhan-Kala in early February 2000 and to establish what had happened to the detained persons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0On 1 March 2004 the Deputy Prosecutor of Chechnya ordered the investigators to establish the whereabouts of B. and I. and to question them about the circumstances of Yandiyev\u2019s detention. He also ordered that investigative measures which could help to clarify Yandiyev\u2019s personality, and other necessary measures, be pursued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "93.\u00a0\u00a0Between July 2001 and February 2006 the investigation was adjourned and reopened six times. The most recent order by the Deputy General Prosecutor, dated 10 February 2006, extended the investigation until 16 April 2006. It summarised the findings until that date and ordered the investigation to proceed with identification and questioning of other detained persons and the GUIN servicemen who had participated in the detention of suspects on the date in question, and to check the version that Yandiyev could have escaped from detention or used a false identity etc.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Video recording made by the NTV",
+                                        "elements": [
+                                            {
+                                                "content": "94.\u00a0\u00a0The Government submitted a copy of a TV report by the NTV company dated 2 February 2000. It contains a short interview with Khadzhi-Murat Yandiyev, who is shown standing by a bus. He confirms that he walked to Alkhan-Kala from  and that he was with a group of about 15 persons. The footage then shows Yandiyev standing alone by a metal fence and a group of servicemen unfolding a black banner with an Arabic inscription.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Documents submitted by the applicant",
+                                        "elements": [
+                                            {
+                                                "content": "95.\u00a0\u00a0The applicant submitted an undated copy of an interview with the CNN producer Ryan Chilcote for an on-line magazine, in which he spoke of how Yandiyev\u2019s questioning was filmed by his crew:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cThe Chechen War, especially the second campaign, was my first experience with real warfare. I was able to get close to the action and see a lot of things on both sides of the conflict.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "I was travelling with the Russians when they took Alkhan-Kala, a village near the Chechen capital of . They captured a bunch of Chechen rebel fighters; one of them, a young guy in his 20s, was wearing a Russian uniform he\u2019d obviously taken from a soldier he\u2019d killed. The second-in-command in the Russian military walked up to him and said, \u201cWhat the hell are you doing in that Russian uniform?\u201d The rebel fighter talked back to him, and they got into a heated debate. The general looked through the guy\u2019s pockets and found his passport. He read all the information out loud. Then he said to two of his soldiers, \u201cGet rid of this guy. Kill him right here.\u201d The soldiers didn\u2019t know what to do. They knew our cameras were rolling. So they just nodded their heads but didn\u2019t do anything.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "When the general came through again, he got upset. \u201cI told you to get rid of this guy!\u201d The soldiers dragged the man to an armoured personnel carrier and drove him off. A Russian colonel came up to me and said, \u201cHey, Ryan, want to shoot an execution?\u201d It was one of those moments when you don\u2019t know what to do as a journalist. On the one hand, I\u2019d be documenting a war crime, the execution of an unarmed man. On the other, it went against my instincts. Just then, the tank I\u2019d come in on began to leave, and I had to jump aboard. A few months later, we went to the rebel fighter\u2019s address, which the general had read aloud on camera, to find out what had happened to him. We showed his mother the tape and asked if she\u2019d heard from him. She hadn\u2019t. It was really difficult\u2014she totally broke down. It\u2019s quite probable he was executed.\u201d",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "96.\u00a0\u00a0Until 1 July 2002 criminal-law matters were governed by the 1960 Code of Criminal Procedure of the . From 1 July 2002 the old Code was replaced by the Code of Criminal Procedure of the Russian Federation (CCP).",
+                                "elements": []
+                            },
+                            {
+                                "content": "97.\u00a0\u00a0Article 161 of the new CCP establishes the rule of impermissibility of disclosure of the data of the preliminary investigation. Under part 3 of the said Article, the information from the investigation file may be divulged with the permission of a prosecutor or investigator and only so far as it does not infringe the rights and lawful interests of the participants in the criminal proceedings and does not prejudice the investigation. Divulging information about the private life of participants in criminal proceedings without their permission is prohibited.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "98.\u00a0\u00a0The applicant alleged that her son had been unlawfully killed by the agents of the State. She also submitted that the authorities had failed to carry out an effective and adequate investigation into the circumstances of Khadzhi-Murat Yandiyev\u2019s disappearance. She relied on Article\u00a02 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone\u2019s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged failure to protect the right to life",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0The applicant",
+                                "elements": [
+                                    {
+                                        "content": "99.\u00a0\u00a0The applicant claimed that the authorities were responsible for the disappearance and killing of her son Khadzhi-Murat Yandiyev. She referred to the known circumstances of his detention, an explicit order by a senior military officer to execute him and the long period of time during which his whereabouts had not been established. The Government, in her view, had failed to provide any reliable information about what had happened to him after the interrogation, and there was no record found of Yandiyev having been detained at the filtration point in Tolstoy-Yurt, the Chernokozovo pre-trial detention centre or other facilities, or of his having received medical aid, etc.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "100.\u00a0\u00a0The Government did not deny that Khadzhi-Murat Yandiyev, as an active member of illegal armed groups which had put up fierce resistance to the establishment of law and order in Chechnya, had been detained on 2\u00a0February 2000 in Alkhan-Kala. They did not deny that he had disappeared after detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0The Government denied that Yandiyev had been killed by State agents. They referred to the extensive expert reports and witness statements contained in the investigation file, describing the words of Colonel-General Baranov as an emotional but justified reaction to the detainee\u2019s provocative behaviour and not as a proper order given within the chain of command. Numerous witnesses stated that, following the interrogation, Yandiyev had been taken to a point several metres away and had remained there for some time, and was later taken to the \u201cfiltration point.\u201d The fact of Yandiyev\u2019s death had never been established by the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0The Government stressed that Yandiyev had strong reasons to abscond from the authorities, especially in view of a criminal investigation opened against him in October 2004. They referred to the two witness statements contained in the investigation file that he had been seen in  after February 2000 (see \u00a7\u00a7\u00a077-78 above). They further noted that the investigation continued, and that it was checking all versions of his disappearance, including escape or death as a result of an ambush of the convoy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0General considerations",
+                                "elements": [
+                                    {
+                                        "content": "103.\u00a0\u00a0Article 2, which safeguards the right to life and sets out the circumstances when deprivation of life may be justified, ranks as one of the most fundamental provisions in the Convention, to which no derogation is permitted. Together with Article 3, it also enshrines one of the basic values of the democratic societies making up the Council of Europe. The circumstances in which deprivation of life may be justified must therefore be strictly construed. The object and purpose of the Convention as an instrument for the protection of individual human beings also requires that Article 2 be interpreted and applied so as to make its safeguards practical and effective (see McCann and Others v. the United Kingdom, judgment of 27\u00a0September 1995, Series A no.\u00a0324, \u00a7\u00a0146-147).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0In the light of the importance of the protection afforded by Article\u00a02, the Court must subject deprivations of life to the most careful scrutiny, taking into consideration not only the actions of State agents but also all the surrounding circumstances. Detained persons are in a vulnerable position and the authorities are under a duty to protect them. Consequently, where an individual is taken into police custody in good health and is found to be injured on release, it is incumbent on the State to provide a plausible explanation of how those injuries were caused (see, amongst other authorities, Av\u015far v. Turkey, no. 25657/94, \u00a7\u00a0391, ECHR 2001VII (extracts)). The obligation on the authorities to account for the treatment of a detained individual is particularly stringent where that individual dies or disappears thereafter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "105.\u00a0\u00a0Where the events in issue lie wholly, or in large part, within the exclusive knowledge of the authorities, as in the case of persons within their control in detention, strong presumptions of fact will arise in respect of injuries and death occurring during that detention. Indeed, the burden of proof may be regarded as resting on the authorities to provide a satisfactory and convincing explanation (see Salman v. Turkey [GC], no. 21986/93, \u00a7100, ECHR 2000-VII; \u00c7ak\u0131c\u0131 v. Turkey [GC], no. 23657/94, \u00a7 85, ECHR 1999-IV; Ertak v. Turkey, no. 20764/92, \u00a7 32, ECHR 2000-V; and Timurta\u015f v.\u00a0Turkey, no. 23531/94, \u00a7 82, ECHR 2000-VI).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0As to the facts that are in dispute, the Court recalls its jurisprudence confirming the standard of proof \u201cbeyond reasonable doubt\u201d in its assessment of evidence (see Av\u015far v. Turkey, cited above, \u00a7 282). Such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact. In this context, the conduct of the parties when evidence is being obtained has to be taken into account (see Ireland v. the United Kingdom judgment of 18\u00a0January 1978, Series A no. 25, p. 65, \u00a7 161).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0The Court is sensitive to the subsidiary nature of its role and recognises that it must be cautious in taking on the role of a first-instance tribunal of fact, where this is not rendered unavoidable by the circumstances of a particular case (see, for example, McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000). Nonetheless, where allegations are made under Articles 2 and 3 of the Convention the Court must apply a particularly thorough scrutiny (see, mutatis mutandis, the Ribitsch v. Austria judgment of 4 December 1995, Series A no. 336, \u00a7 32; and Av\u015far v. Turkey, cited above, \u00a7\u00a0283) even if certain domestic proceedings and investigations have already taken place.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0Whether Khadzhi-Murat Yandiyev can be presumed dead",
+                                "elements": [
+                                    {
+                                        "content": "108.\u00a0\u00a0The applicant complains under Article 2 of the Convention that, following Khadzhi-Murat Yandiyev\u2019s arrest, he disappeared and must have died in detention. The Government denied that he was dead.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0In the above-cited Timurta\u015f v. Turkey judgment the Court stated (at \u00a7\u00a7 82-83):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... where an individual is taken into custody in good health but is found to be injured at the time of release, it is incumbent on the State to provide a plausible explanation of how those injuries were caused, failing which an issue arises under Article 3 of the Convention .... In the same vein, Article 5 imposes an obligation on the State to account for the whereabouts of any person taken into detention and who has thus been placed under the control of the authorities.... Whether the failure on the part of the authorities to provide a plausible explanation as to a detainee\u2019s fate, in the absence of a body, might also raise issues under Article 2 of the Convention will depend on all the circumstances of the case, and in particular on the existence of sufficient circumstantial evidence, based on concrete elements, from which it may be concluded to the requisite standard of proof that the detainee must be presumed to have died in custody...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In this respect the period of time which has elapsed since the person was placed in detention, although not decisive in itself, is a relevant factor to be taken into account. It must be accepted that the more time goes by without any news of the detained person, the greater the likelihood that he or she has died. The passage of time may therefore to some extent affect the weight to be attached to other elements of circumstantial evidence before it can be concluded that the person concerned is to be presumed dead. In this respect the Court considers that this situation gives rise to issues which go beyond a mere irregular detention in violation of Article 5. Such an interpretation is in keeping with the effective protection of the right to life as afforded by Article 2, which ranks as one of the most fundamental provisions in the Convention....\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0In view of the above, the Court identifies a number of crucial elements in the present case that should be taken into account when deciding whether Khadzhi-Murat Yandiyev can be presumed dead and whether his death can be attributed to the authorities. First of all, the Government do not deny that he was detained during a counter-terrorist operation in the  on 2 February 2000. Second, the videotape and numerous witness statements contained in the criminal investigation file confirm that he was interrogated by a senior military officer who, at the end of the interrogation, said that he should be executed. Whether these words were interpreted as a proper order within the chain of command is under dispute between the parties, but there can be no doubt that in the circumstances of the case the situation can be reasonably regarded as life-threatening for the detained person. Third, there has been no reliable news of the applicant\u2019s son since 2 February 2000. The evidence to the contrary in the case file, referred to by the Government, is very weak, since neither of the witnesses who claim to have seen Yandiyev after February 2000 knew him very well, and both merely allege that they caught a glimpse, from a distance, of a person who resembled him (see \u00a7\u00a7\u00a077-78 above). By contrast, his family, fellow students and other persons detained on the same day have not seen or heard of him since 2\u00a0February 2000. His name was not found in any of the detention facilities\u2019 records. Finally, the Government do not submit any plausible explanation as to what happened to Khadzhi-Murat Yandiyev after his detention. The versions that he escaped or was killed during an ambush found no support during the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0For the above reasons, and taking into account that no information has come to light concerning the whereabouts of Yandiyev for more than six years, the Court is satisfied that he must be presumed dead following unacknowledged detention. Consequently, the responsibility of the respondent State is engaged. Noting that the authorities do not rely on any ground of justification in respect of use of lethal force by their agents, it follows that liability is attributable to the respondent Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0Accordingly, there has been a violation of Article 2 on that account in respect of Khadzhi-Murat Yandiyev.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged inadequacy of the investigation",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0The applicant",
+                                "elements": [
+                                    {
+                                        "content": "113.\u00a0\u00a0The applicant maintained that the respondent Government had failed to conduct an independent, effective and thorough investigation into the circumstances of Khadzhi-Murat Yandiyev\u2019s detention and disappearance, in violation of the procedural aspect of Article 2. Arguing that the investigation had fallen short of the standards of the European Convention and of national legislation, she pointed to the considerable delay in opening it and to the repeated suspensions, and referred to the fact that, four and a half years after the investigation had been opened, it had not been completed and had failed to produce any results. She referred to the prosecutors\u2019 orders, contained in the case file, which had repeatedly criticised the investigators\u2019 actions as ineffective. She emphasized that she had been questioned as a witness and granted victim status in January 2002, i.e. six months after the start of the investigation. Most of the investigative steps had been taken only after December 2003, when the complaint had been communicated to the Russian Government. The authorities had systematically failed to inform her of the proceedings\u2019 progress. She questioned the relevance and effectiveness of the documents from the investigation file, copies of which had been submitted by the Government, and alleged that the authorities had clearly failed to verify all possible investigative versions, mainly that Khadzhi-Murat Yandiyev had been killed by federal servicemen.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0In particular, the applicant stressed that no proper investigation had been conducted into the discovery in February 2000 of five unidentified male bodies in Alkhan-Kala, as mentioned in the file.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "115.\u00a0\u00a0The Government disputed that there were failures in the investigation. They pointed out that the applicant had been granted victim status and thus could participate in the proceedings and appeal against the decisions with which she disagreed. The allegations and statements made by the applicant during the investigation had been thoroughly checked. She had been informed of the progress of the investigation orally and on more than ten occasions in written form.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "116.\u00a0\u00a0The Government also referred to the difficulties inherent in the prosecutors\u2019 work in . They noted that the applicant, as well as many witnesses in the present case, had moved to various regions of the . The work of investigating officers in Chechnya was hampered by constant threats and attacks \u2013 since 1999, 14 officers from the prosecutors\u2019 service had been killed in , 33 had been wounded and two had been abducted. In addition, on several occasions the buildings of the prosecutors\u2019 offices had been targeted, destroying documents and evidence. The Government acknowledged that the investigation had not been conducted very actively in the initial stages, but insisted that the shortcomings had been corrected by later actions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0General considerations",
+                                "elements": [
+                                    {
+                                        "content": "117.\u00a0\u00a0The obligation to protect the right to life under Article 2 of the Convention, read in conjunction with the State\u2019s general duty under Article\u00a01 of the Convention to \u201csecure to everyone within [its] jurisdiction the rights and freedoms defined in [the] Convention\u201d, also requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force (see, mutatis mutandis, the McCann and Others v. the United Kingdom judgment cited above, p. 49, \u00a7 161; and the Kaya v. Turkey judgment of 19 February 1998, Reports of Judgments and Decisions 1998-I, p. 329, \u00a7 105). The essential purpose of such investigation is to secure the effective implementation of the domestic laws which protect the right to life and, in those cases involving state agents or bodies, to ensure their accountability for deaths occurring under their responsibility. What form of investigation will achieve those purposes may vary in different circumstances. However, whatever mode is employed, the authorities must act of their own motion once the matter has come to their attention. They cannot leave it to the initiative of the next of kin either to lodge a formal complaint or to take responsibility for the conduct of any investigatory procedures (see, for example, mutatis mutandis, \u0130lhan v.\u00a0 [GC] no. 22277/93, \u00a7 63, ECHR 2000-VII). The Court recalls that the obligations of the State under Article 2 cannot be satisfied merely by awarding damages. The investigations required under Article 2 of the Convention must be able to lead to the identification and punishment of those responsible (see McKerr v. the United Kingdom, no. 28883/95, \u00a7 121, ECHR 2001-III).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0For an investigation into alleged unlawful killing by state agents to be effective, it may generally be regarded as necessary for the persons responsible for and carrying out the investigation to be independent from those implicated in the events (see, for example, the G\u00fcle\u00e7 v. Turkey judgment of 27\u00a0July 1998, Reports 1998-IV, \u00a7\u00a7\u00a081-82; and \u00d6gur v. Turkey [GC], no.\u00a021954/93, \u00a7\u00a7\u00a091-92, ECHR 1999-III). The investigation must also be effective in the sense that it is capable of leading to a determination of whether the force used in such cases was or was not justified in the circumstances (see, for example, Kaya v. Turkey, cited above, p.\u00a0324, \u00a7\u00a087) and to the identification and punishment of those responsible (\u00d6gur v.\u00a0Turkey, cited above, \u00a7\u00a088). This is not an obligation of result, but of means. The authorities must have taken the reasonable steps available to them to secure the evidence concerning the incident, including, inter alia, eyewitness testimony, forensic evidence and, where appropriate, an autopsy which provides a complete and accurate record of injury and an objective analysis of clinical findings, including the cause of death (with regard to autopsies, see, for example, Salman v. Turkey, cited above, \u00a7\u00a0106; concerning witnesses, for example, Tanrikulu v. Turkey [GC], no. 23763/94, ECHR 1999-IV, \u00a7\u00a0109; concerning forensic evidence, for example, G\u00fcl v. Turkey, no.\u00a022676/93, \u00a7\u00a089, judgment of 14\u00a0December 2000). Any deficiency in the investigation which undermines its ability to establish the cause of death or the person responsible will risk falling below this standard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0In this context, there must also be an implicit requirement of promptness and reasonable expedition (see Ya\u015fa v.\u00a0Turkey, cited above, \u00a7\u00a0102-104; \u00c7akici v.\u00a0Turkey, cited above, \u00a7\u00a7\u00a080, 87, 106; Tanrikulu v. Turkey, cited above, \u00a7\u00a0109; and Mahmut Kaya v. Turkey, no.\u00a022535/93, ECHR 2000-III, \u00a7\u00a7\u00a0106-107). It must be accepted that there may be obstacles or difficulties which prevent progress in an investigation in a particular situation. However, a prompt response by the authorities in investigating the use of lethal force may generally be regarded as essential in maintaining public confidence in maintenance of the rule of law and in preventing any appearance of collusion in or tolerance of unlawful acts.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0Application in the present case",
+                                "elements": [
+                                    {
+                                        "content": "120.\u00a0\u00a0In the present case, an investigation was carried out into the kidnapping of the applicant\u2019s son. The Court must assess whether that investigation met the requirements of Article 2 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0First of all, the Court notes that the investigation was opened only in July 2001, that is, a year and five months after the events, despite the applicant\u2019s numerous applications to the authorities immediately after 2\u00a0February 2000. Furthermore, once the investigation began, it was plagued by inexplicable delays. The applicant was not questioned until January 2002, the military officers who had participated in Yandiyev\u2019s apprehension and other eye-witnesses were questioned only in autumn 2005 (see \u00a7\u00a7\u00a059-62 above), other detainees and the bus driver were questioned between May 2004 and October 2005 (see \u00a7\u00a7\u00a070-73 above), and the servicemen from the Ministry of Justice who had been responsible for guarding and transporting the detained persons were questioned in November 2005 (see \u00a7\u00a7\u00a074 above). Most importantly, Colonel-General Baranov was questioned for the first time in June 2004, that is, four years and four months after the events in question and three years after the investigation had opened. In fact, it appears that most of the actions necessary for solving the crime occurred only after December 2003, when the applicant\u2019s complaint was communicated to the respondent Government. These delays alone compromised the effectiveness of the investigation and could not but have had a negative impact on the prospects of arriving at the truth. While accepting that some explanation for these delays can be found in the exceptional circumstances that have prevailed in  and to which the Government refer, the Court finds that in the present case they clearly exceeded any acceptable limitations on efficiency that could be tolerated in dealing with such a serious crime.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "122.\u00a0\u00a0Other elements of the investigation call for comment. For example, several servicemen testified that officers from the army intelligence service and the Federal Security Service had dealt with those detainees who were suspected of being field commanders (see \u00a7\u00a074). The investigation failed to identify or question any servicemen or officers from these units. The information contained in the document of February 2005 relating to the discovery of bodies in mid-February 2000 was not pursued. Moreover, despite numerous indications to the contrary (see \u00a7\u00a7\u00a0110-111 above as to whether Yandiyev may be presumed dead), the investigation continued to pursue the version that he could have escaped from detention and remained at large.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "123.\u00a0\u00a0Many of these omissions were evident to the prosecutors, who on several occasions ordered certain steps to be taken (see \u00a7\u00a7\u00a090-91 above). However, these instructions were either not followed or were followed with an unacceptable delay.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "124.\u00a0\u00a0Finally, as to the manner in which the investigation was conducted, the Court notes that between July 2001 and February 2006 the investigation was adjourned and reopened six times. The applicant, notwithstanding her procedural status as a victim, was not promptly informed of these steps, especially before December 2003, and thus had no possibility of appealing to a higher prosecutor (see \u00a7\u00a7\u00a023-39 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "125.\u00a0\u00a0In the light of the foregoing, the Court finds that the authorities failed to carry out an effective criminal investigation into the circumstances surrounding the disappearance and presumed death of Khadzhi-Murat Yandiyev. The Court accordingly holds that there has been a violation of Article 2 also in this respect.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "126.\u00a0\u00a0The applicant alleged that Khadzhi-Murat Yandiyev had been subjected to inhuman and degrading treatment and that the authorities had failed to investigate this allegation. She also complained that the suffering inflicted upon her in relation to her son\u2019s disappearance constituted treatment prohibited by the Convention. She relied on Article 3, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The alleged failure to protect Khadzhi-Murat Yandiyev from inhuman and degrading treatment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Arguments of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "127.\u00a0\u00a0The applicant alleged that her son had been deliberately ill-treated by soldiers in the scene depicted in the video footage. She referred to the witness statements that Yandiyev had been wounded in the leg and alleged that the video showed the soldiers kicking him on the wounded leg and thus causing him pain. She also stated that he had not received the requisite medical assistance.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0The Government disputed that Yandiyev had been wounded or ill-treated by soldiers because, in their view, the video in question contained no such evidence. They also noted that the question of whether medical assistance had been given to him could not be clarified in the absence of conclusive information about Yandiyev\u2019s whereabouts following his apprehension.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "a)\u00a0\u00a0General considerations",
+                                "elements": [
+                                    {
+                                        "content": "129.\u00a0\u00a0As the Court has stated on many occasions, Article\u00a03 enshrines one of the most fundamental values of democratic societies. Even in the most difficult circumstances, such as the fight against terrorism and organised crime, the Convention prohibits in absolute terms torture and inhuman or degrading treatment or punishment. Unlike most of the substantive clauses of the Convention and its Protocols, Article\u00a03 makes no provision for exceptions and no derogation from it is permissible under Article\u00a015\u00a0\u00a7\u00a02 even in the event of a public emergency threatening the life of the nation (see Selmouni v. France [GC], no. 25803/94, \u00a7 95, ECHR 1999-V; and Assenov and Others v. Bulgaria, judgment of 28 October 1998, Reports 1998-VIII, p. 3288, \u00a7 93).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "130.\u00a0\u00a0Allegations of ill-treatment must be supported by appropriate evidence (see, mutatis mutandis, Klaas v.\u00a0Germany, judgment of 22\u00a0September 1993, Series\u00a0A no.\u00a0269, p.\u00a0pp. 17-18, \u00a7\u00a030). To assess this evidence, the Court adopts the standard of proof \u201cbeyond reasonable doubt\u201d but adds that such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Ireland v. the United Kingdom, cited above, pp.\u00a064-65, \u00a7 161 in fine).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "b)\u00a0\u00a0Application in the present case",
+                                "elements": [
+                                    {
+                                        "content": "131.\u00a0\u00a0It is not disputed that the applicant\u2019s son was detained on 2\u00a0February 2000 by federal forces and that no reliable news of him has been received since that date. The Court has also considered that, in view of all the known circumstances, he can be presumed dead and that the responsibility for his death lies with the State authorities (see \u00a7\u00a7\u00a0110-111 above). However the exact way in which he died and whether he was subjected to ill-treatment while in detention are not entirely clear.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0The Court observes that the facts concerning possible ill-treatment of Khadzhi-Murat Yandiyev are not well established. Admittedly, some witnesses submitted that Yandiyev had been wounded and that he had been detained together with other patients from the Alkhan-Kala hospital. However, neither the witness statements nor the video record reviewed by the Court contain evidence to support the allegations that he was ill-treated on arrest. The specific episode to which the applicant refers, when a passing soldier pushes Yandiyev, who is standing by the bus, does not in itself appear to attain the threshold of severity required by Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0In conclusion, since the information before it does not enable the Court to find beyond all reasonable doubt that the applicant\u2019s son was subjected to treatment contrary to Article\u00a03, the Court considers that there is insufficient evidence for it to conclude that there has been a violation of Article\u00a03 of the Convention on this account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Concerning the alleged lack of an effective investigation",
+                                "elements": [
+                                    {
+                                        "content": "134.\u00a0\u00a0The applicant also maintained that the respondent Government had failed to conduct an independent, effective and thorough investigation into the allegations of ill-treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0The Government disputed that there were any failures in the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0In the absence of any reliable information about the alleged ill-treatment of Khadzhi-Murat Yandiyev, or about the manner in which he died, the Court does not deem it necessary to make a separate finding under Article 3 in respect of the alleged deficiencies of the investigation, since it examines this aspect under the procedural aspect of Article 2 (above) and under Article 13 of the Convention (below).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The alleged violation of Article 3 in respect of the applicant",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "137.\u00a0\u00a0The applicant submitted, with reference to the Court\u2019s practice, that she herself was a victim of a violation of Article 3. She stressed that she had suffered mentally seeing the video tape in which her son had been mistreated by the soldiers and because of the authorities\u2019 complacency in the face of her son\u2019s disappearance and probable death.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "138.\u00a0\u00a0The Government denied that the applicant had been a victim of treatment contrary to Article 3. They noted that the applicant had been regularly informed of the progress in the case and that her complaints had been duly considered. Her internal disappointment at the absence of a positive outcome to the investigation could not be regarded as inflicting inhuman and degrading treatment on her.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "139.\u00a0\u00a0The Court reiterates that the question whether a family member of a \u201cdisappeared person\u201d is a victim of treatment contrary to Article 3 will depend on the existence of special factors which gives the suffering of the applicant a dimension and character distinct from the emotional distress which may be regarded as inevitably caused to relatives of a victim of a serious human-rights violation. Relevant elements will include the proximity of the family tie \u2013 in that context, a certain weight will attach to the parent-child bond, \u2013 the particular circumstances of the relationship, the extent to which the family member witnessed the events in question, the involvement of the family member in the attempts to obtain information about the disappeared person and the way in which the authorities responded to those enquiries (see Orhan, \u00a7 358, \u00c7ak\u0131c\u0131, \u00a7 98, and Timurta\u015f, \u00a7\u00a095, all cited above). The Court would further emphasise that the essence of such a violation does not mainly lie in the fact of the \u201cdisappearance\u201d of the family member but rather concerns the authorities\u2019 reactions and attitudes to the situation when it is brought to their attention. It is especially in respect of the latter that a relative may claim directly to be a victim of the authorities\u2019 conduct.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "140.\u00a0\u00a0In the present case, the Court notes that the applicant is the mother of the disappeared individual, Khadzhi-Murat Yandiyev. The applicant watched the video tape showing the questioning of her son, which ends with the words that he should be executed and with him being taken away by soldiers. For more than six years she has not had any news of him. During this period the applicant has applied to various official bodies with inquiries about her son, both in writing and in person (see \u00a7\u00a7\u00a021-40 above). Despite her attempts, the applicant has never received any plausible explanation or information as to what became of Yandiyev following his detention on 2\u00a0February 2000. The responses received by the applicant mostly denied the State\u2019s responsibility for her son\u2019s detention and disappearance or simply informed her that an investigation was ongoing. The Court\u2019s findings under the procedural aspect of Article 2, set out above, are also relevant here (see \u00a7\u00a7\u00a0120-125), especially the fact that the criminal investigation into the disappearance started only one and a half year after the event.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "141.\u00a0\u00a0In view of the above, the Court finds that the applicant suffered, and continues to suffer, distress and anguish as a result of the disappearance of her son and of her inability to find out what happened to him. The manner in which her complaints have been dealt with by the authorities must be considered to constitute inhuman treatment contrary to Article 3.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "142.\u00a0\u00a0The Court concludes therefore that there has been a violation of Article 3 of the Convention in respect of the applicant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "143.\u00a0\u00a0The applicant complained that the provisions of Article 5 as a whole had been violated in respect of her son. Article 5 provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0the lawful detention of a person after conviction by a competent court;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0the lawful arrest or detention of a person for non- compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(e)\u00a0\u00a0the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(f)\u00a0\u00a0the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "144.\u00a0\u00a0The applicant alleged that Khadzhi-Murat Yandiyev\u2019s unacknowledged detention had not been in compliance with the domestic legislation and the requirements of Article 5 as a whole. She considered it proven beyond reasonable doubt that her son had been detained by representatives of the federal forces during an operation in Alkhan-Kala and that his detention had not been authorised or documented in any way.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "145.\u00a0\u00a0The Government did not dispute that Yandiyev had been detained on 2 February 2000. They noted that the arrest had occurred during the so-called \u201cactive\u201d stage of the counter-terrorist operation and that immediate compliance with all the formalities of the national legislation on the spot in Alkhan-Kala had been physically impossible and even dangerous in the circumstances. They referred to the attachments to criminal case no.\u00a034/00/0020-04, which contained numerous legal documents related to the detention of suspected members of illegal armed groups detained during the same operation. The absence of such decisions in respect of Yandiyev could be explained by his disappearance prior to arrival at the detention centre, various reasons for which had been considered by the investigation.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "146.\u00a0\u00a0The Court stresses the fundamental importance of the guarantees contained in Article 5 for securing the right of individuals in a democracy to be free from arbitrary detention at the hands of the authorities. It has stressed in that connection that any deprivation of liberty must not only have been effected in conformity with the substantive and procedural rules of national law but must equally be in keeping with the very purpose of Article 5, namely to protect the individual from arbitrary detention. In order to minimise the risks of arbitrary detention, Article 5 provides a corpus of substantive rights intended to ensure that the act of deprivation of liberty be amenable to independent judicial scrutiny and secures the accountability of the authorities for that measure. The unacknowledged detention of an individual is a complete negation of these guarantees and discloses a most grave violation of Article 5. Bearing in mind the responsibility of the authorities to account for individuals under their control, Article 5 requires them to take effective measures to safeguard against the risk of disappearance and to conduct a prompt and effective investigation into an arguable claim that a person has been taken into custody and has not been seen since (see Kurt, \u00a7\u00a7 122-125, cited above; and, also cited above, \u00c7akici, \u00a7\u00a0104; Akdeniz and Others, \u00a7 106; \u00c7i\u00e7ek, \u00a7 164; and Orhan, \u00a7\u00a7 367-369).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "147.\u00a0\u00a0It is established that the applicant\u2019s son was detained on 2 February 2000 by the federal authorities and has not been seen since. It appears that most of the detainees arrested on the same day were taken first to the \u201cfiltration point\u201d in Tolstoy-Yurt and then to several pre-trial detention centres. Yandiyev\u2019s detention was not logged in the relevant custody records and there exists no official trace of his subsequent whereabouts or fate. In accordance with the Court\u2019s practice, this fact in itself must be considered a most serious failing since it enables those responsible for an act of deprivation of liberty to conceal their involvement in a crime, to cover their tracks and to escape accountability for the fate of a detainee. Furthermore, the absence of detention records, noting such matters as the date, time and location of detention, the name of the detainee as well as the reasons for the detention and the name of the person effecting it, must be seen as incompatible with the very purpose of Article 5 of the Convention (see the above-cited judgments in Kurt, \u00a7\u00a0125; Timurta\u015f, \u00a7\u00a0105; \u00c7ak\u0131c\u0131, \u00a7\u00a0105; \u00c7i\u00e7ek, \u00a7\u00a0165; and Orhan, \u00a7\u00a0371).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "148.\u00a0\u00a0The Court further considers that the authorities should have been alert to the need to investigate more thoroughly and promptly the applicant\u2019s complaints that her son was detained by the security forces and taken away in life-threatening circumstances. However, its reasoning and findings in relation to Article 2 above, in particular as concerns the delays in the opening and conducting of the investigation, leave no doubt that the authorities failed to take prompt and effective measures to safeguard Yandiyev against the risk of disappearance. Moreover, the Court notes that as late as December 2000 the authorities continued to deny the involvement of federal servicemen in Yandiyev\u2019s apprehension (see \u00a7\u00a7\u00a025-26 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "149.\u00a0\u00a0Accordingly, the Court finds that Khadzhi-Murat Yandiyev was held in unacknowledged detention in the complete absence of the safeguards contained in Article 5 and that there has been a violation of the right to liberty and security of person guaranteed by that provision.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "150.\u00a0\u00a0The applicant stated that she was deprived of access to a court, contrary to the provisions of Article 6 of the Convention. In so far as relevant, Article 6 provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a fair ... hearing ... by [a] ... tribunal...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "151.\u00a0\u00a0The applicant alleged that she had had no effective access to a court because a civil claim for damages would depend entirely on the outcome of the criminal investigation into her son\u2019s disappearance. In the absence of any findings, she could not effectively apply to a court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "152.\u00a0\u00a0The Government disputed this allegation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "153.\u00a0\u00a0The Court finds that the applicant\u2019s complaint under Article 6 concerns, essentially, the same issues as those discussed under the procedural aspect of Article 2 and of Article 13. It should also be noted that the applicant submitted no information which would prove her alleged intention to apply to a domestic court with a claim for compensation. In such circumstances, the Court finds that no separate issues arise under Article 6 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "154.\u00a0\u00a0The applicant alleged that the disappearance of her son after his detention by the State authorities disclosed an additional violation of Article 8 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "155.\u00a0\u00a0The applicant argued that the distress and anguish caused by her son\u2019s disappearance had amounted to a violation of her right to family life.",
+                                "elements": []
+                            },
+                            {
+                                "content": "156.\u00a0\u00a0The Government objected that those complaints were unfounded.",
+                                "elements": []
+                            },
+                            {
+                                "content": "157.\u00a0\u00a0The Court observes that these complaints concern the same facts as those examined under Articles 2 and 3 and, having regard to its conclusion under these provisions (see \u00a7\u00a7\u00a0112 and 142 above), considers it unnecessary to examine them separately.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION IN CONJUNCTION WITH ARTICLES 2, 3 AND 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "158.\u00a0\u00a0The applicant complained that she had had no effective remedies in respect of the violations alleged under Articles 2, 3 and 5 of the Convention. She referred to Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "159.\u00a0\u00a0The Government disagreed. They referred to her procedural position as a victim in a criminal case, which allowed her to participate effectively in the proceedings. They also contended that the applicant could have applied to the domestic courts with a complaint against the actions of officials or with a civil suit. By way of example, the Government referred to several cases in which the military courts of the Northern Caucasus had convicted army servicemen of crimes committed against civilians and against other servicemen and had granted the victims\u2019 civil claims. They also referred to a case in the Republic of Karachayevo-Cherkessia where, in September 2004, the plaintiff had received damages from the prosecutor\u2019s office for failure to act. They also referred to the case of Khashiyev v. Russia (see Khashiyev and Akayeva v. Russia, nos. 57942/00 and 57945/00, \u00a7\u00a7\u00a039-42, 24 February 2005), where the applicant had received substantial amounts in pecuniary and non-pecuniary damage from the State treasury for the deaths of his relatives in circumstances where there was strong evidence to conclude that the killings had been committed by federal servicemen.",
+                                "elements": []
+                            },
+                            {
+                                "content": "160.\u00a0\u00a0The Court reiterates that Article 13 of the Convention guarantees the availability at the national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they might happen to be secured in the domestic legal order. The effect of Article 13 is thus to require the provision of a domestic remedy to deal with the substance of an \u201carguable complaint\u201d under the Convention and to grant appropriate relief, although  are afforded some discretion as to the manner in which they comply with their Convention obligations under this provision. The scope of the obligation under Article 13 varies depending on the nature of the applicant\u2019s complaint under the Convention. Nevertheless, the remedy required by Article\u00a013 must be \u201ceffective\u201d in practice as well as in law, in particular in the sense that its exercise must not be unjustifiably hindered by acts or omissions by the authorities of the respondent State (see Aksoy v. Turkey, cited above, \u00a7 95; and Aydin v. Turkey judgment of 25\u00a0September 1997, Reports 1997-VI, \u00a7\u00a0103).",
+                                "elements": []
+                            },
+                            {
+                                "content": "161.\u00a0\u00a0Given the fundamental importance of the rights guaranteed by Articles\u00a02 and 3 of the Convention, Article\u00a013 requires, in addition to the payment of compensation where appropriate, a thorough and effective investigation capable of leading to the identification and punishment of those responsible for the deprivation of life and infliction of treatment contrary to Article\u00a03, including effective access for the complainant to the investigation procedure leading to the identification and punishment of those responsible (see Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7\u00a0161-162, ECHR 2002-IV; Assenov and Others v. Bulgaria, cited above, \u00a7\u00a0114 et seq.; and S\u00fcheyla Ayd\u0131n v. Turkey, no. 25660/94, \u00a7\u00a0208, 24 May 2005). The Court further reiterates that the requirements of Article\u00a013 are broader than a Contracting State\u2019s obligation under Article 2 to conduct an effective investigation (see Orhan cited above, \u00a7\u00a0384; and Khashiyev and Akayeva v. Russia, cited above, \u00a7\u00a0183).",
+                                "elements": []
+                            },
+                            {
+                                "content": "162.\u00a0\u00a0In view of the Court\u2019s findings above with regard to Articles\u00a02 and 3, these complaints are clearly \u201carguable\u201d for the purposes of Article\u00a013 (see Boyle and Rice v. the United Kingdom, judgment of 27\u00a0April 1988, Series A no.\u00a0131 \u00a7\u00a052). The applicant should accordingly have been able to avail herself of effective and practical remedies capable of leading to the identification and punishment of those responsible and to an award of compensation, for the purposes of Article\u00a013.",
+                                "elements": []
+                            },
+                            {
+                                "content": "163.\u00a0\u00a0However, in circumstances where, as here, the criminal investigation into the disappearance and probable death was ineffective (see \u00a7\u00a7\u00a0120 -125 above), and where the effectiveness of any other remedy that may have existed, including the civil remedies suggested by the Government, was consequently undermined, the Court finds that the State has failed in its obligation under Article\u00a013 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "164.\u00a0\u00a0Consequently, there has been a violation of Article 13 of the Convention in connection with Articles 2 and 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "165.\u00a0\u00a0As regards the applicant\u2019s reference to Article 5 of the Convention, the Court recalls its findings of a violation of this provision (see \u00a7\u00a0149 above). In the light of this it considers that no separate issues arise in respect of Article 13 in connection with Article 5 of the Convention, which in itself contains a number of procedural guarantees related to the lawfulness of detention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0OBSERVANCE OF Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the convention",
+                        "elements": [
+                            {
+                                "content": "166.\u00a0\u00a0The applicant argued that the Government\u2019s late submission of the documents requested by the Court, namely of the criminal investigation file, disclosed a failure to comply with their obligations under Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention. The relevant parts of those Articles provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 34",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 38",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0If the Court declares the application admissible, it shall",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0pursue the examination of the case, together with the representatives of the parties, and if need be, undertake an investigation, for the effective conduct of which the States concerned shall furnish all necessary facilities.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "167.\u00a0\u00a0The applicant invited the Court to conclude that the Government had failed in their obligations under Article 38 by their refusal to submit documents from the investigation file upon the Court\u2019s requests between November 2003 and November 2005 (see above). She noted that the reasons provided by the Government had been arbitrary and that, in any event, after the case had been declared admissible and the hearing had been scheduled, they had submitted the file without renewed reference to Article 161 of the Code of Criminal Procedure. Furthermore, she alleged that the Government was still failing to disclose a number of documents contained in the file, notably the documents related to the discovery of five dead bodies in Alkhan-Kala in 2000 (see \u00a7\u00a7\u00a086-89 above). She also noted that the practice of denying the Court access to requested documents, notably criminal investigation files, concerned a large number of cases (about 20) communicated by the Court to the Russian Government, most of which concerned allegations of serious human rights violations in Chechnya.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "168.\u00a0\u00a0In the applicant\u2019s view, by their treatment of the Court\u2019s request for documents the Government had additionally failed to comply with their obligation under Article 34. Referring to the Ila\u015fcu judgment, she stated that the obligation under that Article prohibited the respondent States from taking actions capable of seriously hindering the Court\u2019s examination of an application lodged in exercise of the right to individual petition and thereby interfering with the right guaranteed by Article 34 (see Ila\u015fcu and Others v.  and  [GC], no. 48787/99, \u00a7\u00a0481, ECHR 2004VII). The applicant alleged that she was unable to substantiate her allegations about violations of the Convention because of the lack of access to the documents in question.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "169.\u00a0\u00a0The Government noted that the documents comprising the investigation file had been submitted to the Court in their entirety and within the time-limits stipulated by the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "170.\u00a0\u00a0The Court reiterates that proceedings in certain type of applications do not in all cases lend themselves to a rigorous application of the principle whereby a person who alleges something must prove that allegation, and that it is of the utmost importance for the effective operation of the system of individual petition instituted under Article 34 of the Convention that States should furnish all necessary facilities to make possible a proper and effective examination of applications (see Tanr\u0131kulu v. Turkey [GC], no. 23763/94, \u00a7\u00a070, ECHR 1999IV, where the Commission, as a result of the Government\u2019s conduct, was unable to obtain certain evidence and testimony it considered essential for discharging its functions).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "171.\u00a0\u00a0This obligation requires the Contracting States to furnish all necessary facilities to the Court, whether it is conducting a fact-finding investigation or performing its general duties as regards the examination of applications. It is inherent in the proceedings relating to cases of this nature, where individual applicants accuse State agents of violating their rights under the Convention, that in certain instances it is only the respondent State that has access to information capable of corroborating or refuting these allegations. A failure on a Government\u2019s part to submit such information which is in their hands without a satisfactory explanation may not only give rise to the drawing of inferences as to the well-foundedness of the applicant\u2019s allegations, but may also reflect negatively on the level of compliance by a respondent State with its obligations under Article\u00a038\u00a0\u00a7\u00a01\u00a0(a) of the Convention. For example, in the case of Tepe v. Turkey (no. 27244/95, \u00a7\u00a0128, 9 May 2003) the Court found that the Government had fallen short of their obligations under Article 38 in view of their repeated failure to submit the documents requested by the Court after the case had been declared admissible and the failure to ensure the attendance of key witnesses. The same applies to delays by the State in submitting information, which prejudices the establishment of facts in a case, both before and after the decision on admissibility (see the above-cited Timurta\u015f judgment, \u00a7\u00a7 66 and 70; and Orhan, \u00a7\u00a0266).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "172.\u00a0\u00a0In accordance with the principles enumerated in its case-law, the Court agrees that in certain cases delays in submitting information which is crucial to the establishment of facts may give rise to a separate finding under Article 38 of the Convention. In a case where the application raises issues of grave unlawful actions by State agents, the documents of the criminal investigation are fundamental to the establishment of facts and their absence may prejudice the Court\u2019s proper examination of the complaint both at the admissibility and merits stage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "173.\u00a0\u00a0In the present case, in March 2004, after the communication request, the Government submitted about half of the file, including the decision to open a criminal investigation, a number of important witness statements and orders from the supervising prosecutors enumerating the findings of the investigation. In November 2005, immediately after the case had been declared admissible, they submitted an entire copy of the file. After the hearing they also supplied, on two occasions, further updates to the file (see \u00a7\u00a7\u00a043-44 above). It should further be noted that a large part of the documents submitted in November 2005 and later were actually produced after March 2004 and therefore could not have been submitted before that time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "174.\u00a0\u00a0Taking into account the particular situation of the present case, the Court cannot find that the delays in submitting the information requested were such as to prejudice the establishment of facts or to otherwise prevent a proper examination of the case. In these circumstances, the Court considers that there has been no breach of Article 38 of the Convention as regards the timing of the submission of the documents requested by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "175.\u00a0\u00a0As to Article 34 of the Convention, its main objective is to ensure the effective operation of the right of individual petition. There is no indication in the present case that there has been any hindrance with the applicant\u2019s right to individual petition, either by interfering with the communication with the Court, representation before the Convention organs or by putting undue pressure on the applicant. The Court is of the opinion that the delay in submitting a full set of the documents requested raises no separate issues under Article 34, especially as it follows from the case-law cited above that the Court regards its provisions as a sort of lex generalis in relation to the provisions of Article 38 that specifically oblige the States to cooperate with the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "176.\u00a0\u00a0The Court thus finds there has been no failure on behalf of the respondent Government to comply with Articles 34 and 38\u00a0\u00a7\u00a01\u00a0(a) of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VIII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "177.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Non-pecuniary damage",
+                                "elements": [
+                                    {
+                                        "content": "178.\u00a0\u00a0The applicant did not submit any claims for pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "179.\u00a0\u00a0As to non-pecuniary damage, the applicant stated that she had lost her son and endured years of stress, frustration and helplessness in relation to his disappearance and the authorities\u2019 passive attitude. She claimed non-pecuniary damage, but left the determination of the amount to the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "180.\u00a0\u00a0The Government considered that no damages should be awarded to the applicant in the absence of conclusive evidence of fault by the authorities in her son\u2019s death and when the investigation was ongoing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "181.\u00a0\u00a0The Court has found a violation of Articles 2, 5 and 13 of the Convention on account of the unacknowledged detention and presumed death of the applicant\u2019s son in the hands of the authorities. The applicant herself has been found to be a victim of a violation of Article 3 in relation to the emotional distress and anguish endured by her. The Court thus accepts that she has suffered non-pecuniary damage which can not be compensated for solely by the findings of violations. Ruling on an equitable basis, it awards the applicant 35,000 euros (EUR), plus any tax that may be chargeable on the above amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "182.\u00a0\u00a0The applicant was represented by the SRJI. She submitted that the costs included research in Ingushetia and in , at a rate of EUR 50 per hour, and the drafting of legal documents submitted to the  and domestic authorities, at a rate of EUR 50 per hour for SRJI staff and EUR 150 per hour for SRJI senior staff.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "183.\u00a0\u00a0The applicant claimed EUR 14,345.08 in respect of costs and expenses related to her legal representation. This included:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 750 for the preparation of the initial application;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 1,250 for the preparation and translation of additional submissions;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 5,406 for the preparation and translation of the applicant\u2019s reply to the Government\u2019s memorandum;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 1,500 in connection with the preparation of additional correspondence with the ECHR;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 3,500 in connection with the preparation and translation of the applicant\u2019s response to the ECHR decision on admissibility;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 1,000 in connection with the preparation of legal documents submitted to the domestic law-enforcement agencies;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "EUR 938.46 for administrative costs (7% of legal fees).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "184.\u00a0\u00a0The Government did not dispute the details of the calculations submitted by the applicant, but contended that the sum claimed was excessive for a non-profit organisation such as the applicant\u2019s representative, the SRJI.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "185.\u00a0\u00a0The Court has to establish, first, whether the costs and expenses indicated by the applicant were actually incurred and, second, whether they were necessary (see McCann and Others cited above, \u00a7 220).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "186.\u00a0\u00a0The Court notes that, under a contract entered into by the applicant on 31 October 2005, she agreed to pay her representative those costs and expenses incurred for representation before the Court, subject to delivery by the Court of a final judgment concerning the present application and to payment by the Russian Federation of the legal costs should these be granted by the Court. The rates were established at 50 EUR per hour for lawyers from the SRJI and 150 EUR per hour for senior staff from the SRJI and outside experts, plus 7% for administrative costs. The Court is satisfied that these rates are reasonable and reflect the expenses actually incurred by the applicant\u2019s representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "187.\u00a0\u00a0Further, it has to be established whether the costs and expenses incurred by the applicant for legal representation were necessary. The Court notes that this case was rather complex, especially in view of the large amount of documentary evidence involved, and required the research and preparation in the amount stipulated by the representative.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "188.\u00a0\u00a0In these circumstances and having regard to the details of the claims submitted by the applicant, the Court awards her the full amount of the claimed sum of EUR 14,345, less the EUR 2,104 received by way of legal aid from the Council of Europe, together with any value-added tax that may be chargeable.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "189.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of the disappearance of Khadzhi-Murat Yandiyev;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article\u00a02 of the Convention in respect of the failure to conduct an effective investigation into the circumstances in which Khadzhi-Murat Yandiyev disappeared;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article\u00a03 of the Convention in respect of the failure to protect the applicant\u2019s son from inhuman and degrading treatment;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that no separate issues arise under Article\u00a03 of the Convention in respect of the investigation into the allegations of torture;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article\u00a03 of the Convention in respect of the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article\u00a05 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that no separate issues arise under Article\u00a06 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds that no separate issues arise under Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds that there has been a violation of Article\u00a013 of the Convention in respect of the alleged violation of Articles 2 and 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds that no separate issues arise under Article 13 of the Convention in respect of the alleged violation of Article 5;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds that there has been no failure to comply with Articles 34 and 38 \u00a7 1 (a) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 27 July 2006, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrC.L. Rozakis",
+            "role": "president"
+        },
+        {
+            "name": "MrL. Loucaides",
+            "role": "judges"
+        },
+        {
+            "name": "MrsF. Tulkens",
+            "role": "judges"
+        },
+        {
+            "name": "MrP. Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "MrsN. Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "MrA. Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Mr S. Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF BAZORKINA v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-76493.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2006:0727JUD006948101",
+    "externalsources": [],
+    "extractedappno": [
+        "69481/01",
+        "25657/94",
+        "21986/93",
+        "23657/94",
+        "20764/92",
+        "23531/94",
+        "28883/95",
+        "22277/93",
+        "21954/93",
+        "23763/94",
+        "22676/93",
+        "22535/93",
+        "25803/94",
+        "57942/00",
+        "57945/00",
+        "38361/97",
+        "25660/94",
+        "48787/99",
+        "27244/95"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-76493",
+    "judgementdate": "27/07/2006 00:00:00",
+    "kpdate": "27/07/2006 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "231",
+        "350",
+        "193",
+        "448",
+        "228",
+        "459",
+        "444",
+        "183",
+        "177",
+        "121",
+        "594",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "38",
+        "2",
+        "34",
+        "5-1",
+        "5",
+        "13",
+        "41"
+    ],
+    "parties": [
+        "BAZORKINA",
+        "RUSSIA"
+    ],
+    "rank": "555.352478027344",
+    "representedby": [
+        "YEZHOVA YELENAPEIRCE, G"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [
+        "Anguelova v. Bulgaria, no. 38361/97, \u00a7\u00a7 161-162, ECHR 2002-IV",
+        "Assenov and Others v. Bulgaria, judgment of 28 October 1998, Reports 1998-VIII, p. 3288, \u00a7 93, and \u00a7 114 et seq.",
+        "Avsar v. Turkey, no. 25657/94, \u00a7\u00a7 282, 283 and 391, ECHR 2001-VII (extracts)",
+        "Aydin v. Turkey judgment of 25 September 1997, Reports 1997-VI, \u00a7 103",
+        "Boyle and Rice v. the United Kingdom, judgment of 27 April 1988, Series A no. 131 \u00a7 52",
+        "\u00c7akici v. Turkey [GC], no. 23657/94, \u00a7\u00a7 80, 85, 87, 98, 104, 405 et 106, ECHR 1999-IV",
+        "Ertak v. Turkey, no. 20764/92, \u00a7 32, ECHR 2000-V",
+        "G\u00fcl v. Turkey, no. 22676/93, \u00a7 89, judgment of 14 December 2000",
+        "G\u00fcle\u00e7 v. Turkey judgment of 27 July 1998, Reports 1998-IV, \u00a7\u00a7 81-82",
+        "Ilhan v. Turkey [GC] no. 22277/93, \u00a7 63, ECHR 2000-VII",
+        "Ireland v. the United Kingdom judgment of 18 January 1978, Series A no. 25, p. 65, \u00a7 161",
+        "Kaya v. Turkey judgment of 19 February 1998, Reports of Judgments and Decisions 1998-I, P 324, \u00a7 87, and p. 329, \u00a7 105",
+        "Klaas v. Germany, judgment of 22 September 1993, Series A no. 269, p. pp. 17-18, \u00a7 30",
+        "Mahmut Kaya v. Turkey, no. 22535/93, ECHR 2000-III, \u00a7\u00a7 106-107",
+        "McCann and Others v. the United Kingdom, judgment of 27 September 1995, Series A no. 324, \u00a7\u00a7 146-147, 161 and 220",
+        "McKerr v. the United Kingdom (dec.), no. 28883/95, 4 April 2000",
+        "McKerr v. the United Kingdom, no. 28883/95, \u00a7 121, ECHR 2001-III",
+        "\u00d6gur v. Turkey [GC], no. 21954/93, \u00a7\u00a7 88, 91-92, ECHR 1999-III",
+        "Ribitsch v. Austria judgment of 4 December 1995, Series A no. 336, \u00a7 32",
+        "Salman v. Turkey [GC], no. 21986/93, \u00a7100 and \u00a7 106, ECHR 2000-VII",
+        "Selmouni v. France [GC], no. 25803/94, \u00a7 95, ECHR 1999-V",
+        "S\u00fcheyla Aydin v. Turkey, no. 25660/94, \u00a7 208, 24 May 2005",
+        "Tanrikulu v. Turkey [GC], no. 23763/94, \u00a7 70 and \u00a7 109, ECHR 1999-IV",
+        "Tepe v. Turkey, no. 27244/95, \u00a7 128, 9 May 2003",
+        "Timurtas v. Turkey, no. 23531/94, \u00a7\u00a7 66, 70, 82-83, 95 and 105, ECHR 2000-VI"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "398285",
+    "typedescription": "15"
+}

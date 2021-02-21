@@ -1,0 +1,734 @@
+{
+    "__articles": "8;8-1;10;10-1;10-2;14;14+8-1",
+    "__conclusion": "No violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for private life);No violation of Article 14+8-1 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Article 8-1 - Respect for private life)",
+    "applicability": "55",
+    "appno": "70434/12",
+    "article": [
+        "14",
+        "10",
+        "8"
+    ],
+    "conclusion": [
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8 - Positive obligations",
+                "Article 8-1 - Respect for private life"
+            ],
+            "element": "No violation of Article 8 - Right to respect for private and family life",
+            "type": "no-violation"
+        },
+        {
+            "article": "8-1",
+            "base_article": "8",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+8-1 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for private life"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+8-1 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for private life"
+            ],
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-161527.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": ".\u00a0\u00a0The case originated in an application (no. 70434/12) against the Portuguese Republic lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Portuguese national, Mr Manuel Lu\u00eds Sousa Goucha (\u201cthe applicant\u201d), on 23 October 2012.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The applicant was represented by Mr A. Milagre, a lawyer practising in Lisbon. The Portuguese Government (\u201cthe Government\u201d) were represented by their Agent, Mrs M. F. da Gra\u00e7a Carvalho, Deputy Attorney-General.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The applicant alleged, in particular, that the unfavourable outcome of his defamation case before the Portuguese courts was discrimination on grounds of sexual orientation. He cited Article 14 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0On 1 October 2014 the application was communicated to the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The parties filed written observations. In addition, third-party comments were received from Alliance Defending Freedom (\u201cADF\u201d), an association based in the United States of America dedicated to protecting fundamental freedoms including freedom of expression, represented by Mr\u00a0R. Kiska, Mr\u00a0P. Coleman and Mr\u00a0R. Clarke, which had been given leave to intervene in the written procedure (Article 36 \u00a7 2 of the Convention and Rule 44 \u00a7 3).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant was born in 1954 and lives in Fontanelas.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0He is one of the most well-known television hosts in Portugal and is currently the host of a morning talk show. He has worked in the media for almost forty years.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0He publicly declared his homosexuality in 2008.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Background",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0Between midnight and 1 a.m. on 28 December 2009, a live talk show, Five Minutes to Midnight (5 Para a Meia-Noite) was broadcast on one of the channels of the national television service, RTP2. The programme was presented by F.C. and featured two famous people from the media as guests.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In the course of the talk show, during a quiz, the guests were asked to answer the following question, which was identified as the most important by F.C.: \u201cWho is the best Portuguese female TV host?\u201d\u00a0The possible answers to the question included the name of three female television hosts and the applicant\u2019s; the latter being the \u201ccorrect\u201d one. The transcript of the quiz reads:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cF.C.: Who is the best female Portuguese TV host? Option A, F.C.; option B, C.V; option C, C.P. or option D, Manuel Lu\u00eds Goucha.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: This is a tough one.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "F.C:. J.M....",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: Oh boy. I will obviously exclude option A, definitely. From the other three, I think they are all gorgeous. I\u2019ll choose...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "F.C: We know that you are a Manuel Lu\u00eds Goucha fan and [that] this is difficult for you. Goucha in the afternoons, mornings...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: It\u2019s true.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "F.C.: Let\u2019s do this. What\u2019s your answer? We can\u2019t wait any longer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: Well, then I have to go for the pregnant one. Option B, C.V.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "F.C.: ... C.V. was J.M.\u2019s extremely dishonest answer and clearly contrary to everything he believes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: C\u2019mon, show me the answer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "F.C.: Let\u2019s see the answer. J.M. cannot stand his excitement any longer. Let\u2019s see the answer. Manuel Lu\u00eds Goucha!",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "J.M.: I knew it, I knew it. That\u2019s what I was going to say. She was the one telling me not to say it, that it could be bad.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The proceedings at issue",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0On an unspecified date of 2010 the applicant lodged a criminal complaint for defamation and \u201cinsult\u201d (inj\u00faria) with the Lisbon Criminal Department for Investigation and Prosecution against the State-owned television company RTP, the production company, the television presenter F.C. and the directors of programming and content. He complained that they had damaged his reputation and dignity by including his name in the list of possible answers to the question asked during the programme.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 2 March 2011 a public prosecutor of the Lisbon Criminal Department discontinued the proceedings by adopting a decision which stated that the defendants had not intended to offend the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On an unspecified date the applicant sought to intervene in the proceedings as an assistant to the public prosecutor (assistente) and lodged private prosecution submissions (acusa\u00e7\u00e3o particular) with the Lisbon Criminal Investigation Court (Tribunal de Instru\u00e7\u00e3o Criminal) against the defendants. They challenged his prosecution submissions by requesting that a judicial investigation be opened (requerimento de abertura de instru\u00e7\u00e3o).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 24 June 2011 the investigating judge (juiz de instru\u00e7\u00e3o) responsible dismissed the case (despacho de n\u00e3o pron\u00fancia). In relation to the individual defendants, the judge decided that there was insufficient evidence of any defamation and insults by them, thus the case was unable to be brought to trial. The relevant part of the decision reads:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cGiven the defendants\u2019 statements, it is clear that they did not intend to attack the [assistente\u2019s] honour. Nor did they anticipate this as possible. The subjective element of this criminal offence is therefore unverified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The [assistente] is a public figure and so must be used to having his characteristics captured by comedians in order to promote humour; it being public knowledge that [the applicant\u2019s characteristics] reflect behaviour that is attributed to the female gender, such as his way of expressing himself, his colourful [feminine] clothes, and the fact that he has always lived in a world of women (see, for example, the programmes he has always presented on television).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The [assistente] has recently made his homosexuality public, and the defendants never intended to criticise his sexual orientation ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "With regard to the two defendant companies, the proceedings were discontinued pursuant to Article 11 of the Criminal Code, which excludes \u201clegal persons\u201d from liability for defamation and insult.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicant appealed against the decision not to indict the natural defendants before the Lisbon Court of Appeal (Tribunal da Rela\u00e7\u00e3o de Lisboa). In particular, he argued that the reason his name had been included in the list of possible answers had been his sexual orientation. On 17\u00a0April 2012 the appeal was dismissed. The court upheld the Criminal Investigation Court\u2019s decision. It stated that there was insufficient evidence to enable them to consider that there had been any defamation by the defendants. In its decision, the court cited the above quotation from the investigating judge\u2019s decision of 24 June 2011 and further stated:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": " \u201cIt should not be considered offensive to one\u2019s honour anything that the complainant considers as such, but what in the opinion of the majority of reasonable people should be considered an offence to the social and individual values of respect (judgment of the Coimbra Court of Appeal of 16 March 1993).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "And as the impugned decision noted, having balanced in a very sensible way the conflict of interests at hand and the context in which it unfolded:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2018It should be taken into account that we have before us a comedy show, and that the moment at which the defendant asked her guest a question, referring to [assistente] Manuel Lu\u00eds Goucha as \u2018one of the best female Portuguese hosts\u2019, was considered to be one of the many jokes said throughout the show, typical of such shows.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The [assistente] is a public figure and so must be used to having his characteristics captured by comedians in order to promote humour; it being public knowledge that [the applicant\u2019s characteristics] reflect behaviour that is attributed to the female gender, such as his way of expressing himself, his colourful [feminine] clothes, and the fact that he has always lived in a world of women (see, for example, the programmes he has always presented on television).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The [assistente] has recently made his homosexuality public, and the defendants never intended to criticise his sexual orientation. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It further considered that:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the expression used in a playful and irreverent context and in the normal style previously adopted by the television show under consideration, even though one may consider it as being in bad taste, does not reach the threshold required by law for the protection of honour and consideration.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The offences of defamation and insult are defined in the Portuguese Criminal Code as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 180",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Anyone who, when addressing a third party, accuses another, even if the accusation takes the form of a suspicion, or makes a judgment that casts a slur on the honour or reputation of the other, even when reproducing the accusation or judgment, shall be liable on conviction to a maximum of six months\u2019 imprisonment or 240 day-fines.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 181",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Anyone who insults another, by accusing him of something, even if the accusation takes the form of a suspicion, or by addressing them with words that cast a slur on their honour or reputation shall be liable on conviction to a maximum of three months\u2019 imprisonment or 120 day-fines.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0RELEVANT INTERNATIONAL LAW MATERIAL",
+                        "elements": [
+                            {
+                                "content": "Case-law of the Court of Justice of the European Union",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0In the case of Deckmyn v. Vandersteen (Case C-201/13, 3\u00a0September 2014), the Court of Justice of the European Union was requested to interpret the meaning of parody in a preliminary ruling. It observed that:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0Article 5(3)(k) of Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society, must be interpreted as meaning that the concept of \u2018parody\u2019 appearing in that provision is an autonomous concept of EU law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0Article 5(3)(k) of Directive 2001/29 must be interpreted as meaning that the essential characteristics of parody, are, first, to evoke an existing work, while being noticeably different from it, and secondly, to constitute an expression of humour or mockery. The concept of \u2018parody\u2019, within the meaning of that provision, is not subject to the conditions that the parody should display an original character of its own, other than that of displaying noticeable differences with respect to the original parodied work; that it could reasonably be attributed to a person other than the author of the original work itself; that it should relate to the original work itself or mention the source of the parodied work.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "However, the application, in a particular case, of the exception for parody, within the meaning of Article 5(3)(k) of Directive 2001/29, must strike a fair balance between, on the one hand, the interests and rights of persons referred to in Articles 2 and 3 of that directive, and, on the other, the freedom of expression of the user of a protected work who is relying on the exception for parody, within the meaning of Article 5(3)(k).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It is for the national court to determine, in the light of all the circumstances of the case in the main proceedings, whether the application of the exception for parody, within the meaning of Article 5(3)(k) of Directive 2001/20, on the assumption that the drawing at issue fulfils the essential requirements of parody, preserves the fair balance.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "\tALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION AND OF ARTICLE\u00a014 TAKEN IN CONJUNCTION WITH ARTICLE\u00a08",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0Relying on Article 14 of the Convention, the applicant complained that he had been discriminated against by the domestic courts because of his homosexuality which he had made public in 2008. In particular, he argued that the domestic courts\u2019 reasons for dismissing his defamation proceedings had been discriminatory.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Court reiterates that it is the master of the characterisation to be given in law to the facts of the case (see Guerra and Others v.\u00a0Italy, 19\u00a0February 1998, \u00a7 44, Reports of Judgments and Decisions 1998I). In the present case, it considers that the complaints fall to be examined under Article 8 and under Article 14 in conjunction with Article 8. Those provisions read:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 8",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 14",
+                                "elements": []
+                            },
+                            {
+                                "content": " \u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, religion, political or other opinion, national or social origin, association with a minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Applicability of Article 8",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The Government contested the applicability of Article 8 in the present case. Referring to the case of Axel Springer AG v.\u00a0Germany ([GC] no.\u00a039954/08, 7 February 2012), they did not dispute that the right to protection of reputation fell within the notion of \u201cprivate life\u201d within the meaning of Article 8. However, they submitted that the applicability of Article 8 to such cases required that the attack on a person\u2019s reputation had to attain a certain level of seriousness and be in a manner causing prejudice to personal enjoyment of the right to respect for private life. They argued that in the present case, however, the attack on the applicant\u2019s reputation had not fulfilled the \u201ccertain level of seriousness\u201d requirement established in the Court\u2019s case-law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant submitted that he had suffered an attack on his reputation, which fell under \u201cprivate life\u201d within the meaning of Article\u00a08. In particular, he argued that the impugned joke had made an association between his sexual orientation and the female gender.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The third-party organisation, ADF, submitted that Article 8 would not necessarily be applicable where a private person speaks in such a way as to cause subjective offence to another. Referring to the cases of Sentges v.\u00a0the Netherlands ((dec.), no. 27677/02, ECHR 2003), Axel Springer AG (cited above) and A. v. Norway (no. 28070/06, 9 April 2009), the third party alleged that for Article 8 to come into play in the context of speech, the attack on a person\u2019s reputation should attain a certain level of seriousness, and the prejudice caused to that person must also exceed a minimum threshold.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0The concept of \u201cprivate life\u201d is a broad term not susceptible to exhaustive definition, which covers the moral integrity of a person and can therefore embrace multiple aspects of a person\u2019s identity, such as gender identification and sexual orientation, name or elements relating to a person\u2019s right to their image (see E.B. v.\u00a0France [GC], no. 43546/02, \u00a7\u00a043, 22\u00a0January 2008, and Von Hannover v. Germany (no. 2) [GC], nos.\u00a040660/08 and 60641/08, \u00a7 95, ECHR 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that the right to protection of reputation is a right protected by Article 8 of the Convention as part of the right to respect for private life (see Axel Springer AG, \u00a7 83, and A. v. Norway, \u00a7\u00a064, both cited above). The Court has also already held that a person\u2019s reputation, even if he or she was criticised in the context of a public debate, forms part of his or her personal identity and psychological integrity (see Pfeifer v.\u00a0Austria, no. 12556/03, \u00a7 35, 15 November 2007).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In order for Article 8 to come into play, the attack on personal honour and reputation must attain a certain level of seriousness and be in a manner causing prejudice to personal enjoyment of the right to respect for private life (see Axel Springer AG, cited above, \u00a7 83).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0What is at issue in the present case is whether Article 8 is applicable to the joke made about the applicant in the context of a television comedy show.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court observes that the impugned joke included the applicant in a list of female hosts which, in the applicant\u2019s view, mixed his gender with his sexual orientation (see paragraph 10 above). The Court reiterates that sexual orientation is a profound part of a person\u2019s identity and that gender and sexual orientation are two distinctive and intimate characteristics. It notes, in this regard, cases which have been brought before the Court concerning gender identity revealing the intimate importance that one gives to it (see, among many other authorities, Grant v. the United Kingdom, no.\u00a032570/03, ECHR 2006VII; L. v. Lithuania, no. 27527/03, ECHR 2007IV; P. v. Portugal (dec.), no. 56027/09, ECHR 2011); H\u00e4m\u00e4l\u00e4inen v.\u00a0Finland [GC], no. 37359/09, ECHR 2014; and Y.Y. v.\u00a0Turkey, no.\u00a014793/08, ECHR 2015 (extracts)). Any confusion between the two will therefore constitute an attack on one\u2019s reputation capable of attaining a sufficient level of seriousness for touching upon such an intimate characteristic of a person. Article 8 therefore applies to the present case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Conclusion",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant submitted that not everything could be written or said about public figures due to their reputation. He asserted that the Portuguese courts had wrongly considered the impugned joke to be non-discriminatory towards the applicant. He stressed that the television show creators and host had intentionally confused his gender with his sexual orientation with the aim of making people laugh.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant argued that the domestic authorities were under an obligation to protect his right to reputation pursuant to Article 8 of the Convention. In his view, the rulings of the domestic courts were also incompatible with Article 14 of the Convention. In particular, he pointed out that the domestic courts had based their decision to dismiss his case on his sexual orientation. He further submitted that the wording of the domestic courts\u2019 decisions had been discriminatory.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government maintained that Article 8 had not been violated. In their view, the domestic courts had struck a fair balance when protecting the values guaranteed by the Convention which could come into conflict with each other in this type of case, namely the right to protection of reputation under Article 8 on the one hand and freedom of expression protected by Article\u00a010 on the other. The Government thus concurred with the domestic courts\u2019 finding that the aim of the joke had not been to attack the applicant\u2019s sexual orientation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government further pointed out that humour was a form of freedom of expression, and that public powers could not impose limits on satirical discourse.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government emphasised that the domestic courts had not discriminated against the applicant on any grounds. They had noted that a public figure is more exposed to criticism and humour and that it was normal to highlight one\u2019s characteristics through parody and mockery. Public figures should be more tolerant to public scrutiny and criticism.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government considered the comments made by the domestic courts debatable and that their reasoning had extended to comments that could have been avoided. Nevertheless, those comments \u2013 which could be considered polemic \u2013 did not suggest the domestic courts had acted discriminatorily, given the context in which they were made.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The organisation ADF submitted that the vast majority of cases in which the Court has had to reconcile the conflict of rights claimed under Articles\u00a08 and 10 have been brought by an organisation prohibited from publishing or distributing the offending material. However, the approach should not differ where the application has been made by the offended person.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Given the fundamental nature of Article 10 and the importance of the rights guaranteed therein to a free and democratic society, they argued that regard should be had to the stifling effect of \u201chate speech\u201d law. In particular, in evaluating a claim under Article 8, the Court should be slow to conclude that mere speech can fall within the scope of the private life protections. Furthermore, where it concludes that Article 8 is nonetheless applicable, the subsequent balancing exercise should take into account not only the individual impact on Article 10 rights, but the wider impact on society of criminalising, or otherwise deterring, speech which is merely subjectively objectionable.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0ADF also observed that the Court of Justice of the European Union (in the judgment Deckmyn v. Vandersteen, Case C-201/13, 3\u00a0September 2014) and the Court had acknowledged the particularly wide margin of appreciation associated with parody in the context of artistic expression, noting that those who created parody contributed to the exchange of ideas and opinions, which are essential to a democratic society. Referring to the case of Vereinigung Bildender K\u00fcnstler v. Austria (no.\u00a068354/01, 25\u00a0January 2007), it submitted that satire is a form of artistic expression and social commentary and, by its inherent features of exaggeration and distortion of reality, naturally aims to provoke and agitate. Referring to the case of Nikowitz and Verlagsgruppe News GmbH v. Austria (no.\u00a05266/03, 22\u00a0February 2007), it submitted that the Court had cemented its case-law employing the standard of a reasonable reader when approaching satirical material, refusing to interfere with freedom of expression for the sake of protecting the reputation of others as relates to unfocussed readership.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The case essentially raises an issue of protection of honour and reputation as part of the right to respect for private life under Article\u00a08 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that the applicant did not complain about an action by the State but rather that the State had failed to protect his reputation against interference by third parties.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that, although the object of Article\u00a08 is essentially that of protecting the individual against arbitrary interference by the public authorities, it does not merely compel the State to abstain from such interference: in addition to this primarily negative undertaking, there may be positive obligations inherent in effective respect for private and family life. These obligations may involve the adoption of measures designed to secure respect for private and family life even in the sphere of the relations of individuals between themselves. The boundary between the State\u2019s positive and negative obligations under this provision does not lend itself to precise definition. The applicable principles are, nonetheless, similar. In both contexts regard must be had to the fair balance that has to be struck between the competing interests of the individual and of the community as a whole; and in both contexts the State enjoys a certain margin of appreciation (see Von Hannover v. Germany, no. 59320/00, \u00a7\u00a057, ECHR 2004VI; and Pfeifer, cited above, \u00a7 37).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court also reiterates that, even where a person is known to the general public, he or she may rely on a \u201clegitimate expectation\u201d of protection and respect for his or her private life. Thus, the fact that an individual belongs to the category of public figures cannot in any way, even in the case of persons exercising official functions, authorise the media to violate the professional and ethical principles which must govern their actions, or legitimize intrusions into private life (see Von Hannover v.\u00a0Germany (no. 2), cited above, \u00a7 97, and more recently, Couderc and Hachette Filipacchi Associ\u00e9s v.\u00a0France [GC], no. 40454/07, \u00a7 122, 10\u00a0November 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In cases like the present one where the complaint is that rights protected under Article 8 have been breached as a consequence of the exercise by others of their right to freedom of expression, due regard should be had, when applying Article 8, to the requirements of Article 10 of the Convention (see, for instance and mutatis mutandis, Von Hannover v.\u00a0Germany, cited above, \u00a7 58). Thus, in such cases the Court will need to balance the applicant\u2019s right to \u201crespect for his private life\u201d against the public interest in protecting freedom of expression, bearing in mind that no hierarchical relationship exists between the rights guaranteed by the two Articles (see Timciuc v. Romania (dec.), no. 28999/03, \u00a7 144, 12\u00a0October 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In this context the Court reiterates that freedom of expression constitutes one of the essential foundations of a democratic society. Subject to paragraph 2 of Article 10 of the Convention, it is applicable not only to \u201cinformation\u201d or \u201cideas\u201d that are favourably received or regarded as inoffensive or as a matter of indifference, but also to those that offend, shock or disturb. Such are the demands of pluralism, tolerance and broadmindedness without which there is no democratic society (see, amongst many authorities, Handyside v. the United Kingdom, 7\u00a0December 1976, \u00a7 49, Series A no. 24, and Reinboth and Others v. Finland, no.\u00a030865/08, \u00a7 74, 25 January 2011). This freedom is subject to the exceptions set out in Article 10 \u00a7 2 which must, however, be strictly construed. The need for any restrictions must therefore be established convincingly (see, for example, Delfi AS v. Estonia [GC], no.\u00a064569/09, \u00a7\u00a0131, ECHR 2015).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Lastly, in cases which require the right to respect for private life to be balanced against the right to freedom of expression, the Court considers that the outcome of the application should not, in theory, vary according to whether it has been lodged with the Court under Article 8 of the Convention or under Article 10. Accordingly, the margin of appreciation should, in theory, be the same in both cases (see Couderc and Hachette Filipacchi Associ\u00e9s, cited above, \u00a7 91).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Where the balancing exercise between those two rights has been undertaken by the national authorities in conformity with the criteria laid down in the Court\u2019s case-law, the Court would require strong reasons to substitute its view for that of the domestic courts (see, Axel Springer AG, cited above, \u00a7\u00a7 85-88).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant claimed that the dismissal by the domestic courts of his defamation proceedings against the television show was in breach of his right to reputation under Article 8.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0At the outset, the Court notes that the alleged violation does not stem from a civil judgment on the merits or a judgment of a trial court, but from the refusal of the authorities to prosecute in a criminal case. The main issue in the present case is thus whether the State, in the context of its positive obligations under Article 8, achieved a fair balance between the applicant\u2019s right to protection of his reputation, which is an element of his \u201cprivate life\u201d, and the other parties\u2019 right to freedom of expression guaranteed by Article 10 of the Convention (see Von Hannover, cited above, \u00a7\u00a058).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court firstly notes that the applicant was a well-known television host in Portugal and thus a \u201cpublic figure\u201d within the meaning of the Court\u2019s case-law (see Courdec and Hachette Filipacchi Associ\u00e9s, cited above, \u00a7\u00a7 117-123). In that respect and in line with its case-law, the Court has already stated that the extent to which an individual has a public profile or is well-known influences the protection that may be afforded to his or her private life (ibid., \u00a7\u00a0117).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0The Court further notes that the disputed joke was made during the broadcast of a late-night comedy show on television. It allegedly played with his sexual orientation and gender by including him in the list of female hosts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Having been required on numerous occasions to consider disputes involving humour and satire, the Court reiterates that satire is a form of artistic expression and social commentary and, by its inherent features of exaggeration and distortion of reality, naturally aims to provoke and agitate. Accordingly, any interference with an artist\u2019s right to such expression must be examined with particular care (see Vereinigung Bildender K\u00fcnstler v.\u00a0Austria, no. 68354/01, \u00a7 33, 25 January 2007, and Alves da Silva v.\u00a0Portugal, no. 41665/07, \u00a7 27, 20 October 2009; see also, mutatis mutandis, Tu\u015falp v. Turkey, nos. 32131/08 and 41617/08, \u00a7 48, 21\u00a0February 2012, and Welsh and Silva Canha v. Portugal, no. 16812/11, \u00a7\u00a7\u00a029-30, 17\u00a0September 2013). The Court further observes that in the judgment of Nikowitz and Verlagsgruppe News (cited above) it introduced the criterion of the reasonable reader when approaching issues relating to satirical material (\u00a7\u00a7 24-26). Additionally, as also acknowledged by the Court of Justice of the European Union, a particularly wide margin of appreciation should be given to parody in the context of freedom of expression (see paragraph 19 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court then observes that in the cases in which it was confronted with a satiric form of expression, the artistic creations in question were made against a background of political critique and debate. For instance, in the case of Alves da Silva, it took into account the specific context of carnival festivities in Portugal in which citizens take the opportunity to, through satire and caricature, criticise politicians (cited above, \u00a7\u00a7\u00a028-29). In the case of Welsh and Silva Canha, it took into account the content of the article written by the journalists \u2013 the misuse of public money  in a satirist newspaper. In this regard, the instant case is distinguishable from previous cases where the right to respect for private life had to be balanced against the right to freedom of expression, as the joke was not made in the context of a debate of public interest and, as such, no matters of public interest were at stake (see, for example, Axel Springer AG v. Germany and A. v.\u00a0Norway, both cited above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In this context, the Court considers that a State\u2019s obligation under Article\u00a08 to protect an applicant\u2019s reputation may arise where the statements go beyond the limits of what is considered acceptable under Article 10.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court observes that in the defamation proceedings brought by the applicant, the domestic courts had to decide whether the joke fulfilled the elements of the offence of defamation. The applicant\u2019s allegations that the statement in question damaged his reputation were analysed by the domestic courts, which dismissed his claims in respect of damage as ill-founded. They considered that for a reasonable person, the joke would not be perceived as defamation because it referred to the applicant\u2019s characteristics, his behavior and way of expressing himself (see paragraphs 14 and 15 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "In their assessment, the domestic courts took into account the context in which the joke had been made, in particular by taking into account the playful and irreverent style of the television comedy show and its usual humour (see paragraphs 14 and 15 above). Additionally, they took into account the fact that the applicant was a public figure.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court also notes that in reaching the conclusion to dismiss the applicant\u2019s defamation proceedings, the authorities considered that the defendants had not intended to criticise the applicant\u2019s sexual orientation (see paragraphs 14 and 15 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the above, the Court considers that the domestic courts did convincingly establish the need for placing the protection of the defendants\u2019 freedom of expression above the applicant\u2019s right to protection of reputation. It notes, in particular, that they took into account the defendants\u2019 lack of intent to attack the applicant\u2019s reputation and assessed the way in which a reasonable spectator of the comedy show in question would have perceived the impugned joke \u2013 rather than just considering what the applicant felt or thought towards the joke. A limitation on freedom of expression for the sake of the applicant\u2019s reputation would therefore have been disproportionate under Article 10 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Having regard to all the foregoing factors, and the margin of appreciation afforded to the State in this area, the Court concludes that the domestic courts struck a fair balance between the television show\u2019s freedom of expression under Article 10 and the applicant\u2019s right to have his reputation respected under Article 8. In sum, the Court is satisfied that this decision was in line with Convention standards, and finds no reason to substitute its view for that of the domestic courts.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "There has, accordingly, been no violation of Article\u00a08 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0As the Court has consistently held, Article 14 complements the other substantive provisions of the Convention and its Protocols. It has no independence existence, since it has effect solely in relation to \u201cthe enjoyment of the rights and freedoms\u201d safeguarded by those provisions. The application of Article 14 does not necessarily presuppose the violation of one of the substantive rights guaranteed by the Convention. It is necessary but also sufficient for the facts of the case to fall \u201cwithin the ambit\u201d of one or more of the Convention Articles (see, as a recent authority, Burden v.\u00a0the United Kingdom [GC], no. 13378/05, \u00a7 58, ECHR 2008). In the present case, in view of its findings in paragraph 28 above, the Court holds that Article 14 applies to the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Court has established in its case-law that in order for an issue to arise under Article 14, there must be a difference in treatment of persons in analogous or relevantly similar situations. Such a difference in treatment is discriminatory if it has no objective and reasonable justification; in other words, if it does not pursue a legitimate aim or if there is no reasonable relationship of proportionality between the means employed and the aim sought to be realised. Contracting States enjoy a certain margin of appreciation in assessing whether and to what extent differences in otherwise similar situations justify a difference in treatment (see, inter alia, Schalk and Kopf v. Austria, no. 30141/04, \u00a7 96, ECHR 2010, and Burden, cited above, \u00a7 60).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant complained that the domestic courts had based their decisions to dismiss his defamation proceedings on discriminatory grounds, namely his sexual orientation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Faced with the applicant\u2019s complaint of a violation of Article\u00a014, as formulated, the Court\u2019s task is to establish whether or not his sexual orientation was a causal factor in the domestic courts\u2019 refusal to prosecute, thus giving rise to a breach of Article 14 of the Convention taken in conjunction with Article 8.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court firstly observes that the domestic courts referred in their decisions to the fact that the applicant had made his homosexuality public. In assessing whether the joke had reached the defamation threshold, they noted that the applicant dressed himself in a \u201ccolourful way\u201d and hosted television shows which were generally watched by women (see paragraphs\u00a014 and 15 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the applicant\u2019s view, the wording of the decisions clearly showed that the decisions to discontinue the defamation proceedings and consider the disputed joke not an attack on his reputation was based on his sexual orientation, which inevitably gave rise to discrimination against him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government submitted that the decisions in question had not touched on the applicant\u2019s homosexuality. The domestic courts\u2019 considerations had been observations that had to be read in the context of the case. Even if the extracts of those decisions could arguably have been unfortunate expressions, they could not in themselves amount to a violation of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the instant case, the Court observes that the applicant himself had mentioned his sexual orientation in public and to the domestic courts. In this context, in the analysis of the case it would have been difficult for the domestic courts to avoid referring to it. In addition the domestic courts framed the impugned joke in the light of the applicant\u2019s external behaviour and the style of the talk show (see paragraphs 14 and 15 above) albeit, as submitted by the Government, through debatable comments. The Court takes further note that, in their decisions, the domestic courts considered that the television show and its host did not have any intention to attack the applicant\u2019s sexual orientation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In this regard, and in the light of the above considerations concerning the domestic courts\u2019 analysis of the case, there is nothing to suggest that the Portuguese authorities would have arrived at different decisions had the applicant not been homosexual (contrast with Salgueiro da Silva Mouta v. Portugal, no. 33290/96, \u00a7\u00a7 34-36, ECHR 1999IX). The reason for refusing to prosecute seems rather to have been the weight given to freedom of expression in the circumstances of the case and the lack of intention to attack the applicant\u2019s honour. Consequently, in the absence of any firm evidence, it is not possible to speculate whether the applicant\u2019s sexual orientation had any bearing on the domestic courts\u2019 decisions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0Given the circumstances of the case, the Court is persuaded by the Government\u2019s argument that the relevant passages were \u201cdebatable\u201d and \u201ccould have been avoided\u201d, but did not have discriminatory intent.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0In the light of these findings, therefore, it cannot be said that the applicant was discriminated against on the grounds of his sexual orientation. There has, accordingly, been no violation of Article 14 taken together with Article\u00a08.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 14 of the Convention taken in conjunction with Article 8.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 22 March 2016, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Andr\u00e1s Saj\u00f3",
+            "role": "president"
+        },
+        {
+            "name": "Bo\u0161tjan M. Zupan\u010di\u010d",
+            "role": "judges"
+        },
+        {
+            "name": "Nona Tsotsoria",
+            "role": "judges"
+        },
+        {
+            "name": "Paulo Pinto de Albuquerque",
+            "role": "judges"
+        },
+        {
+            "name": "Krzysztof Wojtyczek",
+            "role": "judges"
+        },
+        {
+            "name": "Egidijus K\u016bris",
+            "role": "judges"
+        },
+        {
+            "name": "Gabriele Kucsko-Stadlmayer",
+            "role": "judges"
+        },
+        {
+            "name": "Fato\u015f Arac\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF SOUSA GOUCHA v. PORTUGAL",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-161527.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2016:0322JUD007043412",
+    "externalsources": [
+        "Judgment of the Court of Justice of the European Union Deckmyn v. Vandersteen (Case C-201/13, 3 September 2014)"
+    ],
+    "extractedappno": [
+        "70434/12",
+        "201/13",
+        "2001/29",
+        "2001/20",
+        "39954/08",
+        "27677/02",
+        "28070/06",
+        "43546/02",
+        "40660/08",
+        "60641/08",
+        "12556/03",
+        "32570/03",
+        "27527/03",
+        "56027/09",
+        "37359/09",
+        "14793/08",
+        "68354/01",
+        "5266/03",
+        "59320/00",
+        "40454/07",
+        "28999/03",
+        "30865/08",
+        "64569/09",
+        "41665/07",
+        "32131/08",
+        "41617/08",
+        "16812/11",
+        "13378/05",
+        "30141/04",
+        "33290/96"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-161527",
+    "judgementdate": "22/03/2016 00:00:00",
+    "kpdate": "22/03/2016 00:00:00",
+    "kpthesaurus": [
+        "451",
+        "634",
+        "429",
+        "149",
+        "148",
+        "265",
+        "579",
+        "343",
+        "100",
+        "298",
+        "238",
+        "354"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "7",
+    "paragraphs": [
+        "10-2",
+        "8",
+        "8-1",
+        "10",
+        "10-1",
+        "14"
+    ],
+    "parties": [
+        "SOUSA GOUCHA",
+        "PORTUGAL"
+    ],
+    "rank": "1484.37170410156",
+    "representedby": [
+        "MILAGRE A."
+    ],
+    "respondent": "PRT",
+    "respondentOrderEng": "36",
+    "scl": [
+        "A. v. Norway, no. 28070/06, 9 April 2009",
+        "Alves da Silva v. Portugal, no. 41665/07, 20 October 2009",
+        "Axel Springer AG v. Germany, [GC] no. 39954/08, 7 February 2012",
+        "Burden v. the United Kingdom [GC], no. 13378/05, ECHR 2008",
+        "Couderc and Hachette Filipacchi Associ\u00e9s v. France [GC], no. 40454/07, 10 November 2015",
+        "Delfi AS v. Estonia [GC], no. 64569/09, \u00a7 131, ECHR 2015",
+        "E.B. v. France [GC], no. 43546/02, \u00a7 43, 22 January 2008",
+        "Grant v. the United Kingdom, no. 32570/03, ECHR 2006 VII",
+        "Guerra and Others v. Italy, 19 February 1998, \u00a7 44, Reports of Judgments and Decisions 1998 I",
+        "H\u00e4m\u00e4l\u00e4inen v. Finland [GC], no. 37359/09, ECHR 2014",
+        "Handyside v. the United Kingdom, 7 December 1976, \u00a7 49, Series A no. 24",
+        "L. v. Lithuania, no. 27527/03, ECHR 2007 IV",
+        "Nikowitz and Verlagsgruppe News GmbH v. Austria, no. 5266/03, 22 February 2007",
+        "P. v. Portugal (dec.), no. 56027/09, ECHR 2011",
+        "Pfeifer v. Austria, no. 12556/03, 15 November 2007",
+        "Reinboth and Others v. Finland, no. 30865/08, \u00a7 74, 25 January 2011",
+        "Salgueiro da Silva Mouta v. Portugal, no. 33290/96, \u00a7\u00a7 34-36, ECHR 1999 IX",
+        "Schalk and Kopf v. Austria, no. 30141/04, \u00a7 96, ECHR 2010",
+        "Timciuc v. Romania (dec.), no. 28999/03, \u00a7 144, 12 October 2010",
+        "Tu\u015falp v. Turkey, nos. 32131/08 and 41617/08, \u00a7 48, 21 February 2012",
+        "Vereinigung Bildender K\u00fcnstler v. Austria, no. 68354/01, \u00a7 33, 25 January 2007",
+        "Von Hannover v. Germany (no. 2) [GC], nos. 40660/08 and 60641/08, ECHR 2012",
+        "Von Hannover v. Germany, no. 59320/00, \u00a7 57, ECHR 2004 VI",
+        "Welsh and Silva Canha v. Portugal, no. 16812/11, 17 September 2013",
+        "Y.Y. v. Turkey, no. 14793/08, ECHR 2015 (extracts)"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "447041",
+    "typedescription": "15"
+}

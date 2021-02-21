@@ -1,0 +1,744 @@
+{
+    "__articles": "6;6+6-3-b;6+6-3-d;6-1;6-3-b;6-3-d;35;41",
+    "__conclusion": "Remainder inadmissible;Violation of Article 6+6-3-b - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-b - Adequate facilities;Adequate time);No violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-d - Examination of witnesses;Article 6 - Right to a fair trial);No violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-d - Obtain attendance of witnesses;Article 6 - Right to a fair trial);Just satisfaction dismissed (out of time) (Article 41 - Just satisfaction)",
+    "applicability": "",
+    "appno": "58331/09",
+    "article": [
+        "6",
+        "41",
+        "35"
+    ],
+    "conclusion": [
+        {
+            "article": "6-3-b",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-b - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3-b - Adequate facilities",
+                "Adequate time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "No violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Obtain attendance of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "details": [
+                "out of time"
+            ],
+            "element": "Just satisfaction dismissed",
+            "mentions": [
+                "Article 41 - Just satisfaction"
+            ],
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-112090.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 58331/09) against the Republic of Croatia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Croatian national, Mr \u017deljko Grega\u010devi\u0107 (\u201cthe applicant\u201d), on 23 October 2009.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr P. Saboli\u0107, a lawyer practising in . The Croatian Government (\u201cthe Government\u201d) were represented by their Agent, Ms \u0160. Sta\u017enik.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 10 November 2010 the complaints concerning the fairness of the criminal proceedings against the applicant and that he did not have adequate time for the preparation of his defence were communicated to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article 29 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1974 and lives in \u010cepin.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0On 29 August 2006 the Osijek Municipal State Attorney\u2019s Office (Op\u0107insko dr\u017eavno odvjetni\u0161tvo u Osijeku) indicted the applicant in the Osijek Municipal Court (Op\u0107inski sud u Osijeku) on charges of fraud and business fraud, claiming that, acting as a director of companies D.L.L. and M.C., he had defrauded companies A. and R. by using fraudulent payment instruments in exchange for goods which his companies received from A. and R. in the period between 10 August 2005 and 13 December 2005 and on 24 April 2006.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 27 October 2006 the trial court commissioned a report from an accounting expert, D.D.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 7 November 2006 D.D. submitted his report to the Osijek Municipal Court. He found that M.C.\u2019s bank account had been frozen at the time when it had engaged in business transactions with company A. He also found that D.L.L.\u2019s bank account had not been frozen at the time of its business transactions with company A., but that its account had been frozen at the time of its business transactions with company R.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0At a hearing held on 17 November 2006 D.D. gave oral evidence. He confirmed all his findings in the report. The parties made no objections to the report, nor did they put any questions to D.D. The applicant\u2019s lawyer asked that the prosecution submit all documents they had seized from the applicant so that they could be examined by D.D. The trial court requested further documents from the police and two commercial banks.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0At a hearing held on 12 December 2006 D.D. asked for an additional period to examine the documents submitted by the two banks.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0At a hearing on 16 January 2007 the applicant\u2019s lawyer reiterated his request that the police be ordered to submit all business documentation they had seized from the applicant concerning companies D.L.L. and M.C. The trial court accepted the request.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 12 February 2007 D.D. submitted an additional report. He reiterated his previous findings and also explained the manner and nature of the business transactions in issue.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0At a hearing held on 9 March 2007 D.D. gave further oral evidence. The applicant\u2019s lawyer and the applicant put no questions to D.D. and made no objection to his report.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 28 June 2007 the applicant\u2019s lawyer submitted written observations before the Osijek Municipal Court. He commented on the reports drawn up by D.D. in setting out the defence\u2019s arguments. His observations were forwarded to D.D.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 13 July 2007 D.D. submitted written observations in which he expressly reiterated all his previous findings and highlighted certain sentences from his reports. He also disagreed with the conclusions drawn from his reports by the defence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0At a hearing held on 18 July 2007 the judge conducting the proceedings presented D.D.\u2019s written observations of 13 July 2007 to the parties and read them out. Two large envelopes containing documents submitted by the police were also presented to the parties and read out in court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The applicant\u2019s lawyer asked the trial court to request information from the Serbian authorities about the applicant\u2019s detention in that country or to examine witnesses Mat.G. and Mar.G., who he stated could confirm that the applicant had been in detention in Serbia between January and mid-February 2006 and that he had therefore been unable to conduct business affairs in the relevant period. He also suggested that these witnesses could confirm that all goods that the applicant\u2019s companies had received from companies A. and R. had been stolen during the applicant\u2019s absence. The applicant\u2019s lawyer made further observations in respect of D.D.\u2019s written observations of 13 July 2007 and asked that he be recalled. In respect of the documents provided by the police, he asked that the trial be adjourned for a period of eight to fifteen days so that they could prepare the defence and also in order that the documentation might be forwarded to D.D. Finally, he asked that another additional witness be heard. The Osijek Municipal Court dismissed all of the defence\u2019s requests on the grounds that all the relevant facts had been sufficiently established.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 20 July 2007 the Osijek Municipal Court found the applicant guilty on three counts of business fraud and one count of fraud. It also revoked the suspension of a sentence given to the applicant in previous criminal proceedings and sentenced him to five years\u2019 imprisonment.",
+                                "elements": []
+                            },
+                            {
+                                "content": " In its judgment the court noted:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe parties had no objections in respect of the evidence taken and read out, nor did they make any further requests, and the authenticity of the documents [in the case file] has not been brought into doubt.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 12 December 2007 the applicant lodged an appeal against conviction. He complained that the defence had not had sufficient time to examine D.D.\u2019s written observations of 13 July 2007 and that they had had no opportunity to examine the documentation provided by the police. He further complained that D.D. had not been recalled and that the witnesses Mat.G. and Mar.G. had also not been heard, although the trial court had not provided any reasons for not hearing these witnesses. He also complained that the suspension of his previous sentence had been revoked, although he had had no opportunity to present arguments in that respect.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0On 24 January 2008 the  (\u017dupanijski sud u Osijeku) upheld the applicant\u2019s conviction but decreased his sentence to four years\u2019 imprisonment. It found that the Osijek Municipal Court had analysed witness statements and other documents in detail and had provided sufficient reasons for the applicant\u2019s conviction. In respect of the complaint about D.D., the Osijek County Court\u2019s judgment reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cUnder Article 331 paragraph 5 of the C[ode] [of] C[riminal] P[rocedure], in respect of crimes punishable by [up to] eight years\u2019 imprisonment, when an expert witness has already been heard before the president of a [trial] panel [and there has been no change in president], the expert\u2019s report can be read out without the agreement of the parties. It is to be noted that the accounting expert submitted his report on 12 February 2007, which [report] was forwarded to the parties. On 28 June 2007 the defence lawyer submitted observations before the court asking that the expert respond to certain questions. The expert then responded to these questions. He therefore had not provided a new report. In his findings he had not amended anything relevant but had only responded to the defence lawyer\u2019s observations. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The County Court also found that the suspension of the applicant\u2019s previous sentence had been correctly and lawfully revoked pursuant to Article 69 paragraph 1 of the Criminal Code. It made no observations in respect of the Osijek Municipal Court\u2019s refusal to hear witnesses Mat.G. and Mar.G. and also made no comment on the applicant\u2019s complaint that he had had no opportunity to examine the documentation submitted by the police.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 27 October 2008 the applicant lodged a request for extraordinary review (zahtjev za izvanredno preispitivanje pravomo\u0107ne presude) of the County Court\u2019s judgment with the Supreme Court (Vrhovni sud Republike Hrvatske), complaining that the defence had not had sufficient time to examine D.D.\u2019s written observations and had had no opportunity to examine the documentation provided by the police, and that the witnesses proposed by the defence had not been heard or D.D. recalled without the trial court providing sufficient reasons. Finally, he complained that the suspension of his previous sentence had been revoked, although he had had no opportunity to present arguments in that respect.",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0On 30 October 2008 the applicant lodged a constitutional complaint with the  (Ustavni sud Republike Hrvatske) against the judgments of the Osijek Municipal Court and the , reiterating the arguments he had adduced before the Supreme Court.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0On 22 December 2008 the Supreme Court dismissed the applicant\u2019s request for extraordinary review of the County Court\u2019s judgment on the grounds that there had been no violation of any defence rights in the proceedings before the lower courts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0On 17 February 2009 the applicant lodged a constitutional complaint before the  against the judgment of the Supreme Court by which his request for extraordinary review of the County Court\u2019s judgment had been dismissed. He argued that the Supreme Court had failed to examine all his complaints and that it had failed to remedy the violation of defence rights that had occurred during the proceedings before the lower courts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0On 12 March 2009 the  dismissed the applicant\u2019s constitutional complaint of 30 October 2008 against the judgments of the Osijek Municipal Court and the Osijek County Court. The  found that the criminal proceedings against the applicant had been fair and that the judgments of the lower courts had been sufficiently reasoned and did not disclose any arbitrariness. As to the trial court\u2019s refusal to take the applicant\u2019s further evidence, the  noted that it had been for the trial court to decide which evidence to take and that the applicant had not objected to the evidence that had been read out during the trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0On 26 May 2009 the  declared the applicant\u2019s constitutional complaint of 17 February 2009 against the judgment of the Supreme Court of 27\u00a0October 2008 inadmissible on the grounds that it had not been an act by which the applicant\u2019s civil rights or obligations or any criminal charge against him had been determined.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0The relevant part of section 62 of the Constitutional Court Act (Official Gazette no. 49/2002, of 3 May 2002, Ustavni zakon o Ustavnom sudu Republike Hrvatske) reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Section 62",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Anyone may lodge a constitutional complaint with the Constitutional Court if he or she deems that the individual act of a state body, a body of local and regional self-government, or a legal person with public authority, concerning his or her rights and obligations, or about a suspicion or an accusation of a criminal act, has violated his or her human rights or fundamental freedoms or his or her right to local and regional self-government guaranteed by the Constitution (hereinafter: a constitutional right) ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "26.\u00a0\u00a0The relevant provisions of the Code of Criminal Procedure in force at the time (Zakon o kaznenom postupku, Official Gazette nos. 110/1997, 27/1998, 58/1999, 112/1999, 58/2002, 143/2002, 63/2002, 62/2003 and 115/2006) provided:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 425",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) A defendant who has been finally sentenced to a prison term ... may lodge a request for the extraordinary review of a final judgment on account of infringements of this Act.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2) A request for the extraordinary review of a final judgment shall be lodged within a month after the final judgment has been served on the defendant.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 426",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Supreme Court shall decide requests for the extraordinary review of a final judgment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 427",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cA request for the extraordinary review of a final judgment may be lodged [in respect of]:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. an infringement of the rights of the defence at the trial or of the procedural rules at the appellate stage, if it may have influenced the judgment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0The relevant provisions of the Criminal Code (Kazneni zakon, Official Gazette nos. 110/1997, 27/1998, 50/2000, 129/2000, 51/2001, 111/2003, 190/2003, 105/2004, 84/2005, 71/2006, 110/2007, 152/2008, 57/2011) provided:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Revocation of the Suspension of a Sentence",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 69",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) The court shall revoke the suspension of a sentence and order the execution of the pronounced punishment if the convicted person, within the period of probation, commits one or more criminal offences for which the court has imposed imprisonment of two years or a more serious punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Fraud",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 224",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) Whoever, with the aim of obtaining unlawful pecuniary gain for himself or a third party, by false representation or concealment of facts, deceives another or continues the deception of another, thereby inducing him to do or to omit to do something to the detriment of his property or the property of another, shall be fined or punished by imprisonment for three months.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Business Fraud",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 293",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c(1) A person responsible [for the actions] of a legal person who, with the aim of obtaining unlawful pecuniary gain for himself or the legal person, by using fraudulent instruments in security for payment or by deceiving another or continuing the deception of another in any other way, thereby inducing him to do or to omit to do something to the detriment of his property or the property of another, shall be punished with imprisonment from six months to five years.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(2) If the perpetration of the offence referred to in paragraph 1 of this Article results in obtaining significant pecuniary gain or if it causes significant damage, and the perpetrator acted with intent to obtain such a pecuniary gain or to cause such damage, he shall be punished with imprisonment from one to eight years.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "28.\u00a0\u00a0The applicant complained that he had had no opportunity to examine the additional documentation submitted by the police and D.D.\u2019s written observations of 13 July 2007 which had been read out at the hearing on 18\u00a0July 2007. He also complained that he had not been afforded sufficient time to prepare his defence in respect of D.D.\u2019s written observations of 13\u00a0July 2007. The applicant further complained that the trial court had refused to recall D.D. and hear two other witnesses proposed by the defence without providing any explanation. Finally, he complained that he had not been afforded an opportunity to comment on the revocation of the suspension of his previous sentence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The applicant relied on Article 6 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;",
+                                "elements": []
+                            },
+                            {
+                                "content": "... \u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Alleged violation of Article 6 \u00a7 1 of the Convention as regards the revocation of the suspension of the applicant\u2019s previous sentence",
+                                        "elements": [
+                                            {
+                                                "content": "29.\u00a0\u00a0The applicant argued that the suspension of the sentence imposed on him in previous criminal proceedings had been revoked without the State Attorney having made a request in that respect, which had deprived him of the opportunity to comment on and present arguments about the revocation of the suspension of the sentence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The Government submitted that in the applicant\u2019s case the revocation of the suspension of the sentence had been mandatory under Article 69 paragraph 1 of the Criminal Code, irrespective of whether the State Attorney had made any request to that effect or whether the applicant had submitted any argument in that respect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court notes that under domestic law, namely Article 69 paragraph 1 of the Criminal Code, the revocation of the suspension of a previous sentence was a mandatory measure applicable in the applicant\u2019s case. Moreover, the Court notes that the Deputy State Attorney in his concluding remarks expressly asked the trial court to sentence the applicant according to law and noted that only a sentence of imprisonment would be appropriate in the applicant\u2019s case. The Court also notes that the defence responded to these arguments by maintaining their position as to the appropriate sentence for the applicant. It is also to be noted that the domestic courts sufficiently elaborated the sentence imposed on the applicant and the reason for the revocation of the suspended sentence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Compliance with the six-month time-limit",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties\u2019 arguments",
+                                "elements": [
+                                    {
+                                        "content": "33.\u00a0\u00a0The Government argued that the final domestic decision in the present case had been the \u2019s decision of 12 March 2009, by which the  had dismissed the applicant\u2019s constitutional complaint against the judgment of the . They pointed out that this decision had been served on the applicant on 26\u00a0March 2009 and that the present application had been lodged with the Court on 23 October 2009. As regards the decision of the Constitutional Court of 26 May 2009 by which the applicant\u2019s constitutional complaint against the judgment of the Supreme Court had been declared inadmissible, they argued that the request for extraordinary review of the County Court\u2019s judgment could not have been considered decisive in respect of the criminal charges against the applicant. He had had no grounds on which to lodge a constitutional complaint against the judgment of the Supreme Court, as he had already lodged a constitutional complaint against the judgment of the Osijek County Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0The applicant argued that he had had to lodge a constitutional complaint against the judgment of the Supreme Court in order to exhaust domestic remedies. He pointed out that the decision of the  had been served on him on 22 September 2009 and that his application with the Court had therefore been lodged within the six-month time-limit.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "35.\u00a0\u00a0The Court reiterates that the requirements contained in Article 35 \u00a7\u00a01 concerning the exhaustion of domestic remedies and the six-month period are closely interrelated, since not only are they combined in the same Article, but they are also expressed in a single sentence whose grammatical construction implies such correlation (see Hatjianastasiou v. Greece, no.\u00a012945/87, Commission decision of 4 April 1990, and Berdzenishvili v. Russia (dec.), no. 31697/03, ECHR 2004II (extracts)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0The Court observes that the purpose of the six-month rule is to promote legal certainty and to ensure that cases raising issues under the Convention are dealt with within a reasonable time. Furthermore, it ought also to protect the authorities and other persons concerned from being under any uncertainty for a prolonged period of time. Finally, it should ensure the possibility of ascertaining the facts of the case before the chance to do so fades away, making a fair examination of the question at issue next to impossible (see Kelly v. the United Kingdom, no. 10626/83, Commission decision of 7\u00a0May 1985, Decisions and Reports (DR) 42, p.\u00a0205, and Baybora and Others v. Cyprus (dec.), no. 77116/01, 22 October 2002).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0In the present case, the Court notes that the applicant\u2019s conviction was upheld by the Osijek County Court on 24 January 2008. The applicant lodged both a request for extraordinary review of the County Court\u2019s judgment with the Supreme Court and a constitutional complaint. The applicant\u2019s request for extraordinary review of the County Court\u2019s judgment was dismissed on 22 December 2008. The applicant then lodged a constitutional complaint against the Supreme Court\u2019s judgment on 17\u00a0February 2009 but on 26 May 2009 the  declared it inadmissible. The applicant also lodged a constitutional complaint against the judgment of the Osijek County Court which the  declared inadmissible on 12 March 2009.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0The application to the Court was introduced on 23 October 2009, less than six months from the date of the Constitutional Court\u2019s decision of 26 May 2009 by which that court declared inadmissible the applicant\u2019s constitutional complaint against the judgment of the Supreme Court, but more than six months after the date of the Constitutional Court\u2019s decision of 12 March 2009 by which his constitutional complaint against the Osijek County Court\u2019s judgment was dismissed. It follows that the Court may only deal with the application if the request for extraordinary review of the County Court\u2019s judgment and the constitutional complaint against the judgment of the Supreme Court dismissing the applicant\u2019s request are considered remedies within the meaning of Article 35 \u00a7 1 of the Convention, in which case the six-month period provided for in that Article should be calculated from the date of the decision of the Constitutional Court regarding the constitutional complaint against the judgment of the Supreme Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0As to requests for extraordinary review of a final judgment as provided for in the Croatian legal system, the Court has already held in other cases in respect of Croatia that where such a request was made on one of the statutory grounds under Article 427 of the Code of Criminal Procedure, the proceedings following the request for extraordinary review of the final judgment were decisive for the determination of a criminal charge against the applicant and so fall within the scope of Article 6\u00a0\u00a7\u00a01 of the Convention (see Maresti v. , no. 55759/07, \u00a7 28, 25 June 2009, and Dolenec v. , no. 25282/06, \u00a7 199, 26 November 2009).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0The applicant in the present case lodged such a request on account of an alleged infringement of his defence rights at trial, which is, under Article 427 of the Code of Criminal Procedure, one of the statutory grounds for lodging such a request. The Court therefore considers that in the present case this remedy afforded the applicant an opportunity to address the alleged violation at issue (see Dolenec, cited above, \u00a7 199).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0As to the applicant\u2019s subsequent constitutional complaint, the Court reiterates its findings in the Dolenec case that under section 62 of the Constitutional Court Act, anyone who deems that a decision of a State body concerning his or her rights and obligations, or a suspicion or an accusation of a criminal act, has violated his or her human rights or fundamental freedoms may lodge a constitutional complaint against that decision and that, from the wording of section 62 of the Constitutional Court Act, the applicant had reason to believe that his constitutional complaint against the Supreme Court\u2019s decision dismissing his request for extraordinary review of the County Court\u2019s judgment was a remedy to be exhausted (see Dolenec, cited above, \u00a7 200). Therefore, the Court considers that the fact that the applicant lodged a constitutional complaint against the judgment of the Supreme Court cannot in any way be held against him, nor can the fact that he had previously lodged a constitutional complaint against the judgment of the Osijek County Court in any way impair his right to lodge a new constitutional complaint against the judgment of the Supreme Court and to wait for his constitutional complaint to be decided before bringing an application to the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0Against the above background, the Court finds that the applicant made proper use of available domestic remedies and complied with the six-month rule. The Government\u2019s objections in that regard must therefore be rejected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Conclusion",
+                                        "elements": [
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 arguments",
+                                        "elements": [
+                                            {
+                                                "content": "44.\u00a0\u00a0The applicant submitted that he had not been afforded adequate time and facilities for the preparation of his defence in respect of the additional documents submitted by the police and in respect of D.D.\u2019s written observations of 13 July 2007, which had both been presented to him and his lawyer at the final hearing held on 18 July 2007. Even though he had asked the trial court to adjourn the hearing so that he could study these documents and prepare his response to them, this request had been denied.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The applicant further complained that his request that the trial court call two further witnesses, Mat.G. and Mar.G., had been denied without any justification even though it had been well founded, given that he had explained that these witnesses had knowledge about the reasons for his inability to come to  and about the theft of goods which he had received from companies A. and R. His request that D.D. be recalled in order to be examined in relation to his written observations of 13 July 2007 had also been denied without any good reason.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Government argued that throughout the criminal proceedings the applicant had been in an equal position to the State Attorney: he had presented evidence, had examined witnesses, including the expert witness, and he had never made any objection in respect of the equality of arms. As to D.D.\u2019s report of 13 July 2007, the Government pointed out that it had not contained any new relevant information and that the applicant had had an opportunity during the proceedings to comment on D.D.\u2019s findings. As to the additional documents submitted by the police, the Government argued that the Osijek Municipal Court had not relied on those documents in its judgment. Finally, the Government stressed that the State Attorney had also become aware of the expert witness\u2019s written observations and the documents submitted by the police at the final hearing and that the prosecutor had therefore been in the same position as the applicant, which excluded the possibility of any violation of the principle of adversarial proceedings and of the equality of arms.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0As to the applicant\u2019s argument that he had not been given sufficient time to prepare his defence, the Government maintained that the additional evidence had been submitted before the trial court at the final hearing and that it had had no decisive effect on the position of the defence. The Government also pointed out that the proceedings had not been complex and that the applicant had been afforded sufficient time to present his case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0The Government argued that the Osijek County Court had given adequate reasons for its decision not to recall the expert witness. When examining the applicant\u2019s appeal, the Osijek County Court had also given sufficient reasons as to why any evidence by witnesses Mat.G. and Mar.G. would have been irrelevant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Whether the applicant had adequate time and facilities to prepare his defence in respect of the evidence submitted at the final hearing",
+                                "elements": [
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court reiterates that the key principle governing the application of Article 6 is fairness. The right to a fair trial holds so prominent a place in a democratic society that there can be no justification for interpreting the guarantees of Article 6 \u00a7 1 of the Convention restrictively (see Moreira de Azevedo v. Portugal, 23 October 1990, \u00a7 66, Series A no. 189, and A.B. v. , no. 41784/98, \u00a7 54, 4 March 2003).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The concept of a fair hearing implies, inter alia, the right to adversarial proceedings, according to which the parties must have the opportunity not only to make known any evidence needed for their claims to succeed, but also to have knowledge of, and comment on, all evidence adduced or observations filed, with a view to influencing the court\u2019s decision (see Nider\u00f6st-Huber v. Switzerland, 18 February 1997, \u00a7 24, Reports of Judgments and Decisions 1997I, and Mantovanelli v. France, 18\u00a0March 1997, \u00a7 33, Reports 1997II). In this respect, the Court notes that it is possible that a procedural situation which does not place a party at any disadvantage vis-\u00e0-vis his or her opponent still represents a violation of the right to adversarial proceedings if the party concerned did not have an opportunity to have knowledge of, and comment on, all evidence adduced or observations filed, with a view to influencing the court\u2019s decision (see Kr\u010dm\u00e1\u0159 and Others v. the , no. 35376/97, \u00a7\u00a7 38-46, 3 March 2000).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court further reiterates that Article 6 \u00a7 3 (b) guarantees the accused \u201cadequate time and facilities for the preparation of his defence\u201d and therefore implies that the substantive defence activity on his behalf may comprise everything which is \u201cnecessary\u201d to prepare the main trial. The accused must have the opportunity to organise his defence in an appropriate way and without restriction as to the ability to put all relevant defence arguments before the trial court and thus to influence the outcome of the proceedings (see Mayzit v. Russia, no. 63378/00, \u00a7 78, 20\u00a0January 2005; Connolly v. the United Kingdom (dec.), no. 27245/95, 26 June 1996; Can v. Austria, no. 9300/81, Commission\u2019s report of 12\u00a0July 1984, Series A no. 96, \u00a7 53; and Moiseyev v. , no. 62936/00, \u00a7 220, 9 October 2008). When assessing whether the accused had adequate time for the preparation of his defence, particular regard has to be had to the nature of the proceedings, as well as the complexity of the case and stage of the proceedings (see X. v. Belgium, no. 7628/76, Commission decision of 9 May 1977, Decisions and Reports (DR) 9, p. 172, and Albert and Le Compte v. Belgium, 10 February 1983, \u00a7 41, Series A no. 58).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0Since the requirements of Article 6 \u00a7 3 are to be seen as particular aspects of the right to a fair trial guaranteed by Article 6 \u00a7 1, the Court will in this case examine the complaints under Article 6 \u00a7 1 and 3 (b) taken together (see, mutatis mutandis, Van Mechelen and Others v. the Netherlands, 23 April 1997, \u00a7 49, Reports 1997III).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Court firstly observes that the present case concerned criminal charges against the applicant for alleged offences committed in connection with business transactions between companies. The Court notes that the trial court commissioned an accounting report, examined witnesses and obtained documentation from various commercial banks and other entities. The Court considers that the case that might be considered complex (see R\u00f6sslhuber v. Austria, no.\u00a032869/96, \u00a7 30, 28 November 2000; Hoffen v. Liechtenstein, no.\u00a05010/04, \u00a7\u00a049, 27 July 2006; and Meidl v. , no. 33951/05, \u00a7 56, 12 April 2011) required the domestic courts to have particular regard to the rights of the defence to have knowledge of all the evidence adduced during the trial and to have necessary time and facilities to effectively put all relevant defence arguments before the trial court and thus to influence the outcome of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court notes that the applicant\u2019s complaints concern two items of evidence which were presented to the defence at the final hearing on 18 July 2007: two envelopes containing documents submitted by the police and D.D.\u2019s written observations of 13 July 2007.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0As to the two large envelopes submitted by the police, the Court notes that at hearings held on 17 November 2006 and 16 January 2007 the defence asked the trial court to order the police to submit all the documents they had seized from the applicant so that those documents could be forwarded to D.D. for examination. These requests were granted and the police were ordered to submit the documents concerned. However, the trial court\u2019s order was not strictly complied with and the police submitted two envelopes containing documents directly to the trial court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court notes that the defence was only informed of the presence of those documents and presented with them at the final hearing on 18 July 2007, at which those documents were read out to the defence together with other evidence. The Court also notes that the applicant\u2019s lawyer expressly asked for an adjournment of the hearing for a short period of time so that he could study the documents and prepare a response. The trial court, however, dismissed this request without providing any reason for its decision, noting only that the relevant facts had been sufficiently established.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0Having in mind the actions taken by the trial court, namely the fact that it had twice ordered the police to submit the documents in question, the Court has to conclude that the information held by the police was of relevance for the case and capable of influencing the outcome of the proceedings. In respect of such information, the trial court was obliged to secure the accused an opportunity to organise his defence in an appropriate way and to put all his relevant arguments to it without restriction (see, Moiseyev, cited above, \u00a7 220). However, the Court is not satisfied that the reading out of the documents at the final hearing together with other evidence was sufficient to satisfy this requirement. In this respect, the Court recalls that the Convention is intended to guarantee not rights that are theoretical or illusory but rights that are practical and effective; this is particularly so in respect of the rights of the defence in view of the prominent place held in a democratic society by the right to a fair trial, from which they derive (see Artico v. Italy, 13 May 1980, \u00a7 33, Series A no. 37).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0Therefore, the Court considers that by informing the defence only briefly of the substance of the documents submitted by the police at the final hearing, in a complex fraud case, and by not allowing the defence the time to examine the documents and prepare a response, the domestic courts cannot be said to have complied with the requirements of Article 6 \u00a7\u00a7 1 and 3(b) of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0In view of these conclusions, the Court considers that there is no need to examine the applicant\u2019s complaint concerning D.D.\u2019s written observations of 13 July 2007.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Refusal of the trial court to hear witnesses requested by the defence",
+                                "elements": [
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court reiterates that the guarantees contained in Article 6 \u00a7 3, including those enunciated in sub-paragraph (d), are constituent elements, amongst others, of the concept of a fair trial set forth in Article 6 \u00a7 1 (see B\u00f6nisch v. , 6 May 1985, \u00a7 29, Series A no. 92). Its essential aim, as is indicated by the words \u201cunder the same conditions\u201d, is full \u201cequality of arms\u201d in the matter. With this proviso, it leaves it to the competent national authorities to decide upon the relevance of proposed evidence insofar as is compatible with the concept of a fair trial which dominates the whole of Article 6 (see Engel and Others v. the Netherlands, 8 June 1976, \u00a7 91, Series A no. 22).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court\u2019s task in this regard is to examine whether the accused had an adequate and sufficient opportunity to contest the accusations against him and whether the proceedings, considered as a whole, satisfied the requirements of Article 6 \u00a7 1 of the Convention (Pisano v. Italy, no.\u00a036732/97, \u00a7 21, 27 July 2000).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0As regards Mat.G. and Mar.G., the witnesses proposed by the defence that were not called by the trial court, the Court firstly notes that the applicant raised a defence that he had been detained in Serbia and had therefore not been able to come to Croatia to fulfil his business obligations, and that in that period the goods that were the subject of the proceedings had been stolen from his companies\u2019 warehouse. In this respect, the applicant proposed that information on his detention be obtained from the Serbian authorities through international cooperation mechanisms and that Mat.G. and Mar.G., who allegedly had knowledge of these matters, be examined by the trial court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0In this respect the Court would reiterate that the admissibility of evidence is primarily a matter for regulation by national law. The Court\u2019s task under the Convention is not to give a ruling as to whether statements of witnesses were properly admitted as evidence, but rather to ascertain whether the proceedings as a whole, including the way in which evidence was taken, were fair (see, among many other authorities, Van Mechelen and Others v. the Netherlands, cited above, \u00a7 50). In particular, \u201cas a general rule, it is for the national courts to assess the evidence before them as well as the relevance of the evidence which defendants seek to adduce ... Article 6 \u00a7 3 (d) leaves it to them, again as a general rule, to assess whether it is appropriate to call witnesses\u201d (see Vidal v. Belgium, 22 April 1992, pp. 32-33, \u00a7 33, Series\u00a0A no. 235B). It is accordingly not sufficient for a defendant to complain that he has not been allowed to question certain witnesses; he must, in addition, support his request by explaining why it is important for the witnesses concerned to be heard and their evidence must be necessary for the establishment of the truth (see Perna v. Italy [GC], no.\u00a048898/99, \u00a7\u00a029, ECHR 2003-V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The Court notes that in the present case the trial court, in respect of the charges of defrauding companies A. and R. held against the applicant, commissioned an expert accounting report and examined other evidence which led it to the conclusion that the relevant facts had been sufficiently established when dismissing the applicant\u2019s request to hear witnesses Mat.G. and Mar.G. The Court further notes that the applicant asked the trial court to hear these witnesses to confirm his alleged detention in the period between January and mid-February 2006. However, charges against the applicant concerned the period between 10 August 2005 and 13 December 2005 and also 24 April 2006, in view of which the Court can accept the national court\u2019s opinion as to the probative value of these witnesses for the establishment of the truth in this case. Therefore, the applicant did not substantiate that the evidence by Mat.G. and Mar.G. would have had any decisive impact on the outcome of the case. From that point of view it cannot, therefore, be considered that the proceedings against the applicant were unfair on account of the way the evidence was taken.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0Against this background, and viewing the proceedings as a whole, the Court considers that the trial court\u2019s refusal to hear witnesses Mat.G. and Mar.G. did not prejudice the applicant\u2019s defence rights to a degree incompatible with the requirements of a fair trial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0Therefore, the Court considers that there has been no violation of Article 6 \u00a7\u00a7 1 and 3 (d) of the Convention in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0As regards the recall of the expert witness sought by the defence, the Court firstly reiterates that the term \u201cwitnesses\u201d under Article 6 \u00a7 3(d) of the Convention has an autonomous meaning which also includes expert witnesses (see Doorson v. the Netherlands, 26 March 1996, \u00a7\u00a7\u00a081-82, Reports 1996-II).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0In the present case, the Court notes that the expert witness had given oral evidence before the trial court at the hearings on 17 November 2006 and 9 March 2007. The Court also notes that on both occasions neither the applicant nor his defence lawyer put any questions to the expert witness. Moreover, they made no objection to his statements. The Court further notes that the Osijek County Court, as the appeal court, elaborated in detail why there was no need to recall the expert witness (see paragraph 18 above; and the Polyakov v. , no. 77018/01, \u00a7 35, 29 January 2009).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0In these circumstances the Court finds that there has been no violation of Article 6 \u00a7 3(d) of the Convention in respect of the trial court\u2019s refusal to recall the expert witness in order for him to give additional oral evidence.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "70.\u00a0\u00a0The applicant also complained under Articles 13 and 17 of the Convention that he had not had an effective domestic remedy to address his complaints.",
+                                "elements": []
+                            },
+                            {
+                                "content": "71.\u00a0\u00a0In the light of all the material in its possession, and in so far as the matters complained of are within its competence, the Court considers that this part of the application does not disclose any appearance of a violation of the Convention. It follows that it is inadmissible under Article\u00a035 \u00a7 3 as manifestly ill-founded and must be rejected pursuant to Article\u00a035 \u00a7\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "72.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "73.\u00a0\u00a0The Court notes that the applicant failed to submit a claim for just satisfaction or for costs and expenses within the time-limit set by the Court. Accordingly, the Court considers that there is no call to award him any sum on that account.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning the lack of adequate time and facilities to prepare the applicant\u2019s defence in respect of the evidence submitted at the final hearing and the refusal of the trial court to accede to the defence\u2019s requests to hear witnesses Mat.G. and Mar.G. and to recall the expert witness admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7\u00a7 1 and 3(b) of the Convention in that the applicant was not given adequate time and facilities to prepare his defence in respect of the evidence submitted at the final hearing;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7\u00a7 1 and 3(d) of the Convention in that the domestic courts refused to hear witnesses Mat.G. and Mar.G.;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7\u00a7 1 and 3(d) of the Convention in that the domestic courts refused to recall the expert witness;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the applicant\u2019s claim for just satisfaction and costs and expenses.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 10 July 2012, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Anatoly Kovler",
+            "role": "president"
+        },
+        {
+            "name": "Nina Vaji\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Peer Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Linos-Alexandre Sicilianos",
+            "role": "judges"
+        },
+        {
+            "name": "Erik M\u00f8se",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GREGACEVIC v. CROATIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-112090.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:0710JUD005833109",
+    "externalsources": [],
+    "extractedappno": [
+        "58331/09",
+        "12945/87",
+        "31697/03",
+        "10626/83",
+        "77116/01",
+        "55759/07",
+        "25282/06",
+        "41784/98",
+        "35376/97",
+        "63378/00",
+        "27245/95",
+        "9300/81",
+        "62936/00",
+        "7628/76",
+        "32869/96",
+        "5010/04",
+        "33951/05",
+        "36732/97",
+        "48898/99",
+        "77018/01"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-112090",
+    "judgementdate": "10/07/2012 00:00:00",
+    "kpdate": "10/07/2012 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "11",
+        "12",
+        "122",
+        "295",
+        "14",
+        "216",
+        "577"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "6-3-d",
+        "6-3-b",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "GREGACEVIC",
+        "CROATIA"
+    ],
+    "rank": "899.46240234375",
+    "representedby": [
+        "SABOLIC P."
+    ],
+    "respondent": "HRV",
+    "respondentOrderEng": "9",
+    "scl": [
+        "Perna v. Italy [GC], no. 48898/99, \u00a7 29, ECHR 2003-V",
+        "\nEngel and Others v. the Netherlands, 8 June 1976, \u00a7 91, Series A no. 22",
+        "\nArtico v. Italy, 13 May 1980, \u00a7 33, Series A no. 37",
+        "\nB\u00f6nisch v. Austria, 6 May 1985, \u00a7 29, Series A no. 92",
+        "\nVidal v. Belgium, 22 April 1992, pp. 32-33, \u00a7 33, Series A no. 235 B",
+        "\nDoorson v. the Netherlands, 26 March 1996, \u00a7\u00a7 81-82, Reports 1996-II",
+        "\nVan Mechelen and Others v. the Netherlands, 23 April 1997, \u00a7 49, Reports 1997 III",
+        "\nPisano v. Italy, no. 36732/97, \u00a7 21, 27 July 2000",
+        "\nR\u00f6sslhuber v. Austria, no. 32869/96, \u00a7 30, 28 November 2000",
+        "\nHoffen v. Liechtenstein, no. 5010/04, \u00a7 49, 27 July 2006",
+        "\nPolyakov v. Russia, no. 77018/01, \u00a7 35, 29 January 2009",
+        "\nMeidl v. Austria, no. 33951/05, \u00a7 56, 12 April 2011",
+        "\n"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "414758",
+    "typedescription": "15"
+}

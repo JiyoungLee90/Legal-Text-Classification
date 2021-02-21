@@ -1,0 +1,974 @@
+{
+    "__articles": "10;11;11-1;14+10;14;14+11;41",
+    "__conclusion": "Violation of Art. 11;Not necessary to examine Art. 10;Not necessary to examine Art. 14+10 or 14+11;Pecuniary damage - claim dismissed;Non-pecuniary damage - financial award;Costs and expenses partial award - domestic proceedings",
+    "applicability": "",
+    "appno": "30668/96;30671/96;30678/96",
+    "article": [
+        "14",
+        "10",
+        "11",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "article": "11",
+            "base_article": "11",
+            "element": "Violation of Art. 11",
+            "type": "violation"
+        },
+        {
+            "element": "Not necessary to examine Art. 10",
+            "type": "other"
+        },
+        {
+            "element": "Not necessary to examine Art. 14+10 or 14+11",
+            "type": "other"
+        },
+        {
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "element": "Non-pecuniary damage - financial award",
+            "type": "other"
+        },
+        {
+            "element": "Costs and expenses partial award - domestic proceedings",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-60554.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in three applications against the United Kingdom of Great Britain and Northern Ireland lodged with the European Commission of Human Rights (\u201cthe Commission\u201d) under former Article 25 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d).",
+                        "elements": []
+                    },
+                    {
+                        "content": "The first application (no. 30668/96) was introduced on 7 September 1995 and brought jointly by a United Kingdom national living in London, Mr\u00a0D.\u00a0Wilson, and the National Union of Journalists (\u201cthe NUJ\u201d), a trade union registered in London.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The second application (no. 30671/96) was introduced on 14 September 1995 and brought by two United Kingdom nationals living in Hampshire, Mr T.A. Palmer and Mr A.E. Wyeth, together with the National Union of Rail Maritime and Transport Workers (\u201cthe NURMTW\u201d), a trade union registered in London.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The third application (no. 30678/96) was introduced on 19 October 1995 and brought by eight  nationals living in : Mr\u00a0M.J.\u00a0Doolan, Mr J. Farrugia, Mr C.S. Jenkins, Mr B. Jones, Mr\u00a0A.L.\u00a0Parry, Mr D.F. Parry, Mr D. Pine and Mr K. Webber.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Before the Court the applicants of the first application were represented by Thompsons, a firm of solicitors practising in . The applicants of the second and third applications were represented by Pattinson and Brewer, a firm of solicitors practising in . The  Government (\u201cthe Government\u201d) were represented by their Agent, Mr\u00a0H.\u00a0Llewellyn, of the Foreign and Commonwealth Office. ",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged that the law of the , by allowing the employer to de-recognise trade unions, failed to ensure their rights to protect their interests through trade union membership and to freedom of expression, contrary to Articles 11 and 10 of the Convention. In addition, the individual applicants complained that  law permitted discrimination by employers against trade union members, contrary to Article 14 of the Convention taken in conjunction with Articles\u00a010 and 11.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The Commission joined the applications on 26 February 1997 and declared them admissible on 16 September 1997. They were transmitted to the Court on 1 November 1999 in accordance with Article 5 \u00a7 3, second sentence, of Protocol No. 11 to the Convention, the Commission not having completed its examination of the case by that date.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The applications were allocated to the Third Section of the Court (Rule\u00a052 \u00a7 1 of the Rules of Court). Within that Section, the Chamber that would consider the case (Article 27 \u00a7 1 of the Convention) was constituted as provided in Rule 26 \u00a7 1. Sir Nicolas Bratza, the judge elected in respect of the , withdrew from sitting in the case (Rule 28). The Government accordingly appointed Lord Phillips of Worth Matravers to sit as an ad hoc judge (Article 27 \u00a7 2 of the Convention and Rule 29 \u00a7 1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0The applicants and the Government each filed observations on the merits (Rule 59 \u00a7 1). In addition, third-party comments were received jointly from the Trades Union Congress and Liberty, which had been given leave by the President to intervene in the written procedure (Article 36 \u00a7 2 of the Convention and Rule 61 \u00a7 3).",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0On 1 November 2001 the Court changed the composition of its Sections (Rule 25 \u00a7 1). This case was assigned to the newly composed Second Section (Rule 52 \u00a7 1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0A hearing took place in public in the , , on 30 January 2002 (Rule 59 \u00a7 2).",
+                        "elements": []
+                    },
+                    {
+                        "content": "There appeared before the Court:",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Court heard addresses by Mr Hendy and Mr Eadie, and their replies to questions put by Lord Phillips of Worth Matravers.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The first and second applicants",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0The first applicant, Mr Wilson, was employed as a journalist at the Daily Mail by Associated Newspapers Limited. The local branch, or \u201cChapel\u201d of the second applicant, the NUJ, had been recognised since at least 1912 for the purpose of collective bargaining as regards all aspects of the terms and conditions of employment of its members. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 10 November 1989 the first applicant, in common with other journalists, received the following letter from the editor of the Daily Mail:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cDear Dave,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "You probably know that the collective bargaining agreement between the Chapel and the Management is due to end on 1 April 1990. The Company has given notice that it does not intend to negotiate a new agreement with the Chapel and that, from that date, the NUJ will not be recognised as a negotiating body.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Instead, salaries will be reviewed annually each 1 October as they are already for the senior editors. Departmental heads will make recommendations to me for each individual member of their staff. I will, of course, discuss these with my editors in detail and add my own assessment, as I do now, for merit rises. I shall then implement salary increases.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "A handbook has been drawn up which contains the benefits and conditions which exist under the current agreement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Each member of staff will be given a new contract which embodies these conditions together with the Handbook. I think it is worth pointing out that the Handbook includes a grievance procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "All journalists who sign their new contracts before 1 January 1990 will be awarded a 4.5% wage increase backdated to 1 October 1989. As I have said, the next review of salaries will be on 1 October 1990.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "I would like to point out that, contrary to what is happening on other national newspapers, our new arrangement does not involve any redundancies. Nor any radical changes in the way we produce our papers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "I think you should know that the initiative to end collective bargaining has come from the editors, not the management.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It is the skill of journalists as individuals that makes our papers. We appoint journalists as individuals and we want to continue to treat them as individuals throughout their whole career here, in order that they and our papers shall prosper.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The success of the Daily Mail is based on its team of highly qualified and highly paid journalists. We intend to develop that success and, with it, the careers of our journalists.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Yours sincerely,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0The first applicant refused to sign a new contract, because he objected to its provisions prohibiting trade union activity during working hours and removing his right to be represented by the union and the rights of the union to negotiate with management and be consulted on and agree changes to terms and conditions of employment. In subsequent years Mr\u00a0Wilson's salary increased, but was never raised to the same level as that of employees who had accepted personal contracts. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0After 1 April 1990 the employer continued to deal with the NUJ on health and safety issues, but did not recognise the union for any other purpose.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The other applicants",
+                                "elements": [
+                                    {
+                                        "content": "13.\u00a0\u00a0The third and fourth applicants, Mr Palmer and Mr Wyeth, were employed by Associated British Ports (\u201cthe ABP\u201d) at the  as manual grade employees. They were members of the NURMTW (the fifth applicant). The trade union was recognised by the employer for the purposes of collective bargaining under the terms of a collective agreement. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 8 February 1991 the third and fourth applicants, in common with other manual grade employees, were sent letters in the following terms:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cI am writing to advise you that Associated British Ports has decided to offer you a personal contract of employment to take effect on 1 March 1991.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "You are probably aware that offers of personal contract terms have already been made to Management, Supervisory, Clerical, Technical staff and some Manual Grade Staff at Southampton. In offering personal contracts, the Company is seeking to introduce a system whereby the individual merit and contribution of an employee may be recognised and rewarded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Under the proposed new contract of employment, the level of future pay increases including that due on 1 March 1991, together with other improvements in conditions of service, will be determined by the Company. Wages will relate to the individual's responsibilities and performance together with conditions in the employment market, and the Company's financial position.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If you choose to accept a new individual contract then the Agreement with the Trade Unions, which currently forms part of your contract of employment, will no longer apply to you. Your conditions of employment will, however, differ only in limited respects from those which you have at present. The most significant alterations are that you will no longer have the right to be represented by a Trade Union and, in future, your pay will not be determined by the present negotiated wage ranges, i.e., Groups 1 to 4 and Chargehands will no longer apply. Membership of your current pension scheme is entirely unaffected by whether or not you elect for a personal contract; similarly, voluntary severance and redundancy payments are unchanged but your overtime calculator will rise to 100%.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As part of your personal contract the Company will pay you an increased wage from 1 March 1991, as advised to you in the attached personal letter, this new wage is inclusive of your pending March pay review.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "This new wage has been determined by enhancing your present wage after first consolidating the following items of pay which will be discontinued under the personal contract terms:\u2013",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Allowances, e.g. Height, tool, allowances, etc.,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Holiday bonus and higher grade duty payments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "These items are being consolidated into the personal wage you are being offered and therefore become part of your pensionable pay.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Overtime will be offered as and when necessary. There will be no contractual overtime.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Under the new terms there will be a single annual review on 1 April, the first review being on 1 April 1992. Staff on personal contracts will be paid monthly by Bank Credit Transfer (BACS).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "If you accept a personal contract, the Company will, if you so wish, provide private medical insurance by paying for membership of a Corporate Health Plan with Private Patients Plan (PPP) for yourself. Your spouse and children may be included in this cover if you choose to pay the appropriate additional subscription. Full details are enclosed with this letter. ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Company believes that the offer you are being made represents a significant improvement in your terms and conditions of employment. I hope therefore that you will decide to accept this offer. You should, however, clearly understand that you are free to reject it. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The average pay increase offered to manual grade employees who accepted personal contracts was 10%.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The third and fourth applicants refused to sign personal contracts. Their pay and conditions of employment for 1991/92 were decided on a collective basis following negotiations between the union and the employer. They received an increase of pay and allowances of 8.9% and were not offered private medical insurance. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0In 1992 the employer gave notice that it was terminating the collective agreement and de-recognising the union for all purposes.  ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The remaining applicants, Mr Doolan and the others, were all employed by the ABP at the Bute Docks in  and were members of the fifth applicant trade union, which was recognised by the employer for the purposes of collective bargaining. On 19 April and 19 July 1991 employees were sent letters offering them personal contracts with pay increases. In return, the employee had to relinquish all rights to trade union recognition and representation, and to agree that annual increases and other terms and conditions would no longer be negotiated by the union on his behalf. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The applicants refused to sign personal contracts and, as a result, received only a 4% annual pay increase on their basic rate of pay. Those employees holding the same positions as the applicants who accepted personal contracts received a pay increase which was approximately 8% to 9% greater than that awarded to the applicants. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0In 1992 the employer gave notice that it was terminating the collective agreement and de-recognising the union for all purposes.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Proceedings before the domestic courts and tribunals",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0The individual applicants all separately applied to the Industrial Tribunal complaining that the requirement to sign the personal contract and lose union rights, or accept a lower pay rise, was contrary to section 23(1)(a) of the Employment Protection (Consolidation) Act 1978 (\u201cthe 1978 Act\u201d \u2013 see paragraph 27 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0In the proceedings brought by Mr Wilson, Mr Palmer and Mr\u00a0Wyeth, the Industrial Tribunal found in favour of the applicants. The employers successfully appealed to the Employment Appeal Tribunal, and the applicants appealed to the Court of Appeal. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0The Court of Appeal found for the applicants on 30 April 1993 (judgment reported as Associated British Ports v. Palmer and Others; Associated Newspapers v. Wilson [1994] Industrial Cases Reports 97). ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In Palmer and Others it was accepted in the Court of Appeal that, in discriminating against the employees who refused to sign personal contracts, the employer had taken \u201caction (short of dismissal)\u201d against them, within the meaning of section 23 of the 1978 Act. The court held that the concept \u201cbeing ... a member of an independent trade union\u201d in section 23 involved more than simply holding a union membership card, and included making use of the essential services provided by the union, such as collective representation. In offering pay increases to those who revoked their right to be represented by the union, the employer had intended to induce employees to abandon collective bargaining and thus to achieve greater flexibility and bring an end to the need to consult the union. In denying the pay rise to those who would not forgo collective representation, the employer had acted with the purpose of penalising union membership, contrary to section 23(1)(a) of the 1978 Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In  it was accepted that the employer's decision to de-recognise the union from 1 April 1990 was not contrary to section 23, since the de-recognition was aimed at the union as a whole and was not action against any individual employee. The union had no legal sanction against de-recognition or the termination of the agreement on conditions of employment it had negotiated; the only sanction available to it was the threat of industrial action. The employer's purpose in offering a pay rise to those employees who accepted the new terms of employment was to negate the power of the union with a view to bringing an end to collective bargaining. Its purpose in denying the pay rise to the applicant because he refused to abandon collective bargaining was to deter him from being a member of the union.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The employers appealed to the House of Lords, which, on 16 March 1995, decided unanimously against the applicants ([1995] 2 Law Reports: Appeal Cases 454). Three of the five Law Lords held that the word \u201caction\u201d in section 23(1) could not be construed as including an omission, so that the withholding of benefits by the employers from the applicants did not amount to \u201caction (short of dismissal)\u201d. In addition, four of the five Law Lords found that the employers' conduct had not been motivated by \u201cthe purpose of preventing, ... deterring ... or penalising\u201d union membership, although in Palmer and Others (in the words of Lord Bridge) \u201cit was plain that the employers were seeking by means of an attractive offer to induce their employees voluntarily to quit the union's collective-bargaining umbrella and to deal in future directly with the employers over their terms and conditions of employment\u201d. However, trade unions could offer their members services other than the negotiation of terms and conditions of employment, and membership of a trade union could not therefore be equated with the use of the union's services for collective bargaining. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0Following the House of Lords' judgment, the applicants withdrew their applications from the Industrial Tribunal, having been advised that they could not succeed.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "\nII.\u00a0\u00a0RELEVANT NON-CONVENTION MATERIAL",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0 law",
+                                "elements": [
+                                    {
+                                        "content": "25.\u00a0\u00a0According to United Kingdom law, a \u201ctrade union\u201d is any organisation which consists wholly or mainly of workers and has the regulation of relations between workers and employers or employers' associations as one of its principal purposes (section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 \u2013 \u201cthe 1992 Act\u201d). There is no system of licensing trade unions prior to their recognition for collective bargaining.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0At the time of the events in question in this case, collective bargaining was a wholly voluntary process. There was no legislation in the  which inhibited the freedom of employers to recognise or de-recognise trade unions for the purposes of collective bargaining (the Employment Act 1980, repealing the Employment Protection Act 1975).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Section 23(1)(a) of the Employment Protection (Consolidation) Act 1978 provided:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c23(1)\u00a0\u00a0Every employee shall have the right not to have action (short of dismissal) taken against him as an individual by his employer for the purpose of ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(a)\u00a0\u00a0preventing or deterring him from being or seeking to become a member of an independent trade union, or penalising him for doing so.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "This provision was re-enacted as section 146(1) of the 1992 Act. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0After the Court of Appeal found for the applicants, Parliament enacted section 13 of the Trade Union Reform and Employment Rights Act 1993 (\u201cthe 1993 Act\u201d) to amend section 148 of the 1992 Act by providing that where \u201cthe employer's purpose was to further a change in his relationship with all or any class of his employees\u201d then, unless the employer's action was action that no reasonable employer could take, section 146(1) of the 1992 Act would provide no remedy for the employee. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0Although a strike by employees involves breaches of their respective contracts of employment and calling or supporting a strike by a trade union involves the trade union in committing the tort of inducing a breach of contract of the employees concerned, section 219 of the 1992 Act confers protection where the defendant is acting \u201cin contemplation or furtherance of a trade dispute\u201d (as defined; see UNISON v. the United Kingdom (dec.), no.\u00a053574/99, ECHR 2002-I).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "\nB.\u00a0\u00a0The European Social Charter 1961",
+                                "elements": [
+                                    {
+                                        "content": "30.\u00a0\u00a0Article 5 of the Social Charter provides for the following \u201cright to organise\u201d:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cWith a view to ensuring or promoting the freedom of workers and employers to form local, national or international organisations for the protection of their economic and social interests and to join those organisations, the Contracting Parties undertake that national law shall not be such as to impair, nor shall it be so applied as to impair, this freedom. The extent to which the guarantees provided for in this Article shall apply to the police shall be determined by national laws or regulations. The principle governing the application to the members of the armed forces of these guarantees and the extent to which they shall apply to persons in this category shall equally be determined by national laws or regulations.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0Article 6 of the Charter is headed \u201cThe right to bargain collectively\u201d and provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cWith a view to ensuring the effective exercise of the right to bargain collectively, the Contracting Parties undertake:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1)\u00a0\u00a0to promote joint consultation between workers and employers;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2)\u00a0\u00a0to promote, where necessary and appropriate, machinery for voluntary negotiations between employers or employers' organisations and workers' organisations, with a view to the regulation of terms and conditions of employment by means of collective agreements;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3)\u00a0\u00a0to promote the establishment and use of appropriate machinery for conciliation and voluntary arbitration for the settlement of labour disputes; ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "and recognise:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4)\u00a0\u00a0the right of workers and employers to collective action in cases of conflicts of interest, including the right to strike, subject to obligations that might arise out of collective agreements previously entered into.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0In 1995 the Committee of Independent Experts set up under Article\u00a025 of the Social Charter examined section 13 of the 1993 Act with a view to determining whether it was consistent with Article 5 of the Charter and observed as follows (Conclusions XIII-3, Council of Europe, 1996, p.\u00a0108):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the Committee was of the opinion that the wording of section 148(3)(a) was so general that the effect of this provision was that only in exceptional cases would a tribunal be able to rule that the action taken by the employer was unlawful because it violated freedom of association. It considered that this weakening of the protection of freedom of association was not compatible with the requirements of Article 5. It pointed out that 'the Contracting State is obliged to take adequate legislative or other measures to guarantee the exercise of the right to organise, and in particular to protect workers' organisations from any interference on the part of employers' (see most recently Conclusions XII-2, p. 101). It also referred to its conclusion under Article 6 \u00a7\u00a02 and its case-law to the effect that where a fundamental trade union prerogative such as the right to bargain collectively was restricted, this could amount to an infringement of the very nature of trade union freedom (see most recently Conclusions XIII-2, p. 269).\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0In its next report the Committee again insisted \u201cthat the necessary measures be taken to repeal [section 13 of the 1993 Act, inter alia]\u201d, commenting (Conclusions XIV-I, 1998, pp. 798 and 800):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe Committee repeats the criticism raised in its previous conclusion with respect to section 13 of the 1993 Act which is in breach of Article 5 of the Charter as it permits employers to take certain measures such as awarding preferential remuneration to employees in order to persuade them to relinquish trade union activities and collective bargaining ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0International Labour Organisation conventions and reports",
+                                "elements": [
+                                    {
+                                        "content": "34.\u00a0\u00a0The United Kingdom has ratified the International Labour Organisation's (ILO) Freedom of Association and Protection of the Right to Organise Convention, 1948 (no. 87) and its Right to Organise and Collective Bargaining Convention, 1949 (no. 98).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0Convention no. 87 provides, inter alia:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cPart I.\u00a0\u00a0Freedom of Association ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 1 ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Each Member of the International Labour Organisation for which this Convention is in force undertakes to give effect to the following provisions. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 2 ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Workers and employers, without distinction whatsoever, shall have the right to establish and, subject only to the rules of the organisation concerned, to join organisations of their own choosing without previous authorisation. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 10 ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In this Convention the term organisation means any organisation of workers or of employers for furthering and defending the interests of workers or of employers. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Part II.\u00a0\u00a0Protection of the Right to Organise ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 11 ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Each Member of the International Labour Organisation for which this Convention is in force undertakes to take all necessary and appropriate measures to ensure that workers and employers may exercise freely the right to organise.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0Convention no. 98 provides, inter alia:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cArticle 1",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Workers shall enjoy adequate protection against acts of anti-union discrimination in respect of their employment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Such protection shall apply more particularly in respect of acts calculated to \u2013",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(a)\u00a0\u00a0make the employment of a worker subject to the condition that he shall not join a union or shall relinquish trade union membership;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(b)\u00a0\u00a0cause the dismissal of or otherwise prejudice a worker by reason of union membership or because of participation in union activities outside working hours or, with the consent of the employer, within working hours.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 3",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Machinery appropriate to national conditions shall be established, where necessary, for the purpose of ensuring respect for the right to organise as defined in the preceding Articles.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 4",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Measures appropriate to national conditions shall be taken, where necessary, to encourage and promote the full development and utilisation of machinery for voluntary negotiation between employers or employers' organisations and workers' organisations, with a view to the regulation of terms and conditions of employment by means of collective agreements.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0The ILO Committee on Freedom of Association has considered section 13 of the 1993 Act in the context of a case of alleged intimidation intended to bring about the de-recognition of two trade unions at a steel works in England, and the absence of any remedy under national law (Case\u00a0no. 1852, 309th Report of the Freedom of Association Committee, Vol.\u00a0LXXXI, 1998, Series B, no. 1). The Committee concluded as follows (paragraphs 337 and 341): ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c337.\u00a0\u00a0While bearing in mind that collective bargaining, if it is to be effective, must assume a voluntary character and not entail recourse to measures of compulsion which would alter the voluntary nature of such bargaining, the Committee has considered that the competent authorities should, in all cases, have the power to proceed to an objective verification of any claim by a union that it represents the majority of workers in an undertaking, provided that such a claim appears to be plausible and that if the union concerned is found to be the majority union, the authorities should take appropriate conciliatory measures to obtain the employer's recognition of that union for collective bargaining purposes (see Digest, op. cit., paras. 845 and 824). While noting from the Government's observations that collective bargaining is still an option for the employer, the Committee concludes that, given the facts available in this particular case, [the employer] has by-passed the representative organisation and entered into direct individual negotiation with its employees, in a manner contrary to the principle that collective negotiation between employers and organisations of workers should be encouraged and promoted. The Committee notes with interest the Government's indication that a White Paper on fairness at work, with a focus on union recognition, is being prepared. The Committee hopes that any resulting legislation will have as an effect the encouragement of employer recognition of representative workers' organisations and requests the Government to keep it informed of the progress made in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "341.\u00a0\u00a0Finally, as concerns the previous Government's argument with respect to the relevance of section 13 of the [1993 Act], the Committee can only state that, in the absence of a more detailed reply concerning the facts of this specific case based on a thorough and independent investigation, it is not in a position to judge on the relevance of section 13 to the case in question. It would recall however that it was the Government which had raised the matter of section 13 in its initial reply to this complaint and that the conclusions reached by the Committee were based wholly upon its conclusions in a previous case presented against the United Kingdom Government for alleged infringements of trade union rights (see 294th Report, Case no. 1730) wherein it had invited the Government to reconsider section 13 in consultation with the social partners since it considered that this provision could hardly be said to constitute a measure to encourage and promote the full development and utilisation of machinery for voluntary negotiation with a view to the regulation of terms and conditions of employment by means of collective agreements, as provided for in Article 4 of Convention no. 98 (ratified by the United Kingdom). The Committee recalls in this respect that section 13 directs a tribunal, when considering a complaint of action short of dismissal taken by an employer for the purpose of preventing or deterring a worker from being or becoming a member of an independent trade union, to have regard primarily to the employer's purpose to further a change in the relationship with the employees and the Committee had concluded that this section considerably limited the tribunal's competence for determining such action as being in violation of section 146 concerning action short of dismissal (see 294th Report, Case no. 1730, para. 199). The Committee does not consider that the possible effects of section 13 have changed in this respect and it would therefore once again call on the Government to take steps to amend that section so that it ensures workers' organisations adequate protection from acts of interference on the part of the employer and so that it does not result in fact in the discouragement of collective bargaining. It requests the Government to keep it informed in this respect.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Committee recommended, inter alia, (and its recommendations were approved by the ILO's Governing Body):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c(a)\u00a0\u00a0Noting with interest the Government's indication that a White Paper on fairness at work, with a focus on union recognition, is being prepared, the Committee expresses the hope that any resulting legislation will have as an effect the encouragement of employer recognition of representative workers' organisations and requests the Government to keep it informed of the progress made in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(e)\u00a0\u00a0The Committee once again calls on the Government to take steps to amend section 13 of the Trade Union Reform and Employment Rights Act so that it ensures workers' organisations adequate protection from acts of interference on the part of the employer and so that it does not result in fact in the discouragement of collective bargaining. It requests the Government to keep it informed in this regard.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "\nTHE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 11 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "38.\u00a0\u00a0The applicants complained that the law applicable in the  at the relevant time failed to secure their rights under Article 11 of the Convention, the relevant parts of which provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society ... for the protection of the rights and freedoms of others. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Arguments of the parties",
+                                "elements": [
+                                    {
+                                        "content": "39.\u00a0\u00a0The Government relied on the Court's case-law and submitted that there is no right inherent in Article 11 to collective bargaining or for individual trade union members to receive identical benefits to those agreed between an employer and other employees who decline to be represented by the union. If the Government were required to oblige employers to offer identical benefits to all employees, regardless of union membership, there would be no scope for different unions to engage in collective bargaining to achieve better terms and conditions for their members. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government submitted that, under domestic law at the relevant time, trade unions had the freedom to take action to protect their members' interests. The essence of a voluntary system of recognition and collective bargaining, such as applied in the , was that it remained open to each side to persuade the other that recognition should be afforded and that collective bargaining on agreed issues should take place. Where a particular trade union was not recognised by the employer, it was open to the union to take steps, including strike action, to persuade the employer to recognise it for the purposes of collective bargaining (this would fall within the definition of a \u201ctrade dispute\u201d under section 219 of the 1992 Act \u2013 see paragraph 29 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0The applicants submitted that the right to union membership \u201cfor the protection of his interests\u201d under Article 11 necessarily involved the rights of every employee (1) to be represented by his or her union in negotiations with the employer, and (2) not to be discriminated against for choosing to avail him- or herself of the right to be represented. In this connection, the applicants referred to the findings and recommendations of the Committee of Experts under the European Social Charter and of the ILO's Committee on Freedom of Association (see paragraphs 32-33 and 37 above), that the right of union representation is inherent in the right of union membership (as provided for in Article 5 of the Charter and in the ILO convention).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "However, the House of Lords' judgment made it plain that domestic law protected only the right of union membership per se, and not any of the incidents of membership, such as collective representation in contract negotiations. Unless it could be shown that an employer acted with the intention to prevent, deter or penalise membership (per se) of a union, there was nothing to prevent the employer discriminating against an employee who chose to take advantage of one of the incidents of membership, such as collective representation. ",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court's assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0General principles",
+                                        "elements": [
+                                            {
+                                                "content": "41.\u00a0\u00a0The Court observes at the outset that although the essential object of Article 11 is to protect the individual against arbitrary interference by public authorities with the exercise of the rights protected, there may in addition be positive obligations to secure the effective enjoyment of these rights. In the present case, the matters about which the applicants complain \u2013 principally, the employers' de-recognition of the unions for collective-bargaining purposes and offers of more favourable conditions of employment to employees agreeing not to be represented by the unions \u2013 did not involve direct intervention by the State. The responsibility of the United Kingdom would, however, be engaged if these matters resulted from a failure on its part to secure to the applicants under domestic law the rights set forth in Article 11 of the Convention (see Gustafsson v. Sweden, judgment of 25\u00a0April 1996, Reports of Judgments and Decisions 1996-II, pp. 652-53, \u00a7\u00a045). ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0The Court reiterates that Article 11 \u00a7 1 presents trade union freedom as one form or a special aspect of freedom of association (see National Union of Belgian Police v. Belgium, judgment of 27 October 1975, Series A no.\u00a019, pp. 17-18, \u00a7 38, and Swedish Engine Drivers' Union v. Sweden, judgment of 6 February 1976, Series A no. 20, pp. 14-15, \u00a7 39). The words \u201cfor the protection of his interests\u201d in Article 11 \u00a7 1 are not redundant, and the Convention safeguards freedom to protect the occupational interests of trade union members by trade union action, the conduct and development of which the Contracting States must both permit and make possible. A trade union must thus be free to strive for the protection of its members' interests, and the individual members have a right, in order to protect their interests, that the trade union should be heard (see National Union of Belgian Police, cited above, p. 18, \u00a7\u00a7 39-40, and Swedish Engine Drivers' Union, cited above, pp. 15-16, \u00a7\u00a7 40-41). Article 11 does not, however, secure any particular treatment of trade unions or their members and leaves each State a free choice of the means to be used to secure the right to be heard (see National Union of Belgian Police, cited above, pp. 17-18, \u00a7\u00a7 38-39, and Swedish Engine Drivers' Union, cited above, pp. 14-15, \u00a7\u00a7 39-40). ",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Application of these principles to the present case",
+                                        "elements": [
+                                            {
+                                                "content": "43.\u00a0\u00a0The Court notes that, at the time of the events complained of by the applicants,  law provided for a wholly voluntary system of collective bargaining, with no legal obligation on employers to recognise trade unions for the purposes of collective bargaining. There was, therefore, no remedy in law by which the applicants could prevent the employers in the present case from de-recognising the unions and refusing to renew the collective-bargaining agreements (see paragraphs 12, 16, 19 and 26 above). ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0However, the Court has consistently held that although collective bargaining may be one of the ways by which trade unions may be enabled to protect their members' interests, it is not indispensable for the effective enjoyment of trade union freedom. Compulsory collective bargaining would impose on employers an obligation to conduct negotiations with trade unions. The Court has not yet been prepared to hold that the freedom of a trade union to make its voice heard extends to imposing on an employer an obligation to recognise a trade union. The union and its members must however be free, in one way or another, to seek to persuade the employer to listen to what it has to say on behalf of its members. In view of the sensitive character of the social and political issues involved in achieving a proper balance between the competing interests and the wide degree of divergence between the domestic systems in this field, the Contracting States enjoy a wide margin of appreciation as to how trade union freedom may be secured (see Swedish Engine Drivers' Union, cited above, pp. 14-15, \u00a7 39; Gustafsson, cited above, pp. 652-53, \u00a7 45; and Schettini and Others v. Italy (dec.), no. 29529/95, 9 November 2000). ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0The Court observes that there were other measures available to the applicant trade unions by which they could further their members' interests. In particular, domestic law conferred protection on a trade union which called for or supported strike action \u201cin contemplation or furtherance of a trade dispute\u201d (see paragraph 29 above). The grant of the right to strike, while it may be subject to regulation, represents one of the most important of the means by which the State may secure a trade union's freedom to protect its members' occupational interests (see Schmidt and Dahlstr\u00f6m v. Sweden, judgment of 6 February 1976, Series A no. 21, p. 16, \u00a7 36, and UNISON, cited above). Against this background, the Court does not consider that the absence, under  law, of an obligation on employers to enter into collective bargaining gave rise, in itself, to a violation of Article 11 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Court agrees with the Government that the essence of a voluntary system of collective bargaining is that it must be possible for a trade union which is not recognised by an employer to take steps including, if necessary, organising industrial action, with a view to persuading the employer to enter into collective bargaining with it on those issues which the union believes are important for its members' interests. Furthermore, it is of the essence of the right to join a trade union for the protection of their interests that employees should be free to instruct or permit the union to make representations to their employer or to take action in support of their interests on their behalf. If workers are prevented from so doing, their freedom to belong to a trade union, for the protection of their interests, becomes illusory. It is the role of the State to ensure that trade union members are not prevented or restrained from using their union to represent them in attempts to regulate their relations with their employers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0In the present case, it was open to the employers to seek to pre-empt any protest on the part of the unions or their members against the imposition of limits on voluntary collective bargaining, by offering those employees who acquiesced in the termination of collective bargaining substantial pay rises, which were not provided to those who refused to sign contracts accepting the end of union representation. The corollary of this was that  law permitted employers to treat less favourably employees who were not prepared to renounce a freedom that was an essential feature of union membership. Such conduct constituted a disincentive or restraint on the use by employees of union membership to protect their interests. However, as the House of Lords' judgment made clear, domestic law did not prohibit the employer from offering an inducement to employees who relinquished the right to union representation, even if the aim and outcome of the exercise was to bring an end to collective bargaining and thus substantially to reduce the authority of the union, as long as the employer did not act with the purpose of preventing or deterring the individual employee simply from being a member of a trade union. ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0Under  law at the relevant time it was, therefore, possible for an employer effectively to undermine or frustrate a trade union's ability to strive for the protection of its members' interests. The Court notes that this aspect of domestic law has been the subject of criticism by the Social Charter's Committee of Independent Experts and the ILO's Committee on Freedom of Association (see paragraphs 32-33 and 37 above). It considers that, by permitting employers to use financial incentives to induce employees to surrender important union rights, the respondent State has failed in its positive obligation to secure the enjoyment of the rights under Article 11 of the Convention. This failure amounted to a violation of Article\u00a011, as regards both the applicant trade unions and the individual applicants. ",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "49.\u00a0\u00a0The applicants complained in addition that the law of the  failed to protect their rights under Article 10 of the Convention, the relevant parts of which provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, ... for the protection of the ... rights of others ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "50.\u00a0\u00a0The applicants complained of an interference with their freedom to hold opinions, the opinion in question being that an employee should be allowed to choose to be represented by a trade union in negotiations with the employer. The Court does not, however, consider that any separate issue arises under Article 10 that has not already been dealt with in the context of Article 11 of the Convention. It is not, therefore, necessary to examine this complaint separately.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 14 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLES 10 AND 11",
+                        "elements": [
+                            {
+                                "content": "51.\u00a0\u00a0Finally, the individual applicants complained that domestic law allowed their employers to discriminate against them by virtue of their wish to continue to be represented by their unions. They relied on Articles 10 and 11 of the Convention taken in conjunction with Article 14, which states:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "52.\u00a0\u00a0However, in view of its findings under Article 11, the Court does not consider it necessary to examine this complaint.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "\nIV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "53.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "54.\u00a0\u00a0The Court reiterates that the principle underlying the provision of just satisfaction is that the applicant should, as far as possible, be put in the position he would have enjoyed had the violation of the Convention not occurred. The Court will award financial compensation under Article 41 only where it is satisfied that the loss or damage complained of was actually caused by the violation it has found, since the State cannot be required to pay damages in respect of losses for which it is not responsible (see, mutatis mutandis, Kingsley v. the United Kingdom [GC], no. 35605/97, \u00a7 40, ECHR 2002-IV).",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Individual applicants' claims",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "55.\u00a0\u00a0The individual applicants claimed compensation for loss of earnings, namely the loss of the pay increases which were awarded to their co-workers who signed individual contracts. The claims under this head varied from approximately 1,300 pounds sterling (GBP) to approximately GBP\u00a014,200.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The Government submitted that this claim was misconceived, because if domestic law had forbidden employers from offering incentives to employees in exchange for their agreement not to engage in collective bargaining, the obvious inference was that the employers would not have offered financial incentives to any of their employees. ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The Court agrees with the Government and, with reference to the principle set out in paragraph 54 above, it rejects the individual applicants' claims for pecuniary damage.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Non-pecuniary damage",
+                                        "elements": [
+                                            {
+                                                "content": "58.\u00a0\u00a0The individual applicants claimed compensation for the injuries to their feelings they had suffered in consequence of the violation. They claimed to have experienced humiliation and loss of status through having to do the same work as colleagues at a lower rate of pay, and frustration, stress and anxiety at the incapacity of their unions to protect them, the failure of domestic law to uphold their rights and the length of the combined proceedings in the United Kingdom and before the Convention organs. The individual applicants claimed GBP 10,000 each in this respect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0The Government submitted that the applicants' claims under this head were unsubstantiated. Furthermore, even if it were appropriate to award compensation for emotional distress on the basis of inference alone, it was more likely that the applicants, each of whom exercised a free choice on a point of principle, did not thereby suffer any emotional hardship. Since the applicants had not made any complaint under Article 6 \u00a7 1 of the Convention about the length of the proceedings, and since therefore no court had determined who was responsible for the length of the proceedings, it was not open to them to claim compensation in that respect.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0The Court reiterates that claims for just satisfaction must, in general, be supported by independent evidence. Thus, Rule 60 \u00a7 2 of the Rules of Court provides that:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cItemised particulars of all claims made, together with the relevant supporting documents or vouchers, shall be submitted, failing which the Chamber may reject the claim in whole or in part.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "However, some forms of non-pecuniary damage, including emotional distress, by their very nature cannot always be the object of concrete proof (see Abdulaziz, Cabales and Balkandali v. the United Kingdom, judgment of 28 May 1985, Series A no. 94, p. 44, \u00a7 96). This does not prevent the Court from making an award if it considers that it is reasonable to assume that an applicant has suffered injury requiring financial compensation (ibid.). ",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0The Court sees some force in the argument that, having exercised a free choice on a point of ideological principle, it is difficult to believe that the applicants thereby suffered humiliation and loss of status. However, the violation and the ensuing unsuccessful attempts to put it right before the national courts must have caused the applicants justifiable anger, frustration and emotional distress. The Court considers that, on an equitable basis, each individual applicant should be awarded 7,730 euros (EUR) in this respect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Applicant trade unions' claims",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The applicant trade unions claimed compensation for losses that they claimed followed from the perception, created by the violation in this case, that they were unable effectively to protect their members' interests. Each union claimed for loss of revenue caused by falling membership at Associated Newspapers and  respectively: GBP\u00a0178,363 for the NUJ and GBP 298,264 for the NURMTW. Each union in addition maintained that it should be awarded GBP 100,000 to compensate it for loss of credibility and status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The Government pointed out that the applicant trade unions had not established any causal link between the violation and the unparticularised and unsubstantiated losses in respect of which they claimed compensation. They pointed out that levels of trade union membership are inevitably affected by a range of factors, including levels of employment in the industries concerned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The Court is not satisfied that the losses complained of by the applicant trade unions were caused by the violation it has found in this case. It therefore rejects the applicant trade unions' claims for financial compensation for pecuniary and non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Legal costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicant trade unions paid the legal costs and expenses of the individual applicants before the national courts and tribunals, and their own and the individual applicants' costs before the Convention organs. They claimed reimbursement of these costs, inclusive of value-added tax (VAT), as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1)\u00a0\u00a0first applicant's costs of bringing proceedings in the  courts, from the Employment Tribunal to the House of Lords: GBP\u00a085,172.23;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2)\u00a0\u00a0third and fourth applicants' costs of bringing proceedings from the Employment Tribunal to the House of Lords: GBP 73,633.76;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3)\u00a0\u00a0fifth to twelfth applicants' costs in the Employment Tribunal: GBP\u00a03,865.75;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4)\u00a0\u00a0total costs paid by the first, third and fourth applicants to their employers as a result of the House of Lords' judgment: GBP 159,915.46;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(5)\u00a0\u00a0first and second applicants' costs and expenses before the Convention organs: GBP 98,700.89;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(6)\u00a0\u00a0third to thirteenth applicants' costs and expenses before the Convention organs: GBP 51,229.85.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government submitted that the applicants were not entitled to be reimbursed any part of the costs of the domestic proceedings, because these proceedings were not concerned with the issues arising under the Convention. In any event, the Government pointed out that, since the applicants had not provided any substantiation in respect of their claims for domestic costs, the Court should make no award under this head.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Likewise, the Government observed that the claims for the costs of the Convention proceedings were not accompanied by any detailed evidence as to how the costs were incurred. If the Court nonetheless wished to make an award, GBP 20,000 would be more than sufficient.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0 The Court reiterates that the established principle in relation to domestic legal costs is that an applicant is entitled to be reimbursed those costs actually and necessarily incurred to prevent or redress the breach of the Convention found by the Court, to the extent that the costs are reasonable as to quantum (see Kingsley, cited above, \u00a7 49). It considers that the issue in the domestic proceedings, whether the requirement to renounce the right to union representation in order to receive a pay rise amounted to \u201caction (short of dismissal) ... for the purpose of preventing or deterring\u201d trade union membership, was sufficiently close to that arising under Article 11 as to justify in principle the reimbursement of the applicants' domestic costs. It was reasonable for the applicants to proceed on the basis that the 1978 Act would not permit action by employers which was inconsistent with Article\u00a011 rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0However, as mentioned in paragraph 60 above, all claims for just satisfaction must show particulars and be supported by relevant documentation, failing which the Chamber may reject the claim in whole or in part. The applicants have not submitted itemised bills of costs to the Court in respect of their claims. Without details of the work done and the hourly rates charged, it is not possible for the Court to determine whether the costs were necessarily incurred and reasonable as to quantum. In these circumstances, the Court is prepared to award only a total of 76,500 EUR in respect of the applicants' domestic costs, plus any VAT which may be chargeable. ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The applicants' claims for costs before the Convention organs are similarly unsubstantiated and do not show any particulars. The Court awards a total of 45,750 EUR under this head, plus any VAT which may be chargeable.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0According to the information available to the Court, the statutory rate of interest applicable in the  at the date of adoption of the present judgment is 7.5% per annum.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Holds that there has been a violation of Article 11 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that it is not necessary to examine separately the complaints under Article 10 of the Convention or Article 14 of the Convention taken in conjunction with Articles 10 and 11;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds ",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay, within three months, the following amounts: ",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that simple interest at an annual rate of 7.5% shall be payable from the expiry of the above-mentioned three months until settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Dismisses the remainder of the applicants' claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 2 July 2002, pursuant to Rule\u00a077 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the concurring opinion of Mr Gaukur J\u00f6rundsson is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Article 11 protects the right of everyone to form and join trade unions \u201cfor the protection of his interests\u201d. It is this expression \u201cfor the protection of his interests\u201d, which calls for special attention and consideration in the present case.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It is important to note that in National Union of Belgian Police v. Belgium (judgment of 27 October 1975, Series A no. 19) and in Swedish Engine Drivers' Union v. Sweden (judgment of 6 February 1976, Series A no. 20), the Court went to some lengths to emphasise that the words \u201cfor the protection of his interests\u201d were not redundant. The Court emphasised that the Convention safeguards freedom to protect the occupational interests of trade union members by trade union action, the conduct and development of which the Contracting States must both permit and make possible. It underlined that the members of a trade union have a right \u201cin order to protect their interests, that the trade union should be heard\u201d. The Court found that the right to be heard was satisfied by the fact that, in those cases, it was open to the representative unions \u201cto present claims, to make representations for the protection of the interests of [their] members or certain of them ...\u201d (p. 18, \u00a7\u00a7 39, 40, in the Belgian case; pp. 15-16, \u00a7\u00a7 40, 41, in the Swedish case; the quotation is from the Swedish case).",
+                        "elements": []
+                    },
+                    {
+                        "content": "It is clear, however, that this right to be heard is, according to the case-law, a limited one. In the above-mentioned Belgian case, the Court stressed that the right to be heard did not even suppose a right to be consulted and, in the Swedish case, that the right to be heard did not entail a right for the applicant trade union to be allowed to enter into a collective agreement with an employer.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The fact, nevertheless, remains that the case-law has clearly concluded that a right to be heard is protected by Article 11. One can say, therefore, that this right is a minimum which should be protected. This interpretation is supported by the European Social Charter 1961 and the International Labour Organisation's Freedom of Association and Protection of the Right to Organise Convention, 1948 (no. 87), and its Right to Organise and Collective Bargaining Convention, 1949 (no. 98) (see paragraphs 30-37 of the judgment).",
+                        "elements": []
+                    },
+                    {
+                        "content": "The domestic legal situation at issue in this case went further than either the Swedish or the Belgian cases just quoted in stripping the trade union of effective power to protect members' interests. It permitted employers to ignore all representation by trade unions on behalf of their members and,",
+                        "elements": []
+                    },
+                    {
+                        "content": "furthermore, to use financial incentives to induce employees to surrender important union rights. The respondent State has thus, in my opinion, failed in its positive obligation to secure the enjoyment of the rights under Article\u00a011 of the Convention. There has, accordingly, been a violation of Article 11 as regards the applicant trade unions and the individual applicants.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrJ.-P. Costa",
+            "role": "president"
+        },
+        {
+            "name": "MrA.B. Baka",
+            "role": "judges"
+        },
+        {
+            "name": "MrGaukur J\u00f6rundsson",
+            "role": "judges"
+        },
+        {
+            "name": "MrK. Jungwiert",
+            "role": "judges"
+        },
+        {
+            "name": "MrM. Ugrekhelidze",
+            "role": "judges"
+        },
+        {
+            "name": "MrsA. Mularoni",
+            "role": "judges"
+        },
+        {
+            "name": "LordPhillips of Worth Matravers",
+            "role": "ad hoc judge"
+        },
+        {
+            "name": "Mrs S. Doll\u00e9",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF WILSON, NATIONAL UNION OF JOURNALISTS AND OTHERS v. THE UNITED KINGDOM",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-60554.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2002:0702JUD003066896",
+    "externalsources": [
+        "European Social Charter 1961, Articles 5 and 6",
+        "Committee of Independent Experts set up under Article 25 of the European Social Charter, Conclusions XIII-3, 1996, and Conclusions XIV-I, 1998",
+        "Freedom of Association and Protection of the Right to Organise Convention 1948 (International Labour Organisation)",
+        "Right to Organise and Collective Bargaining Convention 1949 (International Labour Organisation)",
+        "International Labour Orgsanisation Committee on Freedom of Association, 309th Report, Vol. LXXX, 1998, Series B, No. 1"
+    ],
+    "extractedappno": [
+        "30668/96",
+        "30671/96",
+        "30678/96",
+        "1991/92",
+        "53574/99",
+        "29529/95",
+        "35605/97"
+    ],
+    "importance": "1",
+    "introductiondate": "",
+    "issue": [
+        "Employment Protection (Consolidation) Act 1978, Section 23(1)(a)"
+    ],
+    "itemid": "001-60554",
+    "judgementdate": "02/07/2002 00:00:00",
+    "kpdate": "02/07/2002 00:00:00",
+    "kpthesaurus": [
+        "145",
+        "141",
+        "198",
+        "310",
+        "149",
+        "343",
+        "216"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "11-1",
+        "10",
+        "14",
+        "11",
+        "41"
+    ],
+    "parties": [
+        "WILSON, NATIONAL UNION OF JOURNALISTS AND OTHERS",
+        "THE UNITED KINGDOM"
+    ],
+    "rank": "442.924926757813",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "GBR",
+    "respondentOrderEng": "49",
+    "scl": [
+        "Abdulaziz, Cabales and Balkandali v. the United Kingdom judgment of 28 May 1985, Series A no. 94, \u00a7 96",
+        "Gustafsson v. Sweden judgment of 24 April 1996, Reports of Judgments and Decisions 1996-II, \u00a7 45",
+        "Kingsley v. the United Kingdom [GC], no. 35605/97, \u00a7 40 and \u00a7 49, ECHR-2002",
+        "National Union of Belgian Police v. Belgium judgment of 27 October 1975, Series A no. 19, \u00a7 38, \u00a7\u00a7 38-39 and \u00a7\u00a7 39-40",
+        "Schettini and Others v. Italy (dec.), no. 29529/95, 9 November 2000",
+        "Schmidt and Dahlstr\u00f6m v. Sweden judgment of 6 February 1976, Series A no. 21, \u00a7 36",
+        "Swedish Engine Drivers Union v. Sweden judgment of 6 February 1976, Series A no. 20, \u00a7 39, \u00a7\u00a7 39-40 and \u00a7\u00a7 40-41",
+        "Unison v. the United Kingdom (dec.), no. 53574/99, 10 January 2002"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "437526",
+    "typedescription": "15"
+}

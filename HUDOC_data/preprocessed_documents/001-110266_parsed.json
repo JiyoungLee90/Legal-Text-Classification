@@ -1,0 +1,981 @@
+{
+    "__articles": "6;6+6-3-c;6+6-3-d;6-1;6-3-c;6-3-d;35;41",
+    "__conclusion": "Remainder inadmissible;No violation of Article 6+6-3-c - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-c - Defence through legal assistance;Article 6 - Right to a fair trial);Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-d - Examination of witnesses;Article 6 - Right to a fair trial);Pecuniary damage - claim dismissed (Article 41 - Causal link;Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "8088/05",
+    "article": [
+        "6",
+        "41",
+        "35"
+    ],
+    "conclusion": [
+        {
+            "article": "6-3-c",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "No violation of Article 6+6-3-c - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-c - Defence through legal assistance",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "6-3-d",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3-d - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-d - Examination of witnesses",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "details": [
+                "Article 41 - Causal link",
+                "Pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Pecuniary damage - claim dismissed",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-110266.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 8088/05) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Armenian national, Mr Artak Gabrielyan (\u201cthe applicant\u201d), on 3 February 2005.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr M. Muller, Mr T. Otty, Mr\u00a0K.\u00a0Yildiz and Ms L. Claridge, lawyers of the Kurdish Human Rights Project (KHRP) based in London, and Mr T. Ter-Yesayan and Mr\u00a0E.\u00a0Babayan, lawyers practising in Yerevan. The Armenian Government (\u201cthe Government\u201d) were represented by their Agent, Mr G. Kostanyan, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 10 September 2008 the President of the Third Section decided to give notice of the application to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article\u00a029 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1938 and lives in .",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.\u00a0\u00a0Background to the case",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0In February and March 2003 a presidential election was held in Armenia, during which the applicant was involved as an authorised election assistant (\u057e\u057d\u057f\u0561\u0570\u057e\u0561\u056e \u0561\u0576\u0571) for the candidate representing the People\u2019s Party of  (PPA), who was the main opposition candidate in the election. Following his defeat by the incumbent President, the PPA candidate challenged the election results in the Constitutional Court, which on 16 April 2003 recommended that a referendum of confidence in the re-elected President be held in  within a year.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0As the April 2004 one-year deadline approached, the opposition stepped up its campaign to challenge the legitimacy of the re-elected President. At the end of March 2004 two main opposition groups \u2013 the Justice Alliance, consisting of nine parties, including the PPA and the National Unity Party \u2013 announced their intention to start a series of demonstrations demanding the resignation of the re-elected President.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicant alleges that from February 2003 until his arrest in April\u00a02004 he was repeatedly harassed because of his political activity. In particular, the police frequently called him to the police station without any reasons and demanded that he stop his political activities and support for the opposition.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 30 March 2004 criminal proceedings no. 62201704 were instituted under Article 301 and 318 \u00a7 2 of the Criminal Code (CC) against representatives of the Justice Alliance on account of making calls for a violent overthrow of the government and change of the Armenian constitutional order and of publicly insulting government representatives.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The applicant\u2019s arrest and prosecution",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0On 8 April 2004 the applicant was handing out leaflets to people at a marketplace in , inciting them to attend a demonstration to be held in the capital on 9 April 2004. The leaflets had the following content:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cFellow countrymen",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It is not possible any more to continue this way.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On 9 April at 4 p.m. in  we will start our struggle which aims to establish a lawful government in . The future of our homeland depends on the participation of each of us.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "National Unity Party\t\t\t\t\tJustice Alliance\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0The applicant was stopped by two police officers, G.D. and G.A., who demanded that he accompany them to a police station. It appears that this happened at around 1 p.m.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0According to the applicant, they arrived at the police station at around 1.30 p.m. At the police station he was placed in a waiting room with a glass wall next to the corridor, where he spent about ten hours. During this period he noticed several people behind the glass wall pointing at him as if to identify him. He had no access to a lawyer during this period.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0It appears that at some point the applicant was transferred to a prosecutor\u2019s office where from 8.55 to 9.05 p.m. and from 9.30 to 10.05\u00a0p.m. two confrontations were held between him and two witnesses, M.M. and N.S., respectively, who worked at the marketplace. The relevant records stated at the outset that there had been substantial contradictions between the statements of these witnesses and the applicant, who at this stage was also involved as a witness.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0Witness M.M. stated during the confrontation that earlier that day, at around 2\u00a0p.m., he had noticed the applicant handing out leaflets and saying something to people at the marketplace. Then the applicant had approached him and given him a leaflet, saying that \u201cthe day after it would be the end of the government and the government would be changed and that they would put an end to the government and sort them out\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0 stated that the applicant had approached him at around 1 p.m. and given him a leaflet, saying that he should \u201ccome to the demonstration where they would crush and overcome\u201d, after which the applicant left.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The applicant denied having handed out any leaflets or made any such statements.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0At 10.30 p.m. an arrest record was drawn up which noted that eye-witnesses had stated that the applicant had handed out leaflets and made calls for a violent overthrow of the government. The applicant again denied these allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On the same date the Kentron and Nork-Marash District Court of Yerevan granted the investigator\u2019s motion to have the applicant\u2019s flat searched. This decision stated that there were sufficient grounds to believe that written calls, leaflets, plans and projects to overthrow the government and change the constitutional order violently and to insult representatives of the government publicly, as well as firearms, ammunition and other objects and documents relevant to the case, could be found in the applicant\u2019s flat.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0On 9 April 2004 the investigator invited a legal aid lawyer, H.I., to represent the applicant\u2019s interests. According to the relevant record, the applicant agreed that his interests be represented by lawyer H.I.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On the same date from 10.30 to 11.10 a.m. the applicant\u2019s flat was searched in the presence of two attesting witnesses but no items were found.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0From 1.05 to 2.25 p.m. the applicant was questioned as a suspect in the presence of lawyer H.I. The applicant again denied all the allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 10 April 2004 the applicant was formally charged within the scope of criminal proceedings no. 62201704 under Article 301 of the CC. This decision stated:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c...[the applicant], having received from [the district office] of the National Unity Party leaflets concerning the demonstration to be held on 9 April 2004 at 4 p.m. on Freedom Square with the aim of \u201cestablishing a lawful government in Armenia\u201d, distributed these leaflets to citizens and made calls to overthrow the government and change the constitutional order violently.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "On 8 April 2004 at around 1 p.m. [the applicant] was caught by police officers while he was handing out the leaflets and a total of 24 leaflets were confiscated from him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Thus, [the applicant] has made calls to overthrow the government and change the constitutional order violently, namely he has committed an offence envisaged under Article 301 of the [CC].\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0The applicant and his lawyer signed this decision which, inter alia, stated that the nature of the charge had been explained to the applicant. The applicant once again gave his consent to be represented by lawyer H.I. He was then questioned as an accused in the presence of his lawyer. The applicant submitted that the nature of the charge was clear to him but denied having distributed leaflets or made any calls at the marketplace.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On the same date the Kentron and Nork-Marash District Court of Yerevan granted the investigator\u2019s motion, dated 6 April 2004, to have the applicant detained.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 21 April 2004 a confrontation was held between the applicant and another witness, V.Z., who apparently also worked at the marketplace. He identified the applicant as the person who had approached him on 8\u00a0April 2004, handed him a leaflet and told him to attend a demonstration on the following day during which a struggle to change the government would begin and that the authorities were unlawful and had to be changed. The applicant again denied having distributed leaflets or made any calls and submitted that witness V.Z. had been forced by the police to make false submissions. This confrontation was held in the presence of lawyer H.I.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 6 May 2004 another confrontation was held between the applicant and arresting police officer G.D. who submitted that on 8 April 2004 at around 12 noon, having noticed that the applicant was distributing leaflets at the marketplace, they had approached him and asked to have a look at the leaflets. Having read what the leaflets said, they asked the applicant to come with them to the police station for clarification. The applicant denied these allegations. This confrontation was held in the presence of lawyer H.I.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0On 7 May 2004 another confrontation was held between the applicant and the second arresting police officer, G.A., who made submissions similar to those made by police officer G.D. The applicant submitted in reply that police officer G.A.\u2019s statement was true and that he had not told the entire truth in his previous submissions. The applicant admitted that he had distributed the leaflets at the marketplace but denied having said anything or made any calls for a violent overthrow of the government. He submitted that he regretted his actions and requested to be released from detention. This confrontation was held in the presence of lawyer H.I.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0On the same day the applicant was again questioned as an accused in the presence of lawyer H.I., during which he made similar submissions and pleaded partly guilty.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0Later that day lawyer H.I. filed a motion with the General Prosecutor\u2019s Office, seeking to have the applicant released from detention. He submitted that the applicant was known to be of good character, had a permanent place of residence, was a pensioner and would not abscond or obstruct the proceedings if freed. Furthermore, he had no criminal record, had pleaded guilty and regretted his actions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0It appears that on unspecified dates two other witnesses, O.V. and S.K., were also questioned in connection with the applicant\u2019s case. Witness O.V. stated that a tall person had been distributing leaflets at the marketplace on 8 April 2004. When handing him a leaflet, he said that a struggle aimed at establishing a lawful government in  would begin at the demonstration of 9 April 2004. He further incited everybody to participate in the struggle, topple the government and make a coup. Witness S.K. stated that a tall elderly person had handed him a leaflet at the marketplace on 8 April 2004 and incited him to join the struggle, eliminate the current government, topple them by force and establish a new order.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The applicant alleged, which the Government did not dispute, that throughout the entire investigation his lawyer had never met or spoken with him in private, while in detention, to provide legal advice. Furthermore, the lawyer even failed to satisfy his request to be provided with a copy of the Code of Criminal Procedure.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0The court proceedings",
+                                "elements": [
+                                    {
+                                        "content": "31.\u00a0\u00a0On an unspecified date the applicant\u2019s case was brought before the Avan and Nor Nork District Court of Yerevan which started its examination on 31 May 2004. The applicant submitted before the District Court that he wished to be represented by lawyer H.I.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The examining judge noted at the outset that the witnesses had been duly notified but had failed to appear and inquired about the opinion of the parties. The prosecutor submitted that they had to be compelled to appear. The lawyer made a similar submission on the ground that it was impossible to examine the case without the witnesses. The judge agreed and adjourned the hearing until 2 June 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0At the hearing of 2 June 2004 four witnesses appeared, witnesses N.S. and M.M. and police officers G.D. and G.A..",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0 admitted that he was seeing the applicant for the second time, the first time being on 8 April 2004 at the prosecutor\u2019s office. He further submitted that about a month before he was at work at the marketplace when somebody had approached and given him a leaflet, adding that \u201ctomorrow at 1 p.m. there would be a demonstration on \u201d. The person handing out the leaflets was tall and had grey hair. He gave the leaflet and said \u201ccome at this hour, we will crush, shatter and conquer\u201d.  submitted that he had understood from these statements that the demonstrators wanted to change the government. In reply to the applicant\u2019s lawyer\u2019s questions, witness N.S. submitted that he was not familiar with that person and he could not say for sure if it was the applicant who had given the leaflet and made the statements. He was sure though that he had seen the applicant at the prosecutor\u2019s office.  explained that he had stated at the prosecutor\u2019s office that he had not seen who was distributing the leaflets, to which they replied that it had been the applicant. In reply to the judge\u2019s question as to why he had stated unequivocally during the investigation that it was the applicant who had distributed the leaflets and made the above statements, witness N.S. submitted that he had said so because he had been told at the prosecutor\u2019s office that it was the applicant who was distributing leaflets in the area of the marketplace. He further submitted that he could not remember who it was, but people around him said that it was the applicant, so he said the same.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0Witness M.M. submitted that at some point in May he was at the marketplace when the applicant, who was distributing leaflets, approached him and invited him to a demonstration in order to \u201cturn over\u201d the government. The applicant then left. Witness M.M. further confirmed his pre-trial statement and asked to rely on it. He also confirmed that the person distributing the leaflets, like the applicant, had grey hair and a white shirt and was tall.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0Police officer G.D. submitted that he was on duty at the marketplace with police officer G.A. where they noticed a person who was handing out leaflets. They approached him and brought to the police station, where he was identified as the applicant. They could not hear what he was saying to the vendors. In reply to the applicant\u2019s lawyer\u2019s questions, police officer G.D. said that he personally did not hear any calls from the applicant. Nor did any of the vendors tell him that the applicant had made calls.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0Police officer G.A. made similar submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0The examining judge then announced that he had received an official letter from the police stating that witness S.K. had not been found at his place of residence, that witness O.V. was absent from his place of residence and lived elsewhere, and that the court\u2019s decision ordering the appearance of these witnesses, in its part concerning witness V.Z., had not been executed for reasons not communicated to the court. The prosecutor requested that the pre-trial statements of these witnesses be read out. The applicant and his lawyer consented, after which the statements were read out.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "39.\u00a0\u00a0The applicant was then examined, during which he admitted that he had distributed leaflets but denied having made any calls for a violent overthrow of the government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0Thereafter the trial entered its final stage of pleadings. The prosecutor made a speech, followed by the applicant\u2019s lawyer and the applicant himself. The lawyer, in particular, made the following speech: \u201cI find that the defendant must be acquitted\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0On the same date the District Court found the applicant guilty as charged and imposed a one year suspended sentence, ordering at the same time the applicant\u2019s release from detention under a written undertaking not to leave his place of residence. The District Court found, in particular, that:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cOn 8 April 2004 [the applicant] received leaflets from the Avan and Nor Nork district office of National Unity Party concerning a rally to be held on 9 April 2004 at 4 p.m. on Freedom Square, distributed them to persons working and involved in trade in the area of the seventh market situated in [Nork] and made public calls inciting to a violent overthrow of the government and the constitutional order. In particular, when handing out leaflets to [N.S., M.M., V.Z., O.V. and S.K.], he incited them to participate in the rally telling them \u2018You must come by all means, we will crush, overcome, put an end to the government and sort them out, we will make a coup, we will violently overthrow the current government and establish a new order\u2019\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0In support of its findings the District Court relied on the statements of witnesses N.S., M.M., V.Z., O.V. and S.K. As regards, in particular, the statements made by witness N.S. in court, the District Court dismissed them as unreliable and admitted his statements made during the confrontation of 8\u00a0April 2004. The District Court justified this decision by the fact that the statements made by witness N.S. during the confrontation had been unequivocal. Thus, according to the entirety of the witness statements relied on by the District Court, the applicant had made the following calls while handing out the leaflets and inciting people to attend the demonstration: \u201cwe will crush and overcome\u201d (witness N.S.), \u201cthe government will be changed and we will put an end to the government and sort them out\u201d (witness M.M.), \u201ca struggle will start at the demonstration aimed at changing the government and establishing a lawful one\u201d, \u201cthe current government will be overthrown and a new one will be established\u201d, \u201cthe current government is unlawful and has to be changed\u201d (witness V.Z.), \u201cthe government has to be overthrown and a coup has to be made\u201d (witness O.V.) and \u201cthe current government has to be eliminated and violently overthrown and a new order has to be established\u201d (witness S.K.).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0On 14 June 2004 the applicant lodged an appeal, which he apparently drafted himself. In his appeal the applicant submitted that during the investigation he had pleaded guilty only to distributing leaflets, which in any event was not an offence, but he had never made any calls for a violent overthrow of the government. He was not a member of any political party, had never participated in demonstrations or had links with the parties organising them. The applicant further complained about the fact that the statements made by witnesses N.S. and M.M. in court, which were favourable for him, had been considered unreliable, while other witnesses, being ashamed of their false statements, had failed to appear in court. He argued that the statements of those witnesses who had not been examined in court should not have served as a basis for his conviction. The applicant lastly stated that the arresting police officers had not heard him make any calls. Thus, he had been convicted on the basis of statements of two or three witnesses who had seen him for the first time at the prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0On 29 June 2004 the proceedings commenced before the Criminal and Military Court of Appeal. The applicant submitted before the Court of Appeal that he wished to be represented by lawyer H.I. and pleaded not guilty. Lawyer H.I. also claimed that the applicant was not guilty and asked the court to acquit him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0At the hearing of 30 June 2004, following the applicant\u2019s examination, the presiding judge announced that it was necessary to summon and examine witnesses O.V., V.Z. and S.K. He further stated that he had telephoned all three witnesses on the previous day. O.V.\u2019s wife replied that about a month before he had gone to  for work and his whereabouts were unknown. V.Z.\u2019s wife replied that he had gone to another region for work and that she had no further information about him. S.K.\u2019s relatives replied that he had left  for work. The Court of Appeal decided, taking into account that the attendance of the above witnesses was indispensable, that they be compelled to appear. This task was assigned to the local police department. The hearing was adjourned until 6 July 2004.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0At the hearing of 6 July 2004 the presiding judge announced that, according to the police, the witnesses were absent from their places of residence. The police had promised to provide further information in writing. In reply to the presiding judge\u2019s question, the parties did not object to proceeding with the hearing and requested that measures be taken to ensure the attendance of the witnesses at the next hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0At the hearing of 7 July 2004 the presiding judge informed the parties that an official letter had been received from the police informing that witnesses O.V., V.Z. and S.K. were absent from their places of residence. While reading out that letter, the presiding judge noticed that the police had visited the wrong address as far as witness V.Z. was concerned. The prosecutor then requested that their statements be read out. Lawyer H.I. submitted that the witnesses in question had made defamatory statements against the applicant during the investigation which lacked credibility and it was therefore necessary to bring them to court with the help of the police. The applicant joined his lawyer\u2019s request and asked that the witnesses in question appear in court and also present their identity documents. The Court of Appeal decided that, since a wrong address had been indicated in the decision ordering V.Z.\u2019s appearance in court, it was necessary to inform the police of the correct address. As regards witnesses O.V. and S.K., the former was in , while the latter was out of town. This was also confirmed by the telephone calls made by the presiding judge. The Court of Appeal found that, in such circumstances, there were no reasons to doubt the veracity of the police information and announced that it would read out and examine the pre-trial statements of those witnesses. The statements would then be analysed in the deliberation room and an assessment would be made as to their credibility, since the evidence examined in court was sufficient to allow such an assessment. The Court of Appeal then proceeded to read out the statements in question. The applicant submitted that their statements did not concern him since there had been many tall, grey-haired men at the marketplace. The investigating authority had never arranged his identification by those witnesses and their statements were therefore false.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0At the hearing of 12 July 2004 the presiding judge announced that an official letter had been received from the police, according to which witness V.Z. indeed resided at the correct address but nobody answered the door during their visit. The presiding judge announced that, not being satisfied by the information contained in the police letter, he personally called V.Z.\u2019s home and became convinced that nobody was there because nobody answered the telephone. The prosecutor requested that the statement of witness V.Z. be read out in court, while both the applicant and his lawyer submitted that the statement of witness V.Z. lacked credibility and requested that it be disregarded. The court then proceeded to read out the statement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0At the same hearing the applicant filed a motion with the Court of Appeal dispensing with the services of lawyer H.I. He submitted that the lawyer had not taken any steps to defend his interests and to prove his innocence. The lawyer had never come to visit him in detention despite the requests he had made to the administration of the detention facility. Furthermore the lawyer, without his knowledge, had filed a motion on 7\u00a0May 2004 seeking his release, in which the lawyer stated that he had pleaded guilty despite the fact that he had never pleaded fully guilty, thereby acting to his detriment and assisting the prosecution in substantiating the charge against him. The applicant claimed that he had found out about this motion only during the appeal proceedings. He further claimed in his motion that he had pleaded guilty to distributing leaflets because he was not aware that such act did not constitute an offence. He realised this only following his release from detention because no copy of the Criminal Code had been provided to him by either the investigator or his lawyer while in detention, despite his numerous requests. The applicant lastly claimed that the case against him had been fabricated. He submitted that, while sitting behind a glass wall at the police station, he was shown to some people who later became witnesses and made false statements against him. Some of them he was not able to examine and only two of them appeared in court. One of those two retracted his pre-trial statement, while the second one, because of giving a false statement, was even ashamed to look him in the eyes and was only able to mumble a confirmation of his pretrial statement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The applicant stated at the same time that it was his personal choice to dispense with the services of his lawyer. The Court of Appeal decided to grant the applicant\u2019s motion and to allow him to defend himself in person. The lawyer was then asked to leave the courtroom.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0On the same date the Criminal and Military Court of Appeal adopted its judgment upholding the applicant\u2019s conviction. In doing so, the Court of Appeal referred to the statements of witnesses N.S., M.M., O.V. and S.K. and of police officers G.D. and G.A. As regards the statement of witness V.Z., the Court of Appeal found that it should not have formed a basis for the applicant\u2019s conviction because that witness had failed to appear in court despite a court order. The Court of Appeal further rejected the applicant\u2019s claim that he had only distributed leaflets but not made any calls for a violent overthrow of the government. In doing so, the Court of Appeal stated that five witnesses had testified that the applicant had made such calls. Furthermore, the police officers had arrested him while he was handing out the leaflets. In the light of the overall sufficiency of evidence, the fact that witnesses O.V. and S.K. had failed to appear in court could not put into doubt the applicant\u2019s involvement in the act and his guilt. The criminal element in his actions lay in the making of calls inciting violent seizure of power and change of the constitutional order. Those calls were public and aimed at a big group of people. Since he made such calls at a marketplace during the daytime, they were audible to the public. The fact that they were perceived as calls inciting to a violent overthrow of the government was confirmed by the witness statements.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court of Appeal further dismissed the applicant\u2019s complaint about lawyer H.I., stating that the applicant\u2019s right to defence had been ensured by the investigating authority, he had chosen his position regarding the charge against him without any outside pressure and he had not previously made any complaints about the lawyer. Furthermore, the fact that the nature of the charge was clear to the applicant was evident from the records of investigative measures. He had certified this with his signature in the presence of his lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0On 14 July 2004 the applicant lodged an appeal on points of law in which he raised arguments concerning the witnesses against him and the alleged failure of lawyer H.I. to provide effective legal assistance, similar to those raised in his complaint of 12 July 2004. He also added that the witness statements against him had been fabricated under police pressure. The witnesses in question were people trying to make a living by working at the market, so if they had refused to follow police orders they would have been immediately expelled from the market.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0On 6 August 2004 the Court of Cassation dismissed the applicant\u2019s appeal. In doing so, the Court of Cassation found that both witnesses M.M. and N.S. had made statements implicating the applicant. As regards the legal representation, the applicant had agreed that lawyer H.I. defend his interests and the lawyer had properly done so.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0By a letter of 11 November 2004 the head of staff of the Armenian Bar Association informed the applicant, in reply to his complaint, that lawyer H.I. had lawfully carried out the applicant\u2019s defence and had not done anything illegal. The motion of 7 May 2004 had been filed upon the applicant\u2019s and his relatives\u2019 request.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The Criminal Code (in force from 1 August 2003)",
+                                "elements": [
+                                    {
+                                        "content": "56.\u00a0\u00a0The relevant provisions of the CC provide:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 301: Public calls inciting to a violent change of the constitutional order of ",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cPublic calls inciting to a violent seizure of State power and violent change of the constitutional order of Armenia shall be punishable by a fine of between 300 and 500 times the minimum wage or by detention of between two and three months or by imprisonment for a period not exceeding three years.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Code of Criminal Procedure (in force from 12 January 1999)",
+                                "elements": [
+                                    {
+                                        "content": "57.\u00a0\u00a0The relevant provisions of the Code of Criminal Procedure provide:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 62: A suspect",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0A suspect is the person ... who has been arrested on suspicion of having committed an offence...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 63: Rights and obligations of a suspect",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0The suspect has the right to defence. The investigating authority shall allow the suspect to implement his right to defence by all lawful means.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The suspect, in accordance with a procedure prescribed by this Code, has the right ... to have a defence counsel or to dispense with a defence counsel and defend himself in person from the moment when he is presented with the investigating authority\u2019s decision on arrest, the record of arrest or the decision on choosing a preventive measure...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 86: A witness",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c3.\u00a0\u00a0A witness is obliged ... to appear upon the summons of the authority dealing with the case in order to give testimonies or to participate in investigative and other procedural measures...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0The failure of a witness to comply with his obligations shall lead to sanctions prescribed by law.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 153: Compulsion to appear",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0[A] witness ... may be compelled to appear by a reasoned decision of ... the court if he fails to appear upon summons without valid reasons. [A] witness ... is obliged to inform the summoning authority if there are valid reasons preventing his appearance within the time-limit fixed in the summons.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 216: Confrontation",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0The investigator is entitled to carry out a confrontation of two persons who have been questioned previously and whose statements contain substantial contradictions. The investigator is obliged to carry out a confrontation if there are substantial contradictions between the statements of the accused and some other person.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0In cases envisaged by this Code, a defence counsel, an interpreter and the lawful representative of the person being questioned can participate in the confrontation and shall also sign the record.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 332: Deciding on the possibility of examining the case in the absence of a witness, expert or specialist who has failed to appear",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0If any of the witnesses ... summoned to court has failed to appear, the court, having heard the opinions of the parties, shall decide on continuing or adjourning the proceedings. The proceedings may be continued if the failure to appear of any of such persons shall not obstruct the thorough, complete and objective examination of the circumstances of the case.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 342:  out of witness statements",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Reading out at the trial of witness statements made during the inquiry, the investigation or a previous court hearing ... is permissible if the witness is absent from the court hearing for reasons which rule out the possibility of his appearance in court, if there is substantial contradiction between those statements and the statements made by that witness in court, and in other cases prescribed by this Code.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 426.1: The court reviewing judicial acts on the ground of newly discovered or new circumstances",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Only final acts are subject to review on the ground of newly discovered or new circumstances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0On the ground of newly discovered or new circumstances a judicial act of the court of first instance shall be review by the appeal court, while the judicial acts of the appeal court and the Court of Cassation shall be reviewed by the Court of Cassation.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 426.4: Grounds and time-limits for review on the ground of new circumstances",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0Judicial acts may be reviewed on the ground of new circumstances [if] ... a violation of a right guaranteed by an international convention to which  is a party has been found by a final judgment or decision of an international court...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "58.\u00a0\u00a0The applicant complained that his State-appointed lawyer had failed to provide effective legal assistance, including by failing ever to meet with him in private. He further complained that he had been unable to crossexamine witnesses. He relied on Article 6 \u00a7 3 (b), (c) and (d) of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "59.\u00a0\u00a0The Court considers that the applicant\u2019s complaints fall to be examined under sub-paragraphs (c) and (d) of Article 6 \u00a7 3. It further reiterates that the requirements of Article 6 \u00a7 3 are to be seen as particular aspects of the right to a fair trial guaranteed by Article 6 \u00a7 1. The Court will therefore examine the relevant complaints under both provisions taken together (see, among other authorities, F.C.B. v. , 28 August 1991, \u00a7\u00a029, Series A no. 208B, and Poitrimol v. France, 23 November 1993, \u00a7\u00a029, Series A no. 277A) which, in so far as relevant, provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him[.]\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court notes that these complaints are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Article 6 \u00a7 3 (c) taken together with Article 6 \u00a7 1",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0\u00a0The applicant submitted that the legal aid lawyer, H.I., had failed to provide effective legal assistance. He never met or spoke with his lawyer in private and never received any legal advice, which resulted in his pleading partially guilty. The lawyer even failed to provide a copy of the Code of Criminal Procedure, despite his request. Furthermore, the lawyer filed a motion with a court, namely that of 7 May 2004, in which he admitted the applicant\u2019s guilt. The applicant submitted that he had dispensed with the services of the lawyer after he found out about this motion. He lastly submitted that the lawyer had failed to examine the witnesses who gave oral evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Government submitted that the applicant had been granted free legal assistance from the day of his initial interview on 9 April 2004 and all the investigative measures, including interviews, confrontations with witnesses, etc., were carried out in the lawyer\u2019s presence. The applicant had given his consent to be represented by the lawyer in question, which he once again confirmed on 10 April 2004. There was no evidence that, during either the investigation or the proceedings at two judicial instances, he was unsatisfied with his lawyer. He had never made any statements or complaints about the lawyer\u2019s behaviour. If the applicant was unsatisfied with his lawyer, he could have dispensed with his services at any time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The Government further submitted that the motion of 7 May 2004 did not concern the determination of the charge against the applicant but only the annulment of his detention, which was moreover rejected by the investigator. It could not therefore affect the determination of the charge or the effectiveness of the defence of the applicant\u2019s rights. Nor did it play any role at any stage of the proceedings. Moreover, the lawyer pleaded not guilty on behalf of the applicant before the Court of Appeal.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "64.\u00a0\u00a0The Court reiterates that, although not absolute, the right of everyone charged with a criminal offence to be effectively defended by a lawyer, assigned officially if need be, is one of the fundamental features of a fair trial (see Krombach v. France, no. 29731/96, \u00a7 89, ECHR 2001-II). While Article 6 \u00a7 3 (c) confers on everyone charged with a criminal offence the right to \u201cdefend himself in person or through legal assistance ...\u201d, it does not specify the manner of exercising this right. It thus leaves to the Contracting States the choice of the means of ensuring that it is secured in their judicial systems, the Court\u2019s task being only to ascertain whether the method they have chosen is consistent with the requirements of a fair trial (see Sakhnovskiy v.  [GC], no. 21272/03, \u00a7 95, 2 November 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0In that connection it must be borne in mind that the Convention is intended to guarantee not rights that are theoretical or illusory but rights that are practical and effective; this is particularly so of the rights of the defence in view of the prominent place held in a democratic society by the right to a fair trial, from which they derive (see Airey v. Ireland, 9 October 1979, \u00a7\u00a024, Series A no. 32). The Court observes that Article 6 \u00a7 3 (c) of the Convention speaks of \u201cassistance\u201d and not of \u201cnomination\u201d. The mere nomination of a lawyer does not ensure effective assistance since the lawyer appointed for legal aid purposes may die, fall seriously ill, be prevented for a protracted period from acting or shirk his duties. If they are notified of the situation, the authorities must either replace him or cause him to fulfil his obligations (see Artico v. Italy, judgment of 13 May 1980, Series A no.\u00a037, \u00a7\u00a033).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0In the present case, the Court notes that on the next day following the applicant\u2019s arrest a legal aid lawyer, H.I., was invited to represent his interests (see paragraph 18 above). It appears that the lawyer was present during all the subsequent investigative measures involving the applicant, such as interviews (see paragraphs 20 and 27 above), presentation of the charge (see paragraphs 21-22 above) and confrontations (see paragraphs 2426 above). However, the mere presence of a lawyer is not sufficient to satisfy the requirements of Article 6 \u00a7 3 (c). The Court notes with concern that, while being present at the above investigative measures, the lawyer, nevertheless, appears to have shown absolute passivity. He does not appear to have had any involvement whatsoever in the applicant\u2019s interviews other than signing the relevant records and failed to pose any questions to the witnesses against the applicant during the confrontations. Furthermore, nothing suggests that the lawyer ever met with the applicant to discuss his case and to provide legal advice. The Court lastly cannot ignore the lawyer\u2019s final speech made before the District Court which was devoid of any factual or legal arguments (see paragraph 40 above), as well as the fact that the lawyer appears not to have had any involvement in the drafting of the applicant\u2019s appeal against the judgment of the District Court (see paragraph 43 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0However, despite the foregoing, the Court cannot overlook the fact that the applicant never raised any complaints or tried to bring any of the above-mentioned to the attention of the authorities in any other possible way throughout the entire investigation and proceedings before the District Court, as well as almost the entire proceedings before the Court of Appeal. Not only did the applicant explicitly give his consent to be represented by lawyer H.I. in all the above-mentioned instances (see paragraphs 18, 22, 31 and 44 above), but he never showed any signs of dissatisfaction with his lawyer until the final hearing before the Court of Appeal (see paragraph 49 above). The applicant\u2019s appeal against his conviction by the District Court was also absolutely silent on this point (see paragraph 43 above). He did finally raise this issue, as mentioned above, at the last hearing before the Court of Appeal and in his appeal to the Court of Cassation (see paragraphs\u00a049 and 53 above). However, as admitted by the applicant himself, this was mostly motivated by his allegedly belated discovery of the lawyer\u2019s motion of 7 May 2004, which, according to the applicant, contained submissions detrimental to his case (see paragraph 26 above), and not by any other failures or omissions committed by the lawyer. Thus, such protracted silence on the applicant\u2019s part and the main reason for his belated complaint may cast doubt on the credibility of some of his allegations. In any event, even assuming that the entirety of the applicant\u2019s allegations are true, it was still incumbent on him to bring the lawyer\u2019s failures to the attention of the authorities, who cannot be blamed for such failures if they were not informed of them in a timely and proper manner.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0Furthermore, despite the lawyer\u2019s apparently passive behaviour throughout the investigation he did, nevertheless, file a motion on 7 May 2004 on the applicant\u2019s behalf seeking his release (see paragraph 26 above). The Court does not share the applicant\u2019s view that the lawyer deliberately acted to his detriment by stating in that motion that the applicant had pleaded guilty, since it is clear that the lawyer\u2019s intention was to secure the applicant\u2019s release from detention. Moreover, the lawyer did pose questions to some of the witnesses during the proceedings before the District Court and it can be construed from the answers received that the questions were pertinent, competent and of help to the applicant\u2019s case (see paragraphs 34 and 36 above). He also insisted on several occasions before the Court of Appeal that measures be taken to ensure the attendance of the witnesses who had failed to appear, alleging that their statements were defamatory and lacked credibility (see paragraphs and 46-48 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0In view of the above, there are not sufficient elements in the present case to conclude that the State-appointed lawyer manifestly failed to provide effective legal assistance or, even assuming that he did, that the authorities can be held liable for that failure in the particular circumstances of the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0Accordingly, there has been no violation of Article 6 \u00a7 3 (c) taken together with Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Article 6 \u00a7 3 (d) taken together with Article 6 \u00a7 1",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant submitted that he was unable to examine properly any of the witnesses, while witnesses V.Z., O.V. and S.K. were not examined at all. It was important for him to examine those witnesses because the first instance court relied on that evidence when convicting him, while the statements of the remaining witnesses were contradictory and unclear and not determinative of the charge against him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0In particular, since the distribution of leaflets was not considered an offence, the real issue of fact was whether the applicant had made calls inciting to a violent overthrow of the government. The only evidence before the courts which alleged that the applicant had made such calls was that provided by witnesses V.Z., O.V. and S.K. who had failed to appear in court and witness N.S. who had made contradictory statements. The latter witness had failed to identify properly the applicant and, even though he admitted in court that he had identified the applicant only because he had been told so by the prosecutor\u2019s office, the first instance court nevertheless preferred witness N.S.\u2019s pre-trial statement. As to the remaining witnesses, witness M.M. identified the applicant as the person distributing leaflets, while the arresting police officers, G.A. and G.D., did not hear what the applicant had said while distributing the leaflets.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0The applicant objected to the Government\u2019s allegation that it had been impossible to find and secure the attendance of witnesses V.Z., O.V. and S.K. and denied having consented to the reading out of their statements. Furthermore, the Court of Appeal must have been influenced by the statements of witnesses V.Z., O.V. and S.K. because theirs was the only evidence which suggested that he had called for a violent overthrow of the government. Moreover, the Court of Appeal, relying on those statements, reached a finding of consistency of evidence as a ground for dismissing his appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The Government claimed that the applicant had had the opportunity to examine witnesses both during the investigation and the court proceedings. He was not able to challenge the statements of witnesses V.Z., O.V. and S.K. because, despite the efforts of the authorities, it was impossible to find and bring them to court. For this reason the District Court decided to read out their statements and both the applicant and his lawyer consented to this. Furthermore, these were not the only witnesses in the applicant\u2019s case and their statements were identical to the statements of other witnesses whom the applicant had the opportunity to examine. Thus, their statements did not play a decisive role in securing the applicant\u2019s guilt. Moreover, the Court of Appeal did not rely on the statements of witnesses V.Z., O.V. and S.K., finding that they should not form a basis for the applicant\u2019s conviction because these witnesses had failed to appear in court despite a court order. The Government lastly submitted that the domestic courts were better placed to judge whether there were any contradictions in the witness evidence.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "75.\u00a0\u00a0The Court reiterates that the admissibility of evidence is primarily a matter for regulation by national law and, as a general rule, it is for the national courts to assess the evidence before them. The Court\u2019s task under the Convention is not to give a ruling as to whether statements of witnesses were properly admitted as evidence, but rather to ascertain whether the proceedings as a whole, including the way in which evidence was taken, were fair (see, among other authorities, Doorson v. the Netherlands, 26\u00a0March 1996, \u00a7 67, Reports of Judgments and Decisions 1996II).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0Article 6 \u00a7 3 (d) of the Convention enshrines the principle that, before an accused can be convicted, all evidence against him must normally be produced in his presence at a public hearing with a view to adversarial argument. Exceptions to this principle are possible but must not infringe the rights of the defence, which, as a rule, require that the accused should be given an adequate and proper opportunity to challenge and question a witness against him, either when that witness makes his statement or at a later stage of proceedings (see Delta v. France, 19 December 1990, \u00a7 36, Series A no. 191A; Van Mechelen and Others v. the Netherlands, 23 April 1997, \u00a7 51, Reports of Judgments and Decisions 1997III; and Luc\u00e0 v. , no. 33354/96, \u00a7 39, ECHR 2001II).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0There are two requirements which follow from the above general principle. First, there must be a good reason for the non-attendance of a witness. Second, when a conviction is based solely or to a decisive degree on depositions that have been made by a person whom the accused has had no opportunity to examine or to have examined, whether during the investigation or at the trial, the rights of the defence may be restricted to an extent that is incompatible with the guarantees provided by Article 6 (see Al-Khawaja and Tahery v. the United Kingdom [GC], nos. 26766/05 and 22228/06, \u00a7 119, 15 December 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0The requirement that there be a good reason for admitting the evidence of an absent witness is a preliminary question which must be examined before any consideration is given as to whether that evidence was sole or decisive. Even where the evidence of an absent witness has not been sole or decisive, the Court has still found a violation of Article 6 \u00a7\u00a7 1 and\u00a03\u00a0(d) when no good reason has been shown for the failure to have the witness examined. This is because as a general rule witnesses should give evidence during the trial and that all reasonable efforts will be made to secure their attendance. Thus, when witnesses do not attend to give live evidence, there is a duty to enquire whether that absence is justified (ibid., \u00a7\u00a0120).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0In the present case, the Court notes that the applicant was found guilty of making calls inciting to a violent overthrow of the government. These calls amounted to various statements he allegedly addressed to a number of individuals at a marketplace while handing out leaflets inviting them to attend a demonstration. These individuals, namely N.S., M.M., V.Z., O.V. and S.K., acted as witnesses in the applicant\u2019s criminal case. Even though the two arresting police officers, G.A. and G.D., also made statements which were taken into account by the domestic courts, their statements appear to have served solely as circumstantial evidence, since neither of the police officers claimed to have heard the statements made by the applicant at the marketplace. Thus, the entire criminal case against the applicant was based on the statements of the above-mentioned five witnesses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0The Government alleged that only two of those witness statements, namely those made by N.S. and M.M., were actually relied on when convicting the applicant, since the Criminal and Military Court of Appeal refused to admit statements of witnesses V.Z., O.V. and S.K. as evidence. This allegation, however, contradicts the materials of the case. While the statement of witness V.Z. indeed appears to have been excluded as evidence by the Court of Appeal, the same cannot be said of the statements of witnesses O.V. and S.K. On the contrary, the Court of Appeal explicitly referred to that evidence when substantiating the applicant\u2019s guilt (see paragraph 51 above). Thus, the applicant\u2019s conviction was based, inter alia, on the statements of witnesses O.V. and S.K. The applicant, however, was not given the opportunity to examine the witnesses or have them examined either during the pre-trial proceedings or in court. No judicial authority ever heard those witnesses either.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court observes that the reason for non-attendance of witnesses O.V. and S.K. was their alleged absence from . However, it is not convinced that, in the particular circumstances of the case, this could be considered a good reason justifying the failure to have these witnesses examined and for admitting their evidence. Notably, the fact that a witness is absent from the country where the proceedings are conducted is in itself not sufficient to satisfy the requirements of Article 6 \u00a7 3 (d), which requires the Contracting States to take positive steps to enable the accused to examine or have examined witnesses against him (see Sadak and Others v.\u00a0Turkey, nos. 29900/96, 29901/96, 29902/96 and 29903/96, \u00a7 67, ECHR 2001VIII). Such measures form part of the diligence which the Contracting States must exercise in order to ensure that the rights guaranteed by Article\u00a06 are enjoyed in an effective manner (see Colozza v. Italy, 12\u00a0February 1985, \u00a7 28, Series A no. 89).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The Court is ready to accept that the domestic courts made certain efforts to inquire about the reasons for the absence of witnesses O.V. and S.K. and to secure their attendance. The District Court appears to have resorted to the help of the police following their failure to appear (see paragraphs 32 and 38 above), while the Court of Appeal decided to compel them to appear, adjourning the hearings of 30 June and 6 July 2004 and ordering the police to ensure their attendance at the next hearing (see paragraphs 45 and 46 above). However, it is not clear what efforts were made by the police to locate those witnesses other than finding out that they were absent from their permanent places of residence. There is no evidence suggesting that the police ever attempted to find out their new addresses or to inquire about the details of their absence, including whether it was permanent or temporary and whether O.V. and S.K. intended to return or to visit home in the foreseeable future. In spite of such lack of any inquiries, the District Court proceeded to read out their statements (see paragraph 38 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0It is true that the presiding judge of the Court of Appeal appears to have personally tried to contact O.V. and S.K., as a result of which it was disclosed that the former had left for Russia and the latter had left  (see paragraph 45 above). However, similarly to the police, he made no further efforts to establish their whereabouts. The reply of O.V.\u2019s wife that she was unaware of O.V.\u2019s whereabouts was accepted without any further inquiries and no attempts were made to establish his location by resorting to international legal assistance mechanisms if that was indeed the case. As regards witness S.K., the presiding judge does not appear to have even inquired about his new whereabouts. No time was allowed or instructions made to carry out any further inquiries and the Court of Appeal proceeded hastily to read out the witness statements at the next hearing of 7 July 2004 (see paragraph 47 above). Moreover, the Court of Appeal did so despite the fact that it had earlier found the attendance of the witnesses in question \u201cindispensable\u201d (see paragraph 45 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0The Court therefore concludes that the efforts made by the authorities cannot be said to have been sufficient in the circumstances of the case (see, in this respect, Artner v. Austria, 28 August 1992, \u00a7 21, Series A no. 242A, where the Austrian police were instructed by the trial court to make every effort to find a missing witness; Berisha v. the Netherlands (dec.), no. 42965/98, 4 May 2000, where the Dutch authorities tried to call a witness residing in the Slovak Republic through the Slovak authorities; and Haas v. Germany (dec.), no. 73047/01, 17 November 2005, where the German authorities made considerable efforts to secure the attendance of a witness serving a prison sentence in Lebanon). Thus, it cannot be said that there were good reasons for the failure to have witnesses O.V. and S.K. examined or that the domestic authorities complied with their duty to inquire whether their absence was justified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "85.\u00a0\u00a0It is true that the applicant appears to have consented before the District Court to the pre-trial statements of witnesses O.V. and S.K. being read out (see paragraph 38 above). This, however, is not sufficient for the Court to conclude that he thereby waived his right to examine the witnesses. The Court reiterates that waiver of the exercise of a right guaranteed by the Convention \u2013 in so far as such waiver is permitted in domestic law \u2013 must be established in an unequivocal manner (see Colozza, cited above, \u00a7 28). The Court notes that the applicant complained both before the Criminal and Military Court of Appeal and before the Court of Cassation that he had been unable to examine witnesses O.V. and S.K. (see paragraph 43 and 53 above). He further explicitly requested before the Court of Appeal that these witnesses appear in court, alleging that their statements lacked credibility (see paragraph 47 above). The fact that the Court of Appeal made attempts, albeit unsuccessful, to ensure their appearance similarly suggests that the applicant was not considered to have waived his right to examine them (see paragraphs 45-48 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the applicant was unreasonably restricted in his right to examine witnesses whose testimony played a decisive role in securing his conviction. He was unable to subject their credibility to scrutiny or cast any doubt on their depositions. This is particularly worrying taking into account that the witnesses in question were not personally acquainted with the applicant and were never even asked to identify him at any stage of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0Accordingly, there has been a violation of Article 6 \u00a7 3 (d) taken together with Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "88.\u00a0\u00a0The applicant complained about a violation of his right to freedom of expression. He relied on Article 10 of the Convention which, in so far as relevant, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "89.\u00a0\u00a0The Government submitted that the applicant had failed to exhaust the domestic remedies since he did not raise the question of an alleged violation of his Article 10 rights at the domestic level. He simply denied the facts on which the charge against him was based, namely that he had made public calls inciting to a violent overthrow of the government, and this was not sufficient for exhaustion purposes. Furthermore, no issue of a violation of freedom of expression could arise if, as the applicant claimed, no expression as such was made.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The applicant",
+                                "elements": [
+                                    {
+                                        "content": "90.\u00a0\u00a0The applicant submitted that his denial of the facts on which the charge was based was sufficient for exhaustion purposes. Firstly, the court proceedings were just one activity of many by the State aimed at violating his freedom of expression, others being systematic harassment by the police and the search conducted at his house. The criminal charge against him was designed to prevent him from continuing his political activity. Secondly, he indeed denied making any public calls inciting to a violent overthrow of the government but this denial was immaterial since he was in any event convicted. He was thus deprived of an adequate remedy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The applicant argued, in the alternative, that his conviction was based on facts to which he admitted, namely the distribution of leaflets. He appealed against this conviction and thereby exhausted the domestic remedies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "92.\u00a0\u00a0The Court reiterates that the rule of exhaustion of domestic remedies referred to in Article 35 \u00a7 1 of the Convention obliges those seeking to bring a case against the State before an international judicial body to use first the remedies provided by the national legal system, thus dispensing States from answering before an international body for their acts before they have had an opportunity to put matters right through their own legal systems. In order to comply with the rule, normal recourse should be had by an applicant to remedies which are available and sufficient to afford redress in respect of the breaches alleged (see, among other authorities, Assenov and Others v. Bulgaria no. 24760/94, \u00a7 85, ECHR 1999-VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0While in the context of machinery for the protection of human rights the rule of exhaustion of domestic remedies must be applied with some degree of flexibility and without excessive formalism, it does not require merely that applications should be made to the appropriate domestic courts and that use should be made of remedies designed to challenge impugned decisions which allegedly violate a Convention right. It normally requires also that the complaints intended to be made subsequently at the international level should have been aired before those same courts, at least in substance and in compliance with the formal requirements and timelimits laid down in domestic law (see, among other authorities, Azinas v.\u00a0Cyprus [GC], no. 56679/00, \u00a7 38, ECHR 2004III).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The object of the rule on exhaustion of domestic remedies is to allow the national authorities (primarily the judicial authorities) to address the allegation made of violation of a Convention right and, where appropriate, to afford redress before that allegation is submitted to the Court. In so far as there exists at national level a remedy enabling the national courts to address, at least in substance, the argument of violation of the Convention right, it is that remedy which should be used. If the complaint presented before the Court has not been put, either explicitly or in substance, to the national courts when it could have been raised in the exercise of a remedy available to the applicant, the national legal order has been denied the opportunity to address the Convention issue which the rule on exhaustion of domestic remedies is intended to give it. It is not sufficient that the applicant may have, unsuccessfully, exercised another remedy which could have overturned the impugned measure on other grounds not connected with the complaint of violation of a Convention right. It is the Convention complaint which must have been aired at national level for there to have been exhaustion of \u201ceffective remedies\u201d. It would be contrary to the subsidiary character of the Convention machinery if an applicant, ignoring a possible Convention argument, could rely on some other ground before the national authorities for challenging an impugned measure, but then lodge an application before the Court on the basis of the Convention argument (ibid.).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0Turning to the circumstances of the present case, the Court notes once again that the applicant was charged and convicted of making public calls inciting a violent overthrow of the government. The applicant never claimed before any domestic judicial authority that his charge and conviction on that ground violated his right to freedom of expression (see paragraphs 39, 43 and 53 above). Moreover, he did not even make such claims in the alternative but solely alleged before all the instances that he had never made the calls in question. As regards the distribution of leaflets, the Court does not agree with the applicant that this act in itself formed a basis for his conviction. Moreover, by making this assertion the applicant contradicted his own submissions under Article 6 \u00a7 3 (d) (see paragraph 72 above). In any event, even assuming that distribution of leaflets formed a basis for the applicant\u2019s conviction, the applicant still did not allege before the domestic courts a violation of his right to freedom of expression on that ground either. Thus, the applicant failed to raise in substance before the domestic courts his Convention complaint which he submitted to the Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "96.\u00a0\u00a0It follows that the applicant has failed to exhaust domestic remedies, and that this part of the application must be rejected pursuant to Article\u00a035\u00a0\u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "97.\u00a0\u00a0The applicant lastly raised a number of other complaints under Article 3, Article 5 \u00a7\u00a7 1, 2, 3 and 4, and Articles 8, 11, 13 and 14 of the Convention, as well as Article 3 of Protocol No. 1.",
+                                "elements": []
+                            },
+                            {
+                                "content": "98.\u00a0\u00a0Having regard to all the material in its possession, and in so far as these complaints fall within its competence, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application must be rejected as being manifestly ill-founded, pursuant to Article 35 \u00a7\u00a7 3 and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "99.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "100.\u00a0\u00a0The applicant claimed a total of 303,800 Armenian drams in respect of pecuniary damage, which included lost profit and the costs of medical treatment and food parcels incurred as a result of his pre-trial detention. The applicant also claimed EUR 15,000 in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0The Government submitted that the applicant\u2019s claim for pecuniary damage was not duly substantiated and had no causal link with the alleged violations. They further asked the Court to reject the applicant\u2019s claim for non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0The Court does not discern any causal link between the violation found and the pecuniary damage alleged; it therefore rejects this claim. On the other hand, it awards the applicant EUR 2,500 in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "103.\u00a0\u00a0On the other hand, the Court considers it necessary to point out that a judgment in which it finds a violation of the Convention or its Protocols imposes on the respondent State a legal obligation not just to pay those concerned the sums awarded by way of just satisfaction, if any, but also to choose, subject to supervision by the Committee of Ministers, the general and/or, if appropriate, individual measures to be adopted in its domestic legal order to put an end to the violation found by the Court and make all feasible reparation for its consequences in such a way as to restore as far as possible the situation existing before the breach (see Scozzari and Giunta v.\u00a0Italy [GC], nos. 39221/98 and 41963/98, \u00a7 249, ECHR 2000-VIII; Ila\u015fcu and Others v. Moldova and Russia [GC], no. 48787/99, \u00a7 487, ECHR\u00a02004VII; and Lungoci v. Romania, no. 62710/00, \u00a7 55, 26 January 2006). In the case of a violation of Article 6 of the Convention, the applicant should as far as possible be put in the position he would have been in had the requirements of this provision not been disregarded (see, mutatis mutandis, Sejdovic v. Italy [GC], no. 56581/00, \u00a7 127, ECHR 2006-...; and Yanakiev v. Bulgaria, no. 40476/98, \u00a7 89, 10 August 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0The Court notes in this connection that Articles 426.1 and 426.4 of the Code of Criminal Procedure allow the reopening of the domestic proceedings if the Court has found a violation of the Convention or its Protocols (see paragraph 57 above). The Court is in any event of the view that the most appropriate form of redress in cases where it finds that a trial was held in breach of the fair trial guarantees of Article 6 of the Convention would, as a rule, is to reopen the proceedings in due course and re-examine the case in keeping with all the requirements of a fair trial (see, mutatis mutandis, Lungoci, cited above, \u00a7\u00a056).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "105.\u00a0\u00a0The applicant also claimed 2,700  dollars (USD) and 5,932.45 pounds sterling (GBP) for the costs and expenses incurred before the Court. The applicant submitted detailed time sheets stating hourly rates in support of his claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "106.\u00a0\u00a0The Government submitted that the claims in respect of the domestic and foreign lawyers were not duly substantiated with documentary proof, since the applicant had failed to produce any invoices, contracts or any other legal document. Furthermore, the applicant had used the services of an excessive number of lawyers, despite the fact that the case was not so complex as to justify such a need.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and were reasonable as to quantum. In the present case, the Court notes at the outset that no power of attorney has ever been submitted in respect of one of the KHRP lawyers and therefore rejects the relevant claims. The Court further reiterates that legal costs are only recoverable in so far as they relate to the violation found (see Beyeler v. Italy [GC], no. 33202/96, \u00a7 27, ECHR\u00a02000I). The Court notes that in the present case only a violation of Article 6 was found on one count while the entirety of the written pleadings, including the initial application and the subsequent observations, concerned numerous Articles of the Convention and Protocol No. 1. Therefore the claim cannot be allowed in full and a considerable reduction must be applied. Making its own assessment, the Court awards the applicant a total sum of EUR 1,600 for costs and expenses, to be paid in pounds sterling into his representatives\u2019 bank account in the .",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "108.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning an alleged violation of the applicant\u2019s right to effective legal assistance and his right to examine witnesses against him admissible under Article 6 \u00a7 1 taken together with Article\u00a06\u00a0\u00a7\u00a03\u00a0(c) and (d) of the Convention and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 6 \u00a7 1, taken together with Article 6 \u00a7 3 (c) of the Convention, on account of the alleged failure by the applicant\u2019s legal aid lawyer to provide effective legal assistance;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1, taken together with Article 6 \u00a7 3 (d) of the Convention, on account of the applicant\u2019s inability to examine witnesses against him;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into Armenian drams at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 10 April 2012, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Corneliu B\u00eersan",
+            "role": "judges"
+        },
+        {
+            "name": "Alvina Gyulumyan",
+            "role": "judges"
+        },
+        {
+            "name": "Egbert Myjer",
+            "role": "judges"
+        },
+        {
+            "name": "Ineta Ziemele",
+            "role": "judges"
+        },
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "judges"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": " Quesada",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GABRIELYAN v. ARMENIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-110266.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:0410JUD000808805",
+    "externalsources": [],
+    "extractedappno": [
+        "8088/05",
+        "29731/96",
+        "21272/03",
+        "33354/96",
+        "26766/05",
+        "22228/06",
+        "29900/96",
+        "29901/96",
+        "29902/96",
+        "29903/96",
+        "42965/98",
+        "73047/01",
+        "24760/94",
+        "56679/00",
+        "39221/98",
+        "41963/98",
+        "48787/99",
+        "62710/00",
+        "56581/00",
+        "40476/98",
+        "33202/96"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 426.1 and 426.4 of the Code of Criminal Procedure"
+    ],
+    "itemid": "001-110266",
+    "judgementdate": "10/04/2012 00:00:00",
+    "kpdate": "10/04/2012 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "86",
+        "122",
+        "14",
+        "216",
+        "31",
+        "577",
+        "283",
+        "305"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "6-3-c",
+        "6-3-d",
+        "6-1",
+        "35",
+        "6",
+        "41"
+    ],
+    "parties": [
+        "GABRIELYAN",
+        "ARMENIA"
+    ],
+    "rank": "876.427307128906",
+    "representedby": [
+        "MULLER M.",
+        "OTTY T.",
+        "YILDIZ K.",
+        "CLARIDGE L.",
+        "TER-YESAYAN T.",
+        "BABAYAN E."
+    ],
+    "respondent": "ARM",
+    "respondentOrderEng": "3",
+    "scl": [
+        "Airey v. Ireland, 9 October 1979, \u00a7 24, Series A no. 32",
+        "\nAl-Khawaja and Tahery v. the United Kingdom [GC], nos. 26766/05 and 22228/06, \u00a7 119, 15 December 2011\nArtico v. Italy, judgment of 13 May 1980, Series A no. 37, \u00a7 33",
+        "\nArtner v. Austria, 28 August 1992, \u00a7 21, Series A no. 242 A",
+        "\nBerisha v. the Netherlands (dec.), no. 42965/98, 4 May 2000",
+        "\nColozza v. Italy, 12 February 1985, \u00a7 28, Series A no. 89",
+        "\nDelta v. France, 19 December 1990, \u00a7 36, Series A no. 191 A",
+        "\nDoorson v. the Netherlands, 26 March 1996, \u00a7 67, Reports of Judgments and Decisions 1996 II).\nHaas v. Germany (dec.), no. 73047/01, 17 November 2005",
+        "\nKrombach v. France, no. 29731/96, \u00a7 89, ECHR 2001-II",
+        "\nLuc\u00e0 v. Italy, no. 33354/96, \u00a7 39, ECHR 2001 II",
+        "\nSadak and Others v. Turkey, nos. 29900/96, 29901/96, 29902/96 and 29903/96, \u00a7 67, ECHR 2001 VIII",
+        "\nSakhnovskiy v. Russia [GC], no. 21272/03, \u00a7 95, 2 November 2010",
+        "\nVan Mechelen and Others v. the Netherlands, 23 April 1997, \u00a7 51, Reports of Judgments and Decisions 1997 III",
+        "\n"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "414432",
+    "typedescription": "15"
+}

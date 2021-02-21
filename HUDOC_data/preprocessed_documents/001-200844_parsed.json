@@ -1,0 +1,673 @@
+{
+    "__articles": "6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Reasonable time);Violation of Article 6 - Right to a fair trial (Article 6 - Constitutional proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "77209/16;77225/16",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Constitutional proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-200844.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in two applications (nos.\u00a077209/16 and\u00a077225/16) against the Republic of Malta lodged with the Court under Article\u00a034 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by two Maltese nationals, Mr\u00a0Michael Galea and Mr\u00a0Edward Pavia (\u201cthe applicants\u201d), on 9\u00a0December 2016.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented by Dr I. Refalo and the first applicant was also represented by Dr S. Grech, lawyers practising in Valletta. The Maltese Government (\u201cthe Government\u201d) were represented by their Agent, Dr P. Grech, Attorney General.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged that they had suffered a breach of Article\u00a06 \u00a7\u00a01 of the Convention in relation to the length of the criminal and constitutional redress proceedings, and of Article\u00a013 of the Convention concerning the lack of an effective remedy with regard to the length of proceedings complaint.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 4 July 2017 the Chamber to which the case was allocated decided to join the applications and to give notice of the complaints concerning Article 6 \u00a7 1 (length of proceedings) alone and in conjunction with Article\u00a013 to the respondent Government and declared the remainder of the applications inadmissible.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant in the first case, Mr Michael Galea (the first applicant), is a Maltese national who was born in 1935 and lives in St Julian\u2019s. The applicant in the second case, Mr Edward Pavia (the second applicant), is a Maltese national who was born in 1954 and lives in Tarxien.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The criminal proceedings against the applicants",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0In 1983 the first and second applicants were accused, together with other persons of several criminal offences. The charges against the first applicant included making false declarations on documents intended for the public authorities; using his position in public office to facilitate the evasion of customs duties; and acting as an accomplice in the use by third parties of false documents and goods illegally imported into the country. The second applicant was accused of falsification of documents, use of false documents and illegal importation of goods into Malta.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The case concerned several containers originating from Germany, their importation into Malta and the sale by a German company of their contents to a Maltese company. The second applicant was a director of the latter company. The containers allegedly contained alcoholic beverages but the customs declaration in Malta stated that they carried cheese. The investigation had started after cheap alcoholic beverages had appeared on the market, indicating that they had been imported illegally. Eventually, on 23\u00a0December 1983, the police found a large quantity of alcohol in a garage owned by a transport worker at the abovementioned Maltese company.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 1 December 1994 the Court of Magistrates found the first applicant guilty of all the charges against him while the second applicant was found guilty of forging and using documents to import goods illegally into Malta. The court sentenced both applicants to two years\u2019 imprisonment, suspended for four years, together with a fine of 403,430.23\u00a0Maltese liri (MTL \u2013 approximately 939,738 euros (EUR)).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0The applicants and the other defendants appealed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 5 October 1998 the Court of Criminal Appeal reversed in part the judgment of the Court of Magistrates in connection with the first applicant, and upheld it in connection with the second applicant. It found the first applicant not guilty of complicity in falsifying documents, but upheld the guilty verdict in regard to complicity in the use of a false document. The court sentenced him to two years\u2019 imprisonment suspended for two years (instead of four), together with a fine of MTL\u00a0403,430.23. The court also ordered that failure to pay the fine within one year would lead to it being converted into a term of imprisonment of eighteen months.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The constitutional redress proceedings",
+                                "elements": [
+                                    {
+                                        "content": "11.\u00a0\u00a0On 17 March 1999, the applicants, with two of the other accused (hereinafter jointly referred to as \u201cthe plaintiffs\u201d), filed a constitutional claim before the Civil Court (First Hall) in its constitutional competence. Invoking Article 6 of the Convention and Article 39 of the Constitution of Malta, they complained about the length of the criminal proceedings. They also alleged that the trial had not been fair because the court-appointed expert, X., had worked for the same department as the prosecution (the Department of Police) and had therefore lacked independence. The plaintiffs further alleged that the proceedings before the Court of Criminal Appeal had not been fair. The plaintiffs also invoked Article\u00a03 of the Convention, alleging that the mental suffering and psychological trauma they had endured throughout the criminal proceeding had amounted to inhuman and degrading treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The proceedings before the Civil Court (First Hall) in its constitutional competence involved fortyfive hearings, including twentyfive where no actual proceedings took place. Approximately fifteen adjournments were either attributable to the Attorney General who was the defendant in the case, or the court, while nine others were attributable to the plaintiffs. On 27 November 2006 the case was adjourned for judgment. Three further adjournments for this purpose occurred throughout 2007. A period of inactivity occurred between 27\u00a0October 2008 and 2\u00a0February 2009 as a result of a request by the applicants to await a decision by the European Court of Human Rights which could have influenced the outcome of their case. On the latter date the plaintiffs requested the court to give judgment and the case was adjourned to 16\u00a0March 2009 for judgment. A further adjournment for this purpose ensued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0In a judgment of 29 September 2009 the court declined to exercise its constitutional powers and dismissed the case without evaluating its merits. It concluded that alternative remedies had been available to the plaintiffs, as established under Article 46 \u00a7 2 of the Constitution.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The plaintiffs appealed and on 28 May 2010 the Constitutional Court quashed the judgment of 29 September 2009. The case was referred back to the firstinstance court to be examined on the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0The procedure before the Civil Court (First Hall) in its constitutional competence involved twenty-three hearings, including fifteen where no actual proceedings took place. Approximately five adjournments were attributable to the Attorney General or the court. Between 28 March 2011 and 20\u00a0November 2013 the proceedings remained at a standstill as the remaining plaintiffs were unable to notify the heirs of one of them who had died as the heirs had refused the inheritance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 24 June 2015 the Civil Court (First Hall), in its constitutional competence, found that the plaintiffs had suffered a violation of Article 6 in respect of the length of the proceedings and rejected the remainder of the complaints. It awarded the plaintiffs EUR 15,000 each, to be set off against the fine imposed by the criminal courts. Two-thirds of the costs of the proceedings were to be met by the plaintiffs and one third by the Attorney General.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0In regard to the length of the proceedings, the court acknowledged that it had been excessive. The proceedings had begun in 1983, the Court of Magistrates had given judgment on 1 December 1995 and the Court of Criminal Appeal on 5 October 1998. The court authorities had been responsible for some of the delay, as had officials at the Department of Police in relation to their role of presenting evidence at certain hearings. While the case had not been simple, sixteen years for criminal proceedings was excessively lengthy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The second applicant and the other plaintiffs lodged appeals with the Constitutional Court. The first applicant lodged a separate appeal; the Government also appealed. Nine hearings were held by the Constitutional Court, including four where no proceedings took place and which were adjourned, those adjournments being attributable to the Government or the court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 24 June 2016 the Constitutional Court upheld the findings of the firstinstance court. However, it reduced the compensation granted to each applicant for nonpecuniary damage from EUR 15,000 to EUR\u00a05,000. The distribution of the costs of the firstinstance proceedings was to remain as established by the firstinstance court (see paragraph 16 in fine above), while the costs of the proceedings before the Constitutional Court were to be divided equally between the parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The Constitutional Court referred to local caselaw which established that when calculating a just amount of compensation, the court had to take into consideration the following: any unusually long and excessive delays; the nature of the relevant proceedings; the degree of the state of uncertainty, frustration and anxiety such delays necessarily caused to the accused; any lack of initiative by plaintiffs in expediting their case; and any contribution by plaintiffs to delays in the proceedings. Taking into account that the criminal proceedings had lasted sixteen years and the inevitable psychological effect that that would have had on the plaintiffs, the Constitutional Court concluded that it was clear that the final judgment regarding the criminal allegations could have been reached more quickly. Bearing those considerations in mind and taking into account compensation granted in similar cases, the Constitutional Court reduced the amount originally granted in respect of nonpecuniary damage to EUR\u00a05,000 for each applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "21.\u00a0\u00a0The applicants complained about the length of the criminal proceedings brought against them and the length of the constitutional redress proceedings, contrary to that provided in Article 6 \u00a7 1 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations or of any criminal charge against him everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0The Government contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Criminal proceedings",
+                                "elements": [
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "23.\u00a0\u00a0The Government submitted that the applicants had lost their victim status following the Constitutional Court\u2019s finding which acknowledged the violation and awarded compensation. They noted that in awarding compensation the Constitutional Court had taken into account the relevant factors (see paragraph 20 above) including that part of the delay was due to the applicants and awarded an amount similar to those made by the Court in Maltese cases. They relied on Debono v. Malta (no.\u00a034539/02, \u00a7\u00a07\u00a0February 2006), Central Mediterranean Development Corporation Limited v.\u00a0Malta (no. 35829/03, 24 October 2006) and Bezzina Wettinger and Others v.\u00a0Malta (no. 15091/06, 8 April 2008), where the Court granted EUR\u00a01,000, EUR 3,000 and EUR 6,000 respectively.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0The applicants submitted that the EUR 5,000 awarded by the Constitutional Court was insignificant given the duration of the proceedings. That sum had moreover been absorbed by the order to pay costs.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0The Court refers to its general principles about the matter in relation to complains of length of proceedings as set out in Central Mediterranean Development Corporation Limited (cited above, \u00a7\u00a7\u00a024-26 and 28).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "26.\u00a0\u00a0In the present case, it is not disputed that the Constitutional Court acknowledged the violation of Article 6 \u00a7 1 of the Convention by reason of the excessive length of the criminal proceedings complained of. However, it awarded the applicants EUR 5,000 each for an overall length of sixteen years for two levels of jurisdiction. While referring to relevant criteria (see paragraph 20 above) the Constitutional Court did not give any specific details as to how they were applied in the present case for the purposes of diminishing the award which had been granted by the firstinstance court. That award had been further reduced as a result of the order to the applicants to pay part of the costs of the proceedings. However, the Court considers that in the present case the award to pay costs was not entirely unreasonable given the other complaints which had been dismissed by the domestic courts - which findings were also confirmed by this Court in Galea and Pavia v. Malta ((dec.), no.\u00a077209/16 and\u00a077225/16, 4 July 2017).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0Thus, even assuming the award had not been diminished by the order to pay costs, the Constitutional Court applied a rate of around EUR\u00a0300 per annum. The Court observes that the award of EUR 5,000 for sixteen years over two jurisdictions is significantly below what the Court would have awarded in a similar case. That factor in itself leads to a result that is manifestly unreasonable, having regard to the Court\u2019s caselaw.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0In conclusion, the Court considers that the redress afforded to the applicants was insufficient. Thus, the applicants can still claim to be victims of a breach of the \u201creasonable-time\u201d requirement in the instant case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0Accordingly, the Government\u2019s objection is dismissed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0The Court notes that the complaint is not manifestly illfounded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Merits",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0The applicants submitted that the criminal case against them had lasted too long, in breach of Article 6 \u00a7 1.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0Noting that the violation had already been established by the domestic courts the Government did not contest such finding.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0Having regard to the findings of the domestic courts relating to the length of proceedings (see paragraph 19 above), the Court considers that it is not necessary to reexamine in detail the merits of the complaint. It finds that, as established by the domestic courts, the reasonable time requirement has been breached.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0There has accordingly been a violation of Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Constitutional redress proceedings",
+                                "elements": [
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "35.\u00a0\u00a0The Government submitted that the applicants could have instituted a fresh set of constitutional redress proceedings to complain about the length of the constitutional redress proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0The applicants submitted that they had already spent thirty-three years before the domestic courts, seventeen of which had been before the constitutional jurisdictions, it was therefore inappropriate to reinstitute a new set of proceedings before the same body. They noted that the ordinary action at such stage was to bring the complaint before the Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0The Government\u2019s objection to this effect has been repeatedly rejected by this Court (see, for example, Saliba and Others v. Malta, no.\u00a020287/10, \u00a7 73-79, 22 November 2011). There is no reason to find differently in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The Government\u2019s objection is therefore dismissed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Court notes that the complaint is not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "40.\u00a0\u00a0The applicants submitted that the constitutional redress proceedings had lasted too long, in breach of Article 6 \u00a7 1. They considered that the domestic courts failed to manage the hearings efficiently. They emphasised the delay related to the disappearance of documents from the acts of the proceedings which stalled the proceedings and the inaction of five years between 29 January 2004, date when the evidence was closed, and 29\u00a0September 2009, date of the first instance-judgment. The applicants submitted that they could not be blamed for the absence of other plaintiffs given that the applicants and their lawyer had been present at such hearings. They also could not be held responsible for the difficulties faced to notify the heirs of the plaintiff who had passed away  indeed the records showed that the applicants had made various attempts to notify them, which had, however, failed. In the applicants\u2019 view they could also not be blamed for having requested the withdrawal of a judge, which had been legitimate in view of the judge\u2019s previous position as Attorney General (i.e. prosecutor).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government admitted that the proceedings per se were not complex but considered that they had been rendered complex by the four plaintiffs who in 1999 complained about proceedings which had started in\u00a01983 and who had not coordinated their production of evidence, which took four years, and who had not abided by court orders to summon the court registrar. Proceedings had also been protracted due to the death of one of the plaintiffs whose interests were pursued by the heirs who also had to prove their title. Moreover, the plaintiffs had filed additional written submissions concerning the fairness of their criminal trial, which made the case complex.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0In the Government\u2019s view the delay in the constitutional proceedings was also attributable to the plaintiffs. The Government referred to in particular a two-year delay for the plaintiffs to submit documentary evidence, two requests for an adjournment and three hearings which the plaintiffs had not attended, as well as a challenge raised by the plaintiffs to the sitting judge. To the contrary, in the Government\u2019s view the domestic courts dealt with the proceedings actively and even issued orders to the plaintiffs to conclude their evidence and to expedite the case. They also submitted that at one point the court had adjourned the case sine die given the lack of interest of the defendants. Moreover, in the Government\u2019s view given the voluminous acts of proceedings the period taken for the court to pronounce its decision was justified. They considered that no fault could be attributed to the authorities.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case, the conduct of the applicant and the relevant authorities and what was at stake for the applicant in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII, and Zarb v.\u00a0Malta, no. 16631/04, \u00a7 34, 4 July 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court notes that the proceedings at issue started on 17\u00a0March 1999 and ended on 24 June 2016, and therefore lasted more than seventeen years over two levels of jurisdiction. The Court is of the view that given the subject matter (see paragraph 11 above) the proceedings could not be considered complex, nor can the applicants be blamed for delays which were not attributable to them. Further, the Court reiterates that it holds a State responsible under the \u201creasonable time\u201d aspect of Article\u00a06 \u00a7 1 for delay by judges in delivering their judgments (see McFarlane v. Ireland [GC], no. 31333/06, \u00a7 121, 10 September 2010 and the case lawcited therein). Save for three months which were attributable to the applicants\u2019 request (see paragraph 12 above) no explanation whatsoever has been given for the period of over five years for the judge to deliver a firstinstance decision, which in itself suffices to find a violation. Thus, even assuming that some of the delay in the proceedings was attributable to the two applicants in the present case, having examined all the material submitted to it, and having regard to its case-law on the subject, the Court considers that seventeen years to obtain the examination of, inter alia, a complaint concerning the length of prior proceedings is particularly long. It follows, that in the instant case the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0There has accordingly been a violation of Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "46.\u00a0\u00a0The applicants complained that they had not had an effective remedy with regard to the length of proceedings. They relied on Article\u00a013 of the Convention which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "47.\u00a0\u00a0The Government submitted that the applicants could have instituted a fresh set of constitutional redress proceedings to complain under Article\u00a013 about the Constitutional Court judgment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0The applicants submitted that such an action would not have been appropriate and that the ordinary action at such stage was to bring the complaint before the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Government\u2019s objection to this effect has been repeatedly rejected by this Court (see, amongst multiple authorities, Apap\u00a0Bologna v.\u00a0Malta, no. 46931/12, \u00a7 63, 30 August 2016, and more recently Grech and Others v.\u00a0Malta, no.\u00a069287/14, \u00a7 50, 15 January 2019). There is no reason to find differently in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0The Government\u2019s objection is therefore dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court notes that the complaint is not manifestly ill-founded within the meaning of Article\u00a035\u00a0\u00a7\u00a03\u00a0(a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Merits",
+                                "elements": [
+                                    {
+                                        "content": "The parties\u2019 submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The applicants",
+                                "elements": [
+                                    {
+                                        "content": "52.\u00a0\u00a0The applicants submitted that the remedy pursued in relation to their complaint about the length of the criminal proceedings could not be considered effective since it had not awarded sufficient redress and its duration had equalled that of the criminal proceedings complained of. They added that domestic caselaw showed that the Constitutional Court systematically reduced compensation awards made by the firstinstance constitutional jurisdiction without giving any weighty reasons. Moreover, it generally also ordered applicants who had been successful in their claims to pay part of the costs of the proceedings, and in any event awarded low amounts of compensation generally. They made reference to some domestic cases (Vincent Curmi vs the Attorney General, Constitutional Court judgment of 24 June 2016, concerning a violation of Article 1 of Protocol No.\u00a01 and Article 6 of the Convention where the first-instance award of EUR\u00a01,000,000 was reduced to EUR 25,000 in relation to the property complaint, and a finding of a violation was sufficient just satisfaction in relation to the length of proceedings complaint; Zakkarija Calleja vs\u00a0the Attorney General, Constitutional Court judgment of 15\u00a0December 2015 where the first-instance award of EUR 5,000 was reduced to EUR 2,000 for civil proceedings lasting forty-three years, and Anton Camilleri vs\u00a0the Attorney General, Constitutional Court judgment of 1\u00a0February 2016 where the award of EUR 3,000 for civil proceedings lasting six years was confirmed).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The Government",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0The Government submitted that constitutional proceedings were capable of providing adequate redress for the violation found by the domestic courts. In fact and in practice, the courts of constitutional jurisdiction could award any type of redress, ranging from an award of compensation (they relied, for example, on AIC Joseph Barbara vs\u00a0the Prime Minister, Constitutional Court judgment of 31 January 2014, and Angela sive Gina Balzan vs the Prime Minister, Constitutional Court judgment of 7 December 2012), to various other types of orders. The Government submitted, as examples from actual judgments, the reintegration of an employee into the public service, as well as an order made to the courts of criminal jurisdiction to discard a statement made by the accused when it had been taken by the police without legal assistance. They reiterated that there were no limits to the powers of the courts of constitutional jurisdiction to grant redress for Convention violations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0In reply to the Court\u2019s specific question in relation to Article 6, the Government relied on the Court\u2019s findings in Central Mediterranean Development Corporation Limited (cited above). They also submitted two examples of length of proceedings cases, namely Dr Tancred Busuttil vs the Attorney General, first-instance judgment of 2\u00a0July 2013  delivered after nearly five years of the claim being lodged  that awarded EUR\u00a04,000 for criminal proceedings which had lasted nine years and Anthony Joseph Portelli vs the Attorney General, firstinstance judgment of 15\u00a0December 2011  delivered more than three years after the lodging of the claim  that awarded EUR 2,500 for criminal proceedings which were still pending twenty-one years after they started.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "General principles",
+                                "elements": [
+                                    {
+                                        "content": "55.\u00a0\u00a0Article 13 of the Convention guarantees the availability at national level of a remedy to enforce the substance of Convention rights and freedoms in whatever form they may happen to be secured in the domestic legal order. The effect of Article 13 is thus to require the provision of a domestic remedy to deal with the substance of an \u201carguable complaint\u201d under the Convention and to grant appropriate relief (Kud\u0142a v. Poland [GC], no.\u00a030210/96, \u00a7 157, ECHR 2000XI and McFarlane, cited above, \u00a7\u00a0108).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The scope of a Contracting Party\u2019s obligations under Article\u00a013 varies depending on the nature of the complaint. However, the remedy required by Article 13 must be \u201ceffective\u201d in practice as well as in law (for example, \u0130lhan v.  [GC], no. 22277/93, \u00a7 97, ECHR 2000-VII). The term \u201ceffective\u201d means that the remedy must be adequate and accessible (Paulino Tom\u00e1s v.  (dec.), no. 58698/00, ECHR 2003-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0An effective remedy for delay in criminal proceedings must, inter\u00a0alia, operate without excessive delay and provide an adequate level of compensation. Article 13 also allows a State to choose between a remedy which can expedite pending proceedings or a remedy post factum in damages for delay that has already occurred. While the former is preferred as it is preventative of delay, a compensatory remedy may be regarded as effective when the proceedings have already been excessively long and a preventative remedy did not exist (see McFarlane, cited above, \u00a7\u00a0108, and the caselaw cited therein).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0More recently, the Court has set key criteria for verification of the effectiveness of a compensatory remedy in respect of the excessive length of judicial proceedings. These criteria are as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2013\u00a0\u00a0an action for compensation must be heard within a reasonable time;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2013\u00a0\u00a0the compensation must be paid promptly and generally no later than six months from the date on which the decision awarding compensation becomes enforceable;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2013\u00a0\u00a0the procedural rules governing an action for compensation must conform to the principle of fairness guaranteed by Article 6 of the Convention;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2013\u00a0\u00a0the rules regarding legal costs must not place an excessive burden on litigants where their action is justified;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u2013\u00a0\u00a0the level of compensation must not be unreasonable in comparison with the awards made by the Court in similar cases (see Valada Matos das Neves v. Portugal, no. 73798/13, \u00a7 73, 29 October 2015, and Brudan v.\u00a0Romania, no. 75717/14, \u00a7 69, 10 April 2018).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Application to the present case",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0In the present case, the Court will evaluate the effectiveness of the remedy, namely constitutional redress proceedings, in the light of the criteria mentioned above (\u00a7 58).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court notes that the parties have not argued, and therefore, for the purposes of the present case, the Court has no reason to doubt that constitutional redress proceedings are, in principle, governed by the procedural fairness guarantees provided by Article 6, and that the compensation awards made are, generally, paid promptly.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0Neither have the parties accentuated or defended at length the issue of the costs of the proceedings. It is true that in the present case, the apportioning of costs did not raise an issue given that the part costs attributed to the applicants (see paragraph 19 above) had been due to unsuccessful Convention complaints (see paragraph 26 above and Galea and Pavia (dec.), cited above). Nevertheless, the Court cannot ignore that it has repeatedly found (in the context of cases relating to Article 1 of Protocol No. 1) that compensation awards are reduced or even absorbed by an order for the payment of costs (see, as recent examples, Zammit and Vassallo v.\u00a0Malta, no.\u00a043675/16, \u00a7\u00a042, 28\u00a0May 2019, and Portanier v. Malta, no.\u00a055747/16, \u00a7 55, 27\u00a0August 2019). Thus, while it has not been argued that such costs impede access to such a remedy, they, at the very least, often have an impact on the compensation awarded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court observes that there existed no limit on the amount of compensation which could be granted to an applicant in such proceedings. The amount awarded to the applicant was based solely on the exercise by the domestic court judges\u2019 of their discretion as to what might constitute appropriate pecuniary redress in the circumstances of the applicants\u2019 own case. The mere fact that the amount of compensation given was low does not render the remedy in itself ineffective, although it does have an impact on the Court\u2019s assessment of the applicant\u2019s victim status concerning the length of proceedings complaint (see, mutatis\u00a0mutandis, Zarb, cited above, \u00a7\u00a051, and \u015aliwi\u0144ski v. Poland, no.\u00a040063/06, \u00a7\u00a036, 5\u00a0January 2010 respectively) as also happened in the present case (see paragraph 27-28 above). In particular, the Court notes that, in the present case, the Constitutional Court awarded EUR 5,000 for sixteen years over two jurisdictions, an award which is significantly lower (around 25%) of what the Court would have awarded in a similar case. Further, the Court observes that the two cases indicated by the applicants related to proceedings concerning \u201creasonable time\u201d, support their claim that, as happened in the present case, the Constitutional Court generally awards sums which do not constitute adequate redress (compare, Apap\u00a0Bologna, cited above, \u00a7\u00a089, in relation to pecuniary awards in property cases). In particular, in the first case no compensation whatsoever was awarded for a delay of more than twenty-years over two instances, and in the second case the Constitutional Court awarded EUR\u00a02,000 for a delay of forty-three years at one instance, which represents less than 7\u00a0% of what the Court would have awarded in those circumstances. The cases brought forward by the Government (see paragraph 54 above) do not dispel such concerns - quite the opposite, in particular the first case shows that the Constitutional Court made awards which were significantly lower (between 20 and 40\u00a0% of the amount), and the second case that it made awards which were manifestly unreasonably lower (as low as 8% of the amount) than what the Court would have awarded in those circumstances. Thus, the material brought forward by the parties appears to be sufficient evidence to show that the remedy at issue does not fulfil this criterion due to a regular practice of significantly or unreasonably low compensation awards in such cases, as happened in the present case, or even no compensation at all.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0Further, the Court recalls that a remedy which could last for several years through two jurisdictions would not be reconcilable with the requirement that the remedy for delay (even before a constitutional court) be sufficiently swift (see McFarlane, cited above, \u00a7 123, and the caselaw cited therein). In particular, the Court has held that to conform with the reasonable time principle, a remedy for length of proceedings should not in principle and in the absence of exceptional circumstances, last more than two and half years over two jurisdictions, including the execution phase (see Gagliano Giorgi v. Italy, no. 23563/07, \u00a7 73, ECHR 2012). The Court notes that quite apart from the fact that in the present case the proceedings before the constitutional jurisdictions lasted unreasonably long, the cases brought forward by the Government also indicate a substantial delay, as for example five years for one-instance (see paragraph\u00a054 above). In the absence of any examples showing a timely assessment of such complaints the Court has serious doubts about the speediness of the remedial action itself.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The Court concludes that, in the light of the above considerations and bearing in mind the systemic flaws identified above, the Government have not demonstrated that constitutional redress proceedings, which are an effective remedy in theory, constituted effective remedies in practice, for length of proceedings complaints at the relevant time, as demonstrated by the circumstances of the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0Accordingly, the Court finds that there has been a violation of Article\u00a013, in conjunction with Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "APPLICATION OF ARTICLE\u00a041 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "66.\u00a0\u00a0Article\u00a041 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Damage",
+                                "elements": [
+                                    {
+                                        "content": "67.\u00a0\u00a0The first applicant claimed 306,180.66 euros (EUR) in pecuniary damage which covered the losses of wages, promotions and pensions. He submitted that at the relevant time he was employed by the State and that in February 1984 he was suspended from work and was reinstated again on half pay in March 1987 purely because he was undergoing criminal proceedings. That pay never increased and he was never promoted, for the same reasons, in consequence his pension was also very small. He also claimed EUR\u00a0215,000 in nonpecuniary damage (EUR 100,000 for the stress caused as a result of which he had to undergo various operations, EUR 99,000 for the length of the proceedings calculating at a rate of EUR\u00a03,000 per year, and an additional sixteen thousand because the stakes were very high).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0\u00a0The second applicant claimed EUR 73,375.26 plus 8% interest in respect of pecuniary damage, which represented the total of the four properties he had sold during the proceedings to enable his daily living, given that his business had suffered a harsh blow as a result of the protracted criminal proceedings. He further claimed EUR 215,000 in nonpecuniary damage for the stress suffered during the thirtythree years of proceedings (calculated as in the preceding paragraph).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The legal representatives indicated their firm\u2019s bank account to receive payment of all the sums awarded by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government considered that there was no causal link between the violation found and the prejudice alleged. They also considered that a finding of a violation would constitute sufficient just satisfaction and that an award in nonpecuniary damage should in any event not exceed EUR\u00a01,500.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The Court does not discern any causal link between the violations found and the pecuniary damage alleged by both applicants; it therefore rejects this claim. On the other hand, it awards the applicants EUR\u00a017,000 each in respect of non-pecuniary damage. As requested, the amount awarded is to be paid directly into the bank account designated by the applicants\u2019 representatives.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "72.\u00a0\u00a0The applicants also claimed EUR 8,517 each representing EUR\u00a05,372.60 (as per taxed bill of costs) for the costs and expenses incurred before the domestic courts of constitutional competence and EUR\u00a03,144.40 for those incurred before the Court. The legal representatives indicated their firm\u2019s bank account to receive payment of all the sums awarded by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0The Government contested the claim of EUR\u00a05,372.60 as the applicants had not proved that payment had been made and considered that costs for the proceedings before the Court should not exceed EUR\u00a01,000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, as well as the fact that part of the complaints had already been declared inadmissible; that domestic court expenses, if still unpaid, remain due; and that the applicants were represented by the same lawyers who put forward the same arguments in respect of each applicant; the Court considers it reasonable to award the sum of EUR 4,000 to each applicant covering costs under all heads. As requested, the amount awarded is to be paid directly into the bank account designated by the applicants\u2019 representatives (see, for example, Denisov v.\u00a0Ukraine [GC], no.\u00a076639/11, \u00a7 148, 25 September 2018 and the Practice Directions to the Rules of Court concerning just satisfaction claims, under the heading payment information).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Default interest",
+                                "elements": [
+                                    {
+                                        "content": "75.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the applications admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 6 \u00a7 1 of the Convention in relation to the criminal proceedings;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 6 \u00a7 1 of the Convention in relation to the constitutional redress proceedings;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 13 in conjunction with Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the respondent State is to pay the applicants, into the bank account designated by the applicants\u2019 representatives, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "that from the expiry of the abovementioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Dismisses the remainder of the applicants claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 11 February 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Paul Lemmens",
+            "role": "president"
+        },
+        {
+            "name": "Georgios A. Serghides",
+            "role": "judges"
+        },
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "judges"
+        },
+        {
+            "name": "Mar\u00eda El\u00f3segui",
+            "role": "judges"
+        },
+        {
+            "name": "Gilberto Felici",
+            "role": "judges"
+        },
+        {
+            "name": "Erik Wennerstr\u00f6m",
+            "role": "judges"
+        },
+        {
+            "name": "Lorraine Schembri Orland",
+            "role": "judges"
+        },
+        {
+            "name": "Stephen Phillips",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF GALEA AND PAVIA v. MALTA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-200844.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:0211JUD007720916",
+    "externalsources": [],
+    "extractedappno": [
+        "77209/16",
+        "77225/16",
+        "34539/02",
+        "35829/03",
+        "15091/06",
+        "20287/10",
+        "30979/96",
+        "16631/04",
+        "31333/06",
+        "46931/12",
+        "69287/14",
+        "30210/96",
+        "22277/93",
+        "58698/00",
+        "73798/13",
+        "75717/14",
+        "43675/16",
+        "55747/16",
+        "40063/06",
+        "23563/07",
+        "76639/11"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-200844",
+    "judgementdate": "11/02/2020 00:00:00",
+    "kpdate": "11/02/2020 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "57",
+        "76",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "6",
+        "6-1",
+        "13"
+    ],
+    "parties": [
+        "GALEA AND PAVIA",
+        "MALTA"
+    ],
+    "rank": "4849.81689453125",
+    "representedby": [
+        "REFALO I.",
+        "GRECH S."
+    ],
+    "respondent": "MLT",
+    "respondentOrderEng": "28",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "496162",
+    "typedescription": "15"
+}

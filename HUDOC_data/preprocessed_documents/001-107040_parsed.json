@@ -1,0 +1,998 @@
+{
+    "__articles": "3;5;5-1;5-3;5-4;6;6-1",
+    "__conclusion": "Violation of Art. 3 (substantive aspect);Violation of Art. 5-1;Violation of Art. 5-3;Violation of Art. 5-4;Violation of Art. 6-1",
+    "applicability": "",
+    "appno": "39249/03",
+    "article": [
+        "6",
+        "3",
+        "5"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "substantive aspect"
+            ],
+            "element": "Violation of Art. 3",
+            "type": "violation"
+        },
+        {
+            "article": "5-1",
+            "base_article": "5",
+            "element": "Violation of Art. 5-1",
+            "type": "violation"
+        },
+        {
+            "article": "5-3",
+            "base_article": "5",
+            "element": "Violation of Art. 5-3",
+            "type": "violation"
+        },
+        {
+            "article": "5-4",
+            "base_article": "5",
+            "element": "Violation of Art. 5-4",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "element": "Violation of Art. 6-1",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-107040.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 39249/03) against the  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mr G.O. (\u201cthe applicant\u201d), on 19\u00a0August 2003. The President of the Chamber acceded to the applicant\u2019s request not to have his name disclosed (Rule 47 \u00a7 3 of the Rules of Court).",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Ms O.V. Preobrazhenskaya, a lawyer practising in Moscow and . The Russian Government (\u201cthe Government\u201d) were represented by Mr G. Matyushkin, Representative of the  at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 1 April 2009 the President of the First Section decided to give notice of the application to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article 29 \u00a7\u00a01).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1966 and lives in .",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicant\u2019s detention pending the investigation",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0On 20 April 2000 police arrested the applicant on suspicion of having inflicted serious injury on a certain M. which had caused his death.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Detention between 21 April and 20 June 2000 (detention order of 21\u00a0April 2000)",
+                                        "elements": [
+                                            {
+                                                "content": "6.\u00a0\u00a0On 21 April 2000 the district prosecutor authorised the applicant\u2019s detention until 20 June 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "7.\u00a0\u00a0On 26 April 2000 the applicant was charged with inflicting serious bodily harm causing the death of the victim, an offence under Article 111 \u00a7\u00a04 of the Criminal Code. This offence was punishable by up to fifteen years\u2019 imprisonment and was classified as particularly serious.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "8.\u00a0\u00a0On 24 May 2000 the Leninskiy District Court of St Petersburg (\u201cthe District Court\u201d) dismissed the applicant\u2019s appeal against the detention order of 21 April 2000. Neither the applicant nor his counsel appealed against that decision to a higher court.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Detention between 20 June and 20 July 2000 (detention order of 13\u00a0June 2000)",
+                                        "elements": [
+                                            {
+                                                "content": "9.\u00a0\u00a0On 13 June 2000 the district prosecutor extended the applicant\u2019s detention until 20 July 2000, on the grounds that it was necessary to conduct further investigations, to finalise the charges against the applicant, and to allow time for the victims and the applicant to read the case file. According to the applicant, that decision was taken in his absence, he was not informed about it and he could not appeal against it.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Detention between 20 July and 20 August 2000 (detention order of 7\u00a0July 2000)",
+                                        "elements": [
+                                            {
+                                                "content": "10.\u00a0\u00a0On 7 July 2000 the Prosecutor of St Petersburg extended the applicant\u2019s detention until 20 August 2000, on the same grounds as before. According to the applicant, the order was made in his absence, he was not informed about it and he could not appeal against it. The Government confirmed that the case file did not contain any information on whether the applicant had been informed of that decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "11.\u00a0\u00a0On 10 August 2000 a new version of the charges was brought against the applicant. In addition to the charges of infliction of serious bodily harm causing the death of the victim, the applicant was charged with the use of force against the police officers who had arrested him on 20 April 2000.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "12.\u00a0\u00a0On 18 August 2000 the investigation authorities referred the case to the District Court for trial.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicant\u2019s detention pending trial",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Detention between 20 August and 14 September 2000",
+                                        "elements": [
+                                            {
+                                                "content": "13.\u00a0\u00a0On 20 August 2000 the applicant\u2019s detention ordered by the decision of 7 July 2000 expired. No other decision had been made regarding his detention. However, the applicant remained in detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "14.\u00a0\u00a0On 4 September 2000 the criminal case was assigned to Judge A.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Decision to set a date for the trial and to retain the applicant in custody",
+                                        "elements": [
+                                            {
+                                                "content": "15.\u00a0\u00a0On 14 September 2000 the District Court, presided over by Judge A., set the date for trial at 3 October 2000. By the same decision the District Court held that the preventive measure that had been imposed on the applicant was in accordance with law and was justified, and that it should remain unchanged. The court used a pre-printed decision form and did not specify any reasons for the applicant\u2019s continued detention. The Government stated that the criminal case file did not have any information on whether the applicant had been informed of that decision. They further stated that the applicant had not appealed against the decision.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Decisions to adjourn the examination of the case and to retain the applicant in custody",
+                                        "elements": [
+                                            {
+                                                "content": "16.\u00a0\u00a0On 3 October 2000 the District Court, composed of Judge A. and two lay judges, started the examination of the case. However, on that date the case was adjourned because the applicant was not brought to the court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "17.\u00a0\u00a0On 17 January 2001 the District Court adjourned the case until 26\u00a0February 2001 owing to the applicant\u2019s lawyer\u2019s failure to appear. The court also held that the preventive measure should remain unchanged.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "18.\u00a0\u00a0The hearing of 26 February 2001 did not take place because the presiding judge was involved in other unrelated proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "19.\u00a0\u00a0On 12 April 2001 the District Court adjourned the case until 22 May 2001 owing to the failure of some of the witnesses to appear. The court also held that the preventive measure should remain unchanged.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "20.\u00a0\u00a0On 22 May 2001 the case was adjourned until 14 June 2001 owing to the failure of witnesses to appear. The District Court issued a decision ordering the compulsory bringing of the witnesses to the court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "21.\u00a0\u00a0On 14 June 2001 the District Court adjourned the examination until 23\u00a0August 2001 on the grounds that the applicant had not had sufficient time to read the case file. The court held that the preventive measure should remain unchanged and again issued a decision ordering the compulsory bringing of the witnesses to the court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "22.\u00a0\u00a0On 23 August and 9 and 23 October 2001 the case was again adjourned owing to the failure of witnesses to appear. The District Court again issued a decision ordering the compulsory bringing of the witnesses to the court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "23.\u00a0\u00a0The hearing of 15 November 2001 and those of 14 February and 25\u00a0March 2002 were adjourned because the applicant\u2019s counsel did not appear. According to the Government\u2019s submissions, the applicant had refused to appoint a different counsel. On 25 March 2002 the District Court issued a decision in respect of the lawyer\u2019s failure to attend the hearings and sent it to the disciplinary commission of the St Petersburg City Bar.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "24.\u00a0\u00a0On 27 May 2002 the hearing was adjourned until 28 August 2002 owing to the applicant\u2019s lawyer\u2019s failure to appear.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "25.\u00a0\u00a0On 25 June 2002 the applicant\u2019s counsel, Ye., was dismissed from the bar for systematic failure to appear at the court hearings of the applicant\u2019s case.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Detention order of 1 July 2002",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0On 1 July 2002 Judge B. of the District Court extended the applicant\u2019s detention for another three months, until 1 October 2002, referring mainly to the seriousness of the charges against the applicant. The decision also stated that no reasons existed for changing the preventive measure. The applicant states that neither he nor his lawyer was present at the hearing. On 5 August 2002 the applicant, who was allegedly not aware of the extension order of 1 July 2002, requested the head of the remand prison to release him. However, on 7 August 2002 the remand prison received a copy of the extension order of 1 July 2002 and it was read out to the applicant on 8 August 2002. The applicant states that he did not receive a copy of that decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0On 12 August 2002 the applicant appealed against the extension order of 1 July 2002. He submitted, among other things, that his case had been assigned to Judge A. and that the extension of his detention by Judge B. was in breach of domestic law. Furthermore, he complained that between 2 July and 6\u00a0August 2002 he had been detained without any court decision, as the extension order of 1 July 2002 had been sent to the detention facility only on 7 August. He also submitted that the decision had been issued in his absence and he had not been provided with a copy of it. Relying on the fact that he had a family, accommodation and money, the applicant submitted that he had no intention of absconding and requested the City Court to release him on an undertaking not to leave his place of residence. Finally, he expressed his wish to participate in the appeal hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0The Government submitted that the applicant\u2019s appeal against the detention order of 1 July 2002 had been submitted outside the prescribed time-limits and, therefore, had not been forwarded to the appeal court for examination. However, they acknowledged that the applicant had not been informed of his right to apply for reinstatement of the time-limits for lodging his appeal.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0On 14 August 2002 the applicant retained V. as counsel.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0At the hearing of 28 August 2002 the applicant asked to be released. It appears that the District Court, composed of Judge A. and two lay judges, dismissed his request. However, the applicant was not provided with a copy of that decision. The case was adjourned until 1 October 2002 in order for a witness to be called.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0Detention order of 1 October 2002",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0According to the Government, on 1 October 2002 the composition of the trial court changed following the entry into force on 1\u00a0July 2002 of the new Code of Criminal Procedure, and the examination of the case was begun anew by a single judge.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0On 1 October 2002 the District Court extended the applicant\u2019s detention for another three months, until 1 January 2003, on the same grounds as before. The applicant appealed against that extension order and requested to be granted leave to participate in the appeal hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0On 19 November 2002 the City Court held that the applicant\u2019s grounds of appeal were very detailed and there was no need to call him to the hearing. It upheld the extension order of 1 October 2002, finding that the District Court had extended the applicant\u2019s detention on sufficient grounds and in accordance with the law and that the applicant\u2019s grounds for release were not convincing. The applicant was informed of that decision on 4\u00a0December 2002. He was not provided with a copy of it.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0Detention order of 27 November 2002 and its quashing on appeal",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0At the hearing of 27 November 2002, at which the prosecutor, the applicant and his counsel were present, the District Court found that the case file was with the City Court and therefore it was impossible to continue the examination of the criminal case. By a decision issued on the same day the District Court extended the applicant\u2019s detention until 1 April 2003, referring to the seriousness of the charges against the applicant and the risk of him interfering with the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0The hearing of 10 December 2002 did not take place because the judge was on sick leave.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 31 December 2002 the applicant requested the head of the remand prison to release him on 1 January 2003, as the period of detention ordered by the detention order of 1 October 2002 was to expire on that date. On 5 January 2003 the applicant received a reply which stated that his detention had been extended until 1 April 2003. The applicant received a copy of the detention order of 27 November 2002 on 9 January 2003.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "37.\u00a0\u00a0On 13 January 2003 the applicant lodged an appeal against the decision of 27 November 2002 with the City Court. He complained that the decision of 27 November 2002 had been issued in breach of procedure. In particular, he claimed that he had indeed been taken to the hearing of 27\u00a0November 2002; however, the judge had informed him that since the case file was with the City Court, his criminal case could not be examined. According to the applicant, the City Court had not examined any matters relating to his detention, and, therefore, he had not been aware that on 27\u00a0November 2002 his detention had been extended until 1 April 2003. The applicant also complained that his continued detention had not been duly justified, his detention had been extended on several occasions in his absence, he had not been served with copies of the detention orders, and his appeals against the detention orders had not been examined. The applicant also drew the City Court\u2019s attention to the fact that he had been detained in inhuman and degrading conditions while suffering from tuberculosis. He requested that the detention order of 27\u00a0November 2002 be quashed and that he be released from detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The hearing of 4 February 2003 did not take place because the judge was on sick leave.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0On 25 February 2003 the City Court examined the applicant\u2019s appeal against the detention order of 27\u00a0November 2002. The applicant\u2019s lawyer, but not the applicant, was present at the hearing. The hearing was also attended by the prosecutor who requested that the appeal be rejected. The City Court held that the detention order of 27 November 2002 had been unlawful, as the District Court should not have taken any decision without studying the case file. It quashed the decision of 27 November 2002 and remitted the matter to the District Court for fresh examination. The City Court remanded the applicant in custody, without giving any reasons. The applicant received a copy of that decision on 4\u00a0March 2003.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0Re-examination of the detention order of 27 November 2002",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0On 24 March 2003 the District Court re-examined its decision of 27\u00a0November 2002. Both the applicant and his lawyer were present. The court decided to extend the applicant\u2019s detention until 1 April 2003 on the same grounds as before. The decision stated that it could be appealed against within ten days of the date of its pronouncement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0On 31 March 2003 the applicant appealed against the detention order of 24 March 2003. It can be seen from a copy of the applicant\u2019s appeal that the remand prison administration registered it in the record of outgoing correspondence under no. 0-5257. The applicant complained in his appeal, among other things, that there were insufficient grounds to keep him in detention. Relying on Articles 5 and 6 of the Convention, he argued that he was entitled to a trial within a reasonable time or to release pending trial. According to the applicant, he was not informed of the results of the examination of the appeal.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0Detention order of 1 April 2003",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0At the hearing of 1 April 2003 the applicant applied for release. The prosecutor requested that the applicant\u2019s detention be extended for a further three months, on the ground that he had been charged with a particularly serious offence and that he might interfere with the proceedings if released. The District Court dismissed the applicant\u2019s application for release, finding that his detention had been ordered in accordance with the law and was justified. It held that the prosecutor\u2019s request should be granted and extended the applicant\u2019s detention until 1 July 2003. The decision stated that it could be appealed against within ten days of the date of its pronouncement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0On 7 April 2003 the applicant appealed against the decision of 1\u00a0April 2003. It can be seen from a copy of the appeal that the remand prison administration registered it in the record of outgoing correspondence under no. 0-5742. The applicant claims that he was not informed of the decision taken on his appeal. The Government stated that the applicant had not lodged any appeal against the detention order of 1\u00a0April 2003.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The applicant\u2019s conviction",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0On 22 April 2003 the District Court found the applicant guilty as charged. The District Court\u2019s findings were based, in particular, on statements by ten witnesses who had failed to appear at the court hearings but whose statements given during the pre-trial proceedings had been read out in court. The applicant did not appeal against the judgment and it took effect on 3 May 2003. On 19 June 2003 the applicant finished serving his prison sentence and was released.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Conditions of the applicant\u2019s detention in  remand prison no. 47/1 (\u201cremand prison no. 47/1\u201d)",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "45.\u00a0\u00a0The applicant was detained in remand prison no. 47/1 between 28\u00a0April 2000 and 19 June 2003. On arrival at the remand prison he was diagnosed with seventh-degree tuberculosis.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0On arrival at the prison the applicant was placed in cell no. 892, which measured nine square metres and had six sleeping places. The cell was overcrowded most of the time. From April 2000 until the beginning of 2002 the cell accommodated on average eleven inmates. For a long period of time the applicant did not have a place to sleep or had to take turns with others to sleep. In the summer of 2002 there were nine people in the cell and in November 2002 the number of inmates decreased to six. Until 1 April 2003 the windows in the cell were covered with two rows of thick metal bars which blocked access to natural light and fresh air. The electric light was kept on all the time.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0The sanitary conditions in cell no. 892 were unsatisfactory. The toilet was not separated from the rest of the room and was situated near the dining table. The cell was full of insects. The detainees were not provided with any bedding, kitchen or cleaning materials, or toiletries. They received only one piece of soap per cell. There was not sufficient furniture in the cell. The detainees had made shelves and chairs themselves. The food and medical assistance was of very poor quality.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0On 3 May 2000 the applicant was relocated to cell no. 841 for a tuberculosis check-up. The cell measured nine square metres, had six beds and accommodated sixteen inmates.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0On 10 May 2000 the applicant was placed in cell no. 856-A as cell no.\u00a0841 did not have a spare place.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0On 17 May 2000 the applicant was again transferred to cell no. 892, where he stayed until 19 June 2003.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0On 25 October 2002, after another examination, the applicant was diagnosed with fourth-degree tuberculosis.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The applicant provided the Court with the written testimony of several of his fellow inmates. All of them had shared cell no. 892 with the applicant and confirmed his description of the conditions of detention there.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "53.\u00a0\u00a0During his stay in remand prison no. 47/1 the applicant was detained in cells nos. 841, 892, 840 and 859. Each of them measured eight square metres, had six sleeping places and accommodated a maximum of six inmates including the applicant. At all times the applicant was provided with an individual sleeping place and bedding.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The other aspects of the applicant\u2019s detention fully complied with the requirements of the Convention. All cells in the remand prison had windows which let in sufficient fresh air. All cells were equipped with the mandatory ventilation system as well as central heating in good technical condition. The applicant was allowed one hour\u2019s walk per day in the prison yard.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Conditions of detention",
+                                "elements": []
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Proceedings to examine the lawfulness of detention",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0The parties must be notified of the date, time and venue of an appeal hearing no later than fourteen days before it. The court decides whether the detainee should be summoned to the hearing (Article 376 of the new CCrP).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0On 22 January 2004 the  delivered decision no.\u00a066-O following a complaint about a refusal by the Supreme Court to permit a detainee to attend an appeal hearing on the issue of detention. It held:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cArticle 376 of the Code of Criminal Procedure, which regulates the presence before the appeal court of a defendant remanded in custody ... cannot be read as depriving the defendant held in custody ... of the right to express his opinion to the appeal court, by way of his personal attendance at the hearing or by other lawful means, on matters relating to the examination of his complaint concerning a judicial decision affecting his constitutional rights and freedoms ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": []
+                    },
+                    {
+                        "content": "60.\u00a0\u00a0The applicant complained that the conditions of his detention in remand prison no. 47/1 between 28 April 2000 and 19 June 2003 had been in breach of Article 3 of the Convention, which reads as follows:",
+                        "elements": [
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0The Government submitted that the conditions of the applicant\u2019s detention in remand prison no. 47/1 during the relevant period had complied with the requirements of Article 3 of the Convention (see their description of the conditions of detention in paragraphs 53 and 54 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Government further submitted that they had not been able to duly examine the applicant\u2019s description of the conditions of detention and to substantiate their own position because the relevant documents had been destroyed after the expiry of the relevant statutory time-limits. Therefore, the case should not be examined solely on the basis of information provided by the applicant unless it was supported by relevant material. The applicant could have obtained such documents if he had applied to a domestic court for compensation in respect of damage sustained as a result of the allegedly poor conditions of detention. The Government pointed out, referring to the case of Shilbergs v. Russia (no. 20075/03, 17\u00a0December 2009), that the effectiveness of such a remedy was not in doubt. The analyses in the domestic case-law showed that Russian citizens had actively applied that remedy. A number of persons in the Perm and  regions had obtained compensation for damage sustained as a result of unacceptable conditions of detention. In the case of Mr. S., the Yoshkar-Ola Town Court of the Republic of Mariy-El had acknowledged that there had been a violation of Article 3 of the Convention and made an award for non-pecuniary damage in the amount of 250,000 Russian roubles (RUB). Mr D. had been awarded compensation for non-pecuniary damage in the amount of RUB\u00a025,000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The applicant maintained his complaint. In his opinion the case of Shilbergs (cited above) was not relevant to his case. Furthermore, the Government had not provided copies of the decisions of the domestic courts to which they had referred. Therefore, they had not proved that a claim for compensation for damage was an effective remedy in respect of poor conditions of detention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0The applicant further pointed out that he had tried unsuccessfully to obtain documents relating to the conditions of his detention in remand prison no. 47/1 from the District Court. Therefore, he had been obliged to collect statements from fellow inmates confirming his description of the conditions of detention, which he had submitted to the Court (see paragraph 52 above).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "65.\u00a0\u00a0In so far as the Government argue that the applicant did not exhaust domestic remedies as he did not lodge a civil claim for damage sustained as a result of the allegedly appalling conditions of detention, the Court notes that it has already examined the same objection by the Government on a number of occasions and dismissed it. In particular, the Court found that an action for damages lodged with a court was not a remedy within the meaning of Article 35 \u00a7 1 of the Convention (see, for instance Aleksandr Makarov v. Russia, no. 15217/07, \u00a7\u00a7 87-89, 12 March 2009, and Artyomov v. Russia, no. 14146/02, \u00a7\u00a7 110-112, 27 May 2010). The Court does not see any reason to depart from such a finding in the present case. The Court notes that the Government cited several judgments in cases in which domestic courts awarded compensation for appalling conditions of detention. However, the Government did not provide copies of these judgments. In the absence of documents supporting the Government\u2019s assertion, the Court is unable to assess the relevance of the judgments in question to the issue of the effectiveness of an action for damages as a remedy in the present case. As regards the Government\u2019s reliance on the Shilbergs case, the Court notes that the Russian courts in that case did not acknowledge a violation of Article 3 of the Convention, but rather accepted that some aspects of Mr Shilbergs\u2019 detention had fallen short of domestic legal requirements. Furthermore, the amount awarded in compensation by the Government in that case was substantially reduced on account of the State\u2019s financial difficulties, to a level at which it became, in the Court\u2019s assessment, insufficient and manifestly unreasonable in the light of its case-law (see Shilbergs, \u00a7\u00a7 69-79, cited above). Thus, in the Court\u2019s view, the Government\u2019s submissions in the present case do not suffice to show the existence of settled domestic practice capable of demonstrating that a civil claim is an effective domestic remedy for a complaint of inhuman or degrading conditions of detention (see, for a similar approach, Aleksandr Makarov v. Russia, cited above \u00a7 87, 12 March 2009). Accordingly, the Court dismisses the Government\u2019s objection as to non-exhaustion of domestic remedies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The Court considers that the applicant\u2019s complaint about the conditions of detention in remand prison no. 47/1 between 28 April 2000 and 19 June 2003 is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "67.\u00a0\u00a0The Court notes that the parties disagreed as to certain aspects of the applicant\u2019s conditions of detention in remand prison no. 47/1. However, there is no need for the Court to establish the truthfulness of each and every allegation, since it finds a violation of Article 3 on the basis of the evidence that has been presented or is undisputed by the Government, for the following reasons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0The Government stated that the applicant had been detained in cells which measured eight square meters each, had six sleeping places and accommodated a maximum of six inmates including the applicant. As the Government have not produced any official record indicating the exact number of inmates per cell detained with the applicant, it is impossible for the Court to establish this number. Nevertheless, it is obvious that, at the times when the number of inmates detained in the same cell as the applicant reached the maximum number indicated by the Government, detainees were afforded less than one and a half square metres of floor space per person. Therefore, the Court finds that during his detention in remand prison no.\u00a047/1, which lasted for approximately three years and one month, the applicant was afforded less than one and a half square metres of personal space and was confined to his cell day and night, save for one hour of outdoor exercise per day.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0In this connection, the Court reiterates that in many cases where detained applicants had at their disposal less than three square metres of personal space, it has already found that the lack of personal space afforded to them was so extreme as to justify in itself a finding of a violation of Article 3 of the Convention (see, among many others, Andrey Frolov v.\u00a0Russia, no. 205/02, \u00a7\u00a7 50-51, 29 March 2007; Lind v. Russia, no.\u00a025664/05, \u00a7\u00a7 61-63, 6 December 2007; Lyubimenko v. Russia, no.\u00a06270/06, \u00a7\u00a7 58-59, 19 March 2009; and, more recently, Veliyev v.\u00a0Russia, no. 24202/05, \u00a7\u00a7 129-130, 24 June 2010). The Court is also mindful of the fact that the cells in which the applicant was detained contained some furniture and fittings, such as beds and a lavatory, which must have further reduced the floor area available to him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0Having regard to its case-law on the subject, the material submitted by the parties and the findings above, the Court notes that the Government have not put forward any fact or argument capable of persuading it to reach a different conclusion in the present case. Although in the present case there is no indication that there was a positive intention to humiliate or debase the applicant, the Court finds that the fact that for approximately three years and one month the applicant was obliged to live, sleep and use the toilet in the same cell with so many other inmates was itself sufficient to cause distress or hardship of an intensity exceeding the unavoidable level of suffering inherent in detention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0The Court concludes that by keeping the applicant in overcrowded cells the domestic authorities subjected him to inhuman and degrading treatment. There has therefore been a violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s detention in prison no. 47/1 between 28 April 2000 and 19 June 2003.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "72.\u00a0\u00a0The applicant complained under Article 5 \u00a7 1 of the Convention that his arrest on 20 April 2000, his placement in detention and the subsequent extensions of his detention had been unlawful. In particular, he complained that the following periods of his detention had been unlawful:",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0\u00a0between 20 and 26 April 2000, because he had not been charged with any offence until 26 April;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0\u00a0between 1 July and 1 October 2002, because it had been ordered by a judge who had not been competent to do so and he had been informed of the decision only on 7 August 2002;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0\u00a0between 1 and 5 January 2003, because until 5 January 2003 he had not been aware of the detention order of 27 November 2002 and had received a copy of it only on 9 January 2003;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0\u00a0between 25 February and 24 March 2003 because the detention order of 25 February 2003 did not give any reasons for his detention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "73.\u00a0\u00a0The relevant parts of Article 5 provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "74.\u00a0\u00a0The Government acknowledged that the applicant\u2019s detention had not been in conformity with the requirements of Article 5 \u00a7 1 (c).",
+                                "elements": []
+                            },
+                            {
+                                "content": "75.\u00a0\u00a0The applicant maintained his complaint and took note of the Government\u2019s admission.",
+                                "elements": []
+                            },
+                            {
+                                "content": "76.\u00a0\u00a0The Court reiterates at the outset that, pursuant to Article 35 \u00a7 1 of the Convention, it may only deal with a matter within a period of six months from the final decision in the process of exhaustion of domestic remedies. If no remedies are available or if they are judged to be ineffective, the six-month period in principle runs from the date of the act complained of (see Hazar and Others v. Turkey (dec.), nos. 62566/00 et seq., 10 January 2002). Special considerations may apply in exceptional cases where an applicant first avails himself of a domestic remedy and only at a later stage becomes aware, or should have become aware, of the circumstances which make that remedy ineffective. In such a situation, the six-month period may be calculated from the time when the applicant becomes aware, or should have become aware, of those circumstances (see Bulut and Yavuz v. Turkey (dec.), no. 73065/01, 28 May 2002).",
+                                "elements": []
+                            },
+                            {
+                                "content": "77.\u00a0\u00a0The Court further points out that it is not open to it to set aside the application of the six-month rule solely because a respondent Government have not made a preliminary objection to that effect, since the said criterion, reflecting as it does the wish of the Contracting Parties to prevent past events being called into question after an indefinite lapse of time, serves the interests not only of respondent Governments, but also of legal certainty as a value in itself. It marks out the temporal limits of the supervision carried out by the organs of the Convention and signals to both individuals and State authorities the period beyond which such supervision is no longer possible (see Walker v. the United Kingdom (dec.), no. 34979/97, ECHR\u00a02000I).",
+                                "elements": []
+                            },
+                            {
+                                "content": "78.\u00a0\u00a0Turning to the present case, the Court observes that the applicant lodged his application on 19 August 2003. Therefore, the applicant\u2019s complaints about his arrest on 20 April 2000, his placement in detention on 21 April 2000 and his detention between 1 July and 1 October 2002 were introduced out of time and must be rejected in accordance with Article 35 \u00a7\u00a7\u00a01 and\u00a04 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "79.\u00a0\u00a0The Court further notes that the applicant\u2019s complaints about his detention between 1 and 5 January 2003 and between 25 February and 24\u00a0March 2003 are not manifestly ill-founded within the meaning of Article\u00a035 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "80.\u00a0\u00a0The Court takes note of the Government\u2019s acknowledgment of the violation of Article 5 \u00a7 1. It considers that in the circumstances of the present case there is no reason to hold otherwise. It therefore finds that there has been a violation of that provision in respect of the applicant\u2019s detention between 1 and 5 January 2003 and 25 February and 24 March 2003.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "81.\u00a0\u00a0The applicant complained under Article 5 \u00a7 3 of the Convention that his pre-trial detention had been excessively long and insufficiently justified. Article 5 \u00a7 3 provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone arrested or detained in accordance with the provisions of paragraph 1 (c) of this Article shall be ... entitled to trial within a reasonable time or to release pending trial ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "82.\u00a0\u00a0The Government acknowledged that the applicant\u2019s pre-trial detention had been in breach of the guarantees of Article 5 \u00a7 3 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "83.\u00a0\u00a0The applicant maintained his complaint and took note of the Government\u2019s admission.",
+                                "elements": []
+                            },
+                            {
+                                "content": "84.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                "elements": []
+                            },
+                            {
+                                "content": "85.\u00a0\u00a0The Court takes note of the Government\u2019s acknowledgment of the violation of Article 5 \u00a7 3 of the Convention. In the circumstances of the present case the Court finds no reason to hold otherwise. It therefore concludes that there has been a violation of that provision.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 \u00a7 4 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "86.\u00a0\u00a0The applicant complained, referring to numerous provisions of the Convention, of shortcomings in the proceedings by which his pre-trial detention had been extended. In particular, he complained that:",
+                                "elements": []
+                            },
+                            {
+                                "content": "on 13 June and 7 July 2000 his detention had been extended in his absence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "on 1 July 2002 his detention had been extended in his and his counsel\u2019s absence, he had been informed of that decision only on 7\u00a0August 2002, and he had not been provided with a copy of it;",
+                                "elements": []
+                            },
+                            {
+                                "content": "his appeal against the detention order of 1 July 2002 had not been examined;",
+                                "elements": []
+                            },
+                            {
+                                "content": "his appeal against the detention order of 1 October 2002 had been examined in his absence only on 19 November 2002 and he had been informed of that decision on 4 December 2002 but had not been served with a copy of it;",
+                                "elements": []
+                            },
+                            {
+                                "content": "on 25 February 2003 his detention had been extended in his absence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "he had not been informed of the fate of his appeals against the detention orders of 24 March and 1 April 2003.",
+                                "elements": []
+                            },
+                            {
+                                "content": "87.\u00a0\u00a0The Court will examine the above complaints under Article 5 \u00a7 4 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "88.\u00a0\u00a0The Government claimed that the applicant\u2019s appeal against the detention order of 1 July 2002 had been submitted outside the statutory time-limit and, therefore, had not been sent to the appeal court. However, they conceded that the applicant had not been informed of his right to apply for reinstatement of the time-limit for lodging his appeal. The Government further confirmed that the applicant\u2019s appeal against the detention order of 1\u00a0October 2002 had been examined only on 19 November 2002 and in the absence of the applicant and of his counsel. The Government further submitted that neither the applicant nor his lawyer had applied for participation in the hearing of 25 February 2003. Nor had either of them appealed against the detention order of 1 April 2003.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The Government further acknowledged that there had been a violation of the applicant\u2019s rights under Article 5 \u00a7 4 in so far as his appeals against the detention orders had not been examined promptly and in some cases the applicant had not been provided with an opportunity to appeal against them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0The applicant maintained his complaints.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "91.\u00a0\u00a0The Court reiterates that it may only deal with a matter within a period of six months from the date on which the final decision was taken or the event occurred. It observes that the applicant lodged his application on 19 August 2003. It follows that the applicant\u2019s complaints about the extension of his detention in his and/or his counsel\u2019s absence on 13 June and 7 July 2000 and 1 July 2002, the failure to examine his appeal against the detention order of 1 July 2002, and the examination of his appeal against the detention order of 1 October 2002 in his absence, were introduced out of time and must be rejected in accordance with Article 35 \u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0The Court further notes that the applicant\u2019s complaints about the extension of his detention in his absence on 25 February 2003 and about the alleged failure of the domestic courts to examine his appeals against the detention orders of 24 March and 1 April 2003 are not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that they are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The applicant\u2019s absence from the hearing of 25 February 2003",
+                                "elements": [
+                                    {
+                                        "content": "93.\u00a0\u00a0The Court reiterates that by virtue of Article 5 \u00a7 4 an arrested or detained person is entitled to bring proceedings for review by a court bearing on the procedural and substantive conditions which are essential for the \u201clawfulness\u201d, in the sense of Article 5 \u00a7 1, of his or her deprivation of liberty (see Brogan and Others v. the United Kingdom, 29 November 1988, \u00a7 65, Series A no. 154-B). Although it is not always necessary for the procedure under Article 5 \u00a7 4 to be attended by the same guarantees as those required under Article 6 \u00a7 1 of the Convention for criminal or civil litigation, it must have a judicial character and provide guarantees appropriate to the kind of deprivation of liberty in question (see Reinprecht v. Austria, no. 67175/01, \u00a7 31, ECHR 2005-..., with further references). The proceedings must be adversarial and must always ensure equality of arms between the parties. In the case of a person whose detention falls within the ambit of Article 5 \u00a7 1 (c), a hearing is required (see Nikolova v. Bulgaria [GC], no. 31195/96, \u00a7 58, ECHR 1999II). The opportunity for a detainee to be heard either in person or through some form of representation features among the fundamental guarantees of procedure applied in matters of deprivation of liberty (see Kampanis v. Greece, 13 July 1995, \u00a7 47, Series A no. 318B).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "94.\u00a0\u00a0The Court observes that the City Court examined the applicant\u2019s appeal against the detention order of 27 November 2002 on 25 February 2003. The hearing was attended by the prosecutor, who requested that the appeal be rejected. The applicant\u2019s counsel was also present, but not the applicant himself. The Court notes that in his appeal the applicant complained that the decision of 27 November 2002 had been issued in breach of procedure, that his continued detention had not been duly justified and that he had been detained in inhuman and degrading conditions and while he was suffering from tuberculosis (see paragraph 37 above). The City Court had quashed the detention order of 27 November 2002 as unlawful and remitted the matter for fresh examination to the District Court. By the same decision the City Court had ordered that the applicant should remain in detention, without, however, citing any reason for such a decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "95.\u00a0\u00a0The Court has previously found that when a domestic court has to re-assess the grounds for a detainee\u2019s continued detention on remand, in particular in the light of his personality and of his personal situation, and also when the court is extending detention after a significant lapse of time, the detainee\u2019s personal presence is required in order for him to give satisfactory information and instruction to his counsel (see, for instance, Grau\u017einis v. Lithuania, no. 37975/97, \u00a7\u00a7 33-35, 10 October 2000; Mamedova v. Russia, no. 7064/05, \u00a7\u00a7 87-93, 1 June 2006; and Lebedev v. Russia, no. 4493/04, \u00a7 113, 25 October 2007).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0Having regard to the content of the applicant\u2019s appeal and to the fact that the City Court had extended the applicant\u2019s detention without citing any reason for such a decision, the Court considers that the matters which were examined at the hearing of 25 February 2003 required not only the presence of the applicant\u2019s counsel but his personal presence. Regarding the Government\u2019s argument that the applicant did not apply for participation in the hearing of 25 February 2003, the Court observes that the Government have not provided any information on whether the applicant was duly notified of that hearing, as provided for by the domestic law (see paragraph\u00a058 of the \u201cRelevant domestic law\u201d part above). The Court also notes that there is nothing in the decision of 25 February 2003 to suggest that the City Court examined whether the applicant had been duly notified of the hearing and, if he had not, whether the examination of his appeal should have been adjourned or whether the applicant should have been brought to the hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "97.\u00a0\u00a0Having regard to the above, the Court finds that the hearing of 25\u00a0February 2003 did not comply with the requirements of Article 5 \u00a7 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Alleged failure to examine the applicant\u2019s appeals against the detention orders of 24 March and 1 April 2003",
+                                "elements": [
+                                    {
+                                        "content": "98.\u00a0\u00a0The Court reiterates that Article 5 \u00a7 4 of the Convention, in guaranteeing to persons detained a right to institute proceedings to challenge the lawfulness of their detention, also proclaims their right, following the institution of such proceedings, to a speedy judicial decision concerning the lawfulness of detention and ordering its termination if it proves unlawful (see Baranowski v. Poland, no. 28358/95, \u00a7 68, ECHR 2000III). The question whether the right to a speedy decision has been respected must be determined in the light of the circumstances of each case (see Rehbock v. Slovenia, no. 29462/95, \u00a7 84, ECHR 2000XII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0It can be seen from the documents provided by the applicant that, he submitted his appeals against the detention orders of 24 March and 1 April, addressed to the City Court, to the administration of remand prison no. 47/1 on 31 March and 7 April 2003 respectively. These appeals were registered in the prison\u2019s record of outgoing correspondence under nos. 0-5257 and 05742 (see paragraphs 41 and 43 above). The applicant stated that he had not received any information on the fate of these appeals. The Government submitted that the applicant had not lodged any appeal against the detention order of 1\u00a0April 2003. They did not make any comments regarding the appeal against the detention order of 24 March 2003.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0The Court observes that the Government did not contest the information provided by the applicant regarding the dates and registration numbers of his appeals against the detention orders of 24 March and 1 April 2003. The Court therefore considers that the applicant did lodge his appeals and did so within the statutory time-limits (see paragraph 57 of the \u201cRelevant domestic law\u201d part above). Therefore, the remand prison administration should have sent them to the competent domestic court, which should have examined them. As the Government have not provided any further information on what happened to the applicant\u2019s appeals against the detention orders of 24 March and 1 April 2003, the Court considers that they have not been examined by the domestic courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0Having regard to the above, the Court considers that the applicant was deprived of an effective review of the lawfulness of his continued detention ordered on 24 March and 1 April 2003. It therefore finds that there has been a violation of Article 5 \u00a7 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "102.\u00a0\u00a0The applicant complained under Article 6 of the Convention about the length of the criminal proceedings against him. Article 6 \u00a7 1 of the Convention provides, in its relevant part, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "103.\u00a0\u00a0The Government considered that the overall length of proceedings in the present case had been reasonable. The investigation of the case had been conducted promptly. The longest delays had occurred during the trial, in particular when the examination of the case had been started anew by a single judge following the entry into force of the new CCrP on 1 July 2002.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "104.\u00a0\u00a0The Government further submitted that the proceedings had also been delayed by repeated adjournments of the hearings. Five hearings had been adjourned because the applicant\u2019s counsel Ye. had failed to appear. The trial court had taken due measures to discipline the applicant\u2019s counsel by adopting a special ruling and sending it to the bar to which the lawyer belonged. The applicant, in his turn, had refused to appoint different counsel. Two hearings had not taken place because witnesses had failed to attend them. On two occasions the case had been adjourned because the judge had been on sick leave. The Government acknowledged their responsibility for the adjournments of the case on 3 October 2000, when the applicant had not been brought to the hearing, and on 26 February 2001, when the judge had been busy in other unrelated proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "105.\u00a0\u00a0The applicant maintained his complaint. He submitted that the case had not been complex. Of twenty five hearings listed by the trial court, only five hearings had been adjourned because of the applicant\u2019s counsel\u2019s failure to appear. The aggregate delay on account of those adjournments amounted to eight months. The applicant could not appoint a different counsel because by that date he had already paid a substantial amount of money to his counsel Ye. By contrast, the case had been adjourned several times because of the failure of witnesses to attend the hearings. The authorities had not taken due measures to secure their presence.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court reiterates that, according to its case-law, the period to be taken into consideration under Article 6 \u00a7 1 of the Convention must be determined autonomously. It begins at the time when formal charges are brought against a person or when that person has otherwise been substantially affected by actions taken by the prosecuting authorities as a result of a suspicion against him (see, for example, Pedersen and Baadsgaard v. Denmark [GC], no. 49017/99, \u00a7 44, ECHR 2004XI). The Court considers that in the present case the period under consideration started to run from the date of the applicant\u2019s arrest on 20 April 2000 and ended on 22 April 2003 when the District Court convicted him. Thus the proceedings lasted for three years and two days before the investigating authorities and the trial court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": [
+                                            {
+                                                "content": "108.\u00a0\u00a0The Court reiterates that the reasonableness of the length of proceedings is to be assessed in the light of the particular circumstances of the case, regard being had to the criteria laid down in the Court\u2019s case-law, in particular the complexity of the case, the conduct of the applicant and that of the authorities before which the case was brought. On the latter point, what is at stake for the applicant also has to be taken into consideration (see Kud\u0142a v. Poland [GC], no. 30210/96, \u00a7 124, ECHR 2000XI). In addition, only delays attributable to the State may justify a finding of failure to comply with the \u201creasonable time\u201d requirement (see Pedersen and Baadsgaard v. Denmark [GC], cited above, \u00a7 49).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0Having regard to the applicant\u2019s submissions, which were not contested by the Government, the Court considers that the proceedings in the present case were not complex.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0As regards the applicant\u2019s conduct, the Court observes that there is no evidence that the applicant himself contributed in any way to the length of the proceedings. Furthermore, it was common ground that the applicant\u2019s counsel\u2019s repeated failures to attend the hearings resulted in a delay of approximately eight months. However, this does not explain the overall length of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0As regards the authorities\u2019 conduct, the Court observes that the investigation of the case lasted from 20 April until 18 August 2000 (see paragraphs 5 and 12 above) and was not marked by any significant delays. The case was pending before the trial court between 18 August 2000 and 22\u00a0April 2003 (see paragraphs 12 and 44 above). According to the Government, the examination of the case by the trial court was delayed, in particular, by a change of the composition of the trial court on 1 October 2002. The Court is not convinced by that argument. It notes that by that date the case had been pending before the trial court for two years. By contrast, once the bench had changed, the examination of the case was conducted without any delays and was finalised within half a year.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "112.\u00a0\u00a0Regarding the period prior to the change of the bench, the Government acknowledged their responsibility for the delay of five months resulting from the authorities\u2019 failure to bring the applicant to the hearing of 3 October 2000 and of that which occurred as a result of the judge\u2019s participation in other unrelated proceedings on 26 February 2001 (see paragraphs 16 and 18 above). The Court further notes that according to the summary table of the hearings provided by the Government, the case was adjourned on six occasions between April 2001 and 1 October 2002 because witnesses failed to appear (see paragraphs 19, 20, 22 and 37 above). The resulting delay was of approximately six months. The Court is mindful that the trial court took measures to ensure the attendance of the witnesses, by issuing orders to bring them to trial. However, it appears that these were not effective since at least ten witnesses failed to appear throughout the trial and the trial court was obliged to read out their statements in their absence (see paragraph 44 above). Therefore, the Court considers that the delay occasioned by the failure of witnesses to attend the hearings is attributable to the State (see see Ku\u015bmierek v. Poland, no. 10675/02, \u00a7 65, 21\u00a0September 2004, and Sidorenko v. Russia, no. 4459/03, \u00a7 34, 8 March 2007).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "113.\u00a0\u00a0Finally, the Court observes that throughout the criminal proceedings against him the applicant was held in detention and that fact required particular diligence on the part of the domestic courts to administer justice expeditiously (see Kalashnikov v. Russia, no. 47095/99, \u00a7\u00a0132, ECHR 2002-VI). However, they failed to comply with that obligation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "114.\u00a0\u00a0Having examined all the material before it, and taking into account the overall length of the proceedings, what was at stake for the applicant, that he was detained on remand throughout the proceedings, and the fact that the proceedings were pending for the most part before the trial court with no apparent progress, the Court considers that in the instant case the length of the proceedings was excessive and failed to meet the \u201creasonable time\u201d requirement. There has accordingly been a violation of Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "115.\u00a0\u00a0The Court has examined the remainder of the complaints raised by the applicant. However, in the light of the material in its possession, and in so far as the matters complained of are within its competence, the Court finds that they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention or its Protocols. It follows that this part of the application must be rejected as being manifestly ill-founded, pursuant to Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "116.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "117.\u00a0\u00a0The applicant claimed 1,734,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0The Government submitted that his claims were excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0The Court considers that the applicant must have suffered distress and frustration as a result of the violations of his rights. However, the amount claimed appears to be excessive. Having regard to the nature of the violations found, and making its assessment on an equitable basis, the Court awards the applicant EUR\u00a015,000 in respect of non-pecuniary damage, plus any tax that may be chargeable on that amount.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "120.\u00a0\u00a0The applicant did not claim reimbursement of his costs and expenses incurred before the domestic authorities and the Court. Accordingly, the Court considers that there is no call to award him any sum on this account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "121.\u00a0\u00a0The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the applicant\u2019s complaints concerning the conditions of his detention in St Petersburg remand prison no. 47/1, the lawfulness of his detention between 1 and 5 January 2003 and between 25 February and 24 March 2003, the length of his pre-trial detention, the extension of his detention in his absence on 25\u00a0February 2003, and the failure to examine his appeals against the detention orders of 24 March and 1 April 2003, as well as his complaint concerning the length of criminal proceedings against him, admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention on account of the conditions of the applicant\u2019s detention in  remand prison no. 47/1;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 1 of the Convention in respect of the applicant\u2019s detention between 1 and 5 January 2003 and between 25 February and 24 March 2003;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 3 on account of the unreasonable length of the applicant\u2019s pre-trial detention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 5 \u00a7 4 on account of the extension of the applicant\u2019s detention in his absence on 25 February 2003 and of the failure to examine his appeals against the detention orders of 24 March and 1 April 2003;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 on account of the excessive length of the criminal proceedings against the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months of the date on which the judgment becomes final in accordance with Article\u00a044 \u00a7 2 of the Convention, EUR 15,000 (fifteen thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into Russian roubles at the rate applicable on the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 18 October 2011, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Nina Vaji\u0107",
+            "role": "president"
+        },
+        {
+            "name": "Anatoly Kovler",
+            "role": "judges"
+        },
+        {
+            "name": "Peer Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Mirjana Lazarova Trajkovska",
+            "role": "judges"
+        },
+        {
+            "name": "Julia Laffranque",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF G.O. v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-107040.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2011:1018JUD003924903",
+    "externalsources": [],
+    "extractedappno": [
+        "39249/03",
+        "20075/03",
+        "15217/07",
+        "14146/02",
+        "205/02",
+        "25664/05",
+        "6270/06",
+        "24202/05",
+        "62566/00",
+        "73065/01",
+        "34979/97",
+        "67175/01",
+        "31195/96",
+        "37975/97",
+        "7064/05",
+        "4493/04",
+        "28358/95",
+        "29462/95",
+        "49017/99",
+        "30210/96",
+        "10675/02",
+        "4459/03",
+        "47095/99"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-107040",
+    "judgementdate": "18/10/2011 00:00:00",
+    "kpdate": "18/10/2011 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "448",
+        "445"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "3",
+        "5-3",
+        "5-4",
+        "6-1",
+        "5-1",
+        "5",
+        "6"
+    ],
+    "parties": [
+        "G.O.",
+        "RUSSIA"
+    ],
+    "rank": "834.344055175781",
+    "representedby": [
+        "PREOBRAZHENSKAYA O. V."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "365228",
+    "typedescription": "15"
+}

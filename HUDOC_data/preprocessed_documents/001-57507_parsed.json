@@ -1,0 +1,1217 @@
+{
+    "__articles": "P1-1;P1-1-1;14+P1-1;14;6;6-1;13;5;5-1",
+    "__conclusion": "No violation of P1-1;No violation of Art. 14+P1-1;No violation of Art. 6-1;No violation of Art. 13",
+    "applicability": "",
+    "appno": "8793/79",
+    "article": [
+        "13",
+        "6",
+        "p1-1",
+        "5",
+        "14"
+    ],
+    "conclusion": [
+        {
+            "article": "p1-1",
+            "base_article": "p1-1",
+            "element": "No violation of Art. 14+P1-1",
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "element": "No violation of Art. 14+P1-1",
+            "type": "no-violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "element": "No violation of Art. 6-1",
+            "type": "no-violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "element": "No violation of Art. 13",
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-57507.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1. The present case was referred to the Court by the European Commission of Human Rights (\"the Commission\") on 12 July 1984, within the three-month period laid down by Article 32 para. 1 and Article 47 (art. 32-1, art. 47) of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\"). The case originated in an application (no. 8793/79) against the United Kingdom of Great Britain and Northern Ireland, lodged with the Commission in 1979 by four British citizens, namely John Nigel Courtenay James, Gerald Cavendish the Sixth Duke of Westminster, Patrick Geoffrey Corbett and Sir Richard Baker Wilbraham.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2. The Commission\u2019s request referred to Articles 44 and 48 (art. 44, art. 48) and to the declaration whereby the  recognised the compulsory jurisdiction of the Court. The object of the request was to obtain a decision by the Court as to whether the facts of the case disclosed a breach by the respondent State of its obligations under Article 1 of Protocol No. 1 (P1-1) to the Convention, taken alone or in conjunction with Article 14 (art. 14+P1-1) of the Convention, and under Article 13 (art. 13) of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3. In response to the inquiry made in accordance with Rule 33 para. 3 (d) of the Rules of Court, the applicants stated that they wished to take part in the proceedings pending before the Court and designated the lawyers who would represent them (Rule 30).",
+                        "elements": []
+                    },
+                    {
+                        "content": "4. The Chamber of seven judges to be constituted included, as ex officio members, Sir Vincent Evans, the elected judge of British nationality (Article 43 of the Convention) (art. 43), and Mr. G. Wiarda, the then President of the Court (Rule 21 para. 3 (b) of the Rules of Court). On 2 August 1984, the President drew by lot, in the presence of the Registrar, the names of the five other members, namely Mr. W. Ganshof van der Meersch, Mrs. D. Bindschedler-Robert, Mr. G. Lagergren, Mr. R. Bernhardt and Mr. J. Gersing (Article 43 in fine of the Convention and Rule 21 para. 4) (art. 43).",
+                        "elements": []
+                    },
+                    {
+                        "content": "5. Mr. Wiarda assumed the office of President of the Chamber (Rule 21 para. 5). He ascertained, through the Registrar, the views of the Agent of the United Kingdom Government (\"the Government\"), the Delegate of the Commission and the lawyers for the applicants regarding the need for a written procedure (Rule 37 para. 1). Thereafter, in accordance with the Orders and directions of the President of the Chamber, the following documents were lodged at the registry:",
+                        "elements": []
+                    },
+                    {
+                        "content": "- on 14 December 1984, the memorial of the applicants, together with certain other documents referred to therein;",
+                        "elements": []
+                    },
+                    {
+                        "content": "- on 22 December 1984, the memorial of the Government.",
+                        "elements": []
+                    },
+                    {
+                        "content": "By letter received on 19 April 1985, the Secretary to the Commission informed the Registrar that the Delegate did not wish to reply in writing to these memorials.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6. After consulting, through the Registrar, the Agent of the Government, the Commission\u2019s Delegate and applicants\u2019 representatives, the President of the Chamber directed on 22 April 1985 that the oral proceedings should open on 23 September 1985 (Rule 38).",
+                        "elements": []
+                    },
+                    {
+                        "content": "7. On 26 June 1985, the Chamber decided to relinquish jurisdiction forthwith in favour of the plenary Court (Rule 50).",
+                        "elements": []
+                    },
+                    {
+                        "content": "8. The hearings were held in public at the , , on 23 and 24 September 1985. Immediately before they opened, the Court had held a preparatory meeting. During the hearings, the Government and the applicants filed written answers to questions put by the Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "There appeared before the Court:",
+                        "elements": []
+                    },
+                    {
+                        "content": "- for the Government",
+                        "elements": []
+                    },
+                    {
+                        "content": "- for the Commission",
+                        "elements": []
+                    },
+                    {
+                        "content": "- for the applicants",
+                        "elements": []
+                    },
+                    {
+                        "content": "9. The Court heard addresses by Mr. Alexander for the Government, by Mr. Gaukur J\u00f6rundsson for the Commission and by Mr. Beloff for the applicants, as well as their replies to its questions. The applicants subsequently completed in writing their replies, in a document filed at the registry on 13 November 1985. The Government submitted written comments on these replies on 10 January 1986.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "AS TO THE FACTS",
+                "elements": [
+                    {
+                        "content": "A. Introduction",
+                        "elements": [
+                            {
+                                "content": "10. The applicants are or were trustees acting under the Will of the Second Duke of Westminster. The first applicant, John Nigel Courtenay James, is a chartered surveyor resident in . The second applicant, Gerald Cavendish the Sixth Duke of , resides at . The third applicant, Patrick Geoffrey Corbett, is a chartered accountant resident in . The fourth applicant, Sir Richard Baker Wilbraham, is a banker in . The fourth applicant was appointed as trustee on 31 December 1981 in place of the third applicant, who retired.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the area of Belgravia in Central London, upon a site which was once farmland on the outskirts of the City of London, the Westminster family and its trustees have developed a large Estate comprising about 2,000 houses which has become one of the most desirable residential areas in the capital. The applicants, as trustees, have been deprived of their ownership of a number of properties in this Estate through the exercise by the occupants of rights of acquisition conferred by the Leasehold Reform Act 1967, as amended.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11. This legislation confers on tenants residing in houses held on \"long leases\" (over, or renewed for periods totalling over, 21 years) at \"low rents\" the right to purchase compulsorily the \"freehold\" of the property (the ground landlord\u2019s interest) on prescribed terms and subject to certain prescribed conditions (see paragraphs 20 to 26 below). Under the system of long leaseholds, a tenant will typically purchase a long lease of property for a capital sum and pay a small or even nominal rent for it thereafter. The lease is a real-property interest, registerable in the Land Registry. The legislation in issue in the present case is not concerned with the ordinary system of rented tenure under which the tenant pays a \"rack rent\" reflecting the full annual value of the property. The landlord/tenant relationship under the ordinary system is regulated, for houses under a certain (rateable) value, by separate legislation in the form of the \"Rent Acts\", which provide machinery for fixing \"fair rents\" and provide certain security of tenure for tenants.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "B. The system of long leasehold tenure and the background to the Leasehold Reform Act 1967",
+                        "elements": [
+                            {
+                                "content": "12. Two principal forms of long lease of residential property exist.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The first is a building lease, typically for 99 years, under which the tenant pays a \"ground rent\" - a low rent fixed by reference to the value of the bare site - and undertakes to erect a house on the site and in general also to deliver it up in good repair at the end of the lease.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The second is a premium lease where the tenant pays the landlord a capital sum or \"premium\" for a house provided by the landlord, and thereafter a rent. The duration of the lease is variable, as are the relative proportions of premium and rent. According to evidence submitted to the Court, the premium charged will typically take into account the building cost and an appropriate profit element. Factors entering into the calculation will normally include the length of the proposed lease, its terms (for example, whether sub-letting is allowed) and the state of the property at the time when the lease is granted. The method used to calculate the premiums under the leases concerned in the present case is described below (paragraph 27).",
+                                "elements": []
+                            },
+                            {
+                                "content": "The distinction between the two types of lease is not clear-cut. For example, a \"premium lease\" may contain an obligation to carry out substantial repairs, alterations, additions or improvements to an existing property, and thus be analogous to a building lease. In any event, it is the almost invariable practice for the lease to contain a clause making the tenant responsible for all running repairs to the house during the currency of the lease and requiring him to yield up the property at the end of the lease in good repair.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The tenant holding a property under a long lease may normally sell the lease to a third party, who then acquires the tenant\u2019s rights and obligations under the lease for the remainder of its duration. In practice, leases are commonly bought and sold on the property market without the landlord playing any part in the transaction. A tenant may normally also grant an \"under-lease\" of the property. As a matter of law, however, whether there is a right to sell the lease or sublet depends on the terms of the particular lease.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13. The capital value of the landlord\u2019s interest in a property let on a long lease arises from two sources: firstly, the rent payable under the lease and, secondly, the prospect of reversion of the property to him at the end of the lease. At the beginning of a very long lease the value of the reversion may be very little and the total market value of the landlord\u2019s interest may therefore amount to little more than the capitalised value of the rent. The capital value of the tenant\u2019s interest arises from his right to occupy the house under the lease, and the time for which that right will subsist is of critical importance in relation to its value. At the beginning of a very long lease, the value of the tenant\u2019s interest may be more or less equivalent to a \"freehold\" interest if the rent payable is a nominal one.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The lease, however, is a wasting asset. As a lease progresses, the value of the tenant\u2019s interest in the property diminishes, whilst the value of the landlord\u2019s interest increases. At the end of the lease, the tenant\u2019s interest ceases to exist and the buildings, including improvements and repairs made, revert to the landlord without any compensation to the tenant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The sum of the values of the landlord\u2019s and tenant\u2019s respective interests is less than the freehold value of the property with vacant possession, since neither the landlord alone nor the tenant alone can offer a third party the freehold with such possession. If, however, the reversion is sold to the occupying tenant, who can then merge both interests into a simple freehold, its value is greater than the investment value to a third party purchasing the reversion subject to the existing lease. In free market transactions, it is usual for the vendor and the purchaser to share this additional value, known as the \"merger value\", in agreed proportions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14. The long-leasehold system of tenure has been widely used in  and , and in particular was associated with much urban development in the nineteenth century following the industrial revolution.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15. From about 1880 onwards, demands began to be made for \"leasehold enfranchisement\", that is the right for tenants to purchase compulsorily the freehold of their holdings. Between 1884 and 1929, a number of unsuccessful Bills to grant some measure of leasehold enfranchisement were introduced into Parliament.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16. Demand for reform of the law revived soon after the Second World War and in 1948 a Committee (the Leasehold Committee) was appointed by the Lord Chancellor to consider various aspects of the leasehold question.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In their report, presented to Parliament in 1950 (Command Paper Cmd 7982), the majority of the Committee came out against giving tenants a right of enfranchisement. They concluded that there were both general objections of principle and practical obstacles to such a course of action. They further believed that \"leasehold enfranchisement ... would not be in the public interest\" (paragraph 100). They did, however, recommend that occupying tenants of houses under a certain rateable value should have security of tenure under the Rent Acts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The minority report of the Committee drew attention to the strong and bitter sense of injustice felt by long leaseholders in the case of building leases and recommended that certain occupying tenants should have a right of leasehold enfranchisement by compulsory purchase.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Labour Government of the day did not have time to put forward any permanent legislation following the Leasehold Committee\u2019s report. The Conservative Government elected in 1951 accepted the majority view of the Committee, and its recommendations were enacted in the Landlord and Tenant Act 1954 (\"the 1954 Act\"). In broad terms, the effect of this Act was - and still is - that on the expiry of a long residential lease the tenant should have the right to continue occupying the house as a sitting tenant under the Rent Acts, paying a \"fair rent\" as defined in those Acts and enjoying the security of tenure afforded by the ordinary rent legislation. This privilege is transferable on death to other members of the tenant\u2019s family residing in the property.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17. Public discussion of the matter continued. In 1961, claims were made in Parliament that leaseholders were being subjected to hardship as a result of the onerous terms which landlords were asking for the sale of reversions or for the extension or renewal of existing leases. Enquiries were made by the Government who invited the bodies representing professions most experienced in the field (solicitors, surveyors, auctioneers, estate and property agents) to report on the practice of ground landlords in this respect. In July 1962, a White Paper was published presenting a summary of their assessments (Residential Leasehold Property - Command Paper Cmnd 1789). In general, the professional bodies appeared to find that the existing system worked adequately, although there was widespread dissatisfaction among tenants as to the limited nature of the interest they held.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18. For some years compulsory enfranchisement had been part of Labour Party policy. After the election of a Labour Government in 1964, a further White Paper was published in 1966 setting out the Government\u2019s proposals for reform including a scheme of compulsory enfranchisement (Leasehold Reform in  and  - Command Paper Cmnd 2916). The grounds on which the Government considered reform to be necessary were set out as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"The purpose",
+                                "elements": []
+                            },
+                            {
+                                "content": "1. This White Paper is concerned with residential long leases particularly those granted originally in the latter half of the last century. In the case of long leases, experience has shown that the system has worked very unfairly against the occupying leaseholder. The freeholder has provided the land; but in the great majority of cases it is the leaseholder or his predecessor in title who at their own expense have built the house on the land. Whether this is so or not in all cases, it is almost universally true that over the years it is the lessee and his predecessors who have borne the cost of improvements and maintenance, and these will probably have cost far more than the original building itself. At their expense the leaseholders have preserved it as a habitable dwelling and have used it as such, and not unnaturally, an occupying leaseholder who at the end of the term has lived in it for such a period of years regards it as his family home. It is in such cases quite indefensible, if justice is to be done as between freeholder and occupying leaseholder, that at the end of the term, the law should allow the ownership of the house to revert to the freeholder without his paying anything for it so that he gets not only the land but also the house, the improvements and everything the leaseholder and his predecessors have added to it.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. The Government has decided that a solution must be found to right this injustice. In the Government\u2019s view the basic principle of a reform which will do justice between the parties should be that the freeholder owns the land and the occupying leaseholder is morally entitled to the ownership of the building which has been put on and maintained on that land.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Two circumstances make reform a matter of urgency. First, most people buy their house on mortgage and for them the leasehold system works particularly harshly. A purchaser on mortgage may pay virtually the freehold price for a lease with a good many years to run but as he reaches the end of his mortgage term he will feel a sharpening sense of injustice. He will realise that after he has discharged the mortgage he will have an interest far less valuable than it was when he bought it, and difficult to sell because a subsequent purchaser may not be able to get a mortgage. This is the reality now confronting many owner occupiers who purchased their houses on setting up home immediately after the war. Second, a great many leasehold estates were built in the second half of the nineteenth century when landowners used their monopoly power to prevent development taking place on other than leasehold terms. This occurred particularly in South Wales and in some English areas. These leases are beginning to fall in and the leaseholders are now experiencing the full harshness of the leasehold system.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Plan",
+                                "elements": []
+                            },
+                            {
+                                "content": "4. The Government will, therefore, introduce a Bill to give leaseholders with an original long lease greater security and to enable them to acquire the freehold on fair terms. The Bill will be based on the principle that the land belongs in equity to the landowner and the house belongs in equity to the occupying leaseholder. It follows that the leaseholder will have the right to retain his house after the lease expires and the right to enfranchise his lease.\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "The White Paper contained details of the Government\u2019s proposals to allow certain qualified leaseholders to acquire the freehold or obtain a fifty-year extension of their existing lease. The Government\u2019s proposals as to the terms of enfranchisement were explained as follows in paragraphs 11 and 12 of the White Paper:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"11. Subject to provision for special cases, a qualified leaseholder will have the right at any time during the original term of the lease to acquire the freehold by buying out the landlord compulsorily. It is important to ensure that the price paid for enfranchisement is a fair price. But present market prices reflect the position under the present law which is inequitable to the leaseholder, and the price for enfranchisement must accordingly be based not on present market values but on the value of the land itself, including any development value attaching to it. The price of enfranchisement must be calculated in accordance with the principle that in equity the bricks and mortar belong to the qualified leaseholder and the land to the landlord.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12. It follows, and the Bill will so provide, that where there is no development value (and often there will not be) the fair price for enfranchisement will be the value of the freehold interest of the site, subject to the lease and its extension of 50 years. This will completely disregard the value of the building on reversion.\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "19. Thereafter, following their re-election in 1966, the (Labour) Government introduced a Bill into Parliament to give effect to their proposals. During the Parliamentary proceedings, the (Conservative) Opposition accepted the principle, enunciated in their 1966 Election Manifesto, that there should be legislation \"to allow ground leaseholders to buy or rent their houses on fair terms except where the property is to be developed\", but they opposed the terms in the Bill as being confiscatory. They argued that the case for basing the price of enfranchisement solely on the site value rested on a wholly false argument that the house belonged to the leaseholder. In fact, he had only purchased a right to live in it for a specified period. Market prices should be paid for what belonged to the landlords.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the parliamentary debates on the Bill, members of all political parties expressed the view that the 1954 Act, which provides security of tenure (see paragraph 16 above), had not succeeded in relieving the hardship or injustice caused to tenants at the expiry of long leases. Two of the reasons given were the continuing liability of the tenant to pay freshly assessed rents and the potential burden of heavy claims for dilapidations which some landlords used as a means of persuading tenants to give up their statutory right of possession.",
+                                "elements": []
+                            },
+                            {
+                                "content": "One criticism which was made of the provisions of the Bill was that it did not distinguish between \"deserving\" and \"undeserving\" tenants and did not provide machinery for a court or tribunal to determine whether it was reasonable to make an enfranchisement order in favour of the tenant. The reason given for rejecting this criticism was the concern that, in view of the very large number of houses held on long leases, a system whereby the reasonableness of the enfranchisement would have to be established in each individual case would inevitably give rise to considerable uncertainty, to delay, to litigation in many cases and, no doubt in some tenants, to the feeling that it might be too expensive to venture on the uncertain exercise.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Another point raised in the debates arose from the fact that, under the Bill, the right of enfranchisement would be restricted to the tenants of houses under a certain value. It was argued that if the leasehold system worked unjustly for the reasons suggested by the Government, then logically it must work unjustly in respect of all tenants, regardless of the value of the house. The reasons put forward by the Government spokesmen for confining the applicability of the legislation to houses below a certain value were essentially as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) it was appropriate for legislation improving the position of leaseholders to apply to the same class of property as the Rent Acts;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) the Government had tried to define the cases of greatest hardship which justified them in rectifying existing contracts; the precedent had therefore been followed of the limits set by the Rent Acts; whilst it might be argued on grounds of logic and consistency that no limit should be set, that would involve rectification to an unnecessary degree;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) to a degree the Government were influenced by the large capital gains which could be made by some tenants if the limits were removed entirely.",
+                                "elements": []
+                            },
+                            {
+                                "content": "After extensive debate in both Houses of Parliament, the Bill introduced by the Government was duly enacted as the Leasehold Reform Act 1967. There were about one and a quarter million dwellinghouses occupied by long leaseholders in  and  in 1967. It was estimated at the time by the Government that all but one or two per cent fell within the scope of the enfranchisement scheme introduced by the Act. Subsequently, as a result of an amendment introduced in 1974, a band of more valuable houses within this remaining one or two per cent was also made susceptible of enfranchisement (see paragraph 21 (b) below).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "C. The leasehold reform legislation",
+                        "elements": [
+                            {
+                                "content": "20. The legislation governing leasehold enfranchisement now consists of the Leasehold Reform Act 1967 (\"the 1967 Act\"), as amended by the Housing Act 1969 (\"the 1969 Act\"), the Housing Act 1974 (\"the 1974 Act\"), the Leasehold Reform Act 1979, the Housing Act 1980 (\"the 1980 Act\") and the Housing and Building Control Act 1984. This legislation provides occupying tenants of \"houses\" let on long leases in  and  with the right to acquire the freehold of the house, or an extended lease, on certain terms and conditions. The term \"house\", as defined, includes semi-detached and terrace houses but not flats and maisonettes (section 2 of the 1967 Act).",
+                                "elements": []
+                            },
+                            {
+                                "content": "21. The following, in broad terms, are the principal conditions which must be satisfied before the tenant of a house becomes entitled to the right of acquisition conferred by the Act:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) The tenancy must be a \"long\" tenancy, that is either for a term certain of 21 years or more or for a lesser term once it has been renewed for periods totalling over 21 years (sections 1 and 3 of the 1967 Act).",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) With certain exceptions not relevant for present purposes, the \"rateable value\" of the house (that is, the notional annual rental value fixed for local taxation purposes) must not exceed \u00a3750, or \u00a31,500 if the house is in Greater London (section 1 of the 1967 Act as amended by section 118 of the 1974 Act). The original rateable-value limits fixed in the 1967 Act (\u00a3200 and, for Greater London, \u00a3400) were revised (in effect being raised to \u00a3500 and \u00a31,000, respectively) by the 1974 Act to take account of the country-wide rating revaluation carried out in 1973. The 1974 Act further extended the scope of the enfranchisement scheme under the 1967 Act by bringing in houses of a still higher rateable value (between \u00a3500 and \u00a3750 and, for Greater London, between \u00a31,000 and \u00a31,500), in respect of which, however, a different purchase price was payable (see paragraph 23 below). Certain even more valuable properties, being outside the global rateable-value limits, remain outside the ambit of the legislation altogether.",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) The annual rent must be a \"low\" rent, that is less than two-thirds of the rateable value (sections 1 and 4 of the 1967 Act).",
+                                "elements": []
+                            },
+                            {
+                                "content": "(d) The tenant must occupy the house as his only or main residence and must have done so for at least three years prior to the time when he gives notice of his desire to exercise his rights under the Act (section 1 of the 1967 Act as amended by section 141 and schedule 21 of the 1980 Act - the 1967 Act originally provided for a five-year minimum period).",
+                                "elements": []
+                            },
+                            {
+                                "content": "22. Where the above conditions are satisfied the tenant has two rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) he can obtain a fifty-year extension of the lease at a rent representing the letting value of the ground (without buildings), the rent being subject to revision after 25 years (sections 14 and 15 of the 1967 Act);",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) he can purchase the freehold on the terms outlined below (section 8 of the 1967 Act).",
+                                "elements": []
+                            },
+                            {
+                                "content": "The tenant can set in motion the procedure for exercising his right to purchase the freehold at any time up to the original term date of the lease, but not thereafter (section 16 of the 1967 Act).",
+                                "elements": []
+                            },
+                            {
+                                "content": "23. No price or premium is payable for an extended lease other than the rent.",
+                                "elements": []
+                            },
+                            {
+                                "content": "On the purchase of a freehold, a price is payable to the landlord as determined in accordance with one or other of two bases of valuation. These are referred to as the \"1967 basis of valuation\", which was introduced by the 1967 Act (as amended by the 1969 Act), and the \"1974 basis of valuation\", which was introduced by the 1974 Act. The 1967 basis applies to less valuable properties, and the 1974 basis to the small percentage of more valuable properties (see paragraphs 19 in fine and 21 (b) above) brought within the scope of the legislation for the first time by the 1974 Act. The essential features of the two bases of valuation may be summarised as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a) The 1967 basis of valuation applies to properties with a rateable value of up to \u00a3500, or \u00a31,000 if the house is in Greater London. The price payable is the amount which the house, if sold on the open market by a willing seller, might be expected to realise on the assumptions, inter alia, that (i) the tenant has exercised his statutory right to obtain an extension of the lease for fifty years, and (ii) the purchaser is someone other than the tenant (section 9 of the 1967 Act, section 82 of the 1969 Act and section 118 of the 1974 Act). The effect of the assumption as to the extension of the lease is that the tenant pays approximately the site value, and pays nothing for the buildings on the site. The assumption that the purchaser is someone other than the tenant, introduced by the 1969 Act, also excludes any element of \"merger value\" from the price (see paragraph 13 above). This basis of valuation reflects the policy outlined in the 1966 White Paper (see paragraph 18 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b) The 1974 basis of valuation applies to properties with rateable values of over \u00a3500 and up to \u00a3750, or over \u00a31,000 and up to \u00a31,500 if the house is in Greater London. The price payable is the amount which the house, if sold on the open market by a willing seller, might be expected to realise on the assumption, inter alia, that at the end of the tenancy the tenant had the right to remain in possession of the house under the 1954 Act, that is as a statutory tenant paying a \"fair rent\" reflecting his occupation of the house (see paragraph 16 above - section 9 of the 1967 Act as amended by section 118 of the 1974 Act). In principle, this basis of valuation is more favourable to the landlord and is intended to provide a price approximately equivalent to the market value of the site and house, assuming it to be tenanted under the 1954 Act; it also allows the landlord a share of the \"merger value\".",
+                                "elements": []
+                            },
+                            {
+                                "content": "However, in a case where a tenant had obtained a fifty-year extension of the lease and subsequently, before expiry of the original term date of the tenancy, applied for the freehold, it was held by the Lands Tribunal (see paragraph 25 below) that the assessment of the compensation had to be on the basis of the tenant having extended his lease (Hickman v. Phillimore Estate (1985) Estates Gazette, Vol. 274, p. 261). In such circumstances, therefore, the landlord receives substantially less than the above market value in compensation. The Government recognised at the hearings before the Court that this decision had identified a loophole in the 1974 Act that needed to be cured by amending legislation. The Court has since been informed by the Government that the decision of the Lands Tribunal has been set down for appeal.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Special provisions apply for extinguishing any intermediate lease where the occupying tenant claiming enfranchisement does not hold his lease direct from the freeholder (schedule 1 to the 1967 Act). These provisions do not, however, appear to be relevant in the present case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "24. The tenant may, at any time before the price of the property has been fixed, institute a procedure to have the rateable value of the house adjusted for the purposes of the legislation so as to leave out of account the value of structural improvements carried out by himself or his predecessors (section 118 and schedule 8 of the 1974 Act). The County Court is competent to determine disputes as to whether improvements are within the scope of the scheme and, since the 1980 Act came into force, there has been a right of appeal to the High Court from such decisions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "25. The legislation lays down procedures for carrying the relevant transactions into effect and for determining disputes. Where the tenant wishes to acquire the freehold, he must first give the landlord written notice of his desire to do so (section 8 of the 1967 Act). Disputes over the tenant\u2019s entitlement to acquire the freehold under the Act and related matters are within the jurisdiction of the County Court (section 20 of the 1967 Act). In such proceedings, the County Court has powers to penalise in costs a tenant who is guilty of unreasonable delay or default in the performance of the obligations arising from the notice of enfranchisement (ibid.). In default of agreement, the price payable is now subject to determination by a local Leasehold Valuation Tribunal, with a right of appeal to the London-based Lands Tribunal which forms part of the High Court (section 142 and schedule 22 of the 1980 Act). Before the 1980 Act came into force, disputes as to price were within the jurisdiction of the Lands Tribunal (section 21 of the 1967 Act). It is open to a landlord who believes that the enfranchising tenant is deliberately or unnecessarily delaying the process of enfranchisement to refer the matter to the Leasehold Valuation Tribunal (or, formerly, to the Lands Tribunal). Regulations prescribe a timetable for completion of the purchase after the price has been determined (paragraph 6 of Part I of the schedule to the Leasehold Reform (Enfranchisement and Extension) Regulations 1967, S.I. 1967 No. 1879).",
+                                "elements": []
+                            },
+                            {
+                                "content": "26. For the purpose of assessing the price payable, the house is valued as at the date of the tenant\u2019s notice to the landlord of his desire to acquire the freehold (sections 9 (1) and 37 (1) (d) of the 1967 Act), and not as at the date when the valuation is being carried out.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "D. Transactions affecting the applicants",
+                        "elements": [
+                            {
+                                "content": "27. In transactions completed between April 1979 and November 1983, the tenants of some 80 long leasehold properties forming part of the residential Estate in Belgravia () which the  family and its trustees have developed (see paragraph 10 above) exercised their powers under the contested legislation to acquire compulsorily the applicants\u2019 interest as freehold owners of the properties. These transactions related to 77 properties held on \"premium\" leases and 3 properties held on \"building\" leases (see paragraph 12 above). The applicants explained that under the practice followed by the Estate at the time, the premiums were calculated on the following basis: first the rent under the lease was fixed as a percentage of the estimated market rent obtainable and then the premium was the calculated capitalised value of the balance of the estimated market rent over the term of the lease. The relevant properties were valued on the 1967 basis in 28 transactions and on the 1974 basis in 52 transactions (see paragraph 23 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "As time passes, according to the applicants, the 1974 Act will affect an increasingly higher ratio of properties on their Estate. Since November 1983, another 43 enfranchisements have taken place, bringing up to a total of about 215 the number of properties enfranchised on the Estate under the leasehold reform legislation to date. The applicants estimate that there are likely to be between 500 to 800 further enfranchisements on their Estate in the future.",
+                                "elements": []
+                            },
+                            {
+                                "content": "28. In each of the 80 transactions the subject of the present case, the price paid was fixed by negotiation. The applicants were advised by their legal advisers that they had no grounds for disputing the right of any of the tenants to acquire the freehold, and that they could not reasonably hope to obtain a higher price for any of the relevant properties in proceedings before the Lands Tribunal or, in respect of the more recent transactions, a Leasehold Valuation Tribunal.",
+                                "elements": []
+                            },
+                            {
+                                "content": "29. The applicants drew attention to the following features of the individual transactions in question:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(i) in no case except 3 was the property built either by the tenant who enfranchised or by the tenant\u2019s predecessors;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(ii) in only 6 cases was the property occupied by members of the tenant\u2019s family continuously since the date of creation of the lease;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(iii) the period of occupation of the tenant prior to the date of his or her notice to acquire had varied from three to thirty-five years; in 34 out of the 80 instances, it had been under eight years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(iv) in all the cases, the tenant was entitled to security of tenure, subject to the conditions laid down by the Rent Acts, upon expiry of the lease (see paragraph 16 above);",
+                                "elements": []
+                            },
+                            {
+                                "content": "(v) the period between the tenant\u2019s notice (the relevant date for assessment of the price - see paragraph 26 above) and completion of the sale varied between one and thirteen years, and in 34 of the 80 transactions was more than five years;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(vi) the unencumbered freehold value of the properties (as assessed by the applicants) varied from \u00a344,000 to \u00a3225,000, whereas the price paid for enfranchisement by the tenant varied from \u00a32,500 to \u00a3111,000;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(vii) the value of the unexpired portion of the lease to the tenants was said to be up to \u00a3153,750 - without taking into account the right to enfranchise;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(viii) in 15 cases, the tenant sold the lease, after making the claim but before enfranchising, with the benefit of the right to enfranchise;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(ix) in at least 25 out of the 80 cases, the tenant who enfranchised did not remain in occupation of the property, but sold the freehold within one year of acquiring it, and in 9 of these cases did not occupy after enfranchisement at all;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(x) the profits said to have been made by the tenants on such onward sale varied from \u00a332,000 to \u00a3182,000, with at least 7 cases where the tenant made over \u00a3100,000; in particular in one case, the tenant who had come into occupation three months before publication of the 1966 White Paper (see paragraph 18 above) - and who had paid a low price (\u00a39,000) for the lease, without prospect of enfranchisement at that time - was able to buy the freehold at 28 per cent of its proper value (as assessed by the applicants), and sold it less than a year later for a profit of 636 per cent - a profit of \u00a3116,000.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The losses claimed by the applicants to have been sustained through having to sell on the statutory terms as opposed to open-market conditions range from \u00a31,350 to \u00a3148,080 on each transaction, and total \u00a31,479,407 for properties in respect of which the 1967 basis of valuation obtained and \u00a31,050,496 for properties in respect of which the 1974 basis of valuation obtained.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "PROCEEDINGS BEFORE THE COMMISSION",
+                "elements": [
+                    {
+                        "content": "30. In their application (no. 8793/79) lodged with the Commission on 23 October 1979, the applicants claimed that the compulsory transfer of 10 of their properties gave rise, ipso facto and/or at the price paid, to a breach of Article 1 of Protocol No. 1 (P1-1) to the Convention. They also alleged that the circumstances of the transfer involved discrimination contrary to Article 14 (art. 14) of the Convention and that the absence of any system of appeal against such transfer violated Article 13 (art. 13) of the Convention. In what they termed seventeen \"supplementary applications\" filed between 17 April 1980 and 3 January 1984, the applicants complained of a further 70 transactions.",
+                        "elements": []
+                    },
+                    {
+                        "content": "31. The Commission declared the application admissible on 28 January 1983. In its report adopted on 11 May 1984 (Article 31) (art. 31), the Commission expressed the unanimous opinion that there had been no breach of any of the Articles relied on. The full text of the Commission\u2019s opinion is reproduced as an annex to the present judgment.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "FINAL SUBMISSIONS TO THE COURT",
+                "elements": [
+                    {
+                        "content": "32. At the public hearings on 23 and 24 September 1985, the Government made the following final submission:",
+                        "elements": []
+                    },
+                    {
+                        "content": "\"Having regard to the written and oral arguments and to the report of the Commission, we invite the Court to hold in favour of the Government ... and dismiss the complaints of the applicants.\"",
+                        "elements": []
+                    },
+                    {
+                        "content": "33. For their part, the applicants",
+                        "elements": []
+                    },
+                    {
+                        "content": "\"respectfully invite[d] the Court to hold these applications well founded, to rule that in each and every application the applicants\u2019 Convention rights referred to, and in particular their right of property under Article 1 [of Protocol No. 1] (P1-1), were wrongfully violated, and to procure for these applicants just satisfaction for those violations\".",
+                        "elements": []
+                    }
+                ],
+                "section_name": "submission"
+            },
+            {
+                "content": "AS TO THE LAW",
+                "elements": [
+                    {
+                        "content": "I. ARTICLE 1 OF PROTOCOL NO. 1 (P1-1)",
+                        "elements": [
+                            {
+                                "content": "34. The applicants claimed that the compulsory transfer of their property under the Leasehold Reform Act 1967, as amended, gave rise to a violation of Article 1 of Protocol No. 1 (P1-1) to the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"Every natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "They submitted that the Act has",
+                                "elements": []
+                            },
+                            {
+                                "content": "(i) interfered with agreements between the applicants and their tenants freely made before it came into effect;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(ii) frustrated the expectations with which the applicants entered into the agreements, and on which the terms of such agreements were based;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(iii) compelled the applicants to sell the properties, against their will, to private individuals for the benefit of those individuals;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(iv) deprived the applicants of their property at a price always below, and often far below, market value;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(v) enabled tenants to sell the properties in the open market for large profits after claiming enfranchisement;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(vi) provided no machinery whereby the applicants can challenge either the validity of or the justification for the deprivation, or the principles upon which the compensation is to be calculated, once only it is established that the tenancy is within the ambit of the Act;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(vii) made arbitrary distinctions between the properties of which they can be deprived, and those of which they cannot.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A. General considerations",
+                                "elements": [
+                                    {
+                                        "content": "35. The applicants maintained that since their grievance concerned in substance the effect of the legislation on the ownership of specific properties formerly belonging to them, each individual act of enfranchisement before the Court should be examined on its merits for compliance with Article 1 (P1-1).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In its report, the Commission rejected this approach. It noted that the particular matters of which the applicants complained resulted from transactions between private individuals for which the  was responsible qua legislator but not otherwise. For the Commission, although account must be taken of the practical effects of the legislation, the essential issue for decision is whether the respondent State has breached the applicants\u2019 rights under the Convention by empowering tenants to acquire their property on the terms and conditions laid down in the legislation; and this issue has to be determined by considering whether the legislation is compatible with the Convention rather than by separate scrutiny of the individual transactions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government adopted the same approach as the Commission.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36. The Court has frequently stated the principle that, without losing sight of the general context of the case, it must, in proceedings originating in an individual application, confine its attention, as far as possible, to the concrete case (see, as the most recent authority, the Ashingdane judgment of 28 May 1985, Series A no. 93, p. 25, para. 59).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the present case, however, the essence of the applicants\u2019 complaint is directed against the terms and conditions of the contested legislation. It does not relate to the manner of execution of the law by a State authority, be it administrative or judicial. Indeed, one of the applicants\u2019 criticisms was that the legislation does not allow scope for discretionary and variable implementation according to the particular circumstances of each individual property. The Court must therefore, like the Commission, direct its attention primarily to the contested legislation itself, in order to determine whether that legislation is compatible with Article 1 of Protocol No. 1 (P1-1).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "This does not mean that the Court will examine the legislation in abstracto. The individual enfranchisements complained of are illustrative of the impact in practice of the reform it introduced and, as such, material to the issue of its compatibility with the Convention. In this respect, the consequences of application of the legislation such as occurred in the 80 specific transactions before the Court are to be taken into account.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court will accordingly consider the applicants\u2019 claims on the basis of the above approach.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37. Article 1 (P1-1) in substance guarantees the right of property (see the Marckx judgment of 13 June 1979, Series A no. 31, pp. 27-28, para. 63). In its judgment of 23 September 1982 in the case of Sporrong and L\u00f6nnroth, the Court analysed Article 1 (P1-1) as comprising \"three distinct rules\": the first rule, set out in the first sentence of the first paragraph, is of a general nature and enunciates the principle of the peaceful enjoyment of property; the second rule, contained in the second sentence of the first paragraph, covers deprivation of possessions and subjects it to certain conditions; the third rule, stated in the second paragraph, recognises that the Contracting States are entitled, amongst other things, to control the use of property in accordance with the general interest (Series A no. 52, p. 24, para. 61). The Court further observed that, before inquiring whether the first general rule has been complied with, it must determine whether the last two are applicable (ibid.). The three rules are not, however, \"distinct\" in the sense of being unconnected. The second and third rules are concerned with particular instances of interference with the right to peaceful enjoyment of property and should therefore be construed in the light of the general principle enunciated in the first rule.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B. Second sentence of the first paragraph (\"the deprivation rule\")",
+                                "elements": [
+                                    {
+                                        "content": "1. Applicability",
+                                        "elements": [
+                                            {
+                                                "content": "38. The Court considers that the applicants were \"deprived of [their] possessions\", within the meaning of the second sentence of Article 1 (P1-1), by virtue of the contested legislation. This point was not disputed before the Court.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2. \"In the public interest\": private individuals as beneficiaries",
+                                        "elements": [
+                                            {
+                                                "content": "39. The applicants\u2019 first contention was that the \"public interest\" test in the deprivation rule is satisfied only if the property is taken for a public purpose of benefit to the community generally and that, as a corollary, the transfer of property from one person to another for the latter\u2019s private benefit alone can never be \"in the public interest\". In their submission, the contested legislation does not satisfy this condition.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The Commission and the Government, on the other hand, were agreed in thinking that a compulsory transfer of property from one individual to another may in principle be considered to be \"in the public interest\" if the taking is effected in pursuance of legitimate social policies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40. The Court agrees with the applicants that a deprivation of property effected for no reason other than to confer a private benefit on a private party cannot be \"in the public interest\". Nonetheless, the compulsory transfer of property from one individual to another may, depending upon the circumstances, constitute a legitimate means for promoting the public interest. In this connection, even where the texts in force employ expressions like \"for the public use\", no common principle can be identified in the constitutions, legislation and case-law of the Contracting States that would warrant understanding the notion of public interest as outlawing compulsory transfer between private parties. The same may be said of certain other democratic countries; thus, the applicants and the Government cited in argument a judgment of the Supreme Court of the United States of America, which concerned State legislation in Hawaii compulsorily transferring title in real property from lessors to lessees in order to reduce the concentration of land ownership (Hawaii Housing Authority v. Midkiff 104 S.Ct.2321 [1984]).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41. Neither can it be read into the English expression \"in the public interest\" that the transferred property should be put into use for the general public or that the community generally, or even a substantial proportion of it, should directly benefit from the taking. The taking of property in pursuance of a policy calculated to enhance social justice within the community can properly be described as being \"in the public interest\". In particular, the fairness of a system of law governing the contractual or property rights of private parties is a matter of public concern and therefore legislative measures intended to bring about such fairness are capable of being \"in the public interest\", even if they involve the compulsory transfer of property from one individual to another.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42. The expression \"pour cause d\u2019utilit\u00e9 publique\" used in the French text of Article 1 (P1-1) may indeed be read as having the narrow sense argued by the applicants, as is shown by the domestic law of some, but not all, of the Contracting States where the expression or its equivalent is found in the context of expropriation of property. That, however, is not decisive, as many Convention concepts have been recognised in the Court\u2019s case-law as having an \"autonomous\" meaning. Moreover, the words \"utilit\u00e9 publique\" are also capable of bearing a wider meaning, covering expropriation measures taken in implementation of policies calculated to enhance social justice.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The Court, like the Commission, considers that such an interpretation best reconciles the language of the English and French texts, having regard to the object and purpose of Article 1 (P1-1) (see Article 33 of the 1969 Vienna Convention on the Law of Treaties and the Sunday Times judgment of 26 April 1979, Series A no. 30, p. 30, para. 48), which is primarily to guard against the arbitrary confiscation of property.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43. The applicants submitted that the use in the same context of different phrases - \"public interest\" in the first paragraph of Article 1 (P1-1) and \"general interest\" in the second paragraph - should, according to a generally recognised principle of treaty interpretation, be assumed to indicate an intention to refer to different concepts. They construed Article 1 (P1-1) as granting the State more latitude to control the use of someone\u2019s property than to take it away from him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "In the Court\u2019s opinion, even if there could be differences between the concepts of \"public interest\" and \"general interest\" in Article 1 (P1-1), on the point under consideration no fundamental distinction of the kind contended for by the applicants can be drawn between them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44. The applicants accepted that measures designed to ensure equitable distribution of economic advantages, for example by way of taxation, are licensed by Article 1 (P1-1), but, so they argued, solely by the second paragraph and not by the first paragraph. The Court, however, sees no cogent reason why a State should be prohibited under Article 1 (P1-1) from implementing such a policy by resort to deprivation of property.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45. For these reasons, the Court comes to the same conclusion as the Commission: a taking of property effected in pursuance of legitimate social, economic or other policies may be \"in the public interest\", even if the community at large has no direct use or enjoyment of the property taken. The leasehold reform legislation is not therefore ipso facto an infringement of Article 1 (P1-1) on this ground. Accordingly, it is necessary to inquire whether in other respects the legislation satisfied the \"public interest\" test and the remaining requirements laid down in the second sentence of Article 1 (P1-1).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3. Whether the leasehold reform legislation complied with the \"public interest\" test and the remaining requirements of the deprivation rule",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a) Margin of appreciation",
+                                "elements": [
+                                    {
+                                        "content": "46. Because of their direct knowledge of their society and its needs, the national authorities are in principle better placed than the international judge to appreciate what is \"in the public interest\". Under the system of protection established by the Convention, it is thus for the national authorities to make the initial assessment both of the existence of a problem of public concern warranting measures of deprivation of property and of the remedial action to be taken (see, mutatis mutandis, the Handyside judgment of 7 December 1976, Series A no. 24, p. 22, para. 48). Here, as in other fields to which the safeguards of the Convention extend, the national authorities accordingly enjoy a certain margin of appreciation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Furthermore, the notion of \"public interest\" is necessarily extensive. In particular, as the Commission noted, the decision to enact laws expropriating property will commonly involve consideration of political, economic and social issues on which opinions within a democratic society may reasonably differ widely. The Court, finding it natural that the margin of appreciation available to the legislature in implementing social and economic policies should be a wide one, will respect the legislature\u2019s judgment as to what is \"in the public interest\" unless that judgment be manifestly without reasonable foundation. In other words, although the Court cannot substitute its own assessment for that of the national authorities, it is bound to review the contested measures under Article 1 of Protocol No. 1 (P1-1) and, in so doing, to make an inquiry into the facts with reference to which the national authorities acted.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b) Whether the aim of the contested legislation was a legitimate one, in principle and on the facts",
+                                "elements": [
+                                    {
+                                        "content": "47. The aim of the 1967 Act, as spelt out in the 1966 White Paper, was to right the injustice which was felt to be caused to occupying tenants by the operation of the long leasehold system of tenure (see paragraph 18 above). The Act was designed to reform the existing law, said to be \"inequitable to the leaseholder\", and to give effect to what was described as the occupying tenant\u2019s \"moral entitlement\" to ownership of the house (ibid.).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Eliminating what are judged to be social injustices is an example of the functions of a democratic legislature. More especially, modern societies consider housing of the population to be a prime social need, the regulation of which cannot entirely be left to the play of market forces. The margin of appreciation is wide enough to cover legislation aimed at securing greater social justice in the sphere of people\u2019s homes, even where such legislation interferes with existing contractual relations between private parties and confers no direct benefit on the State or the community at large. In principle, therefore, the aim pursued by the leasehold reform legislation is a legitimate one.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48. The applicants suggested that the 1967 Act was not enacted for purposes of public benefit but was in reality motivated by purely political considerations as a vote-seeking measure by the Labour Government then in office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court notes, however, that leasehold reform in England and Wales had been a matter of public concern for almost a century and that, when the 1967 Act was passed, enfranchisement was accepted as a principle by all the major political parties, although they expressed different views as to how it should be implemented (see paragraphs 15 to 19 above). It was not disputed by the applicants that the main criticisms now made by them of the substantive provisions of the legislation were voiced at the time and fully debated in Parliament before being rejected (see paragraph 19 above). The Court does not find that such political considerations as may have influenced the legislative process, socio-economic legislation being bound to reflect political attitudes to a greater or lesser degree, precluded the objective pursued by the 1967 Act from being a legitimate one \"in the public interest\".",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Similar reasoning applies to the applicants\u2019 claim that the amendment introduced by the Conservative Government in 1974, whereby a small percentage of more valuable dwellinghouses were for the first time brought within the scope of the legislation (see paragraphs 19 in fine and 21 (b) above), \"was born of political expediency alone\".",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49. The applicants further disputed the existence of any problem justifying legislation. According to the applicants, the long leasehold system of tenure, certainly as far as premium leases were concerned (see paragraph 12 above), did not in fact suffer from any unfairness and it could not be said that the tenant had any \"moral entitlement\" to ownership of the house merely by reason of occupying a house built, repaired or improved by previous tenants in accordance with the contractual terms of a lease.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As stated above (at paragraph 46), the Court has jurisdiction to inquire into the factual basis of the justification pleaded by the respondent Government. That review, however, is limited to determining whether the legislature\u2019s assessment of the relevant social and economic conditions came within the State\u2019s margin of appreciation (ibid.). The Government conceded that the convictions on which the 1967 Act was based were by no means universally shared; and this is borne out by the 1962 White Paper (see paragraph 17 above). As the Commission observed in its report, the justice or injustice of the leasehold system and the respective \"moral entitlements\" of tenants and landlords are matters of judgment on which there is clearly room for legitimate conflict of opinions. The applicants\u2019 views cannot be qualified as groundless. Nonetheless, there is sufficient evidence to justify the contrary views. In a building lease the original tenant will have built the house, in a premium lease he will have paid an initial capital sum which typically took account of the building cost, and in both kinds of lease the tenant will have been responsible for all running repairs (see paragraph 12 above). This means that the long-leasehold tenant and his predecessors will over the years have invested a considerable amount of money in the house which is their home, whereas the landlord will normally have made no contribution towards its maintenance subsequent to the granting of the original lease.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court therefore agrees with the Commission\u2019s conclusion : the United Kingdom Parliament\u2019s belief in the existence of a social injustice was not such as could be characterised as manifestly unreasonable.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c) Means chosen to achieve the aim",
+                                "elements": [
+                                    {
+                                        "content": "50. This, however, does not settle the issue. Not only must a measure depriving a person of his property pursue, on the facts as well as in principle, a legitimate aim \"in the public interest\", but there must also be a reasonable relationship of proportionality between the means employed and the aim sought to be realised (see, amongst others, and mutatis mutandis, the above-mentioned Ashingdane judgment, Series A no. 93, pp. 24-25, para. 57). This latter requirement was expressed in other terms in the Sporrong and L\u00f6nnroth judgment by the notion of the \"fair balance\" that must be struck between the demands of the general interest of the community and the requirements of the protection of the individual\u2019s fundamental rights (Series A no. 52, p. 26, para. 69). The requisite balance will not be found if the person concerned has had to bear \"an individual and excessive burden\" (ibid., p. 28, para. 73). Although the Court was speaking in that judgment in the context of the general rule of peaceful enjoyment of property enunciated in the first sentence of the first paragraph, it pointed out that \"the search for this balance is ... reflected in the structure of Article 1 (P1-1)\" as a whole (ibid., p. 26, para. 69).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It was the applicants\u2019 contention that the leasehold reform legislation does not satisfy these conditions. In their submission, even assuming there to be a social injustice, the means chosen to cure it were so inappropriate or disproportionate as to take the legislature\u2019s decision outside the margin of appreciation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court considers that a measure must be both appropriate for achieving its aim and not disproportionate thereto. Whether this was so on the facts will be examined below when dealing with the applicants\u2019 various arguments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51. According to the applicants, the security of tenure that tenants already had under the law in force (see paragraphs 11 in fine and 16 above) provided an adequate response and the draconian nature of the means devised to give effect to the alleged moral entitlement, namely deprivation of property, went too far. This was said to be confirmed by the absence of any true equivalent to the 1967 Act in the municipal legislation of the other Contracting States and, indeed, generally in democratic societies. It is, so the applicants argued, only if there was no other less drastic remedy for the perceived injustice that the extreme remedy of expropriation could satisfy the requirements of Article 1 (P1-1).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "This amounts to reading a test of strict necessity into the Article, an interpretation which the Court does not find warranted. The availability of alternative solutions does not in itself render the leasehold reform legislation unjustified; it constitutes one factor, along with others, relevant for determining whether the means chosen could be regarded as reasonable and suited to achieving the legitimate aim being pursued, having regard to the need to strike a \"fair balance\". Provided the legislature remained within these bounds, it is not for the Court to say whether the legislation represented the best solution for dealing with the problem or whether the legislative discretion should have been exercised in another way (see, mutatis mutandis, the Klass and Others judgment of 6 September 1978, Series A no. 28, p. 23, para. 49).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The occupying leaseholder was considered by Parliament to have a \"moral entitlement\" to ownership of the house, of which inadequate account was taken under the existing law (see the extracts from the 1966 White Paper quoted above at paragraph 18). The concern of the legislature was not simply to regulate more fairly the relationship of landlord and tenant but to right a perceived injustice that went to the very issue of ownership. Allowing a mechanism for the compulsory transfer of the freehold interest in the house and the land to the tenant, with financial compensation to the landlord, cannot in itself be qualified in the circumstances as an inappropriate or disproportionate method for readjusting the law so as to meet that concern.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52. As to the conditions laid down for enfranchisement, the applicants contended that the restriction of the scope of the legislation to houses below a certain rateable value (see paragraph 21 (b) above) introduces an arbitrary element and is inconsistent with the philosophy on which the legislation was based, since the same moral entitlement would arise for the tenant whatever the value of the property.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court notes that, on the Government\u2019s undisputed estimate, all but one or two per cent of dwellinghouses held on long leases in  and Wales were within the 1967 Act (see paragraph 19 above). The explanations given on behalf of the Government during the debates on the Bill for inserting the rateable-value limits (ibid.) cannot be dismissed as irrational. In particular, although the argument of \"moral entitlement\" was logically capable of being applied across the board, Parliament cannot be said to have acted unreasonably in restricting, as a matter of judgment, the right of enfranchisement under the 1967 Act to less valuable houses so as to redress what were perceived to be the cases of greatest hardship. Neither can the Court find that the amendment in the 1974 Act, whereby a more valuable class of property was rendered liable to enfranchisement (see paragraphs 19 in fine and 21 (b) above), fell outside the State\u2019s margin of appreciation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53. The applicants also objected to the compensation terms under the legislation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54. The first question that arises is whether the availability and amount of compensation are material considerations under the second sentence of the first paragraph of Article 1 (P1-1), the text of the provision being silent on the point. The Commission, with whom both the Government and the applicants agreed, read Article 1 (P1-1) as in general impliedly requiring the payment of compensation as a necessary condition for the taking of property of anyone within the jurisdiction of a .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Like the Commission, the Court observes that under the legal systems of the Contracting States, the taking of property in the public interest without payment of compensation is treated as justifiable only in exceptional circumstances not relevant for present purposes. As far as Article 1 (P1-1) is concerned, the protection of the right of property it affords would be largely illusory and ineffective in the absence of any equivalent principle. Clearly, compensation terms are material to the assessment whether the contested legislation respects a fair balance between the various interests at stake and, notably, whether it does not impose a disproportionate burden on the applicants (see the above-mentioned Sporrong and L\u00f6nnroth judgment, Series A no. 52, pp. 26 and 28, paras. 69 and 73).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court further accepts the Commission\u2019s conclusion as to the standard of compensation: the taking of property without payment of an amount reasonably related to its value would normally constitute a disproportionate interference which could not be considered justifiable under Article 1 (P1-1). Article 1 (P1-1) does not, however, guarantee a right to full compensation in all circumstances. Legitimate objectives of \"public interest\", such as pursued in measures of economic reform or measures designed to achieve greater social justice, may call for less than reimbursement of the full market value. Furthermore, the Court\u2019s power of review is limited to ascertaining whether the choice of compensation terms falls outside the State\u2019s wide margin of appreciation in this domain (see paragraph 46 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55. The applicants\u2019 grievances as to compensation fall under two heads. Firstly, the 1967 basis of valuation does not accord the applicants the full market value of the properties enfranchised (see paragraph 23 (a) above). Secondly, under both the 1967 and the 1974 bases the property is valued as at the date of the tenant\u2019s notice of his desire to acquire (see paragraph 26 above), the complaint being that the landlord suffers loss as a result of the delay between the date of valuation and payment on completion of the transaction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56. As to the first head of complaint, the 1967 basis of valuation, the effect of which is that the tenant pays approximately the site value but nothing for the buildings on the site, clearly and deliberately favours the tenant. It was designed to give effect to the view underlying the whole of the contested legislation, namely that \"in equity the bricks and mortar belong to the qualified leaseholder\" because of the money he (or his predecessor in title) paid out initially as a capital sum and has then spent over the years on repairs, maintenance and improvements to the house (see the passages from the 1966 White Paper quoted at paragraph 18 above). In effect, the tenant and his predecessors are deemed already to have paid for the house. That assessment of the factual situation, so the Court has held, is one which Parliament was entitled to adopt and act on in the public interest (see paragraph 49 above). On the view that Parliament took, it logically follows that \"in equity\" the tenant should only be required to pay for that part of the property which he has not already paid for, that is the value of the ground. The 1967 basis of valuation, although it excludes the \"merger value\" (see paragraphs 13 and 23 (a) above), does compensate the landlord for the existing investment value of his interest in the ground. The objective pursued by the leasehold reform legislation is to prevent a perceived unjust enrichment accruing to the landlord on the reversion of the property. In the light of that objective, judged by the Court to be legitimate for the purposes of Article 1 (P1-1), it has not been established, having regard to the respondent State\u2019s wide margin of appreciation, that the 1967 basis of valuation is not such as to afford a fair balance between the interests of the private parties concerned and thereby between the general interest of society and the landlord\u2019s right of property.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57. As to the second head of complaint, it is possible, as is shown by the circumstances of the enfranchisements affecting the applicants (see paragraph 29 (v) above), for delays, sometimes long, to occur between valuation date and payment of the price. On the other hand, it is open to a landlord who believes that the process of enfranchisement is being deliberately or unnecessarily delayed to refer the matter to the competent tribunal (see paragraph 25 above). It cannot be treated as a defect in the system that a landlord should choose not to avail himself of this remedy and so should permit the tenant to protract the conduct of the negotiations. The law also contains provisions for avoiding and penalising delays (ibid.). The Court accordingly concludes that the compensation procedures laid down in the contested legislation do not inherently lead to delays of such a degree as to involve a violation of Article 1 (P1-1).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58. The applicants argued in the alternative that the reference in the second sentence of Article 1 (P1-1) to \"the general principles of international law\" meant that the international law requirement of, so they asserted, prompt, adequate and effective compensation for the expropriation of property of foreigners also applied to nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59. The Commission has consistently held that the principles in question are not applicable to a taking by a State of the property of its own nationals. The Government supported this opinion. The Court likewise agrees with it for the following reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60. In the first place, purely as a matter of general international law, the principles in question apply solely to non-nationals. They were specifically developed for the benefit of non-nationals. As such, these principles did not relate to the treatment accorded by States to their own nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61. In support of their argument, the applicants relied first on the actual text of Article 1 (P1-1). In their submission, since the second sentence opened with the words \"No one\", it was impossible to construe that sentence as meaning that whereas everyone was entitled to the safeguards afforded by the phrases \"in the public interest\" and \"subject to the conditions provided for by law\", only non-nationals were entitled to the safeguards afforded by the phrase \"subject to the conditions provided for ... by the general principles of international law\". They further pointed out that where the authors of the Convention intended to differentiate between nationals and non-nationals, they did so expressly, as was exemplified by Article 16 (art. 16).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Whilst there is some force in the applicants\u2019 argument as a matter of grammatical construction, there are convincing reasons for a different interpretation. Textually the Court finds it more natural to take the reference to the general principles of international law in Article 1 of Protocol No. 1 (P1-1) to mean that those principles are incorporated into that Article (P1-1), but only as regards those acts to which they are normally applicable, that is to say acts of a State in relation to non-nationals. Moreover, the words of a treaty should be understood to have their ordinary meaning (see Article 31 of the 1969 Vienna Convention on the Law of Treaties), and to interpret the phrase in question as extending the general principles of international law beyond their normal sphere of applicability is less consistent with the ordinary meaning of the terms used, notwithstanding their context.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62. The applicants further argued that, on the Commission\u2019s interpretation, the reference in Article 1 (P1-1) to the general principles of international law would be redundant since non-nationals already enjoyed the protection thereof.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court does not share this view. The inclusion of the reference can be seen to serve at least two purposes. Firstly, it enables non-nationals to resort directly to the machinery of the Convention to enforce their rights on the basis of the relevant principles of international law, whereas otherwise they would have to seek recourse to diplomatic channels or to other available means of dispute settlement to do so. Secondly, the reference ensures that the position of non-nationals is safeguarded, in that it excludes any possible argument that the entry into force of Protocol No. 1 (P1) has led to a diminution of their rights. In this connection, it is also noteworthy that Article 1 (P1-1) expressly provides that deprivation of property must be effected \"in the public interest\": since such a requirement has always been included amongst the general principles of international law, this express provision would itself have been superfluous if Article 1 (P1-1) had had the effect of rendering those principles applicable to nationals as well as to non-nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63. Finally, the applicants pointed out that to treat the general principles of international law as inapplicable to a taking by a State of the property of its own nationals would permit differentiation on the ground of nationality. This, they said, would be incompatible with two provisions that are incorporated in Protocol No. 1 by virtue of Article 5 thereof (P1-5): Article 1 (art. 1) of the Convention which obliges the Contracting States to secure to everyone within their jurisdiction the rights and freedoms guaranteed and Article 14 (art. 14) of the Convention which enshrines the principle of non-discrimination.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As to Article 1 (art. 1) of the Convention, it is true that under most provisions of the Convention and its Protocols nationals and non-nationals enjoy the same protection but this does not exclude exceptions as far as this may be indicated in a particular text (see, for example, Articles 4 para. 3 (b), 5 para. 1 (f) and 16 of the Convention, Articles 3 and 4 of Protocol No. 4) (art. 4-3-b, art. 5-1-f, art. 16, P4-3, P4-4).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As to Article 14 (art. 14) of the Convention, the Court has consistently held that differences of treatment do not constitute discrimination if they have an \"objective and reasonable justification\" (see, as the most recent authority, the Abdulaziz, Cabales and Balkandali judgment of 28 May 1985, Series A no. 94, pp. 35-36, para. 72).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Especially as regards a taking of property effected in the context of a social reform, there may well be good grounds for drawing a distinction between nationals and non-nationals as far as compensation is concerned. To begin with, non-nationals are more vulnerable to domestic legislation: unlike nationals, they will generally have played no part in the election or designation of its authors nor have been consulted on its adoption. Secondly, although a taking of property must always be effected in the public interest, different considerations may apply to nationals and non-nationals and there may well be legitimate reason for requiring nationals to bear a greater burden in the public interest than non-nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64. Confronted with a text whose interpretation has given rise to such disagreement, the Court considers it proper to have recourse to the travaux pr\u00e9paratoires as a supplementary means of interpretation (see Article 32 of the Vienna Convention on the Law of Treaties).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Examination of the travaux pr\u00e9paratoires reveals that the express reference to a right to compensation contained in earlier drafts of Article 1 (P1-1) was excluded, notably in the face of opposition on the part of the  and other States. The mention of the general principles of international law was subsequently included and was the subject of several statements to the effect that they protected only foreigners. Thus, when the German Government stated that they could accept the text provided that it was explicitly recognised that those principles involved the obligation to pay compensation in the event of expropriation, the Swedish delegation pointed out that those principles only applied to relations between a State and non-nationals. And it was then agreed, at the request of the German and Belgian delegations, that \"the general principles of international law, in their present connotation, entailed the obligation to pay compensation to non-nationals in cases of expropriation\" (emphasis added).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Above all, in their Resolution (52) 1 of 19 March 1952 approving the text of the Protocol and opening it for signature, the Committee of Ministers expressly stated that, \"as regards Article 1 (P1-1), the general principles of international law in their present connotation entail the obligation to pay compensation to non-nationals in cases of expropriation\" (emphasis added). Having regard to the negotiating history as a whole, the Court considers that this Resolution must be taken as a clear indication that the reference to the general principles of international law was not intended to extend to nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The travaux pr\u00e9paratoires accordingly do not support the interpretation for which the applicants contended.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65. Finally, it has not been demonstrated that, since the entry into force of Protocol No. 1 (P1), State practice has developed to the point where it can be said that the parties to that instrument regard the reference therein to the general principles of international law as being applicable to the treatment accorded by them to their own nationals. The evidence adduced points distinctly in the opposite direction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66. For all these reasons, the Court concludes that the general principles of international law are not applicable to a taking by a State of the property of its own nationals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67. In the further alternative, the applicants argued that deprivation of property without payment of compensation, or with compensation which is unfair or unjust, does not fulfil the requirement in Article 1 (P1-1) that the deprivation should be \"subject to the conditions provided for by law\", interpreting that phrase as adverting not merely to municipal law but to the fundamental principles of law common to all the Contracting States. In their submission, a taking of property will be arbitrary and hence not in accordance with \"the conditions provided for by law\" in this sense if, as occurred in their case, the amount paid as compensation for the taking bears no reasonable relation to the value of the property taken.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Court has consistently held that the terms \"law\" or \"lawful\" in the Convention \"[do] not merely refer back to domestic law but also [relate] to the quality of the law, requiring it to be compatible with the rule of law\" (see, as the most recent authority, the Malone judgment of 2 August 1984, Series A no. 82, p. 32, para. 67). However on the facts, for the reasons given at paragraphs 56 and 57 above, there are no grounds for finding that the enfranchisement of the applicants\u2019 properties was arbitrary because of the terms of compensation provided for under the leasehold reform legislation. For the rest, in the Court\u2019s opinion, such other requirements as may be included in the phrase \"subject to the conditions provided for by law\" were satisfied in the circumstances of the taking of the applicants\u2019 properties (see paragraphs 141 - 143 of the Commission\u2019s report and, mutatis mutandis, the above-mentioned Malone judgment, pp. 32-33, paras. 66-68, and the authorities cited there).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68. The applicants contended that the operation of the leasehold reform legislation is indiscriminate since it does not provide any machinery whereby the landlord can seek an independent consideration, in any particular case, of either the justification for enfranchisement or the principles on which the compensation is to be calculated, once only it is established that the tenancy is within the ambit of the legislation. They pointed to evident differences between leasehold tenants of modest housing in South Wales and the better off, middle-class tenants on their Estate in Belgravia, who on the whole could not be classified as needy or deserving of protection. In their submission, in order to avoid injustice for the landlord as well as the tenant, the legislation should have provided for judicial review going into the details and reasonableness of each proposed enfranchisement.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Such a system may have been possible, and indeed a proposal to this effect was made during the debates on the draft legislation (see paragraph 19 above). However, Parliament chose instead to lay down broad and general categories within which the right of enfranchisement was to arise. The reason for this choice, according to the Government, was to avoid the uncertainty, litigation, expense and delay that would inevitably be caused for both tenants and landlords under a scheme of individual examination of each of many thousands of cases. Expropriation legislation of wide sweep, in particular if it implements a programme of social and economic reform, is hardly capable of doing entire justice in the diverse circumstances of the very large number of different individuals concerned.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It is in the first place for Parliament to assess the advantages and disadvantages involved in the various legislative alternatives available (see paragraph 46 above). In view of the fact that the legislation was estimated to be likely to affect 98 to 99 per cent of the one and a quarter million dwellinghouses held on long leases in England and Wales (see paragraph 19 in fine above), the system chosen by Parliament cannot in itself be dismissed as irrational or inappropriate.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69. The applicants finally submitted that even if enfranchisement is capable in principle of being \"in the public interest\", the 80 individual transactions complained of (see paragraph 27 above) were not justified. The applicants drew attention to the factors listed in paragraph 29 above to show that the enfranchising tenants of the 80 houses concerned in Belgravia bore no resemblance to the kind of people, deserving of protection, whom the 1966 White Paper said the legislation was designed to benefit (see paragraph 18 above). Irrespective of its possible general compatibility with Article 1 (P1-1), the leasehold reform legislation, as applied in the concrete circumstances of these transactions, was alleged to infringe the principle of proportionality as it resulted in effects going far beyond what was required to achieve its apparent purpose. To illustrate that contention, they referred to one of their former properties where the tenant who purchased the lease near the end of its term for a low price before the introduction of the 1967 Act made a substantial and wholly \"undeserved\" gain on re-selling the property after enfranchising (see paragraph 29 (x) above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The view taken by Parliament as to the tenant\u2019s \"moral entitlement\" to ownership of the house, which the Court has found to be within the State\u2019s margin of appreciation (see paragraph 49 above), is one that applies equally to the applicants\u2019 properties in Belgravia. An inevitable consequence of the legislation giving effect to that view is that any tenant who sells the unencumbered freehold of the property (comprising house and land) after enfranchising is bound to make an apparent gain, since the price of enfranchisement, at least on the 1967 basis of valuation, did not include the house and the tenant has benefited from the so-called merger value (see paragraphs 13 and 23 above). In addition, the broad sweep and scale of the redistribution of interests achieved by the reform mean that some anomalies, such as the making of \"windfall profits\" by tenants who purchased end-of-term leases at the right time, are unavoidable. Parliament decided that landlords affected by the legislation should be deprived of the enrichment, considered unjust, that would otherwise come to them on reversion of the property, at the risk of a number of \"undeserving\" tenants being able to make \"windfall profits\". That was a policy decision by Parliament, which the Court cannot find to be so unreasonable as to be outside the State\u2019s margin of appreciation. Neither does the operation of the legislation in practice, notably as illustrated by the 80 transactions concerning the applicants, show the scale of anomalies to be such as to render the legislation unacceptable under Article 1 (P1-1). Furthermore, in all the specific transactions complained of, even those where \"windfall profits\" were made by tenants in onward sales, the applicants received the prescribed compensation for what Parliament considered to be their entitlement in equity as landlords (see paragraph 28 above). Any hardship as a result of the making of a \"windfall profit\" was suffered not by the applicants, whose loss and compensation were unaffected, but rather by the predecessor(s) in title of the enfranchising tenant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The 80 enfranchisements complained of by the applicants remained within the framework of the legislation, which framework the Court has found to be compatible with the second sentence of Article 1 (P1-1). These enfranchisements did not result in placing an excessive burden on the applicants, over and above the disadvantageous effects generally inherent for landlords in the application of the scheme set up under the leasehold reform legislation. Accordingly, the requisite balance under Article 1 (P1-1) was not destroyed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "4. Recapitulation",
+                                        "elements": [
+                                            {
+                                                "content": "70. To sum up, each of the requirements of the second sentence was therefore satisfied in relation to the contested deprivation of possessions suffered by the applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C. First sentence of the first paragraph (\"the peaceful enjoyment rule\")",
+                                "elements": [
+                                    {
+                                        "content": "71. Alternatively and additionally, the applicants asserted a violation of their rights of peaceful enjoyment of property as guaranteed by the first sentence of Article 1 (P1-1).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The rule (in the second sentence) subjecting deprivation of possessions to certain conditions concerns a particular category, indeed the most radical kind, of interference with the right to peaceful enjoyment of property (see paragraph 37 in fine above); the second sentence supplements and qualifies the general principle enunciated in the first sentence. This being so, it is inconceivable that application of that general principle to the present case should lead to any conclusion different from that already arrived at by the Court in application of the second sentence.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D. Conclusion",
+                                "elements": [
+                                    {
+                                        "content": "72. Neither by reason of the terms and conditions of the Leasehold Reform Act 1967 as amended nor by reason of the particular circumstances of the enfranchisement transactions concerning the applicants\u2019 properties has there been a breach of Article 1 of Protocol No. 1 (P1-1).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II. ARTICLE 14 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLE 1 OF PROTOCOL NO. 1 (art. 14+P1-1)",
+                        "elements": [
+                            {
+                                "content": "73. The applicants claimed that they had been the victims of discrimination in the enjoyment of their right of property under Article 1 of Protocol No. 1 (P1-1). They alleged breach of Article 14 (art. 14) of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"The enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the applicants\u2019 submission, the leasehold reform legislation is discriminatory on the ground of \"property\" (\"fortune\" in the French text), in that, firstly, it is a measure redistributing property which applies only to a restricted class of property, that is long leasehold houses occupied by the leaseholders; and, secondly, the lower the value of his property the more harshly the landlord is treated.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A. Applicability",
+                                "elements": [
+                                    {
+                                        "content": "74. The Government argued that the contested legislation does not draw any distinction on the ground of \"property\", within the meaning of Article 14 (art. 14), since it is neither based nor applied on criteria of wealth.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The list of prohibited grounds of discrimination as set out in Article 14 (art. 14) is not exhaustive (see, as the most recent authority, the Rasmussen judgment of 28 November 1984, Series A no. 87, p. 13, para. 34 in fine). On the facts, the legislation does entail differences of treatment in regard to different categories of property owners in the enjoyment of the right safeguarded by Article 1 of Protocol No. 1 (P1-1). In the Court\u2019s opinion, the grounds on which those differences of treatment are based are relevant in the context of Article 14 (art. 14) of the Convention and, accordingly, Article 14 (art. 14) is applicable to the present case.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B. Compliance",
+                                "elements": [
+                                    {
+                                        "content": "75. For the purposes of Article 14 (art. 14), a difference of treatment is discriminatory if it has no objective and reasonable justification, that is, if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised (see, as the most recent authority, the above-mentioned Abdulaziz, Cabales and Balkandali judgment, Series A no. 94, pp. 35-36, para. 72). As in relation to the means for giving effect to the right of property, the Contracting States enjoy a certain margin of appreciation in assessing whether and to what extent differences in otherwise similar situations permit a different treatment in law (ibid.).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76. As to the applicants\u2019 first head of complaint, it was inevitable that the contested legislation, being designed to remedy a perceived imbalance in the relations between landlords and occupying tenants under the long leasehold system of tenure, should affect landlords coming within that restricted category rather than all or other property owners. The aim pursued by the legislation has been held by the Court to be a legitimate one in the public interest (see paragraphs 47 to 49 above). According to the applicants, however, that is not sufficient to justify the distinction since the legislation takes no account of the personal circumstances, and notably the respective resources and needs, of the landlord and the tenant. This amounts in substance to the same complaint, albeit seen from another angle, as that which has been examined under Article 1 of Protocol No. 1 (P1-1). In that context, the absence of a mechanism for inquiry into the details and individual merits of each proposed enfranchisement was not judged by the Court to have the consequence of rendering the operation of the legislation unacceptable (see paragraph 68 above). The Court sees no cause for arriving at a different conclusion in relation to Article 14 (art. 14) of the Convention: having regard to the margin of appreciation, the  legislature did not transgress the principle of proportionality. In the Court\u2019s opinion, therefore, the contested distinction drawn in the legislation is reasonably and objectively justified.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77. The second head of complaint must also be examined in the light of the Court\u2019s finding under Article 1 of Protocol No. 1 (P1-1) that the United Kingdom Parliament was entitled to consider the scheme embodied in the leasehold reform legislation as a reasonable and appropriate means for achieving the legitimate aim pursued. As the Commission pointed out, the distinctions drawn under the 1967 and 1974 Acts as to the availability of the right of enfranchisement and as to the levels of compensation (see paragraphs 21 and 23 above) have an objective basis in the rateable value of the property. The introduction of the rateable-value limits and the institution of two levels of compensation reflect Parliament\u2019s desire to exclude from the benefits of enfranchisement the small percentage of better-off tenants not considered to be in need of economic protection and to provide more favourable terms of purchase for the vast majority of tenants, most likely to suffer hardship under the existing system (see paragraph 19 above). In view of the legitimate objectives being pursued in the public interest and having regard to the respondent State\u2019s margin of appreciation, that policy of different treatment cannot be considered as unreasonable or as imposing a disproportionate burden on the applicants (see, mutatis mutandis, the Court\u2019s similar conclusion in the context of Article 1 of Protocol No. 1 (P1-1), paragraphs 52 and 56 above). The provisions in the legislation entailing progressively disadvantageous treatment for the landlord the lower the value of the property must be deemed to have a reasonable and objective justification and, consequently, are not discriminatory.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C. Conclusion",
+                                "elements": [
+                                    {
+                                        "content": "78. The Court, like the Commission, therefore finds that the facts of the present case do not disclose any breach of Article 14 of the Convention taken in conjunction with Article 1 of Protocol No. 1 (art. 14+P1-1).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III. ARTICLE 6 PARA. 1 (art. 6-1) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "79. The applicants also alleged violation of Article 6 para. 1 (art. 6-1) of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"In the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing ... by an independent and impartial tribunal established by law. ...\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "80. This complaint was new in that it was not pleaded before the Commission. It does have, however, an evident connection with the complaints examined by the Commission. Indeed, it recurs in another form in the arguments advanced under Article 1 of Protocol No. 1 and Articles 13 and 14 (P1-1, art. 13, art. 14) of the Convention (see paragraphs 68 and 76 above and paragraph 83 below); it concerns the very same facts which were the subject of the application declared admissible by the Commission and no preliminary objection going to the admissibility of this complaint was raised either by the Commission or by the Government. The Court thus considers that it has jurisdiction to entertain the matter (see, amongst others and mutatis mutandis, the Delcourt judgment of 17 January 1970, Series A no. 11, p. 20, para. 40, the B\u00f6nisch judgment of 6 May 1985, Series A no. 92, p. 17, para. 37).",
+                                "elements": []
+                            },
+                            {
+                                "content": "81. The applicants complained that under the scheme set up by the leasehold reform legislation landlords threatened with loss of their property have no means of challenging the tenants\u2019 right to enfranchise, once only the criteria laid down in the legislation are satisfied. In their submission, the fact that no question of individual merits, no question of hardship, is susceptible of review by any court or tribunal gives rise to a breach of Article 6 para. 1 (art. 6-1).",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 para. 1 (art. 6-1) extends only to \"contestations\" (disputes) over (civil) \"rights and obligations\" which can be said, at least on arguable grounds, to be recognised under domestic law; it does not in itself guarantee any particular content for (civil) \"rights and obligations\" in the substantive law of the Contracting States.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Confirmation of this analysis is to be found in the fact that Article 6 para. 1 (art. 6-1) does not require that there be a national court with competence to invalidate or override national law. In the present case, the immediate consequence of the British legislation in issue is that the landlord cannot challenge the tenant\u2019s entitlement to acquire the property compulsorily in so far as the acquisition is in conformity with the legislation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In the case of Sporrong and L\u00f6nnroth, upon which the applicants placed heavy reliance, the Court found Article 6 para. 1 (art. 6-1), firstly, to be applicable because there existed an arguable grievance of non-compliance with Swedish law (Series A no. 52, p. 30, para. 81) and, secondly, to have been violated because of the lack of a remedy whereby that grievance could be brought before \"a tribunal competent to determine all the aspects of the matter\" (in French: \"un tribunal jouissant de la pl\u00e9nitude de juridiction\") (ibid., p. 31, para. 87). In the present case in contrast, in so far as the applicants may have considered that there was cause for alleging non-compliance with the leasehold reform legislation, they had unimpeded access to a tribunal competent to determine any such issue (see paragraphs 24 and 25 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "82. There has accordingly been no breach of Article 6 para. 1 (art. 6-1) of the Convention in the present case.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV. ARTICLE 13 (art. 13) OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "83. The applicants also alleged breach of Article 13 (art. 13) of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\"Everyone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\"",
+                                "elements": []
+                            },
+                            {
+                                "content": "84. Article 13 (art. 13) requires that \"where an individual has an arguable claim to be the victim of a violation of the rights set forth in the Convention, he should have a remedy before a national authority in order both to have his claim decided and, if appropriate, to obtain redress\" (see the Silver and Others judgment of 25 March 1983, Series A no. 61, p. 42, para. 113). However, \"neither Article 13 (art. 13) nor the Convention in general lays down for the Contracting States any given manner for ensuring within their internal law the effective implementation of any of the provisions of the Convention\" (see the Swedish Engine Drivers\u2019 Union judgment of 6 February 1967, Series A no. 20, p. 18, para. 50). Although there is thus no obligation to incorporate the Convention into domestic law, by virtue of Article 1 (art. 1) of the Convention the substance of the rights and freedoms set forth must be secured under the domestic legal order, in some form or another, to everyone within the jurisdiction of the Contracting States (see the Ireland v. the United Kingdom judgment of 18 January 1978, Series A no. 25, p. 91, para. 239). Subject to the qualification explained in the following paragraph, Article 13 (art. 13) guarantees the availability within the national legal order of an effective remedy to enforce the Convention rights and freedoms in whatever form they may happen to be secured.",
+                                "elements": []
+                            },
+                            {
+                                "content": "85. The Convention is not part of the domestic law of the , nor does there exist any constitutional procedure permitting the validity of laws to be challenged for non-observance of fundamental rights. There thus was, and could be, no domestic remedy in respect of the applicants\u2019 complaint that the leasehold reform legislation itself does not measure up to the standards of the Convention and its Protocols. The Court, however, concurs with the Commission that Article 13 (art. 13) does not go so far as to guarantee a remedy allowing a Contracting State\u2019s laws as such to be challenged before a national authority on the ground of being contrary to the Convention or to equivalent domestic legal norms. The Court is therefore unable to uphold the argument to this effect advanced by the applicants.",
+                                "elements": []
+                            },
+                            {
+                                "content": "86. Adducing the same facts as in the context of Article 6 para. 1 (art. 6-1), the applicants also relied on Article 13 (art. 13) as regards the consequences entailed for them by the application of the leasehold reform legislation. The Court has found that legislation, including its effects in the applicants\u2019 case, to be compatible with the substantive provisions of the Convention. In such a situation, the requirements of Article 13 (art. 13) will be satisfied if there exists domestic machinery whereby the individual can secure compliance with the relevant laws (see the above-mentioned Silver and Others judgment, Series A no. 61, p. 44, para. 118). Effective remedies in this sense were and remain available to the applicants. In particular, disputes over a tenant\u2019s entitlement to acquire the freehold under the leasehold reform legislation and over related matters are within the jurisdiction of the County Court; and the purchase price payable is subject to determination, in default of agreement, by the local Leasehold Valuation Tribunal (or, formerly, the Lands Tribunal) (see paragraphs 24 and 25 above).",
+                                "elements": []
+                            },
+                            {
+                                "content": "87. The facts of the present case therefore disclose no violation of Article 13 (art. 13) of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "Holds that there has been no breach either of Article 1 of Protocol No. 1 (P1-1), whether taken on its own or in conjunction with Article 14 (art. 14+P1-1) of the Convention, or of Articles 6 para. 1 and 13 (art. 6-1, art. 13) of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English and in French, and delivered at a public hearing at the Human Rights Building, , on 21 February 1986.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The separate concurring opinions of the following judges are annexed to the present judgment in accordance with Article 51 para. 2 (art. 51-2) of the Convention and Rule 52 para. 2 of the Rules of Court:",
+                        "elements": []
+                    },
+                    {
+                        "content": "- opinion of Mr. Th\u00f3r Vilhj\u00e1lmsson (Article 1 of Protocol No. 1);",
+                        "elements": []
+                    },
+                    {
+                        "content": "- opinion of Mrs. Bindschedler-Robert, Mr. G\u00f6lc\u00fckl\u00fc, Mr. Matscher, Mr. Pettiti, Mr. Russo and Mr. Spielmann (Article 1 of Protocol No. 1);",
+                        "elements": []
+                    },
+                    {
+                        "content": "- opinion of Mrs. Bindschedler-Robert, Mr. G\u00f6lc\u00fckl\u00fc, Mr. Matscher and Mr. Spielmann (Article 13 of the Convention);",
+                        "elements": []
+                    },
+                    {
+                        "content": "- opinion of Mr. Pinheiro Farinha (Article 13 of the Convention);",
+                        "elements": []
+                    },
+                    {
+                        "content": "- opinion of Mr. Pettiti and Mr. Russo (Article 13 of the Convention).",
+                        "elements": []
+                    },
+                    {
+                        "content": "In the present case, I have voted with the other members of the Court. I am, however, unable to agree with what is stated in the judgment as to compensation (see paragraphs 53 to 57). To my regret, I have come to the conclusion that Article 1 of Protocol No. 1 (P1-1) does not embody a right to compensation in the event of expropriation of one\u2019s property.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The text of the Article (P1-1) makes no mention of compensation. In my opinion, that should have been done if part of its purpose had been to guarantee a right to compensation. The ordinary meaning of the text as it stands is therefore that it is not concerned with compensation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Should it nevertheless be felt necessary to confirm this meaning by recourse to supplementary means of interpretation, the travaux pr\u00e9paratoires point to the very same conclusion, namely that Article 1 (P1-1) does not confer a right to compensation. The relevant points are the following.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Committee of Ministers examined in November 1950 various amendments proposed by the Parliamentary Consultative Assembly to the draft Convention on Human Rights. When it became clear that immediate agreement could not be reached with regard to certain matters, it was decided that they should be removed from the draft and submitted to a committee of experts for further study. One of these matters was the right to property. The amendment proposed by the Assembly did not speak of compensation. In spite of that, the majority of the member States considered that compensation should be guaranteed and accordingly the text of the expert committee contained words to that effect (see the Collected Edition of the \"Travaux pr\u00e9paratoires\", volume VII, pages 208 and 223-224). A number of Governments, however, could not agree to the inclusion in the Convention of the principle of compensation and reference to it was thereafter deleted from the text. A short account of how the text changed during the drafting period is given in the commentary of 18 September 1951 by the Secretary General (loc. cit., volume VIII, pages 4-10).",
+                        "elements": []
+                    },
+                    {
+                        "content": "In view of all this, I am bound to draw the conclusion that the object and purpose of Article 1 of the Protocol (P1-1) did not go so far as to include a guarantee of a right to compensation. Even if the Convention is to be interpreted in the light of present-day conditions, I fail to see any development which could justify now another interpretation of the Article (P1-1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "In paragraph 66, the judgment affirms that the general principles of international law are not applicable to a taking by a State of the property of its own nationals.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It must, however, be acknowledged that the reasoning set out in paragraphs 60 to 65 is, taken globally, far from convincing, even though it does contain some not insignificant arguments (for example, the reference to the drafting history in paragraph 64. Nevertheless it should be remembered that it is often dangerous to place too much reliance on such history).",
+                        "elements": []
+                    },
+                    {
+                        "content": "Be this as it may, the thesis accepted by the judgment leads to a difference in the treatment of nationals and aliens under the Convention, which plainly conflicts with both the underlying spirit and the general scheme of the Convention (see Article 1) (art. 1). The rare exceptions to this principle are always either expressly stated (cf. for example, Article 16 of the Convention and Articles 3 and 4 of Protocol No. 4) (art. 16, P4-3, P4-4), or dealt with in a way which leaves no room for doubt (for example, Article 5 para. 1 (f) of the Convention) (art. 5-1-f).",
+                        "elements": []
+                    },
+                    {
+                        "content": "The judgment does not give a satisfactory answer to this question, which we think is of fundamental importance for the interpretation of the Convention. We are even of the opinion that the arguments developed in paragraphs 61 and 63 are weak and that, generally speaking, the principles of interpretation on which the judgment is based deal merely with points of detail.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Moreover, it must not be forgotten that in the various Contracting States, legal opinion is extremely divided on the issue in question and that, at present, there is growing support for those who consider that the general principles of international law are applicable to nationals under Article 1 of Protocol No. 1 (P1-1).",
+                        "elements": []
+                    },
+                    {
+                        "content": "The elasticity of the general principles of international law in this area can also be seen from a number of international arbitration awards which apply them in a flexible manner to nationalisations by third-world developing States.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In these circumstances, we would have preferred it if the issue had not been settled in this judgment, especially as it is not decisive for the final conclusion arrived at in the judgment. On the one hand, it is accepted that the general principles of international law (the content of which is, moreover, uncertain) seem to require no more than adequate compensation in the case of expropriation for the purpose of social and economic reforms. On the other hand, it is recognised that Article 1 of Protocol No. 1 (P1-1) in principle requires some measure of compensation in order to achieve a fair balance between the interests of society and the sacrifices imposed on private individuals.",
+                        "elements": []
+                    },
+                    {
+                        "content": "We know that Article 13 (art. 13) is one of the most ambiguous Articles in the Convention and that the Court\u2019s doctrine with regard to its application is not yet firmly established. Nevertheless, in its previous decisions the Court has endeavoured to define the scope of this Article (art. 13) (see the Klass and Others judgment, paras. 63 et seq., the Silver and Others judgment, para. 113, and the Sporrong and L\u00f6nnroth judgment, para. 88).",
+                        "elements": []
+                    },
+                    {
+                        "content": "One of the most difficult problems raised by its interpretation concerns the perpetrators of the alleged violation of a substantive provision of the Convention, against whom Article 13 (art. 13) guarantees a remedy before a national authority. The provision in question does not contain any limitation in this respect. According to a literal reading of the wording, such a remedy ought to exist even when the alleged violation results from the operation of a statute, which is tantamount to saying that under Article 13 (art. 13) it should be possible for the private individual in question to institute proceedings before a national authority even against national legislation thought to be incompatible with the Convention. This opinion has been expressed in several recent judgments of the Court (see the Silver and Others judgment, paras. 118 and 119, the  and Fell judgment, para. 127, and the Abdulaziz, Cabales and Balkandali judgment, para. 93).",
+                        "elements": []
+                    },
+                    {
+                        "content": "Yet it seems fairly improbable that those drafting the Convention intended the scope of Article 13 (art. 13) to extend to this point as, when the Convention was ratified, only a few Contracting States made legislative provision for private individuals to test the constitutionality of a statute (or its compatibility with the Convention), and this is still the position. It therefore seems that the judgment is right in holding (in paragraph 85) that Article 13 (art. 13) does not go so far as to guarantee a remedy allowing a \u2019s laws as such to be challenged before a national authority on the ground of being contrary to the Convention. However, an observation of this kind, which amounts to a restrictive construction (in French: \"r\u00e9duction terminologique\") of Article 13 (art. 13), ought not to be limited to a mere assertion, without providing at least an indication of the justifying reasons, especially as the contrary principle, which is consonant with the letter of Article 13 (art. 13), has been propounded in some earlier judgments.",
+                        "elements": []
+                    },
+                    {
+                        "content": "A brief separate opinion is not the place to remedy this omission. We will therefore restrict ourselves to outlining the main reasons, which ought to be explained in greater detail in a future judgment, when the occasion arises.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1. As we have already pointed out, the existing legislation in most of the Contracting States supports a restrictive interpretation of the scope of Article 13 (art. 13).",
+                        "elements": []
+                    },
+                    {
+                        "content": "2. From the wording of Article 13 (art. 13) itself, when it refers to violations committed by persons acting in an official capacity, it is also permissible to infer that this provision has primarily in mind possible violations of the Convention committed by entities belonging to the executive or the judiciary.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It was reasoning along these lines which allowed us to agree with the judgment also in respect of the finding under Article 13 (art. 13).",
+                        "elements": []
+                    },
+                    {
+                        "content": "To conclude, we would stress that we are not at all convinced by the argument that it would be inconsistent with the sovereignty of Parliament if its Acts were subject to review by another national authority, since, on the one hand, as a matter of international law, there is no longer any doubt as to the State\u2019s responsibility even for Acts passed by its legislature, and, on the other hand, the legislation of a number of States provides for judicial control of Acts of Parliament by a constitutional court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1. I agree with the majority as regards the findings of the judgment. I also accept the reasoning contained in the judgment, except for paragraph 85.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2. The Convention sets forth a collective guarantee of certain rights, for example in Article 13 (art. 13) which provides:",
+                        "elements": []
+                    },
+                    {
+                        "content": "The violation of the rights conferred by the Convention may be caused by the law itself and the acts complained of may be in accordance with the domestic law, in other words not be due to an improper application of the law. In this case (and I see no reason to make an exception for the acts of the legislature), there must be a national authority and it must have jurisdiction to deal with the violation.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Court itself has already adopted this position in the case of Silver and Others, the case of Abdulaziz, Cabales and Balkandali and the case of  and Fell.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3. In the instant case, since \"the Court has found [the contested] legislation ... to be compatible with the substantive provisions of the Convention and its Protocols,\" what I have just said does not prevent me from concluding that, for the reasons stated in paragraph 86 of the judgment, \"the facts of the present case therefore disclose no violation of Article 13 (art. 13) of the Convention\".",
+                        "elements": []
+                    },
+                    {
+                        "content": "We recognise the difficulty of construing Article 13 (art. 13); indeed this difficulty explains the differences of opinion within the Court. Nevertheless, we continue to prefer the Court\u2019s traditional doctrine on the interpretation of Article 13 (art. 13) (see especially the Silver and Others judgment, the  and Fell judgment, and the Abdulaziz, Cabales and Balkandali judgment). If the Court had cause to change its doctrine on this point (which we do not consider necessary), more detailed reasons should have been given than those adopted in the present judgment.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Mr. R. Ryssdal",
+            "role": "president"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF JAMES AND OTHERS v. THE UNITED KINGDOM",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-57507.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:1986:0221JUD000879379",
+    "externalsources": [
+        "Leasehold Reform Act 1967, as amended",
+        "1974 Act amending the Leasehold Reform Act 1967",
+        "Leasehold Reform in England and Wales - Command Paper Cmnd 2916 (1966 White Paper)",
+        "1969 Vienna Convention on the Law of Treaties, Articles 33 para. 4, 31, 32",
+        "Travaux pr\u00e9paratoires of the European Convention on Human Rights",
+        "Committee of Ministers, Resolution (52) 1 of 19 March 1952",
+        "Supreme Court of the United States of America, Hawaii Housing Authority v. Midkiff 104 S.Ct.2321 [1984]"
+    ],
+    "extractedappno": [
+        "8793/79"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [
+        "Leasehold Reform Act 1967, as amended"
+    ],
+    "itemid": "001-57507",
+    "judgementdate": "21/02/1986 00:00:00",
+    "kpdate": "21/02/1986 00:00:00",
+    "kpthesaurus": [
+        "343",
+        "100",
+        "369",
+        "321",
+        "94",
+        "387",
+        "168",
+        "304",
+        "445",
+        "7",
+        "41",
+        "444",
+        "110",
+        "448",
+        "339"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "15",
+    "paragraphs": [
+        "14",
+        "6",
+        "13",
+        "6-1",
+        "5",
+        "5-1",
+        "P1-1-1",
+        "P1-1"
+    ],
+    "parties": [
+        "JAMES AND OTHERS",
+        "THE UNITED KINGDOM"
+    ],
+    "rank": "247.024536132813",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "GBR",
+    "respondentOrderEng": "49",
+    "scl": [
+        "Ashingdane judgment of 28 May 1985, Series A no. 93, pp. 24-25, paras. 59, 57",
+        "Marckx judgment of 13 June 1979, Series A no. 31, pp. 27-28, para. 63",
+        "Sporrong and L\u00f6nnroth judgment of 23 September 1982, Series A no. 52, pp. 24, 26, 28, 30, 31, paras. 61, 69, 73, 81, 87",
+        "Sunday Times judgment of 26 April 1979, Series A no. 30, p. 30, para. 48",
+        "Handyside judgment of 7 December 1976, Series A no. 24, p. 22, para. 48",
+        "Klass and Others judgment of 6 September 1978, Series A no. 28, p. 23, para. 49",
+        "Abdulaziz, Cabales and Balkandali judgment of 28 May 1985, Series A no. 94, pp. 35-36, para. 72",
+        "Malone judgment of 2 August 1984, Series A no. 82, pp. 32-33, paras. 67, 66-68",
+        "Rasmussen judgment of 28 November 1984, Series A no. 87, p. 13, para. 34",
+        "Delcourt judgment of 17 January 1970, Series A no. 11, p. 20, para. 40",
+        "B\u00f6nisch judgment of 6 May 1985, Series A no. 92, p. 17, para. 37",
+        "Silver and Others judgment of 25 March 1983, Series A no. 61, pp. 42, 44, paras. 113, 118",
+        "Swedish Engine Drivers' Union judgment of 6 February 1976, Series A no. 20, p. 18, para. 50",
+        "Ireland v. United Kingdom judgment of 18 January 1978, Series A no. 25, p. 91, para. 239"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "447385",
+    "typedescription": "14"
+}

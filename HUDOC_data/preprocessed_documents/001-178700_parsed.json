@@ -1,0 +1,1305 @@
+{
+    "__articles": "6;6-1;6-2;6-3-a;6-3-b;7;7-1;35;35-3-a",
+    "__conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione personae;No violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Criminal charge;Fair hearing;Impartial tribunal;Independent tribunal);No violation of Article 7 - No punishment without law (Article 7-1 - Nullum crimen sine lege)",
+    "applicability": "",
+    "appno": "66847/12",
+    "article": [
+        "6",
+        "35",
+        "7"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Art. 35"
+            ],
+            "element": "Remainder inadmissible",
+            "type": "other"
+        },
+        {
+            "details": [
+                "Art. 35-3-a"
+            ],
+            "element": "Admissibility criteria",
+            "type": "other"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Criminal charge",
+                "Fair hearing",
+                "Impartial tribunal",
+                "Independent tribunal"
+            ],
+            "element": "No violation of Article 6 - Right to a fair trial",
+            "type": "no-violation"
+        },
+        {
+            "article": "7",
+            "base_article": "7",
+            "details": [
+                "Article 7-1 - Nullum crimen sine lege"
+            ],
+            "element": "No violation of Article 7 - No punishment without law",
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-178700.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 66847/12) against the Republic of Iceland lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Icelandic national, Mr Geir Hilmar Haarde (\u201cthe applicant\u201d), on 17 October 2012.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Mr Andri \u00c1rnason, a lawyer practising in Reykjav\u00edk. The Icelandic Government (\u201cthe Government\u201d) were represented by their Agent, Mr Kristj\u00e1n Andri Stef\u00e1nsson, Ministry for Foreign Affairs.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant alleged that the impeachment proceedings against him and his conviction had violated his rights under Article 6 and 7 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 11 November 2013 the application was communicated to the Government. The Government and the applicant submitted written observations on the admissibility and merits of the case.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Mr Robert Spano, the judge elected in respect of Iceland, withdrew from the case (Rule 28 of the Rules of Court). Accordingly, Ms Hj\u00f6rd\u00eds Bj\u00f6rk H\u00e1konard\u00f3ttir was appointed to sit as an ad hoc judge (Article 26 \u00a7\u00a04 of the Convention and Rule 29 \u00a7 1).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicant was born in 1951 and lives in Reykjav\u00edk.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The applicant was a member of the Icelandic Parliament (Althingi) during the years 1987 to 2009. He served as Minister of Finance in the years 1998 to 2005, Minister for Foreign Affairs from 2005 to 2006 and Prime Minister from 2006 to 2009. After Parliamentary elections in May 2007 the applicant led the government which was formed by the Independence Party (Sj\u00e1lfst\u00e6\u00f0isflokkurinn), of which he was a member, and the Social Democratic Alliance (Samfylkingin).",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0In the beginning of October 2008 the Icelandic banking system collapsed. On 6 October 2008 the applicant proposed a bill to Parliament which, on the same day, was adopted as the Act on the Authority for Treasury Disbursements due to Unusual Financial Market Circumstances etc. (L\u00f6g um heimild til fj\u00e1rveitingar \u00far r\u00edkissj\u00f3\u00f0i vegna s\u00e9rstakra a\u00f0st\u00e6\u00f0na \u00e1 fj\u00e1rm\u00e1lamarka\u00f0i ofl., no. 125/2008). Among other things, it authorised the Financial Supervisory Authority (Fj\u00e1rm\u00e1laeftirliti\u00f0) to intervene in the operations of financial undertakings. On 7 and 9 October 2008 the authority seized control of Iceland\u2019s three largest banks, Landsbanki \u00cdslands hf., Glitnir banki hf. and Kaup\u00feing banki hf.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0In December 2008 Parliament established a Special Investigation Commission (Ranns\u00f3knarnefnd Al\u00feingis, hereinafter \u201cthe SIC\u201d) to investigate and analyse the processes leading to, as well as the causes of, the collapse of the above-mentioned banks. According to section 1 of the Special Investigation Commission Act (L\u00f6g um ranns\u00f3kn \u00e1 a\u00f0draganda og ors\u00f6kum falls \u00edslensku bankanna 2008 og tengdra atbur\u00f0a, no. 142/2008; hereinafter \u201cthe SIC Act\u201d), one of the Commission\u2019s objectives was to assess whether mistakes or negligence had occurred in the course of implementing laws and rules in respect of financial activities in Iceland and regulatory inspection in that field and, if so, who might be responsible. While its role was not to investigate potential criminal conduct, the SIC should inform the State Prosecutor of any suspicions of criminal activities having taken place as well as any potential breaches of official duty. The SIC made an extensive investigation during which it collected information from individuals, financial institutions and public institutions, conducted formal hearings with 147 individuals and meetings with a further 183 individuals.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The applicant testified before the SIC on 2 and 3 July 2009. On 8\u00a0February 2010 the SIC informed him that it considered that he had acted negligently and invited him to submit a written statement in reply, which he did on 24 February 2010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On 12 April 2010 the SIC issued its report which contained a detailed description of the causes of the collapse of the Icelandic banks as well as serious criticism of the acts and omissions of a number of public officials and institutions. This included the applicant and two other ministers from his cabinet, the Minister of Finance, Mr \u00c1rni M. Mathiesen from the Independence Party, and the Minister of Business Affairs, Mr\u00a0Bj\u00f6rgvin G. Sigur\u00f0sson from the Social Democratic Alliance, who were found to have shown negligence by omitting to respond in an appropriate fashion to the impending danger for the Icelandic economy that was caused by the deteriorating situation of the banks.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0In the meantime, on 26 January 2009, the government led by the applicant resigned and on 1 February 2009 the Social Democratic Alliance and the Left-Green Movement (Vinstrihreyfingin \u2013 gr\u00e6nt frambo\u00f0) formed a government. Those two parties gained a majority of seats in Parliament in the subsequent elections on 25 April 2009.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0In 2009 Parliament passed an amendment to the SIC Act according to which it was to elect an ad hoc parliamentary review committee (\u00deingmannanefndin; hereafter \u201cthe PRC\u201d) \u201cto address the report of the SIC on the collapse of the banks, and form recommendations as to Parliament\u2019s response to the SIC\u2019s conclusions\u201d. It was also to adopt a position on ministerial accountability and assess whether there were grounds for impeachment proceedings before the Court of Impeachment (Landsd\u00f3mur) for violations of the Ministerial Accountability Act (L\u00f6g um r\u00e1\u00f0herra\u00e1byrg\u00f0, no. 4/1963). The PRC was established on 30 December 2009 and was composed of nine members of Parliament representing all the parliamentary party groups. It commenced work on 15 January 2010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The PRC examined the SIC report, held 54 meetings and multiple informal working meetings. It received several expert opinions on ministerial liability from professors as well as the former state prosecutor and Ms Sigr\u00ed\u00f0ur J. Fri\u00f0j\u00f3nsd\u00f3ttir, then deputy state prosecutor. Ms\u00a0Fri\u00f0j\u00f3nsd\u00f3ttir attended five meetings of the PRC and expressed her opinions on the potential charges against ministers, the penal provisions that might apply, the evidence that could be relevant and the rules and content pertaining to an indictment. She also submitted a draft text for part of an indictment. The PRC further collected original documents relating to the ministers\u2019 duties which were mentioned in the SIC report, inter alia letters, notes, minutes, emails from the Government Offices and the Central Bank of Iceland and minutes from meetings of the consultative group on financial stability and contingency planning. On 18 May 2010 the PRC sent letters to 16 individuals, including the applicant, who had held office as ministers during the period covered by the SIC report, asking them to submit comments and information regarding the report\u2019s conclusions. The committee received replies from 14 individuals, including the applicant who submitted his reply by letter of 7 June 2010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On 11 September 2010 the PRC submitted a proposal for a parliamentary resolution to commence impeachment proceedings against four cabinet members: the three mentioned above (including the applicant) and Ms Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir, who was the former Minister of Foreign Affairs and the head of the Social Democratic Alliance. The proposal listed six points of alleged negligent behaviour, corresponding to the counts in the eventual indictment issued against the applicant (see paragraph 23 below). The applicant was considered to have been negligent in all six respects, whereas the other three ministers were deemed responsible only in respect of five of the points (excluding what was to become count 1.3 in the applicant\u2019s indictment). The proposal was presented as a whole but Parliament decided to vote on each former minister separately. In a resolution of 28 September 2010, by 33 votes to 30, it approved the PRC\u2019s proposal to commence impeachment proceedings against the applicant. With similar small majorities, the votes concerning the other former ministers led to the conclusion that they should not be indicted.",
+                                "elements": []
+                            },
+                            {
+                                "content": "All 15 members of the Left-Green Movement and all three members of The Movement (Hreyfingin) voted in favour of impeachment of each of the four former ministers and all 16 members of the Independence Party voted against the proposal. Six of the nine members of the Progressive Party (Frams\u00f3knarflokkurinn) voted in favour of impeachment of all the ministers and three members voted against. As regards the members of the Social Democratic Alliance, one of its 20 members voted in favour of impeachment of each of the ministers and 11 members voted against in respect of all of them. The remaining eight Social Democratic members were the only ones that cast differing votes in regard to the four ministers: the applicant \u2013 eight in favour of impeachment; Mr Mathiesen \u2013 six; Ms\u00a0G\u00edslad\u00f3ttir \u2013 four; and Mr Sigur\u00f0sson \u2013 two.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On the same day, 28 September 2010, the applicant designated a lawyer for his defence. On 30 September he was formally notified of the result of the voting in Parliament. The Parliament resolution, containing the exact points of indictment, the PRC\u2019s proposal and an explanatory memorandum with the reasons for the proposal, was made available on the website of the Parliament.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 12 October 2010 Parliament appointed Ms Fri\u00f0j\u00f3nsd\u00f3ttir to prosecute the case on its behalf. It also appointed a parliamentary committee to assist her and to monitor the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0The Court of Impeachment constituted to adjudicate the case was composed, in accordance with section 2 of the Court of Impeachment Act (see paragraph 44 below). Thus, five members of the court were judges of the Supreme Court, one was a judge of the District Court (H\u00e9ra\u00f0sd\u00f3mur) of Reykjav\u00edk, and one was a professor at the Law Faculty of the University of Iceland. The latter member was, on 1 September 2011, appointed as justice of the Supreme Court, but continued to sit on the Court of Impeachment in his original capacity. The remaining eight members of the Court of Impeachment were lay judges appointed by Parliament.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0Following the applicant\u2019s request by letter of 15 November 2010 the Court of Impeachment, on 30 November 2010, appointed the applicant\u2019s lawyer as his defence counsel. The applicant claims that he and his lawyer had made such a request on several earlier occasions. However, no evidence thereof has been submitted in the present case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "20.\u00a0\u00a0According to Parliament\u2019s prosecutor (see paragraph 28 below) she invited, by a letter of 9 December 2010, the applicant\u2019s counsel to make comments or request that further information be collected. It appears that counsel did not make any comments or requests in reply.",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0Following decisions of the Court of Impeachment of 22 March 2011 and the District Court of 24 March 2011, the prosecutor was given access to documents and information, including documents from the SIC database, statements given before the SIC as well as correspondence from the applicant\u2019s former work email. She conducted a research into these documents but did not hear the applicant or any witnesses during her investigation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0On 11 April 2011 the applicant\u2019s counsel was provided with a USB memory stick containing the documents which the prosecutor had obtained from the SIC database.",
+                                "elements": []
+                            },
+                            {
+                                "content": "23.\u00a0\u00a0On 10 May 2011 the applicant was indicted, in accordance with the Parliamentary resolution of 28 September 2010:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.1\u00a0\u00a0For having shown serious neglect of his duties as Prime Minister in the face of major danger looming over Icelandic financial institutions and the State Treasury, a danger of which he was or ought to have been aware and would have been able to respond to by initiating measures, legislation, general governmental instructions or governmental decisions on the basis of current law, for the purpose of avoiding foreseeable danger to the fortunes of the State.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.2\u00a0\u00a0For having failed to take initiative, either by taking measures of his own or by proposing measures to other ministers, to the effect that there would be a comprehensive and professional analysis within the administrative system of the financial risk faced by the State because of the risk of financial crisis.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.3\u00a0\u00a0For having neglected to ensure that the work and emphasis of a consultative group of the Government of financial stability and preparedness, which was established in 2006, were purposeful and produced the desired results.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.4\u00a0\u00a0For having neglected to take initiative on active measures on behalf of the State to reduce the size of the Icelandic banking system by, for example, advocating that the banks reduce their balance sheets or that some of them move their headquarters out of Iceland.",
+                                "elements": []
+                            },
+                            {
+                                "content": "1.5\u00a0\u00a0For not having followed up and assured himself that active measures were being taken in order to transfer Landsbanki \u00cdslands hf.\u2019s Icesave accounts in Britain to a subsidiary, and then to look for ways to enable this to happen with the active involvement of the State.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The above-specified conduct is deemed subject to section 10(b), cf. section 11, of Act no. 4/1963 [on Ministerial Responsibility], and, alternatively, section 141 of the General Penal Code, no. 19/1940.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.",
+                                "elements": []
+                            },
+                            {
+                                "content": "For having, during the above-mentioned period [February 2008 \u2013 October 2008] failed to implement what is directed in Article 17 of the Constitution of the Republic on the duty to hold ministerial meetings on important government matters. During this period there was little discussion at ministerial meetings of the imminent danger; there was no formal discussion of it at ministerial meetings, and nothing was recorded about these matters at the meetings. There was nevertheless specific reason to do so, especially after the meeting on 7 February 2008 between him, Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttur, \u00c1rni M. Mathiesen and the Chairman of the Board of Governors of the Central Bank of Iceland; after his and Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir\u2019s meeting on 1\u00a0April 2008 with the Board of Governors of the Central Bank of Iceland; and following a declaration to the Swedish, Danish and Norwegian Central Banks, which was signed on 15 May 2008. The Prime Minister did not initiate a formal ministerial meeting on the situation nor did he provide the Government with a separate report on the problem of the banks or its possible effect on the Icelandic State.",
+                                "elements": []
+                            },
+                            {
+                                "content": "This is deemed to fall under section 8(c), cf. section 11, of Act no. 4/1963, and, alternatively, section 141 of the General Penal Code, no. 19/1940.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "24.\u00a0\u00a0Also on 10 May 2011 an amendment to the Court of Impeachment Act (L\u00f6g um landsd\u00f3m, no. 3/1963) entered into force, according to which the judges \u201cwho hold seat on [the court] when Parliament has decided to impeach a minister, and their substitutes, shall complete the case although their term has expired\u201d. According to the bill introducing the amendment, this was to avoid disruption of a judge\u2019s examination of an ongoing case. As a consequence, the six-year term of office of the court\u2019s eight lay judges, who had been appointed by Parliament on 11 May 2005, was extended until the conclusion of the proceedings against the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "25.\u00a0\u00a0The case was filed by the prosecution with the Court of Impeachment on 7 June 2011. The prosecution argued, inter alia, in respect of count 2 of the indictment, that the matter of the banking system and the risk of financial crisis had been important government matters and could hardly have been more important. Storm clouds had been gathering since before the beginning of the period to which the indictment related and the applicant had known or ought to have known where things were headed. Thus, this matter should have been discussed at ministerial meetings as prescribed by Article 17 of the Constitution which should be interpreted according to its words (see paragraph 42 below). The prosecution objected to the applicant\u2019s argument that a constitutional custom had developed to the effect that only matters under Article 16 of the Constitution should be discussed in ministerial meetings under Article 17, and even if such custom existed, it could not override a clear provision of the Constitution. Furthermore, a breach against Article 17 had substantive consequences since, if cabinet meetings were not convened on urgent problems, the opportunity to respond clearly would be lessened. It had been apparent that important government matters had not been discussed by the cabinet and the knowledge that the defendant had demonstrably possessed had not been reported to the ministers. The applicant\u2019s violation according to count 2 of the indictment was a conduct offence and punishable irrespective of the consequences or risks attributable to the conduct.",
+                                "elements": []
+                            },
+                            {
+                                "content": "26.\u00a0\u00a0The applicant challenged the impartiality and independence of the eight judges appointed by Parliament, mainly on the ground that Parliament had extended their term by having enacted the above-mentioned legislation. By its ruling on 10 June 2011, the Court of Impeachment rejected the petition, finding that the legislator had pursued a legitimate aim and that the measure had been proportionate vis-\u00e0-vis the applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "27.\u00a0\u00a0On 5 September 2011 the applicant lodged a request to have the case dismissed, relying, among other things, on Article 6 of the Convention. He claimed that the investigation in the case had been manifestly defective, inter alia as the investigation conducted by the SIC had not been criminal in nature, the SIC having no such mandate, and as no real investigative measures had been undertaken by the PRC or the prosecutor. He had not been questioned or invited to respond to the accusations, neither before Parliament\u2019s resolution nor before the prosecutor issued her indictment. He also challenged the impartiality of the prosecutor due to her involvement in Parliament\u2019s preparation of the decision to indict him, during which she had been repeatedly consulted by the PRC and had allegedly expressed her opinion on his potential responsibility under the Ministerial Accountability Act. The applicant further maintained that his chance of preparing a proper defence was compromised as the counts of the indictment were undefined and only described in general terms his alleged criminal conduct and the criminal provisions under which that conduct was subsumed were unclear and discretionary. Also the rules governing the impeachment proceedings and the penal provisions of the Ministerial Accountability Act and other invoked legislation were, in his view, so unclear that due process could not be ensured. Finally, he asserted that the decision by Parliament to bring proceedings against him alone had been taken on purely arbitrary and political grounds and thus did not treat him equally with other ministers originally subject to the investigation in the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "28.\u00a0\u00a0The prosecutor contested the applicant\u2019s request, maintaining, inter alia\u00b8 that, in view of the thorough gathering of material by the SIC, there had been no need for an independent collection of evidence by the PRC, which was supposed to base its work on the report of the SIC. Moreover, the applicant\u2019s defence counsel had not asked that the applicant be heard during the investigative stage, although such an opportunity was provided by section 16(2) of the Court of Impeachment Act and the prosecutor had invited him, by a letter of 9 December 2010, to make comments or request further information to be collected. With respect to the applicant\u2019s challenge against her impartiality, the prosecutor objected to the assertion that she had expressed an opinion on the applicant\u2019s potential criminal liability. She further claimed that the counts of the indictment were not unclear or worded in general terms, pointing out that further specifications in regard to several counts were found in the explanatory memorandum accompanying Parliament\u2019s resolution and that, additionally, count 2 of the indictment provided explanatory examples of events that had given reason to discuss the imminent financial crisis at ministerial meetings. The prosecutor also disagreed with the applicant\u2019s contention that the applicable procedural or criminal provisions were unclear. As for the alleged unequal treatment by Parliament when deciding to charge the applicant but not the other ministers, she stated that the majority of its members, bound only by their own conviction, had found that the facts of the case up until that point were likely to lead to a conviction of the applicant but not the others.",
+                                "elements": []
+                            },
+                            {
+                                "content": "29.\u00a0\u00a0By a decision of 3 October 2011 the Court of Impeachment upheld the applicant\u2019s motion for dismissal in so far as it concerned counts 1.1 and 1.2 of the indictment, but rejected the remainder of the request. It noted that Parliament held the authority to bring cases against a minister and that its review committee, the PRC, had obtained, inter alia, various evidence referred to in the SIC report and written statements from several ministers, including the applicant, before finding that there was enough evidence for a parliamentary resolution to commence proceedings against the applicant. Parliament\u2019s handling of the matter had been in compliance with relevant legislation and its resolution to commence impeachment proceedings had not prevented the appointed prosecutor from investigating the case further and gathering new evidence. Indeed, the prosecutor had continued the investigation of the case before issuing the indictment against the applicant. Moreover, judgment in a criminal case should be based on evidence presented in court, including the testimonies of witnesses. If there were insufficient support for the charges against the defendant, he would be acquitted of the charges, a more favourable outcome for him than a dismissal, which could lead to possible shortcomings being remedied and a new indictment being issued.",
+                                "elements": []
+                            },
+                            {
+                                "content": "As regards the involvement of the prosecutor, the court referred to the general rules of pre-trial investigation under the Criminal Procedure Act (L\u00f6g um me\u00f0fer\u00f0 sakam\u00e1la, no. 88/2008), according to which he or she is authorised to take various measures, including the collection of information and the making of decisions affecting the position of a suspect. Such intervention by the prosecutor did not affect his or her eligibility to handle the case later, such as by deciding whether to indict and bring the case to court. In line with this, the advice given to the PRC by the person subsequently appointed prosecutor could not lead to her disqualification in the case, even less so since Parliament held the authority to decide whether to indict and to determine the content of the indictment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "With respect to the content of the indictment, the court found that it generally complied with the form and structure prescribed by the Criminal Procedure Act and that it did not show such shortcomings that the entire case should be dismissed. As for counts 1.3, 1.4, 1.5 and 2, the court considered that there was no doubt as to what conduct was the subject of the indictment and how it was deemed punishable by law. However, the conduct imputed to the applicant in counts 1.1 and 1.2 had not been specified with sufficient clarity and these charges were accordingly dismissed.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The court went on to find that the procedure in impeachment proceedings was unambiguous and foreseeable, the Court of Impeachment Act containing a few special provisions and the proceedings being, in all other respects, governed by the rules of general application laid down in the Criminal Procedure Act. Furthermore, the penal provisions invoked by the prosecution were worded in such a way that they could be interpreted on the basis of objective criteria and were clear enough to enable a proper defence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Finally, in regard to the fact that Parliament had voted to bring proceedings exclusively against the applicant, the court noted that, under the Constitution, members of Parliament were bound only by their own conviction. Moreover, the resolution adopted by Parliament, as the holder of authority to decide on prosecution in impeachment cases, was not subject to review by the court in such a manner as might lead to the dismissal of the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "30.\u00a0\u00a0Subsequently, the applicant submitted written pleadings to the Court of Impeachment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "31.\u00a0\u00a0The public hearing in the case commenced on 5 March 2012. It started with the formal testimony of the applicant, the first statement he gave since the charges had been brought against him. During the hearing, which lasted until 16 March, written evidence was produced and 40 witnesses gave evidence before the court. The applicant attended all sessions. On 13 March the applicant testified for a second time. Oral pleadings by the lawyers for the applicant and the prosecution were made on 15 and 16 March.",
+                                "elements": []
+                            },
+                            {
+                                "content": "32.\u00a0\u00a0By a judgment of 23 April 2012 the Court of Impeachment unanimously acquitted the applicant of counts 1.3, 1.4 and 1.5 of the indictment, finding that the prosecution had not established that the actions which he was accused of having neglected could or would have averted the danger facing the Icelandic financial institutions and the State treasury or reduced it considerably. As for certain negligence imputed to him by the prosecution, the court considered that it related to actions that were not among his duties. However, by nine votes to six, the majority consisting of five professional judges and four lay judges, the Court of Impeachment found the applicant guilty in respect of count 2. The court considered it established that major danger had been threatening the Icelandic commercial banks and the State Treasury as early as February 2008 and that the applicant had to have been aware of that danger. However, basing itself on the minutes of 52 ministerial meetings held between 1 February and 6\u00a0October 2008 and the testimony of the applicant and the witnesses, in particular five ministers who had held a seat in the government in 2008, the court found that this matter had not been discussed during the meetings, apart from the last four meetings, on 30 September and on 3, 5 and 6\u00a0October. It therefore concluded that the applicant had failed to comply with the duty set out in Article 17 of the Constitution to hold ministerial meetings on \u201cimportant government matters\u201d.",
+                                "elements": []
+                            },
+                            {
+                                "content": "33.\u00a0\u00a0As to the criminal liability under the Ministerial Accountability Act, the court generally stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe accountability provided for in Article 14 of the Constitution and Article 1 of [the Ministerial Accountability Act] represents an addition to the parliamentary and political responsibility borne by a minister towards Parliament in respect of the discharge of his duties of office on the basis of parliamentary rule. Even though parliamentary responsibility places great restraint on a minister, the Constitution assumes that a breach in office on his part may entail criminal liability, as further laid down by law. When comparing these two kinds of responsibility it must be concluded that only serious wrongs on the part of the minister committed in office would lead to his punishment. Accordingly, the sole matter of his conduct being worthy of criticism or blame cannot suffice for invoking the legal accountability in question, so that more grave matters must be in issue. It is then determined by an assessment of all facts whether certain conduct is considered serious enough to be subject to punishment, either pursuant to [the Ministerial Accountability Act] or the general penal code, cf.\u00a0section 1(2) of the aforementioned Act.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "34.\u00a0\u00a0The court went on to make the following remarks about section 8(c) of the Ministerial Accountability Act:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAccording to section 8(c) of [the Act] it is punishable if a minister, apart from the incidents described in points (a) and (b) of the section, \u2018by other means personally implements, orders the implementation or allows the implementation of any measure that contravenes the Constitution of the Republic, or fails to implement any measure prescribed therein, or causes neglect of such implementation\u2019. The latter part of this provision describes an offence of direct omission, which means that the very fact of a minister neglecting to implement any matter ordered by the Constitution or causing the neglect of its implementation will be a punishable offence irrespective of the consequences or risks attributable to such an omission. As noted in the explanatory notes to the bill that became [the Act], section 8(c) of the Act contains a provision of general import which applies to all breaches of the Constitution other than those specifically made punishable in other points of the section. Accordingly, it falls within the conduct description of this provision to fail to comply with the duty, provided for in Article 17 of the Constitution, to hold ministerial meetings \u2018to discuss new legislative proposals and important government matters\u2019.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "35.\u00a0\u00a0In regard to the applicant\u2019s motion to have the whole case dismissed due to the alleged lack of clarity of section 8(c) of the Ministerial Accountability Act, the Court of Impeachment considered that the words \u201cimportant government matters\u201d in Article 17 of the Constitution, to which section 8(c) referred, could easily be understood by a reasonable man in the office held by the applicant and that the provisions contained predictable and reasonable criteria regarding the minister\u2019s discharge of official duties.",
+                                "elements": []
+                            },
+                            {
+                                "content": "36.\u00a0\u00a0The applicant had also maintained that it was clear from the origin and history of Article 17 of the Constitution that important government matters that should be discussed in ministerial meetings according to that provision were only matters that should have been submitted to the President in the State Council according to Article 16 of the Constitution. The court examined the history of the two constitutional articles, in particular the difference in language between \u201cimportant government measures\u201d (mikilv\u00e6gar stj\u00f3rnarr\u00e1\u00f0stafanir) in Article 16 and \u201cimportant government matters\u201d (mikilv\u00e6g stj\u00f3rnarm\u00e1lefni) in Article 17, finding that the latter term was literally more extensive. It concluded as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... These two features, that the constitutional provisions on ministerial meetings has remained substantially unchanged despite the change in Iceland\u2019s constitutional position in 1944 and that a distinction was made between matters to be discussed at ministerial meetings, on the one hand, and those to be submitted to the State Council, on the other, in the first Act on the Government Offices of Iceland, unequivocally support a literal interpretation of the instruction under Article 17 of the Constitution. In accordance with a principle of statutory interpretation it will here be found proper to follow the clear language of the provision, which prior preparatory works cannot refute.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Accordingly, the Prime Minister, who heads the cabinet and leads ministerial meetings, has a duty to ensure that important government matters of which he is aware are discussed and, where applicable, addressed in those meetings, as provided for in Article 17 of the Constitution. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "37.\u00a0\u00a0The court then noted that it was not at the Prime Minister\u2019s sole discretion to determine when a matter was of such nature that it should be raised at a ministerial meeting. Rather, of primary importance was to what extent it concerned the interests of the state and the general population. The court concluded that the danger facing the Icelandic bank system and thus the welfare of the state had been of gigantic and unprecedented proportions and was, due to the great public interest at stake, without a doubt an important government matter within the meaning of Article 17 of the Constitution.",
+                                "elements": []
+                            },
+                            {
+                                "content": "38.\u00a0\u00a0The applicant had asserted that cabinet meetings were not a common platform for ministers to discuss matters with other ministers and that Article 17 of the Constitution did not prevent individual ministers from discussing certain matters among themselves without presenting them at the meetings. Furthermore, the minutes of the cabinet meetings did not exhaustively record the discussions, as they contained only a listing of the items placed on the agenda. Frequently, other subjects than those listed had been discussed, inter alia under the item \u201cother issues\u201d. Statements by former ministers before the court had clearly showed that the banking system had been repeatedly discussed at the meetings held during the period to which the indictment referred.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In this respect, the court noted that, under the Constitution, cabinet meetings was the forum for political consultation between ministers on important government matters. Whether or not it had been customary to raise comparable issues at ministerial meetings or in informal consultations between the chairmen of governing coalition parties, such practices could not absolve the Prime Minister from the duty laid down in Article 17.",
+                                "elements": []
+                            },
+                            {
+                                "content": "39.\u00a0\u00a0As regards the specific conduct imputed to the applicant, the court stated, inter alia, the following:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAccording to that which has been related above, it is considered proved beyond doubt in the case that the great danger facing the Icelandic banks and thus the welfare of the State was not discussed at cabinet meetings in the period from February 2008 until the end of September the same year. As stated above, it must also be considered a fact in the resolution of the case that various issues that were up for discussion in the consultative group on financial stability and contingency planning, and which there was due reason to discuss in the cabinet, were not dealt with at those meetings. That was all the more urgent as the defendant did not convey important information which he possessed about the affairs of the banks to the Minister for Business Affairs, to whom they pertained. Last but not least it is proven that those two aforesaid documents that were forwarded to foreign authorities [a declaration of 16 May 2008 signed by the defendant, the ministers of foreign affairs and finance and the board of governors of the Central Bank of Iceland to the central banks of Sweden, Denmark and Norway on the completion of currency swap agreements and a letter of 20 August 2008 by the Ministry of Business Affairs to the UK Treasury providing answers to certain questions posed by the latter] and contained, on the one hand, obligations, and, on the other, promises, in the name of the government, were not discussed at its meetings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The defendant and various other persons who have testified before the Court have emphasised that the situation in financial markets was so sensitive during the period related to the case that the slightest rumour that the Icelandic banks might encounter a liquidity crisis could have accelerated and even caused their collapse. For this reason it had been very important to discuss the danger facing the banking system within a small group, in full confidentiality. Although those views may have been fully justified, especially while the difficulties of the banks were still known by few, it is to no avail for the defendant to allege that for this reason he was unable to give an account of the issues in question at cabinet meetings. The framework of those meetings is not least designed so that ministers and supreme holders of executive power can consult one another and discuss important issues confidentially and behind closed doors, with the ministers having a compelling duty ... not to disclose points raised there concerning such confidential matters.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The defendant\u2019s conduct of failing to comply with Article 17 of the Constitution where it prescribes that ministerial meetings should be held on important government matters ... not only led to a breach against a procedural rule but also contributed to the fact that a political policy to address the huge problem of which the defendant must have been aware in February 2008 was not formulated at the level of the cabinet of ministers. If such a policy had been formulated and then implemented in an organised manner, including action by the Central Bank of Iceland and the Financial Supervisory Authority, it may be argued that it would have been possible to lessen the harm caused by the collapse of the banks in the beginning of October 2008. It is also likely that the authorities would then have been better prepared for taking a position towards the request of Glitnir Bank hf. for financial assistance at the end of September 2008, so that the problems of that bank might have been resolved in a more deliberate manner than was the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "It may be inferred from the defendant\u2019s testimony before the court that he closely followed the progress of the matters in question. ... [I]t must be regarded as gross carelessness on the part of the defendant to have failed to take up the issues related above for discussion at cabinet meetings, as he was aware or at least should have been aware that they were of such importance, and of such nature, as an integral part of the government\u2019s economic policy, that he had a duty to do so.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "40.\u00a0\u00a0The applicant was consequently convicted of a violation of section\u00a08(c) of the Ministerial Accountability Act, for having by gross negligence failed to hold ministerial meetings on important government matters as prescribed in Article 17 of the Constitution. He was not sentenced to any punishment and the Icelandic State was ordered to bear all legal costs, including fees to the applicant\u2019s counsel. Not subject to an appeal, the judgment was final.",
+                                "elements": []
+                            },
+                            {
+                                "content": "41.\u00a0\u00a0The minority\u2019s opinion was to acquit the applicant of all charges. In regard to count 2 of the indictment, the minority referred to the requirement of foreseeability and clarity and to the rule of interpretation that a criminal provision should be narrowly construed when there is doubt as to its application. It expressed the following view on the history of Articles\u00a016 and 17 of the Constitution:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cAccording to the interpretation of Article 17 of the Constitution related above, the duty to hold ministerial meetings only extended to meetings on matters to be submitted to the State Council and matters which individual ministers wished to raise, and the actual practice in respect of the functions of ministerial meetings has been in keeping with this ever since. In addition, the witness statements by ministers in the [applicant\u2019s] cabinet have indicated that economic issues and the issues of financial undertakings were frequently discussed in cabinet meetings at the outset of the meeting or under the agenda item of other issues, even though this was not recorded in the minutes.",
+                                "elements": []
+                            },
+                            {
+                                "content": "In this case, the interpretation of Article 17 of the Constitution is in issue when assessing whether [the applicant] became guilty of punishable conduct, and viewpoints on good administrative practices which have gained more prominence of late cannot be a determining factor in this context. It should also be noted that a minister will not be held criminally liable under [the Ministerial Accountability Act] unless serious errors have been committed while in office, which cannot apply to the charges according to this count of the indictment, as related above in the course of interpretation of Article 17 of the Constitution. Taking this into consideration, we are of the opinion that the [applicant] should be acquitted of a violation of the [Act].\u201d",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The Icelandic Constitution",
+                                "elements": [
+                                    {
+                                        "content": "42.\u00a0\u00a0The Icelandic Constitution (Stj\u00f3rnarskr\u00e1 l\u00fd\u00f0veldisins \u00cdslands) contains, inter alia, the following provisions:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cMinisters are accountable for all executive acts. The accountability of the minister is established by law. Parliament may impeach a Minister on account of their official acts. The Court of Impeachment has competence in such cases.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe State Council is composed of the President of the Republic and the ministers and is presided over by the President.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Laws and important government measures shall be submitted to the President in the State Council\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cMinisterial meetings shall be held in order to discuss new legislative proposals and important government matters. Furthermore, ministerial meetings shall be held if a Minister wishes to raise a matter there. The meetings shall be presided over by the Minister called upon by the President of the Republic to do so, who is designated Prime Minister.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Ministerial Accountability Act",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The Ministerial Accountability Act provides, in so far as relevant:",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The Court of Impeachment Act",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0The relevant provisions of the Court of Impeachment Act read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe Court of Impeachment has 15 judges who are as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(a)\u00a0\u00a0The five judges of the Supreme Court who have held seats on the court the longest, the judge presiding in [the District Court of] Reykjav\u00edk and the professor of constitutional law at the University of Iceland. The Supreme Court appoints alternate judges for the Supreme Court judges from amongst the group of other Supreme Court judges and thereafter teachers of law at the university, Supreme Court attorneys or District Court judges who meet the conditions for being appointed as judges of the Supreme Court. The alternate judge for the judge presiding at [the District Court of] Reykjav\u00edk is the District Court judge in Reykjav\u00edk who has held his office the longest. The Law Faculty of the university elects the alternate for the professor of constitutional law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(b)\u00a0\u00a08 persons as elected by the United Parliament in proportional voting for a term of 6 years.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Parallel and by the same method an equal number of alternate members shall be elected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Judges who hold seat on the Court of Impeachment when Parliament has decided to impeach a minister and their alternates shall complete the case procedure although their term has ended.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cNo one is eligible to hold a seat on the Court of Impeachment, cf. section 2, item (b), unless he meets the following conditions:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Is not younger than 30 years and not older than 70 years.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Is legally competent and in control of his finances.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Has an unblemished record.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Has Icelandic citizenship.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0Has his home in Iceland.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0Is not a Member of Parliament or an employee of the Government Offices.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Eligible men and women are obligated to take seats on the Court of Impeachment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "No person who does not meet the aforementioned conditions may hold a seat on the Court of Impeachment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Paternally related persons or persons related though marriage or descendants or married couple, adoptive parents and adoptive children, foster parent and foster child, or related or connected through marriage in the first and second line horizontally may not hold seats on the Court of Impeachment simultaneously.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cPrior to taking a seat on the Court of Impeachment for the first time, a judge shall sign an oath to the effect that he will execute his duties conscientiously and impartially in every respect and to the best of his ability as provided for by law. The president of the court shall see to it that such an oath is made according to law.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA decision by Parliament to impeach a minister shall be initiated by means of a parliamentary resolution in the United Parliament, and the parliamentary resolution shall precisely state the impeachment items as the prosecution of the case shall be based upon them. Parliament furthermore elects a person to represent the prosecution on its behalf, as well as an alternate if the first-mentioned is unable to attend. The United Parliament also elects in proportional voting a parliamentary committee comprising five persons to monitor the case and to assist the Parliament prosecutor.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe speaker of the United Parliament immediately sends a notification to the president of the Supreme Court stating Parliament\u2019s decision to impeach. He then notifies, as soon as possible, the person to be indicted and sends a copy of Parliament\u2019s parliamentary resolution to him.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe president of the Court of Impeachment appoints defense counsel for the accused person as soon as possible from amongst the group of Supreme Court attorneys. When choosing defense counsel the wishes of the accused person shall be met provided nothing opposes it. Appropriately, the accused person shall maintain his defense together with the defense counsel. The Parliament prosecutor shall immediately be notified of the appointment of defense counsel.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe Parliament prosecutor is obliged to seek all available proof for the charges. He shall prepare the collection of evidence and the investigation of the case, and presents proposals to the Court of Impeachment regarding appropriate measures for revealing the truth. He shall collaborate with the investigation committee of Parliament.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The role of the defense counsel is to bring to light everything that may acquit the accused person or be in his interests, and to safeguard the interests of the accused in every respect.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cWhen the president of the Court of Impeachment has received a notification, cf. Article 14, he shall convene the judges with reasonable notice.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe president of the Court of Impeachment shall issue a summons against the accused person and determine the deadline for service, which shall never be less than 3 weeks. The summons shall be issued in the name of the Court of Impeachment. The Parliament prosecutor then sees to the service of the summons in the regular fashion. The accused, or the person served on his behalf, shall always be provided with a copy of the summons. A copy of the resolution by Parliament shall also be submitted at the same time, unless it is quoted in the summons.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cUpon the expiry of the deadline, as provided for according to sections 18 and 19, the Court of Impeachment convenes at a stated location and date, and shall be declared in session by the president of the court. The prosecutor shall then formally file the case, present the summons together with the signed certificate of service, Parliament\u2019s resolution on impeachment, the indictment, copies of the testimonies that may already have been given, and other such evidence that exists and may be submitted at the court\u2019s session. He furthermore submits a list of the names of persons who will be requested to give statements before the Court of Impeachment. The indictment shall, as appropriate, satisfy the provisions of the Criminal Procedure Act.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe defense counsel shall be provided with a copy of the documents stated in section 24 and has the right to sufficient time to examine them and to submit his own documents and statement. The Court of Impeachment decides at this session of the court when the next session shall be held.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cIf not otherwise stipulated in this Act, the provisions of the Criminal Procedure Act ... shall apply as appropriate regarding the procedure of a case by the Court of Impeachment.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0PARLIAMENTARY ASSEMBLY OF THE COUNCIL OF EUROPE",
+                        "elements": [
+                            {
+                                "content": "45.\u00a0\u00a0On 28 June 2013 the Parliamentary Assembly adopted a resolution on \u201cKeeping Political and Criminal Responsibility Separate\u201d (Resolution\u00a01950 (2013)). It reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0The Parliamentary Assembly considers that democracy and the rule of law require that politicians shall be effectively protected from criminal prosecutions based on their political decisions. Political decisions shall be subject to political responsibility, the ultimate judges being the voters.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0The Assembly also reconfirms its principled opposition to all forms of impunity, as expressed in its Resolution 1675 (2009) on the state of human rights in Europe: the need to eradicate impunity. Consequently, politicians shall be held to account for criminal acts or omissions they commit both in their private capacity and in the exercise of their public office.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0The distinction between political decision making and criminal acts or omissions must be based on national constitutional and criminal law, which in turn should respect the following principles, in line with the conclusions of the European Commission for Democracy through Law (Venice Commission):",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0In view of the above, the Assembly:",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ELEMENTS OF COMPARATIVE LAW",
+                        "elements": [
+                            {
+                                "content": "46.\u00a0\u00a0The regulation of criminal liability of government ministers is not uniform in the member States of the Council of Europe. The information available to the Court reveals that there is great variation in regard to both the applicable procedures and the substantive criminal provisions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "47.\u00a0\u00a0Some countries have no special procedures for ministerial criminal liability; the cases are thus initiated by ordinary public prosecutors and adjudicated by regular criminal courts according to general rules of criminal procedure. In other countries, ministers may be held liable under special procedures that are different from ordinary criminal proceedings with regard to the initiation and investigation of cases, the composition of the court as well as other procedural rules. The latter systems, often called impeachment proceedings, are construed in many different ways. Usually, however, impeachment proceedings are used only for offences committed by the persons concerned in their capacity as ministers, whereas breaches of ordinary criminal law committed in their private capacity are dealt with in regular criminal proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "48.\u00a0\u00a0For offences committed in the exercise of official functions, the national Parliament is typically involved by, for instance, taking the decision whether to initiate proceedings against a government minister. The initiative for such action, the rules for which differ from country to country, may come from a specially designated public official, a parliamentary committee or a certain number of members of Parliament. In such cases, it is common for parliamentary organs to conduct the investigations through standing committees or special commissions of inquiry or by way of other similar arrangements. However, in some countries where it is for Parliament to decide whether to indict ministers, the subsequent proceedings are conducted by the ordinary prosecutors and criminal courts. Furthermore, in one country, parliamentary involvement is reserved for cases where ministers are suspected of the most serious crimes, such as treason.",
+                                "elements": []
+                            },
+                            {
+                                "content": "49.\u00a0\u00a0The laws of many European countries contain special rules on the court competent to try ministers for offences committed while in office. The rules either establish a particular court of impeachment or designate a superior court \u2013 for instance, the constitutional court or the supreme court \u2013 to deal with the cases. Courts of impeachment are typically composed partly or wholly of members of Parliament or persons appointed by Parliament. The general rules of criminal procedure usually apply to the proceedings, but there may be a number of modifications, for instance through special provisions that are applicable as lex specialis and thus substitute the general procedural rules.",
+                                "elements": []
+                            },
+                            {
+                                "content": "50.\u00a0\u00a0As regards the substantive criminal provisions under which a government minister could be held liable, they may be divided into three main categories: 1) general provisions applicable to everyone; 2) provisions applicable to public officials, including ministers; and 3) special provisions applicable only to ministers.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Unless there are rules on immunity, ordinary criminal offences are, as mentioned above, usually dealt with in regular criminal proceedings. Such offences are most often unconnected with the exercise of ministerial functions; however, certain breaches of the ordinary criminal code \u2013 for instance, embezzlement of public funds \u2013 may be conducted in the exercise of public office and, consequently, belong to category 2 above. The ordinary criminal codes in most European countries also contain offences, such as corruption, which by their nature only apply to public officials. Another such offence is \u201cmisuse of powers\u201d or \u201cabuse of office\u201d, which may be regulated in the ordinary criminal code or in special legislation. Some countries have criminal provisions that are applicable only to government ministers; they typically concern breaches of special constitutional obligations, such as failing to provide Parliament with information or taking certain action in matters belonging to the domain of Parliament. In many countries, only intentional misconduct by a public official is punishable; however, there are also several examples where grossly negligent conduct may incur criminal liability.",
+                                "elements": []
+                            },
+                            {
+                                "content": "51.\u00a0\u00a0Depending on the country, the sanctions applicable to offences committed by ministers in the exercise of their functions may, in addition to the traditional criminal punishments of imprisonment and fines, comprise warnings, dismissal from office as well as forfeiture of the right to vote or to stand for elections.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0PRELIMINARY OBJECTION",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "52.\u00a0\u00a0The Government challenged the applicant\u2019s victim status. They pointed out that, by a decision of 3 October 2011, the Court of Impeachment had upheld the applicant\u2019s claim for dismissal in respect of counts 1.1 and 1.2 of the indictment and that, by its judgment of 23 April 2012, the court had acquitted him of counts 1.3, 1.4 and 1.5. Referring to the case of Osmanov and Yuseinov v. Bulgaria ((dec.), nos. 54178/00 and\u00a059901/00, 4\u00a0September 2003), the Government stated that an acquitted person or a person against whom criminal charges had been dismissed could not claim to be a victim of violations of the Convention. Therefore, the applicant could only claim to be a victim as regards complaints concerning count 2 of the indictment. Nevertheless, the Government invited the Court to consider whether he could claim to be a victim at all under Article 34 of the Convention since he had not been sentenced to any punishment or payment of legal costs.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The applicant disagreed with the Government\u2019s contentions. He stated that he could claim status as a victim in respect of all elements of the case, referring to the fact that there had been an investigative procedure and a decision to prosecute him and that a judgment in which he had been found guilty of one charge had been given. Moreover, his acquittal of the other charges had allegedly been based solely on lack of evidence and not on a finding that his human rights had been breached. In this respect he referred to the case of J\u00f3n Kristinsson v. Iceland (judgment of 1 March 1990, Series\u00a0A no. 171-B, opinion of the Commission, \u00a7\u00a7 36-37 and 39). He also submitted that the case had had a significant personal effect on him and had damaged his reputation both in Iceland and abroad.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The applicant further maintained that the case-law of the Court was clear on the point that the concept of \u201cvictim\u201d under Article 34 of the Convention should be interpreted broadly. The Government\u2019s argument that he had not been sentenced to punishment was unfounded, as his conviction of a criminal offence had entailed various other legal consequences. Also, given the political nature of the proceedings, the severity of the sentence was not the key issue. Rather, the important elements were that the case had been brought against him and that he had been convicted for a punishable offence. In this respect, the applicant referred to the case of L\u00fcdi v\u00a0Switzerland (no. 12433/86, 15 June 1992).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "55.\u00a0\u00a0The Court reiterates that a person cannot claim to be a victim of violations of his right to a fair trial under Article 6 of the Convention taking place in the course of proceedings which were discontinued or have resulted in an acquittal (see, among other authorities, Zementova v. Russia, no.\u00a0942/02, \u00a7 62, 27 September 2007, and Osmanov and Yuseinov (dec.), cited above). This conclusion, however, can only be drawn where the applicant is no longer affected at all, having been relieved of any effects to his disadvantage, for example where he has been acquitted unconditionally (see J\u00f3n Kristinsson, cited above, opinion of the Commission, \u00a7 36; and Correia de Matos v. Portugal (dec.), no. 48188/99, 15 November 2001).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0In the applicant\u2019s case, counts 1.1 and 1.2 of the indictment were dismissed during the proceedings and the applicant was eventually acquitted of counts 1.3, 1.4 and 1.5. In these circumstances, he can no longer claim to be a victim in regard to these charges. However, even though the applicant was not sentenced to punishment, he was convicted of a criminal offence in respect of count 2. In so far as his complaints relate to count 2, he can therefore, under Article 34 of the Convention, still claim to be a victim of the alleged violations of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0It follows that the complaints as regards counts 1.1-1.5 of the indictment are incompatible ratione personae with the provisions of the Convention within the meaning of Article 35 \u00a7 3 (a) and must be rejected in accordance with Article 35 \u00a7 4 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "58.\u00a0\u00a0The Court notes that the remainder of the application is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. Thus, in so far as the complaints relate to the charge of which the applicant was found guilty by the Court of Impeachment\u2019s judgment of 23 April 2012, they must be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "59.\u00a0\u00a0The applicant complained that he had not had a fair trial before an independent and impartial tribunal. He claimed, among other things, that his rights to be presumed innocent, to be informed in detail of the nature and cause of the accusations against him and to have adequate time and facilities for the preparation of his defence had been breached and that the Court of Impeachment\u2019s appointment of defence counsel for him had been made too late.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 6 of the Convention reads, in relevant parts, as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by an independent and impartial tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0The Government contested the applicant\u2019s contentions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "61.\u00a0\u00a0The Court notes that the applicant\u2019s complaints concern various issues falling within paragraphs 1, 2 and 3 of Article 6. Having regard to the number and nature of the violations alleged by the applicant, it is appropriate to deal with related matters of complaint and the relevant paragraphs of Article 6 together. The ensuing examination will, in so far as possible, follow the chronology of the domestic proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The pre-trial stage of the proceedings",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "62.\u00a0\u00a0The applicant contended that Article 6 of the Convention had been engaged as from 15 January 2010 when the PRC had first met. At that point he had de jure become a suspect in an investigation which could result in a proposal from the PRC to Parliament to indict him. Alternatively, he maintained that Article 6 had become applicable on 18 May 2010 when the PRC had requested his written comments on the report of the SIC or on 28\u00a0September 2010 when Parliament had decided to commence proceedings against him. In any event, the applicant submitted that the proceedings should be viewed as a whole when assessing their fairness.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The applicant asserted that the PRC had failed to make a proper investigation in the case. Allegedly, having been restricted by statute from accessing the majority of documents underlying the SIC report, the PRC had not taken any measures itself to gather documentary evidence in relation to the accusations against him. The PRC could have appointed an investigative expert to acquire the documents relied on by the SIC, but had not done so. In that connection, the applicant pointed out that the SIC report could not have replaced a full-fledged criminal investigation, as that commission had had no mandate to consider his potential criminal liability and the report thus had not addressed this issue. Furthermore, the applicant had not been questioned by the PRC or, subsequently, by the prosecutor and had thereby been denied an opportunity to present his version of events during the pre-trial stage. His letter to the PRC on 7 June 2010 had not constituted such an opportunity as it had not concerned his opinion on the specific charges or accusations against him. The applicant pointed out that it had not been his or his counsel\u2019s responsibility to request that he be interviewed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0Due to the invoked deficiencies in the investigation, it was evident to the applicant that the grounds for the PRC\u2019s proposal to Parliament to commence impeachment proceedings had not been legal but arbitrary and political in nature. The same shortcomings \u2013 limited access to documentary evidence and no knowledge of the applicant\u2019s position regarding the accusations \u2013 had allegedly been prevalent at Parliament\u2019s consideration of the PRC\u2019s proposal. Consequently, Parliament\u2019s decision to commence proceedings against him had not been based on an objective legal assessment of the facts of the case but on political considerations. This was further shown by the fact that some members of Parliament, all from the Social Democratic Alliance, had voted to bring criminal charges against the applicant but not against the other three ministers in question; thus, in the applicant\u2019s view, the voting had followed party lines.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0The applicant further maintained that the subsequent investigation conducted by the prosecutor had not rectified the above-mentioned deficiencies. On 11 April 2011 his defence counsel had been provided with a USB memory stick containing the documents that the prosecutor had obtained from the SIC database but without any specific explanations or elaboration on the relevance of the documents and their connection to the substance of the case. Later, when filing the case with the Court of Impeachment, the prosecutor had submitted numerous other documents to which the applicant had previously not had access, again without specifying their particular relevance to the case. The applicant asserted that the fact that he had never been interviewed during the investigative stage had made it more difficult to understand the relevance of the various documents and the substance and nature of the accusations against him, thus frustrating the preparation of a proper defence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0The applicant also contended that the wording of the charges as set out in the indictment had been extremely unclear and vague. Because of this lack of clarity and the general blurred outlines of the case it had been particularly difficult for him to decide what line of defence to adopt and what evidence to gather. It had also given the prosecution the opportunity to adjust its case during the course of the proceedings, for instance by adapting it to his defence. This situation had been aggravated by the vagueness of the provisions in respect of which he was charged, in particular Article 17 of the Constitution and section 8(c) of the Ministerial Accountability Act. The applicant therefore claimed that he had not been informed in detail of the nature and cause of the accusations against him and had not been given adequate time and facilities for the preparation of his defence, in violation of Article 6 \u00a7 3 (a) and (b).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "67.\u00a0\u00a0Moreover, the rules of procedure had allegedly consisted of an obscure combination of the Court of Impeachment Act and the Criminal Procedure Act, which had been applied by the Court of Impeachment in an unpredictable and inconsistent manner, generally to his disadvantage. For instance, he asserted that the court had initially refused to appoint defence counsel on the ground that he did not have the status of an \u201caccused person\u201d within the meaning of the Criminal Procedure Act, although Article 15 of the Court of Impeachment Act, read together with Articles 13 and 14, indicated that counsel should be appointed as soon as possible after Parliament\u2019s decision on impeachment. Counsel had been appointed only on 30\u00a0November 2010, two months after that decision. The applicant also claimed that the court had decided that the main proceedings would not commence until the prosecution had gathered enough evidence to support the accusations set forth in Parliament\u2019s decision. This had allegedly contravened the rules of the Court of Impeachment Act which provided that the court should convene and the prosecutor file the case in quick succession of Parliament\u2019s decision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0Finally, the applicant maintained that the prosecutor appointed by Parliament had previously given the PRC expert advice in the case and had then expressed her opinion on the likelihood of a conviction of the applicant. According to the applicant, she had therefore not been qualified to propose \u201cappropriate measures for revealing the truth\u201d, as required by Article 16 of the Court of Impeachment Act, or otherwise conduct an impartial investigation of the case. In any event, the applicant could not trust that the investigation and the collection of evidence by the prosecutor would be conducted in a neutral manner.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "69.\u00a0\u00a0In regard to the date when Article 6 of the Convention had become engaged, the Government stated that the purpose of the proceedings before the PRC and the proposal issued by it had been to form a basis for Parliament to decide whether to press charges against certain ministers. Referring, inter alia, to the case of Ninn-Hansen v. Denmark ((dec.), no.\u00a028972/95, ECHR 1999-V), they asserted therefore that the proceedings before the PRC had been part of the investigative stage and had not been concerned with a \u201cdetermination of the charge\u201d. Taken in isolation, the proceedings before the PRC did not fall under Article 6. However, since some requirements of that provision may be relevant to the pre-trial stage of proceedings if and in so far as the fairness of the trial is likely to be seriously prejudiced by an initial failure to comply with them, the Government submitted that the proceedings as a whole \u2013 to the extent that they concerned count 2 of the indictment \u2013 should be considered, in order to determine whether the proceedings before the PRC and Parliament could have weakened the situation of the applicant to such an extent that all subsequent stages of the proceedings, in particular the proceedings before the Court of Impeachment, had been unfair.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0As regards the applicant\u2019s complaint about a deficient investigation by the PRC, the Government pointed out that, as in all criminal cases, it had been incumbent on the prosecution to prove the applicant\u2019s guilt and therefore to gather and submit evidence; a failure to substantiate the charges would lead to acquittal, as had partly happened in the applicant\u2019s case. Any shortcomings in this regard could only have been beneficial for him. Moreover, it had been open to the prosecution to hear the applicant but, since Parliament had already decided to prosecute, such a hearing would have been of little value for the investigation. Also, while the SIC had not conducted a criminal investigation, the evidence obtained by it from witnesses had been sufficient to assess whether they should be called to testify before the Court of Impeachment. The judgment in the case should anyway be based on evidence presented in court, and the applicant had been heard by the Court of Impeachment on two occasions, of which the second one occurred after he had heard the statements of all the witnesses. His right to be heard had therefore been fully respected in the case. The Government noted, furthermore, that the applicant\u2019s counsel had not requested that the applicant be heard during the investigative stage.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0The Government disagreed with the applicant\u2019s claim that the proposal by the PRC and the decision by Parliament on the commencement of impeachment proceedings had been arbitrary and political. They submitted that the votes by members of Parliament had not entirely been cast along party lines as, for instance, some members of the Social Democratic Alliance had voted against the proposal to charge the applicant. In addition, Mr Mathiesen, a member of the same party as the applicant, had not been charged. They further contended that it had not been proposed by the PRC that the other former ministers would be charged under point 2 of the indictment, the only count in respect of which the applicant had been convicted. Allegedly, this charge could be brought only against the applicant, and not the other ministers, as the agenda for ministerial meetings had been his responsibility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0Moreover, the Government submitted that there was nothing to suggest that the applicant and his counsel had not had access to the evidence in the case or that they had not had an adequate opportunity to acquaint themselves with it, on an equal footing with the prosecution. The evidence relating to count 2 of the indictment had mostly consisted of transcripts of minutes from ministerial meetings and witness statements as to what had been discussed at these meetings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0Addressing the applicant\u2019s complaint about lack of clarity in the wording of the indictment, the Government reiterated the statements made by the prosecutor in response to the applicant\u2019s request for the dismissal of the case, inter alia that there had been no doubt that an imminent financial crisis belonged to important government matters that should be discussed at ministerial meetings, that the indictment provided explanatory examples of events that had provided particular occasions to raise the matter at such meetings, that the minutes of the meetings showed that the matter had been addressed to a negligible extent, and that an additional explanation for count 2 of the indictment had been given in the explanatory memorandum to the parliamentary resolution. The Government maintained that the charges under count 2 of the indictment as well as the relevant constitutional provision had been sufficiently clear and had enabled the applicant to defend himself properly.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0In regard to the rules of procedure, the Government submitted that the Court of Impeachment Act contained several specific provisions on investigation, issuing of an indictment and the processing of cases before the court, and that, unless otherwise specified in that Act, the rules of Criminal Procedure Act applied to the proceedings. The rules of the Court of Impeachment Act were thus lex specialis vis-\u00e0-vis the rules of the Criminal Procedure Act. They maintained that the procedure before the Court of Impeachment had a firm legal basis and that the rules had been clear and foreseeable for the applicant. Furthermore, they asserted that it was for the national courts to decide on the application and interpretation of national law, as had been done in the case by the Court of Impeachment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0Referring to the decision of the Court of Impeachment of 3 October 2011, the Government contended that there had been no basis for disqualification of the prosecutor in the case, in particular since the Parliament had been the prosecuting authority and had decided on the content of the indictment. They also submitted that there was no right under Article\u00a06 of the Convention to an independent and impartial prosecutor.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0In sum, the Government submitted that the proceedings had not revealed any violation of the applicant\u2019s rights under Article 6. Allegedly, he had been informed promptly and in detail of the nature and cause of the accusations against him, and he had had adequate time and facilities for the preparation of his defence. He had enjoyed legal assistance of his own choosing and the State had been ordered to pay the fees for his counsel. He had also been able to call and examine witnesses. Whatever shortcomings may have occurred during the pre-trial investigation, they had been fully remedied in the course of the proceedings before the Court of Impeachment.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "77.\u00a0\u00a0The purpose of the proceedings conducted by the PRC and the proposal submitted to Parliament on 11 September 2010 was to form a basis for Parliament to decide whether to commence impeachment proceedings against cabinet members for having disregarded their duties under the Ministerial Accountability Act (see paragraph 13 above). Thus, the PRC\u2019s proceedings were not as such concerned with determining a criminal charge.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0Nevertheless, whereas the primary purpose of Article 6 as far as criminal matters are concerned is to ensure a fair trial by a \u201ctribunal\u201d competent to determine \u201cany criminal charge\u201d, the guarantees of Article\u00a06 are applicable from the moment that a \u201ccriminal charge\u201d exists within the meaning of this Court\u2019s case-law and may therefore be relevant during pre-trial proceedings if and in so far as the fairness of the trial is likely to be seriously prejudiced by an initial failure to comply with them. The investigation stage may be of particular importance for the preparation of the criminal proceedings. For instance, the evidence obtained during this stage often determines the framework in which the offence charged will be considered at the trial. The manner in which Article 6 is to be applied during the investigation stage depends on the special features of the proceedings involved and on the circumstances of the case (see Ibrahim and Others v.\u00a0the\u00a0United Kingdom [GC], nos. 50541/08, 50571/08, 50573/08 and\u00a040351/09, \u00a7 253, 13 September 2016, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0The Court will therefore have regard to the proceedings as a whole, including the handling of the case by the PRC, Parliament and Parliament\u2019s prosecutor, when determining whether the rights of the applicant were prejudiced. As part of that determination, it needs to be assessed whether any measures taken during the pre-trial stage could have weakened his position to such an extent that all subsequent stages of the proceedings were unfair.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "80.\u00a0\u00a0The applicant complained, firstly, that neither the PRC nor the prosecutor had conducted a proper investigation in the case. Among other things, the PRC had not gathered any documentary evidence concerning the accusations against him and he had never been interviewed during the investigative stage of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "81.\u00a0\u00a0The Court notes that the PRC examined the SIC report and collected certain documents mentioned in that report. It also received several expert opinions on ministerial responsibility as well as comments on the report from 14 individuals who had been cabinet members during the relevant period, among them the applicant (see paragraph 14 above). The Court of Impeachment concluded in its decision of 3 October 2011 that the PRC had found that there was enough evidence for a parliamentary resolution to commence impeachment proceedings and that Parliament\u2019s handling of the matter had complied with relevant legislation (paragraph 29 above). The Court finds no basis for calling into question these conclusions. Furthermore, the prosecutor had access to various additional information, including documents from the SIC database, statements given before that body and correspondence from the applicant\u2019s former work email. She did not interview the applicant, but stated that she had invited his counsel to make comments or request that further information be collected (paragraphs 20, 21 and 28 above). The Court notes in this connection that neither the applicant nor his counsel had requested an interview or otherwise submitted that more information should be collected.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0In these circumstances, the Court cannot find that the pre-trial collection of evidence was deficient to the detriment of the applicant, regard being had to the special role of the prosecutor, leading the investigation subsequent to the Parliament decision to commence proceedings, and the fact that the applicant was heard during the hearing before the Court of Impeachment. In this connection, it is of further importance that, as pointed out by that court on 3 October 2011, a judgment in a criminal case should be based on evidence presented in court and insufficient support for the charges would have led to the applicant\u2019s acquittal.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0The applicant further claimed that the process of deciding whether to bring charges against him, including the PRC\u2019s proposal and Parliament\u2019s examination of and vote on the issue, had been arbitrary and political.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The Court notes at the outset that the High Contracting Parties have adopted, as part of their constitutional framework, varied approaches to questions concerning the criminal liability of members of government for acts or omissions that have taken place in the exercise of their official duties. Such differences extend to issues such as the manner in which the relevant penal provisions are structured and formulated, the applicable sanctions as well as the jurisdictional and procedural arrangements for dealing with investigations and trials in cases concerning alleged or suspected criminal conduct by members of government. The Court acknowledges that these issues involve important and sensitive questions about how to strike an appropriate balance between political accountability and criminal liability for persons holding and exercising the highest executive offices in each state, and that the solutions adopted are linked with complex matters of checks and balances in each constitutional order. This being so, it is not for the Court to seek to impose any particular model on the Contracting Parties. Its task is to conduct a review of the concrete circumstances of the case on the basis of the complaints brought before it.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "85.\u00a0\u00a0The Court is mindful of the fact that while the purpose of the relevant constitutional, legislative and procedural frameworks on this subject should be to seek a balance between political accountability and criminal liability, and to avoid both the risk of impunity and the risk of ill-founded recourse to criminal proceedings, there may be risks of abuse or dysfunctionalities involved, which must be avoided. The Court is aware of the importance of ensuring that criminal proceedings are not misused for the purpose of harming political opponents or as instruments in political conflict. The Court must therefore bear in mind, when reviewing and assessing the circumstances of each case and the conduct of the proceedings complained of under Article 6, the need to ensure that the necessary standards of fairness are upheld regardless of the special features of those proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0Turning to the present case, the Court notes that the impeachment proceedings were based on a decision of Parliament. As the authority to prosecute a former cabinet member, under the Icelandic Constitution and the relevant legislation, rests with Parliament, the matter may, to some extent, involve considerations of a political nature. In this respect, the Court observes that, in a comparative perspective, parliamentary involvement is a feature which is not uncommon in the context of decisions as to whether criminal proceedings should be brought against a member of government for acts undertaken in the exercise of ministerial functions. The Court does not consider that this fact in itself is sufficient to raise an issue under Article 6. It must be borne in mind that the charges brought by Parliament are examined and adjudicated upon by a court of law. Furthermore, in the present case, the conduct of which the applicant eventually was found guilty was his failure to hold ministerial meetings on \u201cimportant government matters\u201d, as required by Article 17 of the Constitution in conjunction with section\u00a08(c) of the Ministerial Accountability Act. The negligence imputed to him thus concerned an objective legal obligation. Parliament\u2019s indictment contained examples of the failure to hold ministerial meetings and further evidence on this issue was later presented to the Court of Impeachment. Moreover, having regard to what has been mentioned above regarding the PRC\u2019s collection of evidence, there is no indication that Parliament\u2019s decision to bring charges against the applicant was based on insufficient information.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "87.\u00a0\u00a0As regards the voting in Parliament on the PRC\u2019s proposal, whereas party preferences may have played a role in the voting of Parliament, the Court is of the view, having regard to the above elements, that the process leading to the applicant\u2019s indictment was not arbitrary, nor political to such an extent that the fairness of his trial was prejudiced.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "88.\u00a0\u00a0The applicant also complained that, when his defence counsel had received from the prosecutor the documents invoked in the case, she had failed to provide explanations as to the relevance of the documents to the case and had thereby frustrated the understanding of the substance and nature of the charges against him, a prejudice that had been compounded by the charges\u2019 unclear and vague wording. The same vagueness applied to the wording of the relevant legal provisions, in particular Article 17 of the Constitution and section 8(c) of the Ministerial Accountability Act. Due to these alleged deficiencies, the applicant asserted that he had not received sufficient information in regard to the charges and had not been given an opportunity to prepare a proper defence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "89.\u00a0\u00a0The Court reiterates that the right to adversarial proceedings involves the possibility for the parties to learn of the observations or evidence produced by the other party and to make submissions in that regard (see, among other authorities, Fitt v. the United Kingdom [GC], no.\u00a0\u00a029777/96, \u00a7\u00a046, ECHR 2000-II; and \u010cepek v. the Czech Republic, no.\u00a0\u00a09815/10, \u00a7 44, 5\u00a0September 2013). Furthermore, the principle of equality of arms \u2013 one of the elements of the broader concept of a fair trial \u2013 requires a \u201cfair balance between the parties\u201d: each party is to be given a reasonable opportunity to present his case under conditions that do not place him at a substantial disadvantage vis-\u00e0-vis his opponent (see, for example, Matyjek v. Poland (dec.), no. 38184/03, \u00a7 55, ECHR 2006-VII, and Nikolova and Vandova v.\u00a0Bulgaria, no. 20688/04, \u00a7 91, 17 December 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Furthermore, in criminal matters the provision of full, detailed information to the defendant concerning the charges against him, and consequently the legal characterisation that the court might adopt in the matter, is an essential prerequisite for ensuring that the proceedings are fair. Additionally, sub-paragraphs (a) and (b) of Article 6 \u00a7 3 are connected and the right to be informed of the nature and the cause of the accusation must be considered in the light of a defendant\u2019s right to prepare his defence (seem for instance, P\u00e9lissier and Sassi v. France [GC], no. 25444/94, \u00a7\u00a7 52 and 54, ECHR 1999-II).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "90.\u00a0\u00a0As already mentioned, the Court observes that the indictment provided examples of the negligent conduct held against the applicant under count 2. Furthermore, an explanatory memorandum was enclosed to the Parliament resolution. More importantly, when later filing the case with the Court of Impeachment, the prosecutor submitted further arguments on the issue of the obligation and importance to hold ministerial meetings given the situation that had prevailed at the relevant time. It appears that the evidence relating to count 2 mainly consisted of transcripts of minutes from ministerial meetings and witness statements concerning the issues that had been discussed at the meetings. In the Court\u2019s view, there is no indication that the applicant and his counsel were not given sufficient information to understand the charge under count 2. Moreover, the case was filed on 7\u00a0June 2011, nine months before the hearing of the case commenced before the Court of Impeachment, and the applicant must therefore be considered to have had ample opportunity to acquaint himself with the case materials and prepare his defence. Furthermore, having regard to the text of the legal provisions in question, the Court agrees with the Court of Impeachment that they \u201cwere worded in such a way that they could be interpreted on the basis of objective criteria and were clear enough to enable a proper defence\u201d (see paragraph 29 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "91.\u00a0\u00a0The applicant further asserted that the rules of procedure applicable in the domestic proceedings had been obscure and had been applied by the Court of Impeachment in an unpredictable and inconsistent manner, generally to his disadvantage. As examples, he alleged that the court had appointed defence counsel for him too late, after having first refused to make such an appointment, and that it had given the prosecutor an unduly long period of time to gather evidence against him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "92.\u00a0\u00a0In the Court\u2019s view, it is clear that the few provisions of the Court of Impeachment Act operated as lex specialis and therefore took precedence over the general rules in the Criminal Procedure Act, which regulated all issues not covered by the first-mentioned act. The Court cannot find any indication that the procedural rules applicable in the case were applied incorrectly or generally to the disadvantage of the applicant. As regards the issue of defence counsel, the applicant engaged a lawyer to defend him on 28\u00a0September 2010, on the day of Parliament\u2019s vote on impeachment, and the Court of Impeachment appointed that lawyer as his defence counsel on 30\u00a0November 2010, following a request submitted to the court two weeks earlier. It has not been shown that another request for appointment of defence counsel had been made by the applicant. In this context, it is important to note that the applicant was not interrogated or detained during the pre-trial investigation (cf., among other authorities, Salduz v. Turkey [GC], no. 36391/02, \u00a7\u00a7 51-55, 27 November 2008; and Ibrahim and Others, cited above, \u00a7\u00a7 255-256, 13 October 2009). Furthermore, the appointment occurred almost half a year before the applicant\u2019s indictment and about 15\u00a0months before the main hearing. The applicant\u2019s right to effective legal assistance was therefore respected. The Court further finds that the claim that the prosecutor had been given undue time to gather evidence is unsubstantiated. Overall, there is nothing to indicate that the rules of procedure were applied in a manner that prejudiced the fairness of the applicant\u2019s trial.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0Finally, the applicant maintained that the prosecutor, due to her early involvement in the case, having expressed her opinion on the likelihood of conviction of the applicant, was not in a position to conduct an impartial investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court observes that the Convention does not guarantee a right to an impartial prosecutor. However, the presumption of innocence enshrined in Article 6 \u00a7 2 of the Convention is one of the elements of a fair criminal trial required by Article 6 \u00a7 1. It will be violated if a statement of a public official concerning a person charged with a criminal offence reflects an opinion that he is guilty before he has been proved so according to law. It suffices, even in the absence of any formal finding, that there is some reasoning to suggest that the official regards the accused as guilty. The principle of the presumption of innocence may be infringed not only by a judge or court but also by other public authorities and representatives of the State, including prosecutors (see, among other authorities, Allenet de Ribemont v. France, 10 February 1995, \u00a7\u00a7 35 and 36, Series A no. 308; and Kemal Co\u015fkun v. Turkey, no. 45028/07, \u00a7\u00a7 41 and 42, 28 March 2017).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0In the present case, Ms Fri\u00f0j\u00f3nsd\u00f3ttir, later appointed by Parliament to prosecute the case against the applicant, advised the PRC and expressed her opinion on certain matters, including the potential charges against the applicant and other ministers. The Court notes that the PRC was an ad hoc committee established by Parliament and composed of nine of its members. Among its tasks was to assess whether there were grounds for impeachment proceedings, thereby assisting Parliament, which held the prosecuting authority. The PRC heard two prosecutors, including Ms Fri\u00f0j\u00f3nsd\u00f3ttir, then deputy state prosecutor. Her involvement at this early stage thus formed part of the prosecuting authority\u2019s pre-trial investigation, the later stages of which she was subsequently designated to conduct. An intrinsic element of a pre-trial investigation is to establish whether there are sufficient grounds for prosecution, the absence of such grounds normally leading to a discontinuation of the investigation. A prosecutor\u2019s opinion on the existence of grounds for prosecution, or even the likelihood of a conviction, does not therefore, as such, violate the suspect\u2019s right to be presumed innocent. It is further important to note in the present case that Ms\u00a0Fri\u00f0j\u00f3nsd\u00f3ttir\u2019s advice and opinions were not given in statements to the public. Moreover, she did not take any judicial decisions in the case. In conclusion, therefore, her involvement during the examination by the PRC did not breach the principle of the presumption of innocence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "96.\u00a0\u00a0To summarise, the Court does not find that any measures taken or events occurring during the handling of the case by the PRC, Parliament and Parliament\u2019s prosecutor affected the applicant\u2019s position in a manner that could render the subsequent stages of the proceedings unfair. Nor could the pre-trial proceedings be considered to have had such an effect when examined as a whole.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The independence and impartiality of the Court of Impeachment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "97.\u00a0\u00a0The applicant submitted that the Court of Impeachment could not be regarded as an \u201cindependent and impartial tribunal\u201d within the meaning of Article\u00a06. The court had been composed of fifteen judges, eight lay judges and seven professional judges. The lay judges had been appointed by Parliament, which was also the prosecuting authority in his case. Moreover, Parliament had interfered with the composition of the court during the proceedings by prolonging the terms of the lay judges.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0The applicant argued that, although the mere appointment of the lay judges by Parliament did not necessarily constitute a violation of the requirement of independence and impartiality under the Convention, it should nevertheless be guaranteed that there were no links between Parliament and a tribunal and that Parliament could not interfere with the tribunal\u2019s affairs by for instance changing the composition or in any way influence the lay judges. It was also important that the number of lay judges should not exceed that of professional judges as the vote of the lay judges alone could otherwise be decisive in a case. In these respects, the applicant referred, inter alia, to the Ninn-Hansen case (cited above, p. 345).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0In the applicant\u2019s view, the lay judges in the case, having been selected by Parliament through proportional representation, had been appointed on political grounds and could have been loyal party followers or connected to political parties in other ways. Their appointment had not offered sufficient guarantees to exclude legitimate doubt about the court\u2019s independence and impartiality.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0Moreover, Parliament had exceeded its boundaries towards the Court of Impeachment by amending the Court of Impeachment Act to the effect that the six-year term of the lay judges was extended to cover the duration of the applicant\u2019s case. Parliament had had the choice of either prolonging the terms of the sitting lay judges or appointing new lay judges. As, allegedly, the Court of Impeachment, up until that point, had ruled mainly in favour of the prosecution, it could not be excluded that Parliament had deliberately sought to keep the sitting lay judges for that reason. Consequently, Parliament\u2019s ability and readiness to alter the composition and procedure of the court, even after the commencement of the proceedings in the case, had also given rise to a legitimate doubt about the independence and impartiality of the court.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "101.\u00a0\u00a0The Government contended that the procedure for appointment of lay judges satisfied the criteria laid down by the Court\u2019s case-law on the subject. Referring, in particular, to the Ninn-Hansen case (cited above), they pointed out that the Court had accepted that having lay judges with insight into political affairs or entrusting Parliament with the appointment of judges, such as in this case of the Court of Impeachment, could not as such cast doubt on the independence or impartiality of the court. Furthermore, the lay judges had been completely independent from Parliament and had not been subject to any instructions therefrom. Also, all judges had been required to take an oath to the effect that they would pass judgment that was \u201cright and true according to law and the evidence of the case\u201d. In the Government\u2019s view, the fact that the lay judges had formed a majority of the members of the Icelandic Court of Impeachment, as opposed to the corresponding Danish court in the Ninn-Hansen case where they had participated in equal numbers with the professional judges, should not lead to a different conclusion on the question of independence and impartiality. There was nothing to suggest that the equal representation in the Ninn-Hansen case had been decisive for the outcome of that case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "102.\u00a0\u00a0The Government further stressed that the lay judges of the Court of Impeachment had been appointed many years before the proceedings against the applicant had been initiated and that the reason for the extension of their terms had been specifically to prevent the court from being composed of judges appointed to adjudicate that particular case, thereby fulfilling a requirement set out in the Ninn-Hansen decision.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0In order to establish whether a tribunal can be considered independent for the purposes of Article 6 \u00a7 1, regard must be had, inter alia, to the manner of appointment of its members and their term of office, the existence of safeguards against outside pressures and the question whether it presents an appearance of independence. As regards the requirement of impartiality, the tribunal must be subjectively free of personal prejudice or bias and must also be impartial from an objective viewpoint in that it must offer sufficient guarantees to exclude any legitimate doubt in this respect (see, among other authorities, Findlay v. the United Kingdom, 25 February 1997, \u00a7 73, Reports of Judgments and Decisions 1997I, and Ninn-Hansen, cited above, pp. 343-44). In the instant case the Court will consider the two issues \u2013 independence and impartiality \u2013 together.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "104.\u00a0\u00a0The Court of Impeachment Act governs the composition and functioning of the Court of Impeachment. Section 2 lays down that the court is composed of 15 judges, of which eight are lay judges appointed by Parliament by proportional representation for a term of six years. As the independence and impartiality of the seven professional judges, the law professor included, is not in dispute, only the position of the eight lay judges will be examined in the following.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0The Court accepts generally that the participation of the lay judges in question could be seen as beneficial for the Court of Impeachment\u2019s understanding and examination of the issues in the case since the lay judges contributed a certain insight in political matters. However, Article 6 \u00a7\u00a01 requires a court to be independent not only from the executive and the parties but also from the legislator, that is, the Parliament. Nevertheless, mere appointment of judges by Parliament cannot as such cast doubt on the independence or impartiality of the court. It is of importance that section\u00a03 of the Court of Impeachment Act stipulates that a Member of Parliament or an employee of the Government offices is not eligible to hold a seat on the court. Although political sympathies may still play a part in the process of appointment of lay judges to the Court of Impeachment, the Court does not consider that this alone raises legitimate doubts as to their independence and impartiality. In this regard, the Court notes that section 7 of the Act stipulates that, prior to taking seat on the court for the first time, a judge shall sign an oath to the effect that he or she will execute the duties conscientiously and impartially in every respect and to the best of his or her ability as provided for by law. Furthermore, it has not been shown that the lay judges sitting in the applicant\u2019s case declared any political affiliations concerning the subject-matter in issue or that there existed other links between them and Parliament which could give rise to misgivings as to their independence and impartiality. The applicant has not alleged that any of the lay judges actually took instructions or acted in a biased manner (see NinnHansen, cited above, p. 345).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0The Court further finds that the fact that the lay judges of the Court of Impeachment made up a majority of eight members to seven does not impact on the foregoing considerations. The rules mentioned provided guarantees for the lay judges\u2019 independence and impartiality and their conduct did not give cause for any misgivings. Furthermore, there is no indication that the equal representation of professional judges and lay judges appointed by Parliament in the Danish Court of Impeachment was decisive for the conclusion in the Ninn-Hansen case (cited above) that that court fulfilled the requirements of independence and impartiality. The Court notes, in this context, that the present applicant was convicted by nine votes to six, where five out of the nine judges giving a guilty verdict were professional judges.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0By a decision of Parliament the Court of Impeachment Act was amended, extending the term of the sitting lay judges of the court to cover the entirety of the proceedings against the applicant. Had this amendment not been made, the six-year term of the lay judges would have expired during the pre-trial stage of the proceedings. While Parliament thereby intervened in relation to the composition of the court, the Court considers that the measure was, in the circumstances, fully justified. The only alternative to the action chosen was to appoint new lay judges. As, effectively, they would have been appointed specifically for the case at hand, their participation could have given rise to justifiable doubts with regard to independence and impartiality. Conversely, the lay judges already sitting on the Court of Impeachment had been appointed years before the relevant events of the case took place and before the proceedings against the applicant started. Furthermore, there had been parliamentary elections in the meantime and the sitting lay judges had thus not been appointed by the same Parliament that had decided to prosecute the applicant. Finally, in regard to the applicant\u2019s assertion that Parliament may have opted to prolong the term of the sitting lay judges because the Court of Impeachment had so far ruled predominantly in favour of the prosecution, the Court finds that no evidence has been presented which would give reason to believe that the lay judges, or the court as a whole, had acted in a biased manner.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0Accordingly, having regard to the particular circumstances of the case and the special character of the Court of Impeachment, the Court finds nothing to show that the Court of Impeachment failed to meet the requirements of independence and impartiality under Article 6 \u00a7 1.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The trial before the Court of Impeachment and its judgment",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "109.\u00a0\u00a0The applicant asserted that uncertainty concerning the details of the charges against him and the arguments on which the prosecution intended to base them had persisted until the end of the proceedings, even after the case had been taken to adjudication. He claims that this had given the Court of Impeachment an excessive margin of appreciation as to the grounds on which it would base its verdict.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0The above issues were allegedly reflected in the Court of Impeachment\u2019s judgment. An essential factor in the court\u2019s reasoning \u2013 and a necessary condition for criminal liability under the Ministerial Accountability Act \u2013 had been that the applicant\u2019s conduct had not merely violated a breach a formal requirement to hold ministerial meetings on important government matters but had constituted a grave breach of the duties pertaining to the office. In order to support its finding in this respect, the court held that the lack of ministerial meetings had contributed to a political policy to address the problems not having been formulated and that, if such a policy had been formulated and followed, it could be argued that the damage caused by the collapse of the banks could have been reduced. The applicant contended that these conclusions had been purely speculative and not supported by the evidence in the case. What is more, they had not been pleaded by the prosecution, as they had neither been presented in the indictment nor been argued before the court. As a consequence, he had not had the opportunity to address or refute such arguments in his defence or had any reason to expect that the court would convict him on these grounds. He therefore argued that he had been convicted on grounds other than those on which the charges against him had been based.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0The applicant further submitted that the above reasoning of the Court of Impeachment showed that it had applied a reverse burden of proof in regard to the consequences of his conduct not to hold ministerial meetings. In other words, the court\u2019s finding on the latter conduct had served as an irrebuttable presumption that the Icelandic State had incurred greater losses than it otherwise would. The applicant claimed that this had infringed the principle of presumption of innocence under Article 6 \u00a7\u00a02. Instead of giving him the benefit of the doubt, the court had allowed the prosecution to profit from the lack of evidence and reasoning in its pleadings, seemingly to avoid the possibility of a politically and publicly unpopular acquittal on all counts.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": "112.\u00a0\u00a0The Government stated that the European Court is not a fourth instance from the national courts, and that, under the principle of subsidiarity, it was not for the Court to review the findings of the Court of Impeachment as regards the evidence and facts of the case or the applicability of national law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "113.\u00a0\u00a0Moreover, there was nothing to indicate that the finding of guilt in the case had not had a sufficient basis in the evidence submitted by the prosecution. In particular, the prosecutor had in her pleadings before the court specifically argued that a breach of Article 17 of the Constitution had substantive consequences, notably that, if cabinet meetings were not convened on urgent problems, the opportunity to respond clearly would be lessened. Thus, the argument that the duty to hold ministerial meetings was not only a formal duty but also a substantive requirement with clear purposes had been advanced by the prosecution and the applicant had had the opportunity to respond in his defence.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "114.\u00a0\u00a0The Court has consistently held that both the admissibility of evidence and its assessment are primarily a matter for regulation by national law and that as a general rule it is for the national courts to assess the evidence before them. The Court\u2019s duty is to ensure the observance of the engagements undertaken by the Contracting Parties to the Convention. In particular, its function is not to deal with errors of fact or law allegedly committed by a national court unless and in so far as they may have infringed rights and freedoms protected by the Convention, but rather to ascertain whether the proceedings as a whole, including the way in which evidence was taken, were fair (see, among other authorities, Lhermitte v.\u00a0Belgium [GC], no. 34283/09, \u00a7 83, 29 November 2016).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "115.\u00a0\u00a0In the present case, the applicant was held criminally liable under Article 17 of the Constitution read together with section 8(c) of the Ministerial Accountability Act. Article 17 provides that ministerial meetings shall be held for certain reasons, among which is the discussion of important government matters. Under section 8(c), criminal liability is levied on a minister who fails to implement this constitutional duty. Section 2 of the Act prescribes that liability is limited to acts or omissions performed intentionally or through gross negligence. Accordingly, as held by the Court of Impeachment (see paragraph 34 above), the offence imputed to the applicant was one of omission, according to which a conduct was punishable irrespective of the consequences or risks attributable to it.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "116.\u00a0\u00a0The offence thus construed was argued by the prosecution before the Court of Impeachment (see the indictment and the prosecutor\u2019s pleadings, paragraphs 23 and 25 above). Having considered the totality of the evidence before it, including the minutes of cabinet meetings held in 2008, the court found that the danger facing the Icelandic banking system undoubtedly concerned an important government matter, that the applicant must have been aware thereof, that this issue had not been properly discussed at the meetings and that the failure was due to the applicant\u2019s grossly negligent conduct (see paragraphs 32, 36, 38 and 39 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "117.\u00a0\u00a0Thus, the Court, reiterating that it is not called upon to substitute its own assessment of evidence for that of the Court of Impeachment, considers that the offence of which the applicant was found guilty was sufficiently described in count 2 of the indictment (see the conclusion in this respect at paragraph 90 above) and was furthermore covered by the prosecution\u2019s pleadings before the Court of Impeachment, that that the applicant was fully able to respond to the indictment, the pleadings and the evidence presented and that the Court of Impeachment set out the factual and legal reasoning for the conviction at length and did not stray beyond the case as put to it by the prosecution or a reasonable reading of the legal provisions applied.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "118.\u00a0\u00a0It is true that the Court of Impeachment, towards the end of its reasoning (see paragraph 39 above), deliberated as to what would have been the likely consequences had the applicant not failed to address at cabinet meetings the danger facing the Icelandic banking system and the welfare of the State. However, as noted above, the conduct of which the applicant was convicted was punishable irrespective of such consequences. The court\u2019s finding that the applicant had acted with gross negligence was based on the conclusion that he had failed to fulfil his duty to properly address matters the importance of which he had been aware or at least should have been aware. The possibility that this conduct had had certain consequences was therefore not a necessary condition under the law for finding him criminally liable and the court\u2019s remarks in this respect appear to have had the character of obiter dicta.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "119.\u00a0\u00a0Having regard to the above, the Court finds that neither the trial before the Court of Impeachment nor the reasoning given in its judgment breached the guarantees set out in Article 6.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0General conclusion",
+                                "elements": [
+                                    {
+                                        "content": "120.\u00a0\u00a0In conclusion, the proceedings in the case, examined in respect of the elements complained of by applicant and as a whole, met the requirements of a fair trial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It follows that that there has been no violation of Article 6 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 7 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "121.\u00a0\u00a0As he did under Article 6, the applicant complained under Article 7 that his conviction had been based on legal provisions that were vague and unclear. Moreover, he had not been able to foresee the criminal liability imputed to him as the Court of Impeachment, in applying these provisions, had disregarded an established convention regarding ministerial meetings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 7 \u00a7 1 of the Convention provides, in so far as relevant, the following:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "122.\u00a0\u00a0The Government contested the applicant\u2019s claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The applicant\u2019s submissions",
+                                "elements": [
+                                    {
+                                        "content": "123.\u00a0\u00a0The applicant claimed that Article 17 of the Constitution and section 8(c) of the Ministerial Accountability Act were vaguely worded and that, thus, their interpretation and application lacked the clarity and foreseeability required under the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "124.\u00a0\u00a0He also asserted that, with regard to the holding of ministerial meetings, he had followed a parliamentary and government convention which had been observed and accepted for over a century. According to this convention, ministers were required to discuss at ministerial meetings only specific issues that should be presented subsequently to the Danish king (and, following the independence of Iceland, the President of the Republic) under Article 16(2) of the Constitution, whereas it was subject to the ministers\u2019 discretion whether they discussed other \u201cimportant government matters\u201d. Allegedly, in spite of this known and established convention which had not been subject to any judicial, academic or public criticism, the Court of Impeachment had decided to apply a literal interpretation of Article\u00a017 of the Constitution to the effect that ministers were obliged to discuss any and all \u201cimportant government matters\u201d in formal ministerial meetings. In view of the long-established convention regarding the agenda of ministerial meetings, the applicant contended that he could not have reasonably foreseen that his conduct could lead to his being criminally charged and convicted.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Government\u2019s submissions",
+                                "elements": [
+                                    {
+                                        "content": "125.\u00a0\u00a0The Government contended that the wording of the provisions under which the applicant was found criminally liable had been sufficiently clear and that the Court of Impeachment\u2019s interpretation thereof had been foreseeable and consistent with the essence of the offence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "126.\u00a0\u00a0As regards the long-established convention invoked by the applicant, the Government submitted that this was a matter of interpretation and application of national law. In line with the principle of subsidiarity, it had been the role of the Court of Impeachment to assess whether such custom existed and, if so, what effect it should have on the interpretation and application of Article 17 of the Constitution. The role of the European Court was limited to assessing whether the interpretation given in the case at hand had been consistent with the requirements of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "127.\u00a0\u00a0The guarantee enshrined in Article 7, which is an essential element of the rule of law, should be construed and applied, as follows from its object and purpose, in such a way as to provide effective safeguards against arbitrary prosecution, conviction and punishment. It is not confined to prohibiting the retrospective application of the criminal law to an accused\u2019s disadvantage: it also embodies, more generally, the principle that only the law can define a crime and prescribe a penalty (nullum crimen, nulla poena sine lege) and the principle that the criminal law must not be extensively construed to an accused\u2019s detriment, for instance by analogy. It follows from these principles that an offence must be clearly defined in the law, be it national or international. This requirement is satisfied where the individual can know from the wording of the relevant provision \u2013 and, if need be, with the assistance of the courts\u2019 interpretation of it and with informed legal advice \u2013 what acts and omissions will make him criminally liable. However clearly drafted a legal provision may be, in any system of law, including criminal law, there is an inevitable element of judicial interpretation. There will always be a need for elucidation of doubtful points and for adaptation to changing circumstances. Indeed, in the Convention States, the progressive development of the criminal law through judicial interpretation is a well-entrenched and necessary part of legal tradition. Article\u00a07 of the Convention cannot be read as outlawing the gradual clarification of the rules of criminal liability through judicial interpretation from case to case, provided that the resultant development is consistent with the essence of the offence and could reasonably be foreseen (see Vasiliauskas v. Lithuania [GC], no. 35343/05, \u00a7 153-155, ECHR 2015, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "128.\u00a0\u00a0Turning to the present case, the Court notes at the outset, relying on the judgment of the Icelandic Court of Impeachment, that, historically, according to the preparatory works relating to Article 17 of the Constitution, it was considered necessary that ministerial meetings be held as often as occasion required so that legislation and important matters could be discussed at a joint meeting of all ministers. The domestic court also cited constitutional doctrine according to which the references to \u201cimportant government measures\u201d in Article 16 of the Constitution and \u201cimportant government matters\u201d in Article 17 undoubtedly did not have the same meaning. The Court further observes that, according to the Court of Impeachment, it was of primary importance that matters concerning the interests of the State and the general population be discussed at meetings of the cabinet, this being the forum which the ministers should, according to the Constitution, utilise for political consultation between them on the highest governance of the State and policy-making for important State matters. Furthermore, the Court notes that the Court of Impeachment held that the Prime Minister, whose task it is to head the government and preside ministerial meetings, had a duty to ensure that important government matters of which he was aware were discussed and addressed at such meetings, as provided for in Article 17 of the Constitution.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "129.\u00a0\u00a0The applicant further stated that there was a century-old practice of discussing at ministerial meetings only such issues that should be submitted to the President of the Republic under Article 16(2) of the Constitution and that, by following this tradition, he could not have foreseen that he would be convicted for failing to implement an obligation under Article 17. In this respect, the Court notes that the Court of Impeachment examined the history of the two articles in depth and found that their different wording \u2013 \u201cimportant government measures\u201d in Article 16(2) and \u201cimportant government matters\u201d in Article 17 \u2013 unequivocally supported a literal interpretation of the latter, to the effect that the Prime Minister had a duty to ensure that important government matters were discussed and addressed in ministerial meetings. The court considered that, whether or not the practice had been to raise such matters at the meetings or in other fora, that custom had not absolved the Prime Minister from his duty under Article\u00a017. Moreover, having concluded that the danger facing the welfare of the State had been of gigantic and unprecedented proportions and that this was clearly an \u201cimportant government matter\u201d within the meaning of Article\u00a017, it further found that the sensitivity of the financial market situation did not excuse a failure to raise the issues in question at ministerial meetings, as these meetings were designed to enable discussions among ministers in full confidentiality. Contrary to the applicant\u2019s assertions, the court, taking into account the evidence presented in the case, found that the issues had not been discussed at ministerial meetings between February and the end of September 2008 (see paragraphs 36-39 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "130.\u00a0\u00a0The Court therefore observes, in light of the above, that Article\u00a017 of the Icelandic Constitution is a provision of central importance in the constitutional order, in that it sets out important principles on how the Government is expected to function, as a collegial organ for important matters of State governance and policy-making. As the Court of Impeachment has stated, the applicant as Prime Minister and Head of Government was responsible for ensuring that the requirements of Article\u00a017 were complied with. The Court agrees with the Court of Impeachment in finding that the provision cannot be regarded as lacking in sufficient clarity, even though the notion of \u201cimportant government matters\u201d may necessarily be a matter of interpretation. Under the circumstances of the present case, the Court has no difficulty in considering, in line with the Court of Impeachment, that the latter issue is not subject to doubt.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "131.\u00a0\u00a0Accordingly, the conclusions drawn by the Court of Impeachment as regards the meaning to be given to the relevant provisions and their application to the conduct of the applicant must be considered to have been well within its remit to interpret and apply national law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0In conclusion, the Court finds that the offence for which the applicant was convicted was sufficiently defined in law and that the interpretation given by the Court of Impeachment was consistent with the essence of the offence thus defined. Accordingly, the applicant could reasonably foresee that his conduct would render him criminally liable under the provisions of the Constitution and the Ministerial Accountability Act applied in the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It follows that there has been no violation of Article 7 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares, unanimously, the application admissible in so far as it relates to count 2 of the indictment against the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares, by a majority, the application inadmissible with regard to the remainder;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds, unanimously, that there has been no violation of Article 6 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds, by six votes to one, that there has been no violation of Article 7 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 23 November 2017, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article\u00a045 \u00a7\u00a02 of the Convention and Rule\u00a074 \u00a7\u00a02 of the Rules of Court, the separate opinion of Judge Wojtyczek is annexed to this judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0I respectfully disagree with my colleagues concerning the issue of compliance with Article 7 of the Convention. Concerning Article 6 of the Convention, I have voted, not without hesitations, with the majority.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The instant case touches upon one of the most complex issues of constitutional law: checks and balances designed to prevent misuse of public power. Among the most important guarantees of the rule of law there is legal liability for misuse of power (either through abuse or negligence) and impeachment procedure against holders of power as a tool for enforcing this legal liability. Impeachment procedure against members of the cabinet exists in many European States and belongs to the common heritage of political traditions, ideals, freedom and the rule of law, referred to in the Preamble to the Convention. It does, however, raise two delicate questions.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Firstly, in some States, impeachment procedures derogate to some extent from the general procedural and substantive rules of legal liability. Those derogations may also affect the fundamental human rights - both procedural and substantive - of the persons concerned. Derogations from the general regime of legal liability should not entail impermissible derogations from internationally protected human rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Secondly, the danger that any power may be misused also concerns the power to initiate the impeachment procedure. There is a real risk that the parliamentarians who have to decide on the initiation of impeachment proceedings and the impeachment judges will not be able to resist the pressure of public opinion. There is also a risk that the procedure will be initiated against political opponents for political reasons, especially after a change of the parliamentary majority. Moreover, it may happen that the purpose of the impeachment procedure is not so much the final conviction but harassment stemming from the stress and pain of a burdensome legal procedure with an uncertain outcome.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In this context, finding the proper balance between effective prevention of the misuse of power by the public office holders and the procedural and substantive rights of the accused is not an easy exercise.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The Icelandic parliament decided to prosecute the applicant in the instant case and not to put a few other members of the cabinet on trial. The majority expresses the following view:",
+                        "elements": []
+                    },
+                    {
+                        "content": "\u201cAs regards the voting in Parliament on the PRC\u2019s proposal, whereas party preferences may have played a role in the voting of Parliament, the Court is of the view, having regard to the above elements, that the process leading to the applicant\u2019s indictment was not arbitrary, nor political to such an extent that the fairness of his trial was prejudiced\u201d (see para. 79).",
+                        "elements": []
+                    },
+                    {
+                        "content": "I agree that the decision to indict the applicant was not per se arbitrary; however, when placed in the context of the decision not to prosecute other cabinet members (see paragraph 15) becomes problematic and the parliamentary decision-making process in this respect appears highly political. Similarly, the election of judges (whether lay or with a degree in law) by the parliament may lead to the choice of persons with a certain mental structure connected with strong partisan engagement and the ensuing likelihood of bias that may appear in politically sensitive cases. In this context, the main problem is neither that they would lack guarantees of independence and impartiality nor that their conduct would give cause to any misgivings (see paragraph 96) but the danger of apprehending cases with a certain political bias.",
+                        "elements": []
+                    },
+                    {
+                        "content": "On the other hand, the danger of politicisation of the decision to indict a cabinet member in the impeachment procedure is the inevitable consequence of parliamentary involvement. The power of parliament to initiate impeachment proceedings is part of the European constitutional heritage. Similarly, a number of national parliaments have the power, often deeply rooted in constitutional tradition, to elect some of or all the judges of the impeachment court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Article 6 encompasses a broad range of procedural and institutional guarantees for a fair trial. As a result, violations of this provision may vary widely in nature and may impact on the judicial process in very different ways.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The criminal charges in proceedings should be seen as a whole, as the accused has to prepare his defence against all the charges. The observance of Article 6 standards in respect of one charge cannot be assessed in isolation from all other charges. Unfairness in respect of one charge may detrimentally affect the capacity of the accused to prepare his defence in respect of the other charges, because of the extra time, energy and stress needed to rebut the latter. A judge\u2019s partiality in respect of one count of indictment usually contaminates the apprehension of all other counts of indictment. One cannot exclude, however, that a certain type of procedural unfairness in respect of one count of indictment does not really impact on the defence in respect of other counts of indictment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Moreover, as mentioned above, there is a danger that legal proceedings may be misused for the purpose of legal harassment. Even if the decision to initiate criminal proceedings is not arbitrary, the unfairness of the trial may aggravate the stress and pain of a criminal procedure. In such a context, a final acquittal in respect of certain charges, or even on all charges, does not necessarily repair the suffering endured and therefore does not necessarily deprive the accused of his victim status under the Convention. Moreover, procedural unfairness usually delays the final acquittal of the accused, whereas a person tried in compliance with procedural rights would have been acquitted much quicker, without enduring so much stress and uncertainty. An unfair trial, and especially an unfair trial initiated arbitrarily for the purpose of legal harassment, may be an extremely painful experience despite a final acquittal. What is more, a violation of Article 6 standards may cast doubt on the legitimacy of the final acquittal.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In this context, I fundamentally disagree with the methodology proposed by the majority in assessing the grievances brought under Article 6.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Prevention and prosecution of misuses of political power requires not only adequate institutional and procedural solutions but also substantive provisions which on the one hand criminalise the misuse of power and on the other comply with all the rule-of-law standards, particularly the requirements of precision and foreseeability. In particular, it is necessary to impose specific and precise legal obligations to act in order to prevent inaction from the authorities in situations when their action is necessary to achieve the common good.",
+                        "elements": []
+                    },
+                    {
+                        "content": "It transpires from the instant case that the Icelandic legal system was not sufficiently equipped to deal with problems of negligence by the members of the cabinet. The applicant was acquitted on all charges of negligence with the exception of failure to convene ministerial meetings in order to discuss the banking crisis. Yet from the citizens\u2019 point of view, the problem is not whether matters have been discussed but whether proper decisions have been taken.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0The Court has often and rightly stated that the interpretation of the domestic law belongs to the domestic courts. It does not belong to the Court to establish the correct interpretation of domestic law. One has to have regard, however, to the specificity of Article 7 cases, which by their very nature require an independent assessment of the precision and foreseeability of domestic law. This assessment has to be carried out from the perspective of its addressees.",
+                        "elements": []
+                    },
+                    {
+                        "content": "At the same time, regard must be had to the specificity of the Constitution and that of the persons liable for the misuse of power. Members of the cabinet are supposed to know the Constitution they apply, and in any event they have privileged access to legal advice of the highest quality provided by both government officials and, if necessary, by independent experts commissioned by the Government. In the assessment of compliance with the principles nullum crimen, nulla poena sine lege in the context of impeachment procedures, it is necessary to assess the precision and foreseeability of domestic law from the perspective of the aforementioned qualified addressees of the law.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0The scope of ministerial liability for negligence is defined in Act no. 4 on Ministerial Accountability of 19 February 1963, with reference to a \u201cbreach of the Constitution\u201d in Article 2 and to \u201cmeasures ordered in the Constitution\u201d in Article 8 (c). In other words, under the Act on Ministerial Accountability, the Prime Minister or ministers are criminally liable for omitting to undertake actions prescribed by the legal rules of the Constitution. In order to establish a criminal omission, one first has to identify a constitutional rule ordering the taking of a specific action in a given situation. Under Article 7 of the Convention, this rule should prescribe a specific action with sufficient precision and clarity so that the addressee of the rule is aware what he should do and in which circumstances.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In this context, in the instant case, the key issue is whether the Constitution imposes on the Prime Minister with sufficient clarity and precision the obligation to call ministerial meetings in order to discuss important State matters. To answer this question it is necessary to establish the meaning of the Article 17 of the Constitution of the Republic of Iceland. This provision has the following wording in the official translation available of the website of the Icelandic Government:",
+                        "elements": []
+                    },
+                    {
+                        "content": "\u201cMinisterial meetings shall be held in order to discuss new legislative proposals and important State matters. Furthermore, ministerial meetings shall be held if a Minister wishes to raise a matter there. The meetings shall be presided over by the Minister called upon by the President of the Republic to do so, who is designated Prime Minister.\u201d",
+                        "elements": []
+                    },
+                    {
+                        "content": "According to the Impeachment Court, this provision establishes the obligation for the Prime Minister to call a ministerial meeting in order to discuss an important State matter whenever such an important State matter arises. Quite frankly, I cannot discern that obligation in the above-mentioned provision, interpreted literally, although I agree that the precise meaning of the first sentence of Article 17 may to some extent be a subject of dispute.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Provisions establishing legal obligations typically indicate specific addressees. Even if it is clear that calling ministerial meetings and preparing their draft agenda belong to the Prime Minister, the latter is not identified as the addressee of any obligation referred to in the first sentence. The emphasis is clearly not on the obligations of the Prime Minister but on the procedures of governmental decision-making. In any event, important State matters may be brought before the ministerial meetings by any minister, not necessarily by the Prime Minister.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In my assessment, the first sentence has a double signification. Firstly, it divides public power between different organs belonging to the executive branch. The scope of the competence of ministerial meetings encompasses new legislative proposals and important State matters. In other words, no new legislative proposals can be made nor any important State matters decided without prior discussion at a ministerial meeting. Secondly, the first sentence regulates an important aspect of the mode of operation of the executive branch by enshrining the principle of cabinet collegiality. All ministers should take part in the discussion of new legislative proposals and important State matters (and as result in the decisions which follow). Important State matters should be decided neither by the Prime Minister acting alone nor by another minister acting alone, nor should they be referred to the Head of State in the Council without a prior discussion at a ministerial meeting. This latter aspect was especially important before the 1944 constitutional reform, when the head of Icelandic State was the King of Denmark. At that time the \u201cKing in the Council of State\u201d could take measures out of Iceland after consultation and meeting with one minister (see the dissenting opinion of the Court of Impeachment judges \u00c1stri\u00f0ur Grimsd\u00f3ttir, Benedikt Bogason, Fannar J\u00f3nasson, Gar\u00f0ar G\u00edslason and Linda R\u00f3s Michaelsd\u00f3ttir). The obligation on the Prime Minister is to ensure that decisions concerning important State matters are not taken without prior discussion at ministerial meetings and without the participation of all the ministers.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Constitutional practice, referred to by the applicant, confirms that Article 17 of the Constitution has not been understood as imposing on the Prime Minister a legal obligation to submit all important State matters to the ministerial meetings. Moreover, there may be different explanations of the difference in wording between Article 16 (where the term important government measures is used) and the Article 17 (with the term important State matters). What is submitted to the President of the Republic is certain draft measures, whereas ministers under article 17 discuss matters. The discussion may lead to the subsequent submission of certain draft measures to the President or to the decision not to make such proposals, at least at a certain time. The latter situation may occur in particular if measures belonging to the scope of powers of a single minister may suffice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0In conclusion, I would like to stress that the applicant had a clear moral obligation to prevent or at least minimise the impact of the banking crisis on national economy. The lack of sufficient reaction from the authorities was rightly seen by the Icelandic public as a serious dysfunction of the State. At the same time, Article 17 of the Constitution does not establish any obligation on the Prime Minister to call a ministerial meeting in order to discuss an important State matter whenever such an important State matter arises. The applicant - even in the context of the required special knowledge of the Constitution and privileged access to legal advice - could not foresee that he could face criminal liability for the failure to call a ministerial meeting in order to discuss an important State matter.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I note that the whole issue has been extensively discussed in the above-mentioned separate opinion of the five Court of Impeachment judges. Their point of view is argued in such a persuasive way that it is difficult to disagree with them. The approach adopted by my colleagues in the case before this Court dangerously dilutes the force of fundamental rule-of-law guarantees enshrined in Article 7 of the Convention.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Linos-Alexandre Sicilianos",
+            "role": "president"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": "Krzysztof Wojtyczek",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Armen Harutyunyan",
+            "role": "judges"
+        },
+        {
+            "name": "Pauliine Koskelo",
+            "role": "judges"
+        },
+        {
+            "name": "Hj\u00f6rd\u00eds Bj\u00f6rk H\u00e1konard\u00f3ttir",
+            "role": "ad hoc judge"
+        },
+        {
+            "name": "Renata Degener",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF HAARDE v. ICELAND",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-178700.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:1123JUD006684712",
+    "externalsources": [],
+    "extractedappno": [
+        "66847/12",
+        "54178/00",
+        "59901/00",
+        "12433/86",
+        "942/02",
+        "48188/99",
+        "28972/95",
+        "50541/08",
+        "50571/08",
+        "50573/08",
+        "40351/09",
+        "29777/96",
+        "9815/10",
+        "38184/03",
+        "20688/04",
+        "25444/94",
+        "36391/02",
+        "45028/07",
+        "34283/09",
+        "35343/05"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Articles 16 and 17 of the Icelandic Constitution",
+        "The Ministerial Accountability Act",
+        "Sections 2 and 7 of the Court of Impeachment Act"
+    ],
+    "itemid": "001-178700",
+    "judgementdate": "23/11/2017 00:00:00",
+    "kpdate": "23/11/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "70",
+        "136",
+        "180",
+        "181",
+        "325",
+        "190",
+        "12",
+        "288",
+        "291",
+        "14",
+        "400"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "7",
+        "7-1",
+        "6-3-b",
+        "6-3-a",
+        "35-3-a",
+        "6-1",
+        "35",
+        "6",
+        "6-2"
+    ],
+    "parties": [
+        "HAARDE",
+        "ICELAND"
+    ],
+    "rank": "2111.42602539063",
+    "representedby": [
+        "ARNASON A."
+    ],
+    "respondent": "ISL",
+    "respondentOrderEng": "21",
+    "scl": [
+        "Allenet de Ribemont v. France, 10 February 1995, \u00a7\u00a7 35 and 36, Series A no. 308",
+        "\u010cepek v. the Czech Republic, no. 9815/10, \u00a7 44, 5 September 2013",
+        "Correia de Matos v. Portugal (dec.), no. 48188/99, 15 November 2001",
+        "Findlay v. the United Kingdom, 25 February 1997, \u00a7 73, Reports of Judgments and Decisions 1997 I",
+        "Fitt v. the United Kingdom [GC], no. 29777/96, \u00a7 46, ECHR 2000-II",
+        "Ibrahim and Others v. the United Kingdom [GC], nos. 50541/08, 50571/08, 50573/08 and 40351/09, 13 September 2016",
+        "J\u00f3n Kristinsson v. Iceland, 1 March 1990, Series A no. 171-B",
+        "Kemal Co\u015fkun v. Turkey, no. 45028/07, \u00a7\u00a7 41 and 42, 28 March 2017",
+        "Lhermitte v. Belgium [GC], no. 34283/09, \u00a7 83, 29 November 2016",
+        "Matyjek v. Poland (dec.), no. 38184/03, \u00a7 55, ECHR 2006-VII",
+        "Nikolova and Vandova v. Bulgaria, no. 20688/04, \u00a7 91, 17 December 2013",
+        "Ninn-Hansen v. Denmark, (dec.), no. 28972/95, ECHR 1999-V",
+        "Osmanov and Yuseinov v. Bulgaria, (dec.), nos. 54178/00 and 59901/00, 4 September 2003",
+        "P\u00e9lissier and Sassi v. France [GC], no. 25444/94, \u00a7\u00a7 52 and 54, ECHR 1999-II",
+        "Salduz v. Turkey [GC], no. 36391/02, \u00a7\u00a7 51-55, 27 November 2008",
+        "Vasiliauskas v. Lithuania [GC], no. 35343/05, \u00a7 153-155, ECHR 2015",
+        "Zementova v. Russia, no. 942/02, \u00a7 62, 27 September 2007"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "470034",
+    "typedescription": "15"
+}

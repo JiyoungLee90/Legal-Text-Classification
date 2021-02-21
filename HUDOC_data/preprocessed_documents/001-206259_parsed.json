@@ -1,0 +1,824 @@
+{
+    "__articles": "3;34",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Expulsion) (Substantive aspect) (Uzbekistan);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 34 - Individual applications (Article 34 - Hinder the exercise of the right of application)",
+    "applicability": "",
+    "appno": "30227/18",
+    "article": [
+        "3",
+        "34"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Effective investigation"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "34",
+            "base_article": "34",
+            "details": [
+                "Article 34 - Hinder the exercise of the right of application"
+            ],
+            "element": "Violation of Article 34 - Individual applications",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-206259.docx": [
+            {
+                "content": "Introduction",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The main issues in the present case are whether deportation of the applicant to Uzbekistan and his treatment by officers carrying out deportation amounted to breach of Article 3 of the Convention and whether the Government of Russia, having failed to comply with an indication of an interim measure by the Court, have breached the applicant\u2019s right of individual application under Article 34 of the Convention.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "introduction"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "2.\u00a0\u00a0The applicant, Mr Oybek Akramovich Yusupov, is a national of Uzbekistan who was born in 1984. He was represented by Ms D. Trenina, Mr K. Zharinov and Ms E. Davidyan, lawyers practising in Moscow.",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0The Russian Government (\u201cthe Government\u201d) were represented by Mr M. Galperin, Representative of the Russian Federation to the European Court of Human Rights.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0In 2013 the applicant came to Russia from Uzbekistan. In 2014 he was convicted of drug-related offences and sentenced to four years and six months\u2019 imprisonment in a correctional colony in Lipetsk Region.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0On 13 July 2016 the Uzbek authorities accused the applicant, under Article 244 \u00a7 1 of the Criminal Code of Uzbekistan, of participation in a banned extremist religious organisation and instituted criminal proceedings against him. In particular, the Uzbek authorities alleged:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c... While serving his sentence in the correctional colony in Russia [the applicant] met [Mr R., who was also a detainee]...who encouraged [the applicant] to do khijrat [to relocate] to Syria and join Muslim groups that preached the way of jihad... [the applicant] was watching ... videos entitled \u201cIn search of paradise\u201d that contained advice on establishing the Islamic State, messages by [Y.], a former \u201cAmir\u201d of this organisation and also Abduvali kori\u2019s [imam\u2019s] calls to khijrat ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "On 3 August 2016 a search warrant was issued in his name and on 7\u00a0August 2016 his detention was ordered in absentia.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 14 December 2017 the Uzbek authorities requested the applicant\u2019s extradition from Russia.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Decisions to declare the applicant\u2019s stay in Russia undesirable by the Ministry of Justice, the Ministry of the Interior and the Federal Security Service",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0On 30 March 2018 and 4 April 2018, respectively, the Ministry of Justice of Russia and the Ministry of the Interior of Russia (\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0434\u0435\u043b (\u041c\u0412\u0414) \u2013 hereinafter \u201cthe MVD\u201d) declared the applicant\u2019s presence in Russia undesirable. The applicant was notified of the first decision on 23 May 2018 and on 18 June 2018 a copy of that decision was sent to his lawyer, Mr Zharinov. On 6 July 2018 the applicant was notified of the second decision. Mr Zharinov was notified of the second decision at the end of July 2018 during the court proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 28 June 2018 the applicant himself challenged the decision of 30\u00a0March 2018 issued by the Ministry of Justice, in the Zamoskvoretskiy District Court of Moscow and also applied to the court for provisional measures and to stay his removal to Uzbekistan. In his application he stated that pursuant to the provisions of domestic law, after a decision declaring an alien\u2019s stay in Russia undesirable had been issued, it was sent to the migration authorities with a view to issuing a deportation order. He however, had not yet been served with a copy of the deportation order, which was likely to be issued shortly and would be enforceable immediately. Thus, he would not have an opportunity to appeal against it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0At the end of July 2018, the applicant\u2019s lawyer, in response to his request of 22 June 2018, received a letter from the Federal Security Service of Russia (\u00ab\u0424\u0421\u0411\u00bb \u2013 hereinafter \u201cthe FSB\u201d) dated 5 July 2018, stating that the applicant\u2019s stay in Russia had been declared undesirable and that he had been banned from entering Russia until 2037. A copy of that decision was not provided to the applicant\u2019s lawyer as reportedly \u201cit contained classified information\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 28 January 2019 the Lipetsk Regional Court confirmed on appeal the judgment of the Sovetskiy District Court of Lipetsk issued on 30\u00a0October 2018, in which the court had dismissed the applicant\u2019s complaint against the MVD and the FSB concerning the decisions issued by those agencies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 20 February 2019 the Moscow City Court upheld the judgment of the Zamoskovretskiy District Court issued on 6 September 2018 refusing the applicant\u2019s complaint against the Ministry of Justice concerning its decision in respect of the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Proceedings for refugee status",
+                                "elements": [
+                                    {
+                                        "content": "12.\u00a0\u00a0On 27 June 2018 the applicant requested refugee status in Russia. In his request he submitted, inter alia:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... In [Uzbekistan] I have been charged with crimes against the State on the basis of religious extremism ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "According to the bill of indictment, I was accused of watching banned [extremist] videos in a correctional colony [in Russia]. This is absurd because mobile telephones and the Internet are not allowed in detention... The only source of this information could be the testimony of other convicts who were serving their sentence in the [same correctional colony] and who are now at the hands of the Uzbek authorities. This means that the Uzbek authorities will also need my testimony because no other incriminating evidence can be obtained, given the nature of charges against me.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... In case of my return to [Uzbekistan] I am facing arbitrary criminal prosecution in connection with crimes of religious extremism and I am at risk of cruel [and] degrading treatment during investigation and my trial will be unfair. They will torture me to obtain confession in crimes which I have not committed ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The applicant also made extensive references to the reports of international human rights organisations and to the Court\u2019s case-law in respect of forced returns of Uzbeks charged with religious extremism crimes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 3 July 2018 the applicant was interviewed by a migration official in respect of his request.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0On 5 July 2018 the migration authorities refused to examine the merits of his application. In their decision they stated, in particular:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... in the questionnaire the applicant noted that the main reason[s] for his leaving [Uzbekistan] were to search of employment and religious persecution... According to the applicant, in case of his return, he \u201cwill be tortured, the charges against him are fabricated, he has no links to religious extremism and terrorism ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... [the applicant] came to Russia to for the purpose of work, he did not seek asylum at the border, and it appears that he did not need asylum at the time of crossing the border.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The examination of [the applicant\u2019s] case showed that he had not been involved in violent incidents, had not been a member of political, religious, military and public organisations, had not before sought refugee status in Russia. [The applicant] did not describe any facts of his persecution or threats by the Uzbek authorities on the basis of any of the above grounds. He replied in affirmative to the question of whether he had been searched for by the police or law enforcement authorities in any state. He could not provide any concrete examples of directs threats against him personally.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "[The applicant\u2019s] case-file does not contain any proof of threats to his life in [Uzbekistan]; [the applicant] does not provide any facts of violence committed against him against him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "His claim that he would be subject to criminal prosecution cannot serve as a ground for granting him a refugee status.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0On 30 July 2018 the Pravoberezhniy District Court of Lipetsk dismissed the applicant\u2019s lawyers\u2019 complaint against the refusal of the migration authorities to examine his request for refugee status on the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0On 15 October 2018 the Lipetsk Regional Court upheld that judgment.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": " Deportation of the applicant",
+                                "elements": [
+                                    {
+                                        "content": "18.\u00a0\u00a0Between 20 June and 4 July 2018 the applicant\u2019s lawyer in Lipetsk Region, Ms R., unsuccessfully requested to have a power of attorney issued in her name certified by the prison administration. Her requests were refused because the \u201cpresence of [the applicant] [was] required in the warden\u2019s office\u201d and \u201cadministration officials [were] not currently present\u201d. She was able to have power of attorney certified only on 4 July 2018.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0On 5 July 2018 Ms R., requested a copy of the deportation order from the migration authorities in Lipetsk. They informed her orally that the decision to deport the applicant had been taken and that it would be served on him the following day \u2013 6 July 2018.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 6 July 2018 Ms R. once again unsuccessfully tried to obtain a copy of a deportation order (see paragraph 31 below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0On 6 July 2018 the Ministry of the Interior office in Lipetsk Region (hereinafter \u201cthe MVD of Lipetsk Region\u201d) issued a deportation order in respect of the applicant. It referred to the decision of the Ministry of Justice on the undesirability of his stay in Russia. A copy of the deportation order was served on the applicant at the airport, shortly before his deportation. The applicant was deported the same day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0According to the applicant\u2019s lawyers, they could not contact the applicant on the day of his deportation and they were not aware of his whereabouts until 17 July 2018.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0On 10 July 2018 the applicant\u2019s lawyer received a copy of a deportation order from the migration authorities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 11 July 2018 the migration authorities in Lipetsk Region informed the applicant\u2019s lawyer that the applicant had been deported late in the evening on 6\u00a0July 2018 from Domodedovo International Airport in Moscow.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0On 30 July 2018 the Pravoberezhniy District Court of Lipetsk rejected an application by the applicant\u2019s lawyers to declare the deportation order unlawful and to order the MVD to annul it. On 15 October 2018 the Lipetsk Regional Court upheld that judgment.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Requests by the applicant\u2019s lawyer for the application of interim measures by the Court",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0Between 28 June and 6 July 2018 the applicant\u2019s lawyers submitted five requests for the application of the interim measures by the Court (on 28 and 29 June, 5 July and two requests on 6 July 2018). The first four requests were not accompanied by a copy of a deportation order in respect of the applicant, which would substantiate the applicant\u2019s allegations and on the basis of which the Court would be able to indicate an application of the interim measure to Government. Only on 6 July 2018 the applicant\u2019s lawyers explained that the migration authorities had refused to provide them with a copy of deportation order in respect of the applicant. The Court granted their request in the light of those submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Together with the requests under Rule 39 of the Rules of the Court, the applicant\u2019s lawyers also submitted, in particular:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(i)\u00a0\u00a0a copy of the applicant\u2019s request of 27 June 2018 for refugee status;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(ii)\u00a0\u00a0the appeal of 27 June 2018 against the decision declaring the applicant\u2019s stay in Russia undesirable;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iii)\u00a0\u00a0the request of 27 June 2018 for application of provisional measures to the domestic court;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(iv)\u00a0\u00a0Ms R.\u2019s notification of 5 July 2018 to the migration authorities of the applicant\u2019s pending request for refugee status and his appeal against the decision, pursuant to which his stay in Russia had been declared undesirable;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(v)\u00a0\u00a0Ms R.\u2019s report of 6 July 2018 on her conversations over the telephone and meetings in person with the migration officials on 5\u00a0and\u00a06\u00a0July 2018.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Events of 6 July 2018, the day of the applicant\u2019s deportation",
+                                "elements": [
+                                    {
+                                        "content": "The applicant\u2019s version of events",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0On 23 July 2018 the applicant\u2019s lawyer in Uzbekistan, Ms\u00a0Rak., questioned him in the pre-trial detention facility. According to the statement obtained from the applicant, on 6 July 2018, upon his release from the correctional colony three men dressed in plain clothes met him. They made him acknowledge and sign an official refusal of his request for refugee status, while also cursing at him. They then handcuffed him and brought him to a car and he asked them to stop cursing as he was of the Muslim faith. They then pushed him into the car and started beating him, having put a black face mask with eye holes on the back on him. They started driving to the airport, in about an hour they stopped for a bathroom break and they took the mask off after he had told them he would stay calm. For the remaining two and a half hours, he was being driven without a mask but handcuffed. At about 10 a.m. they stopped near the forest, he was handcuffed to a tree, with one of the men guarding him while two others were resting in the car. For about six to eight hours he was standing like that, being bitten by mosquitos, and no food or drink was provided to him. After that, they started driving to different pharmacies in search of some medicines that the men needed to buy. After that for about two hours he sat in the automobile near the forest. When they came to the airport, the applicant was checked in for the flight, and taken to the plane where two other plain-clothed men speaking Uzbek met him. They did not introduce themselves. They handcuffed him, put a baggy face mask on him and took his belongings away. He could not see anything once on board but he heard there were other passengers and he was taken past them in handcuffs. When the plane started taxiing for takeoff, he asked to have the handcuffs taken off. Instead, he was taken to the back of the plane, where he was punched several times. He was told not to talk to anyone and not to look anywhere. In about thirty to fifty minutes, his mask was taken off, the meal was served and he ate for the first time that day. Then [the officers] searched his belongings and questioned him.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0The applicants\u2019 lawyers also submitted a handwritten note from the applicant to Ms Trenina in which he asked her to inform the Court that he wished to maintain his application in respect of the complaints under Articles 3 and 34. The note contained a brief account of his alleged treatment before deportation set out in paragraph 28 above.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Application of interim measures by the Court",
+                                        "elements": [
+                                            {
+                                                "content": "30.\u00a0\u00a0On 6 July 2018, at about 8 p.m. Moscow time, the Court allowed the applicant\u2019s lawyers\u2019 request for application of interim measures and indicated to the Russian Government not to remove the applicant to Uzbekistan before 17 July 2018. The Court also requested additional information from the Government to be submitted by midday Strasbourg time on 11 July 2018.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Attempts of the applicant\u2019s lawyers\u2019 to prevent the applicant\u2019s deportation",
+                                        "elements": [
+                                            {
+                                                "content": "31.\u00a0\u00a0The applicant\u2019s lawyers submitted:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c... On 6 July 2018, at about 10 a.m. the officers at the correctional colony informed [the applicant\u2019s lawyer] that the applicant had been collected at around 5 a.m. by \u2018lawenforcement officers\u2019 and \u2018taken in an unknown direction\u2019. In an unofficial conversation with [the applicant\u2019s lawyer], they mentioned that these were FSB officers who had taken the applicant away. The migration officials informed [Ms R., the applicant\u2019s lawyer,] that they were not under an obligation to immediately provide a copy of a deportation order in respect of the applicant and that they could just hand it to [the applicant] himself. They also explained that they were acting on the orders of their superiors who had instructed them not to make a copy of the deportation order available to [the applicant\u2019s lawyer]. They said that [the applicant\u2019s lawyer] would receive a written reply to her request within thirty days.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "On the evening of 6 July 2018 the Pravoberezhniy District Court of Lipetsk applied a provisional measure and suspended the applicant\u2019s deportation order, having held that its \u2018decision [was] enforceable immediately\u2019. The examination of the case on the merits was scheduled on 23 July 2018 and then postponed to 30 July 2018 ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... Starting [at] 5.40 p.m. the applicant\u2019s lawyers informed ... the airport police units, the FSB of Russia and in Lipetsk Region, the migration authorities of Lipetsk Region and the office of [the MVD of Lipetsk Region] of [the provisional measure applied by the Pravoberezhniy District Court of Lipetsk].",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "At 8.03 p.m. the applicant\u2019s lawyer was informed about [the] application of interim measures by the Court under Rule 39 of the Rules of the Court. The applicant\u2019s lawyer immediately translated the letter of the Court and informed the airport police units, the FSB of Russia and Lipetsk region, the migration authorities of Lipetsk Region and the office of [the MVD of Lipetsk Region].",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The applicant was deported on a 10.45 p.m. flight from Domodedovo Airport.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... [The lawyers] were not able to meet or have any contact with [the applicant] on 6\u00a0July 2018. The lawyers were not sure of his whereabouts or fate until 17 July 2018 when the migration authority responded with details and the time of the applicant\u2019s deportation on [6 July 2018] ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The only response the applicant\u2019s lawyers received in respect of the information [that provisional and interim measures had been applied by the national court and the Court, respectively], was a letter from the office of the FSB in Lipetsk Region of 25\u00a0July 2018, stating that they took notice of the information ...\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0On 6 July 2018 the Pravoberezhniy District Court of Lipetsk allowed the request of Ms R. and ordered the MVD of Lipetsk Region to suspend the deportation of the applicant, pending the examination of his appeal against the deportation order. The court ordered that a copy of its decision be sent to the MVD of Lipetsk Region and it ruled that the decision was \u201cenforceable immediately\u201d. In reply to the request of the Pravoberezhniy District Court of Lipetsk of 28 November 2018, the MVD of Lipetsk Region responded that the notification had been received on 6 July 2018 after the working hours and examined in substance on 9 July 2018.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Government\u2019s reply to the Court\u2019s indication of interim measures",
+                                        "elements": [
+                                            {
+                                                "content": "33.\u00a0\u00a0On 11 July 2018 the Government, referring to the Court\u2019s letter of 9\u00a0July 2018 informed the Court that the applicant had been removed to Uzbekistan on 6 July 2018, that the time allocated by the Court for submission of additional information and documents was insufficient and that they would be provided on receipt from the competent State bodies. On 13 July 2018 in the light of the information received from the Government, the Court decided to discontinue the application of the interim measure in respect of the applicant and to lift anonymity granted to him.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Other proceedings in connection with the applicant\u2019s deportation",
+                                "elements": [
+                                    {
+                                        "content": "34.\u00a0\u00a0On 25 July 2018 the office of the FSB in Lipetsk Region acknowledged receipt of the applicant\u2019s lawyer\u2019s request to suspend his deportation in view of the interim measure applied by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0On 25 July 2018 the applicant\u2019s lawyers lodged a complaint (report of a crime) with the Russian Investigative Committee alleging the unlawful deportation of the applicant on 6 July 2018 and his ill-treatment during the transportation. They alleged, in particular, that the applicant had been driven in a face mask with eye holes on the back, punched and handcuffed to a tree for a prolonged period of time. In the letter of 12 October 2018 the MVD of Lipetsk Region replied that no physical force was used in respect of the applicant during his deportation. In the letter of 11 February 2019 the Lipetsk Region prosecutor\u2019s office stated that the applicant\u2019s deportation was carried out in accordance with the law, that the competent bodies had not been notified of any measures that would have prevented his deportation and that no facts were established that would have \u201cindisputably demonstrated [a] violation of [the applicant\u2019s] rights\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0On 21 February 2019 the Lipetsk Office of the Russian Investigative Committee opened a pre-investigation inquiry in connection with the complaint concerning the alleged ill-treatment of the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On 24 February 2019 the pre-investigation inquiry was extended until 23 March 2019, owing to the need to collect additional documents and carry out additional investigative steps. In particular, the investigator stated in his ruling to extend the pre-investigation inquiry that \u201cexplanations\u201d in respect of circumstances described in the complaint of 25 July 2018 should be obtained from officers Mr P. and Ms M. of the MDV of Lipetsk Region and employees of the correctional colony IK-2 in Lipetsk Region; that the decisions of the courts concerning the applicant\u2019s deportation and refugee status proceedings should be included in the material of the inquiry together with the replies to the investigative inquiries of the FSB border control service in Domodedovo airport and of the relevant State bodies in Uzbekistan.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0No further updates concerning these proceedings have been provided to the Court as of the date of the examination of this case.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "RELEVANT DOMESTIC LAW AND PRACTICE",
+                "elements": [
+                    {
+                        "content": "39.\u00a0\u00a0A summary of the domestic law concerning deportation was set out in the case of Liu v. Russia (no. 42086/05, \u00a7\u00a7 35-36, 6 December 2007).",
+                        "elements": []
+                    },
+                    {
+                        "content": "40.\u00a0\u00a0For a summary of relevant domestic law concerning procedure for examining criminal complaints see Lyapin v. Russia, no. 46956/09, \u00a7\u00a7\u00a099100, 24 July 2014.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "relevant_law"
+            },
+            {
+                "content": "REPORTS ON UZBEKISTAN",
+                "elements": [
+                    {
+                        "content": "41.\u00a0\u00a0References to relevant reports by UN agencies and international NGOs on the situation in Uzbekistan were cited in the cases of Kholmurodov v. Russia, no.\u00a058923/14, \u00a7\u00a7 46-50, 1 March 2016 and T.M.\u00a0and Others v. Russia [Committee], no. 31189/15, \u00a7 28, 7\u00a0November 2017.",
+                        "elements": []
+                    },
+                    {
+                        "content": "42.\u00a0\u00a0The Uzbekistan 2019 World Report by Human Rights Watch indicated that there had been certain promising steps to reform the country\u2019s human rights record; however, many reforms were yet to be implemented. It further stated that a limited number of persons imprisoned on politically motivated charges had been released in 2016-18. Furthermore, isolated incidents of security-agency officers sentenced for torture and death in custody were cited. Amnesty International Report 2017/2018 reflected similar trends, including judicial independence and effectiveness as the priorities set by the authorities for the systemic reform. At the same time the report stressed that the authorities continued to secure forcible returns, including through extradition proceedings, of Uzbekistani nationals identified as threats to the \u201cconstitutional order\u201d or national security.",
+                        "elements": []
+                    }
+                ]
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "Alleged violation of Article 3 of the Convention (deportation to Uzbekistan)",
+                                "elements": [
+                                    {
+                                        "content": "43.\u00a0\u00a0The applicant complained that the Russian authorities had exposed him to a real risk of ill-treatment by deporting him to Uzbekistan. He relied on Article 3 of the Convention which provides as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Government contested that argument. In particular, they submitted that on 5 July 2018 the MVD of Lipetsk Region rejected the applicant\u2019s request for refugee status. They submitted that in that decision the applicant\u2019s claim concerning the risk of ill-treatment in case of his deportation to Uzbekistan had been fully examined and duly assessed, in light of all relevant circumstances of his case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0The applicant maintained his complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "46.\u00a0\u00a0The Court notes that the applicant\u2019s complaint under Article 3 on account of his deportation to Uzbekistan is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "General principles",
+                                "elements": [
+                                    {
+                                        "content": "47.\u00a0\u00a0The relevant general principles concerning the application of Article\u00a03 have been summarised recently by the Court in the judgment in the case of F.G. v. Sweden, [GC], no. 43611/11, \u00a7\u00a7 111-27, ECHR 2016, and in the context of removals from Russia to Central Asian states in Mamazhonov v.\u00a0Russia, no. 17239/13, \u00a7\u00a7 127-37, 23 October 2014.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Application of those principles to the present case",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The Court notes that in the course of the refugee status proceedings, the applicant specifically argued that he was being prosecuted for extremism and faced a risk of ill\u2011treatment in Uzbekistan (see paragraphs 12-16 above). Furthermore, the search and arrest warrant and extradition request submitted by the Uzbek authorities were clear as to their basis, namely that he was accused of religiously and politically motivated crimes. The Russian authorities were therefore presented with evidence capable of proving that the applicant belonged to a vulnerable group of persons who were systematically exposed to a practice of ill-treatment in Uzbekistan in breach of Article 3 of the Convention and whose removal would expose them to a real risk of such ill-treatment (Mamazhonov v. Russia, no. 17239/13, \u00a7 140, 23 October 2014 and follow-up cases of N.M. v. Russia [Committee], no.\u00a029343/18, 3 December 2019; S.S. and others v. Russia [Committee], no.\u00a02236/16, 25 June 2019; B.U. and Others v. Russia [Committee], no.\u00a059609/17, 22 January 2019; T.M. and others v. Russia [Committee], no.\u00a031189/15, 7 November 2017). It is apparent from the material in the applicant\u2019s case-file that the Russian authorities had at their disposal sufficiently substantiated complaints pointing to a real risk of ill-treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0The Court further notes that the migration service, having examined the applicant\u2019s request for refugee status, did not carry out rigorous scrutiny of his claim. They limited their reasoning to general statements about the absence of any risks for the applicant and did not review his claim in the light of the reports concerning treatment of persons accused of extremism crimes in Uzbekistan (see paragraph 15 above). Furthermore, given the lack of access to documents and to his lawyer and the haste with which his deportation was carried out, the Court considers that the applicant did not have any meaningful opportunity to have the domestic courts review his case and assess his claims in the context of refugee status or deportation proceedings (see paragraphs 8, 21, 26 and 31 above). The perfunctory review of the applicant\u2019s request for refugee status together with absence of any possibility for the applicant to lodge an appeal against such decision or against the deportation order cleared the way for the applicant\u2019s deportation. The Court therefore concludes that the domestic authorities did not duly assess the applicant\u2019s claim of risk of ill-treatment in Uzbekistan.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0Given the failure of the domestic authorities to adequately assess the applicant\u2019s claim, the Court finds itself compelled to examine independently whether or not the applicant would be exposed to such a risk in the event of his removal to Uzbekistan. The Court notes that the applicant has been charged with participation in a banned religious organisation by the Uzbek authorities. The Court has previously established that individuals whose extradition was sought by Uzbek authorities on charges of religiously or politically motivated crimes constituted a vulnerable group facing a real risk of treatment contrary to Article 3 of the Convention in the event of their removal to Uzbekistan (see Mamazhonov and follow-up cases of N.M.; S.S.\u00a0and others; B.U. and others; T.M. and others, all cited above). The present case is identical to those cases, given the nature of the charges against the applicant, the manner in which the indictment was issued against the applicant, the way the deportation was carried out and lack of sufficient safeguards against the arbitrary actions of the authorities. The Court finds no reason in the present case to depart from its earlier findings on the matter. While the Court notes with attention the cautious indications of improvement included in the independent reports (see paragraph 42 above), nothing in the parties\u2019 submissions in the present case or the relevant material from independent international sources provides at this moment a sufficient basis for a conclusion that the persons prosecuted for religiously motivated crimes no longer run such a risk.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The Court, accordingly, concludes on the basis of the above findings that the applicant\u2019s deportation to Uzbekistan on 6 July 2018 amounted to a violation of Article 3 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Alleged violation of Article 3 of the Convention (alleged ill-treatment before deportation)",
+                                "elements": [
+                                    {
+                                        "content": "52.\u00a0\u00a0The applicant further complained under Article 3 of the Convention that he had been ill-treated during his transportation to Domodedovo Airport in Moscow and that there had been no effective investigation of his allegations of ill-treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0The Government submitted that on 6 July 2018, at about 6 a.m., upon the release of the applicant from the correctional colony the officers of the MVD of Lipetsk Region had met and accompanied him in an official vehicle to Domodedovo Airport. Between the applicant\u2019s release from the correctional colony and the border control, the officers of the MVD of Lipetsk Region who accompanied the applicant had not used physical force or other measures of subduction and/or restraints in respect of the applicant. At about 9 p.m. the applicant was checked in for Moscow-Tashkent flight and he went through border control.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The applicant\u2019s lawyers submitted the statement of the applicant summarised in paragraph 28 above. In addition, they submitted that the applicant maintained his claims of ill-treatment during deportation and that the Government\u2019s argument that the officers used no force or enforcement or restrictive measures was unsubstantiated because there had been no investigation or even examination carried out in respect of this matter. They submitted that the investigation conducted by the Russian authorities into the allegations of ill-treatment of the applicant had been ineffective because pre-investigation inquiry that was opened on 21 February 2019 had not resulted in the institution of the criminal proceedings, the examination having been extended until 23 March 2019 (see paragraphs 35-37 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "55.\u00a0\u00a0The Court reiterates that Article 35 \u00a7 1 of the Convention obliges applicants to use first the remedies which are available and sufficient in the domestic legal system to enable them to obtain redress for the breaches alleged. The Court notes that it is not clear from the case material whether the applicant had exhausted the domestic remedies in respect of his complaint of ill-treatment during deportation and no information about the pending proceedings, their progress or outcome has been provided to the Court by the applicant (see paragraphs 37-38 above). The Court however also notes that the Government did not argue in their observations that the applicant had failed to exhaust domestic remedies in respect of his complaint of ill-treatment under Article 3. In these circumstances, since the Government, who had been given notice of this complaint and invited to submit their observations on its admissibility and merits, did not raise this point in their submissions, the Court is not in a position to rule, of its own motion, on whether this complaint is inadmissible for non\u2011exhaustion of domestic remedies (see, for similar reasoning, International Bank for Commerce and Development AD and Others v. Bulgaria, no. 7031/05, \u00a7\u00a0131, 2 June 2016, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0The Court further notes that the applicant\u2019s complaint under Article\u00a03 on account of his alleged ill-treatment during deportation to Uzbekistan and lack of effective investigation in that respect is not manifestly illfounded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "Merits",
+                                        "elements": [
+                                            {
+                                                "content": "57.\u00a0\u00a0The Court will first examine the complaint that there was no effective investigation of the applicant\u2019s allegations of ill-treatment.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The State\u2019s procedural obligation under Article 3 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0The Court reiterates that, where an individual raises an arguable claim that he has been ill-treated in breach of Article 3, that provision requires by implication that there should be an effective official investigation capable of leading to the identification and punishment of those responsible (see Assenov and Others v. Bulgaria, judgment of 28\u00a0October 1998, Reports of Judgments and Decisions 1998\u2011VIII, \u00a7 102).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "59.\u00a0\u00a0In respect of this, the Court observes that as early as 25 July 2018, shortly after the applicant\u2019s deportation, the applicant filed a report of a crime in respect of his ill-treatment to the Russian investigative committee. In that report he described in detail the circumstances in which his deportation had been carried out and the ill-treatment to which he had been allegedly subjected (see paragraph 35 above). The authorities thus were placed under an obligation to conduct an effective inquiry of the applicant\u2019s plausible claim of ill-treatment, satisfying the requirements of Article 3 of the Convention (see Lyapin v. Russia, no. 46956/09, \u00a7\u00a7 125-27, 24\u00a0July 2014). However, the Court observes from the material of the case file that no significant procedural steps were taken to examine the applicant\u2019s report of crime for almost seven months. Only on 21\u00a0February 2019 the pre-investigation inquiry in connection with the complaint concerning the alleged ill-treatment of the applicant was opened and on 24 February 2019 it was extended until 23 March 2019, owing to the need to collect additional documents and carry out additional investigative steps (see paragraphs 36-37 above). The Court was not informed whether the officers of the MVD in Lipetsk Region or other persons were questioned in connection with the applicant\u2019s alleged ill-treatment, whether the requisite inquiries were made or documents collected and examined. The progress and/or outcome of those proceedings remain unclear to the Court, given that the parties did not submit any arguments or evidence in this regard (see paragraph 38 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Court notes that the present case is another example in the line of Russian cases concerning ill-treatment of applicants at the hands of police in which \u201cpre\u2011investigation inquiry\u201d was the only procedure employed by the investigative authority and in which the Court has consistently hold that the State\u2019s obligation under Article 3 to carry out an effective investigation had not been fulfilled. In particular, the Court has found in those cases that \u201cpre-investigation inquiry\u201d alone, if it is not followed by a \u201cpreliminary investigation\u201d, is a superficial and deficient procedure and it is not possible to establish, within its framework, the facts of the case and identify those responsible for alleged crimes (see Lyapin, cited above, \u00a7\u00a7 133-36, with further references and a more recent follow-up case of Samesov v. Russia, no. 57269/14, \u00a7 52, 20 November 2018, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The Court sees no reason to reach a different conclusion in the present case. The authorities\u2019 failure to initiate promptly pre-investigative inquiry following the applicant\u2019s report of a crime, their inactivity for a prolonged period of time and the apparent lack of any appropriate procedural steps in respect of the applicant\u2019s allegations are indicative of the fact that effective inquiry into the applicant\u2019s allegations of ill-treatment had not been carried out as required by Article 3 of the Convention. In view of the foregoing, the Court concludes that there has been a violation of Article\u00a03 of the Convention under its procedural limb.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Alleged violation of the substantive aspect of Article 3 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court notes that the parties are in dispute as to whether impugned means of restraint or force were applied to the applicant after he was released from the correctional colony and before his arrival at the airport on 6 July 2018. The Government denied the ill-treatment and submitted no documents or records concerning the circumstances of the applicant\u2019s transportation to Domodedovo airport and his treatment during that trip. The applicant provided a statement which included a timeline and description of the impugned ill-treatment. The Court observes however that the applicant\u2019s submissions contain neither witness statements that could support the applicant\u2019s account of events nor medical documents or other evidence to corroborate his allegations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0The Court recognises that it would have been likely not possible for the applicant to seek medical attention or request any documents concerning his alleged ill-treatment, owing to the circumstances in which his deportation was carried out (see paragraphs 22, 31 and 53 above). Nevertheless, the Court is unable to exclude, due to insufficient evidence in the applicant\u2019s case-file, either the Government\u2019s or the applicant\u2019s account of events and conclude \u201cbeyond reasonable doubt\u201d that the officers who were in charge of the applicant\u2019s deportation subjected him to treatment prohibited by Article 3 of the Convention, as alleged by the applicant (see, for similar reasoning, Uzhakov and Albagachiyeva v. Russia [Committee], no.\u00a076635/11, \u00a7\u00a0108, 23 June 2020; Zatynayko v. Russia, [Committee] no.\u00a01935/07, \u00a7\u00a7 55-8, 25 June 2019; Nekrasov v.\u00a0Russia, no. 8049/07, \u00a7\u00a7\u00a090-6, 17 May 2016; and Khismatullin v. Russia, no. 33469/06, \u00a7\u00a7 57-60, 11 December 2014).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0Consequently, the Court finds no substantive violation of Article 3 of the Convention in respect of the applicant\u2019s alleged ill\u2011treatment.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "65.\u00a0\u00a0The applicant further complained that he had not had an effective domestic remedy in respect of his complaints under Article 3 of the Convention concerning his deportation to Uzbekistan and refugee proceedings and concerning his ill-treatment at the time of the deportation. He relied on Article\u00a013 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "66.\u00a0\u00a0The Court notes that the applicant\u2019s Article 13 complaint is twofold. It concerns his Article 3 complaint in respect of his deportation and also his complaint under Article 3 about ill-treatment during the deportation. The Court further notes that the applicant\u2019s complaint concerning the lack of effective domestic remedies in respect of his ill-treatment during deportation is a newly raised matter in the present case, it was not raised in his original application, and therefore it was not communicated to the Government and the Government did not comment on it. The applicant made new submissions under Article 13 of the Convention in connection with his complaint about ill-treatment only in his observations for the first time. He did not provide an explanation as to why he had failed to raise this complaint at an earlier stage, before communication of his case to the Government. The Court is nevertheless of opinion that this complaint could be considered as an elaboration on his original complaint under Article 3 to the Court and could, in principle, be examined together with his complaint under Article 13 concerning lack of effective remedies in respect of his deportation and refugee status proceedings (contrast Rafig Aliyev v.\u00a0Azerbaijan, no. 45875/06, \u00a7\u00a7 69-70, 6 December 2011, with further references).",
+                                "elements": []
+                            },
+                            {
+                                "content": "67.\u00a0\u00a0However, having regard to the facts of the case, the submissions of the parties and, particularly, its findings under Articles 3 of the Convention (see paragraphs 48-51 and 58-61 above), the Court considers that there is no need to give a separate ruling on the admissibility and the merits of the complaint under Article 13 of the Convention under either of the heads in the present case (see Centre for Legal Resources on behalf of Valentin C\u00e2mpeanu v. Romania [GC], no. 47848/08, \u00a7 156, ECHR 2014, with further references, and, in a similar context, O.O. v. Russia, no. 36321/16, \u00a7 64, 21\u00a0May 2019).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "ALLEGED VIOLATION OF ARTICLE 34 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "68.\u00a0\u00a0Lastly, the applicant complained that his deportation had been in breach of the interim measures indicated by the Court under Rule 39 of the Rules of Court. This claim, substantively focusing on a violation of the right to individual application, falls to be examined under Article 34 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "69.\u00a0\u00a0Rule 39 \u00a7 1 of the Rules of Court provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. The Chamber or, where appropriate, the President of the Section or a duty judge appointed pursuant to paragraph 4 of this Rule may, at the request of a party or of any other person concerned, or of their own motion, indicate to the parties any interim measure which they consider should be adopted in the interests of the parties or of the proper conduct of the proceedings.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Government\u2019s submissions",
+                                "elements": [
+                                    {
+                                        "content": "70.\u00a0\u00a0The Government submitted, inter alia, that the Russian authorities cannot be held responsible for failure to adopt the requested measure owing to the fact that the Court\u2019s correspondence arrived past regular working hours and also past special duty hours, which had been established specifically for processing the Court\u2019s correspondence concerning the application of Rule 39. They further submitted that the applicant and his lawyers had learned that his stay had been declared undesirable as early as in May 2018 and the lawyers therefore should have organised their work in such manner that would have made it possible for them to submit a Rule 39 request beforehand.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The applicant\u2019s submissions",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The applicant\u2019s lawyers submitted that they had immediately informed police units and border control service in all airports about the indication of the interim measure by the Court in respect of the applicant. They further submitted that the procedure of notification of relevant State bodies as it exists now is not effective as it functions only within narrow limits of the working hours and does not cover other hours when a removal may be enforced. They also contended that the Russian authorities deliberately had not prevented the deportation of the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court reiterates that, by virtue of Article 34 of the Convention, Contracting States undertake to refrain from any act or omission that may hinder the effective exercise of the right of individual application, and this has been consistently reaffirmed as a cornerstone of the Convention system. Article 34 will be breached if the authorities of a Contracting State fail to take all steps which could reasonably have been taken in order to comply with the interim measure indicated by the Court. In examining a complaint under Article 34 concerning the alleged failure of a Contracting State to comply with an interim measure, the Court will not re-examine whether its decision to apply interim measures was correct. It is for the respondent Government to demonstrate to the Court that the interim measure was complied with or, in an exceptional case, that there was an objective impediment which prevented compliance and that the Government took all reasonable steps to remove the impediment and to keep the Court informed about the situation (see Kamaliyevy v. Russia, no. 52812/07, \u00a7\u00a7 71-74, 3\u00a0June 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0Turning to the present case, the Court notes that the events preceding the deportation of the applicant are of concern to the Court. In particular, the Court notes at least two delays in the domestic proceedings that were unjustified, that cannot be attributed to the applicant and that, in the Court\u2019s opinion, facilitated the applicant\u2019s deportation in spite of interim measures indicated by the Court. Firstly, the Court notes that it took the applicant\u2019s lawyer Ms R., for reasons independent of her actions, two weeks to obtain a certified power of attorney from the administration of the correctional colony and she obtained it only two days before deportation (see paragraph 18 above). This delay prevented her from dealing on the applicant\u2019s behalf with migration authorities and/or domestic courts in a timely manner. Secondly, a copy of the deportation order was provided to the applicant and his lawyers belatedly, which, together with lack of any official explanation on the matter from the migration authorities, precluded the applicant from submitting in time a substantiated request under Rule 39 to the Court (see paragraphs 8, 19-21 and 26 above). The Court also finds alarming the fact that the applicant\u2019s whereabouts on the day of his deportation were unaccounted for and he was deprived of any contact with his lawyers who were unsuccessfully trying to locate him. In addition, the Court notes the applicant deportation took place despite the order of the domestic court that had suspended it (see paragraph 32 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0The Court notes the Government\u2019s argument that they received the notification of an interim measure by the Court outside of their working hours and there also was very little time left to have it duly processed. In the Court\u2019s opinion, however, lack of time cannot be considered, in the circumstances of the present case, an objective impediment which prevented the domestic authorities to comply with the indication of an interim measure by the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0In particular, the Court has already pointed out recurring failures of the Russian Government to comply with an interim measure indicated under Rule 39 of the Rules of Court in cases of applicants who were charged with extremism or terrorism related crimes in Uzbekistan and Tajikistan and who disappeared or were illegally transferred there (see Mukhitdinov v. Russia, no. 20999/14, \u00a7 92, 21 May 2015, with further references). Furthermore, in the recent case of O.O. v. Russia, cited above, in which the applicant\u2019s transfer to Uzbekistan had also occurred in the course of enforcement of a deportation order, the Court held that the Russian Government had not complied with an indication of an interim measure and nothing had objectively impeded that compliance (see O.O. v.\u00a0Russia, cited above, \u00a7\u00a7\u00a059-63). Against this background, the Court considers that the deportation of the applicant in the present case did not result from the applicant\u2019s alleged tardiness or shortage of processing time as the Government claimed. The conduct of the domestic authorities in respect of the applicant, including delays in certifying the power of attorney and failure to provide timely a copy of deportation order to him showed, in the Court\u2019s opinion, their strong determination to deport the applicant immediately upon his release from the correctional colony.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0Accordingly, in the light of the above considerations, the Court finds that, in the particular circumstances of the present case, the Russian authorities breached the interim measure indicated under Rule 39 of the Rules of the Court and that they failed to comply with their obligations under Article 34 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Application of Article 41 of the Convention",
+                        "elements": [
+                            {
+                                "content": "77.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Damage",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The applicant claimed 30,000 euros (EUR) in respect of nonpecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Government did not submit any comments concerning the applicant\u2019s claim of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0The Court considers that the applicant must have suffered nonpecuniary damage which cannot be compensated for solely by the finding of violation. Having regard to the seriousness of the violation in question and to equitable considerations, it awards EUR 30,000 to the applicant in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Costs and Expenses",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0The applicant also claimed EUR 1,200, EUR 1,320 and EUR 2,880 in costs and expenses incurred before the domestic courts and before the Court by his representatives, Ms Trenina, Mr Zharinov and Ms Davidyan, respectively.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The Government submitted that the applicant\u2019s lawyers represented the interests of the applicants in similar cases before the Court, that they had relied on the Court\u2019s well-established case-law and that the amounts claimed had not corresponded to the work that had been carried out by them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum (see, for example, Jeunesse v. the Netherlands [GC], no.\u00a012738/10, \u00a7 135, 3 October 2014). In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award EUR 5,400, jointly, in costs and expenses to Ms Trenina, Mr Zharinov and Ms Davidyan. As requested, the payment is to be made directly to the applicant\u2019s representatives\u2019 account(s), to be specified by them.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Default interest",
+                                "elements": [
+                                    {
+                                        "content": "84.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "Declares the complaints under Article 3 of the Convention about the deportation of the applicant to Uzbekistan and about his ill-treatment during the deportation on 6 July 2018 admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 3 of the Convention on account of the applicant\u2019s deportation to Uzbekistan;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been a violation of Article 3 of the Convention under its procedural limb on account of the failure to investigate the applicant\u2019s ill-treatment during deportation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there has been no violation of the substantive aspect of Article 3 of the Convention on account of the applicant\u2019s ill-treatment during deportation to Uzbekistan;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that there is no need to examine the admissibility and merits of the applicant\u2019s complaints under Article 13 of the Convention taken in conjunction with Article 3;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds that the respondent State has breached the interim measure indicated by the Court under Rule 39 of the Rules of the Court and therefore it has failed to comply with its obligations under Article 34 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "that the respondent State is to pay, within three months, the following amounts, to be converted into the currency of the respondent State, at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 1 December 2020, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Darian Pavli",
+            "role": "president"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "Peeter Roosma",
+            "role": "judges"
+        },
+        {
+            "name": "Olga Chernishova",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF YUSUPOV v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-206259.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2020:1201JUD003022718",
+    "externalsources": [],
+    "extractedappno": [
+        "30227/18",
+        "42086/05",
+        "46956/09",
+        "58923/14",
+        "31189/15",
+        "43611/11",
+        "17239/13",
+        "29343/18",
+        "2236/16",
+        "59609/17",
+        "7031/05",
+        "57269/14",
+        "76635/11",
+        "1935/07",
+        "8049/07",
+        "33469/06",
+        "45875/06",
+        "47848/08",
+        "36321/16",
+        "52812/07",
+        "20999/14",
+        "12738/10"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-206259",
+    "judgementdate": "01/12/2020 00:00:00",
+    "kpdate": "01/12/2020 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "596",
+        "620",
+        "193",
+        "183",
+        "177"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "3",
+        "34"
+    ],
+    "parties": [
+        "YUSUPOV",
+        "RUSSIA"
+    ],
+    "rank": "9193.1298828125",
+    "representedby": [
+        "TRENINA D.",
+        "ZHARINOV K.",
+        "DAVIDYAN E."
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "502479",
+    "typedescription": "15"
+}

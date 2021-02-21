@@ -1,0 +1,420 @@
+{
+    "__articles": "6;6-1;13;13+6-1;13+P1-1-1;P1-1;P1-1-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Enforcement proceedings;Article 6-1 - Reasonable time);Violation of Article 1 of Protocol No. 1 - Protection of property (Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Enforcement proceedings;Article 6-1 - Reasonable time);Violation of Article 13+P1-1-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 1 of Protocol No. 1 - Protection of property;Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions)",
+    "applicability": "",
+    "appno": "36888/13",
+    "article": [
+        "6",
+        "p1-1",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Enforcement proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "p1-1",
+            "base_article": "p1-1",
+            "details": [
+                "Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions"
+            ],
+            "element": "Violation of Article 1 of Protocol No. 1 - Protection of property",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Enforcement proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Enforcement proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "p1-1-1",
+            "base_article": "p1-1",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+P1-1-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 1 of Protocol No. 1 - Protection of property",
+                "Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+P1-1-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 1 of Protocol No. 1 - Protection of property",
+                "Article 1 para. 1 of Protocol No. 1 - Peaceful enjoyment of possessions"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-173262.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 36888/13) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Russian national, Mr Vladimir Vasilyevich Menshikov (\u201cthe applicant\u201d), on 3 May 2013.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The Russian Government (\u201cthe Government\u201d) were represented by Mr\u00a0G.\u00a0Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 16 February 2015 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1945 and lives in Pechora, the Komi Republic.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Judgments in the applicant\u2019s favour",
+                                "elements": [
+                                    {
+                                        "content": "5.\u00a0\u00a0The applicant sued the Municipal Unitary Enterprise for Housing and Communal Services (MUP Pechorazhilkomhoz or MUP PZHKH \u2013 \u041c\u0423\u041f \u041f\u0435\u0447\u043e\u0440\u0430\u0436\u0438\u043b\u043a\u043e\u043c\u0445\u043e\u0437 \u2013 hereafter \u201cthe company\u201d) of Pechora, the Komi Republic, for salary arrears.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 31\u00a0May 2007 the Justice of the Peace of the Privokzalnyy Court Circuit of Pechora awarded the applicant\u00a0the equivalent of 18,358 euros (EUR) of the salary owed to him for the period from 1\u00a0January 2005 to 31\u00a0December 2006. The judgment became final ten days later.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 12\u00a0January 2009 the Pechora Town Court granted another claim which the applicant had lodged against the company, awarding him EUR\u00a0592. The judgment became final ten days later.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Neither judgment has been enforced.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Available information on the debtor company",
+                                "elements": [
+                                    {
+                                        "content": "9.\u00a0\u00a0The company was incorporated as a municipal unitary enterprise. It was set up by a decision of the local administration to provide heating supply and housing maintenance services in the local area. The company had \u201cthe right of economic control\u201d (\u043f\u0440\u0430\u0432\u043e \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0434\u0435\u043d\u0438\u044f) over the assets allocated to it by the administration in order to carry out its statutory activities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0In 2006 the owner (the local administration) withdrew several of the company\u2019s assets and transferred them either to the local treasury or to other legal entities.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 17\u00a0January 2007 the respondent company was declared insolvent and liquidation proceedings started.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0The company sued the owner in subsidiary liability proceedings. On 13\u00a0May 2009 the Commercial Court of the Komi Republic dismissed that action, having found that the owner had acted without intending to cause the company\u2019s insolvency when transferring the assets.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On 16\u00a0June 2009 the company was liquidated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The applicant brought subsidiary liability proceedings against the owner before the Pechora Town Court, arguing, inter alia, that the company\u2019s insolvency had been premeditated. On 21\u00a0June 2012 the court dismissed the applicant\u2019s claim against the owner as unfounded. On 3\u00a0September 2012 the Supreme Court of the Komi Republic upheld that decision.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "15.\u00a0\u00a0The domestic provisions relevant to cases on the legal status of State and municipal unitary enterprises with the right of economic control are summarised in Liseytseva and Maslov v.\u00a0Russia (nos.\u00a039483/05 and\u00a040527/10, \u00a7\u00a7\u00a054-127, 9\u00a0October 2014), and Samsonov v.\u00a0Russia ((dec.) no.\u00a02880/10, 18 September 2014).",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 6 AND 13 OF THE CONVENTION AND ARTICLE\u00a01 OF PROTOCOL No.\u00a01 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "16.\u00a0\u00a0The applicant complained of the non-enforcement of domestic decisions given in his favour and of the lack of any effective remedy in domestic law. He relied on Article\u00a06 \u00a7 1 and Article 13 of the Convention and on Article 1 of Protocol\u00a0No.\u00a01 to the Convention, which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ... everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0The Government argued that the company had been a commercial enterprise that had operated independently of the authorities. They accordingly submitted that its debts were not attributable to the State.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The applicant maintained that the debtor company had been, in fact, a Staterun enterprise controlled by the administration and that the State was responsible for the company\u2019s debts.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Court has held that the existing legal framework in Russia does not provide unitary enterprises with a degree of institutional and operational independence that would absolve the State from responsibility under the Convention for the debts of such companies (see Liseytseva and Maslov, cited above, \u00a7\u00a7\u00a0193-204). In order to determine the issue of State responsibility for the debts of unitary enterprises, the Court must examine whether and how the extensive powers of control provided for in domestic law were actually exercised by the authorities in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0The Court notes that the debtor company was set up to provide housing maintenance and heating supply services (see paragraph 9 above). In Liseytseva and Maslov (cited above, \u00a7\u00a0208) the Court held that such companies\u2019 institutional links with the public administration were particularly strengthened by the special nature of their activities (see also Yershova v. Russia, no. 1387/04, \u00a7 58, 8 April 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0Furthermore, the actual degree of the State\u2019s control over the company was amply demonstrated by the fact that the local authorities had disposed of its property as they saw fit. According to information submitted by the applicant and not disputed by the Government, in 2006 the owner (the local administration) withdrew several of the company\u2019s assets and transferred them either to the local treasury or to other legal entities (see paragraph 10 above). The Court examined a similar situation in Liseytseva and Maslov (cited above, \u00a7\u00a7\u00a0211 and 217), and found that the company\u2019s assets and activities had been, as a matter of fact, controlled by the State to a decisive extent and that accordingly the State was liable for the company\u2019s debts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0In the light of the above, the Court finds that the company did not enjoy sufficient institutional and operational independence from the municipal authorities, and dismisses the Government\u2019s ratione personae objection. Accordingly, the municipality, and hence the State, is to be held responsible under the Convention for the debts owed by the respondent company to the applicant, in accordance with the final judgments in his favour.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court further notes that the applicant\u2019s complaints under Articles\u00a06 and 13 of the Convention and Article\u00a01 of Protocol\u00a0No.\u00a01 to the Convention are not manifestly illfounded within the meaning of Article\u00a035 \u00a7\u00a03\u00a0(a) of the Convention. They are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0The Court notes that the judgments in the applicant\u2019s favour have not been fully enforced to date.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court has established above that the State is responsible under the Convention for the debts owed by the respondent company (see paragraph\u00a022 above). By failing to comply with the judgments and court orders issued, the national authorities prevented the applicant from receiving the money he could reasonably have expected to receive. The Court has found a violation of Article 6 of the Convention and Article\u00a01 of Protocol\u00a0No.\u00a01 to the Convention in respect of issues similar to those in the present case (see Liseytseva and Maslov, cited above, \u00a7\u00a7 208-24).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0As regards the effective remedies available to the applicant, the Court has already held, with respect to similar situations in Liseytseva and\u00a0Maslov (cited above, \u00a7\u00a7\u00a016572), that there were no effective remedies available to the applicants in their attempt to obtain either the execution of awards made against municipal unitary enterprises or compensation for the alleged violations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Accordingly, there has been a violation of Article\u00a06\u00a0\u00a7\u00a01 and Article\u00a013 of the Convention and of Article\u00a01 of Protocol\u00a0No.\u00a01 to the Convention on account of the non-enforcement of the final and binding judgments in the applicant\u2019s favour and the lack of effective remedies.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "28.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "29.\u00a0\u00a0The applicant claimed the sums awarded to him by the domestic courts (the equivalent of EUR 18,950) in respect of pecuniary damage and the amount equivalent of EUR 1,623 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The Government considered the amount claimed to be excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0In view of its findings above, the Court finds it appropriate to award the applicant in full the sums that had been initially awarded to him by the domestic courts in respect of pecuniary damage. The Court also considers it reasonable and equitable to award the applicant EUR\u00a01,623, plus any tax that may be chargeable, in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "32.\u00a0\u00a0The applicant did not submit a claim for costs and expenses. Accordingly, the Court considers that there is no call to award him any sum under that head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "33.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article\u00a06\u00a0\u00a7\u00a01 and Article\u00a013 of the Convention and of Article\u00a01 of Protocol\u00a0No.\u00a01 to the Convention on account of the non-enforcement of the final and binding judgments in the applicant\u2019s favour and the lack of effective remedies;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 2 May 2017, pursuant to Rule\u00a077 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Helen Keller",
+            "role": "president"
+        },
+        {
+            "name": "Pere Pastor Vilanova",
+            "role": "judges"
+        },
+        {
+            "name": "Alena Pol\u00e1\u010dkov\u00e1",
+            "role": "judges"
+        },
+        {
+            "name": "Fato\u015f Arac\u0131",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MENSHIKOV v. RUSSIA",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-173262.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0502JUD003688813",
+    "externalsources": [],
+    "extractedappno": [
+        "36888/13",
+        "39483/05",
+        "40527/10",
+        "2880/10",
+        "1387/04"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-173262",
+    "judgementdate": "02/05/2017 00:00:00",
+    "kpdate": "02/05/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "113",
+        "406",
+        "444",
+        "110",
+        "369",
+        "304"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "27",
+    "paragraphs": [
+        "P1-1-1",
+        "13",
+        "6-1",
+        "6",
+        "P1-1"
+    ],
+    "parties": [
+        "MENSHIKOV",
+        "RUSSIA"
+    ],
+    "rank": "1846.19702148438",
+    "representedby": [],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "463514",
+    "typedescription": "15"
+}

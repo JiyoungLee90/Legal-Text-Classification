@@ -1,0 +1,948 @@
+{
+    "__articles": "6;6+6-3-c;6-1;6-3-c;8;8-1;9;9-1",
+    "__conclusion": "No violation of Article 6+6-3-c - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-c - Defence through legal assistance);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for correspondence);Violation of Article 9 - Freedom of thought, conscience and religion (Article 9-1 - Freedom of religion)",
+    "applicability": "",
+    "appno": "5187/07",
+    "article": [
+        "6",
+        "8",
+        "9"
+    ],
+    "conclusion": [
+        {
+            "article": "6-3-c",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "No violation of Article 6+6-3-c - Right to a fair trial",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-3-c - Defence through legal assistance"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for correspondence"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "article": "9",
+            "base_article": "9",
+            "details": [
+                "Article 9-1 - Freedom of religion"
+            ],
+            "element": "Violation of Article 9 - Freedom of thought, conscience and religion",
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-171501.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 5187/07) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Ukrainian national, Mr Oleg Viktorovich Moroz (\u201cthe applicant\u201d), on 16\u00a0January 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Ukrainian Government (\u201cthe Government\u201d) were represented by their Agents, most recently Mr I. Lishchyna from the Ministry of Justice.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicant complained of the inappropriate conditions of his pretrial detention and the lack of medical assistance. He also alleged that he had not been allowed to have visits from his relatives and to correspond with them while in pre-trial detention. He further stated that his right to practice his religion had been breached during pre-trial detention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 12 December 2012 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicant was born in 1967 and is currently serving his prison sentence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Events of 1 June 2005 and the criminal proceedings against the applicant",
+                                "elements": [
+                                    {
+                                        "content": "6.\u00a0\u00a0At about 10 a.m. on 1 June 2005 O., the president of the Ukrainian Dental Association, was shot at his office with a rifle which the applicant had brought. The applicant was present at O.\u2019s office at the time of the event. He asked for the police and an ambulance to be called and, once the police arrived, stated that an accident had happened. He explained that he and O. were interested in hunting and he had brought the shotgun to O. as a present. While he had been demonstrating the gun to O., the latter had wanted to see it closer and had pulled it towards himself; the gun had accidentally gone off. According to the applicant, once he had replied to the questions of the police, handcuffs were put on him; he was searched and samples were taken from him for forensic examination. His request for a lawyer was allegedly ignored.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0On the same date the applicant\u2019s arrest report was drawn up which stated that the applicant had been arrested for the murder of O. at 10 p.m. at the police station. He was subsequently questioned in the presence of K., his lawyer. He pleaded not guilty and repeated his statements made earlier. According to the applicant, his lawyer immediately indicated to the investigator that, under the Code of Criminal Procedure, the applicant had to be provided with the possibility to talk with him in private before the questioning, with a view to defining the legal defence strategy. Having heard that, the applicant insisted on such a meeting. The investigator, however, rejected that request on the ground that the applicant would be able to talk to his lawyer later.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 2 June 2005 a reconstruction of the crime was carried out in the presence of the applicant\u2019s lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 3 June 2005 the applicant\u2019s pre-trial detention was ordered by a court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 6 June 2005 L. was admitted to the proceedings as the applicant\u2019s second lawyer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0On 9 June 2005 the applicant was charged with murder and questioned in the presence of his lawyers. He pleaded not guilty and repeated his previous statement that O. had been shot by accident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0On 11 August 2005 the applicant was questioned in the presence of K. The applicant repeated his previous statements.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On the same date the applicant and the lawyer K. became aware of the results of a number of forensic examinations in the case. They made no observations in this connection.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0On 17 November 2005 criminal proceedings were instituted against the applicant for illegal production, possession and storage of firearms. On the same day the applicant was charged with the above offence and questioned in the presence of K. Those proceedings were subsequently joined to the murder case against the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 16 January 2006 the case was referred to the Kyiv City Court of Appeal (\u201cthe Court of Appeal\u201d) for trial. Throughout the trial the applicant denied the murder charge and consistently claimed that O. had been shot by accident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 19 May 2006 the Court of Appeal, acting as a first-instance court, found the applicant guilty as charged and sentenced him to fifteen years\u2019 imprisonment. The court found that on 27 May 2005 the coordinating council of the Ukrainian Dental Association had held its meeting in Kyiv and the applicant had run for the position of acting executive director of the Association. The victim, O., had proposed another candidate for the same position and that candidate had been elected. The applicant had therefore decided to take revenge and had come to the office of O. with a shotgun and fired twice at O.\u2019s head. The applicant had also been found guilty of modifying the shotgun in question prior to the incident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court of Appeal noted that although the applicant had never pleaded guilty and had claimed that the incident had been an accident, his guilt was proved by the testimonies of witnesses and the results of forensic examinations. In particular, O.\u2019s wife had testified that she had been in the neighbouring office when the incident had taken place and when she had entered her husband\u2019s office she had seen the applicant smiling with satisfaction. She had also maintained that her husband had not liked hunting and therefore would not have accepted a shotgun as a present. The negative attitude of O. to hunting had also been confirmed by his brother. O.\u2019s secretary and one of his colleagues had also confirmed that the applicant had been smiling when they had entered the office after the incident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Several witnesses had also confirmed that the applicant had shown dissatisfaction with the fact that he had not been elected to the position of the executive director of the Dental Association.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The forensic expert, questioned in the court hearings, had confirmed the conclusions of the examination that the shots had been fired from some distance and not from close range, as the applicant had suggested, given that traces of metals and gunpowder, typically found following close-range shots, had not been found on the victim. The court also noted that the outcome of the ballistic examination as to the distance, trajectory and angle of the entry wounds had not matched the applicant\u2019s version of events.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicant appealed. He submitted, inter alia, that his defence rights had been violated as he had not been given an opportunity to talk to his lawyer in private before his questioning at the police station on 1 June 2005, with no further details given.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 28 November 2006 the Supreme Court, in the presence of the applicant and his two lawyers, upheld the decision of the Court of Appeal, noting the aggregate of evidence against the applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Conditions of the applicant\u2019s pre-trial detention",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0From 5 July 2005 to 25 January 2007 the applicant was detained at Kyiv pre-trial detention centre no. 13 (\u201cthe SIZO\u201d).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0According to the applicant, the facility was often overcrowded with the number of detainees exceeding the number of beds. It was infested with insects, cockroaches and mice. The quality and quantity of food was unsatisfactory. There was only one pair of scissors and one hair clippers for the whole SIZO and they were not disinfected prior to or after use. As a result, the applicant contracted Hepatitis B.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0From 8 July until 8 November 2005 he was detained in cells nos. 18 and 116 in conditions which were detrimental to his health and incompatible with human dignity. In particular, those cells had no access to natural light as the windows were obscured by metal slats. The walls were permanently wet and covered with mould. The applicant had to share cell no. 116, which measured about 12 square metres, with three other detainees who were heavy smokers. The artificial lighting was not sufficiently powerful with the result that the cells were dim. Their clothes and linen were always wet and cold.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0On 7 September, 7 and 21 November 2006 the applicant requested that the investigator allow visits from his family but to no avail; the investigator attempted to extort money from him for granting permission to see the relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0On 5 February and 4 July 2006 the applicant asked the Court of Appeal to allow him to correspond with his relatives but received no answer. He unsuccessfully complained of these matters to the prosecutor\u2019s office on a number of occasions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant was not allowed to visit the SIZO church. His requests to the SIZO governor of 15 July and 1 August 2005 to meet with a priest also remained unanswered. On 6 and 7 September 2005 the applicant further complained to the SIZO administration that his religious literature and some items of a religious nature had been seized by the SIZO staff. On 23\u00a0September 2005 a \u201ctalk\u201d was held with the applicant by one of the prison staff on account of his complaints during which it was explained to him that nothing untoward had happened. On 1 October 2006 the applicant complained to the Prosecutor General about the violation of his right to practise his religion but received no reply.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "28.\u00a0\u00a0During his stay at the SIZO the applicant was held in twelve different cells (including cells nos. 18 and 116) and was moved fourteen times.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government could not provide any information about the number of inmates in the cells at the relevant time or regarding the conditions of the floor, walls and linen because the compulsory period for keeping the relevant documents had expired and the records had been destroyed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0They stated that the general detention conditions in the SIZO had been satisfactory and in compliance with the domestic standards: all the cells had had windows and had been equipped with sufficient artificial lighting; the applicant had been provided with adequate nutrition in accordance with the applicable standards. Scissors and other hairdressing implements had been disinfected after each use in accordance with the relevant regulations. That fact had been confirmed by the results of an investigation conducted by the Ministry of Health and the prosecutor\u2019s office following the applicant\u2019s complaints.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government submitted, having provided the relevant documents, that the applicant had requested family visits before the relevant authorities only on 10 and 20 October and 29 December 2005 and on 11\u00a0January and 5 February 2006 and had asked for permission to send correspondence to his relatives on 10 and 27 October 2005 and 5 February and 8 August 2006. All his requests were rejected for security reasons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "32.\u00a0\u00a0The applicant had been free to ask the investigator in his case or a court to allow him to meet with a priest but had failed to do so. He had also been entitled by law to possess religious literature and other items of a religious nature and never raised any complaint in this connection either before the SIZO governor or with the prosecutor responsible for observing compliance with the law in the detention facilities.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Medical treatment in the SIZO",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0No medical aid was provided to the applicant in respect of his heart and teeth problems. On 3 June 2006 the applicant asked the SIZO governor to conduct a medical examination as he believed he had contracted hepatitis B because of the failure of the SIZO staff to respect hygiene rules. This request was rejected; so was another request for a special diet in view of his possible hepatitis infection. On 2 November 2006 the applicant asked the Minister of Health to order a medical examination in view of his possible hepatitis infection, to no avail. No copies of the mentioned requests have been provided by the applicant.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s account",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0According to the Government, during his stay in the SIZO the applicant never went to the medical unit on account of his suffering from hepatitis B, heart pain or problems with his teeth and never lodged any complaints regarding a lack of medical assistance. His state of health did not necessitate a special diet.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0Following a liver-related complaint that the applicant was suffering from, he was diagnosed with bile-duct dyskinesia (\u0434\u0438\u0441\u043a\u0456\u043d\u0435\u0437\u0456\u044f \u0441\u0435\u0447\u043e\u0432\u0438\u0432\u0456\u0434\u043d\u0438\u0445 \u0448\u043b\u044f\u0445\u0456\u0432) and from 20 October to 15 November 2006 he underwent inpatient treatment in the SIZO medical unit. A number of laboratory tests were carried out on the applicant, including a specialised blood test for hepatitis indicators. The latter revealed hBs antigens, which meant that the applicant had hepatitis B antibodies in his blood but not that he had been definitely suffering from the active form of the disease. The applicant was prescribed the relevant treatment (Carsil, Livolin, Alochol, Gastronorm, Ursohol), which he received in full, and at the end of his treatment he was deemed to be in good health.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 1 July 2007 the applicant was transferred to prison no. 72 to serve his sentence. On 11 August 2007 he was diagnosed with hepatitis B. Thereafter he lodged a number of complaints with different State bodies alleging that he had contracted hepatitis in the SIZO owing to the failure to disinfect hairdressing implements, and demanding investigation of this matter. Following his allegations, investigations were conducted by the Health Ministry and the prosecutor\u2019s office, which found no evidence to support the applicant\u2019s allegations. The applicant was informed of the results of the investigation by a prosecutor\u2019s letter of 27 July 2009.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Code of Criminal Procedure of 1960 (\u201cthe CCP\u201d)",
+                                "elements": [
+                                    {
+                                        "content": "37.\u00a0\u00a0Article 162 of the CCP provided, at the relevant time, that visits of relatives or other people to a detainee could be allowed by the responsible person or institution dealing with the case. The duration of the visit should be fixed at from one to two hours. Visits should be allowed, as a rule, not more than once a month.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Pre-Trial Detention Act of 30 June 1993 (as in force at the relevant time)",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The relevant provisions of the Act read as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAny person remanded in custody shall have the right:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "to worship individually [and] use religious literature and devotional articles related to his or her religious faith made of low-value materials, provided that this does not violate the established order in the pre-trial detention facility or impair the rights of others; ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cDetainees shall be provided with living conditions corresponding to the requirements of sanitation and hygiene rules.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The area of the cell per detainee shall not be less than 2.5 square metres and for the pregnant women and women accompanied by a child, not less than 4.5 square metres.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Detainees shall be provided for free with food, personal sleeping space, bedding and other types of material and everyday goods under the unified rules adopted by the Cabinet of Ministers of Ukraine. In cases of necessity they can be also provided with standard clothes and shoes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Medical services as well as preventive medical and anti-epidemic measures shall be organised and carried out in places of pre-trial detention in compliance with health legislation ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cVisits by relatives or other people can be allowed to individuals remanded in custody by the administration of a pre-trial detention facility only with the written permission of an investigator, the investigating authorities or the court examining the case, as a rule, once per a month. The duration of a visit is from one to four hours ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cIndividuals remanded in custody shall have the right to correspond with their relatives and other people, enterprises, institutions, and organisations with the written consent of the person or authority in charge of the criminal case against the detainee concerned. After the judgment convicting a detainee becomes final, he or she can carry on correspondence in accordance with the law ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAn inspection of compliance with legislation at remand prisons shall be carried out by the General Prosecutor of Ukraine and prosecutors subordinate to him or her pursuant to the Public Prosecutor\u2019s Office Act.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Rulings and resolutions issued by prosecutors as to the compliance with the procedure and conditions of detention established by legislation shall be subject to compulsory fulfilment by the detention centre\u2019s administration.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Citizens\u2019 Appeals Act (\u0417\u0430\u043a\u043e\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u00ab\u041f\u0440\u043e \u0437\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u00bb) of 2 October 1996",
+                                "elements": [
+                                    {
+                                        "content": "39.\u00a0\u00a0Article 12 of this Act provides that it shall not apply to complaints and applications subject to examination under criminal procedural legislation.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "40.\u00a0\u00a0The applicant complained of the poor conditions of his detention in the SIZO and that he had not been provided with appropriate medical assistance in that facility. He relied on Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Conditions of detention",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The Government claimed that the applicant\u2019s complaints were unsubstantiated, some of them being general statements not supported by any evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The applicant disagreed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The Court notes that the applicant complained of the particular conditions of his detention only regarding two cells (nos. 18 and 116), in which he had been detained for about four months in total in 2005, while providing no description and making no complaints in respect of ten other cells (see paragraphs 24 and 28 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court reiterates in this connection that in accordance with Article 35 \u00a7 1 of the Convention it may only deal with a matter within a period of six months of the date of the final domestic decision, a rule which may not be set aside solely because a Government have not raised the relevant objection (see Walker v. the United Kingdom (dec.), no. 34979/97, ECHR 2000I). The Court further reiterates that where no domestic remedy is available, the sixmonth period runs from the act alleged to constitute a violation of the Convention and where it concerns a continuing situation, it runs from the end of the situation concerned (see Antonenkov and Others v.\u00a0Ukraine, no. 14183/02, \u00a7 32, 22 November 2005). The Court has already found in a number of similar cases lodged against Ukraine that no effective domestic remedies in respect of complaints concerning poor conditions of detention were available (see, among other authorities, Melnik v. Ukraine, no.\u00a072286/01, \u00a7\u00a7 113-16, 28 March 2006; Ukhan v. Ukraine, no.\u00a030628/02, \u00a7\u00a7 91-92, 18 December 2008; and Iglin v. Ukraine, no.\u00a039908/05, \u00a7 77, 12\u00a0January 2012).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0Having regard to the above principles, the Court observes that the period of the applicant\u2019s detention in the above cells ended more than six months before the present application was lodged with the Court (16\u00a0January 2007). Consequently, this part of the applicant\u2019s complaint must be rejected for having been lodged out of time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0 The applicant failed to specify which cells \u2013 out of the twelve in which he had been detained according to the Government \u2013 had been overpopulated and provided no further details in that connection. In the absence of the relevant information, the Court dismisses this complaint as unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0As regards the remainder of the applicant\u2019s complaint, the Court notes that the applicant\u2019s allegation of the overcrowding as well as his initial complaint concerning inadequate nutrition in the SIZO were confined to general statements with no further details given. Some details regarding the nutrition in the SIZO had been given by the applicant only in reply to the Government\u2019s comments. In any event, the applicant has failed to provide evidence showing that the level of nutrition did not comply with the statutory norms or that the food was inadequate (see Yakovenko v. Ukraine, no. 15825/06, \u00a7 88, 25 October 2007). Likewise, the applicant provided no evidence in support of his statements about poor hygiene and sanitary conditions in detention, such as, for example, statements by his cellmates or other detainees (compare Visloguzov v. Ukraine, no. 32362/02, \u00a7 45, 20\u00a0May 2010, with further references; Korneykova and Korneykov v.\u00a0Ukraine, no.\u00a056660/12, \u00a7\u00a7 26, 48 and 50, 24 March 2016; and Gavula v.\u00a0Ukraine, no.\u00a052652/07, \u00a7 73, 16 May 2013).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0The Court therefore considers that the above complaints have not been properly substantiated by the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0In view of the aforesaid, this part of the application must be rejected pursuant to Article 35 \u00a7\u00a7 1, 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Medical assistance in detention",
+                                "elements": [
+                                    {
+                                        "content": "50.\u00a0\u00a0Having referred to their factual submissions, the Government claimed that the applicant\u2019s complaint was manifestly ill-founded. They particularly noted the general nature of the applicant\u2019s allegations and his failure to specify what kind of assistance his condition had necessitated, whether and when he had applied for that assistance to the SIZO medical unit, and what the alleged inadequacy of the medical treatment had consisted of. They further stated that the applicant had received adequate medical assistance for his liver-related problems. This aspect of the case was therefore manifestly ill-founded.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The applicant contested this view. In reply to the Government\u2019s observations he stated that he had never received the medicine referred to by the Government. He further submitted, without providing any details, that no inpatient treatment had been provided to him for hepatitis in prison following conviction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court agrees with the Government that the applicant\u2019s complaint concerning a lack of medical assistance for heart pain and dental problems was limited to brief and general statements. He also did not take the opportunity to elaborate on this aspect of the application in the observations that he submitted in response to those of the Government. The Court therefore finds that the applicant has not sufficiently substantiated his allegations in this regard.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0As regards the applicant\u2019s allegation that he had contracted hepatitis B in the SIZO and that he had not been examined by a doctor nor given treatment in this connection, the Court notes from the outset that, as it has held in its case-law, it would be desirable if, with their consent, prisoners could benefit, within a reasonable time after being committed to prison, from free screening for transmissible diseases such as hepatitis or HIV/AIDS. Such a facility would have made it easier to assess the applicant\u2019s allegations in terms of ascertaining whether or not he had contracted the disease in the detention centre. However, in the absence of such a possibility, the Court must examine the applicant\u2019s allegations in the light of the evidence provided (see C\u0103t\u0103lin Eugen Micu v. Romania, no.\u00a055104/13, \u00a7\u00a056, 5 January 2016). In the present case, that there is no evidence that would enable the Court to conclude beyond reasonable doubt that the applicant had contracted hepatitis B in the SIZO.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0As regards the applicant\u2019s allegations concerning the authorities\u2019 failure to conduct a specialised examination to find out if he had been suffering with hepatitis B and, as a result, their failure to treat him for this disease, the Court reiterates that in assessing the quality of medical treatment administered to the applicant, it must ascertain whether the services provided corresponded to the applicant\u2019s state of health and \u201cthe practical demands of imprisonment\u201d (see Kaverzin v. Ukraine, no.\u00a023893/03, \u00a7 138, 15 May 2012, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes in this connection that, as is apparent from the medical documents provided by the Government, once the applicant approached the medical unit with liver-related problems, he underwent a medical examination during which he was offered a number of tests, including a specialised blood test for hepatitis B antibodies, which appeared to be positive. The treatment prescribed included, among other medicines, antivirals (see paragraph 35). The relevant extract from the applicant\u2019s medical file suggests that the applicant received the prescribed treatment in full; no evidence is available in the case file in support of the applicant\u2019s statements to the contrary. The applicant further failed to show that the diagnosis made by the SIZO doctors had not been correct or that the prescribed treatment had not corresponded to his condition and that other treatment should have been administered to him. No medical opinion was submitted by the applicant in this regard. The mere fact that a complex examination for hepatitis was not carried out in the SIZO cannot be regarded as proof of an overall deficiency in the medical assistance available to the applicant as it has not been shown that such an examination was indispensable in his particular situation and that his state of health was adversely affected (see, mutatis mutandis, Polufakin and Chernyshev v.\u00a0Russia, no. 30997/02, \u00a7 169, 25 September 2008).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0As regards the applicant\u2019s allegation concerning the lack of appropriate medical treatment for his hepatitis in the prison, the Court notes that this complaint was raised for the first time in the applicant\u2019s reply to the Government\u2019s observations and that the Government was therefore not invited to comment on it. In any event, this complaint is couched in very general terms and not substantiated. It therefore does not raise any issue under Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0In these circumstances, having examined all the material in its possession, the Court finds no basis on which to conclude that the medical assistance provided to the applicant in the SIZO was inadequate. It therefore rejects this part of the application as manifestly ill-founded in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "58.\u00a0\u00a0The applicant stated that his defence rights had been violated at the initial stage of the criminal proceedings. He relied on Article 6 of the Convention, the relevant parts of which provide:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3. Everyone charged with a criminal offence has the following minimum rights: ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c) to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require; ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0In his initial application to the Court the applicant complained that he had not been allowed to have a confidential consultation with his lawyer prior to his interview at the police station on 1 June 2005. In his observations lodged with the Court on 10 April 2013 he submitted in addition that his first interview as a suspect had, in fact, taken place at the scene of the crime and no lawyer had been provided to him then despite his request for legal assistance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "60.\u00a0\u00a0The Government stated that the applicant had failed to exhaust domestic remedies for his complaint concerning the alleged failure to grant him a confidential meeting with his lawyer before the interview on 1 June 2005. In particular, in his appeal before the Supreme Court, the applicant had presented this complaint in a very general manner, without developing or substantiating it in any way.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "61.\u00a0\u00a0The applicant contested those arguments. He submitted that he and his lawyers had raised the relevant issues during the hearings before the domestic courts but to no avail.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The Court notes at the outset that the applicant\u2019s additional complaint concerning the lack of legal assistance during his alleged first interview at the scene of crime was lodged before the Court for the first time in 2013, in his comments in reply to the Government\u2019s observations, that is to say more than six months after the final decision by the Supreme Court in the criminal proceedings against the applicant had been taken (November 2006). It therefore finds that this part of the application must be rejected, in accordance with Article 35 \u00a7\u00a7 1 and 4 of the Convention, as being introduced out of time.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "63.\u00a0\u00a0As regards the alleged refusal to allow the applicant to confer privately with his lawyer before being questioned on 1 June 2005, the Court observes that the applicant did raise this complaint, although indeed in a rather general way, in his appeal before the Supreme Court. Furthermore, although there is no evidence in support of the applicant\u2019s statement that the relevant complaint had been raised during the court hearings, the Court cannot but note that the Government eventually did not deny or comment in any way on this counterargument of the applicant. It therefore cannot be said, as alleged by the Government, that the authorities had not been sufficiently informed of the applicant\u2019s grievance. The Court therefore rejects the objection by the Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0It further notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention or inadmissible on any other grounds and must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "65.\u00a0\u00a0The applicant maintained that he had been denied a confidential talk with his lawyer before being questioned on 1 June 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government submitted that the applicant\u2019s right to legal assistance had not been violated. In particular, he had been informed of his procedural rights from the beginning of his arrest and made all his statements on his own free will. He was provided with a lawyer of his wish once requested and was legally represented by professional lawyers throughout the proceedings. The lawyers did not raise complaints regarding violation of the applicant\u2019s defence rights. The Government further submitted that the applicant had never made self-incriminating statements, had always pleaded not guilty and had never changed his position or version of events. His conviction was based on a number of evidence gathered by the prosecution which had been found reliable by courts of three instances. The Government finally noted that the applicant had failed to explain, both at the domestic level and before the Court, what were the consequences of the alleged impossibility to talk with his lawyer before the questioning on the fairness of the proceedings. They concluded that the proceedings had been fair and that there had been no violation of Article 6\u00a0\u00a7\u00a7\u00a01 and 3 (c) of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0The Court reiterates that access to a lawyer should be provided from the first time a suspect is questioned by the police, unless it is demonstrated, in the light of the particular circumstances of each case, that there are compelling reasons to restrict this right. Even where compelling reasons may exceptionally justify denial of access to a lawyer, such a restriction \u2013 whatever its justification \u2013 must not unduly prejudice the rights of the accused under Article 6. The rights of the defence will, in principle, be irretrievably prejudiced when incriminating statements made during questioning by police without access to a lawyer are used for a conviction. Accordingly, the test for assessing whether a restriction on access to a lawyer is compatible with the right to a fair trial is composed of two stages. In the first stage the Court must assess whether there were compelling reasons for the restriction. In the second stage, it must evaluate the prejudice caused to the rights of the defence by the restriction in the case in question. In other words, the Court must examine the impact of the restriction on the overall fairness of the proceedings and decide whether the proceedings as a whole were fair (see Ibrahim and Others v. the United Kingdom [GC], nos.\u00a050541/08, 50571/08, 50573/08 and 40351/09, \u00a7\u00a7 256 and 257, 13\u00a0September 2016). Where there are no compelling reasons for restricting access to legal advice, the Court must apply a very strict scrutiny to its fairness assessment. The onus will be on the Government to demonstrate convincingly why, exceptionally and in the specific circumstances of the case, the overall fairness of the trial was not irretrievably prejudiced by the restriction on access to legal advice (ibid., \u00a7\u00a0265).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "68.\u00a0The Court observes, and this is not in dispute, that in the present case during the interview referred to by the applicant and onwards throughout the proceedings he was legally represented. Likewise, it is apparent from the case file, including the applicant\u2019s own submissions, that his earlier statements regarding the incident had been made to the police of his own free will. The essence of the applicant\u2019s complaint is that he had been denied a private conversation with the lawyer before the interview of 1 June 2005 started (see paragraph 7 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes that it has previously held that confidential communication with one\u2019s lawyer is part of the basic requirements of a fair trial in a democratic society and an important safeguard of the rights of the defence which follows from Article 6 para. 3 (c) of the Convention (see, for instance, S. v. Switzerland, 28 November 1991, \u00a7 48, Series A no. 220; Campbell v. the United Kingdom, 25 March 1992, \u00a7 46, Series A no. 233).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court notes that the Government did not refute that the applicant was denied the confidential meeting with his lawyer that he requested. In the absence of evidence suggesting that the applicant and his lawyer were able to communicate confidentially prior to the questioning when his lawyer was uncontestably present, the Court however cannot but accept the applicant\u2019s version of events and conclude that his access to legal advice on the referred date was restricted. On the facts, the Court does not discern any compelling reason for that restriction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0Accordingly, the Court must apply a very strict scrutiny in assessing whether the restriction of the applicant\u2019s right to legal advice during the interview of 1 June 2005 undermined the fairness of the proceedings against the applicant (see paragraph 67 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The Court notes that there is nothing in the documents before it to suggest that during the referred interview, the applicant made any statements that differed from his earlier explanations given to the police or would differ from any of his statements made later. The applicant had been consistent in his version of events throughout the proceedings, including during the trial, and persistently denied murder claiming that an accident had happened (see, a contrario, the case of \u00c7imen v. Turkey, no. 19582/02, \u00a7\u00a026, 3 February 2009). Furthermore, there is no indication in the case-file material that any of his statements played any role in his conviction (see, by contrast, Leonid Lazarenko v. Ukraine, no. 22313/04, 28 October 2010).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0Lastly, the Court cannot but observe that the applicant failed to explain, both before and after the case had been communicated to the Government, what prejudice to the overall fairness of his trial had been caused by the alleged failure to allow him to meet privately with his lawyer before the police interview at issue.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In view of the above considerations it has been demonstrated that, in the circumstances of the present case, the overall fairness of the trial was not irretrievably prejudiced by the decision to refuse the applicant a confidential communication with his lawyer on 1 June 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0There has therefore been no violation of Article 6 \u00a7\u00a7 1 and 3 (c) of the Convention in the present case.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATIONS OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "76.\u00a0\u00a0The applicant complained that from 26 August 2005 and until his conviction on 26 August 2006 he had not been allowed to see members of his family and that during his pre-trial detention he had also been prohibited from sending correspondence to them. This complaint falls to be examined under Article 8 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The Government admitted that there had been an interference with the applicant\u2019s right to respect for his family life. However, they considered that such interference had been necessary in a democratic society and had been justified by the need to ensure public safety and to prevent any obstruction by the applicant of the investigation of the criminal case against him.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicant claimed that the justification advanced by the Government was vague as, in accordance with domestic law, detainees\u2019 correspondence to their relatives was subject to mandatory monitoring by the SIZO authorities and all meetings with relatives were held in the presence and under the close supervision of the SIZO staff.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Whether there was an interference",
+                                        "elements": [
+                                            {
+                                                "content": "80.\u00a0\u00a0It was not disputed by the parties that there had been \u201can interference by a public authority\u201d within the meaning of Article 8 \u00a7 2 of the Convention with the applicant\u2019s right to respect for his family life and correspondence guaranteed by paragraph 1 of Article 8.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Whether the interference was justified",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The cardinal issue that arises is whether the above interference was justifiable under paragraph 2 of Article 8. In particular, if it is not to contravene Article 8, such interference must be \u201cin accordance with the law\u201d, pursue a legitimate aim and be necessary in a democratic society in order to achieve that aim (see Silver and Others v. the United Kingdom, 25\u00a0March 1983, \u00a7 84, Series A no. 61, and Petra v. Romania, 23 September 1998, \u00a7 36, Reports of Judgments and Decisions 1998VII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "82.\u00a0\u00a0The Court must first consider whether the interference was \u201cin accordance with the law\u201d. This requires firstly that the impugned measure should have some basis in domestic law; it also refers to the quality of the law in question, requiring that it should be accessible to the person concerned, who must moreover be able to foresee its consequences for him or her, and be compatible with the rule of law (see Kruslin v. France, 24\u00a0April 1990, \u00a7 27, Series A no. 176A, and Huvig v. France, 24 April 1990, \u00a7 26, Series A no. 176B).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "83.\u00a0\u00a0In contending that these requirements had been met in respect of the limitations on visits to the applicant by his family, the Government referred to Article 162 of the Code of Criminal Procedure and Article 12 of the PreTrial Detention Act which provided that an investigator or a judge could allow family visits during pre-trial detention. As regards the possibility to correspond with relatives, they noted that Article 13 of the Pre-Trial Detention Act provided that a detainee could correspond with his or her relatives and other people with the written consent of the person or authority dealing with the criminal case against the detainee. The Court will deal with those arguments separately.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "84.\u00a0\u00a0The Court reiterates that it has already found violations of Article 8 of the Convention in similar cases against Ukraine, having established that the legislative provisions referred to by the Government, as in force at the relevant time, did not indicate with reasonable clarity the scope and manner of the exercise of discretion conferred on the public authorities in respect of restrictions on detainees\u2019 contacts with their families. The above provisions (see paragraphs 37 and 38 above) did not require them to give any reasons for their discretionary decisions or even to take any formal decision that could be appealed against, and therefore contained no safeguards against arbitrariness or abuse (see\u00a0Shalimov v. Ukraine, no. 20808/02, \u00a7\u00a7 84-91, 4\u00a0March 2010, and Feldman v. Ukraine (no.2), no. 42921/09,\u00a0\u00a7\u00a7 22-29, 12\u00a0January 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0No arguments have been put forward in this case which would enable the Court to reach a different conclusion.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "86.\u00a0\u00a0The Court finds, in these circumstances, that it cannot be said that the interference with the applicant\u2019s right to respect for his family life was \u201cin accordance with the law\u201d as required by Article 8 \u00a7 2 of the Convention. It therefore does not consider it necessary in the instant case to ascertain whether the other requirements of paragraph 2 of Article 8 were complied with and holds that there has been a violation of that provision.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court observes that the legislative provisions governing restrictions on correspondence with relatives are similar to those governing family visits.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "88.\u00a0\u00a0It further notes that it has already found a violation of Article 8 of the Convention in the case of Dovzhenko v. Ukraine raising issues similar to the present application (no. 36650/03, 12 January 2012). In that case, the Court observed that the applicable provision of the domestic law did not oblige the competent authority to adopt a formal decision on the request for a correspondence permit, to give reasons for such a decision or provide a copy thereof to the detainee concerned. Nor did that provision lay down a specific remedy enabling a detainee to contest the action or omission by the relevant authority. Due to the lack of those important procedural safeguards detainees\u2019 requests for a correspondence permit could remain unanswered or refused for no valid reason. The Court further noted that lack of the abovementioned guarantees was all the more disconcerting given that the domestic law, as a general rule, prohibited correspondence and obliged pretrial detainees to seek a permit as an exception thereto, rather than respecting, in principle, a detainee\u2019s right to correspondence and ensuring that any interference therewith was provided by and was in accordance with law. It therefore concluded that the relevant legislative provisions did not meet the requirements of quality of law for the purpose of the Convention and that the interference with the applicant\u2019s right to respect for his correspondence was not \u201cin accordance with the law\u201d as required by Article 8 \u00a7 2 of the Convention (ibid. \u00a7\u00a7 74-79).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0On the basis of the case file, the Court finds no ground to depart from its case-law in the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0There has accordingly been a violation of Article 8 of the Convention in connection with this aspect of the complaint as well.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 9 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "91.\u00a0\u00a0The applicant complained that while in pre-trial detention he had not been allowed to meet with a priest and to visit the SIZO chapel and that his religious literature and other items of a religious nature had been seized from him by the SIZO staff. He relied on Article 9 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1. Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2. Freedom to manifest one\u2019s religion or beliefs shall be subject only to such limitations as are prescribed by law and are necessary in a democratic society in the interests of public safety, for the protection of public order, health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": "92.\u00a0\u00a0The Government stated that the applicants\u2019 complaints were manifestly ill-founded as there was no evidence in support of his allegations that an interference with his rights had taken place. In particular, there was no evidence that the applicant had ever asked for permission before the relevant authorities, namely the investigator or the court involved, to meet with a priest but had been refused.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0The Government further submitted that the applicant had failed to exhaust the domestic remedies available to him in respect to his complaint concerning visiting the prison church and possessing religious literature. They noted in this connection that the detainees\u2019 right to practice their religion, including visiting a church and possessing religious literature, was clearly provided by Article 9 of the Pre-Trial Detention Act. The SIZO had a chapel which detainees had been free to visit. According to the Government, in a case of a violation of the rights set forth in the mentioned Article, the applicant should have complained about it to the prosecutor or directly to the administrative court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant admitted that he had requested a meeting with a priest from the SIZO governor and not from the investigator or the court as required by law. In his opinion, however, in a case where the SIZO governor was not the right person to decide on his request, he should have forwarded it to the competent authority in accordance with the Citizens\u2019 Appeals Act.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicant further stated that he had complained on a number of occasions to the SIZO governor and on 1 October 2006 to the Prosecutor General about violations of his right to practice his religion, in particular regarding the seizure of his religious literature and paraphernalia and the impossibility to visit the SIZO chapel, but received no reply.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": "96.\u00a0\u00a0The Government did not contest the fact that the applicant had requested that the SIZO administration give him an opportunity to meet with a priest. Their objection to the admissibility is based rather on the fact that, in accordance with the applicable domestic law, any request of that kind should have been lodged with the investigator or the court dealing with the applicant\u2019s criminal case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0The Court notes in this connection that the applicant was a detainee at the time. The procedure regarding visiting a detainee was provided by the Code of Criminal Procedure and the Pre-Trial Detention Act which clearly defined the authorities in charge of the examination of all respective requests (see paragraphs 37 and 38 above). The mentioned legislative provisions were accessible to public. The Court is not aware of any reason that would justify the applicant\u2019s failure to comply with the procedure set forth therein.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0It should also not be overlooked in this context that the applicant was legally represented at the time and thus could have benefited from the assistance of his lawyers in the matter.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0\u00a0Moreover, the Court observes that the restrictions on visits by either relatives or other people were provided by the same legislative provisions. It cannot but note that, according to the evidence submitted by the Government, the applicant complied with the relevant procedure when he requested visits from his relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "100.\u00a0\u00a0As regards the applicant\u2019s reference to the Citizens\u2019 Appeals Act, the Court notes that by virtue of Article 12 of that Law its provisions were not applicable in the applicant\u2019s situation (see paragraph 39 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0Given the aforementioned, the Court concludes that the applicant has failed to duly raise the relevant issue at the domestic level before bringing the matter to the Court. His complaint concerning the authorities\u2019 unjustified refusal to allow his requests to meet with a priest must therefore be rejected in accordance with Article 35 \u00a7\u00a7 1 and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that the applicant\u2019s statement that he complained about the alleged interference to the relevant domestic authorities is supported by the documents contained in the case file, in particular by a copy of the applicant\u2019s complaint to the Prosecutor General of 1 October 2006.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0For these reasons, the Court considers that the applicant sufficiently raised the present complaint before the domestic authorities and rejects the Government\u2019s objection. It further notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Government provided no observations as to the merits of the present complaint. The Court therefore cannot but accept the applicant\u2019s factual submissions concerning the seizure of religious literature and items and refusal to allow visits to the prison chapel (see paragraphs 27 and 102 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court has already found that the situations when a prisoner was not able to participate in religious services amounted to an interference with his or her \u201cfreedom to manifest his [or her] religion or belief\u201d (see, for example, Kuznetsov v. Ukraine, no. 39042/97, \u00a7 147, 29 April 2003). It finds that that conclusion is equally pertinent to the circumstances of the present case. The Court is accordingly called upon to examine whether the interference was justified, that is, whether it was \u201cprescribed by law\u201d, whether it pursued one or more legitimate aims enumerated in paragraph 2 of Article 9 and whether the interference was \u201cnecessary in a democratic society\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes that, as noted by the Government, according to Article 9 of the Pre-Trial Detention Act, individuals detained on remand should enjoy the right to perform religious rituals individually and to use religious literature and objects. Thus, the interference with the mentioned right would have been contrary to domestic law unless it had been justified by the need to secure observance of the prison rules or respect for the rights of other individuals (see paragraphs 37 and 38 above), which was not claimed to be the situation in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0It follows that the interference with the applicant\u2019s freedom to manifest his religion was not \u201cin accordance with the law\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Having regard to that finding, the Court does not consider it necessary to ascertain whether the other requirements of paragraph 2 of Article 9 were complied with.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Consequently, the Court finds that there has been a violation of Article 9 of the Convention in respect of this part of the application.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "110.\u00a0\u00a0In addition to the above complaints, in his application form and ensuing correspondence, the applicant also complained, under Article 3, that the conditions of his detention in the police station and the ITT (temporary detention centre) had been poor; under Article 5, that there had been no grounds for his arrest; under Article 6, that (a) the prosecutor had put pressure on some witnesses; (b) the judge of the first-instance court had offended him; (c) there had been irregularities related to the forensic examinations; (d) one of the witnesses had given false testimony but the authorities had failed to prosecute her; (e) records of the court hearings had been falsified and inaccurate; (f) a number of his requests before the Court of Appeal and the Supreme Court had been rejected; (g) the length of proceedings had been excessive; (h) the audio record of the court hearings had not been provided to him; (i) he had not been allowed to make copies of the documents in the case file while in the SIZO; (j) he had been absent from some of the court\u2019s hearings; (k) his complaints to the Supreme Court, the High Council of Justice, the General Prosecutor\u2019s Office and other institutions concerning unlawful conviction and violation of the law during the trial had brought no results; (l) no extraordinary review of his case had been granted; and, under Article 7, that his criminal prosecution for the murder had been groundless. Lastly, the applicant invoked Articles 1 and 13 of the Convention in relation to the facts of the present case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "111.\u00a0\u00a0Having regard to the facts of the case, the submissions of the parties and the above findings under Articles 3, 6, 8 and 9 of the Convention, the Court considers that the main legal questions in the present application have been determined. It holds, therefore, that there is no need to give a separate ruling on the remaining uncommunicated complaints (see, among other authorities, Varnava and Others v. Turkey [GC], nos. 16064/90 et al., \u00a7\u00a7\u00a0210-211, ECHR 2009, and Centre for Legal Resources on behalf of Valentin C\u00e2mpeanu v. Romania [GC], no.\u00a047848/08, \u00a7 156, ECHR 2014, with further references).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "112.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "113.\u00a0\u00a0The applicant claimed EUR 1,500,000.00 in total in respect of nonpecuniary damage for the whole range of the violations alleged.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "114.\u00a0\u00a0The Government submitted that there had been no breaches of the Convention in the present case and that, in any event, the applicant\u2019s claims were exorbitant and unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes that it has found violations of Articles 8 and 9 of the Convention in the present case. Ruling on an equitable basis, it awards the applicant EUR 4,000 in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0The applicant submitted no claim for the costs and expenses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court respectively makes no award under this head.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "118.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint under Article\u00a06\u00a0\u00a7\u00a7 1 and 3 (c) concerning the alleged violation of the applicant\u2019s defence rights; the complaints under Article 8 concerning restrictions imposed on family visits and sending correspondence in pre-trial detention; the complaints under Article 9 concerning seizure of religious literature and items and refusals to allow visits to a church in pre-trial detention admissible and the remainder of the communicated complaints inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been no violation of Article 6\u00a0\u00a7\u00a7 1 and 3 (c) of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 9 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that it is not necessary to examine the admissibility and merits of the other complaints;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final, in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, EUR 4,000 (four thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses the remainder of the applicant\u2019s claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 2 March 2017, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Angelika Nu\u00dfberger",
+            "role": "president"
+        },
+        {
+            "name": "Erik M\u00f8se",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Faris Vehabovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00edofra O\u2019Leary",
+            "role": "judges"
+        },
+        {
+            "name": "Carlo Ranzoni",
+            "role": "judges"
+        },
+        {
+            "name": "L\u04d9tif H\u00fcseynov",
+            "role": "judges"
+        },
+        {
+            "name": "Milan Bla\u0161ko",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF MOROZ v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-171501.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2017:0302JUD000518707",
+    "externalsources": [],
+    "extractedappno": [
+        "5187/07",
+        "34979/97",
+        "14183/02",
+        "72286/01",
+        "30628/02",
+        "39908/05",
+        "15825/06",
+        "32362/02",
+        "56660/12",
+        "52652/07",
+        "55104/13",
+        "23893/03",
+        "30997/02",
+        "50541/08",
+        "50571/08",
+        "50573/08",
+        "40351/09",
+        "19582/02",
+        "22313/04",
+        "20808/02",
+        "42921/09",
+        "36650/03",
+        "39042/97",
+        "16064/90",
+        "47848/08"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-171501",
+    "judgementdate": "02/03/2017 00:00:00",
+    "kpdate": "02/03/2017 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "76",
+        "136",
+        "86",
+        "451",
+        "424",
+        "154",
+        "152"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "6-3-c",
+        "9",
+        "9-1",
+        "8",
+        "8-1",
+        "6-1",
+        "6"
+    ],
+    "parties": [
+        "MOROZ",
+        "UKRAINE"
+    ],
+    "rank": "1782.38342285156",
+    "representedby": [],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "461817",
+    "typedescription": "15"
+}

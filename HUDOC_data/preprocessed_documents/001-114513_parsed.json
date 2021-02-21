@@ -1,0 +1,1281 @@
+{
+    "__articles": "3;6;6-1;8;8-1;14;14+6;14+8",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home);Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Fair hearing);Violation of Article 14+6 - Prohibition of discrimination (Article 14 - Discrimination) (Article 6 - Right to a fair trial;Article 6-1 - Fair hearing);Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Article 8-1 - Respect for home)",
+    "applicability": "",
+    "appno": "12694/04",
+    "article": [
+        "6",
+        "3",
+        "8",
+        "14"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 8-1 - Respect for home"
+            ],
+            "element": "Violation of Article 8 - Right to respect for private and family life",
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+6 - Prohibition of discrimination",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Fair hearing"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+6 - Prohibition of discrimination",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Article 6-1 - Fair hearing"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+8 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for home"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+8 - Prohibition of discrimination",
+            "mentions": [
+                "Article 8 - Right to respect for private and family life",
+                "Article 8-1 - Respect for home"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-114513.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 12694/04) against  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by three Romanian nationals, Ms Voichi\u0163a (Rosta\u015f) L\u0103c\u0103tu\u015f, Ms Speran\u0163a-L\u0103m\u00e2i\u0163a Rosta\u015f and Ms Rada-Codru\u0163a Rosta\u015f (\u201cthe applicants\u201d), on 5 March 2004.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented by Mr C. Cojocariu and Mr\u00a0T.\u00a0Alexandridis, lawyers practising in London and , respectively. The Romanian Government (\u201cthe Government\u201d) were represented by their Agent, Mr R\u0103zvan-Hora\u0163iu Radu, from the Ministry of Foreign Affairs.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0As Mr Corneliu B\u00eersan, the judge elected in respect of , had withdrawn from the case\u00a0(Rule 28 of the Rules of Court), the President of the Chamber appointed Mrs Kristina Pardalos to sit as an ad hoc judge (Article\u00a026\u00a0\u00a7 4 of the Convention and Rule 29 \u00a7 1 of\u00a0the Rules of Court).",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0The applicants alleged, in particular, that the destruction of their home during a riot on 20 September 1993, and the ensuing consequences, disclosed a breach by the respondent State of its obligations under Articles\u00a03, 6, 8, 14 of the Convention and Article 1 of Protocol No. 1 to the Convention, which guarantee, inter alia, freedom from inhuman and degrading treatment, access to a court for a fair determination of civil rights and obligations, the right to respect for private and family life and the home, the protection of property and freedom from discrimination in the enjoyment of Convention rights and freedoms.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0On 6 January 2009 the Court decided to give notice of the application to the Government. It was also decided to rule on the admissibility and merits of the application at the same time (Article 29 \u00a7\u00a01).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "6.\u00a0\u00a0The applicants were born in 1970, 1990 and 1994 respectively and live in .",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The facts of the case, as described in the judgment of Moldovan and Others v. Romania (no. 2), nos. 41138/98 and 64320/01, ECHR 2005-VII (extracts) and as submitted by the parties in respect of their individual situations, may be summarised as follows.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The incident on 20 September 1993",
+                                "elements": [
+                                    {
+                                        "content": "8.\u00a0\u00a0The first applicant, Ms Voichi\u0163a (Rosta\u015f) L\u0103c\u0103tu\u015f, was the common law partner of Mr Aurel Pardalian L\u0103c\u0103tu\u015f, one of the three Roma killed during the violent events of 20 September 1993 in H\u0103d\u0103reni. The second and third applicants, Ms Speran\u0163a-L\u0103m\u00e2i\u0163a Rosta\u015f and Ms Rada-Codru\u0163a Rosta\u015f, are the daughters of the first applicant and of Aurel Pardalian L\u0103c\u0103tu\u015f. Prior to 20 September 1993 they all lived in Mrs C\u0103t\u0103lina L\u0103c\u0103tu\u015f\u2019s house. Mrs C\u0103t\u0103lina L\u0103c\u0103tu\u015f was Mr Aurel Pardalian L\u0103c\u0103tu\u015f\u2019 mother. Their home was destroyed during the events and has not been rebuilt to date.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0On the evening of 20 September 1993 a row broke out in a bar in the centre of the  (Mure\u015f district). Aurel Pardalian L\u0103c\u0103tu\u015f, his brother, along with another Roma man, began to argue with a non-Roma man. The verbal confrontation developed into a physical one which ended with the death of the non-Roma\u2019s son. The three Roma then fled the scene and sought refuge in a neighbour\u2019s house.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0Soon afterwards an angry mob arrived at the house where the three Roma were hiding and demanded that they come out. Among the crowd were members of the local police force who had heard of the incident. When the brothers refused to come out, the crowd set fire to the house. As the fire engulfed the house, the brothers tried to flee but were caught by the mob, who beat and kicked them with vineyard stakes and clubs. The two brothers died later that evening. The third Roma remained in the house, where he died in the fire. It appears that the police officers present did nothing to stop these attacks \u2013 on the contrary, they called for and allowed the destruction of all Roma property in H\u0103d\u0103reni.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "11.\u00a0\u00a0Later that evening, the villagers decided to vent their anger on all the Roma living in the village and proceeded to burn Roma homes and property in H\u0103d\u0103reni, including stables, cars and goods. The riots continued until the following day. In all, thirteen Roma houses were destroyed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0By letters of 30 July 2003 and 19 April 2004 the first applicant informed the Court that in the aftermath of the events she had married Mr\u00a0Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and that she and her family had been left homeless and had received no aid from the authorities. She also stated that she had been forced to share an apartment located at no. , Ludu\u015f with sixteen other individuals until 2002. In addition, she claimed that her younger daughter, the third applicant, had developed a speech impediment as a result of the fear experienced by the first applicant, who had been pregnant with her at the time of the events.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0On an unspecified date the applicants submitted documents that attest that on 23 February 1994 M.F.Z. asked the Che\u0163ani Mayor\u2019s Office to provide her and twelve other people, including the first two applicants, with accommodation and protection. The documents further attest that on 6\u00a0June\u00a01995 the first applicant and M.F.Z., another victim of the events of September 1993, opened a private business registered at no. 5 Bradului Street, Ludu\u015f. They also submitted four birth certificates attesting that the four children the first applicant had with Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f were born between 1996 and 2003 in Ludu\u015f.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0By letter of 20 January 2004 the first applicant informed the Court that on the night of the events she had sought refuge together with the rest of the L\u0103c\u0103tu\u015f family in the garden of their home. At the time, she had been two months pregnant with her younger daughter, the third applicant. She had been very scared and had remained hidden in the corn in the garden while she had witnessed the villagers burning down her home. Afterwards, according to her, both the villagers and the police officers accompanying them had started looking for her and the rest of the family but they had not managed to find them. When she had fled her home she had become separated from Speran\u0163a-L\u0103m\u00eei\u0163a, the second applicant, who had been three years old at the time. Eventually, she had found out that her daughter was alive because she had been saved by Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and she had been reunited with her daughter the following day. The first applicant also stated that her and her daughters\u2019 home had never been rebuilt by the authorities, that they had been faced with many hardships but the authorities had failed to help them and that they had been forced to leave the village and settle elsewhere in the country. She further stated that she and her daughters had developed a number of medical problems as a result of the events of 20 September 1993, in particular headaches, anaemia, and heart and kidney problems.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0By letter of 19 April 2004 Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f informed the Court that in the aftermath of the events and until 2001 sixteen members of the L\u0103c\u0103tu\u015f family, including the three applicants, had lived at no. 5 Bradului Street, Ludu\u015f. According to him, they had all been living in a small two-room rental apartment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0By letter of 8 March 2006 the first applicant informed the Court that she was now living in .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0By letter of 11 August 2010 Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f reiterated his statement that between 1994 and 2001 the entire L\u0103c\u0103tu\u015f family, numbering sixteen individuals, including the applicants, had been living in a two-room apartment at no. 5 Bradului Street, Ludu\u015f. According to him, the living conditions had been overcrowded, they had lacked basic necessities like food and water most of the time and they had not received any support from the authorities. He further stated that between 2000 and 2004 he and his family \u2013 numbering eight individuals in total, including the applicants \u2013 had moved to no. 30, 8th of March Street, Ludu\u015f. He also contended that on an unspecified date in 2005 he and the applicants had moved to . That same year they had been granted political asylum by the Belgian authorities and in 2008 they became Belgian citizens.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0According to the information and supporting documents submitted by the Government, on an unspecified date in 2010, the first, second and third applicants were registered with the Romanian Population Register Office as living at house no. 156 in the , Mure\u015f starting from 1997, 1996 and 1994, respectively. In addition, starting from September 2001 the three applicants moved to no. 30, 8th of March Street, Ludu\u015f. The documents also stated that the first applicant had not opened enforcement proceedings in respect of the final domestic judgments granting her child allowance for the second applicant.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The proceedings before the domestic courts",
+                                "elements": [
+                                    {
+                                        "content": "19.\u00a0\u00a0On 19 January 1995, during the course of the criminal investigation opened in respect of the events of September 1993, the first applicant gave a statement as a witness to the T\u00e2rgu-Mure\u015f Military Prosecutor\u2019s Office. According to her statement, her address was no. , Ludu\u015f. In her written statement she stated that she had not been married to Aurel Pardalian L\u0103c\u0103tu\u015f, but they had had two children together. Moreover, they had both lived in Mrs C\u0103t\u0103lina L\u0103c\u0103tu\u015f\u2019 house, which had been burned down during the incident. Furthermore, she had suffered damage because several of her belongings had been destroyed in the fire, but she refused to become a civil party to the proceedings. Lastly, she stated that although her legal rights had been explained to her she only wished to take part in the criminal proceedings as a witness.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0On 12 January 2001, following the discontinuance of the criminal investigation against the police officers involved in the incident and the criminal conviction and sentencing of twelve civilians, the Mure\u015f County Court delivered its judgment in the civil case. The court noted that the victims had sought pecuniary damages for the destruction of the houses and their contents, as well as non-pecuniary damages. The court further noted that, during the events of 20 September 1993, eighteen houses belonging to the Roma population in H\u0103d\u0103reni had been totally or partially destroyed and three Roma had been killed, a criminal court having found twelve villagers guilty of these acts. Basing its decision on an expert report, the court awarded pecuniary damages for those houses which had not been rebuilt in the meantime, and maintenance allowances for the children of some of the Roma killed during the riots. On the basis of an expert report, the court awarded pecuniary damages in respect of the partial or total destruction of the houses of six Roma. The court rejected the other victims\u2019 claim for pecuniary damages in respect of the rebuilt houses, finding, on the basis of the same expert report, that their value was either the same or even higher than the original buildings. It further refused to award any of the victims damages in respect of belongings and furniture, on the grounds that they had not submitted documents confirming the value of their assets and were not registered as taxpayers with incomes that would have made them capable of acquiring such valuable assets. The court stated the following in that regard:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... The damage suffered because of the destruction of the chattels and furniture has not been substantiated. The civil parties consider that their own statements, the lists of the belongings destroyed submitted to the court and the statements of the other witnesses who are also civil parties should be enough to substantiate their claims. Having regard to the context in which the destruction occurred and to the fact that all civil parties suffered losses, the court will dismiss as obviously insincere the statements made by each civil party in relation to the losses suffered by the other civil parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Last but not least, the type of belongings allegedly destroyed and the quantity of goods allegedly in the possession of each civil party show a much more prosperous situation than that which a family of average income could have. Neither civil party adduced proof of having an income such as to allow them to have acquired so many goods. As noted previously, the parties had no income at all. Moreover, the shape of the houses, the materials used for their construction and the number of rooms show an evident lack of financial resources. It should be stressed in this context that only work can be the source of income, and not events such as the present one...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0The county court\u2019s judgment of 12 January 2001 did not acknowledge the applicants\u2019 civil party status and their names were not mentioned in the said judgment. M.F.Z., the sister of two of the Roma killed in the events of September 1993 and the wife of the third; as well as P.D.R., the common law partner of one of the Roma killed, were party to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0Following the victims\u2019 and some of the accused\u2019s appeal against the judgment of 12 January 2001, the Mure\u015f Court of Appeal quashed the said judgment on procedural grounds on 17 October 2001 and ordered a retrial. It held that: the hearings had taken place in the absence of the accused and their lawyers; one of the victims, A. M., had not been summoned; the public prosecutor had not been given leave to address the court; a number of expert reports ordered by the court had not been completed; and confusion had been created as to the number and names of the victims and their children. Consequently, it concluded that these errors rendered the proceedings null and void. The judgment did not acknowledge the applicants\u2019 civil party status and their names were not mentioned in it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0By an interlocutory judgment of 29 January 2002 the  ordered that the first applicant be summoned to the proceedings in order to allow her to submit her children\u2019s birth certificates. According to the interlocutory judgment the applicant\u2019s address at the time was no. 30, 8th of March Street, Ludu\u015f.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0On 19 February 2002 the  heard the first applicant. She stated that she had been Aurel Pardalian L\u0103c\u0103tu\u015f\u2019s common law partner and she had had two children with him, the second and third applicants, although the birth certificates of the said children did not bear their father\u2019s name. She further contented that she intended to claim child allowance for her two children. She acknowledged that during the criminal proceedings she had renounced any civil claims and had declared that she only wanted to be a witness in the proceedings. By an interlocutory judgment delivered the same day the  allowed the public prosecutor\u2019s office and the accused\u2019s motions and held that the first applicant had the status of witness and not civil party to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0At a hearing on 16 April 2002 the public prosecutor\u2019s office motioned the court to include the second applicant as a civil party to the proceedings in order to be able to examine her mother\u2019s request for child allowance. By an interlocutory judgment delivered the same day the Mure\u015f County Court allowed the prosecutor\u2019s action and ordered that the first applicant be summoned before the court as a representative for the second applicant, now a civil party to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0At a hearing on 3 September 2002 the first applicant, as representative of the second applicant, stated that her deceased common law partner had had a monthly income of ROL 300,000 lei (ROL) (approximately 9 euros (EUR)) and that he had spent approximately ROL 75,000 (approximately EUR 2) of it on the second applicant. Moreover, she stated that she entrusted the court to determine the amount of the monthly child allowance to be paid by the accused. Lastly, she contended that she also wanted to claim a monthly child allowance for the third applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The Mure\u015f County Court delivered its judgment following the retrial in respect of the civil limb of the proceedings on 12 May 2003.\u00a0Basing its decision on an expert report drafted in 1999 and updated in 2003, the court ordered the civilians found guilty by the criminal court of the destruction of the victims\u2019 homes to pay damages to some of them, but rejected the victims\u2019 claims in respect of non-pecuniary damage, on the grounds that the crimes committed had not been of a nature to produce non-pecuniary damage. The court noted that M.F.Z. had been the wife of one of the Roma killed in the events and ordered the accused to pay her ROL 60,000,000 (approximately EUR 1,700) in compensation for pecuniary damage. In addition, the court noted that both M.F.Z. and P.D.R. had also claimed monthly child allowances for their minor sons on account of their fathers\u2019 deaths, to be paid until the age of eighteen years old, and acknowledged that the minors were entitled to monthly allowances of ROL 312,500 (approximately EUR\u00a09) to be paid jointly by the accused.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0In respect of the first applicant, the court noted that she had been Mr\u00a0Aurel Pardalian L\u0103c\u0103tu\u015f\u2019s common law partner. It also noted that the first applicant had given birth to the second applicant in 1990 and that her birth certificate bore only her mother\u2019s name. It also noted that at the initial stage of the criminal investigation the first applicant had been heard as a witness and had stated that she did not wish to pursue any civil claims. During the re-examination of the civil proceedings, the public prosecutor\u2019s office had requested, relying on the applicable civil procedure rules, that the second applicant be granted a child allowance as civil damages. The first applicant had testified before the court that her former partner had been running a registered small business and had been earning EUR 9 a month at the time of his death. The amount spent by the deceased on the second applicant each month had been approximately EUR 2. The first applicant had motioned the court to award child allowance for the third applicant as well. The latter had been born in 1994 and her birth certificate had also only borne her mother\u2019s name.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The court acknowledged that the second applicant had been supported by Mr Aurel Pardalian L\u0103c\u0103tu\u015f for more than three years and that, like the children of M.F.Z. and P.D.R., she was entitled to a monthly child allowance of EUR 9. The court dismissed the first applicant\u2019s claim for a child allowance in favour of the third applicant on the grounds that she had been born after Mr Aurel Pardalian L\u0103c\u0103tu\u015f\u2019s death and her mother had not made any efforts to determine the paternity of the child. The first applicant appealed against the judgment on her and her daughters\u2019 behalf, but failed to provide reasons for her appeal.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0On 30 September 2003 the first applicant was summoned to appear as a civil party at a hearing of the T\u00e2rgu-Mure\u015f Court of Appeal on 22\u00a0October 2003.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0By a judgment of 27 February 2004 the T\u00e2rgu-Mure\u015f Court of Appeal acknowledged the applicants\u2019 status of civil parties to the proceedings and partly allowed their appeal. The court recalled that, under the combined provisions of the Romanian Civil Code and the Codes of Criminal and Civil Procedure, it was bound by the ruling of the criminal court. Referring to recent publications by Romanian authors in the field of civil law and the Court\u2019s case of Akdivar and Others v. Turkey (16\u00a0September 1996, Reports 1996-IV), the court found the following:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cBy their behaviour, the accused infringed the property rights of the complainants, for which pecuniary damages have already been awarded; however, some of the civil parties should also be awarded damages from a non-pecuniary point of view. Some of the civil parties were deprived emotionally, as a result of the damage sustained, of the security which they had felt in the destroyed houses, of the comfort they had enjoyed as a result of the facilities of the houses, all these movable and immovable goods being the result of their work, which guaranteed them a normal standard of living, having regard to their personalities...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As shown above, the accused committed the crimes in a state of provocation, which led the court to apply the provisions of Article 73 of the Criminal Code [regarding extenuating circumstances]. For this precise reason, the civil parties enumerated below are entitled to a certain amount of damages, but not the amount requested...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The court awarded the first applicant ROL\u00a025,000,000 (approximately EUR 700) on the grounds that she had sustained emotional damage and had felt insecure as a result of the events of September 1993. It awarded M.F.Z. ROL 100,000,000 (approximately EUR 2,800) because of the emotional and psychological damage she had suffered after she was deprived of the safety of her home and was forced to leave her community. Moreover, the court noted that M.F.Z. was the sister of two of the deceased and the wife of the third. It also awarded P.D.R. ROL 25,000,000 (EUR\u00a0700) for the psychological damage she had suffered as a result of the accused\u2019s coordinated actions. In addition, it upheld the remaining provisions of the judgment of 12 May 2003. The first applicant appealed on points of law (recurs) against the judgment. Together with the other victims she asked the court to increase the amount of the damages award, in particular as regards non-pecuniary damage, and to determine the amounts by examining each individual case separately in order to avoid arbitrary decisions. She argued that the three widows who had lost their husbands during the events of September 1993, M.F.Z., P.D.R. and herself, should have been treated in the same way by the lower court on account of the fact that following the violent events they had all remained single parents of minor children and the first applicant\u2019s second child had been born an orphan. However, the courts had awarded very different amounts in respect of non-pecuniary damage to three similarly situated victims without providing reasons for doing so. Moreover, the lower court had failed to make an award to the minor children in respect of non-pecuniary damage, even though they had been victims of the events and had been civil parties to the proceedings, represented by their mothers. Lastly, the first applicant claimed ROL 1,000,000,000 (approximately EUR 28,700) in respect of pecuniary damage on her own and the second applicant\u2019s behalf.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0By a final judgment of 25 February 2005 the Court of Cassation dismissed the victims\u2019 and the first applicant\u2019s appeal on points of law and upheld the judgment of the lower court. It held that the Court of Appeal had correctly assessed the evidence and determined the value of the pecuniary damages awarded to each individual on the basis of expert reports. It was clear that the victims had also suffered non-pecuniary damage. In determining the amount of pecuniary and non-pecuniary damage the Court of Appeal had correctly assessed that the offenders had been provoked by the victims. Moreover, the victims had not proved that the burning of their homes had also destroyed their movable property. The value of the moveable property and number of items claimed by the victims was much higher than what they could have afforded, given that most of them had not been gainfully employed. In addition, they had lacked the necessary storage space for the large number of items they claimed to have been destroyed by fire. It was also to be noted that the Romanian Government had rebuilt the victims\u2019 homes and their value was now higher than prior to the incident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0Following the conclusion of the domestic proceedings and of the proceedings before the Court, some of the individuals who were party to the proceedings before the Court in the cases of Moldovan and Others v.\u00a0Romania (friendly settlement), nos. 41138/98 and 64320/01, 5 July 2005, and Moldovan and Others (no. 2), cited above, opened two separate enforcement proceedings in respect of the judgments delivered by the domestic courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0On 25 August 2005 certain of the villagers intervened in the two separate enforcement proceedings pertaining to the said judgments. They argued that following the judgments of the Court and the payment by the State of the just satisfaction in respect of pecuniary and non-pecuniary damage ordered by the Court, the victims\u2019 claims against the State and private individuals had been fully satisfied.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "36.\u00a0\u00a0By two judgments (nos. 342 and 343) of 27 April 2006 the Ludu\u015f District Court allowed in part the villagers\u2019 action contesting the enforcement of the domestic judgments awarding the individuals of Roma origin civil damages following the events of 20 September 1993, on the grounds that the said damages had been incorporated into the sums awarded by the European Court of Human Rights as just satisfaction or as part of the friendly settlement agreements accepted by the applicants following the Moldovan and Others judgments, cited above. However, it dismissed the villagers\u2019 action in respect of the child allowance awarded by the domestic courts to one of the minor children affected by the violent events of September 1993. The interveners appealed on points of law (recurs) against the judgments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "37.\u00a0\u00a0On an unspecified date the two separate enforcement proceedings were joined.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "38.\u00a0\u00a0By a final judgment of 19 January 2007 the  dismissed the interveners\u2019 appeal on points of law as ill-founded. The applicants were not party to the proceedings.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Reconstruction of the houses destroyed during the events and the victims\u2019 living conditions",
+                                "elements": [
+                                    {
+                                        "content": "39.\u00a0\u00a0By decision no. 636 of 19 November 1993, the Romanian government allocated a total of ROL 25,000,000 for the reconstruction of the eighteen houses destroyed by fire on 20 September 1993. The government decided that the funds could also be used as financial assistance for the families affected in order to help them replace items which were strictly necessary and had been destroyed during the fire. However, only four houses were rebuilt with this money and none of the families received financial assistance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "40.\u00a0\u00a0By a government decision of 30 November 1993, a commission for the coordination of the reconstruction of the houses was created. Members of this commission included the mayor of Che\u0163ani and his deputy.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "41.\u00a0\u00a0By letter of 30 June 1994 addressed to the government, the prefect of Mure\u015f indicated that the additional sum of ROL 53,000,000 was needed to rebuild the remaining ten houses.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0By decision no. 773 of 25 November 1994, the government granted the additional sum of ROL 32,000,000 from funds which had been earmarked for natural disasters occurring between March and September 1994. Four other houses were rebuilt. However, some of the reconstructed houses suffered from building defects.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0In a letter addressed to the prefect in 1995, the mayor of Che\u0163ani (of which H\u0103d\u0103reni is a part), G.G., a member of the reconstruction commission, reported that, of the fourteen houses destroyed by the fire, eight had been rebuilt or almost rebuilt. Concerning the remaining six houses, he reported that three of them posed \u201cspecial problems\u201d: in particular, one of the houses to be rebuilt was on land near the family of the non-Roma victim (Che\u0163an Cr\u0103ciun), who refused to have Gypsy families living close by. Another problem mentioned by the mayor was that of the house of the late mother of two of the Roma who had died during the events of 1993. It appeared that after the events the L\u0103c\u0103tu\u015f family had moved to the city of , so the mayor proposed that a house be built for them at a location of their choice.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The steps taken by the Government following the judgments in the cases of Moldovan and Others (friendly settlement and no. 2), cited above, with the aim of improving the victims\u2019 living conditions",
+                                "elements": [
+                                    {
+                                        "content": "44.\u00a0\u00a0On 4 May 2006 the Government published in Official Journal No.\u00a0385 the Development Programme for the Community of H\u0103d\u0103reni for 2006-2008 (\u201cthe Programme\u201d) which had previously been adopted. The Programme allocated 3,487,000 new Romanian lei (RON) (EUR 1,007,803) to a number of areas, such as education (including public awareness as to health and legal rights), combating discrimination, prevention of domestic violence or community disturbance, professional training, employment, culture, the development of infrastructure and so on.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0On 17 July 2007 responsibility for the implementation of the Programme was transferred to the United Nations Development Programme (\u201cUNDP\u201d), which in turn contributed 10% of the total sum allocated for the 2007-08 period. The National Agency for Roma (\u201cthe NAR\u201d) was charged with the supervision and appraisal of the implementation process.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0The NAR, the Che\u0163ani Mayor\u2019s Office and a local initiative group discussed the priority tasks that needed to be performed, taking into account the available budget.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0By the end of 2007 six houses affected by the events of 1993 had been rebuilt inside.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0According to a report of 6 October 2008 concerning the prospects for the H\u0103d\u0103reni Roma community, Government Decision No. 734 of 11\u00a0July 2007 had allocated RON 900,000 (EUR 287,595) for the implementation of the Programme in 2007. The money was used to build twelve kilometres of paved roads, to rehabilitate six houses, to install a heating system for the local school and to partially refurbish the school and the local activities centre.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "49.\u00a0\u00a0Between September 2006 and December 2007 a number of awareness raising campaigns, workshops and training sessions were organised with the involvement of the local Roma community, the authorities, the media and the police force. They focused mainly on combating discrimination, access to public health services and to education, inter-ethnic communication and obtaining professional qualifications for professions in demand on the labour market.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "50.\u00a0\u00a0By Government Decision No. 980 of 29 August 2008, the Government allocated RON 2,160,000 (EUR 611,898) to the NAR in order for the Agency to be able to continue the implementation of the Programme. The UNDP also contributed RON 133,488 (EUR 37,815) during 2008.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "51.\u00a0\u00a0The activities performed over the course of the year included: the complete rehabilitation of six houses; the drafting of building plans for three other houses, a medical centre and an industrial building; the signing of a contract for the building of a local school; and the refurbishment of the local activities centre.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "52.\u00a0\u00a0According to appraisal reports of 13 and 17 March, 2 and 29 April and 6 and 12 May 2009 the local kindergarten, the local activities centre and the local school had all been entirely rebuilt and all the building defects previously identified had been repaired.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "53.\u00a0\u00a0It was also noted that the local authorities had drafted a detailed action plan for the year 2009, which included as a first stage the encouragement of inter-ethnic and social dialogue, of community cooperation and of the development of economic activity in the region.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The second stage of the plan concerned the building of three new homes, the rehabilitation of ten others, encouraging profitable activities in the region and the organisation of awareness raising seminars in respect of themes such as post-ethnic-conflict regions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0The above-mentioned action plan for 2009 extended the time frame of the initial Programme until 31 December 2009. The necessary budget was estimated at RON 1,750,045 (EUR 414,702), with the Government and the UNDP providing the necessary financial support.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0On an unspecified date the applicants submitted before the Court a memorandum drafted by the European Roma Rights Centre critically assessing the steps undertaken by the Government towards the implementation of, inter alia, the Moldovan and Others judgments, cited above. According to the said memorandum, the implementation of the Program had been ineffective and plagued with delays as a result of administrative incompetence and a failure to allocate the required funds in a timely manner. More than sixteen years after the events the housing problems of the Roma victims had still not been adequately dealt with. Only six or seven of the approximately eighteen houses that had been destroyed during the events had been fully rebuilt. Even in those cases, the work carried out had been poor and had lacked appropriate supervision. Moreover, the local economic plan had not been implemented and thus the Roma had not been afforded the opportunity of acquiring some basic vocational skills that would enable them to find employment. Lastly, the public information campaigns, civic education and activities aimed at combating discrimination had not yielded any tangible results. They had been treated by the authorities as \u201cone-off\u201d activities that had been concluded by the end of 2006, although similar activities had been budgeted for 2007-2008.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND INTERNATIONAL DOCUMENTS",
+                        "elements": [
+                            {
+                                "content": "57.\u00a0\u00a0The relevant legal provisions, including the relevant provisions of the former Romanian Civil Code, the Codes of Civil and Criminal Procedure, Law No. 188/2000 concerning enforcement officers, and the relevant case-law, are set forth in the judgments in the cases of Moldovan and Others (no. 2), cited above, \u00a7\u00a7\u00a079-85; Ursu v. Romania (dec.), no.\u00a058670/00, 3 May 2005; Kalanyos v. Romania (dec.), no.\u00a057884/00, 9\u00a0December 2003; Fociac v.\u00a0Romania, no. 2577/02, \u00a7 70, 3\u00a0February\u00a02005; and Topciov v.  (dec.), no. 17369/02, 15\u00a0June\u00a02006.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Civil Code",
+                                "elements": [
+                                    {
+                                        "content": "58.\u00a0\u00a0Articles 998 and 999 of the former Civil Code provide that any person who has suffered damage can seek redress by bringing a civil action against the person who has intentionally or negligently caused it.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Code of Civil Procedure",
+                                "elements": [
+                                    {
+                                        "content": "Article 399 \u00a7 1",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cAny person, including any person who has suffered a damage as a result of enforcement proceedings or any acts of enforcement, can intervene in the enforcement proceedings. At the same time (...) the enforcement proceedings can be intervened in (...) when an enforcement officer refuses to carry out an act of enforcement as required by the applicable legal provisions.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Memorandum prepared by the Department for the Execution of Judgments of the Court on 16 August 2011 assessing the action plan provided by the Romanian authorities on 15 June 2011 in respect of the enforcement of the general measures in the Moldovan and Others (friendly settlement and no. 2) judgments",
+                                "elements": [
+                                    {
+                                        "content": "\u201cThe information provided by the Romanian authorities shows that many activities related to the prevention of discrimination against Roma and Roma integration were carried out in 2006 and that other measures, in particular in the field of housing and infrastructure rehabilitation were carried out in 2007 and 2008. It appears however from the information provided by the Romanian authorities and by the non-governmental organisations that there were delays in the transfer of funds and that the last instalment anticipated for 2008 was never transferred to the UNDP. In 2009, the authorities expressed their intention to continue the Programme in 2009 and 2010. However ... the measures envisaged for 2009 (apart from those in respect of which implementation began in 2008) were not implemented due to lack of funds, a situation which appears to have recurred in 2010.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In 2009 and 2010 the authorities focused mainly on the impact assessment of the measures already taken and gave consideration to the follow-up to this Programme. This work resulted in some positive findings concerning the good quality of the interethnic relations within the H\u0103d\u0103reni community ... but equally in the identification of deficiencies in the implementation of the Programme and also in the setting-up of a working group at ministerial level, in order to remedy them. The establishment of this working group under the co-ordination of the Private Office of the Deputy Prime Minister is to be welcomed. This being said, given the government\u2019s findings ... according to which the undertakings given by the Romanian authorities before the European Court have not been entirely fulfilled and the fact that the judgments in question became final more than five years ago, it is essential that the authorities intensify their efforts for the implementation of the outstanding measures without delay...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Decision of 13-14 September 2011 of the Committee of Ministers of the Council of Europe concerning the enforcement of the Moldovan and Others (friendly settlement and no. 2) judgments",
+                                "elements": [
+                                    {
+                                        "content": "59.\u00a0\u00a0The deputies welcomed in particular the envisaged establishment of an interdepartmental working group placed under the Chairmanship of the Deputy (Vice) Prime-Minister responsible for the periodic reassessment of the situation with a view to indentifying and adopting additional measures, if necessary. They also invited the Romanian authorities to keep the Committee of Ministers regularly informed of the progress achieved in the implementation of the action plan.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLES 3 AND 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "60.\u00a0\u00a0The applicants complained under Articles 3 and 8 of the Convention that the destruction of their homes and the discrimination they had been subjected to by the authorities had deprived them of the use of their home and belongings, forcing them to live in very poor and cramped conditions.",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 3 reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 8 of the Convention provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The third applicant\u2019s lack of victim status\t",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "61.\u00a0\u00a0The Government argued that the third applicant lacked victim status in respect of the complaint under Articles 3 and 8 of the Convention because Mr Aurel Pardalian L\u0103c\u0103tu\u015f\u2019s paternity of her had not been established by her mother.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "62.\u00a0\u00a0The applicants disagreed.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "63.\u00a0\u00a0The Court notes, in respect of the Government\u2019s argument that the first applicant had failed to establish whether Mr Aurel Pardalian L\u0103c\u0103tu\u015f was the third applicant\u2019s father, that the first applicant was two months pregnant with the third applicant at the time of the events of September\u00a01993 (see paragraph 14, above). In addition, the domestic courts acknowledged that for three years prior to his death, Mr Aurel Pardalian L\u0103c\u0103tu\u015f had financially supported the second applicant, although his name was not registered on the second applicant\u2019s birth certificate either (see\u00a0paragraphs 28 and 29, above). Moreover, it has never been contested that Mr Aurel Pardalian L\u0103c\u0103tu\u015f was the first applicant\u2019s common law partner at the time of his death. Consequently, the Court sees no reason to endorse the Government\u2019s argument concerning the third applicant\u2019s paternity and to distinguish between her and the second applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "64.\u00a0\u00a0However, the Court does not consider the above mentioned argument relevant to the case at hand since in any event it notes that the applicants\u2019 complaint under Articles 3 and 8 of the Convention concerns their living conditions in the aftermath of the events of September 1993. It also observes that the Government did not contest that the third applicant had shared the same fate as her mother, the first applicant, in so far as the living conditions they had been directly faced with after the events were concerned. Moreover, it notes that the domestic courts awarded the first applicant non-pecuniary damage on account of the insecurity she had felt following the destruction of her home.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "65.\u00a0\u00a0In the light of the above, the Court is not convinced that her mother\u2019s failure to establish Mr Aurel Pardalian L\u0103c\u0103tu\u015f\u2019s paternity of the third applicant deprived her of victim status in respect of the living conditions she was faced with after the violent events in question. It therefore rejects the Government\u2019s objection in respect of the third applicant\u2019s victim status.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Jurisdiction ratione temporis",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "66.\u00a0\u00a0The Government contend that the Convention had entered into force for Romania on 20 June 1994, with the consequence that the period prior to that date \u2013 in so far as it concerned the applicants\u2019 complaint under Articles\u00a03 and 8 of the Convention \u2013 did not fall within the Court\u2019s jurisdiction ratione temporis.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "67.\u00a0\u00a0The applicants disagreed.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "68.\u00a0\u00a0The Court recalls that it has already held in similar proceedings in respect of a complaint under Articles 3 and 8 of the Convention that the period of time elapsed before the ratification of the Convention by Romania in June 1994 did not fall within the Court\u2019s jurisdiction ratione temporis and that it could not therefore examine it (see Moldovan and Others and Rosta\u015f and Others v. Romania (dec.), nos. 41138/98 and 64320/01, 13\u00a0March 2001).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "69.\u00a0\u00a0The Court notes that the applicants have not put forth any arguments that would lead the Court to depart from the above-mentioned finding.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0It follows that the part of the applicants\u2019 complaint under Articles 3 and 8 of the Convention concerning the period prior to the ratification of the Convention by Romania in June 1994 is incompatible ratione temporis with the provisions of the Convention and must be rejected according with Article 35 \u00a7 3 (a) of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Compliance with the six-month rule",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "71.\u00a0\u00a0The Government argued that the applicants had submitted their complaints out of time. They submitted that the applicants had moved abroad and that none of them lived in inappropriate conditions anymore. In addition, they asserted that the applicants\u2019 complaints concerned the events of 1993, which had been a one-off event and had not resulted in an ongoing situation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0The applicants contended that their application had been lodged within the six-month time-limit, as the final domestic decision in the case had been delivered on 25 February 2005, long after they had lodged their complaints before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "73.\u00a0\u00a0The Court recalls that in the case of Moldovan and Others (no. 2), in relation to the same events, it has concluded that the victims of the incident of September 1993 had to live in improper conditions, frequently changing address and moving in with family and friends in extremely overcrowded conditions. It has also considered that the Government\u2019s responsibility was engaged as regards the victims\u2019 subsequent living conditions, given the involvement of the State\u2019s agents in the said events (see Moldovan and Others (no. 2), cited above, \u00a7\u00a7 103 and 104). In the present case, it notes that at the date the applicants lodged their complaint before the Court, still no action had been taken by the national authorities to rebuild their home or to ensure that they had access to adequate housing and living facilities following the destruction of their home. Moreover, it notes that the applicants lodged their complaint before the Court on 5 March 2004, prior to their departure from the country in 2005 and to the delivery of the final domestic decision in the case they were party to.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "74.\u00a0\u00a0In the light of the above, the Court considers that the Government\u2019s objection that the applicants submitted their complaints out of time should be dismissed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "75.\u00a0\u00a0Lastly, the Court notes that the applicants\u2019 complaint under Articles 3 and 8 of the Convention in respect of the period after the ratification of the Convention by Romania in June 1994 is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Submissions of the parties",
+                                        "elements": [
+                                            {
+                                                "content": "76.\u00a0\u00a0The applicants submitted that after the destruction of their home, they had no longer been able to enjoy the use of it and had had to live in very poor, cramped conditions. They argued that until 1993 the first applicant, together with Mr Aurel Pardalian L\u0103c\u0103tu\u015f and the second applicant, had lived in the house belonging to Mrs C\u0103t\u0103lina L\u0103c\u0103tu\u015f, Aurel Pardalian\u2019s mother. The same house had also been inhabited by, amongst others, Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and M.F.Z., Aurel Pardalian\u2019s brother and sister, respectively, both of whom were applicants in the Moldovan and Others (no. 2) case. In these circumstances, according to the applicants, the Court\u2019s factual findings in the aforementioned judgment concerning the violent events of September 1993, the legal proceedings initiated at the domestic level and the situation of the victims in the aftermath of the events applied mutatis mutandis to the present case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "77.\u00a0\u00a0In addition, they argued that the Government\u2019s reliance on official documents in order to ascertain their place of residence following the events of September 1993 was misplaced. They submitted that according to the factual evidence presented before the Court they had lived together with their extended family at different addresses than those suggested by the Government. Moreover, their living conditions had continued to be overcrowded \u2013 even after 2001, when they had changed their address.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "78.\u00a0\u00a0They further contended that as a result of the Government\u2019s inability to implement the housing rehabilitation project and the general measures it undertook following the Court\u2019s judgments in the Moldovan and Others (friendly settlement and no. 2) cases, they continued to be unable to use their home.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "79.\u00a0\u00a0The Government submitted that, unlike in the case of Moldovan and Others (no. 2), the applicants in the present case had failed to prove that they had been forced to live in cramped and unhygienic conditions. In addition, they argued that, except for the first applicant\u2019s statement given before the public prosecutor on 19 January 1995, there was no other evidence in the file that proved that the applicants had had the same address and living conditions between 1994 and 2000 as Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and M.F.Z. From the documents submitted by the Government, it appeared that their registered address during that period had been an address in the , and that from 2001 their living conditions had improved after they had moved. Moreover, there was no evidence in the file that the first applicant had been the owner of a house in the  at the time of the events. Furthermore, although the first applicant alleged that she had been forced to leave the village after the events, she had failed to notify the authorities of any alleged damage she might have suffered. Lastly, the applicants had failed to bring criminal proceedings or proceedings before the National Council for Combating Discrimination concerning the alleged abusive or discriminatory actions of the authorities and of private individuals.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Relevant principles",
+                                "elements": [
+                                    {
+                                        "content": "80.\u00a0\u00a0The Court has consistently held that, Article 3 of the Convention enshrines one of the most fundamental values of a democratic society. It prohibits in absolute terms torture or inhuman or degrading treatment or punishment, irrespective of the circumstances and the victim\u2019s behaviour (see, for example, Labita v. Italy [GC], no. 26772/95, \u00a7 119, ECHR\u00a02000IV).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court has considered treatment to be \u201cdegrading\u201d because it was such as to arouse in the victims feelings of fear, anguish and inferiority capable of humiliating and debasing them (see, for example, Kud\u0142a v.\u00a0Poland [GC], no. 30210/96, \u00a7 92, ECHR 2000-XI). In considering whether a particular form of treatment is \u201cdegrading\u201d within the meaning of Article 3, the Court will have regard to whether its object is to humiliate and debase the person concerned and whether, as far as the consequences are concerned, it adversely affected his or her personality in a manner incompatible with Article 3 (see, for example, Raninen v. Finland, 16\u00a0December 1997, \u00a7 55, Reports 1997-VIII). However, the absence of any such purpose cannot conclusively rule out a finding of a violation of Article\u00a03 (see, for example, Peers v. Greece, no. 28524/95, \u00a7\u00a074, ECHR\u00a02001-III).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "82.\u00a0\u00a0The object of Article 8 is essentially that of protecting the individual against arbitrary interference by public authorities, it does not merely compel the State to abstain from such interference. There may, in addition to this primary negative undertaking, be positive obligations inherent in an effective respect for private or family life and the home. These obligations may involve the adoption of measures designed to secure respect for these rights, even in the sphere of relations between individuals (see X and Y. v.\u00a0the Netherlands, 26 March 1985, \u00a7 23, Series A no. 91).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "83.\u00a0\u00a0In addition, the acquiescence or connivance of the authorities of a Contracting State in the acts of private individuals which violate the Convention rights of other individuals within its jurisdiction may engage the State\u2019s responsibility under the Convention (see Cyprus v. Turkey [GC], no.\u00a025781/94, \u00a7 81, ECHR 2001-IV). A State may also be held responsible even where its agents are acting ultra vires or contrary to instructions (see\u00a0Ireland v. the United Kingdom, 18 January 1978, \u00a7 159, Series\u00a0A no.\u00a025).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "84.\u00a0\u00a0Whatever analytical approach is adopted \u2013 positive duty or abstention from interference \u2013 the applicable principles regarding justification under Article\u00a08 \u00a7 2 are broadly similar (see Powell and Rayner v. the United Kingdom, 21 February 1990, Series A no. 172). In both contexts, regard must be had to the fair balance that has to be struck between the competing interests of the individual and of the community as a whole.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application of the above principles to the present case",
+                                "elements": [
+                                    {
+                                        "content": "85.\u00a0\u00a0The Court notes from the outset that the Government\u2019s argument concerning the applicants\u2019 failure to bring criminal proceedings or proceedings before the National Council for Combating Discrimination concerning the alleged abusive or discriminatory actions of the authorities and of private individuals may amount to an objection of non-exhaustion of domestic remedies. It considers, however, that the argument is closely linked to the merits of the case and will therefore examine it together with the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "86.\u00a0\u00a0The Court also notes that the applicants in the present case were party to civil proceedings that ended by a final judgment of 25\u00a0February\u00a02005 and that, like the applicants in the case of Moldovan and Others (no. 2), cited above, they lodged an appeal and an appeal on points of law against the judgment delivered by the Mure\u015f County Court on 12\u00a0May\u00a02003 (see, a contrario, Costic\u0103 Moldovan and Others v. Romania (dec.), no. 8229/04 and other applications, \u00a7 137, 15 February 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "87.\u00a0\u00a0The Court further observes that the Government did not accept that the applicants had shared the same address and living conditions as Mr\u00a0Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and M.F.Z. between 1994 and 2000. In this respect, it notes that from the evidence in the file (see paragraph 13 above) it appears that the family ties between the applicants, Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and M.F.Z. were strong. Moreover, in his repeated written statements submitted before the Court, Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f referred to the applicants as his family and confirmed that they had been living together in the aftermath of the events. Furthermore, the Court notes that the Government did not contest that between 1994 and 2001 Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f and M.F.Z. were living at no. 5 Bradului Steet, Ludu\u015f or that the first applicant had become Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f\u2019s wife at a certain moment in the aftermath of the events. In addition, the Government acknowledged that in January 1995 the applicants were living at no. . The Court also notes that in June 1995 the first applicant opened up a business together with M.F.Z. that was registered at the same address and that between 1996 and 2003 the first applicant and Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f had four children together that were all born in Ludu\u015f.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "88.\u00a0\u00a0Consequently, while it can accept that the first applicant and her daughters might have been registered at the address indicated by the Government (see paragraph 18 above), the Court considers that given the close family ties between them and Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f it is reasonable to believe that she and her daughters shared the same address and living conditions as him between 1994 and 2001, as well as after that date.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "89.\u00a0\u00a0The Court recalls that it has already found a violation of a continuing nature of Articles 3 and 8 of the Convention in Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f\u2019s and M.F.Z.\u2019s cases on account of their living conditions and the racial discrimination to which they were publicly subjected through the way in which their grievances were dealt with by the various authorities after the events of September 1993 (see Moldovan and Others (no. 2), cited above, \u00a7\u00a7\u00a0109 and 114). In this respect, the Court notes that the applicants in the present case, like their relatives, experienced the same violent events, exhausted the same set of civil proceedings and shared the same living conditions in the aftermath of the said events. Moreover, it appears from the evidence in the file that their home has not been rebuilt by the authorities to date and that the Programme implemented by the Government with the aim of rebuilding the homes of the Roma affected by the interethnic conflict of September 1993 continues to be plagued by funding problems and delays.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0In this context, the Court does not discern and the Government have not put forth any explanation how the bringing of additional criminal proceedings or antidiscrimination proceedings before the National Council for Combating Discrimination by the applicants against State agents and/or private parties would have provided the applicants with immediate and effective redress for their situation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0In the light of the above, the Court finds no reason and the Government have not put forth any argument that would lead it to depart from its judgment in the case of Moldovan and Others (no. 2), cited above.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "92.\u00a0\u00a0Accordingly, there has been a violation of Articles 3 and 8 of the Convention for the period after June 1994.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "93.\u00a0\u00a0The first applicant complained on her own behalf that the Court of Cassation had failed to examine her claims and to provide reasons for dismissing her appeal on points of law. In addition, the applicants argued that the length of proceedings they had been party to had been excessive. Lastly, the first applicant complained on behalf of her daughters that the domestic authorities had failed to enforce the final judgment awarding them child allowances.. They all relied expressly or in substance on Article 6 \u00a7 1 of the Convention, the relevant part of which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights ..., everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The Court of Cassation\u2019s failure to provide reasons for dismissing the first applicant\u2019s appeal on points of law",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": [
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court notes that the first applicant\u2019s complaint concerning the failure of the Court of Cassation to provide reasons for dismissing her appeal on points of law is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "95.\u00a0\u00a0The first applicant contested that the Court of Cassation had adequately examined all her claims. She further argued that the domestic courts had wrongfully assessed the evidence and misinterpreted the applicable legal provisions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "96.\u00a0\u00a0The Government submitted that the Court of Cassation had examined all the grounds of appeal raised by the first applicant and had provided reasons for dismissing her appeal on points of law.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "97.\u00a0\u00a0The Court reiterates that the effect of Article 6 \u00a7 1 is, amongst others, to place a \u201ctribunal\u201d under a duty to conduct a proper examination of the submissions, arguments and evidence adduced by the parties, without prejudice to its assessment of whether they are relevant for its decision, given that the Court is not called upon to examine whether arguments are adequately met (see Perez v.\u00a0France [GC], no. 47287/99, \u00a7 80, ECHR\u00a02004I, and Buzescu v.\u00a0Romania, no. 61302/00, \u00a7 63, 24 May 2005). Nevertheless, although Article\u00a06 \u00a7 1 obliges courts to give reasons for their decisions, it cannot be understood as requiring a detailed answer to every argument (see Van de Hurk v. the Netherlands, 19 April 1994, \u00a7\u00a7 59 and 61, Series A no. 288, and Burg v.  (dec.), no. 34763/02, ECHR 2003-II). The extent to which this duty to give reasons applies may vary according to the nature of the decision and must be determined in the light of the circumstances of the case (see Ruiz Torija v. Spain, 9 December 1994, \u00a7 29, Series A nos. 303-A; Hiro Balani v. Spain, 9 December 1994, \u00a7 27, Series\u00a0A 303-B; and Helle v.\u00a0Finland, 19 December 1997, \u00a7 55, Reports 1997VIII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "98.\u00a0\u00a0In the present case, the Court notes that the first applicant\u2019s appeal on points of law concerned the failure of the lower court to provide reasons for the different amounts awarded as non-pecuniary damages to the three widows involved in the proceedings and its failure to award non-pecuniary damages to her minor children who were civil parties to the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "99.\u00a0\u00a0The Court observes that while examining the three widows\u2019 claims for non-pecuniary damages the Court of Appeal noted in its reasoning in respect of M.F.Z., in addition to the reasoning used to determine the non-pecuniary damages awarded to the other two widows, that she was the sister of two of the deceased and the wife of the third. At the same time, while the said court examined the child allowance claims lodged by the first applicant on behalf of her children, it did not address the issue of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "100.\u00a0\u00a0In this regard, the Court also notes that the Court of Cassation dismissed the first applicant\u2019s appeal on points of law and upheld the judgment delivered by the Court of Appeal. Consequently, it appears that the reasons given by the Court of Appeal were adopted by process of incorporation, indicating that the Court of Cassation had no reason of its own to depart from the reasoning made by the lower court and that the applicant had not presented any new submissions which would have had a bearing on the appeal. Thus, the Court considers that it cannot be maintained in the circumstances of the present case that the Court of Cassation did not address the essence of the points submitted by the applicant for its consideration as regards the lack of reasons for the different amounts awarded as non-pecuniary damages to the three widows.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "101.\u00a0\u00a0However, the Court notes that neither the Court of Appeal nor the Court of Cassation ruled on an award of non-pecuniary damages for her minor children.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "102.\u00a0\u00a0Given the decisive implications of this head of claim for the applicant\u2019s action, the Court considers that the Court of Cassation was required to give a specific and express response. In the absence of such a response, it is impossible to ascertain whether the Court of Cassation simply neglected to examine the content of the claim for an award of non-pecuniary damages for the minor children or whether it intended to dismiss it and, if that were its intention, what its reasons were for so deciding.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "103.\u00a0\u00a0In the light of the foregoing, the Court is not convinced that the first applicant\u2019s case did receive a fair hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Accordingly, there has been a violation of Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The length of the proceedings",
+                                "elements": [
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "104.\u00a0\u00a0The Government submitted that the third applicant could not claim to be victim of a violation of her rights guaranteed by the Convention in so far as the length of proceedings was concerned. They argued that, unlike her mother and her sister, she had never been summoned as a civil party in the proceedings before the domestic courts, therefore she had not been a party to the said proceedings. In addition, they contended that the length of proceedings had not been unreasonable, considering that the applicants had only joined the criminal proceedings as civil parties on 16 April 2002 at the earliest.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "105.\u00a0\u00a0The applicants disagreed. They argued that the first applicant had become a civil party to the criminal proceedings in November 1997, while the remaining applicants ought to have become civil parties to those proceedings as from the initial stages of the criminal investigation if the authorities had discharged their lawful obligation to lodge civil claims on their behalf as children. In this regard, they submitted that the proceedings had been unreasonably lengthy in respect of all the applicants.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "106.\u00a0\u00a0The Court finds that it is not necessary to examine whether the third applicant has victim status as, even assuming that she does, the complaint is in any event inadmissible for the following reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "107.\u00a0\u00a0The Court reiterates that it has already held in similar cases that the period to be taken into consideration for the length of proceedings starts on the date an applicant has joined criminal proceedings as a civil party (see Csiki v. Romania, no. 11273/05, \u00a7 91, 5 July 2011).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "108.\u00a0\u00a0The Court also recalls that the reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case and with reference to the following criteria: the complexity of the case; the conduct of the applicant and the relevant authorities; and what was at stake for the applicant in the dispute (see, among many other authorities, Frydlender v. France [GC], no. 30979/96, \u00a7 43, ECHR 2000-VII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "109.\u00a0\u00a0The Court observes that the parties disagree as to the date on which the applicants lodged their civil claims before the domestic courts. While the Government argued that none of the applicants had joined the criminal proceedings as civil parties earlier than 16 April 2002, the applicants claimed that two of them should have become civil parties to those proceedings as from the early stages of the criminal investigation and that the other applicant became a civil party in November 1997.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "110.\u00a0\u00a0While the Court cannot speculate as to the date on which the applicants could have joined the criminal proceedings as civil parties, it notes that from the evidence available in the file it appears that the first applicant stated twice before the domestic authorities that she did not wish to become a civil party to the criminal proceedings (see paragraphs 19 and 24 above). She was only summoned for the first time as a civil party to the proceedings on 30 September 2003 (see paragraph 30 above). In addition, she only expressed her desire to claim child allowance on behalf of her minor daughters for the first time on 19 February 2002 (see paragraph 24 above). While it is true that the third applicant was not summoned to the proceedings as a civil party, the Court notes that the Court of Appeal and subsequently the Court of Cassation examined the first applicant\u2019s claim for child allowance that had been lodged on her behalf.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "111.\u00a0\u00a0In this context, and in the absence of any additional evidence put forth by any of the parties, the Court considers it reasonable to conclude that the second and third applicants became civil parties to the criminal proceedings on 19 February 2002, while the first applicant joined them on 30 September 2003. Moreover, the proceedings ended on 25 February 2005 for all three applicants following the dismissal by the Court of Cassation of their appeal on points of law. Consequently, the Court considers that the relevant period to be taken into consideration for the length of proceedings started on 19 February 2002 and ended on 25 February 2005 for the second and third applicants, while for the first applicant it started on 30\u00a0September\u00a02003 and ended on 25 February 2005. Thus, it lasted three years for three levels of jurisdiction and two years and five months for two levels of jurisdiction, respectively.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "112.\u00a0\u00a0Having regard to the criteria established in its case-law for the assessment of the reasonableness of the length of proceedings and the particular circumstances of the applicants in the present case, the Court finds that the length of the civil proceedings instituted by the applicants satisfies the reasonable-time requirement of Article 6 \u00a7 1 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "113.\u00a0\u00a0It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Non-enforcement of the judgment awarding the second applicant child allowance",
+                                "elements": [
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "114.\u00a0\u00a0The Government submitted that the first applicant had failed to exhaust the available domestic remedies, in so far as she had not asked a bailiff to enforce the judgment awarding child allowance to the second applicant. Consequently, she had not provided the State authorities with the opportunity to assist her in the enforcement of the said judgment. The enforcement mechanism put in place by domestic legislation had been both directly accessible to her and effective. They disagreed with the applicants\u2019 argument that they should have been exempted from exhausting the available domestic remedies on account of their particular situation and because the authorities had displayed a discriminatory attitude towards them. They contended that some of the victims in the domestic proceedings had opened enforcement proceedings before the authorities and that there was no evidence in the file that the enforcement authorities had displayed a discriminatory attitude towards them. Lastly, they submitted that the third applicant could not claim to be a victim of the alleged violation because she had not been awarded a child allowance by the domestic courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "115.\u00a0\u00a0The applicants submitted that while the enforcement proceedings available to them were in principle an effective remedy, their special situation and the discriminatory attitude of the authorities were grounds that had exempted them from exhausting the said remedies. Moreover, they lived abroad and, unlike the other victims who had opened enforcement proceedings, they had lacked the same financial means and the same specialised legal assistance.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "116.\u00a0\u00a0The Court finds that it is not necessary to examine whether the applicants exhausted the available domestic remedies or whether the third applicant had victim status as, even assuming that they had done so and the third applicant was a victim, the complaint is in any event inadmissible for the following reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court reiterates that execution of a final judgment given by any court must be regarded as an integral part of the \u201ctrial\u201d for the purposes of Article 6 of the Convention (see Hornsby v. Greece, 19 March 1997, \u00a7 40, Reports 1997II). However, a delay in the execution of a judgment may be justified in particular circumstances (see Burdov v. Russia, no. 59498/00, \u00a7\u00a035, ECHR 2002III) and the right of \u201caccess to court\u201d does not impose an obligation on a State to execute every judgment of a civil character without having regard to the particular circumstances of the case (see Sanglier v.\u00a0France, no. 50342/99, \u00a7 39, 27\u00a0May 2003). The Court notes that State responsibility for enforcement of a judgment against a private party extends no further than the involvement of State bodies in the enforcement process. When the authorities are obliged to act in order to enforce a judgment and they fail to do so, their inaction can engage the State\u2019s responsibility under Article 6 \u00a7 1 of the Convention (see, mutatis mutandis, Cebotari and Others v. Moldova, nos.\u00a037763/04, 37712/04, 35247/04, 35178/04 and 34350/04, \u00a7\u00a039, 27\u00a0January 2009).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0In this case, the dispute was between private parties. Consequently, the Court notes that it is for each State to equip itself with legal instruments which are adequate and sufficient to ensure the fulfilment of positive obligations imposed upon the State. The Court\u2019s only task is to examine whether the measures applied by the authorities in the present case were adequate and sufficient (see Ruianu v. Romania, no. 34647/97, \u00a7 66, 17\u00a0June 2003). In cases such as the present one, which necessitate actions by a debtor who is a private person, the State, as the possessor of public authority, has to act diligently in order to assist a creditor with the execution of a judgment (see Fociac, cited above, \u00a7 70).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "119.\u00a0\u00a0The Court notes, in respect of the enforcement measures taken by the domestic authorities, that an enforcement file was opened by an enforcement officer in respect of the said judgment at the request of other victims of the events. However, no enforcement request has been lodged by the applicants with the enforcement officer to date. Moreover, since the domestic judgments became final the applicants have not raised any complaint before the domestic authorities or courts of a refusal by the enforcement officer to assist them in the enforcement of the said judgment or the alleged discriminatory attitude of the authorities in enforcing the judgment. In this context, the Court notes that while the domestic courts allowed the villagers\u2019 action contesting the enforcement of the domestic courts\u2019 judgments in respect of some of the victims of the events, it appears from the evidence in the file that they dismissed their action in respect of child allowance payments (see paragraph 36 above). Moreover, the applicants have not substantiated their allegation that they lacked the financial means to seek the enforcement of the judgment, particularly considering that the first applicant\u2019s husband, Mr Petru (D\u00eegal\u0103) L\u0103c\u0103tu\u015f, had himself been party to proceedings before the Court and was awarded just satisfaction in respect of non-pecuniary damage. Consequently, the Court notes that there is no evidence in the file to suggest that the domestic authorities have failed to discharge their obligation to assist the applicants with the enforcement of the said judgment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "120.\u00a0\u00a0The Court reiterates that although it is not for the applicants to provide the enforcement officer with the necessary means of enforcement of the judgment (see Ruianu, cited above, \u00a7 68), they must nonetheless act with a certain diligence in order to ensure its enforcement (see Topciov, cited above). Moreover, it is the applicants\u2019 responsibility to make use of available domestic legal remedies or to ask the domestic authorities to assist them with the enforcement of the judgment (see Ciprova v. the Czech Republic (dec.), no. 33273/03, 22\u00a0March 2005). Finally, the Court observes that, according to domestic legislation, the enforcement officer did not have a positive obligation to initiate the enforcement of the judgment of his own motion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "121.\u00a0\u00a0Thus, unlike the cases of Ruianu, cited above, and Pini and others v.\u00a0Romania (nos. 78028/01 and 78030/01, \u00a7\u00a0177, ECHR\u00a02004V), where the applicants took constant measures in the furtherance of the enforcement of the relevant judgments, in the present case the applicants did not lodge any enforcement request with the enforcement officer, nor did they complain to the domestic authorities that no action had been taken.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "122.\u00a0\u00a0Having regard to the above, the Court considers that in this case the State does not appear to have failed to provide the applicants with adequate and sufficient measures to ensure the execution of the judgment by them, as private individuals.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 14 IN CONJUNCTION WITH ARTICLES 6 AND 8 OF THE CONVENTION AND ARTICLE\u00a01 OF PROTOCOL No. 1 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "123.\u00a0\u00a0The applicants submitted that, on account of their ethnicity, they had been victims of discrimination by judicial bodies and officials. Moreover, the first applicant argued that the failure of the domestic courts to provide reasons for the difference in non-pecuniary damage awarded to the three widows had amounted to discrimination contrary to Article 14 of the Convention, which provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The discrimination the applicants claimed to have been subjected to by judicial bodies and officials (Article 14 taken in conjunction with Articles 6 and 8 of the Convention)",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Admissibility",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Lack of victim status of the third applicant",
+                                "elements": [
+                                    {
+                                        "content": "124.\u00a0\u00a0The Government reiterated their argument that the third applicant could not claim to be victim of a violation of her rights guaranteed by the Convention because, unlike her mother and her sister, she had never been summoned as a civil party to the proceedings by the domestic courts, therefore she had not been a party to the said proceedings. In addition, they noted that the first and the second applicants had only become parties to the proceedings on 22 October 2003 and 16 April 2002, respectively. Consequently, they could not claim to be victims of the alleged violation prior to those dates.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "125.\u00a0\u00a0The applicants did not submit observations on this point.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "126.\u00a0\u00a0The Courts recalls that it has already established that the second and third applicants became parties to the proceedings on 19 February 2002 and that the first applicant joined them on 30 September 2003 (see\u00a0paragraph 111 above). Moreover, it notes that there is no evidence in the file that the applicants lodged criminal proceedings against the villagers and the police officers or had been party to the criminal proceedings prior to joining the civil proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "127.\u00a0\u00a0With this background in mind, the Court cannot accept the Government\u2019s submissions that the applicants lacked victim status in respect of the violation alleged by them after 19 February 2002 for the second and third applicants and 30 September 2003 for the first applicant, respectively. However, it endorses the Government\u2019s view that prior to the said dates the applicants cannot claim to have been victims of a violation of their rights guaranteed by Article 14 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "128.\u00a0\u00a0Having regard to the above, the Court considers that the applicants\u2019 complaint is inadmissible for the period prior to 19 February 2002 for the second and third applicants and 30 September 2003 for the first applicant, respectively, for lack of victim status and that it must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention. However, it considers that the Government\u2019s preliminary objection must be dismissed for the period after 19 February 2002 in respect of the second and third applicants and for the period after 30 September 2003 in respect of the first applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "129.\u00a0\u00a0Lastly, the Court notes that the applicants\u2019 complaint for the period after the above mentioned dates (see paragraph 128 above) is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Merits",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "130.\u00a0\u00a0The applicants argued that the domestic courts, in particular the Court of Appeal, had referred to them in disparaging and discriminatory terms. The situation had already been acknowledged by the Court in its previous judgments concerning the events of September 1993 in H\u0103d\u0103reni and the Court\u2019s findings also applied to the applicants in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "131.\u00a0\u00a0The Government disagreed and argued that neither the Court of Appeal nor the Court of Cassation had made any statements concerning the applicants\u2019 ethnic origin.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "132.\u00a0\u00a0The Court reiterates that Article 14 only complements the other substantive provisions of the Convention and the Protocols. It has no independent existence, since it has effect solely in relation to the enjoyment of the rights and freedoms safeguarded by those provisions. Although the application of Article 14 does not presuppose a breach of those provisions \u2013 and to that extent it is autonomous \u2013 there can be no room for its application unless the facts at issue fall within the ambit of one or more of them (see,\u00a0among many other authorities, Abdulaziz, Cabales and Balkandali v.\u00a0the United Kingdom, 28 May 1985, \u00a7\u00a071, Series A no. 94, and Karlheinz Schmidt v. Germany, 18 July 1994, \u00a7 22, Series\u00a0A no. 291-B).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0As to the scope of the guarantee provided under Article 14, according to established case-law, a difference in treatment is discriminatory if it has no objective and reasonable justification, i.e. if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised. Moreover, the Contracting States enjoy a certain margin of appreciation in assessing whether and to what extent differences in otherwise similar situations justify different treatment (see, for example, Gaygusuz v. Austria, 16 September 1996, \u00a7 42, Reports 1996-IV, and Frett\u00e9 v. France, no. 36515/97, \u00a7 34, ECHR 2002-I).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "134.\u00a0\u00a0The Court finds that the facts of the instant case fall within the scope of Articles 6 and 8 of the Convention and that, accordingly, Article 14 is applicable.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0The Court recalls that it has previously found a violation of Article 14 in conjunction with Articles 6 and 8 of the Convention on account of the difference in treatment applied to victims of the events of September 1993. It held that the victims\u2019 Roma ethnicity appeared to have been decisive for the result of the domestic proceedings the applicants were a party to. Moreover, the Court of Appeal\u2019s judgment, confirmed by the Court of Cassation on 25 February 2005, to reduce the non-pecuniary damages requested by the applicants was motivated by remarks directly related to the victims\u2019 ethnic background (see Moldovan and Others (no. 2), cited above, \u00a7\u00a0139).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0The Court notes that the applicants were party to the proceedings before the Court of Appeal and the Court of Cassation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "137.\u00a0\u00a0In this context, the Court finds no reason and the Government have not put forth any argument that would lead it to depart from its judgment in the case of Moldovan and Others (no. 2), cited above, \u00a7 140.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "138.\u00a0\u00a0Accordingly, there has been a violation of Article 14 of the Convention taken in conjunction with Articles 6 and 8.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The alleged discrimination the first applicant was subjected to because of the failure of the domestic courts to provide reasons for the different amounts of non-pecuniary damage awarded to the widows (Article 14 taken in conjunction with Article 1 of Protocol No. 1 to the Convention)",
+                                "elements": [
+                                    {
+                                        "content": "Admissibility",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Submissions of the parties",
+                                "elements": [
+                                    {
+                                        "content": "139.\u00a0\u00a0The Government submitted that the first applicant had only raised this part of her complaints after the Court had decided to give notice of the application to them. They argued that in her letters of 2004 and 2006 the first applicant had only complained of being discriminated against by the domestic court when compared to the other two widows after the friendly settlement proceedings had ended in respect of the Moldovan and Others (friendly settlement) judgment. They also submitted that the applicant had not had any possessions within the meaning of Article 1 of Protocol No.1 to the Convention and consequently that Article 14 did not apply in her case. In addition, the domestic courts enjoyed a large margin of appreciation in determining non-pecuniary damages to be awarded to victims. Moreover, only one of the widows had received non-pecuniary damages higher than the sum awarded to the first applicant and the domestic courts had provided reasons for their decision in that respect.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "140.\u00a0\u00a0The first applicant disagreed.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "141.\u00a0\u00a0The Court finds that it is not necessary to examine the Governments objections as, even assuming that they were dismissed, the complaint is in any event inadmissible for the following reasons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0The Court notes that only M.F.Z. was awarded a different amount than the applicant in respect of non-pecuniary damage by the domestic courts. Moreover, it recalls that it has already established that when examining the three widows\u2019 claims for non-pecuniary damages, the Court of Appeal noted in its reasoning in respect of M.F.Z., in addition to the reasoning used to determine the non-pecuniary damages awarded to the other two widows, that she was the sister of two of the deceased and the wife of the third (see paragraph 99 above). Furthermore, the judgment of the Court of Appeal was upheld by the Court of Cassation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "143.\u00a0\u00a0Having regard to the above, the Court considers that the domestic courts provided a reasonable and objective justification for the different treatment applied to M.F.Z.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "144.\u00a0\u00a0It follows that this part of the first applicant\u2019s complaints is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1 TO THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "145.\u00a0\u00a0Relying on Article 1 of Protocol No. 1 to the Convention, the first applicant complained on behalf of her daughters that the domestic authorities had failed to enforce the final judgment awarding them child allowances.",
+                                "elements": []
+                            },
+                            {
+                                "content": " Article 1 of Protocol No. 1 to the Convention provides as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEvery natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "146.\u00a0\u00a0Having regard to the fact that the applicants\u2019 complaint is closely linked to the Court\u2019s findings concerning Article 6 \u00a7 1 of the Convention (see paragraph 122, above), it considers that it is not necessary to examine it, nor to examine whether in the present case there has been a violation of the said provision (see, mutatis mutandis, among others, Laino\u00a0v. Italy [GC], no.\u00a033158/96, \u00a7\u00a025, ECHR 1999I, and Albina v. Romania, no.\u00a057808/00, \u00a7\u00a042, 28 April 2005).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "147.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "148.\u00a0\u00a0The first applicant claimed pecuniary damage in respect of loss of household belongings. All three applicants also claimed pecuniary damage in respect of the loss of income resulting from their common law partner\u2019s and father\u2019s death in the events. Their claims were based on the claims raised before the domestic courts and the findings of those courts in respect of child allowance rights.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "149.\u00a0\u00a0In particular, the applicants claimed the following sums: the first applicant claimed 8,708 euros (EUR) for the destruction of her household belongings and for loss of her common law partner\u2019s income following his death; the second applicant EUR 1,539 in child allowance over and above that which had been awarded to her by the domestic courts; and the third applicant EUR 3,801 for the child allowance that she claimed she should have been awarded by the domestic courts.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "150.\u00a0\u00a0The applicants further contended that the frustration and helplessness suffered by them following the destruction of their home and the separation from their family, which they still experienced today, almost twenty years after the events, required an award of non-pecuniary damages in order to achieve just satisfaction. Consequently, the first applicant claimed EUR 230,000, the second applicant EUR 170,000, and the third applicant EUR 100,000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "151.\u00a0\u00a0In short, taking all the heads of pecuniary and non-pecuniary damage together, the applicants claimed the following sums: the first applicant EUR 238,708; the second applicant, EUR 171,539; and the third applicant, EUR 103,801.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "152.\u00a0\u00a0The Government considered the sums claimed to be excessive and unsubstantiated.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "153.\u00a0\u00a0The Court recalls that it has found several breaches of the rights guaranteed by the Convention as a result of the applicants\u2019 living conditions following the interference by the authorities with their rights and the authorities\u2019 repeated failure to put a stop to the breaches.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "154.\u00a0\u00a0The Court considers that there is a causal link between the violations found and the pecuniary damage claimed by the first applicant in respect of her household belongings, since the Government were found to be responsible for the failure to put an end to the breaches of the applicants\u2019 rights that generated the unacceptable living conditions. However, there is no link between the violations found and the remainder of the applicants\u2019 claims for pecuniary damage. In addition, the Court takes the view that, as a result of the violations found, the applicants undeniably suffered non-pecuniary damage which cannot be made good merely by the finding of a violation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "155.\u00a0\u00a0Consequently, regard being had to the seriousness of the violations of the Convention of which the applicants were victims, to the amounts already granted at the domestic level by the final judgment of 25\u00a0February\u00a02005, and ruling on an equitable basis, the Court awards them the following sums: EUR 17,000 to the first applicant in respect of pecuniary and non-pecuniary damage and EUR 11,000 to each of the second and third applicants in respect of non-pecuniary damage, plus any amount that may be chargeable in tax.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "156.\u00a0\u00a0The applicants also claimed EUR 8,540 for costs and expenses incurred before the Court, to be paid directly to their representatives. These included EUR 8,360 in legal fees for two lawyers (charged at EUR 110 per hour) together with secretarial and travel expenses for one of the lawyers totalling EUR 180. They submitted copies of a return train ticket costing 89\u00a0pounds sterling (GBP) (approximately EUR 100) between London and Brussels bearing the name of one of the lawyers and a breakdown of the number of hours worked by the two lawyers on the case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "157.\u00a0\u00a0The Government submitted that the hourly rate charged by the applicants\u2019 representatives and the number of hours claimed for were excessive, particularly since the case had lacked any complexity.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "158.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award, jointly, the sum of EUR 3,000 covering costs for the proceedings before the Court, to be paid directly into the bank account indicated by the applicants\u2019 representatives.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "159.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaints concerning Articles 3, 8, 6 \u00a7 1 and 14 taken in conjunction with Articles 6 and 8, in so far as they concern the applicants\u2019 living conditions after June 1994, the failure of the Court of Cassation to provide reasons for dismissing the first applicant\u2019s appeal on points of law and the discrimination the applicants were subjected to by the courts and other authorities in the course of the proceedings they were a party to after 19 February 2002 (the second and third applicants) and 30 September 2003 (the first applicant) admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Articles 3 and 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 14 in conjunction with Articles 6 and 8 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there is no need to examine the complaint under Article 1 of Protocol No. 1 to the Convention in respect of the non-enforcement of the domestic judgment awarding the second applicant child allowance;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the national currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 13 November 2012, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Josep Casadevall",
+            "role": "president"
+        },
+        {
+            "name": "Egbert Myjer",
+            "role": "judges"
+        },
+        {
+            "name": "Alvina Gyulumyan",
+            "role": "judges"
+        },
+        {
+            "name": "J\u00e1n \u0160ikuta",
+            "role": "judges"
+        },
+        {
+            "name": "Luis L\u00f3pez Guerra",
+            "role": "judges"
+        },
+        {
+            "name": "Nona Tsotsoria",
+            "role": "judges"
+        },
+        {
+            "name": "Kristina Pardalos",
+            "role": "judges"
+        },
+        {
+            "name": " Quesada",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF L\u0102C\u0102TU\u015e AND OTHERS v. ROMANIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-114513.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2012:1113JUD001269404",
+    "externalsources": [],
+    "extractedappno": [
+        "12694/04",
+        "41138/98",
+        "64320/01",
+        "58670/00",
+        "57884/00",
+        "2577/02",
+        "17369/02",
+        "26772/95",
+        "30210/96",
+        "28524/95",
+        "25781/94",
+        "8229/04",
+        "47287/99",
+        "61302/00",
+        "34763/02",
+        "11273/05",
+        "30979/96",
+        "59498/00",
+        "50342/99",
+        "37763/04",
+        "37712/04",
+        "35247/04",
+        "35178/04",
+        "34350/04",
+        "34647/97",
+        "33273/03",
+        "78028/01",
+        "78030/01",
+        "36515/97",
+        "33158/96",
+        "57808/00"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-114513",
+    "judgementdate": "13/11/2012 00:00:00",
+    "kpdate": "13/11/2012 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "193",
+        "445",
+        "40",
+        "136",
+        "451",
+        "426",
+        "343",
+        "100",
+        "395"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "6",
+    "paragraphs": [
+        "14",
+        "3",
+        "8",
+        "8-1",
+        "6-1",
+        "6"
+    ],
+    "parties": [
+        "L\u0102C\u0102TU\u015e AND OTHERS",
+        "ROMANIA"
+    ],
+    "rank": "932.471740722656",
+    "representedby": [
+        "COJOCARIU C.",
+        "ALEXANDRIDIS T."
+    ],
+    "respondent": "ROU",
+    "respondentOrderEng": "37",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "373730",
+    "typedescription": "15"
+}

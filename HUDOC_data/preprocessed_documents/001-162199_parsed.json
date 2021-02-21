@@ -1,0 +1,1287 @@
+{
+    "__articles": "2;2-1;2-2;3;41",
+    "__conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "7469/06",
+    "article": [
+        "3",
+        "41",
+        "2"
+    ],
+    "conclusion": [
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Effective investigation"
+            ],
+            "element": "Violation of Article 2 - Right to life",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - award",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-162199.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": ".\u00a0\u00a0The case originated in an application (no. 7469/06) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by seventeen Turkish nationals (\u201cthe applicants\u201d) on 6\u00a0February 2006.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The applicants, whose names, dates of birth and places of residence are set out in the attached table, were represented by Ms\u00a0Mihriban K\u0131rd\u00f6k, Ms\u00a0Meral Hanbayat, Mr\u00a0Mehmet Ali K\u0131rd\u00f6k, and Mr\u00a0Hasan Kemal Elban, lawyers practising in Istanbul. The Turkish Government (\u201cthe Government\u201d) were represented by their Agent.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0The applicants alleged, in particular, that the killing of seventeen of their relatives by soldiers and the subsequent exhibiting of their bodies in a car park had been in breach of Articles 2 and 3 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": ".\u00a0\u00a0On 17 March 2009 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Introduction",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants\u2019 seventeen close relatives were members of an outlawed organisation in Turkey, namely the Maoist Communist Party (hereinafter \u201cthe MKP\u201d). On various dates since the 1970s criminal proceedings had been brought against the relatives for membership of a number of outlawed organisations and for carrying out activities on behalf of those organisations. They had spent various periods of time in prisons, and after their release some of them had left Turkey and settled in different countries in Europe.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In early June 2005 the seventeen relatives began arriving in a rural area within the administrative jurisdiction of the town of Ovac\u0131k, near the city of Tunceli, in order to hold a meeting of their organisation. They were all killed in that area by members of the security forces on 17 and 18\u00a0June 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The names of the seventeen relatives and the applicants\u2019 relationship to them are as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "i.\u00a0\u00a0Cafer Cang\u00f6z was the first applicant Mr Mustafa Cang\u00f6z\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "ii.\u00a0\u00a0Ayd\u0131n Hanbayat was the second applicant Ms Fatma Hanbayat\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "iii.\u00a0\u00a0Okan \u00dcnsal was the third applicant Ms Bahriye \u00dcnsal\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "iv.\u00a0\u00a0Berna Sayg\u0131l\u0131-\u00dcnsal was the fourth applicant Mr Tevfik Fikret Sayg\u0131l\u0131\u2019s daughter;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "v.\u00a0\u00a0Ali R\u0131za Sabur was the fifth applicant Mr H\u0131d\u0131r Sabur\u2019s brother;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "vi.\u00a0\u00a0Alattin Ata\u015f was the sixth applicant Ms Nari Ata\u015f\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "vii.\u00a0\u00a0Cemal \u00c7akmak was the seventh applicant Ms Zekiye \u00c7akmak\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "viii.\u00a0\u00a0\u00d6kke\u015f Karao\u011flu was the eighth applicant Ms Hatice Karao\u011flu\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "ix.\u00a0\u00a0Taylan Y\u0131ld\u0131z was the ninth applicant Ms \u0130mi\u015f Y\u0131ld\u0131z\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "x.\u00a0\u00a0Dursun Turgut was the tenth applicant Mr \u0130brahim Turgut\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xi.\u00a0\u00a0Binali G\u00fcler was the eleventh applicant Ms Elif G\u00fcler\u2019s husband;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xii.\u00a0\u00a0\u0130brahim Akdeniz was the twelfth applicant Mr Mehmet Akdeniz\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xiii.\u00a0\u00a0Ahmet Perkta\u015f was the thirteenth applicant Ms G\u00fcls\u00fcm Perkta\u015f\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xiv.\u00a0\u00a0\u00c7a\u011fda\u015f Can was the fourteenth applicant Ms \u015e\u00fckran Can\u2019s son;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xv.\u00a0\u00a0G\u00fclnaz Y\u0131ld\u0131z was the fifteenth applicant Mr Teslim Y\u0131ld\u0131z\u2019s daughter;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xvi.\u00a0\u00a0Ersin Kantar was the sixteenth applicant Mr Erdal Kantar\u2019s brother; and,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "xvii.\u00a0\u00a0Kenan \u00c7ak\u0131c\u0131 was the seventeenth applicant Ms Dilek \u00c7ak\u0131c\u0131\u2019s husband.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The events which took place on 17 and 18 June 2005 are disputed between the parties. Thus, the parties\u2019 submissions will be set out separately. The facts as presented by the applicants are set out in Section\u00a0B below (paragraphs 9-13). The Government\u2019s submissions concerning the facts are summarised in Section C below (paragraphs 14-20). The documentary evidence submitted by the parties is summarised in Section\u00a0D below (paragraphs 21-76).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The applicants\u2019 submissions on the facts",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0At around 9 p.m. on 17 June 2005 some of the applicants heard on the television news that nine MKP members had been killed by soldiers in Ovac\u0131k and that armed clashes were continuing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The following day a number of family members, suspecting that their relatives might be among those who had been killed, went to the Ovac\u0131k District Gendarmerie Command to seek more information. When they failed to obtain any information there a lawyer representing one of the families went to see the local prosecutor. The prosecutor told the lawyer that seventeen people had been killed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The families were then taken to a nearby military base to identify the seventeen bodies, which had been placed in the car park of the military base. The families noted that most of the bodies were naked. As the faces and bodies of the deceased had been destroyed beyond recognition, it was not possible to complete the identification process that day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0When all the bodies had been identified and autopsies carried out on them they were handed over to the families for burial.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The photographs and video footage taken by the families while the bodies were being prepared for burial were submitted to the Court. Very extensive injuries on the bodies of the seventeen can be seen in the footage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0The Government\u2019s submissions on the facts",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0In their observations the Government summarised a number of the steps taken by the national authorities (which are also summarised below between paragraphs 21-76), and added the following.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants\u2019 relatives were members of the MKP terrorist organisation and some of them had entered Turkey illegally in order to participate in a meeting of that organisation in Tunceli. After receiving intelligence reports, a patrolling helicopter found the terrorist group in an area near Tunceli on 17 June 2005. The terrorist group opened fire on the helicopter. After determining the location of the group the security forces arrived in the area to arrest them. At 5 p.m. the security forces encountered the group. Despite warnings to surrender issued by the security forces, the terrorists opened fire and injured a soldier.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0At 9 a.m. on 18 June 2005 the armed clash between the security forces and the terrorists ended. Alongside the bodies of the terrorists the security forces found, amongst other things, a number of automatic rifles and ammunition. Three terrorists were apprehended alive and arrested.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On the same day, just after the armed clash ended, the prosecutor arrived at the incident area, conducted an on-site inspection, prepared an incident report, and opened an investigation concerning the deaths of the seventeen terrorists. The prosecutor then ordered the destruction of the material which had no evidential or economic value.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 18 June 2005 between 9.30 a.m. and 2.30 p.m. the bodies and everything else found were photographed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 29 June 2005, at the request of the relatives of the deceased, the prosecutor asked the Forensic Medicine Institute to examine the clothes and bodies of the deceased with a view to establishing whether the security forces had opened fire from a distance without issuing any warning to surrender.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 1 July 2005 the Forensic Laboratories of the Police in Diyarbak\u0131r released the ballistic report, which stated that sixteen of the seventeen terrorists had actively fired at the security forces during the armed clashes.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Documentary evidence submitted by the parties",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The following information appears from the documents submitted by the parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to a report prepared by three non-commissioned officers from the Ovac\u0131k District Gendarmerie Command on 18 June 2005 (hereafter \u201cthe Ovac\u0131k report\u201d), intelligence obtained by the security forces suggested that members of the MKP were planning to have a meeting in mid-June in an area in the vicinity of the Mercan Mountains, near the border between Tunceli and Erzincan provinces. Security forces from Erzincan and Tunceli subsequently started a military operation in the area on 15 June 2005. The operation was also supported from the air. At around 5 p.m. on 17\u00a0June 2005 the security forces conducting the operation came across a group of \u201carmed members of the organisation\u201d and asked them to surrender. However, \u201cthe members of the organisation\u201d responded with fire and an armed clash ensued. During the first fire opened by \u201cthe terrorists\u201d a soldier was injured on the upper leg and airlifted to hospital by helicopter. As the area was mountainous with many caves and in some places covered with snow, and as the \u201cmembers of the illegal organisation\u201d refused to surrender and opened intense fire, the clashes continued until the following day. At around 10 a.m. the following day the fire directed at the security forces stopped and then a search was conducted by members of the security forces. The bodies of fifteen male and two female \u201cterrorists\u201d were recovered. \u201cAs instructed by the public prosecutor\u201d, the bodies and weapons recovered in the area were then taken by helicopter to the Ovac\u0131k District Gendarmerie Command.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to the above-mentioned report, 13 automatic rifles (one M16, four G3s, seven Kalashnikov AK47s and one PKM), 23 spent cartridges discharged from G3 rifles, and 45 spent cartridges discharged from Kalashnikov rifles, 44 bullets for PKM-type rifles, 19 bullets for G3type rifles, 76 bullets for M16-type rifles and 77 bullets for Kalashnikov-type rifles, 11 Kalashnikov magazines, 7 M16 magazines and 12\u00a0G3 magazines were recovered together with the bodies. \u201cItems which did not have evidential value\u201d, including four rucksacks, fifteen items of male and two pieces of female clothing and shoes were destroyed in accordance with \u201cthe instructions given by the prosecutor\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The report summarised in the preceding paragraphs, together with the weapons and ammunition mentioned therein, were handed over to the Ovac\u0131k prosecutor\u2019s office on 20 June 2005 together with a number of other documents. According to one of those documents which, in effect, is a list of the documents forwarded to the prosecutor by the military, two of the documents handed over to the prosecutor were a twelve-page military order, drawn up on 15 June 2005, for the carrying out of the operation and a sketch of the operation area. Those two documents were not made available to the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Another military report was drawn up on 18 June 2005 by the officer in charge of the District Gendarmerie Command of the neighbouring town of Kemah, and eleven gendarmes who had taken an active part in the operation (hereafter the \u201cKemah report\u201d). The report states that \u201coutlawed terrorist organisations had set up camp\u201d in the area and that its members had been travelling between Erzincan city centre and Sar\u0131yaz\u0131 village. There was evidence and information showing that members of the terrorist organisation were in contact with three men from Sar\u0131yaz\u0131 village who were providing them with assistance. At 8 a.m. on 17 June 2005 two of the three men in question were apprehended and questioned by the soldiers. When they denied the allegations against them, the soldiers told them that the mobile telephone belonging to Ali R\u0131za Sabur \u2013 one of the applicants\u2019 deceased relatives \u2013 was being intercepted and that the security forces were therefore aware that they had been in contact with members of the illegal organisation who had arrived in the area recently. One of the two men then told the soldiers that he had seen a number of armed men in the area and that he had subsequently helped them by supplying them with food and transport and by providing guidance about the local area. The man informed the gendarmes that the last time he had seen the armed men had been that very morning and that, given that three of the armed men were \u201climping\u201d and thus walking slowly, they were probably at a location at approximately one hour\u2019s walking distance away.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to the above-mentioned Kemah report, the soldiers then asked for a military helicopter and went to that area with the man to look for the applicants\u2019 relatives. The armed men were spotted in a river bed from armed Cobra-type military helicopters at 11\u00a0a.m. When one of the armed men noticed the helicopter, he opened fire and an armed clash ensued during which nine of the armed men were killed. At 4.30\u00a0p.m. the same day a number of soldiers taking security measures in the area came under intense fire as a result of which another armed clash ensued and continued until 9\u00a0a.m. the following morning, that is 18 June 2005. After the operations ended the bodies of eight more people \u2013 two of whom were female \u2013 were recovered together with their weapons. One of the three men, who had been apprehended the previous morning and had assisted the soldiers in locating the applicants\u2019 relatives, was with the soldiers at that time and identified the bodies as the persons whom he and his two friends had helped after their arrival in the area. The report further states that the incident took place on the border between the Ovac\u0131k and Kemah districts. The Ovac\u0131k prosecutor was then informed about the operation and instructed the soldiers to take the bodies of the seventeen and their belongings to the town of Ovac\u0131k.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 18 June 2005 a press release was issued by the Gendarmerie Headquarters in Ankara, stating that \u201cseventeen terrorists were recovered dead and three terrorists were apprehended alive\u201d during the operations.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Also on 18 June 2005, the applicants\u2019 legal representative Ms\u00a0Meral Hanbayat submitted a petition to the prosecutor\u2019s office in Malatya and asked the prosecutor to order the carrying out of necessary forensic examinations on the body and clothes of the second applicant\u2019s son, Ayd\u0131n Hanbayat, with a view to establishing the distance from which he had been shot. The legal representative also asked the prosecutor to examine Ayd\u0131n Hanbayat\u2019s hands for gunpowder residue in order to establish whether or not he had opened fire.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to a report drawn up by the Ovac\u0131k prosecutor on 18\u00a0June 2005, the area where the applicants\u2019 relatives had been killed was not safe and therefore it was not possible for the prosecutor to go there to examine the bodies. Thus, a decision was taken to bring the bodies to the town of Ovac\u0131k in a military helicopter. When they were brought to the Ovac\u0131k District Gendarmerie Command the bodies were placed in the car park reserved for military vehicles. As their identities had not yet been established, each body was given a number.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Ovac\u0131k prosecutor, assisted by two doctors, arrived at the car park and examined the bodies. The prosecutor noted that all seventeen were clothed and instructed that the clothes be removed for the examinations to be carried out. The bodies were also photographed, both with their clothes on and after they were taken off. The prosecutor and the doctors noted in their report the extensive injuries they observed on the bodies. A search was carried out of the clothes, in which sixteen identity documents were found. The prosecutor decided to keep the number tags on the bodies in place as he suspected that some of the identity papers might be forged. It was later established that ten of the identity papers belonged to the deceased and the remaining six identity documents were in the names of other people.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The two doctors concluded that all seventeen had died as a result of injuries caused by bullets and shrapnel, but considered it necessary to have detailed autopsies carried out. The bodies were then handed over to a gendarme non-commissioned officer, who took them to the Forensic Medicine Institute\u2019s nearest branch in the city of Malatya at around 8\u00a0p.m. the same day. No mention is made in the document whether the clothes removed from the bodies of the seventeen were also handed over to that non-commissioned officer.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The same evening three people who claimed to know some of the deceased arrived at the Forensic Medicine Institute\u2019s Malatya Branch and identified the bodies of Cafer Cang\u00f6z, Ayd\u0131n Hanbayat, \u00d6kke\u015f Karao\u011flu, Okan \u00dcnsal, \u0130brahim Akdeniz and G\u00fclnaz Y\u0131ld\u0131z.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The same evening forensic pathologists started carrying out the autopsies; they completed their examinations at 6.30 the following morning. A detailed verbatim report of the actions taken during the autopsies was prepared in the presence of the Malatya prosecutor. Blood and urine samples taken from the bodies were sent for further analysis to verify whether the deceased had consumed alcohol or used drugs. Swabs were taken from their hands and sent for ballistic examinations with a view to establishing whether they had any gunpowder residue on their hands. Bullets and shrapnel found in the bodies were also sent for further analysis. Fingerprints were taken for identification purposes.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to the findings of the forensic pathologists which are set out in the autopsy report, eight of the deceased had been killed by explosives, three of them by bullets, and the remaining six by both explosives and bullets. The forensic pathologists considered that to establish the distances from which the seventeen persons had been shot, further examinations had to be conducted on their clothes. They noted, however, that with one exception all the deceased had been stripped of their clothes and that the clothes belonging to thirteen of the remaining sixteen had not been provided.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0After the autopsies were concluded the Malatya prosecutor ordered the return of the bodies and the clothes to the Ovac\u0131k prosecutor\u2019s office.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 21 June 2005 the Ovac\u0131k prosecutor wrote to his opposite number in Kemah and requested a copy of the investigation documents relating to the arrest of the three men (see paragraphs 25-26 above). According to the documents submitted to the Court, the Kemah prosecutor complied with that request and forwarded a copy of his investigation file to the Ovac\u0131k prosecutor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0It appears from the Kemah prosecutor\u2019s file that on 9 June 2005 the security forces had obtained authorisation from a judge to intercept the applicants\u2019 relatives\u2019 mobile telephones, and telephone conversations some of the applicants\u2019 relatives had had with a number of local people, including the men who were subsequently arrested for providing them with logistical support, were intercepted by the authorities between 9 and 17 June 2005. According to the transcripts of the intercepted telephone conversations drawn up on 11 June 2005, the applicants\u2019 relatives had discussed over the telephone issues such as renting vehicles and facilitating their movements in the area.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 21 June 2005 the Ovac\u0131k prosecutor also asked the Ovac\u0131k District Gendarmerie Command to send the weapons and the ammunition recovered together with the bodies of the applicants\u2019 relatives to the Regional Forensic Laboratories with a view to establishing whether the rifles had been used in any other previous incident and whether the 23\u00a0G3 spent cartridges and the 45 Kalashnikov spent cartridges had been discharged from the G3 and the Kalashnikov rifles found together with the bodies and whether they had thus been used in the armed clash.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 19 and 20 June 2005 most of the bodies were formally identified by their family members and burial certificates were issued.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 22 June 2005 three of the deceased, namely Cafer Cang\u00f6z, Berna Sayg\u0131l\u0131-\u00dcnsal and \u00d6kke\u015f Karao\u011flu, were formally identified after an examination of their fingerprints was conducted at the Malatya Police Headquarters.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The same day the Ovac\u0131k prosecutor was provided with the report pertaining to the medical examination of the soldier who had been injured during the operation and airlifted to hospital (see paragraph 22 above). According to the report, the soldier in question had been kept in a military hospital in Elaz\u0131\u011f between 18 and 30 June 2005 for the \u201cinjury to the skin of and a foreign object on the left femur, which is not life-threatening and which can be treated with a simple medical intervention\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 27 June 2005 three of the applicants, namely Ms Fatma Hanbayat, Mr Mustafa Cang\u00f6z and Ms \u0130mi\u015f Y\u0131ld\u0131z, assisted by their legal representatives, submitted an official complaint to the Ovac\u0131k prosecutor\u2019s office. The three applicants alleged in their complaint that the bodies of their three deceased relatives had been stripped of their clothes and displayed at the military base in Ovac\u0131k before they were taken to Malatya for autopsies. The three applicants added that they had not seen the clothes since the autopsies. They submitted that the way in which their relatives had been killed must be established before the investigation could proceed. They maintained that a forensic examination on the clothes was crucial and requested the prosecutor to ensure that it was done.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In their complaint the three applicants also informed the prosecutor that there were \u201cstrong indications\u201d that their relatives had been killed by being bombed from a distance, without any prior warning and without any attempts being made to ask for their surrender. They asked the prosecutor to promptly carry out an impartial investigation and visit the area where the operation had been conducted. They also requested the prosecutor to carry out the necessary investigation into the removal of their relatives\u2019 clothes and the exhibiting of their bodies, which, they argued, constituted an offence. Finally, the three applicants asked the prosecutor to give them a copy of the documents from the investigation file.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0When the Ovac\u0131k prosecutor received the applicants\u2019 complaint he wrote to the Ovac\u0131k Magistrates\u2019 Court the same day and informed that court of his opinion that \u201cwhen taken into account that [the three applicants] are related to the deceased members of the terrorist organisation, handing over to them documents from the investigation file would endanger the investigation\u201d. The prosecutor asked the Magistrates\u2019 Court to issue a decision classifying the investigation file as confidential so that neither the three applicants, their legal representatives, or anyone else would be able to examine the investigation file or obtain any documents from it, with the exception of the autopsy reports.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The prosecutor\u2019s request was granted on the same day by the Ovac\u0131k Magistrates\u2019 Court. The same day the prosecutor forwarded the Magistrates\u2019 Court\u2019s decision to the three applicants and informed them that in the light of the Magistrates\u2019 Court\u2019s decision it was not possible to accede to their request and that he was therefore unable to give them any of the documents from the file, with the exception of the autopsy reports. The three applicants\u2019 legal representatives were handed a copy of the autopsy reports the same day.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 29 June 2005 the Ovac\u0131k prosecutor wrote to the Forensic Medicine Institute\u2019s headquarters in Istanbul, stating that although autopsies had been carried out on the bodies of the seventeen at the Malatya Branch of the Forensic Institute, clothes belonging to some of the deceased had been returned to his office without examination, because there was no expert in Malatya able to carry out that task. The prosecutor also informed the Institute about the allegation made by the three applicants that their relatives might have been killed without a warning and added that the applicants had requested that their relatives\u2019 clothes be forensically examined. With his letter the prosecutor sent the clothes removed from the bodies of Cemal \u00c7akmak, Ca\u011fda\u015f Can, Okan \u00dcnsal and \u0130brahim Akdeniz, and asked the Institute to carry out the necessary examinations on them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 1 July 2005 the three applicants mentioned above (see paragraph\u00a042) lodged an objection to the Ovac\u0131k Magistrates\u2019 Court\u2019s decision to restrict their access to the investigation file and asked for that decision to be set aside. In their submission the three applicants added that they had spoken to the prosecutor and had repeated their request to have their deceased relatives\u2019 clothes forensically examined. However, the prosecutor had told them that the clothes had been \u201cdestroyed after the operation because [the authorities] had deemed it necessary to do so\u201d. The three applicants also stated in their submission that all they needed were the documents recording the actions taken during the investigation, and not any of the documents pertaining to the organisation of the military operation. They argued that they needed those documents to exercise their statutory right to effectively participate in the investigation. Furthermore, when the facts were known by the perpetrators and by the prosecutors, hiding those same facts from the complainants was not compatible with the principle of equality of arms. It was thus evident that an investigation conducted solely on the basis of the documents prepared by the perpetrators, the contents of which were not known to them and could thus not be challenged, would not lead to a fair conclusion.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants also challenged the logic behind the decision to restrict their access to the investigation file, and questioned how their involvement in the investigation, the aim of which was to establish the facts, would endanger it. They submitted that some of the evidence, such as the clothes worn by their relatives, had already been destroyed on the orders of the prosecutor. The applicants considered it telling that the clothes of those killed by explosives had been sent for forensic examinations whereas the clothes worn by those killed by bullets had been destroyed. They argued that those destroyed clothes could have been instrumental in establishing the distance from which the deceased had been shot. They complained, moreover, that the prosecutor had still not visited the place where the operation had been conducted; thus, there were serious questions about the way the evidence from that place had been collected. Lastly, the applicants referred to Articles 2 and 13 of the Convention and Paragraph 16 of the Principles on the Effective Prevention and Investigation of Extra-legal, Arbitrary and Summary Executions (adopted by Economic and Social Council Resolution 1989/65 on 24 May 1989) and argued that their exclusion from the investigation was in breach of those provisions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The objection was rejected by the Tunceli Criminal Court of First Instance on 20 July 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Also on 1 July 2005, the Forensic Laboratories of the Police in Diyarbak\u0131r published their reports on the swabs taken from the hands of the seventeen deceased. According to the report, there was gunpowder residue on the palms and the backs of the hands of the sixteen of the seventeen relatives. It was stated in the report that the presence of gunpowder residue on the backs of the hands meant that the person had either fired a weapon or been in close proximity to a weapon when it was fired. The presence of gunpowder residue on the palm of the hand meant that the person had either been holding a weapon or had had contact with objects on which there was gunpowder residue, or that he or she had been standing close to a weapon when it was fired. It was stated in the same report that gunpowder residue could be found on the hand of a person who had not fired a weapon but whose hand had been in contact with objects such as a weapon, a bullet entry wound, or the hands of another person who had fired a weapon.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 6 July 2005 sixteen relatives, including fourteen of the applicants, submitted a complaint to the Ovac\u0131k prosecutor with the assistance of their legal representatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The relatives began by stating that the arguments they were making in their complaint were inevitably based only on the autopsy reports and the things they had heard or witnessed personally; as they had been denied access to the investigation they had not had the opportunity to see any of the evidence or the information in the prosecutor\u2019s file. In their submission they complained about the killings of their relatives and about the public displaying of the bodies by the security forces. The relatives also submitted that the fact that the bodies of some of their relatives had been destroyed beyond recognition by bombs had led them to form the opinion that there had not been an armed clash as alleged and that their relatives had been killed by unlawful fire from military helicopters. In any event, on account of their ages and the various physical disabilities of five of them, their relatives had not been in a position to actively participate in an armed clash with soldiers in a mountainous area. Furthermore, although it had been alleged that firearms had been found next to the bodies of their relatives, those firearms would not have been effective against military helicopters. Thus, it was obvious that they had been killed as a result of the use of disproportionate force.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The relatives also repeated the criticism, which had already been voiced by three of them on a number of previous occasions (see paragraphs\u00a042-43 and 47-48 above), of the fact that they had been denied access to the investigation file and the investigating authorities\u2019 failures to take certain steps in the investigation. In that connection they highlighted, in particular, the destruction of their relatives\u2019 clothes by the authorities. They also complained that crucial evidence had been collected without any judicial supervision and by members of the security forces who themselves had been implicated in the killings and were therefore under investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The relatives argued that the killing of their relatives had been unlawful and in breach of Turkey\u2019s obligations under various international treaties, including the Convention. Contrary to the requirements of those international obligations, no attempts had been made to apprehend their relatives in a non-life-threatening fashion. Moreover, members of the security forces had committed another offence by publicly exhibiting their relatives\u2019 naked bodies. They invited the prosecutor to carry out an independent and effective investigation that was proportionate to the seriousness of the killings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicant Tevfik Fikret Sayg\u0131l\u0131, together with his wife Necla Sayg\u0131l\u0131, submitted another complaint to the Ovac\u0131k prosecutor in addition to the one he had already submitted on 6 July 2005 together with the other applicants. In their complaint the couple complained about the killing of their daughter, Berna Sayg\u0131l\u0131-\u00dcnsal, and alleged, in particular, that their daughter and her sixteen friends had been unarmed at the time and there had therefore not been an armed clash between them and the soldiers. They further complained that necessary precautions in the area where their daughter was killed had not been taken by the prosecutor, and the evidence in the area had thus been allowed to disappear. They also complained that their daughter\u2019s body had been exhibited by the soldiers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On various dates the Ovac\u0131k prosecutor asked his colleagues in various towns and cities to take statements from the applicants living within their jurisdictions. According to the documents submitted by the parties, the prosecutors complied with that request and took statements from twelve of the applicants and four other close relatives of the seventeen deceased. In their statements the relatives repeated their allegations and maintained their complaints. The relatives also stated that, although they had not personally seen the bodies of their deceased relatives being exhibited, they had heard about it from others.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 19 August 2005 the Regional Forensic Laboratories of the Gendarmerie concluded their examinations in respect of the weapons and the spent cartridges found in the operation area (see paragraphs 23 and\u00a038 above). It was stated in the report that 43 of the 45 spent Kalashnikov cartridges had been discharged from the seven Kalashnikov rifles found in the area. The remaining two had been discharged from two other Kalashnikov rifles, which were not among those recovered in the area. It was also established that 22 of the 23 spent G3 cartridges had been discharged from the four G3 rifles found in the area. As the remaining G3 spent cartridge had no markings on it, no examination could be carried out on it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 23 September 2005 the Forensic Medicine Institute prepared its report in response to the Ovac\u0131k prosecutor\u2019s request of 29 June 2005 for the clothes worn by four of the deceased at the time they were killed to be examined. It was noted in the report that the holes observed on three of the four sets of clothes were not bullet holes. The holes observed on the fourth set of clothes which belonged to Cemal \u00c7akmak did not have any gunpowder residue and it was not therefore possible to establish the distance from which he had been shot.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 23 November 2005 the applicants asked the Ovac\u0131k prosecutor to give them a copy of the autopsy report and a copy of the document pertaining to the examination of the clothes removed from the bodies of their relatives. The prosecutor complied with that request on 8\u00a0December 2005.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Between September 2005 and June 2006 a number of ballistic examinations were conducted; the Ovac\u0131k prosecutor was informed at the end of those examinations that the rifles and the spent cartridges found next to the bodies had not been used in any other incident.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 20 June 2006 the Ovac\u0131k prosecutor closed the investigation. After summarising some of the documents which are also set out in the preceding paragraphs, the prosecutor stated the following in his decision:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cSections 86 and 87 of the Code of Criminal Procedure set out how post mortem examinations should be conducted. As stated in the autopsy reports, there was no one to identify the members of the terrorist organisation MKP/HKO who had been recovered dead. That was why they could not be formally identified in Ovac\u0131k. Moreover, their clothes were removed on the instruction of the prosecutor so that their bodies could be examined. Thus, the bodies were not stripped of their clothes by members of the security forces so that they could be publicly displayed. Removing the clothes was a necessity and did not constitute an offence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As for the complaint concerning the killings, the terrorist organisation MKP/HKO issued press releases on 19 and 23 June 2005 in which it was made clear that the deceased had indeed been members of that terrorist organisation and in which the Turkish Republic was expressly referred to as the enemy. It was stated in the press releases, for example, \u2018during the armed clashes that took place between the fascist Turkish State and the forces from the People\u2019s Liberation Army (HKO) [acting] under the leadership of our Maoist-Communist Party, seventeen of our communist warrior comrades became martyrs\u2019. Thus, those press releases not only confirm that the deceased were members of the terrorist organisation, but also that they died in armed clashes with the security forces.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The aim and strategy of the terrorist organisation MKP/HKO is to destroy the constitutional order of the Turkish Republic through armed struggle and to replace it with a different regime. The deceased were members of the MKP/HKO and were carrying out armed and unlawful activities on behalf of that organisation in order to change the constitutional order by force. The investigation documents, the nature of the weapons recovered, the other documents and information [in the file] and the fact that the deceased did not obey the security forces\u2019 warning to surrender show conclusively that they were members of the MKP/HKO and were acting in accordance with that organisation\u2019s aims to change the constitutional order through armed struggle.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In addition, it was openly stated in the press release issued by the terrorist organisation MKP/HKO that all the deceased were members of the MKP/HKO terrorist organisation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "As explained above, the deceased were members of the illegal MKP/HKO terrorist organisation, which carries out activities aimed at changing the constitutional order by force of arms; they were carrying out armed and unlawful activities on behalf of that organisation. A report showing that they were members of the unlawful MKP/HKO terrorist organisation and that they had carried out armed activities on behalf of that organisation and thus had committed the offence of attempting to change the Turkish republic\u2019s constitutional order, was prepared [by me] and sent to the Malatya prosecutor.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The [deceased] had been wandering and hanging around as a group. Their aim was to inflict casualties on members of the security forces. It was the terrorists who fired first, despite an order to surrender issued by members of the security forces. When they first opened fire they injured a member of the security forces. Then, despite a warning to surrender, the terrorist group continued to open fire. Faced with an all-out armed attack, the security forces had no alternative but to open fire. Thus, the \u2018absolute necessity\u2019 and \u2018reasonableness\u2019 criteria were satisfied, which renders the killings lawful.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In order to realise their so-called ideals, terrorists make plans and act in accordance with those plans. Even when they are dying they think of killing. They prepare traps with explosives and hand grenades and set them to explode when members of the security forces approach them when they are seriously injured or after their death to lift their bodies. The response of the security forces to prevent the terrorists\u2019 so-called last mission (the traps) which caused severe damage to the terrorists\u2019 bodies must be regarded as a lawful action carried out within the ambit of \u2018self-defence\u2019 and \u2018necessity\u2019, because they acted with the aim of protecting their own physical integrity and lives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "According to the decision of the Grand Chamber of the Court of Cassation for Criminal Law Matters (10 October 1995, decision no. 1213/271), the existence of an attack must be interpreted widely; if it is definite that an attack is going to begin, it can be regarded as an attack already begun; if it has already come to an end but there is a fear that it might begin again, then it must be regarded as not yet ended.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the present incident, it is established that members of the security forces had persistently warned the deceased, who were members of the MKP/HKO terrorist organisation, and asked them to stop and surrender. The deceased, who were members of the MKP/HKO terrorist organisation and who opened fire and injured a gendarme soldier, were then recovered dead together with their weapons.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the course of anti-terrorism measures, members of the security forces have the power to use weapons pursuant to s. 1-3 of Law No. 1481 and s. 39-40 of the Regulations on the Establishment and Powers of the Gendarmerie: the latter was drafted in accordance with s. 24 of Law No. 280, and additional section 6 \u00a7 2 of Law No.\u00a02559.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "According to Article 2 \u00a7 2 of the European Convention on Human Rights, members of the security forces can use weapons if it has become absolutely necessary to do so.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In recovering dead the members of the MKP/HKO terrorist organisation, members of the security forces used their weapons in accordance with s. 24-25 of the Turkish Criminal Code, Article 2 \u00a7 2 of the ECHR and s. 17 \u00a7 4 of the Turkish Constitution, and they did so within the limits of their powers and duties. It is clearly established that their actions were lawful within the context of self-defence. Thus, no offence was committed by the members of the security forces who killed the deceased or by members of the security forces and the administrative officials who planned the operation and ordered it ... The decision is hereby taken not to continue with the investigation...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants lodged objections to the prosecutor\u2019s decision on 14\u00a0and 22 July 2006. In their submissions the applicants also referred to the Kemah report and drew attention to the discrepancies between that report and the Ovac\u0131k report. They argued, in particular, that in the Kemah report there was no mention of any warnings having been issued to their seventeen relatives to surrender. In the Ovac\u0131k report it was stated, however, that their relatives had been given warnings to surrender. The applicants pointed out in this connection that, instead of trying to assess which version had represented the truth, when closing the investigation the prosecutor had completely ignored the Kemah report, in which no mention was made of surrender warnings, and relied solely on the Ovac\u0131k report.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants further argued that no investigation had been conducted into the roles played by and the actions of members of the security forces during the operation. In fact, they had not even been named or questioned. Furthermore, no attempts had been made to find out what types of weapons had been used by the security forces in the operation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants also referred to the documents in the Kemah prosecutor\u2019s investigation file concerning the actions of the three men who had been arrested on suspicion of helping their relatives. They submitted that those documents showed that members of the security forces had not simply \u201ccome across\u201d their relatives on 17 June 2005 as alleged in the Ovac\u0131k report (see paragraph 22 above). Instead, those documents showed that the operation had in fact started on 2 June 2005 and had been meticulously carried out. For example, twelve of their relatives had been under close observation by the security forces from the time of their arrival in Erzincan on 2 June 2005, and their telephone conversations with the three men who were under investigation for helping them had been intercepted and their meetings photographed. According to the applicants, this background information showed that, instead of arresting their relatives at a much earlier stage, members of the security forces had chosen to wait until their relatives went to the countryside where the conditions were suitable for an operation to kill them. Nevertheless, despite their importance and relevance, none of the above factors had been taken into account by the prosecutor in the investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0 The applicants argued that if the prosecutor had taken notice of the contents of the Kemah report he would have seen that no warnings had been issued by the soldiers before they opened fire on their relatives. Indeed, given that the first contact had been with their relative who had been on lookout duty and the members of the security forces who had been in the helicopter, it was improbable that such a warning had been issued first. Thus, the prosecutor\u2019s reliance on the alleged warnings to surrender when concluding that the killings had been in self-defence was without basis.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants also criticised the justification proffered by the prosecutor for the use of heavy weaponry by alleging that their relatives could have set up booby-traps. They argued that there was no evidence in the file to support the prosecutor\u2019s conclusion. In particular, it was impossible to reach such a conclusion without first questioning the soldiers who, in any event, had not made any allegations that there were booby traps. The applicants argued that by doing so the prosecutor had replaced the lack of any evidence with his subjective assumptions and that the conclusion reached by him could not, therefore, have any legal significance and could not prove that the force used had not been excessive.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants alleged that the prosecutor had failed to establish with any clarity the way in which their relatives had been killed. They submitted that, according to the news coverage of the incident in the media on 17\u00a0June 2005, initially nine of their relatives had been killed by bombs, and that those media reports were compatible with the Kemah military report. The remaining eight relatives had been killed mostly by bullets, because after the initial heavy bombing the soldiers on the ground had formed a circle around the eight relatives and shot them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants also criticised the fact that the swabs taken from the hands of their relatives were examined at the Forensic Laboratories of the Police in Diyarbak\u0131r rather than at the independent Forensic Medicine Institute. Moreover, when taking into account that their relatives had been killed in the course of a military operation during which heavy weapons had been used and that their bodies had been carried by soldiers who had taken part in the operation, the prosecutor\u2019s conclusion, which was based on the forensic reports showing that they had gunpowder residue on their hands, that their relatives had taken part in the armed clash was not compatible with the other information in the file.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Furthermore, no fingerprint analysis had been conducted on the rifles with a view to establishing whether they had their relatives\u2019 fingerprints on them. Similarly, although the fact that only spent cartridges belonging to Kalashnikov and G3 rifles had been found after the operation could lead to the assumption that only G3 and Kalashnikov rifles had been used in the operation, the failure to specify exactly where those spent cartridges had been found and the added failure to collect the spent cartridges discharged from the rifles used by the soldiers discredited that assumption.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In addition to the above, in their complaint the applicants also criticised the prosecutor\u2019s failure to identify the names of the soldiers who had killed their relatives, to establish the exact locations and movements of both their relatives and the soldiers, to visit the scene, to identify the weapons used by members of the security forces, and to safeguard the clothes removed from the bodies of their relatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants argued that, in the light of the serious failures it could not be said that an effective investigation had been conducted. Indeed, when looking at the investigation as a whole, one could see that both the security forces who had prepared the military reports after the operation, and subsequently the prosecutor, had been convinced that their relatives had deserved to die and that that had been the real reason behind their failure to take even the most basic investigative steps. In that connection they also criticised the fact that evidence had been collected by the soldiers who were supposed to be under investigation.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants concluded their complaint by arguing that, in the light of the shortcomings in the investigation, the prosecutor had not been in a position to decide whether or not the use of force was justified under the national legislation set out in his decision.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The objection lodged by the applicants against the prosecutor\u2019s decision was rejected by the Erzincan Assize Court on 24 August 2006. The Assize Court\u2019s decision is as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe complainants submitted through their legal representatives that, although their relatives who were killed on 17 May 2005 (sic) could have been apprehended alive, members of the security forces had acted with the intention to kill and that they had stripped the clothes off their relatives and displayed their bodies publicly. Their complaint was therefore against the military and administrative authorities who had ordered the operation, planned it, and carried it out.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "At the end of the investigation carried out by the Ovac\u0131k prosecutor a decision was taken not to bring criminal proceedings against the military or administrative authorities who had ordered the operation, who had overseen it and who had executed it, for the killings of the deceased persons and for displaying their bodies. It was considered that no offence had been committed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Having examined the file, a decision is hereby given to reject the objection lodged by the complainants because the Ovac\u0131k prosecutor\u2019s decision is in accordance with the procedure and the legislation\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In the meantime, on the same date as he closed the investigation  that is on 20 June 2006 \u2013 the Ovac\u0131k prosecutor also prepared a report and sent it to the Malatya prosecutor\u2019s office. In his report the Ovac\u0131k prosecutor asked his colleague in Malatya to take the necessary action against the applicants\u2019 deceased relatives who, according to the evidence in his possession, had committed the offences of membership of a terrorist organisation and had attempted to destroy the constitutional order through armed struggle, and had injured a soldier.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0On 18 August 2006 the Malatya prosecutor decided not to bring criminal proceedings against the applicants\u2019 relatives, because they were dead.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to a document which was made available to the Court by the respondent Government and which was prepared by the Ministry of Justice on 12 May 2009 and sent to the Ministry of Foreign Affairs apparently in order to advise the latter when preparing its observations to be submitted to the Court, the applicants\u2019 relatives\u2019 clothes and a number of other items found on their persons were destroyed on the orders of the Ovac\u0131k prosecutor, on the ground that they had no evidential value.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 2 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The applicants complained under Article 2 of the Convention that their relatives had been deliberately killed by the security forces and that the authorities had failed to carry out an effective investigation into the circumstances of their deaths. The applicants also maintained that they had not been provided with an effective remedy under Article 13 of the Convention in respect of their complaints under Article 2 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Court considers it appropriate to examine the applicants\u2019 complaints solely from the standpoint of Article 2 of the Convention, the relevant parts of which read as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone\u2019s right to life shall be protected by law...",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+                                "elements": []
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0in defence of any person from unlawful violence;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0in action lawfully taken for the purpose of quelling a riot or insurrection.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Government contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicants\u2019 submissions",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants alleged that the killing of their relatives had not been absolutely necessary and that the force used against them had been excessive. They argued that their relatives had been killed in circumstances of which only the soldiers were aware. Moreover, the prosecutor had not collected any evidence, so the evidence must have been either collected or forged by the soldiers who killed their relatives. Thus, the Government had to bear the burden of providing a plausible explanation for the killings. In particular, it was for the Government to show that the evidence and information in the investigation file was sufficient to prove that the force used had been no more than absolutely necessary. However, in view of their arguments below, the Government had failed to discharge their burden of providing such an explanation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In support of their argument above, the applicants drew the Court\u2019s attention to the fact that the security forces had become aware of the arrival of their relatives in the area long before they carried out the military operation. To that end they highlighted, in particular, that telephone conversations between some of their relatives and the locals had been intercepted by the authorities (see paragraph 25 above). This, in the opinion of the applicants, showed that the security forces had been aware that their relatives\u2019 presence in the area was not to carry out any armed activities but to hold a meeting, and that this had presented the soldiers with an opportunity to apprehend their relatives without resorting to lethal means.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The existence of a written order and a sketch drawn up by the military on 15 June 2005 for the operation (see paragraph 24 above) had made it clear that the soldiers had planned the operation in advance and had known exactly where they would be encountering the applicants\u2019 relatives and had already taken security measures in that area. As those two documents had not been made available by the Government, and as no adequate investigation had been conducted into the circumstances of the killings, it was impossible to ascertain the number of soldiers who had taken part in the operation, their exact locations and the quantity and the nature of the weapons used by them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants highlighted the fact that their relatives had been killed in a river bed. This, in the opinion of the applicants, was another indication that they could have been apprehended there easily as they had no way of hiding or escaping.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants also submitted that the Government\u2019s version of the events was contradicted by the Kemah military report, according to which their relatives had been spotted in a river bed by military personnel in armed Cobra-type military helicopters at 11 a.m., and that when one of their relatives had noticed the presence of the security forces he had opened fire and an armed clash had ensued during which nine relatives had been killed. The applicants stressed that the military report prepared by the Kemah gendarmerie did not make reference to any surrender warnings having been given.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The helicopters used in the operation were \u201cCobra\u201d helicopters, armed with highly destructive weapons. The extensive injuries detailed in the autopsy reports were compatible with their having been inflicted by shots fired from heavy weapons of this type.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants referred to the medical report which stated that one of the soldiers had been injured by a \u201cforeign object\u201d (see paragraph 41 above) and not by a bullet. According to the applicants, it was more likely that the soldier had been injured by shrapnel from the explosives used by the soldiers in the killing of their relatives. Thus, the Government\u2019s submission that the military clash had begun after the soldier was injured was baseless.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants complained that no effective investigation had been conducted by the national authorities into the killing of their relatives. In that connection they referred to the document drawn up by the Ovac\u0131k prosecutor on 18 June 2005, in which it was stated that that prosecutor had not gone to the area where their relatives had been killed because of security concerns. The applicants pointed out that that document clearly disproved the Government\u2019s submissions according to which \u201cimmediately after the armed clash had ended the prosecutor had gone to the incident area, conducted an on-site inspection, prepared an incident report and opened an investigation\u201d (see paragraph 17 above and paragraph 103 below). The applicants questioned the validity of the prosecutor\u2019s concerns for his security in connection with a visit to an area where the operation had ended and which was under the control of the soldiers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0They also complained that they had been \u201cousted\u201d from the investigation at the very outset, because the investigation file had been categorised as \u201cconfidential\u201d by a judge at the request of the prosecutor and they had therefore been unable to take any part in it. The decision of the judge had also prevented them from seeing the entire investigation file until it was submitted to the Court by the Government and was then forwarded to them by the Court in September 2009.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants argued that no mention was made on the sketch of the place of operation of a number of important details such as the numbers of soldiers, their locations during the operation, the nature and quantity of their weapons, and the number of spent cartridges discharged from their weapons. Furthermore, the bodies of their relatives and the weapons were not photographed at the site of the incident, and the weapons which were allegedly recovered together with the bodies of their relatives were not examined with a view to establishing whether they had their relatives\u2019 fingerprints on them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants complained that their relatives\u2019 clothes had disappeared after the decision was taken for their bodies to be transferred to the Malatya Branch of the Forensic Medicine Institution. In the opinion of the applicants, the prosecutor\u2019s failure to investigate the fate of the clothes was so serious as to have a negative bearing on the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Finally, the applicants highlighted the prosecutor\u2019s failure to question the soldiers who killed their relatives. In the opinion of the applicants, the prosecutor in charge of the operation had accepted at the outset that the soldiers had no responsibility for the deaths and he had thus overlooked the evidence which showed that the soldiers had committed criminal offences. The prosecutor had not, for example, deemed it important to question the soldiers, even though the autopsy report showed, contrary to what had been suggested by the soldiers in their reports, that their relatives had been killed by heavy weapons. Furthermore, the prosecutor had not taken any steps to eliminate the inconsistencies between the Ovac\u0131k military report and the Kemah military report.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government\u2019s submissions",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The Government submitted that the security forces had obtained intelligence reports showing that a group of terrorists were on their way to a meeting and some of them would be coming from abroad. However, when the security forces received the above-mentioned intelligence reports the whole group had already arrived in the city of Tunceli, which meant that the security forces could not apprehend them at the border. In any event, the terrorists had either entered the country clandestinely or had used fake identification documents, which had made it impossible for them to be arrested at the border.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government argued that the aim of the security forces had been to arrest the terrorists and to hand them over to justice. The aim of sending a patrol helicopter to the area was to establish the number of persons in the group, the quantity and the nature of their weapons, and their possible targets. The helicopter was therefore only used for patrol purposes and the carrying out of such patrols had great importance for the security forces, who wished to arrest the terrorists easily with the minimum loss. Therefore the patrolling was the main part of the operation and it showed that the operation had been well planned.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0After the group had been located by the helicopter, the gendarmes arrived in the area to arrest the terrorists and warned the terrorists to surrender. The aim of the warning was to arrest them without an armed clash. The security forces had thus planned to have as little as possible recourse to lethal force in order to minimise incidental loss of life on both sides.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0However, members of the terrorist group had then immediately opened fire on the patrol helicopter and the soldiers on the ground, injuring one of the soldiers. As a result, the security forces had been obliged to respond to the terrorists in order to protect themselves and to arrest them. They had no other means of protecting themselves and arresting the terrorists. Furthermore, the security forces had the obligation to protect civilian lives from the terrorists, who had weapons and who were seeking to overthrow the constitutional order through armed struggle. Therefore it was absolutely necessary to fire on the terrorists in order to achieve the aims cited in Article 2 \u00a7 2 (a) and (c) of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0According to the ballistic report of 19 August 2005 (see paragraph\u00a057 above) the weapons recovered were in working order and had been fired during the armed clash. Moreover, according to another report drawn up on 1 July 2005, 16 of the 17 terrorists had actively fired at the security forces during the clash. Furthermore, the three terrorists arrested alive had actively fired as well.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Consequently, it was clear that 19 terrorists had used their weapons to resist the security forces who had tried to arrest them. The soldiers had responded to the terrorists with the same kind of weapons, namely assault rifles. Therefore the force used by the security forces was proportionate to the force which emanated from the terrorists.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The security forces had never opened fire on the terrorists from a distance; the helicopter had been used only for patrol purposes. Had the security forces used the Air Force to kill them, they could easily have destroyed the terrorists in a few hours, whereas the operation had lasted approximately sixteen hours because the security forces had responded to the terrorists with rifles. Furthermore, one soldier had been injured by the terrorists; this proved that an armed clash had taken place between the two groups within the firing range.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0At 9.30 a.m. on 18 June 2005 the armed clashes had ended and three terrorists were arrested alive, together with their weapons.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the opinion of the Government it was clear that the operation had been planned and executed by soldiers who were well educated in respect of human rights issues and well trained in anti-terrorism operations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government maintained that the prosecutor had conducted an investigation which was in compliance with the requirements of Article 2 of the Convention. He had not ignored any small detail or evidence and had conducted the entire investigation swiftly within one year. The aim of the investigation had been to secure the effective implementation of the domestic law and to ensure the accountability of the State agents in respect of the deaths.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The prosecutor had immediately gone to the area and personally conducted an on-site inspection before opening an investigation concerning the deaths of the seventeen terrorists. He had personally carried out the procedure throughout the investigation and had not relied heavily on the information provided by the gendarmes. The prosecutor had taken into consideration all the allegations made by the relatives of the deceased and had met all their demands.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants\u2019 access to the investigation file had been restricted because the file contained intelligence reports and statements made by the arrested terrorists concerning the current situation of the illegal organisation. That information had to be kept confidential so that other members of the organisation could be arrested. The Ovac\u0131k Magistrates\u2019 Court decision had not prevented the relatives from accessing the file; it had only restricted the taking of some of the documents from the investigation file. The file had always been accessible to the relatives.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court\u2019s assessment",
+                                        "elements": [
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that the text of Article 2 of the Convention, read as a whole, demonstrates that paragraph 2 does not primarily define instances where it is permitted to intentionally kill an individual, but describes situations where it is permitted to \u201cuse force\u201d which may result, as an unintended outcome, in the deprivation of life. The use of force, however, must be no more than \u201cabsolutely necessary\u201d for the achievement of any of the purposes set out in subparagraphs (a), (b) or (c). In this respect the use of the term \u201cabsolutely necessary\u201d in Article 2 \u00a7 2 indicates that a stricter and more compelling test of necessity must be employed than that normally applicable when determining whether State action is \u201cnecessary in a democratic society\u201d under paragraph 2 of Articles 8-11 of the Convention. In particular, the force used must be strictly proportionate to the achievement of the aims set out in sub-paragraphs 2 (a), (b) and (c) of Article\u00a02 of the Convention (see McCann and Others v.\u00a0the United Kingdom, 27 September 1995, \u00a7\u00a7 148-149, Series A no. 324).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the present case, the Court notes that it is undisputed between the parties that the applicants\u2019 seventeen relatives were killed by soldiers of the armed forces of the respondent State. It follows that the Government bear the burden of proving that the force used by the soldiers was no more than absolutely necessary and strictly proportionate to the achievement of the aims set out in the subparagraphs of Article 2 \u00a7 2 of the Convention. In examining whether the Government have discharged their burden, the Court will not only examine whether the resort to the use of lethal force by the soldiers was no more than absolutely necessary and was strictly proportionate to the achievement of the aims set out in the subparagraphs of Article\u00a02 \u00a7 2 of the Convention, but also whether the operation was regulated and organised in such a way as to minimise to the greatest extent possible any risk to life (see Makaratzis v. Greece [GC], no. 50385/99, \u00a7\u00a060, ECHR 2004XI). In this connection the Court reiterates that the central importance of the protection afforded under Article 2 of the Convention is such that the Court is required to subject allegations of a breach of this provision to the most careful scrutiny, taking into consideration not only the actions of the agents of the State who actually administered the force, but also all the surrounding circumstances, including such matters as the planning and control of the actions under examination, even when domestic proceedings and investigations have already taken place (see Erdo\u011fan and Others v. Turkey, no. 19807/92, \u00a7 71, 25 April 2006). Finally, the Court reiterates that law-enforcement personnel in a democratic society are expected to show a degree of caution in the use of firearms even when dealing with dangerous terrorists (see McCann and Others, cited above, \u00a7\u00a0212).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0According to the documents in the file, intelligence obtained by the security forces showed that the applicants\u2019 seventeen relatives were planning to go to the area in question to hold a meeting. No allegation was made at any stage before the national authorities or in the proceedings before the Court that they were planning to carry out any armed attacks in the area. Indeed the Government also accepted in their submissions that the reason for the seventeen relatives\u2019 presence in the area was to hold a meeting. The Court considers this to be a relevant factor to take into account when assessing whether it was absolutely necessary to resort to the use of lethal force against the seventeen relatives, whose sole aim at the time was to hold a meeting (see, mutatis mutandis, \u00dcl\u00fcfer v. Turkey, no.\u00a023038/07, \u00a7\u00a064, 5 June 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0As stated above, the security forces had prior notice of the intended arrival of the applicants\u2019 relatives in the area in question. Although, as pointed out by the Government, the national authorities might indeed have been unable to arrest them before their arrival, for example at border crossings (see paragraph 93 above), the documents from the Kemah prosecutor\u2019s investigation file show that the security forces became aware at the beginning of June 2005 of the seventeen\u2019s plans to go to the area. On 9\u00a0June 2005 the security forces obtained authorisation from a judge to intercept their telephone conversations (see paragraph 37 above) and, according to the applicants\u2019 submissions, even photographed some of their meetings with locals (see paragraph 64 above). It appears from the transcript of the intercepted telephone conversations that the applicants\u2019 relatives\u2019 movements in the area \u2013\u00a0down to the details of their arrangements to rent cars\u00a0\u2013 were being very closely watched by the security forces during that time.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Nevertheless, despite that opportunity and the fact that the operation had been prepared well in advance and an order had been issued (see paragraph\u00a024 above), the Government have not provided the Court with any evidence that clear instructions had been issued by those planning the operation as to how to capture and detain the suspects alive or as to how to negotiate a peaceful surrender. That failure, in the opinion of the Court, must have increased the risk to the lives of any who might have been willing to surrender (see Erdo\u011fan and Others, cited above, \u00a7 79).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court observes that in their objection to the prosecutor\u2019s decision closing the investigation the applicants tried to draw the Assize Court\u2019s attention to the evidence which showed that the security forces were aware of their relatives\u2019 arrival in the area long before they killed them. As summarised above (see paragraph 64), the applicants alleged in that objection that, instead of arresting their relatives at much earlier stages, members of the security forces had chosen to wait until their relatives went to the countryside, where the conditions were suitable for the start of an operation to kill them. Nevertheless, this pertinent point was not taken on board by the Assize Court, and as a result no investigation was carried out by the national authorities to find out why such steps were not taken while the applicants\u2019 relatives were effectively under surveillance by the security forces.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Similarly, no explanation was proffered by the Government on this issue, other than the argument that \u201cthe intention of the security forces was to arrest the terrorists and hand them over to justice\u201d and that the security forces \u201chad planned to have as little as possible recourse to lethal force in order to minimise incidental loss of life on both sides\u201d (see paragraphs 9495 above). In support of those submissions the Government added that the aim of sending a patrol helicopter to the area was to establish the number of members of the group, the quantity and nature of their weapons, and their possible targets. The helicopter was therefore only used for patrol purposes, and the carrying out of such patrols had great importance for the security forces, who wished to arrest the terrorists easily with the minimum loss. The Government also maintained that a warning had been issued to the seventeen to surrender.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Although it will deal below with the issue of the helicopter and the existence or otherwise of surrender warnings, the Court already at this stage stresses that it remains unconvinced that issuing warnings \u2013 the accuracy of which is in any event strongly doubted on account of the information in the Kemah report \u2013 can be said to amount to a meaningful attempt to \u201chave as little recourse as possible to lethal force\u201d. Furthermore, having regard to the unambiguous language of the Kemah report, according to which \u201carmed Cobra-type military helicopters\u201d had been sent to find the applicants\u2019 relatives, and armed clashes had begun immediately after the helicopters had been spotted by the applicants\u2019 relatives (see paragraph 26 above), the Court is unable to accept the Government\u2019s submission that a single helicopter had been sent to the area solely for patrol purposes.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the foregoing, the Court is not persuaded that alternative and non-lethal means were considered or used to apprehend the applicants\u2019 seventeen relatives, and it therefore has strong doubts about the necessity to resort to the use of lethal force which resulted in their deaths (see McCann and Others, cited above, \u00a7\u00a7 202-13). Nevertheless, in the circumstances of the present application, instead of concluding at this stage of its examination that resort to the use of force against the applicants\u2019 seventeen relatives constituted a use of force which was not absolutely necessary and which was therefore in breach of Article 2 of the Convention, the Court deems it more appropriate to proceed to examine whether the Government have discharged their burden to show that the use of force was in any event strictly proportionate to the achievement of the aims set out in sub-paragraphs 2 (a), and (c) of the Convention relied on by them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that the obligation to protect the right to life under Article 2 of the Convention, read in conjunction with the State\u2019s general duty under Article 1 of the Convention to \u2018secure to everyone within [its] jurisdiction the rights and freedoms defined in [the] Convention\u2019, requires by implication that there should be some form of effective official investigation when individuals have been killed as a result of the use of force (see McCann and Others, cited above, \u00a7 161-63). In order to be \u201ceffective\u201d as this expression is to be understood in the context of Article\u00a02 of the Convention, an investigation must firstly be adequate. That is, it must be capable of leading to the establishment of the facts and, where appropriate, the identification and punishment of those responsible (see Mustafa Tun\u00e7 and Fecire Tun\u00e7 v. Turkey [GC], no. 24014/05, \u00a7\u00a0172, 14\u00a0April 2015 and the case cited therein).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "115.\u00a0\u00a0In cases where the respondent Government bear the burden of justifying a killing, the examination of the steps taken in an investigation does not only serve the purpose of assessing whether the investigation was in compliance with the requirements of the procedural obligation, but also of deciding whether it was capable of leading to the establishment of whether the force used was or was not justified in the circumstances and whether the Government have thus satisfactorily discharged their burden to justify the killing (see, inter alia, Erdo\u011fan and Others, cited above, \u00a7\u00a080; Beker v. Turkey, no. 27866/03, \u00a7\u00a7 44 and 53, 24 March 2009; \u00d6zcan and Others v. Turkey, no. 18893/05, \u00a7 61, 20 April 2010; and G\u00fclbahar \u00d6zer and Others v. Turkey, no. 44125/06, \u00a7 59, 2 July 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "116.\u00a0\u00a0In the light of the foregoing the Court also agrees with the applicants in the present case that it is for the Government to show that the evidence and the information in the investigation file are sufficient to prove that the force used was no more than absolutely necessary and was proportionate. It will therefore also examine firstly whether the arguments advanced by the Government are supported by the documentary evidence in the file, which is summarised above.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0To that end, the Court observes that a number of important submissions made by the Government are either not supported by the documents in the file or are in fact contradicted by them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0It notes, for example, that although the Government submitted that \u201cthe prosecutor had immediately gone to the area and personally conducted an on-site inspection\u201d (see paragraphs 17 and 103 above), the official document drawn up by the prosecutor in question clearly indicates that he had in fact never gone to the area, because of security concerns (see paragraph\u00a029 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government also argued that after the armed clashes had ended three terrorists were apprehended alive together with their weapons (see paragraph 100 above). They also added that during the operation \u201cthe three terrorists apprehended alive had actively fired as well\u201d (see paragraph\u00a097 above). The Court observes that according to the Kemah military report the three men in question had been arrested well before the military clashes started, and they had in fact assisted the soldiers in locating the applicants\u2019 relatives (see paragraph 25 above). According to the same document they stayed in the soldiers\u2019 custody until the end of the operation and one of them identified the bodies of the seventeen in situ (see paragraph 26 above). In any event, there was no allegation at the national level that the three men \u201chad actively fired\u201d as suggested by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the opinion of the Government \u201cthe soldiers had responded to the terrorists with the same kind of weapons, namely assault rifles\u201d (see paragraph\u00a098 above). The Court observes that this particular allegation is rebutted by the nature of the injuries detailed in the autopsy report, according to which the injuries on most of the bodies were caused by explosives (see paragraph 34 above). The Court has also examined the video footage showing the condition of the bodies (see paragraph 13 above) and it considers it impossible that such extensive injuries could have been caused by assault rifles. Indeed, when closing the investigation the prosecutor also accepted that the soldiers had caused \u201cheavy damage\u201d to the bodies.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Similarly, the Government\u2019s submission that a helicopter was sent to the area for patrol purposes only (see paragraph 99 above) is refuted not only by the Kemah report according to which \u201csoldiers in armed Cobra-type military helicopters\u201d (see paragraph 26 above) had first located the applicants\u2019 relatives, but also by the Ovac\u0131k report, according to which the operation had been \u201csupported from the air\u201d (see paragraph 22 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government alleged that, according to the forensic report of 1\u00a0July 2005, 16 of the applicants\u2019 relatives \u201chad actively fired at the security forces during the clash\u201d. Without casting any doubt on the accuracy of the findings of that report according to which 16 of the 17 relatives had gunpowder residue on their hands which, according to the report, could indicate that they had either handled firearms or had pulled the triggers, it is to be noted that the same report also goes on to highlight the volatile nature of gunpowder residue and states how a number of other events \u2013\u00a0such as contamination\u00a0\u2013 could explain the presence of the gunpowder residue on their hands. In this connection the Court notes, as have the applicants (see paragraph\u00a068 above), that the bodies of the seventeen were carried by the soldiers, who had killed them by opening fire on them. Furthermore, after they were taken to the Ovac\u0131k Gendarmerie Command by the soldiers, swabs were not taken from their hands immediately. They were first examined at that military base outdoors, then handed over to a non-commissioned officer and taken to the Forensic Medicine Institute\u2019s Malatya branch, where swabs were finally taken some 12-36 hours after the killings. As a result of the failure to take swabs immediately after the applicants\u2019 relatives were killed, and by experts independent of those who were implicated in the events, the Court cannot exclude that some, if not all, of the gunpowder residue found on their hands had been left by contamination. Without calling into question whether there was an exchange of fire, the Court is unable to accept the Government\u2019s interpretation of the forensic report as unequivocally showing that the sixteen \u201chad actively fired on the security forces\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Finally, the Government considered that the applicants\u2019 access to the investigation file had been restricted because it contained intelligence reports and also statements made by the arrested terrorists concerning the current situation of the illegal organisation and that that information had to be kept confidential so that other members of the organisation could be arrested (see paragraph 104 above). The Court notes that the Government\u2019s assertion is refuted by the Ovac\u0131k prosecutor\u2019s written request to have the investigation file classified as confidential and the Ovac\u0131k Magistrates\u2019 decision accepting the prosecutor\u2019s request (see paragraphs 44-45 above) in which no mention was made of any sensitive documents or of any statements having been made by any arrested persons. The real reason for the prosecutor\u2019s request was, according to those two documents, because the three applicants who requested those documents from the file were related to \u201cthe deceased members of the terrorist organisation\u201d. The Court is also unable to accept the Government\u2019s submissions that the decision to classify the investigation as confidential had not prevented the relatives from accessing the file because in the Government\u2019s opinion that decision only placed restrictions on the removal of some of the documents in the file and that the file had always been accessible to the relatives. Unlike the Government, the Court notes that that decision effectively prevented the applicants from seeing any of the documents in the file, with the exception of the autopsy reports. In fact the applicants did not have access to the documents in the file until some three years after the investigation was closed; those documents were made available to the Court and the Court forwarded them to the applicants (see paragraph 89 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the serious contradictions and unsupported allegations contained in them, the Court considers that the Government\u2019s above-mentioned submissions cannot be taken into account in its examination of whether the Government have discharged their burden to justify the killings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Turning to the examination of the steps taken during the investigation by the national authorities which are summarised above, the Court has already noted that the prosecutor failed to go to the place of the incident to secure the scene and to collect the evidence. In this connection it must be noted that the Government, who limited their arguments to incorrectly maintaining that the prosecutor had gone to the incident area immediately after the operation, did not, as a result, elaborate on what actual \u201csafety concerns\u201d had prevented that prosecutor from visiting the area after the operation had come to an end and the area was under the control of the soldiers. Neither did the prosecutor seem to have considered other possibilities, such as having the incident site examined and the evidence there collected by independent experts from, inter alia, the Gendarmerie\u2019s Forensic Branch, which has the expertise to carry out such examinations.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0As a result of the prosecutor\u2019s failure, the initial and critical phases of the investigation were carried out by the soldiers who killed the applicants\u2019 relatives and who were therefore supposed to be under investigation. Thus, the crucial evidence, such as the weapons, ammunition, spent bullet cases and the bodies of the applicants\u2019 relatives, were secured by those soldiers. The Court considers that allowing those soldiers to take such an active part in the investigation into the killing is not only so serious as to taint the independence of the entirety of the criminal proceedings (see Ramsahai and Others v. the Netherlands [GC], no. 52391/99, \u00a7\u00a7\u00a0339-341, ECHR 2007\u2011II), but also entailed the risk that crucial evidence implicating the soldiers in the killing would be contaminated, destroyed or ignored (see G\u00fclbahar \u00d6zer and Others, cited above, \u00a7 62; see also \u00d6zcan and Others, cited above, \u00a7 66). In its examination below of the evidence collected from the scene and in assessing its corroborative value, the Court will take into account that risk. In this connection the Court must also stress that it cannot accept the Government\u2019s submissions that the prosecutor \u201chad personally carried out the procedure throughout the investigation and had never relied heavily on the information provided by the gendarmes\u201d (see paragraph\u00a0103 above). It observes that almost all the actions taken in the investigation were based on the information contained in the incident reports prepared by the soldiers who killed the applicants\u2019 relatives and the evidence collected by them from the scene.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court also notes that no attempts were made by the prosecutor to question any of the military personnel who took part in the operation. Having reviewed its case-law, the Court observes that one of the common features of investigations conducted by prosecutors in Turkey into killings by members of the security forces is failure to question the perpetrators in a timely manner or to question them at all (see, most recently, Makbule Kaymaz and Others v. Turkey, no. 651/10, \u00a7 142, 25 February 2014; Benzer and Others v. Turkey, no. 23502/06, \u00a7 188, 12 November 2013; G\u00fclbahar \u00d6zer and Others, cited above, \u00a7 69; and \u00d6zcan and Others, cited above, \u00a7\u00a067).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0For the Court, the failure to question the main suspects in an investigation into multiple killings, as happened in the present case, is not only a serious failure to comply with one of the most important tenets of an effective investigation required by the procedural obligation under Article\u00a02 of the Convention, but also had negative repercussions on establishing the truth. The Court also considers that this failure exemplifies the attitude displayed throughout the investigation by the prosecutor, who accepted at face value the information given by the military\u00a0 and did not look beyond what was stated in the military reports.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court considers that by failing to question those soldiers the prosecutor forfeited the opportunity to eliminate the contradictory evidence contained in the Ovac\u0131k and Kemah military reports concerning the issuing or otherwise of surrender warnings. It notes that the only mention of a surrender warning is made in the Ovac\u0131k military report (see paragraph\u00a022 above). It considers however that the accuracy of that information is seriously undermined by the Kemah military report, which makes no mention of any surrender warnings and according to which it was the armed Cobra-type helicopters which had the first contact with the applicants\u2019 relatives (see paragraph 26 above) and from which no surrender warnings could conceivably be issued. As noted above, the prosecutor not only failed to question the soldiers about this contradictory evidence, but also failed to make any reference to the Kemah military report in his decision to close the investigation. Indeed, no mention was made of the Kemah report in the Government\u2019s observations either.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The prosecutor\u2019s failure to question the soldiers also deprived him of the opportunity to ask the soldiers other pertinent questions, such as what actual weapons had been used by them in the killing of the applicants\u2019 relatives, what role had been played by the \u201carmed Cobra-type helicopters\u201d, where they had been positioned during the operations, and how far away they were from their victims.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0It appears, however, that the failure to question the soldiers and the resulting absence of information in his file did not prevent the prosecutor from speculating that the severe injuries inflicted on the seventeen had been caused by the soldiers in order to eliminate \u201cany booby traps\u201d and that the security forces had \u201cpersistently\u201d warned the deceased and asked them to stop and surrender (see paragraph 61 above). The Court notes that there is no information in the file to lend support to these assumptions.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Moreover, it cannot be excluded that the failure to question the soldiers created an appearance of collusion between the judicial authorities and the military, and was also conducive to leading the relatives of the deceased \u2013 as well as the public in general \u2013 to form the opinion that members of the security forces operate in a vacuum in which they are not accountable to the judicial authorities for their actions (see Bekta\u015f and \u00d6zalp v. Turkey, no. 10036/03, \u00a7 65, 20 April 2010; and Ramsahai and Others, cited above, \u00a7 330).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that when brought to the Ovac\u0131k Gendarmerie District Command Headquarters the applicants\u2019 seventeen relatives had their clothes on; those clothes were removed during the examination of their bodies by the prosecutor and doctors (see paragraph 30 above). After the bodies were taken to Malatya the same evening, however, the forensic experts in Malatya noted during the autopsies that the clothes removed from the bodies of thirteen of the seventeen deceased persons were missing (see paragraph\u00a034 above). The applicants informed the national authorities that the prosecutor had told them that the clothes had been destroyed because \u201cthe authorities had deemed it necessary to do so\u201d (see paragraph 47 above). No reply was given to the applicants\u2019 complaint by the national authorities. The Government, for their part, did not deal with the issue of the missing clothes in their observations other than stating that \u201cthe prosecutor asked the Forensic Medicine Institute to examine the clothes\u201d (emphasis added; see paragraph\u00a019 above). The Court notes that what the prosecutor did in fact ask the Forensic Medicine Institute was to examine the clothes removed from four of the deceased (see paragraph 46 above) because only those clothes had not been destroyed. The Court notes, in any event, that the accuracy of the information the applicants had apparently been given by a prosecutor about the destruction of the clothes is confirmed in the letter prepared by the Ministry of Justice and addressed to the Ministry of Foreign Affairs, which stated \u201cthe applicants\u2019 relatives\u2019 clothes and a number of other items found on their persons were destroyed on the orders of the Ovac\u0131k prosecutor because they had no evidential value\u201d (see paragraph\u00a076 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court has already noted the practice of destroying or failing to secure in evidence the clothes of individuals killed by law-enforcement officials in Turkey (see, inter alia, Erdo\u011fan and Others, cited above, \u00a7\u00a7\u00a061, 80 and 93; G\u00fclbahar \u00d6zer and Others, cited above, \u00a7\u00a7 19 and 67; and Kavakl\u0131o\u011flu and Others v. Turkey, no. 15397/02, \u00a7 86, 6 October 2015). It disagrees with the national authorities that the clothes had \u201cno evidential value\u201d, and considers that they would have been instrumental in establishing the distance from which the deceased had been shot, thereby allowing for an examination to be made of the accuracy of the allegations raised by the applicants that their relatives had been killed unlawfully.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Another serious failure in the investigation was the omission to look for fingerprints on the rifles allegedly found next to the bodies of the applicants\u2019 relatives. Although this particular failure was also voiced by the applicants during the course of the investigation at the national level, no response was given to them. Similarly, the Government did not deal with that failure, and did not seek to provide an explanation for it. The Court considers that a search for fingerprints should have been the logical starting point for the prosecutor in the investigation, especially given that, as examined above, the bodies of the applicants\u2019 relatives had been carried by the soldiers who killed them, and the risk of transfer of gunpowder residue from the soldiers\u2019 hands was a real possibility. In view of that failure, the Court harbours doubts about whether the applicants\u2019 deceased relatives had handled those weapons and fired at the soldiers (see G\u00fclbahar \u00d6zer and Others, cited above, \u00a7 68).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court notes that the soldier who had been injured during the operation and who spent twelve days in hospital for an \u201cinjury to the skin of, and a foreign object on the left femur, which is not life-threatening and which can be treated with a simple medical intervention\u201d, was never questioned by the prosecutor. The Court considers that questioning that soldier and establishing the nature of the \u201cforeign object\u201d would have played an important role in assessing whether it was the applicants\u2019 relatives who had opened fire first, as alleged (see paragraph 41 above), and would have presented the prosecutor with an opportunity to examine the accuracy of the applicants\u2019 allegation that the \u201cforeign object\u201d was likely to have been shrapnel from the heavy weaponry used by the soldiers (see paragraph\u00a087 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court has already expressed above the doubts it harbours about whether it had been absolutely necessary to resort to the use of fatal force against the applicants\u2019 relatives, instead of trying to apprehend them by using non-lethal means (see paragraph 113 above). It has also identified and examined above the prosecutor\u2019s readiness to allow the soldiers who killed the applicants\u2019 relatives to secure and collect the evidence and his decision to destroy the applicants\u2019 relatives\u2019 clothes, as well as the same prosecutor\u2019s failure to go to the scene of the incident, to question the soldiers or the soldier who had been injured during the operation, and to look for fingerprints on the weapons allegedly found next to the bodies of the applicants\u2019 relatives. The Court is thus faced with both a number of submissions made by the Government which are contradicted by the documents in the investigation file and which can therefore not be relied upon (see paragraphs 118-124 above), and with an investigation which was not only constructed almost entirely on the basis of documents prepared by the military and the evidence collected by the soldiers who killed the applicants\u2019 relatives, but which was also filled with serious failures highlighted in the preceding paragraphs for which no explanations have been proffered by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court finds that the foregoing is sufficient to conclude that the investigation conducted at the national level was so manifestly inadequate and left so many obvious questions unanswered that it is not capable of establishing the true facts surrounding the killings and the Court is unable to rely on the conclusion reached at the end of that investigation (see \u00d6zcan and Others, cited above, \u00a7 73; G\u00fclbahar \u00d6zer and Others, cited above, \u00a7\u00a07475; and Beker, cited above, \u00a7 53). In the light of the foregoing the Court finds that the Government have failed to discharge their burden of proving that the killing of the applicants\u2019 seventeen relatives constituted a use of force which was no more than absolutely necessary or that it was a proportionate means of achieving the purposes advanced by them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0It follows that there has been a violation of Article 2 of the Convention in its substantive aspect in respect of the killing of the applicants\u2019 seventeen relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court has referred above (see paragraph 114) to the procedural obligation under Article 2 of the Convention to carry out effective investigations when individuals have been killed as a result of the use of force (McCann and Others, cited above, \u00a7 161-63). It has also examined the serious shortcomings in the investigation, which had a negative bearing on the establishment of the facts and which, as a result, entailed the result that the Government were unable to discharge their burden to justify the killings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0Although those serious shortcomings are sufficient to conclude that the Government have also failed to comply with their procedural obligation to carry out an effective investigation, the Court deems it appropriate to examine separately the applicants\u2019 remaining complaint concerning the effectiveness of the investigation from the standpoint of the above-mentioned procedural obligation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The applicants complained that they had been \u201cousted\u201d from the investigation at the outset, because the investigation file had been categorised as \u201cconfidential\u201d by a judge at the request of the prosecutor and they had therefore been unable to take any part in the investigation. The judge\u2019s decision had also prevented them from seeing the investigation file until it was submitted to the Court by the Government and then forwarded to them by the Court in September 2009 (see paragraph 89 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Government maintained that the prosecutor had conducted an investigation which was in compliance with the requirements of Article 2 of the Convention and that in doing so he had not ignored any small detail or evidence and had conducted the entire investigation swiftly, completing it within one year. In doing so, the prosecutor had taken into consideration all the allegations made by the relatives of the deceased and had met all their demands.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court reiterates that there must be a sufficient element of public scrutiny of the investigation or its results to secure accountability in practice as well as in theory. The degree of public scrutiny required may well vary from case to case. In all instances, however, the next of kin of the victim must be involved in the procedure to the extent necessary to safeguard their legitimate interests (see G\u00fcle\u00e7 v. Turkey, 27 July 1998, \u00a7\u00a082, Reports of Judgments and Decisions 1998IV; see also Dink v.\u00a0Turkey, nos.\u00a02668/07, 6102/08, 30079/08, 7072/09 and 7124/09, \u00a7 89, 14\u00a0September 2010).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court observes that the very first step taken by the prosecutor immediately after the first official complaint was made to him about the killings was to ask the Magistrates\u2019 Court to restrict the applicants\u2019 access to the file because they were related to \u201cthe deceased members of the terrorist organisation\u201d (see paragraph 44 above). The Court is not convinced by that reasoning and finds that it effectively prevented the applicants from taking any meaningful part in the investigation. The obstacles placed in the way of the applicants\u2019 efforts to safeguard their legitimate interests by the Magistrates\u2019 Court\u2019s decision were well illustrated in the complaint they submitted to the Ovac\u0131k prosecutor. At the beginning of that complaint the applicants stated that \u201cthe arguments they were making were inevitably based only on the autopsy reports and the things they had heard or witnessed personally; as their access to the investigation had been prevented, they had not had the opportunity to have access to any of the evidence or the information in the prosecutor\u2019s file\u201d (see paragraph\u00a052 above). Nevertheless, that complaint did not spur the prosecutor to give thought to his obligation to ensure the applicants\u2019 participation in the investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The Court is also unable to accept the Government\u2019s submissions that the decision to classify the investigation as confidential did not prevent the relatives from accessing the file because in the Government\u2019s opinion that decision had only restricted taking \u201csome documents\u201d from the file and that the file had always been accessible to the relatives. Unlike the Government, the Court notes that that decision effectively prevented the applicants from seeing any documents in the file, with the exception of the autopsy reports (see paragraph 45 above) and subsequently the documents concerning the forensic examination of the clothes of four of their deceased relatives (see paragraph 59 above). In fact the applicants\u2019 inability to examine the investigation file continued until some three years after the investigation was closed, when those documents were made available to the Court and the Court forwarded them to the applicants (see paragraph\u00a089 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0In the light of the serious failures noted above, the Court cannot accept the submissions made by the Government that \u201cthe prosecutor had taken into consideration all the allegations made by the relatives of the deceased and had met all their demands\u201d. It notes that a very large number of pertinent requests made by the applicants, such as asking the prosecutor to visit the area, to question the soldiers, to establish what weapons had been used by those soldiers, to look for fingerprints on the rifles, and to try and eliminate the inconsistencies between the Kemah and Ovac\u0131k military reports, were not taken on board by the prosecutor. In fact, it seems that only one of the requests made by the applicants was granted by the investigating authorities, namely to send the undestroyed clothes for forensic examination (see paragraph 46 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0The foregoing considerations are sufficient to enable the Court to conclude that the national authorities failed to carry out an effective investigation into the killing of the applicants\u2019 relatives.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": ".\u00a0\u00a0There has accordingly been a violation of Article 2 of the Convention in its procedural aspect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0The applicants complained under Article 3 of the Convention that the manner in which the bodies of their relatives had been exhibited at the military base constituted inhuman and degrading treatment. They also complained that the prosecutor had not investigated this particular complaint and that they therefore had not had an effective remedy within the meaning of Article 13 of the Convention in respect of their complaint under Article\u00a03 of the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Government contested that argument.",
+                                "elements": []
+                            },
+                            {
+                                "content": ".\u00a0\u00a0The Court considers that this complaint should be examined solely from the standpoint of Article 3 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Government argued that the applicants had not brought before the national authorities the allegation that their rights under Article 3 of the Convention had been breached and they had therefore failed to comply with the obligation to exhaust domestic remedies.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants disagreed with the Government\u2019s submissions and maintained that on a number of occasions they had raised their complaints concerning the exhibition of the bodies of their relatives and had continued to maintain those complaints despite having been excluded from the investigation procedure.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes that the applicants complained to the national authorities on a number of occasions about the displaying of the bodies of their relatives (see paragraphs 42-43, 52, 55-56 above). Having regard to the nature of their complaint, the Court does not consider that their failure to refer expressly to Article 3 of the Convention means that they failed to comply with the requirement to exhaust domestic remedies. It therefore rejects the Government\u2019s objection to the admissibility of this complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants argued that their relatives\u2019 naked bodies had been displayed at the military base without showing any respect for their privacy or memory and in front of a large number of military personnel who had nothing to do with the investigation. As a result of the bodies of their relatives being displayed in such an undignified fashion the applicants argued that they had felt degraded. They submitted that the authorities could have behaved more sensitively and could at least have blocked the bodies from view with a screen; it was the failure to give thought to taking such simple measures that had been in breach of Article 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Government submitted that the bodies had been displayed at the military base for the purpose of identification. After the necessary examinations had been carried out on the bodies, the prosecutor had ordered that the bodies be returned to their relatives. The security forces had called the relatives, showed them the bodies, and handed to each their deceased relative. Doing so had been the most effective way to identify the relatives. The authorities had not acted with the intention to degrade the bodies or the relatives.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court reiterates that Article 3 of the Convention enshrines one of the fundamental values of a democratic society. Even in the most difficult of circumstances, such as the fight against terrorism or organised crime, the Convention prohibits in absolute terms torture or inhuman or degrading treatment or punishment. Unlike most of the substantive clauses of the Convention and of its Protocols, Article 3 of the Convention makes no provision for exceptions, and no derogation from it is permissible under Article\u00a015 even in the event of a public emergency threatening the life of the nation (see, among other authorities, Aksoy v. Turkey, 18 December 1996, \u00a7\u00a062, Reports 1996-VI).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court also reiterates that ill-treatment must attain a minimum level of severity if it is to fall within the scope of Article 3 of the Convention. The assessment of this minimum is relative: it depends on all the circumstances of the case, such as the duration of the treatment, its physical and/or mental effects, and in some cases the sex, age and state of health of the victim (see, among other authorities, Ireland v. the United Kingdom, 18 January 1978, \u00a7 162, Series A no. 25).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In a number of cases the Court has been called on to examine whether the distress caused to relatives by certain actions by members of the Turkish security forces during or after their military operations in the south-east of Turkey amounted to ill-treatment contrary to Article 3 of the Convention. For example, in its judgment in the case of Benzer and Others (cited above, \u00a7\u00a7 209-213), the Court found that seeing the bodies of their close relatives who had been bombed by military aircraft and having to collect what was left of their bodies and burying them in mass graves, coupled with the lack of the slightest concern for human life on the part of the pilots who bombed the villages and their superiors who ordered the bombings and the national authorities\u2019 failure to offer even the minimum humanitarian assistance to the applicants in the aftermath of the bombing, amounted to inhuman treatment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In Akkum and Others v. Turkey (no. 21894/93, \u00a7 259, ECHR 2005II (extracts)) the Court examined the mutilation of the body of a person after his death in an area where a military operation had been conducted, and concluded that the anguish caused to the father of the deceased whose body had been mutilated amounted to degrading treatment (see also Akp\u0131nar and Altun v. Turkey, no. 56760/00, \u00a7\u00a7 86-87, 27\u00a0February 2007).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Turning to the circumstances of the present application, it is not disputed between the parties that after the operation had ended the bodies of the applicants\u2019 relatives were brought to the Ovac\u0131k District Gendarmerie Command, where they were placed outdoors, stripped of their clothes and examined by the prosecutor and two doctors (see paragraph 30 above). The Court also notes that the applicants\u2019 allegation that the bodies of their relatives could be seen by a number of soldiers in the military base was not disputed by the respondent Government.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In this connection the Court notes that the Government\u2019s version of events, namely that after the necessary examinations had been carried out on the bodies the prosecutor had ordered the bodies to be returned to the relatives and that the security forces had called the relatives, shown them the bodies and handed over to each the body of their deceased relative (see paragraph 158 above), is contradicted by the documents in the investigation file. Contrary to what was suggested by the Government, after the prosecutor concluded his examination the bodies were not given to the relatives but taken to the Malatya Branch of the Forensic Medicine Institute for autopsies to be carried out (see paragraph 31 above).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Having regard to the statements taken from some of the applicants by various prosecutors subsequently, it is not clear how many of the applicants personally saw the body of their relative in the military base (see paragraph\u00a056 above). Nevertheless, regardless of whether or not the applicants did so in person, in view of their knowledge of the conditions in which the bodies of their relatives were examined in the military base, the Court has little doubt that the applicants must have endured mental suffering (see, mutatis mutandis, Sabanchiyeva and Others v. Russia, no. 38450/05, \u00a7\u00a0108, ECHR 2013 (extracts)). The Court\u2019s task is therefore to ascertain whether, in view of the specific circumstances of the case, the applicants\u2019 suffering had a dimension capable of bringing it within the scope of Article\u00a03 of the Convention (ibid., \u00a7 109).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court observes that the Government have not sought to argue that lack of space in the building necessitated the carrying out of the prosecutor\u2019s examination and the identification procedure outdoors, and the Court cannot speculate as to whether that was the reason. Nevertheless, the Court considers that thought could have been given by the authorities to the dignity of the deceased and their relatives\u2019 feelings, by taking the simple step of using a screen to block the bodies from view and thus carrying out the necessary procedure in a more appropriate manner.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Court considers that the circumstances of the present application distinguish it from the cases referred to above in which the Court found violations of Article 3 of the Convention. It notes that the acts in question in those cases, such as the mutilation of the bodies, burning the houses, and bombing civilians with fighter jets had been carried out deliberately and without any lawful excuse. In the present case, however, the applicants\u2019 suffering stemmed from a lawful action carried out by the prosecutor who was performing his duties to investigate but who failed to appreciate the consequences of his actions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0In the light of the foregoing, and having particular regard to the purpose of the treatment, which was to carry out examinations on the bodies by a prosecutor and doctors, the Court cannot find that the circumstances give the applicants\u2019 suffering a dimension and character distinct from the emotional distress which may be regarded as inevitably caused to any family member of a deceased person in a comparable situation. The Court is therefore unable to find a violation of Article 3 of the Convention (ibid. \u00a7\u00a0113).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": ".\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants submitted that, owing to difficulties in documenting the pecuniary damage they had suffered they were unable to make a claim under that heading.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0They claimed that they had suffered shock and indescribable pain on account of the disproportionate use of force against their relatives and the hateful and barbaric nature of their killings, coupled with the failure to carry out an investigation into the killings and to bring those responsible to justice. In order to alleviate some of their pain and suffering, each of the seventeen applicants claimed 75,000 euros (EUR) in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Government considered the sums to be excessive and unacceptable, and argued that awarding them would lead to unjust enrichment. They asked the Court not to make any awards, because in their opinion the applicants had failed to produce any concrete evidence to prove their alleged losses, or to make an award for an equitable sum without allowing the compensation procedure to be exploited by way of introducing exaggerated claims lacking evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Having regard to the applicants\u2019 suffering on account of the killing of their close relatives by the soldiers which, contrary to the Government\u2019s submissions, does not require substantiation, the Court awards each of the seventeen applicants EUR 65,000 in respect of non-pecuniary damage (see G\u00fclbahar \u00d6zer and Others, cited above, \u00a7 85).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The applicants also claimed 30,090 Turkish liras (TRY, approximately EUR\u00a013,677) for costs and expenses incurred both before the domestic authorities and before the Court. In support of this claim the applicants submitted to the Court two official tax receipts, showing that they had paid their lawyers the total sum of TRY 30,090 on 21 October 2009.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0The Government asked the Court not to make any award to the applicants for their claim for costs and expenses, because they were of the opinion that the applicants had not submitted any documentary evidence. They argued that all expenses claims must be based on invoices. Moreover, the expenses relating to the procedure before the domestic authorities could not be added to the expenses incurred before the Court. Furthermore, only expenses actually incurred could be reimbursed. In the present case, \u201csuch a great amount for costs and expenses could not [have been] spent by the applicants\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In response to the Government\u2019s argument concerning the costs and expenses relating to the proceedings at the national level, the Court reiterates that, if it finds that there has been a violation of the Convention, it may award the applicant the costs and expenses incurred before the domestic courts for the prevention or redress of the violation (see Soci\u00e9t\u00e9 Colas Est and Others v. France, no. 37971/97, \u00a7 56, ECHR 2002-III, and the cases cited therein). In the present case the applicants brought the substance of their Convention rights, that is, their relatives\u2019 right to life, to the attention of the national authorities and were represented by their lawyers throughout the proceedings. The Court thus considers that the applicants have a valid claim in respect of the costs and expenses incurred at the national level.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0As for the Government\u2019s allegation that the applicants did not submit any documentary evidence such as invoices, the Court observes that the applicants did in fact send two official tax receipts showing that they had already paid their lawyers the sum claimed by them.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": ".\u00a0\u00a0Regard being had to the documents in its possession and the above criteria, and taking into account the steps taken by the lawyers when representing the seventeen applicants both before the national authorities and before the Court, the Court considers it reasonable to award the applicants the sum claimed by them in full, that is EUR 13,677, for the costs and expenses in the domestic proceedings and in the proceedings before the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": ".\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 2 of the Convention in its substantive aspect on account of the killing of the applicants\u2019 seventeen relatives;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 2 of the Convention in its procedural aspect on account of the failure to carry out an effective investigation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of Article 3 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 26 April 2016, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Appendix",
+                        "elements": []
+                    },
+                    {
+                        "content": "List of applicants",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0Mustafa Cang\u00f6z, born in 1924, lives in Tunceli.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Fatma Hanbayat, born in 1931, lives in Bursa.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Bahriye \u00dcnsal, born in 1947, lives in Ankara.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Tevfik Fikret Sayg\u0131l\u0131, born in 1934, lives in Ankara.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0H\u0131d\u0131r Sabur, born in 1957, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Nari Ata\u015f, born in 1928, lives in Tunceli.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Zekiye \u00c7akmak, born in 1939, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Hatice Karao\u011flu, born in 1937, lives in Gaziantep.",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0\u0130mi\u015f Y\u0131ld\u0131z, born in 1950, lives in Tunceli.",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0\u0130brahim Turgut, born in 1953, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Elif G\u00fcler, born in 1974, lives in \u0130zmir.",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Mehmet Akdeniz, born in 1944, lives in Mu\u015f.",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0G\u00fcls\u00fcm Perkta\u015f, born in 1950, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "14.\u00a0\u00a0\u015e\u00fckran Can, born in 1964, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "15.\u00a0\u00a0Teslim Y\u0131ld\u0131z, born in 1957, lives in Manisa.",
+                        "elements": []
+                    },
+                    {
+                        "content": "16.\u00a0\u00a0Erdal Kantar, born in 1963, lives in Istanbul.",
+                        "elements": []
+                    },
+                    {
+                        "content": "17.\u00a0\u00a0Dilek \u00c7ak\u0131c\u0131, born in 1964, lives in the Netherlands.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Julia Laffranque",
+            "role": "president"
+        },
+        {
+            "name": "I\u015f\u0131l Karaka\u015f",
+            "role": "judges"
+        },
+        {
+            "name": "Neboj\u0161a Vu\u010dini\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Valeriu Gri\u0163co",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Jon Fridrik Kj\u00f8lbro",
+            "role": "judges"
+        },
+        {
+            "name": "Georges Ravarani",
+            "role": "judges"
+        },
+        {
+            "name": "Abel Campos",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF CANG\u00d6Z AND OTHERS v. TURKEY",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-162199.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2016:0426JUD000746906",
+    "externalsources": [],
+    "extractedappno": [
+        "7469/06",
+        "1989/65",
+        "50385/99",
+        "19807/92",
+        "23038/07",
+        "24014/05",
+        "27866/03",
+        "18893/05",
+        "44125/06",
+        "52391/99",
+        "651/10",
+        "23502/06",
+        "10036/03",
+        "15397/02",
+        "2668/07",
+        "6102/08",
+        "30079/08",
+        "7072/09",
+        "7124/09",
+        "21894/93",
+        "56760/00",
+        "38450/05",
+        "37971/97"
+    ],
+    "importance": "2",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-162199",
+    "judgementdate": "26/04/2016 00:00:00",
+    "kpdate": "26/04/2016 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "595",
+        "231",
+        "4",
+        "496",
+        "350",
+        "90",
+        "216",
+        "577",
+        "283",
+        "354"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "5",
+    "paragraphs": [
+        "2-1",
+        "3",
+        "2",
+        "2-2",
+        "41"
+    ],
+    "parties": [
+        "CANG\u00d6Z AND OTHERS",
+        "TURKEY"
+    ],
+    "rank": "1510.93884277344",
+    "representedby": [
+        "KIRD\u00d6K M.",
+        "HANBAYAT M.",
+        "KIRD\u00d6K M. A.",
+        "ELBAN H. K."
+    ],
+    "respondent": "TUR",
+    "respondentOrderEng": "47",
+    "scl": [
+        "Akkum and Others v. Turkey (no. 21894/93, \u00a7 259, ECHR 2005 II (extracts)",
+        "Akp\u0131nar and Altun v. Turkey, no. 56760/00, \u00a7\u00a7 86-87, 27 February 2007",
+        "Aksoy v. Turkey, 18 December 1996, \u00a7 62, Reports 1996-VI",
+        "Beker v. Turkey, no. 27866/03, \u00a7\u00a7 44 and 53, 24 March 2009",
+        "Bekta\u015f and \u00d6zalp v. Turkey, no. 10036/03, \u00a7 65, 20 April 2010",
+        "Benzer and Others v. Turkey, no. 23502/06, 12 November 2013",
+        "Dink v. Turkey, nos. 2668/07, 6102/08, 30079/08, 7072/09 and 7124/09, \u00a7 89, 14 September 2010",
+        "Erdo\u011fan and Others v. Turkey, no. 19807/92, 25 April 2006",
+        "G\u00fclbahar \u00d6zer and Others v. Turkey, no. 44125/06, 2 July 2013",
+        "G\u00fcle\u00e7 v. Turkey, 27 July 1998, \u00a7 82, Reports of Judgments and Decisions 1998 IV",
+        "Ireland v. the United Kingdom, 18 January 1978, \u00a7 162, Series A no. 25",
+        "Kavakl\u0131o\u011flu and Others v. Turkey, no. 15397/02, \u00a7 86, 6 October 2015",
+        "Makaratzis v. Greece [GC], no. 50385/99, \u00a7 60, ECHR 2004 XI",
+        "Makbule Kaymaz and Others v. Turkey, no. 651/10, \u00a7 142, 25 February 2014",
+        "McCann and Others v. the United Kingdom, 27 September 1995, Series A no. 324",
+        "Mustafa Tun\u00e7 and Fecire Tun\u00e7 v. Turkey [GC], no. 24014/05, \u00a7 172, 14 April 2015",
+        "\u00d6zcan and Others v. Turkey, no. 18893/05, 20 April 2010",
+        "Ramsahai and Others v. the Netherlands [GC], no. 52391/99, ECHR 2007\u2011II",
+        "Sabanchiyeva and Others v. Russia, no. 38450/05, ECHR 2013 (extracts)",
+        "Soci\u00e9t\u00e9 Colas Est and Others v. France, no. 37971/97, \u00a7 56, ECHR 2002-III",
+        "\u00dcl\u00fcfer v. Turkey, no. 23038/07, \u00a7 64, 5 June 2012"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "454832",
+    "typedescription": "15"
+}

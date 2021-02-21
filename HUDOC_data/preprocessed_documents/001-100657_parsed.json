@@ -1,0 +1,603 @@
+{
+    "__articles": "8;8-1;8-2;13;13+8;34;35;35-1",
+    "__conclusion": "Violation of Art. 8;Violation of Art. 13+8;Remainder inadmissible",
+    "applicability": "",
+    "appno": "12451/04",
+    "article": [
+        "13",
+        "8",
+        "35",
+        "34"
+    ],
+    "conclusion": [
+        {
+            "article": "8",
+            "base_article": "8",
+            "element": "Violation of Art. 8",
+            "type": "violation"
+        },
+        {
+            "article": "8",
+            "base_article": "8",
+            "element": "Violation of Art. 13+8",
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "element": "Violation of Art. 13+8",
+            "type": "violation"
+        },
+        {
+            "element": "Remainder inadmissible",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-100657.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 12451/04) against  lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by Ukrainian nationals, Mr Vladimir Polishchuk (\u201cthe first applicant\u201d) and Mrs Svetlana Polishchuk (\u201cthe second applicant\u201d), on 20 March 2004.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The Ukrainian Government (\u201cthe Government\u201d) were represented by their Agent, Mr Y. Zaitsev.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 13 March 2009 the President of the Fifth Section decided to give notice of the application to the Government. It was also decided to examine the merits of the application at the same time as its admissibility (Article 29 \u00a7 3).",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicants are spouses. They were born in 1966 and live in Tokmak.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0According to the applicants, in the period between January 2000 and August 2001 the first applicant lived and worked outside Tokmak.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0On 21 January 2001 an unknown person broke six windows in a building near the applicants' flat.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0On 30 January 2001 the Tokmak Town Police Office (\u201cthe Police Office\u201d) instituted a criminal investigation into that event.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0On 20 March 2001 the Police Office, suspecting that the first applicant might have been involved in that event, ordered a search of his residence. The decision to carry out the search was based on the reason that evidence related to the event could be found in the first applicant's home. On the same day the search order was approved by the local prosecutor.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0On 21 March 2001, when the applicants' son was celebrating his birthday with a number of his friends, the police officers entered the applicants' flat to carry out the search. The second applicant, who was in the early stage of pregnancy, objected to the search, stating that the search order contained no reasonable explanation for her or her husband's possible involvement in the crime or for the need to search the flat. In response, the police officers allegedly threatened her and began the search operation in the presence of the guests. The first applicant was absent.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0In the course of the search nothing was identified or seized for the purpose of the investigation.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0On unspecified date the applicants complained to the Zaporizhzhya Region Prosecutor's Office (\u201cthe Regional Prosecutor's Office\u201d) alleging that the search had been unlawful.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0On 12 October 2001 the Regional Prosecutor's Office informed the applicants that following an inquiry it had been established that the search had been carried out without a valid reason, in breach of Article 177 of the Code of Criminal Procedure.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0On 13 November 2001 the Regional Prosecutor's Office informed the applicants that the police officers who had carried out the search had been disciplined.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0On 19 August 2002 the applicants instituted proceedings in the Tokmak District Court against the Police Office, the Regional Prosecutor's Office, and the Zaporizhzhya Region State Treasury Department, seeking to have the search operation declared groundless and unlawful. The second applicant additionally claimed compensation for non-pecuniary damage caused by the unlawful act. She relied on Articles 440-1 and 443 of the Civil Code and on the Act \u201cOn the procedure for compensation for damage caused to citizens by unlawful acts of bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts\u201d (\u201cthe Compensation Act\u201d).",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On 22 May 2003 the Tokmak District Court considered the applicants' claims. As to the first applicant, the court found that the search had been carried out two months after the crime and there had not been sufficient grounds to believe that evidence could be found in the applicants' home. The court therefore allowed his claim and declared that the search had been groundless and unlawful. As to the second applicant, the court examined the invoked provisions of the Civil Code and the Compensation Act and concluded that damage caused by the procedural acts of bodies of inquiry, investigative authorities, prosecutor's offices and courts could be compensated only in cases provided for by the Compensation Act. It further stated that the search had been carried out in connection with the suspicion against the first applicant only; the second applicant was not entitled to claim damages for procedural acts which had been carried out in respect of another person. For those reasons it rejected the second applicant's claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0On 26 August 2003 the applicants appealed against the judgment of 22\u00a0May 2003, stating, inter alia, that the first applicant had not suffered any damage on account of the unlawful search, and that it had been the second applicant who had incurred damage, as she had been present in the flat at the time.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0On 16 December 2003 the Zaporizhzhya Region Court of Appeal endorsed the rejection of the claim of the second applicant, reconfirming that it was only the Compensation Act that had to be applied and that under that provision the second applicant could not claim any damages, since the search had been carried out only in connection with the first applicant, who had been a suspect in the criminal proceedings. The court further quashed the judgment of 22 May 2003 as regards the claim of the first applicant and dismissed it, stating that such a claim had to be considered in the course of relevant criminal proceedings.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0On 8 January 2004 the applicants appealed in cassation against the decision of 16 December 2003, reiterating in particular that it had been the second applicant, but not the first, who had suffered damage on account of the unlawful acts. They asked the Supreme Court to adopt a new judgment satisfying the claim of the second applicant.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0On 31 January 2006 the Supreme Court rejected the applicants' cassation appeal as unsubstantiated.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Code of Criminal Procedure of 28 December 1960 (as worded at the material time)",
+                                "elements": [
+                                    {
+                                        "content": "20.\u00a0\u00a0The relevant extracts of the Code provide as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 110: Challenging acts and decisions of bodies of inquiry",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cActs and decisions of a body of inquiry can be challenged before the prosecutor, while their decisions on termination of criminal proceedings can also be challenged before the courts ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 177: Grounds for a search operation",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cA search shall be carried out if there are sufficient grounds to believe that the means of committing an offence ... and other items and documents important for the case are kept on certain premises. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 234: Challenging investigators' acts",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cInvestigators' acts can be challenged before a prosecutor ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Code of Civil Procedure of 18 March 2004",
+                                "elements": [
+                                    {
+                                        "content": "21.\u00a0\u00a0In accordance with Article 355 of the Code, an application for review of the civil case may be submitted on the ground that an international judicial authority, whose jurisdiction was recognised by Ukraine, found that  violated its international obligations in the course of consideration of the civil case by the courts.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Civil Code of 18 July 1963 (in force at the material time)",
+                                "elements": [
+                                    {
+                                        "content": "22.\u00a0\u00a0The relevant extracts of the Code provide as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 440-1: Compensation for non-pecuniary damage",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cNon-pecuniary damage caused to a citizen or an organisation ... shall be compensated by the person who has caused that damage unless the latter proves not to have been guilty. ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 443: Responsibility for damage caused by the unlawful acts of bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cDamage caused to a citizen by unlawful conviction, unlawful bringing to criminal responsibility, unlawful pre-trial detention in the course of criminal proceedings, unlawful imposition of such administrative penalties as arrest or correctional labour shall be compensated for by the State in full regardless of the guilt of the officials of the bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts, in accordance with the procedure established by the law.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The Act \u201cOn procedure for compensation for damage caused to citizens by the unlawful acts of bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts\u201d of 1\u00a0December 1994 (as worded at the material time)",
+                                "elements": [
+                                    {
+                                        "content": "23.\u00a0\u00a0The relevant provisions of the Act can be found in the judgment of Volokhy v. Ukraine (no. 23543/02, \u00a7\u00a028, 2 November 2006).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Resolution No. 4 of the Plenary Supreme Court of 31 March 1995 \u201cOn the judicial practice in cases of compensation for moral (non-pecuniary) damage\u201d",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0In accordance with paragraph 7 of this Resolution, moral (nonpecuniary) damage shall be compensated to the physical person or legal entity whose rights have been directly affected by the unlawful acts (inactivity) of the other persons.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "25.\u00a0\u00a0The applicants complained that the search of their home was carried out in breach of Article 8 of the Convention, which reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to respect for his private and family life, his home and his correspondence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "2.\u00a0\u00a0There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0As to the applicants' victim status",
+                                        "elements": [
+                                            {
+                                                "content": "26.\u00a0\u00a0The Court reiterates that it falls first to the national authorities to redress any violation of the Convention. In this regard, the question whether an applicant can claim to be the victim of the violation alleged is relevant at all stages of the proceedings under the Convention (see, inter alia, Siliadin v. France, no. 73316/01, \u00a7 61, ECHR 2005-VII). A decision or measure favourable to the applicant is not in principle sufficient to deprive him of his status as a \u201cvictim\u201d for the purposes of Article 34 of the Convention unless the national authorities have acknowledged, either expressly or in substance, and then afforded redress for, the breach of the Convention (see, inter alia, Dalban v. Romania [GC], no. 28114/95, \u00a7 44, ECHR 1999-VI; and Siliadin, cited above, \u00a7 62).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "27.\u00a0\u00a0The Court notes that the domestic authorities unequivocally acknowledged that the search in the applicants' flat had been carried out groundlessly and unlawfully (see paragraph 12 above). This acknowledgment corresponded to the substance of the applicants' complaint under Article 8 of the Convention. Accordingly, the question remains whether sufficient redress was afforded to the applicants on account of the alleged violation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "28.\u00a0\u00a0In this respect the Court observes that after the search was declared unlawful the police officers involved were disciplined (see paragraph 13 above). The Court considers that those disciplinary measures must have had remedial effect on the applicants. Still, the Court has to ascertain whether, in addition to those measures, the applicants should have been paid compensation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "29.\u00a0\u00a0As regards the first applicant, it appears that he did not live in Tokmak at the relevant time. The Court further notes that the first applicant never complained before the domestic authorities that he had suffered any damage as a result of the search operation. Moreover, at each level of the domestic judicial proceedings the applicants expressly submitted that it was not the first applicant, but the second, who sustained damage.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "30.\u00a0\u00a0In these circumstances the Court considers that after the domestic authorities acknowledged the unlawfulness of the search in question and disciplined the police officers, the first applicant obtained sufficient redress on account of the unlawful search and could no longer be regarded as a victim of the alleged violation of Article\u00a08 of the Convention (see, mutatis mutandis, Watkins v. the United Kingdom (dec.), no. 35757/06, 6 October 2009, and Ob\u010dianske zdru\u017eenie \u017di a nechaj \u017ei\u0165 v. Slovakia (dec.), no.\u00a013971/03, 9 February 2010). It therefore rejects the relevant part of the application in accordance with Articles 34 and 35\u00a0\u00a7\u00a7\u00a03 and 4 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "31.\u00a0\u00a0The Court cannot, however, make the same conclusion in relation to the second applicant. It notes that, unlike the first applicant, she did claim compensation for damage in addition to the measures taken by the domestic authorities. Having regard to the factual circumstances of the alleged violation, the Court considers that it is more appropriate to determine the question of the second applicant's victim status together with the substantive issues of her complaint under Article 8 of the Convention (see, for example, Biriuk v. Lithuania, no. 23373/03, \u00a7 26, 25 November 2008). Accordingly, it joins this issue to the merits.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0As to the exhaustion of domestic remedies",
+                                        "elements": [
+                                            {
+                                                "content": "32.\u00a0\u00a0The Government contended that the second applicant submitted a claim for damages relying on the Compensation Act, which was manifestly inapplicable to her case. They insisted that she should have submitted a claim for damages relying exclusively on the general provisions of the Civil Code (Article 440-1 of the Civil Code in particular). As an example of the practical effectiveness of such a remedy they supplied a decision taken by a first-instance court by which the plaintiffs were awarded damages from a pre-trial detention centre on account of inadequate medical care dispensed in that facility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "33.\u00a0\u00a0The second applicant disagreed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "34.\u00a0\u00a0The Court does not accept the Government's objection. It notes that the civil claim filed by the second applicant explicitly referred both to the general provisions of the Civil Code and the provisions of the Compensation Act. There was no sense in the second applicant introducing another civil claim based exclusively on the provisions of the Civil Code. Moreover, the position of the domestic courts was that damage caused by unlawful procedural acts of bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts could be compensated only in the cases provided for by the Compensation Act, which they viewed as lex specialis in relation to the Civil Code.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0As to the exemplary decision supplied by the Government, the Court finds it of no relevance for the present case in particular because it concerned the damage caused by a pre-trial detention centre, which was not a domestic body covered by the Compensation Act.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0It follows that the Government's contention should be rejected as unsubstantiated.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0As to compliance with the six-month rule",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0As an alternative to the non-exhaustion objection, the Government submitted that the second applicant had missed the six-month time-limit since the Compensation Act was not applicable to her case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0The Court reiterates that pursuant to Article 35 \u00a7 1 of the Convention, it may only deal with a matter within a period of six months from the final decision in the process of exhaustion. If no remedies are available or if they are judged to be ineffective, the six-month period in principle runs from the date of the act complained of (see Hazar and Others v. Turkey (dec.), nos. 62566/00 et seq., 10 January 2002). However, special considerations may apply in cases where an applicant first avails himself of a domestic remedy and only at a later stage becomes aware, or should have become aware, of the circumstances which make that remedy ineffective. In such a situation, the six-month period may be calculated from the time when the applicant becomes aware, or should have become aware, of those circumstances (see Bulut and Yavuz v. Turkey (dec.), no. 73065/01, 28 May 2002, and Volokhy, cited above, \u00a7 37).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The Court observes that the present application was introduced on 20\u00a0March 2004 when the second applicant was still in the process of airing her complaint before the domestic courts. As noted above, the applicant's claim was based not exclusively on the Compensation Act but also on the provisions of the Civil Code, which the Government considered to be an appropriate legal framework for obtaining compensation by the second applicant. Accordingly, the second applicant might have also reasonably relied on those legal provisions until, at least, the determination of the case by the court of appeal. Indeed, the application was submitted to the Court within the six-month time-limit after the decision of the court of appeal of 16 December 2004. In view of these considerations, the Court finds that the second applicant can be regarded as having legitimately raised this issue at the domestic level and those procedural steps should not be held against her when deciding the question of the admissibility of the complaint. It therefore rejects the Government's objection to this effect.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Conclusion",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0Having reserved the question of the second applicant's victim status, the Court notes that her complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "41.\u00a0\u00a0The second applicant maintained that there had been a violation of Article\u00a08 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "42.\u00a0\u00a0The Government did not make any submissions on the merits of the complaint.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "43.\u00a0\u00a0The Court finds that the impugned search constituted an interference with right of the second applicant to respect for her private life and home. The question remains whether this interference was justified under paragraph 2 of Article 8 and, more particularly, whether the measure was \u201cin accordance with the law\u201d for the purpose of that paragraph.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "44.\u00a0\u00a0The Court reiterates that the expression \u201cin accordance with the law\u201d in Article 8 \u00a7 2 of the Convention essentially refers back to national law and states the obligation to conform to the substantive and procedural rules thereof (see Panteleyenko v. Ukraine, no. 11901/02, \u00a7 49, 29 June 2006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "45.\u00a0\u00a0In the instant case the Court notes that the fact of the unlawfulness of the search was established twice by the domestic authorities, namely by the Regional Prosecutor's Office and by the Tokmak District Court (see paragraphs 12 and 13 above). While the relevant decision of the Tokmak District Court was subsequently quashed, the substance of its conclusions had not been called into question by the higher courts. Moreover, the results of the inquiry of the Regional Prosecutor's Office concerning the unlawfulness of the search had never been challenged. The Court does not see any reason to depart from those conclusions of the domestic authorities and finds that the search was carried out contrary to domestic law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "46.\u00a0\u00a0The Court further notes that, while the domestic authorities declared the search unlawful and disciplined the police officers, they did not offer any compensation to the second applicant. It appears, however, that the search was carried out in the presence of the second applicant and the guests who had been invited to celebrate the birthday of the applicants' son.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "47.\u00a0\u00a0Having regard to these particular circumstances, the Court considers that a compensatory measure, unsuccessfully requested by the second applicant, was decisive for the loss of victim status by the second applicant. The Court therefore holds that, in as much as the second applicant has not been awarded any compensation, she can still claim to be a victim under Article 8 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "48.\u00a0\u00a0 The Court further finds that since the interference in question was contrary to national law, as established by the domestic proceedings, it did not satisfy the requirement of lawfulness provided by Article 8 of the Convention. It follows that there has been a violation of that provision.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "49.\u00a0\u00a0The second applicant complained under Article 6 of the Convention that the domestic courts had unfairly considered her claim for damages in connection with the unlawful search.",
+                                "elements": []
+                            },
+                            {
+                                "content": "50.\u00a0\u00a0The Court notes that the claim of the second applicant was rejected for the reason that under the domestic law she had no right to compensation for the unlawful search of the flat. Given that the complaint indicated the existence of a legislative gap, the Court decided to examine it from the standpoint of Article\u00a013 of the Convention (see, mutatis mutandis, Z and Others v. the United Kingdom [GC], no. 29392/95, \u00a7 102-103, ECHR\u00a02001V; Volokhy, cited above, \u00a7\u00a7 55-61; and Iliya Stefanov v.\u00a0Bulgaria, no. 65755/01, \u00a7\u00a7 57-60, 22 May 2008).",
+                                "elements": []
+                            },
+                            {
+                                "content": "51.\u00a0\u00a0Article 13 of the Convention reads as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "52.\u00a0\u00a0The Court notes that the complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 of the Convention. It notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "53.\u00a0\u00a0The Government maintained their position that the second applicant had an effective remedy at her disposal. They repeated their submissions under Article 8 of the Convention that the second applicant could have lodged a civil claim based exclusively on the Civil Code. The second applicant disagreed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "54.\u00a0\u00a0The Court refers to its findings in paragraphs 34 and 35 above and notes that another civil claim based exclusively on the provisions of the Civil Code would have been useless for the second applicant, since she had invoked those legal provisions in her first claim. It further notes that the domestic courts dealing with her claim concluded that damage caused by unlawful procedural acts of bodies of inquiry, pre-trial investigation authorities, prosecutor's offices and courts could be compensated only in the cases provided for by the Compensation Act, which they viewed as lex specialis in relation to the Civil Code. The domestic courts further held that the second applicant could not claim damages under the Compensation Act as she was not directly involved in the criminal proceedings in question.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "55.\u00a0\u00a0Accordingly, the approach taken by the domestic courts suggests that any civil claim by the second applicant based either on the Civil Code, the Compensation Act, or a combination thereof would have been rejected. The Court notes that, as a result of such restricted interpretation of the domestic law, the rights of the second applicant had not been fully protected at the domestic level.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "56.\u00a0\u00a0The Court further notes that the Government did not point to any other avenue which the second applicant could have used to obtain compensation for the breach of her right under Article 8 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "57.\u00a0\u00a0In these circumstances the Court considers that there has been a violation of Article 13 of the Convention.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "58.\u00a0\u00a0The applicants complained under Article 6\u00a0\u00a7\u00a01 of the Convention that the domestic courts took too long to deal with their civil claims. The first applicant also complained under the same provision of the Convention that the domestic courts had been unfair when examining his claim.",
+                                "elements": []
+                            },
+                            {
+                                "content": "59.\u00a0\u00a0Having considered the applicants' submissions in the light of all the material in its possession, the Court finds that, in so far as the matters complained of are within its competence, they do not disclose any appearance of a violation of the rights and freedoms set out in the Convention.",
+                                "elements": []
+                            },
+                            {
+                                "content": "60.\u00a0\u00a0It follows that this part of the application must be declared inadmissible as being manifestly ill-founded, pursuant to Article 35 \u00a7\u00a7 3 and\u00a04 of the Convention.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "61.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "62.\u00a0\u00a0The applicants did not submit a claim for just satisfaction. Accordingly, the Court considers that there is no call to award them any sum on that account.",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT UNANIMOUSLY",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the application of the first applicant inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Joins to the merits the issue of the second applicant's victim status;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Declares the complaints of the second applicant concerning the search of her home (Article 8 of the Convention) and the lack of effective remedies for obtaining redress on that account (Article 13 of the Convention) admissible and the remainder of her complaints inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been a violation of Article 8 of the Convention in respect of the second applicant and that she can still claim to be a victim of that violation;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention in respect of the second applicant.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 30 September 2010, pursuant to Rule 77 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Renate Jaeger",
+            "role": "president"
+        },
+        {
+            "name": "Karel Jungwiert",
+            "role": "judges"
+        },
+        {
+            "name": "Rait Maruste",
+            "role": "judges"
+        },
+        {
+            "name": "Mark Villiger",
+            "role": "judges"
+        },
+        {
+            "name": "Mirjana Lazarova Trajkovska",
+            "role": "judges"
+        },
+        {
+            "name": "Zdravka Kalaydjieva",
+            "role": "judges"
+        },
+        {
+            "name": "Ganna Yudkivska",
+            "role": "judges"
+        },
+        {
+            "name": "Stephen Phillips",
+            "role": "deputy section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF VLADIMIR POLISHCHUK AND SVETLANA POLISHCHUK v. UKRAINE",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-100657.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2010:0930JUD001245104",
+    "externalsources": [],
+    "extractedappno": [
+        "12451/04",
+        "23543/02",
+        "73316/01",
+        "28114/95",
+        "35757/06",
+        "13971/03",
+        "23373/03",
+        "62566/00",
+        "73065/01",
+        "11901/02",
+        "29392/95",
+        "65755/01"
+    ],
+    "importance": "3",
+    "introductiondate": "",
+    "issue": [
+        "Article 440 of the Civil Code",
+        "Act \u201cOn procedure for compensation for damage caused to citizens by the unlawful acts of bodies of inquiry, pre-trial investigation authorities, prosecutor\u2019s offices and courts\u201d of 1 December 1994"
+    ],
+    "itemid": "001-100657",
+    "judgementdate": "30/09/2010 00:00:00",
+    "kpdate": "30/09/2010 00:00:00",
+    "kpthesaurus": [
+        "444",
+        "110",
+        "451",
+        "319",
+        "183",
+        "14"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "23",
+    "paragraphs": [
+        "8",
+        "8-1",
+        "34",
+        "35-1",
+        "8-2",
+        "35",
+        "13"
+    ],
+    "parties": [
+        "VLADIMIR POLISHCHUK AND SVETLANA POLISHCHUK",
+        "UKRAINE"
+    ],
+    "rank": "757.641235351563",
+    "representedby": [
+        "N/A"
+    ],
+    "respondent": "UKR",
+    "respondentOrderEng": "48",
+    "scl": [
+        "Biriuk v. Lithuania, no. 23373/03, \u00a7 26, 25 November 2008",
+        "Bulut and Yavuz v. Turkey (dec.), no. 73065/01, 28 May 2002",
+        "Dalban v. Romania [GC], no. 28114/95, \u00a7 44, ECHR 1999-VI",
+        "Hazar and Others v. Turkey (dec.), nos. 62566/00 et seq., 10 January 2002",
+        "Iliya Stefanov v. Bulgaria, no. 65755/01, \u00a7\u00a7 57-60, 22 May 2008",
+        "Obcianske zdru\u017eenie \u017di a nechaj \u017eit v. Slovakia (dec.), no. 13971/03, 9 February 2010",
+        "Panteleyenko v. Ukraine, no. 11901/02, \u00a7 49, 29 June 2006",
+        "Siliadin v. France, no. 73316/01, ECHR 2005-VII",
+        "Volokhy v. Ukraine, no. 23543/02, 2 November 2006",
+        "Watkins v. the United Kingdom (dec.), no. 35757/06, 6 October 2009",
+        "Z and Others v. the United Kingdom [GC], no. 29392/95, \u00a7 102-103, ECHR 2001-V"
+    ],
+    "separateopinion": "FALSE",
+    "sharepointid": "358132",
+    "typedescription": "15"
+}

@@ -1,0 +1,1146 @@
+{
+    "__articles": "3;14;14+3",
+    "__conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+    "applicability": "",
+    "appno": "37966/07",
+    "article": [
+        "14",
+        "3"
+    ],
+    "conclusion": [
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Effective investigation"
+            ],
+            "element": "Violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Effective investigation"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Procedural aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+3 - Prohibition of discrimination",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "Violation of Article 14+3 - Prohibition of discrimination",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Effective investigation"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+3 - Prohibition of discrimination",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Effective investigation"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+3 - Prohibition of discrimination",
+            "mentions": [
+                "Article 3 - Prohibition of torture",
+                "Effective investigation"
+            ],
+            "type": "no-violation"
+        }
+    ],
+    "content": {
+        "001-145229.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 37966/07) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by the ten Russian nationals listed below (\u201cthe applicants\u201d) on 20 August 2007.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicants were represented by lawyers from the Memorial Human Rights Centre and the European Human Rights Advocacy Centre (EHRAC), NGOs practising in Moscow and London. The Russian Government (\u201cthe Government\u201d) were represented by Mr\u00a0G.\u00a0Matyushkin, Representative of the Russian Federation at the European Court of Human Rights.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0The applicants alleged that they had been subjected to ill-treatment due to their ethnic origin, in breach of Articles 3 and 14 of the Convention.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0On 5 April 2012 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "5.\u00a0\u00a0The applicants are:",
+                                "elements": []
+                            },
+                            {
+                                "content": "Dzhamula Antayev, born in 1953;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Malket Antayeva, born in 1965;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Ayub Antayev, born in 1982;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Suleyman Antayev, born in 1987;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Islam Antayev, born in 1992;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Gelani Vashayev, born in 1936;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Nura Eshiyeva, born in 1948;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Ayub Vashayev, born in 1980;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Akraman Vashayev, born in 1984;",
+                                "elements": []
+                            },
+                            {
+                                "content": "Maryan Vashayeva, born in 1978.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0The applicants live in the Vargashinskiy District, Kurgan Region. They are members of two families originally from Chechnya: the first and second applicants are married and the third to fifth applicants are their children; the sixth to seventh applicants are married and the eighth to tenth applicants are their children. The Antayev family (the first to fifth applicants; the first applicant family) have lived in the Kurgan Region since 1979; the Vashayev family (the sixth to tenth applicants; the second applicant family) have lived in the Kurgan Region since 1998.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Events prior to 24 March 2006",
+                                "elements": [
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicants submitted that attitudes towards the Chechen minority had worsened after 2000, when the second armed conflict in Chechnya had started.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "8.\u00a0\u00a0On 8 March 2006 the third and eighth applicants had a fight with Mr\u00a0A.B. in the settlement of Prosekovo. The third applicant was injured in the hand and Mr\u00a0A.B. took him to the hospital. On 27 March 2006 the Kurgan regional forensic bureau noted knife wounds on the third applicant\u2019s hand, which were classified as passing damage to health. According to the applicants, both parties to the conflict decided not to contact the authorities in this regard. As is apparent from subsequent questioning, the Antayev family had asked Mr\u00a0A.B. to pay them 50,000 roubles (RUB) by way of compensation for their expenses, while Mr\u00a0A.B. offered RUB\u00a010,000.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "9.\u00a0\u00a0In March 2006 the Vargashinskiy District Department of the Interior (ROVD) questioned Mr\u00a0A.B. about threats to his life by the third and eighth applicants and opened criminal investigation file no.\u00a0388644 under Article\u00a0119, paragraph 1 of the Criminal Code (threat to life or health). It does not appear that anyone was charged or found guilty within this set of proceedings. In May 2007 Mr\u00a0A.B. submitted a statement to the Court alleging that the police had used threats to force him to lodge a complaint against the first applicant family.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "10.\u00a0\u00a0On 24 March 2006 the investigator in charge of the case issued urgent search warrants at both applicants\u2019 families\u2019 homes, referring to the possible presence of firearms. On 25 March 2006 that decision was found lawful by the district court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Search at the Antayev family home",
+                                "elements": [
+                                    {
+                                        "content": "11.\u00a0\u00a0On 24 March 2006 the first applicant family were at home at 4 Zarechnaya Street, in the Verkhnesuyerskoye settlement in the Vargashinskiy District. At about 1 p.m. three vehicles \u2013 a Gazel minibus, a black Volga and a VAZ-99 \u2013 arrived at their house. According to the applicants, about 20 men from various law-enforcement agencies got out of the vehicles. Some of them were wearing military uniforms and masks, others were dressed in civilian clothes. The applicants later identified Mr\u00a0E.K. and Mr\u00a0V.G. from the Regional Police Department for Combating Organised Crime (RUBOP), Mr.\u00a0A.K., deputy head of the Vargashinskiy ROVD, Mr.\u00a0N.P. and Mr\u00a0U. from the Vargashinskiy ROVD. The RUBOP servicemen carried automatic weapons and hand pistols. Mr\u00a0N.P. was in charge of carrying out the search.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "12.\u00a0\u00a0According to the applicants, no search warrant or other document was produced by the police. The fourth and fifth applicants were in the courtyard; the policemen beat them there and said \u201cWhy don\u2019t you go to Chechnya, to fight us there?\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "13.\u00a0\u00a0The servicemen wearing masks and Mr E.K. entered the house. Mr\u00a0E.K. grabbed the second applicant by the hand and pushed her towards the sofa in order to handcuff her; she fell to the floor and felt severe pain in her back. The first applicant was also punched in his back and legs by Mr\u00a0E.K.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "14.\u00a0\u00a0The third applicant was in the house. He had his sweater pulled over his head and was handcuffed. The servicemen beat him inside the house, then pulled him to the yard and beat him there in front of his brothers and then took him to the barn. According to the applicants, the third applicant\u2019s pants were removed and he was threatened that his genitals would be \u201cpulled off with a wire\u201d; he was then thrown into manure and beaten.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "15.\u00a0\u00a0According to the applicants\u2019 statements, the servicemen mocked the third, fourth and fifth applicants saying that they would not be able to \u201cbeget more Chechens\u201d. They also forced them to shout humiliating comments. They referred to the events in the village of Chastoozerye, where in 2002 two local residents of Chechen origin had been injured by unidentified persons (see application no.\u00a018114/06, Amadayev v. Russia).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "16.\u00a0\u00a0The second applicant saw that the fourth applicant, who suffered from epilepsy, had been brought into the house and was lying on the floor; he was very pale. The second applicant was not allowed to give him medicine.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "17.\u00a0\u00a0The search of the Antayevs\u2019 house lasted for about two hours. At some point Mr\u00a0E.K. announced that he had found a cartridge from a gun. The second applicant alleged that she had seen him taking it out of his pocket.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "18.\u00a0\u00a0The search record of 24 March 2006 drawn up by the ROVD officers mentioned two attesting witnesses and bore their signatures, as well as signatures by the third applicant indicating that he had been informed of his rights and obligations prior to the search and after it had been completed. No remarks or objections were noted in the record. The record listed one 7.62 mm calibre cartridge for an automatic gun which had been found in a drawer in the kitchen, 36 videotapes and eight items of printed material in a foreign language. The copy of the record is partly illegible, but it appears that after the discovery of the cartridge the third applicant, in the presence of two witnesses, stated that he had no knowledge of it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "19.\u00a0\u00a0As is apparent from subsequent documents, in April 2006 eleven videotapes were returned to the first applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "20.\u00a0\u00a0After the search, the first and third applicants were taken by the police to the offices of the local administration, where they were questioned separately for about one hour in relation to the criminal investigation concerning threats to Mr\u00a0A.B. They then returned home.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "21.\u00a0\u00a0A relative of the Vashayevs\u2019 arrived from Kurgan and took the second, third and fourth applicants to hospital.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "22.\u00a0\u00a0According to the certificates issued by the Vargashinskiy district hospital in September 2007, the second applicant remained at the hospital from 24 March to 11 April 2006. She was diagnosed with \u201cacute osteochondrosis [degenerative disc disease], two-sided , post-traumatic coxalgia, hypertension of the second degree and stress\u201d. The third applicant remained at the hospital from 24 March to 1\u00a0April 2006. He was diagnosed with \u201ccontusion of soft tissue in the thoracic-lumbar area\u201d. The fourth applicant was examined on 24 March and left the hospital on 25 March 2006. He suffered from \u201ccontusion of soft tissue in the abdomen\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "23.\u00a0\u00a0The applicants argued that the extent of their injuries was more serious and that the first and fifth applicants had also suffered beatings. Further details of their injuries were recorded by the forensic experts in the course of the criminal investigation (see below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "24.\u00a0\u00a0According to the certificate issued by the Kurgan Medical Centre for spinal trauma correction, the second applicant was treated there between 15\u00a0June and 6 July 2006. She was diagnosed with a displaced fracture of the tail bone (coccyx), resulting from the fall on 24 March 2006. On 22 June 2006 the second applicant was successfully operated on her spine.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The applicants submitted their own statements to the Court dated August 2006 describing these events; they also referred to the documents submitted by them and collected during the criminal investigation. Gelani Vashayev\u2019s son Mr\u00a0Sh.V., who had taken the members of the first applicant family and then his own relatives to hospital on 24 and 25 March 2006, also submitted a statement dated May 2007. Two journalists, Mr\u00a0A.D. and Ms\u00a0G.P., the editor-in-chief of the district newspaper Mayak, submitted written statements dated April and May 2007, in which they described their futile attempts to obtain information from the police and the local hospital about the incident.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Search at the Vashayev family home",
+                                "elements": [
+                                    {
+                                        "content": "26.\u00a0\u00a0On 24 March 2006 at around 4 p.m., the eighth and ninth applicants were returning home. Outside their house situated at no.\u00a0102 Belovo settlement, they saw a Gazel minibus, a Volga and a grey VAZ 99. In the courtyard of their house they saw about five men, some of them wearing camouflage military uniform and masks and carrying automatic weapons. Other men were wearing civilian clothes and were armed with pistols. The men did not identify themselves or produce any papers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0The men ordered these two applicants to stand with their faces to the wall, pulled their caps over their eyes and beat them. According to the applicants, the men told them that they should go back to Chechnya and uttered other ethnically motivated insults.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "28.\u00a0\u00a0The men entered the house, where the sixth, seventh and tenth applicants were waiting. The sixth applicant was handcuffed. The seventh applicant was told that she had given her sons a bad upbringing and that they should leave the village.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The search record of 24 March drawn up by the ROVD officers mentioned two attesting witnesses and bore their signatures, as well as signatures by the seventh applicant attesting that she had been informed of her rights and the reason for the search prior to its commencement and that she had no remarks or objections at the end of it. The record listed one hunting gun and seventeen cartridges. In relation to the gun and cartridges the seventh applicant explained that they belonged to her son Mr\u00a0Sh.V., who had put them in his bedroom about five months earlier. In another bedroom an unloaded hand pistol was found. Two knives in cases, two penknives and two self-made knives were found amongst clothing. The seventh applicant offered no explanation regarding these items. Finally, fourteen videotapes were collected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0The eighth applicant was then put into the Gazel and taken to the Vargashinskiy ROVD. According to him, on the way there he was beaten in his groin with rifle butts and a rope was pulled around his neck. As a result of the strangulation attempt, the eighth applicant lost consciousness on several occasions. He was also insulted and told that he \u201cwould not be able to beget more Chechens\u201d.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "31.\u00a0\u00a0At the ROVD the eighth applicant was questioned and signed a statement about the events in Prosekovo (see paragraph 8 above), without access to medical or legal assistance.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0He was released at around midnight. Mr\u00a0Sh.V. took him to hospital (see below).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0The applicants submitted written statements by the eighth and ninth applicants, produced in August 2006, and testimony by their neighbour Mrs\u00a0Ye.L., who had witnessed the beatings and insults administered to the eighth and ninth applicants on 24 March 2006. They also referred to the statement by the sixth applicant\u2019s son, Mr\u00a0Sh.V., mentioned above (see paragraph 25).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Criminal investigation",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Opening of the criminal investigation",
+                                        "elements": [
+                                            {
+                                                "content": "34.\u00a0\u00a0On 28 March 2006 the applicants lodged seven individual complaints with the Vargashinskiy District Prosecutor\u2019s Office (\u201cthe district prosecutor\u2019s office\u201d). They alleged, in particular, that the policemen had beaten and humiliated them on 24 March 2006. On 7 April 2006 the investigator of the district prosecutor\u2019s office refused to bring any charges under Article 286, paragraph 2 (a) and (b) of the Criminal Code (abuse of authority), on account of lack of evidence of a criminal act. Referring to the results of the preliminary inquiry, the decision stated:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cOn 24 March 2006, further to the complaint lodged by Mr\u00a0A.B., the Vargashinskiy ROVD opened a criminal investigation under Article 119 of the Criminal Code [threat of murder]. Mr\u00a0A.B. pointed out [the third applicant] as the person who had committed the crime... Pursuant to the internal instructions, on the same day the commanding officers of the ROVD transmitted this information to the RUBOP of the Kurgan Region, because the suspect was of Chechen ethnic origin. In order to provide security during the investigative measures and for operative support, servicemen of the RUBOP and special police force of the Regional Department of the Interior were sent to the Vargashinskiy district. The servicemen\u2019s personal data is at present classified.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The commanding officers took immediate investigative measures in the Prosekovo settlement, at the scene of the crime. Immediately thereafter the investigator, with the agreement of the commanding officers of the ROVD, decided to proceed with the searches ... at the places of residence of [the third applicant] ... and [the eighth applicant].",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "...\u00a0the commanding officers and servicemen of the ROVD, RUBOP and special police forces went to carry out the searches ... Mr\u00a0[N.P.] from the ROVD was in charge of the searches.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "During the search at the Antayevs\u2019 house, after the policemen had shown them the search warrant and invited them to surrender unlawful items voluntarily, [the third and fourth applicants] mounted active resistance to the search and prevented examination of some pieces of furniture. For this reason, two servicemen of the special police force took them out into the courtyard and placed them near the VAZ 2101 car, together with [the fifth applicant]. The servicemen of the ROVD, special police force and attesting witnesses remained in the house and proceeded with the search, while the remaining special forces\u2019 servicemen held positions around the house. No unlawful actions or acts of physical violence were perpetrated by the servicemen against any members of the Antayev family. Towards the end of the search all members of the family were moving around the house freely. All items collected during the search were duly noted and securely sealed.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The search of the Vashayevs\u2019 house in Belovo followed the same pattern, in line with the provisions of the Code of Criminal Procedure. [The sixth applicant], his wife [the seventh applicant] and daughter [the tenth applicant] were inside the house, while [the eighth and ninth applicants] were in the courtyard. ... No one from the Vashayev family was hurt by the police officers. ...",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The applicants\u2019 arguments alleging abuse of power by the police are therefore refuted by the information collected. This follows from the written explanations produced by the servicemen of the Vargashinskiy ROVD, including senior officers, servicemen of the RUBOP and the special police force. The servicemen\u2019s explanations are consistent and non-contradictory. Each of them was questioned in relation to the actions of his colleagues which he had witnessed. None mentioned any abuses of power by their colleagues, while stressing the absence of justification for the alleged wrongdoing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The witnesses who had been present during the searches also rebutted the applicants\u2019 allegations about the abuse of power, including those who had stayed outside the Antayevs\u2019 house. Both attesting witnesses had moved around the Antayevs\u2019 house freely and, given the layout of the premises, must have seen and heard the events in the courtyard. However, as is apparent from the witnesses\u2019 explanations, they did not notice any unlawful conduct by the policemen.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "[The conclusions of the forensic report issued by the expert of the Kurgan Regional Forensic Bureau] were overturned by a commission of the [same office] ... The commission described [the eighth applicant\u2019s] injuries recorded on 25 March 2006 as \u2018not entailing consequences for [the applicant\u2019s] health\u2019.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Based on the above, and also on the explanations given by servicemen of the ROVD as to the absence on [the body of the eighth applicant] and other members of the Vashayev and Antayev families of injuries resulting from the policemen\u2019s actions, the district prosecutor\u2019s office looks critically upon the forensic reports ... about beatings recorded for [the first to fifth and eighth applicants]. The inquiry established with a sufficient degree of probability that the circumstances of these beatings were contradictory and no connection with the searches has been established.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "35.\u00a0\u00a0As a result of the applicants\u2019 complaints against the above decision, on 5 May 2006 the deputy to the Kurgan Regional Prosecutor opened criminal investigation file no.\u00a0388743 under Article 286, paragraph 3 (a) of the Criminal Code (abuse of power committed with the use of violence or with a threat of use of violence). On the same date both applicant families were informed accordingly.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "36.\u00a0\u00a0On 12 May 2006 the district prosecutor\u2019s office was put in charge of the case. In response to a request from the Court, the Government submitted in July 2012 a copy of most of the documents from criminal investigation file no.\u00a0388743 (which comprised over 1,280 pages). The relevant documents may be summarised as follows.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Statements by the applicants",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0It is apparent that in May 2006 eight applicants (the first to sixth, eighth and ninth applicants) were granted the status of victims in the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0In the course of the proceedings in 2006 and 2007 the applicants were questioned on numerous occasions, first as witnesses and then as victims. They confirmed their statements about the circumstances of the searches, the beatings and the humiliating treatment. In particular, the members of the Antayev family described that on 24 March 2006 a group of about ten men wearing civilian clothes and about six military men had arrived at their house. The \u201ccivilians\u201d were armed with hand pistols, and the military men carried automatic guns and were wearing camouflage uniforms, bulletproof vests, helmets and masks. The men had ordered them to lie down on the floor, had handcuffed the men and had beaten and kicked them; the second applicant was pushed and fell backwards against a sofa; Mr\u00a0N.P. had kicked the first applicant while the military men had taken the fourth and fifth applicants into the courtyard and beaten them there.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0The members of the Vashayev family submitted that after 2 p.m. on 24 March 2006, the sixth, seventh and tenth applicants had been at home, while the eighth and ninth applicants were out foraging for hay. The members of the family who had stayed at home had been forced to lie on the floor by armed men wearing masks, but were then allowed to stand up by the men wearing civilian clothes who carried out the search. The sixth applicant had been handcuffed at first, but later his handcuffs were removed. The two sons of the sixth and seventh applicants, the eighth and ninth applicants, were stopped by armed men when they returned home and were made to stand with their legs and hands apart against the wall, with their hats pulled down over their eyes. Several \u201cmilitary men\u201d wearing masks and civilian clothes had punched and kicked them and beaten them with their rifle butts. The sixth, seventh and tenth applicants went into the courtyard when the search in the house was over, and had witnessed the eighth and ninth applicants being beaten. Then the eighth applicant was put in a Gazel vehicle where he was again kicked and a rope placed around his neck and tightened, as a result of which he had lost consciousness.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Forensic examinations",
+                                        "elements": [
+                                            {
+                                                "content": "40.\u00a0\u00a0The criminal investigation file contains several forensic expert reports issued by the Kurgan Regional Forensic expert bureau (\u201cthe forensic bureau\u201d). The first one, expert report no.\u00a02133 dated 25 March 2006, reported that the eighth applicant had suffered the following injuries: extensive bruising on the back of the head caused by a blunt object and not entailing consequences for the applicant\u2019s health, and three circular bruises around the neck resulting from strangulation attempts. This had caused asphyxia resulting in temporary loss of consciousness and haemorrhages in the eyeballs, which constituted a serious injury. The report was issued upon the applicant\u2019s request.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0Other reports below were issued on 28 March 2006 in response to the investigator\u2019s orders. They concluded that the injuries had been caused by blunt objects and did not entail lasting damage to the victims\u2019 health.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "42.\u00a0\u00a0Expert report no.\u00a060 concluded that the fourth applicant had been hit in the abdomen, resulting in bruising.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0Expert report no.\u00a061 found that the third applicant had bruises over the lumbar area, on both sides.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0Expert report no.\u00a062 concluded that the eighth applicant had haematomas on the left side of his neck and the left side of the chest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Expert report no.\u00a063 described the second applicant\u2019s injuries as bruising of the upper lip, right upper hand, left shoulder and left leg.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0Expert report no.\u00a064 found that the fifth applicant had contusions on the lower part of the left leg.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Expert report no.\u00a065 noted that the first applicant had bruising over the left side of his chest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "48.\u00a0\u00a0In May 2006 the experts of the forensic bureau issued their formal conclusions that the injuries could have been received at the time and in the circumstances as alleged.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "49.\u00a0\u00a0In addition, the experts examined the records of the Vargashinskiy district hospital. On the basis of the records, they concluded that the examination of the ninth applicant at the hospital on 24 March 2006 had not revealed any injuries (he had complained of pains in the chest area); the examination of the sixth applicant revealed bruises on the right side of his chest. As is apparent from the applicant\u2019s signatures, they were made aware of these conclusions in January 2007.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "50.\u00a0\u00a0In respect of the second applicant\u2019s complaint about spinal trauma, on 15 November 2006 the experts also examined copies of her medical records from the hospitals. The documents showed that in May 2006 the second applicant had sought medical assistance in relation to a fracture of the tail bone (coccyx). She was operated upon in June 2006. The exact date of the fracture could not be established; this injury should be regarded as moderately serious.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "4.\u00a0\u00a0Police officers\u2019 statements",
+                                        "elements": [
+                                            {
+                                                "content": "51.\u00a0\u00a0By February 2007 the investigation had established the identities of the police officers who had taken part in the searches on 24 March 2006. According to the documents contained in the file, the group headed by Mr\u00a0N.P. included three other Vargashinskiy ROVD officers, six officers from the Kurgan Regional RUBOP, including Mr\u00a0E.K. and Mr\u00a0V.G., and six officers from the regional special police force unit.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0The case file contains five notes about the events of 24 March 2006 written by the special police force officers, in which they stated that, while providing assistance during the search of the Antayevs\u2019 house in Verkhnesuyerskoye, they had had to physically restrain the inhabitants of the house, who had resisted the execution of the search and had refused to let the policemen enter and carry out their duties. Four men \u2013 the first, third, fourth and fifth applicants \u2013 had thus had to be restrained by force and handcuffs had had to be put on them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0All officers and servicemen who took part in the searches were questioned in the course of 2006. They denied that they had made the applicants lie on the floor, or pulled their clothes over their heads or beaten them.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0In particular, Mr\u00a0N.P. from the Vargashinskiy ROVD, who had been in charge of the searches, stated on 15 May 2006 that on 24 March 2006 Mr\u00a0A.B. had lodged a complaint with the ROVD that the third and eighth applicants had threatened to murder him. On the same day, the criminal investigation under Article 119 of the Criminal Code had been opened. In response to internal instructions from the Ministry of the Interior, the local police had informed the Kurgan RUBOP about all criminal investigations involving ethnic Chechens. On the same day, officers from the Kurgan RUBOP arrived at the ROVD. They were accompanied by six members of the special police force, in order to ensure the safety and security of the search procedures. They had travelled together to Prosekovo, where the investigator issued two search orders, the first for the Antayevs\u2019 family house in Verkhnesuyerskoye. During both searches, the members of the special police force had run into the house first. Mr\u00a0N.P. had served the search order on the first applicant, who had signed and dated it. The first applicant\u2019s wife and three sons had also been at home at the time. They were invited to surrender weapons and illegal objects, but they denied having any such items. Then the search had started, and the members of the family had tried to interfere. They shouted and prevented the police officers from entering the rooms. Because of this, the officers from the special police force had escorted the first and second applicants\u2019 three sons \u2013 the third to fifth applicants \u2013 into the courtyard. No one had hit the applicants. The search ended with the finding of one cartridge for an automatic rifle, literature in a foreign language, and a number of videotapes. Mr\u00a0N.P. had remained in the house the whole time and had thus not witnessed the events in the courtyard. The first and third applicants had then been taken by one of the police officers to meet the investigator at the village administration\u2019s offices, while the rest of the group went to the Vashayevs\u2019 family house. There Mr\u00a0N.P. had shown the search order to the seventh applicant and invited her to surrender illegally stored items, such as weapons. When the applicants denied having any such things, the police had started the search. The proceedings were conducted in a correct and polite manner, and no one had been beaten or otherwise injured. The search resulted in the finding and seizure of a smoothbore rifle and cartridges for it, a handgun of foreign manufacture, home-made knives and knives with long blades, and fourteen pirated VHS tapes. During the search the witness had not seen the events in the courtyard, but when he walked out, no one had been using violence on the applicants. He also noted that during the searches both families had behaved emotionally, and had shouted and vowed to lodge complaints.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0The head of the Vargashinskiy ROVD, Mr\u00a0I.K., stated on 15 May 2006 that he had been informed on the evening of 24 March 2006 that both searches had taken place in a calm manner, without any problems. The head of the ROVD criminal department, Mr\u00a0A.K., explained that he had participated in the search at the Antayevs\u2019 house and had seen their three sons in the courtyard, guarded by the special police force near the police car. The servicemen explained that the sons had obstructed the execution of the search. The three had been put in handcuffs, which Mr. A.K. later removed, and he had remained with them outside. At some point the fourth applicant had felt unwell and the witness had asked Mr\u00a0A.Sh. to take him into the house to get treatment. After that he had accompanied the first and third applicants to the offices of the local administration, where the questioning had taken place. The applicants had not displayed any signs of ill-treatment or beatings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0On 16 May 2006 the investigators questioned Mr\u00a0A.Sh., a policeman with the Vargashinskiy ROVD. He stated that he had not participated in the search of the Antayevs\u2019 house and had entered it only after one of the officers had told him to take the fourth applicant from the police Gazel vehicle into the house to treat him with medicine. Witness A.Sh. accompanied the fourth applicant into the house and then travelled by car to the offices of the local administration. About twenty minutes later he had returned to the Antayevs\u2019 house and observed that the applicants were in good health, with no signs of ill-treatment. He had then accompanied the group to the Vashayevs\u2019 house, which he likewise did not enter. He had remained by the fence, where he met the ninth applicant and talked to him until the search ended. The ninth applicant had appeared to be in good health and neither he nor any other family members had displayed signs of ill-treatment.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0The police also questioned six officers from the Kurgan RUBOP, including Mr\u00a0E.K. and Mr\u00a0V.G. They stated that the searches had proceeded calmly, except when the first applicant\u2019s two sons, the fourth and fifth applicants, had to be escorted out of the house because they objected to the search.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0Six officers from the regional special police force confirmed their presence during the searches on 24 March 2006. Their involvement had been limited to ensuring the security of the investigative measures. At the Antayevs\u2019 house they had escorted two young men, the first applicant\u2019s sons, out of the house and put handcuffs on them because they had interfered with the search. At the Vashayevs\u2019 family house they had not applied force to anyone, nor had they put handcuffs on anyone. Furthermore, they had not hit or used physical force on anyone, had not made anyone lie on the floor or covered anyone\u2019s head with clothes or hats, and they had not noticed that any of the applicants had injuries.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "5.\u00a0\u00a0Statements by other witnesses",
+                                        "elements": [
+                                            {
+                                                "content": "59.\u00a0\u00a0On 16 May 2006 the attesting witness for both searches, Mrs\u00a0O.P., stated that both had been initiated by a number of the special police force officers \u2013 who were wearing masks and were armed with automatic weapons \u2013 running into the houses. At the Vashayevs\u2019 house the witness had seen one man being led out, with his pullover over his head, and being stood up against the police vehicle with his legs apart. When she had entered the house, the men of the house were lying on the floor face down, with their hands behind their heads, while the woman was sitting on the sofa. The men were then allowed to stand up; they walked around the house and, initially, they had voiced their objection to the search. The search at the Antayevs\u2019 family home had proceeded in a similar manner. She had seen Mr\u00a0A.Sh. and the ninth applicant talking by the fence; she had also seen the eighth applicant in the Gazel where he had been talking to a man dressed in civilian clothes. No one had been hit or hurt.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0The other attesting witness, as well as several local residents questioned by the police, had not witnessed any ill-treatment of the applicants on 24 March 2006.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "6.\u00a0\u00a0Face-to-face confrontations",
+                                        "elements": [
+                                            {
+                                                "content": "61.\u00a0\u00a0It is apparent from the list of documents in the criminal investigation file that in 2006, in the course of the investigation, over 30 face-to-face confrontations were conducted between the applicants and the officers of the Vargashinskiy ROVD and the RUBOP who had taken part in the searches. In addition, over a dozen identification sessions were carried out involving both the victims and the officers.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The case file contains records of the face-to-face confrontation on 5\u00a0June 2006 between the applicants and the police officers. On the one hand, the first, second, seventh and ninth applicants, and on the other hand Mr\u00a0N.P. \u2013 who had been in charge of the operation \u2013 recounted their different and irreconcilable versions of events. The first applicant stated during the confrontation that Mr\u00a0N.P. had kicked him once in the chest; the second applicant confirmed this statement. During another confrontation the first applicant insisted that Mr\u00a0A.Sh. had beaten the fourth and the fifth applicants, while Mr.\u00a0A.Sh. denied this. The fourth applicant also stated that he and his brother, the fifth applicant, had been beaten by Mr\u00a0A.Sh. Other face-to-face confrontations with police officers contained similar statements.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0On 9 August 2006 the first and fourth applicants identified one of the RUBOP officers, Mr\u00a0A.O., as a person who had participated in the search in their house; the fourth applicant identified Mr\u00a0V.G., also a RUBOP officer, as the person who had hit him during the searches.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0Also on 9 August 2006, the first applicant stated, during questioning, that he disagreed with the way the face-to-face confrontations and identification parades had been carried out. The record of the questioning, which the first applicant refused to sign, contains his allegations that these events had been arranged so as to exclude the individuals who had beaten them, and that the members of both families refused to attend them in the future. The case file also contains the investigator\u2019s reports of 9 August and 10 September 2006 and 24 April 2007 which record that the first applicant\u2019s behaviour had been hostile and that he had stated his disagreement with the manner in which the investigation was being conducted.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0On 15 August 2006 during a face-to-face confrontation, the fifth applicant identified Mr\u00a0V.G. as the person who had beaten his brothers, the third and fourth applicants. Mr\u00a0V.G. denied this. Also on 15 August 2006, the fourth applicant identified Mr\u00a0E.K., a RUBOP officer, as the person who had hit him in the back and neck.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "66.\u00a0\u00a0On 24 August 2006 during a face-to-face confrontation, the second applicant identified Mr E.K. as the person who had beaten her sons and husband and had pushed her onto the floor. Mr E.K. denied that he, or other officers, had used violence. He also denied that he had taken the gun cartridge out of his pocket, insisting that he had found it in a kitchen drawer. On 18 December 2006, after the confrontation with the second applicant, the applicants\u2019 representative noted that the investigator had refused to put a number of questions to ROVD officer Mr\u00a0U. and had failed to record in full the second applicant\u2019s statements about her son\u2019s beatings.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "7.\u00a0\u00a0The applicants\u2019 attempts to access the file, complaints about the conduct of the investigation and interim procedural decisions",
+                                        "elements": [
+                                            {
+                                                "content": "67.\u00a0\u00a0The applicants submitted that during the questioning they had been threatened by the investigators, openly or covertly. Moreover, the investigator had refused to record certain statements, especially ones relating to the ethnically motivated nature of the attacks.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "68.\u00a0\u00a0On 5 July 2006 both applicant families wrote to the Kurgan Regional Prosecutor, seeking an update on the investigation into their complaints of racial insults and injuries.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "69.\u00a0\u00a0On 17 August 2006 the first and second applicants complained to the Vargashinskiy prosecutor of bias on the part of the investigator. They referred to the threats made by him to the victims. They also argued that since the ROVD officers had been directly implicated in the alleged events, the victims were at risk of further abuse and asked for the suspects to be arrested. The first applicant stressed, in particular, that the investigator had refused to record the statements made during questioning about the ethnic insults directed at them, in particular at the third applicant and the eighth and ninth applicants, who had been told that they \u201cwould not be able to beget more Chechens\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "70.\u00a0\u00a0On 24 August 2006 the district prosecutor\u2019s office dismissed a request by the applicants\u2019 representative to obtain access to the criminal case file.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0On 28 August 2006 the applicants\u2019 complaint regarding the investigator was rejected by the district prosecutor.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0On 6 November 2006 the applicants\u2019 representative lodged a complaint with the Kurgan Regional Prosecutor concerning the failure to take the necessary steps to investigate the crime and to look into its ethnically motivated nature. The complaint stated that the face-to-face confrontations and the questioning of the victims had been used to exert pressure on the applicants and noted that the investigator had failed to react to the threats made to the victims by those conducting the search. On 23\u00a0November 2006 the district prosecutor\u2019s office rejected this request as unfounded.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "73.\u00a0\u00a0On 5 February 2007 the district prosecutor\u2019s office suspended the investigation for the first time owing to the failure to identify the alleged perpetrators. The eleven-page document summarised the steps taken so far and indicated that all the men who had taken part in the searches had been identified and questioned. At least some of them had been identified by the victims as the persons who had hit them. The document nevertheless concluded that \u2013while certain evidence supported the applicants\u2019 allegation of ill-treatment \u2013 it appeared impossible to reconcile the inconsistencies in the witnesses\u2019 statements with the results of the face-to-face confrontations and identification parades, which was necessary in order to identify the police officers to be charged. This decision was quashed on 6 April 2007, in response to a complaint by the applicants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "74.\u00a0\u00a0On 13 May 2007 the district prosecutor\u2019s office again suspended the investigation owing to the failure to identify the alleged perpetrators. In this decision it was held that the applicants\u2019 statements had been inconsistent and that they had refused to take part in additional identification parades and face-to-face confrontations. It concluded:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cThe criminal file contains sufficient evidence that [the first to fifth, sixth and eighth applicants] were injured by police officers during the searches. ... The results of the forensic expert reports and the victims\u2019 statements could serve as evidence [as to] where, how many times, by what means and by which officers the victims were hit on 24 March 2006 during the searches. However, the victim statements submitted during the questioning and the confrontations are mutually contradictory in part, and in parts are refuted by other evidence collected. ... [T]his gives rise to a critical attitude to these testimonies and undermines trust in [the victims]. In addition, the [special police force] officers were wearing masks, making it impossible to determine which of them hit which victim, where exactly and how many times. The special police officers deny that they beat the victims.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The above makes it impossible to determine levels of individual guilt and to bring charges against any members of the Vargashinskiy ROVD, the RUBOP or [the special police force].\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "75.\u00a0\u00a0On 21 May 2007 that decision was set aside by the district prosecutor\u2019s office in response to a complaint by the applicants. The investigation was resumed and several other police officers were questioned. On 28 June 2007 it was again suspended, for reasons similar to those quoted in the decision of 13 May 2007. The document concluded:",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201cThe file contains sufficient evidence that [the first to fifth, sixth and eighth applicants] were injured by police officers during the searches. However, given the inconsistencies in their later testimonies, it could not be established with certitude that the injuries were indeed caused by any particular officer and in the circumstances as described by the victims\u201d.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "76.\u00a0\u00a0According to the information submitted by the Government along with their observations in July 2012, in June 2012 that decision was quashed and the investigation was resumed by the Kurgan Regional Directorate of the Investigative Committee. No documents relating to this latest stage of proceedings have been submitted and it does not appear that it has produced any results.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0The applicants\u2019 appeal to the district court",
+                                "elements": [
+                                    {
+                                        "content": "77.\u00a0\u00a0On 19 December 2006, pursuant to Article 125 of the Code of Criminal Procedure, the applicants lodged a complaint concerning the actions of the district prosecutor\u2019s office with the Vargashinskiy District Court. In their complaint the applicants alleged that the opening of the investigation had been delayed, that it had failed to take into account the ethnically motivated nature of the attack, despite the consistent testimonies to this effect, that the investigator had shown bias and threatened the victims, that their complaints to the district prosecutor\u2019s office had been futile, that they had not been allowed access to most of the documents in the case file, that no one had been charged with any crime and that all servicemen implicated in the events had been questioned only as witnesses. The applicants requested that the prosecutor\u2019s office be ordered to replace the investigator and to ensure proper supervision, in addition to reviewing the complaints about the ethnically motivated nature of the attack.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "78.\u00a0\u00a0On 9 January 2007 the Vargashinskiy Distrct Court partly dismissed the applicants\u2019 request and partly refused to consider it on the merits. In respect of the alleged failure to investigate the ethnically motivated nature of the crime and the investigator\u2019s bias, the court found that these issues fell within the prosecutor\u2019s professional discretion. The applicants appealed, referring in particular to the lack of investigation of the ethnically motivated nature of the crime.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0On 27 March 2007 the Kurgan Regional Court upheld the decision of 9\u00a0January 2007.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW",
+                        "elements": [
+                            {
+                                "content": "80.\u00a0\u00a0For a summary of the relevant domestic criminal and criminal procedural law provisions relevant to the investigation see Mityaginy\u00a0v.\u00a0Russia (no. 20325/06, \u00a7\u00a7 30-36, 4 December 2012).",
+                                "elements": []
+                            },
+                            {
+                                "content": "81.\u00a0\u00a0Article 119, paragraph 1 of the Russian Criminal Code states that any threat to a person\u2019s life or health \u2013 if there are reasons to suspect that such threat could be implemented \u2013 may be punished by community labour, arrest or a maximum of up to two years\u2019 deprivation of liberty. In line with Article 15 of the Code, crimes for which the maximum penalty does not exceed three years\u2019 deprivation of liberty are classified as minor \u2013 that is to say in the lowest category of criminal behaviour.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0RELEVANT INTERNATIONAL STANDARDS",
+                        "elements": [
+                            {
+                                "content": "82.\u00a0\u00a0On 4 January 1969 the United Nations\u2019 International Convention on the Elimination of All Forms of Racial Discrimination came into force. The relevant paragraph of Article 1 of this Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn this Convention, the term \u2018racial discrimination\u2019 shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "83.\u00a0\u00a0The relevant paragraph of Article 6 of the Council of Europe\u2019s Framework Convention for the Protection of National Minorities, in force in Russia since December 1998, provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe Parties undertake to take appropriate measures to protect persons who may be subject to threats or acts of discrimination, hostility or violence as a result of their ethnic, cultural, linguistic or religious identity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "84.\u00a0\u00a0On 13 December 2002 the Council of Europe\u2019s European Commission against Racism and Intolerance (ECRI) adopted General Policy Recommendation no. 7 on national legislation to combat racism and racial discrimination. It defines \u201cracial discrimination\u201d as follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0For the purposes of this Recommendation, the following definitions shall apply:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0\u2019direct racial discrimination\u2019 shall mean any differential treatment based on a ground such as race, colour, language, religion, nationality or national or ethnic origin, which has no objective and reasonable justification. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0\u2019indirect racial discrimination\u2019 shall mean cases where an apparently neutral factor such as a provision, criterion or practice cannot be as easily complied with by, or disadvantages, persons belonging to a group designated by a ground such as race, colour, language, religion, nationality or national or ethnic origin, unless this factor has an objective and reasonable justification. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0The law should provide that, if persons who consider themselves wronged because of a discriminatory act establish before a court or any other competent authority facts from which it may be presumed that there has been direct or indirect discrimination, it shall be for therespondent to prove that there has been no discrimination.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "85.\u00a0\u00a0ECRI\u2019s General Policy Recommendation no. 8: Combating racism while fighting terrorism, adopted on 17 March 2004, recommends the governments of Member States, inter alia:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c-\u00a0to review legislation and regulations adopted in connection with the fight against terrorism to ensure that these do not discriminate directly or indirectly against persons or groups of persons, notably on grounds of \u201crace\u201d, colour, language, religion, nationality or national or ethnic origin, and to abrogate any such discriminatory legislation;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0to refrain from adopting new legislation and regulations in connection with the fight against terrorism that discriminate directly or indirectly against persons or groups of persons, notably on grounds of \u2018race\u2019, colour, language, religion, nationality or national or ethnic origin;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0to ensure that legislation and regulations, including legislation and regulations adopted in connection with the fight against terrorism, are implemented at national and local levels in a manner that does not discriminate against persons or groups of persons, notably on grounds of actual or supposed \u2018race\u2019, colour, language, religion, nationality, national or ethnic origin;",
+                                "elements": []
+                            },
+                            {
+                                "content": "-\u00a0to ensure that adequate national legislation is in force to combat racially motivated crimes, racist expression and racist organisations and that it is effectively implemented; ...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "86.\u00a0\u00a0ECRI\u2019s latest report on the Russian Federation CRI(2013)40 (published on 15\u00a0October 2013) contains the following relevant passages:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c81.\u00a0\u00a0ECRI notes with concern that there is a high incidence of racially motivated violence in the Russian Federation, directed predominantly against non-Slavs. In 2006 to 2009 there was a sharp increase in racist violence against migrants from the North Caucasus and workers from Central Asian countries. ...",
+                                "elements": []
+                            },
+                            {
+                                "content": "117.\u00a0\u00a0ECRI notes that the continued instability in the North Caucasus and the constant threat of terrorism contribute to a climate of hostility towards people of North Caucasian origin throughout the country. High levels of racism and xenophobia against Chechens in particular have been reported. This is manifested in discriminatory practices - Chechens are regularly refused when they try to rent a flat, register at their place of residence or find a job - and violence against them is also reported ...\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "87.\u00a0\u00a0The applicants complained that the Russian Federation had violated their substantive and procedural rights under Article 3 of the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "88.\u00a0\u00a0The Government contested this allegation. They stressed, in particular, that despite all the measures taken, the persons responsible for the injuries to the applicants had not been identified. The criminal investigation was pending and the complaint was, therefore, premature.",
+                                "elements": []
+                            },
+                            {
+                                "content": "89.\u00a0\u00a0The applicants reiterated their claims and argued that the domestic criminal investigation, which was the only effective remedy, had turned out to be ineffective.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "90.\u00a0\u00a0The Court considers that the questions of whether this complaint is premature in view of the pending investigation and whether the applicants have exhausted domestic remedies are closely linked to the question of whether the investigation into their allegations of ill-treatment was effective. These issues relate to the merits of the complaints under Article 3 of the Convention. The Court therefore decides to join these issues to the merits.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "91.\u00a0\u00a0The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7\u00a7 3 and 4 of the Convention. It is not inadmissible on any other grounds. It must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0Alleged ill-treatment",
+                                        "elements": [
+                                            {
+                                                "content": "92.\u00a0\u00a0The Court reiterates that allegations of ill-treatment must be supported by appropriate evidence. To assess this evidence, the Court adopts the standard of proof \u201cbeyond reasonable doubt\u201d but adds that such proof may follow from the coexistence of sufficiently strong, clear and concordant inferences or of similar unrebutted presumptions of fact (see Ireland v. the United Kingdom, 18 January 1978, \u00a7 161 in fine, Series A no.\u00a025). Where the events in issue lie wholly, or in large part, within the exclusive knowledge of the authorities, as in the case of persons within their control in custody, strong presumptions of fact will arise in respect of injuries occurring during such detention. Where an individual is taken into custody in good health but is found to be injured at the time of release, the burden of proof may be regarded as resting on the authorities to provide a plausible and convincing explanation of how those injuries were caused (see Salman v. Turkey [GC], no. 21986/93, \u00a7 100, ECHR 2000-VII, and Ribitsch v. Austria, 4 December 1995, \u00a7 34, Series A no. 336).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "93.\u00a0\u00a0As for the assessment of the minimum level of severity required for a violation of Article 3 of the Convention, the Court notes that it is relative: it depends on all the circumstances of the case, such as the duration of the treatment, its physical and/or mental effects and, in some cases, the sex, age and state of health of the victim (see Tekin v. Turkey, 9 June 1998, \u00a7 52, Reports of Judgments and Decisions 1998IV). Further, in considering whether or not treatment is \u201cdegrading\u201d within the meaning of Article 3, the Court will also have regard to whether its object is to humiliate and debase the person concerned and whether, as far as the consequences are concerned, it adversely affected his or her personality in a manner incompatible with Article 3 (see, for example, Raninen v. Finland, 16\u00a0December 1997, \u00a7 55, Reports 1997-VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "94.\u00a0\u00a0The Court notes that the material in the case file contains sufficient evidence that the first to sixth and eighth applicants had received various injuries during the searches conducted at their homes on 24 March 2006. In particular, the medical examinations and expert reports revealed bruises, haematomas and contusions for the first to sixth applicants (see paragraphs\u00a022, 41-50 above). The eighth applicant, in addition, had been subjected to attempted strangulation which had resulted in a loss of consciousness (see paragraph 40 above). Although no injuries were recorded in respect of the ninth applicant, a number of concordant witness statements pointed to the fact that he had been hit several times on his head and torso. On the strength of this evidence, the first to sixth, eighth and ninth applicants were granted victim status in the domestic criminal proceedings (see paragraph 37 above). The Court finds the allegations of ill-treatment raised by these applicants sufficiently serious to be examined under Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "95.\u00a0\u00a0The Court further notes that the domestic investigation collected enough evidence to conclude that these injuries were caused to the applicants by unidentified police officers during the searches conducted at their homes on 24 March 2006 (see paragraphs 73-75 above). The Government argued that the exact persons who had committed the crime had not been established. At the same time, they failed to provide an alternative version of the events or a convincing and plausible explanation of how these injuries had been caused. Bearing in mind the authorities\u2019 obligation to account for injuries caused to persons within their control (see Ablyazov v. Russia, no.\u00a022867/05, \u00a7 49, 30 October 2012), the Court finds it established that the injuries recorded in the medical reports resulted from the treatment of which the applicants complained and for which the Government bear responsibility.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "96.\u00a0\u00a0Turning to the nature of the treatment, the Court notes that, as is evident from the case file documents, the first to fifth and ninth applicants described that they had been pushed, beaten and kicked by the policemen. The sixth applicant, although he did not allege in his testimony that he had been beaten, had bruises on his torso, which, it appears, were inflicted on him during the searches (see paragraph 49 above). As it appears from the case file, such treatment was inflicted on the applicants intentionally and without any apparent reason. The Government did not argue that recourse to physical force by the police in the present case had been proportionate and necessary in view of the circumstances of the case, such as the need to overcome resistance to lawful orders issued by the police (compare, for example, with Davitidze v. Russia, no. 8810/05, \u00a7 94, 30 May 2013, and, by contrast, Borodin v. Russia, no 41867/04, \u00a7\u00a7 119-21, 6 November 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "97.\u00a0\u00a0Some records of questioning in the criminal investigation file refer to the \u201cobjections\u201d to the searches made by the third to fifth applicants, following which they were handcuffed and taken out of the house (see paragraphs 52-58 above). However, the Court notes that the investigation did not establish that any physical force was applied to restrain them; and in any event, these testimonies fail to explain the injuries received by other applicants. On the contrary, it is clear that the group carrying out the searches was in full control of the situation and that the applicants did not mount any physical resistance to them. In such circumstances, the Court finds that the ill-treatment was inflicted upon the applicants with the aim to intimidate, humiliate and debase them. The Court considers that this treatment of the first to sixth and ninth applicants should be classified as inhuman and degrading. As to the eighth applicant, who had a rope tightened around his neck until he lost consciousness (see paragraph 40 above), such treatment, combined with the feelings of fear, anguish and inferiority which the impugned treatment produced in him, must have caused him suffering of sufficient severity to be categorised as torture within the meaning of Article 3 of the Convention. It is especially disturbing that this treatment seems to have had a racial element to it (see below).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "98.\u00a0\u00a0Finally, as to the seventh and tenth applicants, they argued that the anguish and stress which they had suffered seeing their close relatives illtreated was sufficient to qualify as degrading treatment. They did not allege that they had been subjected to ill-treatment. The Court notes that they were not granted the status of victims in the domestic proceedings and did not ask for it, nor did they produce any evidence which could help in the evaluation of the level of suffering to which they had been subjected (see, a\u00a0contrario, Gutsanovi v. Bulgaria, no. 34529/10, \u00a7 134, 15 October 2013 ). While it cannot be ruled out that, in some instances, individuals may claim to be indirect victims of ill-treatment inflicted on their close relatives of which they had been witnesses (see Members (97) of the Gldani Congregation of Jehovah\u2019s Witnesses v. Georgia, no. 71156/01, \u00a7 103, 3\u00a0May 2007), in the circumstances of the present case the Court does not find that the situation of the seventh and tenth applicants attains the high \u201cthreshold of severity\u201d required for a finding of a violation of Article 3 of the Convention.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "99.\u00a0Having regard to the above, the Court concludes that there has been a substantive violation of Article 3 of the Convention in regard of the first to sixth and ninth applicants, which should be classified as inhuman and degrading treatment. The treatment in respect of the eighth applicant should be classified as torture. As far as the seventh and tenth applicants are concerned, there has been no substantive violation of Article 3.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Compliance with the State\u2019s positive obligation to investigate",
+                                        "elements": [
+                                            {
+                                                "content": "100.\u00a0\u00a0The applicants argued that the investigation into their ill-treatment had not been effective. They noted that although the police had been aware of their arguable allegations of ill-treatment as early as 28 March 2006, the criminal investigation had not been opened until 5 May 2006. The applicants concerned had been accorded victim status in the proceedings on 16 May 2006. The investigation had then been suspended and reopened a number of times, without making any tangible progress. No one had been charged with any crimes, and the men who had taken part in the searches and who, according to all the evidence, had injured the applicants, had not been made to bear any responsibility for their actions. The applicants noted that they had not been allowed full access to the case file and that their appeals to the district court had not remedied this situation. Lastly, the applicants drew the Court\u2019s attention to the period between June 2007 and June 2012, when no investigation had been ongoing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "101.\u00a0\u00a0The Government insisted that the domestic investigation opened into the applicants\u2019 allegations of ill-treatment had been in compliance with the Convention\u2019s requirements and that, in any event, its evaluation was premature in the absence of the final conclusions about the circumstances surrounding the sustained injuries and the identities of the perpetrators.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "102.\u00a0\u00a0The Court reiterates that where an individual raises an arguable claim that he has been seriously ill-treated in breach of Article 3, that provision, read in conjunction with the State\u2019s general duty under Article 1 of the Convention to \u201csecure to everyone within their jurisdiction the rights and freedoms defined in ... [the] Convention\u201d, requires by implication that there should be an effective official investigation. An obligation to investigate \u201cis not an obligation as to results, but as to means\u201d: not every investigation should necessarily be successful or come to a conclusion which coincides with the claimant\u2019s account of events; however, it should in principle be capable of leading to the establishment of the facts of the case and, if the allegations prove to be true, to the identification and punishment of those responsible (see Assenov and Others v. Bulgaria, 28 October 1998, \u00a7 102, Reports 1998-VIII, and Labita v. Italy [GC], no. 26772/95, \u00a7\u00a0131, ECHR 2000-IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "103.\u00a0\u00a0An investigation into serious allegations of ill-treatment must be thorough and impartial. That means that the authorities must always make a serious attempt to find out what happened and should not rely on hasty or illfounded conclusions to close their investigation or as a basis for their decisions (see Mikheyev v. Russia, no.\u00a077617/01, \u00a7\u00a0108, 26 January 2006, with further references, and Cherkasov v. Russia, no. 7039/04, \u00a7\u00a069, 18\u00a0October 2011). They must take all reasonable steps available to them to secure the evidence concerning the incident, including, inter alia, eyewitness testimony and forensic evidence (see, mutatis mutandis, Salman v. Turkey [GC], no. 21986/93, \u00a7 106, ECHR 2000-VII; Tanr\u0131kulu v. Turkey [GC], no.\u00a023763/94, \u00a7 104 et seq., ECHR 1999-IV; and G\u00fcl v. Turkey, no.\u00a022676/93, \u00a7\u00a089, 14 December 2000). Any deficiency in the investigation which undermines its ability to establish the cause of injuries or the identity of the persons responsible will risk falling foul of this standard.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "104.\u00a0\u00a0Furthermore, the investigation into the alleged ill-treatment must be expeditious. In cases under Articles 2 and 3 of the Convention, where the effectiveness of the official investigation is at issue, the Court has often assessed whether the authorities reacted promptly to the complaints at the relevant time (see Labita, cited above, \u00a7 133 et seq.). Consideration has been given to the starting of investigations, delays in taking statements and the length of time taken during the initial investigation (see Mikheyev, cited above, \u00a7 113; Indelicato v. Italy, no.\u00a031143/96, \u00a7 37, 18 October 2001; and Suleymanov v. Russia, no.\u00a032501/11, \u00a7\u00a0143, 22 January 2013).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0There must be a sufficient element of public scrutiny of the investigation or its results; in particular the complainant must, in all cases, be afforded effective access to the investigatory procedure (see, among many other authorities, Mikheyev, cited above, \u00a7\u00a7 108-10).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "106.\u00a0\u00a0Finally, the investigation\u2019s conclusions must be based on a thorough, objective and impartial analysis of all relevant elements. Failing to follow an obvious line of inquiry undermines to a decisive extent the investigation\u2019s ability to establish the circumstances of the case and the identity of those responsible (see Kolevi v. Bulgaria, no. 1108/02, \u00a7 201, 5\u00a0November 2009, and Tsechoyev v. Russia, no.\u00a039358/05, \u00a7 153, 15 March 2011). Nevertheless, the nature and degree of the scrutiny required to satisfy the minimum threshold of the investigation\u2019s effectiveness will depend on the circumstances of the particular case. They must be assessed on the basis of all relevant facts and with regard to the practical realities of the investigation (see Velcea and Maz\u0103re v. Romania, no.\u00a064301/01, \u00a7\u00a0105, 1\u00a0December 2009).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0In the present case a criminal investigation was opened into the applicants\u2019 allegations. It remains to be seen whether this investigation complied with Convention standards.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0The Court notes, first, that despite the applicants\u2019 concordant complaints and the medical evidence supporting them, the district prosecutor\u2019s office initially refused to open a criminal investigation (see paragraph 34 above). It was finally opened on 5 May 2006, over one month after the events in question had come to the authorities\u2019 attention. The Court deplores this delay and notes that the delays in questioning the potential perpetrators of the crime constituted a serious challenge to the effectiveness of the investigation. In the past, the Court has found a violation of the procedural obligation to investigate arguable complaints under Article 2 in cases where no appropriate steps have been taken to reduce the risk of collusion among officers potentially involved in a crime, such failure to act amounting to a significant shortcoming in the adequacy of the investigation (see Ramsahai and Others v. the Netherlands [GC], no.\u00a052391/99, \u00a7 330, ECHR 2007VI, and Turluyeva v. Russia, no.\u00a063638/09, \u00a7 107, 20 June 2013). This risk of justice being obstructed through collusion is particularly acute in a situation of hierarchical subordination and common service, such as that of police officers. In the present case too, the risk of such collusion increased with the passage of time.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0However, the Court is particularly struck by the investigation\u2019s inability to identify the individuals who ill-treated the applicants and to pursue charges against them. As is apparent from the criminal investigation file, the district prosecutor\u2019s office accepted that the injuries had been caused on 24 March 2006 by the police officers who carried out the searches at the applicants\u2019 houses; however they stopped short of naming any of the individuals responsible for the alleged ill-treatment (see paragraphs 73 - 75 above). Thus, the prosecution authority merely accepted the officers\u2019 explanations that they had not ill-treated the applicants, without offering any other version of the events. Such acceptance stands in sharp contrast to the duty of vigilance expected from law-enforcement authorities when facing allegations of crimes that encroach on the core values of a democratic society, such as the rights guaranteed under Article 3. The Court considers that in the present case, where the domestic investigating authorities have established the responsibility for the impugned acts of a known group of State agents, the failure to identify the individuals responsible can only be attributable to the reluctance of the prosecuting authorities to pursue the investigation (see Velkhiyev and Others v. Russia, no. 34085/06, \u00a7 114, 5 July 2011). In this respect, failing to follow an obvious line of inquiry undermines the investigation\u2019s ability to establish the circumstances of the case and those responsible. Finally, where the circumstances are such that the authorities are obliged to deploy masked officers to effect an arrest, the Court considers that the latter should be required to visibly display some anonymous means of identification - for example a number or letter, thus allowing for their identification and questioning in the event of challenges to the manner in which the operation was conducted (see Hristovi v. Bulgaria, no.\u00a042697/05, \u00a7 92, 11 October 2011).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0Independently of its findings under Article 14 below, the Court further notes that the applicants\u2019 allegations that there had been racial motives for the attack were ignored by the investigation. It reiterates the specific requirement for an investigation into an attack with racial overtones to be pursued with vigour and impartiality, having regard to the need to continuously reassert society\u2019s condemnation of racism in order to maintain the confidence of minorities in the ability of the authorities to protect them from the threat of racist violence (see Koky and Others v. Slovakia, no.\u00a013624/03, \u00a7 239, 12 June 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0As regards the Government\u2019s reference to the fact that the investigation was still pending and that the perpetrators had not yet been identified, the Court reiterates that an obligation to investigate \u201cis not an obligation as to results, but as to means\u201d. Bearing in mind its length so far and the shortcomings identified above, as well as the applicants\u2019 futile attempts to appeal against the investigators\u2019 actions to the courts (see paragraphs 77-79 above), the Court does not consider that the applicants\u2019 waiting for the completion of the investigation could have had any impact on the procedural obligation which follows from Article 3.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "112.\u00a0\u00a0The foregoing considerations are sufficient to allow the Court to reject the Government\u2019s objection as to the exhaustion of domestic remedies and to conclude that the investigation into the applicants\u2019 complaint of illtreatment cannot be considered to have been \u201ceffective\u201d. There has therefore been a violation of Article 3 of the Convention under its procedural limb in respect of the first to sixth, eighth and ninth applicants. For the same reasons as indicated above in paragraph 98, there has been no violation of this provision in respect of the seventh and tenth applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "113.\u00a0\u00a0The applicants complained that the investigation into their allegations of ill-treatment had been ineffective, in violation of Article 13 of the Convention, which provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "114.\u00a0\u00a0The Court observes that this complaint concerns the same issues as those examined above under the procedural limb of Article 3 of the Convention. Therefore, the complaint should be declared admissible. However, having regard to its conclusion above under Article 3 of the Convention, the Court considers it unnecessary to examine those issues separately under Article 13 of the Convention (see, for example, Bekos and Koutropoulos v. Greece, no. 15250/02, \u00a7 57, ECHR 2005XIII (extracts); Polonskiy v. Russia, no. 30033/05, \u00a7 127, 19 March 2009; and Sherstobitov v. Russia, no.\u00a016266/03, \u00a7\u00a094, 10 June 2010).",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 14 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "115.\u00a0\u00a0The applicants further complained that they had been discriminated against on account of their ethnic origin in the enjoyment of their rights under Article 3 of the Convention. They relied on Article 14 of the Convention, which reads:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "116.\u00a0\u00a0The Government contested that argument. They noted that the authorities had looked into the applicants\u2019 complaints about the racial motives for the attack and dismissed them.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Admissibility",
+                                "elements": [
+                                    {
+                                        "content": "117.\u00a0\u00a0The Court reiterates that Article 14 complements the other substantive provisions of the Convention and its Protocols. It has no independent existence, as it has effect solely in relation to the enjoyment of the rights and freedoms safeguarded by those provisions. Although the application of Article 14 does not presuppose a breach of those provisions \u2013 and to that extent it is autonomous \u2013 there can be no room for its application unless the facts at issue fall within the ambit of one or more of the substantive provisions (see, among many other authorities, Abdulaziz, Cabales and Balkandali v. the United Kingdom, 28 May 1985, \u00a7 71, Series\u00a0A no. 94, and Karlheinz Schmidt v. Germany, 18 July 1994, \u00a7 22, Series A no. 291-B).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "118.\u00a0\u00a0Having regard to its above conclusions about the admissibility of the applicants\u2019 complaint under Article 3, the Court considers, in the light of the parties\u2019 submissions, that this complaint brought by the applicants raises serious issues of fact and law under the Convention, the determination of which requires an examination of the merits. The Court concludes therefore that this complaint is not manifestly ill-founded within the meaning of Article 35 \u00a7 3 (a) of the Convention. No other ground for declaring it inadmissible has been established.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Merits",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0General principles",
+                                        "elements": [
+                                            {
+                                                "content": "119.\u00a0\u00a0The Court observes that its case-law establishes that discrimination means treating differently, without any objective or reasonable justification, persons in relevantly similar situations (see Willis v. the United Kingdom, no.\u00a036042/97, \u00a7 48, ECHR 2002-IV).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "120.\u00a0\u00a0Racial violence is a particular affront to human dignity and, in view of its dangerous consequences, requires special vigilance and a vigorous reaction from the authorities. It is for this reason that the authorities must use all available means to combat racism and racist violence, thereby reinforcing democracy\u2019s vision of a society in which diversity is not perceived as a threat but as a source of its enrichment (see Nachova and Others v. Bulgaria [GC], nos. 43577/98 and 43579/98, \u00a7\u00a0145, ECHR 2005VII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "121.\u00a0\u00a0Furthermore, when investigating violent incidents such as acts of illtreatment, State authorities have the duty to take all reasonable steps to unmask any racist motive and to establish whether or not ethnic hatred or prejudice may have played a role in the events at hand. Admittedly, proving racial motivation will often be difficult in practice. The respondent State\u2019s obligation to investigate possible racist overtones to a violent act is an obligation to use best endeavours and not absolute. The authorities must do what is reasonable in the circumstances to collect and secure the evidence, explore all practical means of discovering the truth and deliver fully reasoned, impartial and objective decisions, without omitting suspicious facts that may be indicative of racially motivated violence (see, mutatis mutandis, Nachova and Others, cited above, \u00a7160, and Makhashevy\u00a0v. \u00a0Russia, no. 20546/07, \u00a7\u00a7 143-46, 31 July 2012).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "122.\u00a0\u00a0Lastly, the Court considers that the authorities\u2019 duty to investigate the existence of a possible link between racist attitudes and an act of violence is an aspect of their procedural obligations arising under Article 3 of the Convention, but it may also be seen as implicit in their responsibilities under Article 14 of the Convention to secure the fundamental value enshrined in Article 3 without discrimination. Owing to the interplay of the two provisions, issues such as those in the present case may fall to be examined under one of the two provisions only, with no separate issue arising under the other, or may require examination under both Articles. This is a question to be decided in each case on its facts and depending on the nature of the allegations made (see Bekos and Koutropoulos, cited above, \u00a7 70).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Application in the present case",
+                                        "elements": [
+                                            {
+                                                "content": "123.\u00a0\u00a0In line with the above principles, when faced with the applicants\u2019 complaint of a violation of Article 14, the Court\u2019s task is to establish whether or not racial prejudice was a causal factor in the impugned conduct of the authorities during the events and the ensuing investigation, thus giving rise to a breach of Article 14 of the Convention taken in conjunction with Article 3.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "124.\u00a0\u00a0The Court notes that it has found the Russian Federation to be in breach of Article 14 on account of the applicants\u2019 ethnic origin in two previous cases (see Timishev v. Russia, nos. 55762/00 and 55974/00, ECHR 2005XII, \u00a7\u00a056-58, and Makhashevy, cited above, \u00a7\u00a7 143-46). In both cases the applicants were of Chechen ethnic origin. The Court deplored not only the existence of internal rules for administrative bodies and the police based on those persons\u2019 ethnicity (Timishev) but also the racist verbal abuse by the police who had been responsible for the applicants\u2019 ill-treatment, as well as the failure of the investigating authorities to examine the potential racist implications of the incident (Makhashevy). The Court reiterates its previously stated position that racial discrimination is a particularly invidious kind of discrimination and, in view of its dangerous consequences, requires from the authorities special vigilance and a vigorous reaction. No difference in treatment which is based exclusively or to a decisive extent on a person\u2019s ethnic origin is capable of being objectively justified in a contemporary democratic society built on the principles of pluralism and respect for different cultures (see Timishev, cited above, \u00a7\u00a7\u00a056 and 58). Such discrimination has no place under the Convention, and the respondent State should take all appropriate steps to eradicate such practices and to prevent their occurrence in the future.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "125.\u00a0\u00a0Turning first to the applicants\u2019 complaint of discrimination in conjunction with the duty to investigate ill-treatment, the Court notes that the applicants clearly mentioned racist verbal abuse in their complaints to the authorities and gave details of the insults used. On several occasions they also complained that the investigator had been unwilling to take this element into account and to reflect it in the records of questioning (see paragraphs 67-69 and 72 above). The applicants raised this complaint with the domestic courts, which referred them back to the prosecutor\u2019s office (see paragraphs 77-79 above). Despite these complaints, it does not appear that these allegations have been followed up, and the matter has not received any attention in the domestic investigation.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "126.\u00a0\u00a0The Court has already noted that where evidence comes to light of racist verbal abuse being uttered by law-enforcement agents in the context of the alleged illtreatment of detained persons from an ethnic or other minority, a thorough examination of all the facts should be undertaken in order to discover any possible racial motives (see Nachova and Others, cited above, \u00a7 164). In the present case, no thorough examination of this aspect has taken place and the Government have offered no explanation for this failure. To the contrary, it is apparent from the documents examined by the Court that the investigation had ignored the possible racial motives behind the crime.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "127.\u00a0\u00a0In so far as the applicants complain that racism was a causal factor in the infliction of ill-treatment upon them, the Court first recalls the well-documented aspect of racist verbal abuse to which the applicants had been subjected during ill-treatment (see paragraph 125 above). Furthermore, the Court notes the recurrent reference to internal police instructions to treat suspects of Chechen ethnic origin in a particular manner (see paragraphs 34 and 54 above). As is evident from the documents and witness statements, by way of implementing this practice, the local police had called the Regional Department for Combating Organised Crime (RUBOP) and a group of armed special police officers to assist them in carrying out searches at the homes of the two applicant families in connection with what would otherwise appear to have been the investigation of a minor offence (see paragraph 81 above) because the suspects were of Chechen origin. In the absence of any other explanations, the Court finds it established that in the present case the applicants\u2019 ethnic origin was the sole, or at least the decisive, reason for the involvement of RUBOP and the special police service in the searches at their homes (see, mutatis mutandis, X v. Turkey, no. 24626/09, \u00a7 57, 9 October 2012). The Court does not wish to question the general mode of operation of law-enforcement authorities when combatting crime, or to intervene in operational choices that represent a reaction to the specific and fast-changing realities on the ground. Nevertheless, the Court cannot accept that such a difference in treatment between suspects could be based solely, or to a decisive extent, on their actual or perceived ethnicity. Finally, the Court has already found that the ill-treatment was inflicted on the applicants intentionally and without any apparent reason (see paragraphs 96 and 97 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "128.\u00a0\u00a0Once an applicant has shown that there has been a difference in treatment, it is then for the respondent Government to show that the difference in treatment could be justified (see, for example, Chassagnou and Others v. France [GC], nos. 25088/94, 28331/95 and 28443/95, \u00a7\u00a7 91-92, ECHR 1999III, and Timishev, cited above, \u00a7 57). Taking the above elements above into account, the Court is satisfied that a prima facie case of racially based ill-treatment has been made. In such circumstances, the Court considers that the burden of proof lies on the Government (see Stoica\u00a0v.\u00a0Romania, no. 42722/02, \u00a7 131, 4 March 2008; Sampanis and Others v. Greece, no. 32526/05, \u00a7\u00a7 70-71, 5 June 2008; and Makhashevy, cited above, \u00a7\u00a7 178-79). Since neither the domestic criminal investigation nor the Government could explain the incidents in any other way or, to that end, put forward any arguments showing that the incidents were racially neutral, the Court finds that this treatment constituted discrimination based on ethnicity, which is a form of racial discrimination (see paragraphs 82-84 above).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "129.\u00a0\u00a0In the light of this, the Court concludes there has been a violation of Article 14 of the Convention, taken together with both the substantive and procedural aspects of Article 3 of the Convention, in respect of the first to sixth, eighth and ninth applicants.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "130.\u00a0\u00a0As to the seventh and tenth applicants, the Court recalls that their complaint under Article 14, like their complaint under Article 3, was declared admissible. However it concluded above that they had not been subjected to ill-treatment and that there was no breach of the obligation to investigate in respect of them, since they had not obtained or sought a formal status in the domestic proceedings. The situation of their complaint under Article 14 is no different from the complaint brought by them under Article 3 of the Convention. For the same reasons as indicated above in paragraphs 99 and 113, the Court concludes that there has been no violation of Article 14 in conjunction with Article 3 in respect of these two applicants.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "131.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "132.\u00a0\u00a0The applicants did not seek compensation for pecuniary damage. As to non-pecuniary damage, the first to fifth and ninth applicants asked the Court to award them 15,000 euros (EUR) each for the violations suffered. The eighth applicant sought compensation in the amount of EUR\u00a020,000. The sixth, seventh and tenth applicants left the determination of the awards to the Court.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "133.\u00a0\u00a0The Government were of the opinion that if the Court were to find violations of the applicants\u2019 rights, such a finding would constitute sufficient satisfaction in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "134.\u00a0\u00a0The Court refers to its above findings of breaches of Article 3 in both its substantive and procedural aspects and Article 14 in conjunction with Article 3 in respect of the first to sixth, eighth and ninth applicants. It considers it appropriate to award EUR\u00a015,000 to each of the first to sixth and ninth applicants and EUR\u00a020,000 to the eighth applicant, in respect of non-pecuniary damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "135.\u00a0\u00a0The applicants jointly claimed 5,194 pounds sterling (GBP) for the costs and expenses incurred in the proceedings before the Court. They submitted a detailed breakdown of the legal consultants\u2019 work and the rates applied (GBP\u00a0100 and GBP\u00a0150 per hour), plus translators\u2019 invoices in the amount of GBP\u00a03,589, and claimed reimbursement of administrative expenses. The applicants asked for the payment in respect of costs and expenses to be made in pounds sterling to EHRAC\u2019s account in London.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0The Government questioned the reasonableness of and justification for these claims.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "137.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, having regard to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR\u00a03,000 to the first to sixth, eighth and ninth applicants, together with any tax that may be chargeable to the applicants, the net award to be paid into the representative\u2019s bank account, as identified by the applicants.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "138.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Joins to the merits the Government\u2019s argument concerning exhaustion of domestic remedies in respect of the pending criminal investigation and rejects it;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Declares the application admissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 3 of the Convention in both its substantive and procedural aspects in respect of the first to sixth, eighth and ninth applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds that there has been no violation of either substantive or procedural aspect of Article 3 of the Convention in respect of the seventh and tenth applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds that there is no need to examine the complaint under Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds that there has been a violation of Article 14 of the Convention in conjunction with the substantive and procedural aspects of Article 3 in respect of the first to sixth, eighth and ninth applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds that there has been no violation of Article 14 of the Convention in conjunction with Article 3 in respect of the seventh and tenth applicants;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article\u00a044\u00a0\u00a7\u00a02 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, save in the case of the payment in respect of costs and expenses:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Dismisses the remainder of the applicants\u2019 claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 3 July 2014, pursuant to Rule\u00a077 \u00a7\u00a7 2 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Isabelle Berro-Lef\u00e8vre",
+            "role": "president"
+        },
+        {
+            "name": "Elisabeth Steiner",
+            "role": "judges"
+        },
+        {
+            "name": "Khanlar Hajiyev",
+            "role": "judges"
+        },
+        {
+            "name": "Mirjana Lazarova Trajkovska",
+            "role": "judges"
+        },
+        {
+            "name": "Julia Laffranque",
+            "role": "judges"
+        },
+        {
+            "name": "Ksenija Turkovi\u0107",
+            "role": "judges"
+        },
+        {
+            "name": "Dmitry Dedov",
+            "role": "judges"
+        },
+        {
+            "name": "S\u00f8ren Nielsen",
+            "role": "section registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF ANTAYEV AND OTHERS v. RUSSIA",
+    "doctypebranch": "CHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "CHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-145229.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2014:0703JUD003796607",
+    "externalsources": [],
+    "extractedappno": [
+        "37966/07",
+        "18114/06",
+        "20325/06",
+        "21986/93",
+        "22867/05",
+        "8810/05",
+        "41867/04",
+        "34529/10",
+        "71156/01",
+        "26772/95",
+        "77617/01",
+        "7039/04",
+        "23763/94",
+        "22676/93",
+        "31143/96",
+        "32501/11",
+        "1108/02",
+        "39358/05",
+        "64301/01",
+        "52391/99",
+        "63638/09",
+        "34085/06",
+        "42697/05",
+        "13624/03",
+        "15250/02",
+        "30033/05",
+        "16266/03",
+        "36042/97",
+        "43577/98",
+        "43579/98",
+        "20546/07",
+        "55762/00",
+        "55974/00",
+        "24626/09",
+        "25088/94",
+        "28331/95",
+        "28443/95",
+        "42722/02",
+        "32526/05"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-145229",
+    "judgementdate": "03/07/2014 00:00:00",
+    "kpdate": "03/07/2014 00:00:00",
+    "kpthesaurus": [
+        "350",
+        "90",
+        "596",
+        "193",
+        "343",
+        "100"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "4",
+    "paragraphs": [
+        "14",
+        "3"
+    ],
+    "parties": [
+        "ANTAYEV AND OTHERS",
+        "RUSSIA"
+    ],
+    "rank": "1137.98461914063",
+    "representedby": [
+        "MEMORIAL HUMAN RIGHTS CENTRE",
+        "EUROPEAN HUMAN RIGHTS ADVOCACY CENTRE"
+    ],
+    "respondent": "RUS",
+    "respondentOrderEng": "38",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "397355",
+    "typedescription": "15"
+}

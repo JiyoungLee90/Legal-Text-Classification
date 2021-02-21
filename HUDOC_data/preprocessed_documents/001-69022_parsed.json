@@ -1,0 +1,1726 @@
+{
+    "__articles": "2;2-1;3;5;5-1;5-1-c;5-3;5-4;6;6+6-3;6-1;6-3;6-3-b;6-3-c;14;14+2;34;35;35-1;41;46;46-2",
+    "__conclusion": "Preliminary objection dismissed (Article 35-1 - Exhaustion of domestic remedies);Violation of Article 5 - Right to liberty and security (Article 5-4 - Review of lawfulness of detention;Take proceedings);No violation of Article 5 - Right to liberty and security (Article 5-1 - Procedure prescribed by law;Article 5-1-c - Bringing before competent legal authority);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-3 - Brought promptly before judge or other officer);Violation of Article 6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing;Adversarial trial;Equality of arms;Impartial tribunal;Independent tribunal);Violation of Article 6+6-3 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6-3-b - Adequate facilities;Adequate time;Article 6-3-c - Defence through legal assistance;Article 6-3 - Rights of defence;Article 6 - Right to a fair trial);No violation of Article 2 - Right to life (Article 2-1 - Death penalty) (Substantive aspect);No violation of Article 14+2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2-1 - Death penalty;Article 2 - Right to life);No violation of Article 3 - Prohibition of torture (Article 3 - Inhuman punishment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 34 - Individual applications (Article 34 - Hinder the exercise of the right of application);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+    "applicability": "",
+    "appno": "46221/99",
+    "article": [
+        "14",
+        "3",
+        "2",
+        "34",
+        "46",
+        "35",
+        "5",
+        "6",
+        "41"
+    ],
+    "conclusion": [
+        {
+            "details": [
+                "Article 35-1 - Exhaustion of domestic remedies"
+            ],
+            "element": "Preliminary objection dismissed",
+            "type": "other"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Lawful arrest or detention",
+                "Article 5-3 - Brought promptly before judge or other officer"
+            ],
+            "element": "Violation of Article 5 - Right to liberty and security",
+            "type": "violation"
+        },
+        {
+            "article": "5",
+            "base_article": "5",
+            "details": [
+                "Article 5-1 - Procedure prescribed by law",
+                "Article 5-1-c - Bringing before competent legal authority"
+            ],
+            "element": "No violation of Article 5 - Right to liberty and security",
+            "type": "no-violation"
+        },
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing",
+                "Adversarial trial",
+                "Equality of arms",
+                "Impartial tribunal",
+                "Independent tribunal"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-3",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Criminal proceedings",
+                "Article 6-1 - Fair hearing"
+            ],
+            "element": "Violation of Article 6+6-3 - Right to a fair trial",
+            "mentions": [
+                "Article 6-3-b - Adequate facilities",
+                "Adequate time",
+                "Article 6-3-c - Defence through legal assistance",
+                "Article 6-3 - Rights of defence",
+                "Article 6 - Right to a fair trial"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 2-1 - Death penalty"
+            ],
+            "element": "No violation of Article 2 - Right to life",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "2",
+            "base_article": "2",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+2 - Prohibition of discrimination",
+            "mentions": [
+                "Article 2-1 - Death penalty",
+                "Article 2 - Right to life"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "14",
+            "base_article": "14",
+            "details": [
+                "Article 14 - Discrimination"
+            ],
+            "element": "No violation of Article 14+2 - Prohibition of discrimination",
+            "mentions": [
+                "Article 2-1 - Death penalty",
+                "Article 2 - Right to life"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "3",
+            "base_article": "3",
+            "details": [
+                "Article 3 - Degrading treatment",
+                "Inhuman treatment"
+            ],
+            "element": "No violation of Article 3 - Prohibition of torture",
+            "mentions": [
+                "Substantive aspect"
+            ],
+            "type": "no-violation"
+        },
+        {
+            "article": "34",
+            "base_article": "34",
+            "details": [
+                "Article 34 - Hinder the exercise of the right of application"
+            ],
+            "element": "No violation of Article 34 - Individual applications",
+            "type": "no-violation"
+        },
+        {
+            "details": [
+                "Article 41 - Non-pecuniary damage",
+                "Just satisfaction"
+            ],
+            "element": "Non-pecuniary damage - finding of violation sufficient",
+            "type": "other"
+        }
+    ],
+    "content": {
+        "001-69022.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "\u201cThe Court requests the respondent State to take all necessary steps to ensure that the death penalty is not carried out so as to enable the Court to proceed effectively with the examination of the admissibility and merits of the applicant's complaints under the Convention.\u201d",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0The applicant's arrest and transfer to ",
+                                "elements": []
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Police custody on the island of \u0130mral\u0131",
+                                "elements": []
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Appearance before a judge and pre-trial detention",
+                                "elements": []
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0Contact with the outside world during the judicial investigation and conditions at \u0130mral\u0131 Prison",
+                                "elements": []
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0The trial at the ",
+                                "elements": []
+                            },
+                            {
+                                "content": "F.\u00a0\u00a0The appeal on points of law",
+                                "elements": []
+                            },
+                            {
+                                "content": "G.\u00a0\u00a0Commutation of the death penalty to life imprisonment",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC AND INTERNATIONAL LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Provisions on National Security Courts",
+                                "elements": [
+                                    {
+                                        "content": "\u201c... National security courts shall be composed of a president, two other full members, a substitute member, a public prosecutor and a sufficient number of assistant prosecutors.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The president, two full members, a substitute member and the public prosecutor shall be appointed from among judges and public prosecutors of the first rank and assistant prosecutors from among public prosecutors of other ranks. Appointments shall be made for four years by the Council of the National Legal Service, in accordance with procedures laid down in special legislation. Their terms of office shall be renewable ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "\nB.\u00a0\u00a0Article 125 of the Turkish Criminal Code",
+                                "elements": [
+                                    {
+                                        "content": "\u201cAnyone committing an act designed to subject the State or a part of the State to the domination of a foreign State, to diminish its independence or to impair its unity, or which is designed to remove from the administration of the State a part of the territory under its control shall be liable to the death penalty.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Review of the lawfulness of detention",
+                                "elements": [
+                                    {
+                                        "content": "\u201cCompensation shall be paid by the State in respect of all damage sustained by persons:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(1)\u00a0\u00a0who have been arrested or detained under conditions or in circumstances incompatible with the Constitution or statute;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(2)\u00a0\u00a0who have not been immediately informed of the reasons for their arrest or detention;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(3)\u00a0\u00a0who have not been brought before a judicial officer after being arrested or detained within the time allowed by statute for that purpose;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(4)\u00a0\u00a0who have been deprived of their liberty without a court order after the statutory time allowed for being brought before a judicial officer has expired;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(5)\u00a0\u00a0whose close family have not been immediately informed of their arrest or detention;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(6)\u00a0\u00a0who, after being arrested or detained in accordance with the law, are not subsequently committed for trial ..., or are acquitted or discharged after standing trial;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(7)\u00a0\u00a0who have been sentenced to a term of imprisonment shorter than the period spent in detention or ordered to pay a pecuniary penalty only ...\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "D.\u00a0\u00a0The Council of Europe and the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "\u201cA State may make provision in its law for the death penalty in respect of acts committed in time of war or of imminent threat of war; such penalty shall be applied only in the instances laid down in the law and in accordance with its provisions. The State shall communicate to the Secretary General of the Council of Europe the relevant provisions of that law.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe member States of the Council of Europe signatory hereto,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Convinced that everyone's right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Wishing to strengthen the protection of the right to life guaranteed by the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4 November 1950 (hereinafter referred to as 'the Convention');",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Noting that Protocol No. 6 to the Convention, concerning the Abolition of the Death Penalty, signed at Strasbourg on 28 April 1983, does not exclude the death penalty in respect of acts committed in time of war or of imminent threat of war;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Being resolved to take the final step in order to abolish the death penalty in all circumstances,",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Have agreed as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 1 of Protocol No. 13 states:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cThe death penalty shall be abolished. No one shall be condemned to such penalty or executed.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c2.\u00a0\u00a0... its most recent resolutions on the subject, Resolution 1187 (1999) on Europe: a death-penalty free continent, and Resolution 1253 (2001) on the abolition of the death penalty in Council of Europe Observer states, in which it reaffirmed its beliefs that the application of the death penalty constitutes inhuman and degrading punishment and a violation of the most fundamental right, that to life itself, and that capital punishment has no place in civilised, democratic societies governed by the rule of law.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It further noted:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c5.\u00a0\u00a0The second sentence of Article 2 of the European Convention on Human Rights still provides for the death penalty. It has long been in the interest of the Assembly to delete this sentence, thus matching theory with reality. This interest is strengthened by the fact that more modern national constitutional documents and international treaties no longer include such provisions.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cUnder no circumstances may a person convicted of terrorist activities be sentenced to the death penalty; in the event of such a sentence being imposed, it may not be carried out.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "E.\u00a0\u00a0Other international developments concerning the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "\u201c[T]he imposition of a sentence of death upon the conclusion of a trial in which the provisions of the Covenant have not been respected constitutes ... a violation of Article\u00a06 of the Covenant. As the Committee noted in its general comment 6(7), the provision that a sentence of death may be imposed only in accordance with the law and not contrary to the provisions of the Covenant implies that 'the procedural guarantees therein prescribed must be observed, including the right to a fair hearing by an independent tribunal, the presumption of innocence, the minimum guarantees for the defence, and the right to review by a higher tribunal'.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c134.\u00a0\u00a0It might be useful to recall that in a previous examination of Article 4 of the American Convention (Restrictions to the Death Penalty, Advisory Opinion OC-3/83 of 8 September, 1983, Series A No. 3) the Court observed that the application and imposition of capital punishment are governed by the principle that '[n]o one shall be arbitrarily deprived of his life'. Both Article 6 of the International Covenant on Civil and Political Rights and Article 4 of the Convention require strict observance of legal procedure and limit application of this penalty to 'the most serious crimes'. In both instruments, therefore, there is a marked tendency toward restricting application of the death penalty and ultimately abolishing it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0This tendency, evident in other inter-American and universal instruments, translates into the internationally recognised principle whereby those States that still have the death penalty must, without exception, exercise the most rigorous control for observance of judicial guarantees in these cases. It is obvious that the obligation to observe the right to information becomes all the more imperative here, given the exceptionally grave and irreparable nature of the penalty that one sentenced to death could receive. If the due process of law, with all its rights and guarantees, must be respected regardless of the circumstances, then its observance becomes all the more important when that supreme entitlement that every human rights treaty and declaration recognises and protects is at stake: human life.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0Because execution of the death penalty is irreversible, the strictest and most rigorous enforcement of judicial guarantees is required of the State so that those guarantees are not violated and a human life not arbitrarily taken as a result.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cTaking into account the exceptionally serious and irreparable nature of the death penalty, the observance of due process, with its bundle of rights and guarantees, becomes all the more important when human life is at stake.\u201d (paragraph 148)",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+                                "elements": []
+                            },
+                            {
+                                "content": "...",
+                                "elements": []
+                            },
+                            {
+                                "content": "3.\u00a0\u00a0Everyone arrested or detained in accordance with the provisions of paragraph\u00a01\u00a0(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+                                "elements": []
+                            },
+                            {
+                                "content": "4.\u00a0\u00a0Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "The Government pleaded a failure to exhaust domestic remedies with regard to the complaints under Article 5 \u00a7\u00a7 1, 3 and 4. The Grand Chamber considers this preliminary objection to be closely linked to the merits of the complaint under Article 5 \u00a7 4 and will therefore examine it with that complaint, which \u2013 like the Chamber \u2013 it will deal with first.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Article 5 \u00a7 4 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "\u201c... Firstly, the conditions in which the applicant was held and notably the fact that he was kept in total isolation prevented him using the remedy personally. He possessed no legal training and had no possibility of consulting a lawyer while in police custody. Yet, as the Court has noted above ..., the proceedings referred to in Article 5 \u00a7 4 must be judicial in nature. The applicant could not reasonably be expected under such conditions to be able to challenge the lawfulness and length of his detention without the assistance of his lawyer.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... Secondly, as regards the suggestion that the lawyers instructed by the applicant or by his close relatives could have challenged his detention without consulting him, the Court observes that the movements of the sole member of the applicant's legal team to possess an authority to represent him were obstructed by the police ... The other lawyers, who had been retained by the applicant's family, found it impossible to contact him while he was in police custody. Moreover, in view of the unusual circumstances of his arrest, the applicant was the principal source of direct information on events in  that would have been relevant, at that point in the proceedings, for the purposes of challenging the lawfulness of his arrest.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "... Lastly, solely with regard to the length of time the applicant was held in police custody, the Court takes into account the seriousness of the charges against him and the fact that the period spent in police custody did not exceed that permitted by the domestic legislation. It considers that, in those circumstances, an application on that issue to a district judge would have had little prospect of success.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "71.\u00a0\u00a0As to the Government's assertion before the Chamber that the applicant could have claimed compensation under Law no. 466, the Grand Chamber also considers that such a claim cannot constitute proceedings of the type required by Article 5 \u00a7 4 for the reasons set out in paragraph 75 of the Chamber judgment, namely the court's lack of jurisdiction to order release if the detention is unlawful or to award reparation for a breach of the Convention if the detention complies with domestic law.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "72.\u00a0\u00a0For the aforementioned reasons, the Court dismisses the preliminary objection in respect of the complaints under Article 5 \u00a7\u00a7 1, 3 and 4 of the Convention. It further holds for the same reasons that there has been a violation of Article 5 \u00a7 4.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Article 5 \u00a7 1 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "81.\u00a0\u00a0The Government agreed with and supported the Chamber's view that in this type of case cooperation between States confronted with terrorism was normal and did not infringe the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0General principles",
+                                "elements": [
+                                    {
+                                        "content": "84.\u00a0\u00a0It is in the first place for the national authorities, notably the courts, to interpret and apply domestic law. However, since under Article 5 \u00a7 1 failure to comply with domestic law entails a breach of the Convention, it follows that the Court can and should exercise a certain power to review whether this law has been complied with (see Benham v. the United Kingdom, judgment of 10 June 1996, Reports of Judgments and Decisions 1996III, p. 753, \u00a7 41, and Bouamar v. Belgium, judgment of 29 February 1988, Series A no. 129, p. 21, \u00a7 49).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "90.\u00a0\u00a0Irrespective of whether the arrest amounts to a violation of the law of the State in which the fugitive has taken refuge \u2013 a question that only falls to be examined by the Court if the host State is a party to the Convention \u2013 the Court requires proof in the form of concordant inferences that the authorities of the State to which the applicant has been transferred have acted extra-territorially in a manner that is inconsistent with the sovereignty of the host State and therefore contrary to international law (see, mutatis mutandis, Stock\u00e9, cited above, p. 19, \u00a7 54). Only then will the burden of proving that the sovereignty of the host State and international law have been complied with shift to the respondent Government. However, the applicant is not required to adduce proof \u201cbeyond all reasonable doubt\u201d on this point, as was suggested by the Chamber (see paragraph 92 of the Chamber judgment).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application of the principles to the present case",
+                                "elements": [
+                                    {
+                                        "content": "91.\u00a0\u00a0The Court notes that the applicant was arrested by members of the Turkish security forces inside an aircraft registered in Turkey in the international zone of .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "It is common ground that, directly after being handed over to the Turkish officials by the Kenyan officials, the applicant was effectively under Turkish authority and therefore within the \u201cjurisdiction\u201d of that State for the purposes of Article 1 of the Convention, even though in this instance Turkey exercised its authority outside its territory. It is true that the applicant was physically forced to return to Turkey by Turkish officials and was under their authority and control following his arrest and return to Turkey (see, in this respect, the aforementioned decisions in S\u00e1nchez Ramirez and Freda, and, by converse implication, Bankovi\u0107 and Others v. Belgium and Others (dec.) [GC], no. 52207/99, ECHR 2001-XII).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... The Court is not persuaded by the statement by the Kenyan Minister for Foreign Affairs on 16 February 1999 that, contrary to what the applicant maintained, the Kenyan authorities had had no involvement in the applicant's arrest or transfer ... While it is true that the applicant was not arrested by the Kenyan authorities, the evidence before the Court indicates that Kenyan officials had played a role in separating the applicant from the Greek ambassador and in transporting him to the airport immediately preceding his arrest on board the aircraft.\u201d (see paragraph 100 of the Chamber judgment)",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Article 5 \u00a7 3 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "103.\u00a0\u00a0The Grand Chamber notes at the outset the importance of the guarantees afforded by Article 5 \u00a7 3 to an arrested person. The purpose of this provision is to ensure that arrested persons are physically brought before a judicial authority promptly. Such automatic expedited judicial scrutiny provides an important measure of protection against arbitrary behaviour, incommunicado detention and ill-treatment (see, among other authorities, Brannigan and McBride v. the United Kingdom, judgment of 26\u00a0May 1993, Series A no. 258-B, p. 55, \u00a7\u00a7 62-63; Aquilina v. Malta [GC], no.\u00a025642/94, \u00a7 49, ECHR 1999III; Brogan and Others v. the United Kingdom, judgment of 29 November 1988, Series A no. 145B, pp. 31-32, \u00a7\u00a058; and Dikme v. Turkey, no. 20869/92, \u00a7 66, ECHR 2000-VIII).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "\u201c106.\u00a0\u00a0The Court has already noted on a number of occasions that the investigation of terrorist offences undoubtedly presents the authorities with special problems (see Brogan and Others v. the United Kingdom, judgment of 29 November 1988, Series A no. 145-B, p. 33, \u00a7 61; Murray v. the United Kingdom, judgment of 28 October 1994, Series A no. 300-A, p. 27, \u00a7 58; and Aksoy v. Turkey, [judgment of 18 December 1996, Reports 1996-VI], p. 2282, \u00a7 78). This does not mean, however, that the investigating authorities have carte blanche under Article 5 to arrest suspects for questioning, free from effective control by the domestic courts and, ultimately, by the Convention supervisory institutions, whenever they choose to assert that terrorism is involved (see Sak\u0131k and Others v. Turkey, [judgment of 26 November 1997, Reports 1997-VII], pp. 2623-24, \u00a7 44).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "107.\u00a0\u00a0The Court notes that the police custody in issue commenced with the applicant's arrest either very late on 15 February 1999 or very early on 16 February 1999. The applicant was held in police custody for four days until 20 February 1999. On that date a judicial order was made extending the period by three days, that is to say until 23 February 1999. The public prosecutor questioned the applicant on 22\u00a0February 1999. The applicant appeared before a judge for the first time on 23\u00a0February 1999 and the judge, who was without any doubt an 'officer' within the meaning of Article 5 \u00a7 3 (see, among other authorities, Sak\u0131k and Others, cited above, p. 2615, \u00a7 12, and p. 2624, \u00a7 45), ordered his detention pending trial. The total period thus spent by the applicant in police custody before being brought before a judge came to a minimum of seven days.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "108.\u00a0\u00a0The Court notes that in Brogan and Others it held that a period of four days and six hours in police custody without judicial supervision fell outside the strict constraints as to time permitted by Article 5 \u00a7 3, even when the aim was to protect the community as a whole from terrorism (see Brogan and Others, cited above, p. 33, \u00a7\u00a062).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0The Court cannot accept the Government's argument that adverse weather conditions were largely responsible for the period of seven days it took for the applicant to be brought before a judge. No evidence has been adduced before the Court that establishes that the judge attempted to reach the island on which the applicant was being held so that the latter could be brought before him within the total statutory period of seven days allowed for police custody. The Court observes in that connection that the police custody ran its ordinary course under the domestic rules. In addition to the four days ordered by the public prosecutor's office itself, the judge granted an additional period of three days after examining the case on the basis of the file. It seems unlikely that the judge would have granted the additional time had he intended to have the applicant brought before him before it expired.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0The Court cannot, therefore, accept that it was necessary for the applicant to be detained for seven days without being brought before a judge.\u201d",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "105.\u00a0\u00a0In the light of all the foregoing considerations, the Court holds that there has been a violation of Article 5 \u00a7 3 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Whether the Ankara National Security Court, which convicted the applicant, was independent and impartial",
+                                "elements": [
+                                    {
+                                        "content": "\u201cIn the determination of ... any criminal charge against him, everyone is entitled to a ... hearing ... by an independent and impartial tribunal ...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "108.\u00a0\u00a0The Government contested the Chamber's finding that the last-minute replacement of the military judge was incapable of curing the defect in the composition of the court or of remedying the resulting violation of Article 6.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "109.\u00a0\u00a0The Government invited the Grand Chamber to follow the Court's decision in \u0130mrek v. Turkey ((dec.), no. 57175/00, 28 January 2003), in which it held that the replacement of a military judge by a civilian judge in the course of criminal proceedings had solved the problem regarding the independence and impartiality of the national security court concerned.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "110.\u00a0\u00a0They objected in particular to the Chamber's use of the \u201clast minute\u201d criterion in its judgment in the present case. That criterion would have been valid had the new judge not been given sufficient time to examine the interlocutory decisions taken up to that point or been precluded from issuing new ones. However, in the Government's submission, the replacement judge had been given both the time and the means necessary to play an active role in the decision-making process.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "111.\u00a0\u00a0The Government further maintained that the applicant himself had had no doubts about the independence and impartiality of the . He had in fact expressed his confidence in that court at a hearing at which the military judge had been present. It mattered little that the applicant's lawyers had subsequently contradicted Mr \u00d6calan's remark in their submissions. The most important point was that that remark \u2013 which had been made of the applicant's own free will and expressed his confidence in the court \u2013 had been sincere.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "112.\u00a0\u00a0The Court has consistently held that certain aspects of the status of military judges sitting as members of the national security courts made their independence from the executive questionable (see Incal v. Turkey, judgment of 9 June 1998, Reports 1998-IV, p. 1572, \u00a7 68, and \u00c7\u0131raklar v. Turkey, judgment of 28 October 1998, Reports 1998-VII, p. 3073, \u00a7 39).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "113.\u00a0\u00a0It is understandable that the applicant \u2013 prosecuted in a national security court for serious offences relating to national security \u2013 should have been apprehensive about being tried by a bench that included a regular army officer belonging to the military legal service. On that account he could legitimately fear that the  might allow itself to be unduly influenced by considerations that had nothing to do with the nature of the case (see, among other authorities, Iprahim \u00dclger v. Turkey, no.\u00a057250/00, 29 July 2004).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "114.\u00a0\u00a0As to whether the military judge's replacement by a civilian judge in the course of the proceedings before the verdict was delivered remedied the situation, the Court considers, firstly, that the question whether a court is seen to be independent does not depend solely on its composition when it delivers its verdict. In order to comply with the requirements of Article 6 regarding independence, the court concerned must be seen to be independent of the executive and the legislature at each of the three stages of the proceedings, namely the investigation, the trial and the verdict (those being the three stages in Turkish criminal proceedings according to the Government).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "115.\u00a0\u00a0Secondly, when a military judge has participated in one or more interlocutory decisions that continue to remain in effect in the criminal proceedings concerned, the accused has reasonable cause for concern about the validity of the entire proceedings, unless it is established that the procedure subsequently followed in the national security court sufficiently dispelled that concern. More specifically, where a military judge has participated in an interlocutory decision that forms an integral part of proceedings against a civilian, the whole proceedings are deprived of the appearance of having been conducted by an independent and impartial court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "117.\u00a0\u00a0In the instant case, the Court notes that before his replacement on 23 June 1999 the military judge was present at two preliminary hearings and six hearings on the merits, when interlocutory decisions were taken. It further notes that none of the decisions were renewed after the replacement of the military judge and that all were validated by the replacement judge.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "118.\u00a0\u00a0In these circumstances, the Court cannot accept that the replacement of the military judge before the end of the proceedings dispelled the applicant's reasonably held concern about the trial court's independence and impartiality. In so far as the decision or reasoning in \u0130mrek, cited above, may be regarded as inconsistent with this conclusion, the Grand Chamber will not follow the decision and the reasoning in that case.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Consequently, there has been a violation of Article 6 \u00a7 1 of the Convention on this point.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Whether the proceedings in the  were fair",
+                                "elements": [
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0... everyone is entitled to a fair ... hearing within a reasonable time ...",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Everyone charged with a criminal offence has the following minimum rights:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(a)\u00a0\u00a0to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(b)\u00a0\u00a0to have adequate time and facilities for the preparation of his defence;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(c)\u00a0\u00a0to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "(d)\u00a0\u00a0to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "128.\u00a0\u00a0On this point, the Government also argued that, contrary to what the Chamber had found, the Court's case-law in Kremzow v. Austria (judgment of 21 September 1993, Series A no. 268-B, p. 42, \u00a7 52) and Kamasinski v. Austria (judgment of 19 December 1989, Series A no. 168, pp. 39-40, \u00a7 88) was applicable in the instant case. There was no requirement under that case-law for the accused to be given direct access to the case file. It was sufficient for him to be apprised of its content by his representatives. Requiring such access to be afforded in the prosecution of organised crime would discriminate against those accused of ordinary offences.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Legal assistance",
+                                "elements": [
+                                    {
+                                        "content": "\u201c... The Court reiterates that Article 6 may also be relevant before a case is sent for trial if and in so far as the fairness of the trial is likely to be seriously prejudiced by an initial failure to comply with it (see Imbrioscia v. Switzerland, judgment of 24\u00a0November 1993, Series A no. 275, p. 13, \u00a7 36). The manner in which Article 6 \u00a7\u00a7 1 and 3 (c) are applied during the investigation depends on the special features of the proceedings and the facts of the case. Article 6 will normally require that the accused be allowed to benefit from the assistance of a lawyer from the initial stages of police interrogation. However, this right, which is not explicitly set out in the Convention, may be subject to restrictions for good cause. The question, in each case, is whether the restriction, in the light of the entirety of the proceedings, has deprived the accused of a fair hearing (see John Murray v. the United Kingdom, judgment of 8 February 1996, Reports 1996-I, pp. 54-55, \u00a7 63).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... In the present case, the applicant was questioned by the security forces, a public prosecutor and a judge of the  while being held in police custody in  for almost seven days, from 16 February 1999 to 23 February 1999. He received no legal assistance during that period and made several self-incriminating statements that were subsequently to become crucial elements of the indictment and the public prosecutor's submissions and a major contributing factor in his conviction.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... As to whether the applicant had waived his right to consult a lawyer, the Court notes that on the day after his arrest, his lawyer in , Mr Feridun \u00c7elik (who already possessed a valid authority), sought permission to visit him. However, Mr\u00a0\u00c7elik was prevented from travelling by members of the security forces. In addition, on 22 February 1999 sixteen lawyers who had been retained by the applicant's family sought permission from the National Security Court to visit the applicant, but their request was turned down by the authorities on 23 February 1999.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... In these circumstances, the Court is of the view that to deny access to a lawyer for such a long period and in a situation where the rights of the defence might well be irretrievably prejudiced is detrimental to the rights of the defence to which the accused is entitled by virtue of Article 6 (see, mutatis mutandis, Magee [v. the United Kingdom, no. 28135/95], \u00a7\u00a7 44-45[, ECHR 2000-VI]).\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "132.\u00a0\u00a0In the absence of any specific observations by the parties on this point in the proceedings before it, the Grand Chamber endorses the Chamber's findings:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the applicant's first visit from his lawyers took place under the supervision and within sight and hearing of members of the security forces and a judge, all of whom were present in the same room as the applicant and his lawyers. The security forces restricted the visit to twenty minutes. The record of the visit was sent to the .",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... As regards subsequent visits, ... the Court accepts that meetings between the applicant and his lawyers after the initial visit took place within hearing of members of the security forces, even though the security officers concerned were not in the room where the meetings took place.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... an accused's right to communicate with his legal representative out of the hearing of a third person is part of the basic requirements of a fair trial in a democratic society and follows from Article 6 \u00a7 3 (c) of the Convention. If a lawyer were unable to confer with his client and receive confidential instructions from him without such surveillance, his assistance would lose much of its usefulness, whereas the Convention is intended to guarantee rights that are practical and effective (see S. v. Switzerland, judgment of 28 November 1991, Series A no. 220, pp. 15-16, \u00a7 48). The importance to the rights of the defence of ensuring confidentiality in meetings between the accused and his lawyers has been affirmed in various international instruments, including European instruments (see Brennan v. the United Kingdom, no. 39846/98, \u00a7\u00a7 38-40, ECHR 2001-X). However, as stated above ... restrictions may be imposed on an accused's access to his lawyer if good cause exists. The relevant issue is whether, in the light of the proceedings taken as a whole, the restriction has deprived the accused of a fair hearing.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... In the present case, the Court accepts ... that the applicant and his lawyers were unable to consult out of the hearing of the authorities at any stage. It considers that the inevitable consequence of that restriction, which was imposed during both the preliminary investigation and the trial, was to prevent the applicant from conversing openly with his lawyers and asking them questions that might prove important to the preparation of his defence. The rights of the defence were thus significantly affected.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The Court observes in that connection that the applicant had already made statements by the time he conferred with his lawyers and made further statements at hearings before the  after consulting them. If his defence to the serious charges he was required to answer was to be effective, it was essential that those statements be consistent. Accordingly, the Court considers that it was necessary for the applicant to be able to speak with his lawyers out of the hearing of third parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... As to the Government's contention that the supervision of the meetings between the applicant and his lawyers was necessary to ensure the applicant's security, the Court observes that the lawyers had been retained by the applicant himself and that there was no reason to suspect that they threatened their client's life. They were not permitted to see the applicant until they had undergone a series of searches. Mere visual surveillance by the prison officials, accompanied by other measures, would have sufficed to ensure the applicant's security.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "135.\u00a0\u00a0Having examined the parties' arguments, the Grand Chamber sees no good reason to disagree with the following findings of the Chamber:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... while Article 6 \u00a7 3 (c) confers on everyone charged with a criminal offence the right to 'defend himself in person or through legal assistance ...', it does not specify the manner of exercising this right. It thus leaves to the Contracting States the choice of the means of ensuring that it is secured in their judicial systems, the Court's task being only to ascertain whether the method they have chosen is consistent with the requirements of a fair trial (see Quaranta v. Switzerland, judgment of 24 May 1991, Series\u00a0A no. 205, p. 16, \u00a7 30). In this respect, it must be remembered that the Convention is designed to 'guarantee not rights that are theoretical or illusory but rights that are practical and effective' and that assigning a counsel does not in itself ensure the effectiveness of the assistance he may afford an accused (see Artico v. Italy, judgment of 13 May 1980, Series A no. 37, pp. 15-16, \u00a7 33). The Court also points out that the manner in which Article 6 \u00a7\u00a7 1 and 3 (c) are to be applied during the preliminary investigation depends on the special features of the proceedings involved and on the circumstances of the case; in order to determine whether the aim of Article\u00a06 \u2013 a fair trial \u2013 has been achieved, regard must be had to the entirety of the domestic proceedings conducted in the case (see Imbrioscia, cited above, pp. 13-14, \u00a7\u00a038).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The Court observes that, in the instant case, the charges against the applicant included numerous acts of violence perpetrated by an illegal armed organisation and that he was alleged to be the leader of that organisation and the principal instigator of its acts. The Court further notes that the presentation of those highly complex charges generated an exceptionally voluminous case file ... It considers that in order to prepare his defence to those charges the applicant required skilled legal assistance equal to the complex nature of the case. It finds that the special circumstances of the case did not justify restricting the applicant to a rhythm of two one-hour meetings per week with his lawyers in order to prepare for a trial of that magnitude.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... With respect to the Government's argument that visits took place in accordance with the frequency and departure times of the ferries between the island of \u0130mral\u0131 and the coast, the Court considers that, while the Government's decision to hold the applicant in an island prison far from the coast is understandable in view of the exceptional security considerations in the case, restricting visits to two one-hour visits a week is less easily justified. It notes that the Government have not explained why the authorities did not permit the lawyers to visit their client more often or why they failed to provide more adequate means of transport, thereby increasing the length of each individual visit, when such measures were called for as part of the 'diligence' the Contracting States must exercise in order to ensure that the rights guaranteed by Article 6 are enjoyed in an effective manner (see Colozza [v. Italy, judgment of 12\u00a0February 1985, Series A no. 89], pp. 14-15, \u00a7 28).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... As to the Government's argument that the applicant's lawyers organised press conferences after each visit and acted as spokespersons for the PKK, the Court holds that any such conduct on their part could not justify the restrictions in issue, since restrictions cannot be placed on the rights of the defence for reasons that are not directly related to the trial. In addition, there is no evidence before the Court that any complaint was lodged in  against the applicant's lawyers for acting as spokespersons for the PKK.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "136.\u00a0\u00a0The Government's argument before the Grand Chamber that the applicant's lawyers had not asked to see him at more frequent intervals must also be rejected. The Court reiterates that waiver of the exercise of a right guaranteed by the Convention must be established in an unequivocal manner (see, mutatis mutandis, Pfeifer and Plankl v. Austria, judgment of 25 February 1992, Series A no. 227, pp. 16-17, \u00a7 37). It notes that there was in fact a complaint by the applicant's lawyers to the  about the difficulties they had encountered in communicating with their client.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The applicant's access to the case file",
+                                "elements": [
+                                    {
+                                        "content": "141.\u00a0\u00a0As regards the relevant facts in the present case, the Grand Chamber agrees with the following findings of the Chamber:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... in the instant case, the applicant was not permitted to inspect the evidence produced by the prosecution personally before the hearings. When the applicant's lawyers made their comments on that evidence, they had yet to obtain the applicant's observations following a direct inspection of the documentation. The fact that the applicant was given permission on 2 June 1999 to consult the case file under the supervision of two registrars did little to remedy that situation, in view of the considerable volume of documents concerned and the short time available to the applicant.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "142.\u00a0\u00a0The Grand Chamber therefore considers that the present case is distinguishable from Kremzow, in which the applicant had twenty-one days in which to examine forty-nine pages, in contrast to Mr \u00d6calan, who had twenty days in which to examine a case file containing some 17,000 pages. The present case is also distinguishable from Kamasinski, in which the applicant's lawyer was able to pass on to his client copies of all the documents he considered relevant. Mr \u00d6calan's lawyers were not able to provide him with any documents before submitting their comments on the prosecution evidence.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "143.\u00a0\u00a0The Government's argument that a more detailed examination by the applicant of the material relating to the acts of the other members of the PKK would not have permitted him to find evidence to assist him in his defence as he had already acknowledged responsibility for the acts of the PKK also warrants examination by the Court. It should be noted that while the applicant admitted before the National Security Court that he was the leader of the PKK, an armed separatist organisation, and responsible for the general policy of that organisation, he did not specifically comment on each act of violence committed by PKK members. He did say in his defence, however, that certain acts of violence had been committed against his will or beyond his control.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(c)\u00a0\u00a0Access by the applicant's lawyers to the court file",
+                                "elements": [
+                                    {
+                                        "content": "146.\u00a0\u00a0The principle of equality of arms is only one feature of the wider concept of a fair trial, which also includes the fundamental right that criminal proceedings should be adversarial. The right to an adversarial trial means, in a criminal case, that both prosecution and defence must be given the opportunity to have knowledge of and comment on the observations filed and the evidence adduced by the other party. Various ways are conceivable in which national law may meet this requirement. However, whatever method is chosen, it should ensure that the other party will be aware that observations have been filed and will get a real opportunity to comment on them (see Brandstetter v. Austria, judgment of 28 August 1991, Series A no. 211, pp. 27-28, \u00a7\u00a7 66-67).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In these circumstances, the Grand Chamber agrees with the Chamber's findings regarding the difficulties the applicant's lawyers encountered in gaining access to the court file, which were exacerbated by the same kinds of problem the applicant had experienced:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the applicant's lawyers received a 17,000-page file approximately two weeks before the beginning of the trial in the . Since the restrictions imposed on the number and length of their visits made it impossible for the applicant's lawyers to communicate the documents in the file to their client before 2 June 1999 or to involve him in its examination and analysis, they found themselves in a situation that made the preparation of the defence case particularly difficult. Subsequent developments in the proceedings did not permit them to overcome those difficulties: the trial proceeded apace; the hearings continued without interruption until 8 June 1999; and on 23 June 1999 the applicant's lawyers were invited to present their submissions on all the evidence in the file, including that taken at the hearings.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(d)\u00a0\u00a0The Court's conclusion regarding the fairness of the trial",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0DEATH PENALTY: ALLEGED VIOLATION OF ARTICLES 2, 3 AND 14 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "Article 2",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c1.\u00a0\u00a0Everyone's right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+                                "elements": []
+                            },
+                            {
+                                "content": "...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 3",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "Article 14",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cThe enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Implementation of the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "151.\u00a0\u00a0In his initial application, the applicant complained that any recourse to the death penalty would violate both Articles 2 and 3 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "152.\u00a0\u00a0In its judgment, the Chamber said that it considered that the threat of implementation of the death sentence had been effectively removed (see paragraphs 184-85 of the Chamber judgment).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "153.\u00a0\u00a0The parties did not comment on this issue in the subsequent proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "154.\u00a0\u00a0In this connection, the Court notes that the death penalty has been abolished in  and the applicant's sentence has been commuted to life imprisonment. Furthermore, on 12 November 2003  ratified Protocol No. 6 to the Convention concerning the abolition of the death penalty.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "155.\u00a0\u00a0In these circumstances, the complaints the applicant made in his initial application of violations of Articles 2, 3 and 14 on account of the implementation of the death penalty must be dismissed. Accordingly, there has been no violation of those provisions on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Imposition of the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "156.\u00a0\u00a0The Grand Chamber agrees with the Chamber that no separate issue arises under Article 2 with respect to the imposition of the death penalty. It will therefore examine this point under Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0The parties' submissions",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0The applicant",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0The Government",
+                                "elements": [
+                                    {
+                                        "content": "161.\u00a0\u00a0The Government disagreed with the Chamber's finding that the imposition of the death penalty following an unfair trial constituted a violation of Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "They observed, firstly, that neither the applicant nor his lawyers had presented any argument on this point. Secondly, even assuming that the Court had decided of its own motion to examine the case under Article 3, it would be difficult if not impossible to do so in view of the nature of Article\u00a03. Inhuman treatment within the meaning of Article 3 was based on a subjective concept, that is to say fear and anguish felt by the applicant that reached the level proscribed by Article 3. In the absence of such a complaint, it was not possible for the Court to put itself in the applicant's position.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the Government's submission, the conclusion reached by the Chamber was contrary to an earlier admissibility decision of the Commission in \u00c7\u0131nar v. Turkey (no. 17864/91, Commission decision of 5 September 1994, DR\u00a079-A, p. 5) and to Sertkaya v. Turkey ((dec.), no. 77113/01, 11\u00a0December 2003). In those decisions, the Convention institutions found that the applicants had not felt fear or anguish as the moratorium on the implementation of the death penalty had eliminated any risk of their being executed.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The applicant's situation was identical to that of Mr \u00c7\u0131nar and Mr\u00a0Sertkaya, and the guarantees that the death penalty would not be carried out were, if anything, firmer in his case: as the applicant's case file had never been sent to Parliament, the procedure allowing the death penalty to be implemented was never set in motion. In addition, the Turkish government's moratorium on the implementation of the death penalty was unconditional and no offences or individuals were excluded from its scope. The Government had complied with the interim measure ordered by the Court under Rule 39 requiring them to stay the applicant's execution. There was a broad consensus in Parliament in  that the applicant should not be executed, the composition of Parliament at the material time being the same as when it abolished the death penalty.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Government submitted that there was no evidential basis for the Chamber's finding, nor could it be justified by the Court's request for a stay of execution of the death penalty.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0Legal significance of the practice of the Contracting States as regards the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "\u201c... The Court reiterates that it must be mindful of the Convention's special character as a human rights treaty and that the Convention cannot be interpreted in a vacuum. It should so far as possible be interpreted in harmony with other rules of public international law of which it forms part (see, mutatis mutandis, Al-Adsani v. the United Kingdom [GC], no. 35763/97, \u00a7 55, ECHR 2001-XI, and Loizidou v. Turkey, judgment of 18 December 1996, Reports 1996-VI, p. 2231, \u00a7 43). It must, however, confine its primary attention to the issues of interpretation and application of the provisions of the Convention that arise in the present case.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... It is recalled that the Court accepted in Soering that an established practice within the member States could give rise to an amendment of the Convention. In that case the Court accepted that subsequent practice in national penal policy, in the form of a generalised abolition of capital punishment, could be taken as establishing the agreement of the Contracting States to abrogate the exception provided for under Article 2 \u00a7 1 and hence remove a textual limit on the scope for evolutive interpretation of Article 3 (ibid., pp. 40-41, \u00a7 103). It was found, however, that Protocol No. 6 showed that the intention of the States was to adopt the normal method of amendment of the text in order to introduce a new obligation to abolish capital punishment in time of peace and to do so by an optional instrument allowing each State to choose the moment when to undertake such an engagement. The Court accordingly concluded that Article 3 could not be interpreted as generally prohibiting the death penalty (ibid., pp. 40-41, \u00a7\u00a7 103-04).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The applicant takes issue with the Court's approach in Soering. His principal submission was that the reasoning is flawed since Protocol No. 6 represents merely one yardstick by which the practice of the States may be measured and that the evidence shows that all member States of the Council of Europe have, either de facto or de jure, effected total abolition of the death penalty for all crimes and in all circumstances. He contended that as a matter of legal theory there was no reason why the States should not be capable of abolishing the death penalty both by abrogating the right to rely on the second sentence of Article 2 \u00a7 1 through their practice and by formal recognition of that process in the ratification of Protocol No. 6.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The Court reiterates that the Convention is a living instrument which must be interpreted in the light of present-day conditions and that the increasingly high standard being required in the area of the protection of human rights and fundamental liberties correspondingly and inevitably requires greater firmness in assessing breaches of the fundamental values of democratic societies (see Selmouni v. France [GC], no. 25803/94, \u00a7 101, ECHR 1999-V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... It reiterates that in assessing whether a given treatment or punishment is to be regarded as inhuman or degrading for the purposes of Article 3 it cannot but be influenced by the developments and commonly accepted standards in the penal policy of the member States of the Council of Europe in this field (see Soering, cited above, p. 40, \u00a7 102). Moreover, the concepts of inhuman and degrading treatment and punishment have evolved considerably since the Convention came into force in 1953 and indeed since the Court's judgment in Soering in 1989.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Equally the Court observes that the legal position as regards the death penalty has undergone a considerable evolution since Soering was decided. The de facto abolition noted in that case in respect of twenty-two Contracting States in 1989 has developed into a de jure abolition in forty-three of the forty-four Contracting States and a moratorium in the remaining State that has not yet abolished the penalty, namely Russia. This almost complete abandonment of the death penalty in times of peace in Europe is reflected in the fact that all the Contracting States have signed Protocol No. 6 and forty-one States have ratified it, that is to say, all except Turkey, Armenia and Russia[]. It is further reflected in the policy of the Council of Europe, which requires that new member States undertake to abolish capital punishment as a condition of their admission into the organisation. As a result of these developments the territories encompassed by the member States of the Council of Europe have become a zone free of capital punishment.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Such a marked development could now be taken as signalling the agreement of the Contracting States to abrogate, or at the very least to modify, the second sentence of Article 2 \u00a7 1, particularly when regard is had to the fact that all Contracting States have now signed Protocol No. 6 and that it has been ratified by forty-one States. It may be questioned whether it is necessary to await ratification of Protocol No. 6 by the three remaining States before concluding that the death penalty exception in Article 2 \u00a7 1 has been significantly modified. Against such a consistent background, it can be said that capital punishment in peacetime has come to be regarded as an unacceptable ... form of punishment that is no longer permissible under Article 2.\u201d",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "\n(b)\u00a0\u00a0Unfair proceedings and the death penalty",
+                                "elements": [
+                                    {
+                                        "content": "166.\u00a0\u00a0As regards the reference in Article 2 of the Convention to \u201cthe execution of a sentence of a court\u201d, the Grand Chamber agrees with the Chamber's reasoning (see paragraphs 201-04 of the Chamber judgment):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... Since the right to life in Article 2 of the Convention ranks as one of the most fundamental provisions of the Convention \u2013 one from which there can be no derogation in peacetime under Article 15 \u2013 and enshrines one of the basic values of the democratic societies making up the Council of Europe, its provisions must be strictly construed (see, mutatis mutandis, McCann and Others v. the United Kingdom, judgment of 27 September 1995, Series A no. 324, pp. 45-46, \u00a7 147), a fortiori the second sentence of Article 2 \u00a7 1.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Even if the death penalty were still permissible under Article 2, the Court considers that an arbitrary deprivation of life pursuant to capital punishment is prohibited. This flows from the requirement that '[e]veryone's right to life shall be protected by law'. An arbitrary act cannot be lawful under the Convention (see Bozano, cited above, p. 23, \u00a7 54, and pp. 25-26, \u00a7 59).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... It also follows from the requirement in Article 2 \u00a7 1 that the deprivation of life be pursuant to the 'execution of a sentence of a court', that the 'court' which imposes the penalty be an independent and impartial tribunal within the meaning of the Court's case-law (see Incal, cited above; \u00c7\u0131raklar, cited above; Findlay v. the United Kingdom, judgment of 25 February 1997, Reports 1997-I; and Hauschildt v. Denmark, judgment of 24 May 1989, Series A no. 154), and that the most rigorous standards of fairness be observed in the criminal proceedings both at first instance and on appeal. Since the execution of the death penalty is irreversible, it can only be through the application of such standards that an arbitrary and unlawful taking of life can be avoided (see, in this connection, Article 5 of ECOSOC Resolution 1984/50 and the decisions of the United Nations Human Rights Committee ...; also Advisory Opinion OC-16/99 of 1 October 1999 of the Inter-American Court of Human Rights on 'The right to information on consular assistance in the framework of the guarantee of due process of law', \u00a7\u00a7\u00a013536, and Hilaire, Constantine and Benjamin et al. v. Trinidad and Tobago, \u00a7 148 ...). Lastly, the requirement in Article 2 \u00a7 1 that the penalty be 'provided by law' means not only that there must exist a basis for the penalty in domestic law but that the requirement of the quality of the law be fully respected, namely that the legal basis be 'accessible' and 'foreseeable' as those terms are understood in the case-law of the Court (see Amann v. Switzerland [GC], no.\u00a027798/95, \u00a7 56, ECHR 2000-II, and Rotaru v. Romania [GC], no. 28341/95, \u00a7 52, ECHR 2000-V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... It follows from the above construction of Article 2 that the implementation of the death penalty in respect of a person who has not had a fair trial would not be permissible.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "168.\u00a0\u00a0As the Court has previously noted in connection with Article 3, the manner in which the death penalty is imposed or executed, the personal circumstances of the condemned person and a disproportionality to the gravity of the crime committed, as well as the conditions of detention awaiting execution, are examples of factors capable of bringing the treatment or punishment received by the condemned person within the proscription under Article 3 (see Soering, cited above, p. 41, \u00a7 104).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION: CONDITIONS OF DETENTION",
+                        "elements": [
+                            {
+                                "content": "\u201cNo one shall be subjected to torture or to inhuman or degrading treatment or punishment.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Conditions in which the applicant was transferred from Kenya to Turkey",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "178.\u00a0\u00a0The Government asked the Grand Chamber to uphold the Chamber's finding that the conditions in which the applicant was transferred from Kenya to  did not infringe Article 3.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "(a)\u00a0\u00a0General principles",
+                                "elements": []
+                            },
+                            {
+                                "content": "(b)\u00a0\u00a0Application of the above principles to the instant case",
+                                "elements": [
+                                    {
+                                        "content": "184.\u00a0\u00a0The Grand Chamber has examined the Chamber's findings and, in the absence of any additional arguments by the parties in support of their views, adopts them:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c... the applicant was forced to wear handcuffs from the moment of his arrest by the Turkish security forces on the aircraft until his arrival at the prison on the island of \u0130mral\u0131. [The Court] also notes that he was suspected of being the leader of an armed separatist movement that was engaged in an armed struggle against the Turkish security forces and that he was considered dangerous. The Court accepts the Government's submission that the sole purpose of requiring the applicant to wear handcuffs as one of the security measures taken during the arrest phase was to prevent him from attempting to abscond or causing injury or damage to himself or others.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... As regards the blindfolding of the applicant during his journey from Kenya to , the Court observes that that was a measure taken by the members of the security forces in order to avoid being recognised by the applicant. They also considered that it was a means of preventing the applicant from attempting to escape or injuring himself or others. The applicant was not questioned by the security forces when he was blindfolded. The Court accepts the Government's explanation that the purpose of that precaution was not to humiliate or debase the applicant but to ensure that the transfer proceeded smoothly and it acknowledges that, in view of the applicant's character and the reaction to his arrest, considerable care and proper precautions were necessary if the operation was to be a success.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The Court's view on this point is not altered by the fact that the applicant was photographed wearing a blindfold in the aircraft that took him back to . It points out that there had been fears for the applicant's life following his arrest and the photographs, which the Government say were intended for use by the police, served to reassure those concerned about his welfare. The Court notes, lastly, that the applicant was not wearing a blindfold when he was photographed in  shortly before his transfer to the prison.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... The applicant said that he was under sedation when he was transferred from Kenya to Turkey, the drugs having been administered to him either at the Greek embassy in Nairobi before he boarded the plane or in the aircraft that had taken him to . The Government rejected the latter suggestion. The Court notes that there is no evidence in the case file to substantiate the allegation that the Turkish security forces administered drugs to the applicant. Since the applicant also seems to think that the most probable explanation is that he was drugged before he was put on board the flight from Nairobi to , the Court considers that this allegation against the Turkish officials has not been established.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Furthermore, at the hearing on 31 May 1999 the applicant stated in the : 'Since my arrest I have not up to now been subjected to torture, ill-treatment or verbal abuse.' While the applicant's vulnerability at the time as a result of his being on trial for a capital offence means that that statement does not by itself conclusively establish the facts, it does support the Government's submissions.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... Lastly, since the applicant's arrest was lawful under Turkish law, the Court cannot accept the applicant's submission that his 'abduction' abroad on account of his political opinions constituted inhuman or degrading treatment within the meaning of Article 3.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "... That being so, the Court considers that it has not been established 'beyond all reasonable doubt' that the applicant's arrest and the conditions in which he was transferred from Kenya to Turkey exceeded the usual degree of humiliation that is inherent in every arrest and detention or attained the minimum level of severity required for Article 3 of the Convention to apply.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "185.\u00a0\u00a0Consequently, there has been no violation of Article 3 on that account.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Conditions of detention on the island of \u0130mral\u0131",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "186.\u00a0\u00a0The applicant disagreed with the Chamber's finding that the conditions of his detention on the island of \u0130mral\u0131 did not infringe Article 3. He submitted that the conditions were inhuman within the meaning of Article 3 or at the very least entailed disproportionate interference with the exercise of his rights under Article 8. He had been the sole inmate in the prison for more than five years and his social isolation was made worse by the ban on his having a television set or communicating by telephone, and by the practical obstacle inadequate sea transport facilities posed to visits by his lawyers and members of his family. The applicant pointed out that the CPT's recommendations for reduced social isolation had not been followed by the prison authorities. His prison conditions were, in his submission, harsher than those of other prisoners.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government's submissions",
+                                        "elements": [
+                                            {
+                                                "content": "189.\u00a0\u00a0The Government asserted that the applicant was treated in strict conformity with European standards governing conditions of detention. In the cases in which the Court had found a violation of Article 3, the conditions of detention were far worse than in Mr \u00d6calan's case (for instance, Poltoratskiy v. Ukraine, no. 38812/97, ECHR 2003-V, and Kuznetsov v. Ukraine, no. 39042/97, 29 April 2003).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0The Court's assessment",
+                                        "elements": [
+                                            {
+                                                "content": "190.\u00a0\u00a0The Court must first determine the period of the applicant's detention to be taken into consideration when examining his complaints under Article 3. It points out that the \u201ccase\u201d referred to the Grand Chamber embraces in principle all aspects of the application previously examined by the Chamber in its judgment, the scope of its jurisdiction in the \u201ccase\u201d being limited only by the Chamber's decision on admissibility (see, mutatis mutandis, K. and T. v. Finland [GC], no. 25702/94, \u00a7\u00a7 139-41, ECHR 2001-VII; Kingsley v. the United Kingdom [GC], no. 35605/97, \u00a7 34, ECHR 2002-IV; G\u00f6\u00e7 v. Turkey [GC], no. 36590/97, \u00a7\u00a7 35-37, ECHR 2002-V; and Refah Partisi (the Welfare Party) and Others v. Turkey [GC], nos.\u00a041340/98, 41342/98, 41343/98 and 41344/98, \u00a7 56, ECHR 2003-II). More specifically, within the compass delimited by the decision on the admissibility of the application, the Court may deal with any issue of fact or law that arises during the proceedings before it (see, among many other authorities, Guerra and Others v. Italy, judgment of 19 February 1998, Reports 1998-I, p. 223, \u00a7 44; Chahal, cited above, p. 1856, \u00a7 86; and Ahmed v. Austria, judgment of 17 December 1996, Reports 1996-VI, p. 2207, \u00a7\u00a043). There is no justification for excluding from the scope of that general jurisdiction events that took place up to the date of the Grand Chamber's judgment, provided that they are directly related to the complaints declared admissible.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "Furthermore, in the instant case, the applicant has already made submissions in the proceedings before the Chamber outlining his arguments on the effects his prolonged social isolation while in custody were likely to have.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "194.\u00a0\u00a0Further, the Court considers that the applicant cannot be regarded as being kept in sensory isolation or cellular confinement. It is true that, as the sole inmate, his only contact is with prison staff. He has books, newspapers and a radio at his disposal. He does not have access to television programmes or a telephone. He does, however, communicate with the outside world by letter. He sees a doctor every day and his lawyers and members of his family once a week (his lawyers were allowed to see him twice a week during the trial). The difficulties in gaining access to \u0130mral\u0131 Prison in adverse weather conditions appear to have been resolved, as the prison authorities were provided with a suitable craft at the end of 2004.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "V.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 34 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "\u201cThe Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VI.\u00a0\u00a0OTHER COMPLAINTS",
+                        "elements": [
+                            {
+                                "content": "Consequently, it considers that no separate examination of the complaints under Articles 7, 8, 9, 10, 13, 14 and 18 of the Convention, taken individually or in conjunction with Articles 2, 3, 5 and 6, is necessary.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "VII.\u00a0\u00a0ARTICLES 46 AND 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "A.\u00a0\u00a0Article 46 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "207.\u00a0\u00a0Article 46 of the Convention provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201c1.\u00a0\u00a0The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "208.\u00a0\u00a0In the event of the Court finding a violation of Article 6, the applicant requested a retrial by an independent and impartial court in which he would enjoy full defence rights. In the event of the Court finding a violation of Article 3 on account of the conditions of his detention, he requested a transfer to a prison on the mainland, and the facilitation of contact with other prisoners, members of his family and his lawyers.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "209.\u00a0\u00a0While reaffirming their view that there had been no violation of the Convention provisions relied on by the applicant, the Government submitted, in the alternative, that a finding of a violation could constitute in itself sufficient just satisfaction for the applicant.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "210.\u00a0\u00a0As to the specific measures requested by the applicant, the Court reiterates that its judgments are essentially declaratory in nature and that, in general, it is primarily for the State concerned to choose, subject to supervision by the Committee of Ministers, the means to be used in its domestic legal order in order to discharge its obligation under Article 46 of the Convention (see, among other authorities, Assanidze v. Georgia [GC], no. 71503/01, \u00a7 202, ECHR 2004-II; Scozzari and Giunta v. Italy [GC], nos.\u00a039221/98 and 41963/98, \u00a7 249, ECHR 2000-VIII; and Brum\u0103rescu v. Romania (just satisfaction) [GC], no. 28342/95, \u00a7 20, ECHR 2001-I).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "However, exceptionally, with a view to helping the respondent State to fulfil its obligations under Article 46, the Court will seek to indicate the type of measure that might be taken in order to put an end to a systemic situation it has found to exist. In such circumstances, it may propose various options and leave the choice of measure and its implementation to the discretion of the State concerned (see Broniowski v. Poland [GC], no.\u00a031443/96, \u00a7 194, ECHR 2004-V).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In other exceptional cases, the nature of the violation found may be such as to leave no real choice as to the measures required to remedy it and the Court may decide to indicate only one such measure (see Assanidze, cited above, \u00a7 202).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "In the specific context of cases against Turkey concerning the independence and impartiality of the national security courts, Chambers of the Court have indicated in certain judgments that were delivered after the Chamber judgment in the present case that, in principle, the most appropriate form of redress would be for the applicant to be given a retrial without delay if he or she so requests (see, among other authorities, Gen\u00e7el v. Turkey, no. 53431/99, \u00a7 27, 23 October 2003). It is also to be noted that a Chamber of the Court has adopted a similar stance in a case against Italy where the finding of a breach of the fairness guarantees contained in Article\u00a06 was not related to the lack of independence or impartiality of the domestic courts (see Somogyi v. Italy, no. 67972/01, \u00a7 86, ECHR 2004-IV).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "The Grand Chamber endorses the general approach adopted in the abovementioned case-law. It considers that where an individual, as in the instant case, has been convicted by a court that did not meet the Convention requirements of independence and impartiality, a retrial or a reopening of the case, if requested, represents in principle an appropriate way of redressing the violation. However, the specific remedial measures, if any, required of a respondent State in order to discharge its obligations under Article 46 of the Convention must depend on the particular circumstances of the individual case and be determined in the light of the terms of the Court's judgment in that case, and with due regard to the above case-law of the Court.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Article 41 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "211.\u00a0\u00a0Article 41 of the Convention provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0Damage",
+                                        "elements": [
+                                            {
+                                                "content": "212.\u00a0\u00a0The Court notes that the applicant has not put forward any claim in respect of pecuniary or non-pecuniary damage and concludes that any damage the applicant may have sustained has been sufficiently compensated for by its findings of a violation of Articles 3 (as regards the imposition of the death penalty following an unfair trial), 5 and 6 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Costs and expenses",
+                                        "elements": [
+                                            {
+                                                "content": "213.\u00a0\u00a0During the proceedings before the Chamber, the applicant had claimed compensation of 1,123,933.96 euros (EUR) for the costs and expenses he had incurred for the seven lawyers and three trainee lawyers who had acted for him outside Turkey and the costs and expenses of six of his lawyers in .",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The Chamber awarded him EUR 100,000 under that head.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "The applicant claimed an additional EUR 75,559.32 in respect of the proceedings under Article 43 of the Convention. He explained that that sum was broken down into EUR 65,978.60 for the fees of his lawyers and their assistants and EUR 9,580.72 for sundry expenses, such as translation costs and travel expenses.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "3.\u00a0\u00a0Default interest",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Dismisses unanimously the Government's preliminary objection concerning Article 5 \u00a7\u00a7 1, 3 and 4 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds unanimously that there has been a violation of Article 5 \u00a7 4 of the Convention on account of the lack of a remedy by which the applicant could have the lawfulness of his detention in police custody decided;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds unanimously that there has been no violation of Article 5 \u00a7 1 of the Convention on account of the applicant's arrest;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds unanimously that there has been a violation of Article 5 \u00a7 3 of the Convention on account of the failure to bring the applicant before a judge promptly after his arrest;",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0Holds by eleven votes to six that there has been a violation of Article 6 \u00a7\u00a01 of the Convention in that the applicant was not tried by an independent and impartial tribunal;",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Holds unanimously that there has been a violation of Article 6 \u00a7 1 of the Convention, taken in conjunction with Article 6 \u00a7 3 (b) and (c), in that the applicant did not have a fair trial;",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0Holds unanimously that there has been no violation of Article 2 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0Holds unanimously that there has been no violation of Article 14 of the Convention, taken in conjunction with Article 2, as regards the implementation of the death penalty;",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Holds unanimously that there has been no violation of Article 3 of the Convention as regards the complaint concerning the implementation of the death penalty;",
+                        "elements": []
+                    },
+                    {
+                        "content": "10.\u00a0\u00a0Holds by thirteen votes to four that there has been a violation of Article\u00a03 of the Convention as regards the imposition of the death penalty following an unfair trial;",
+                        "elements": []
+                    },
+                    {
+                        "content": "11.\u00a0\u00a0Holds unanimously that there has been no violation of Article 3 of the Convention as regards the conditions in which the applicant was transferred from Kenya to ;",
+                        "elements": []
+                    },
+                    {
+                        "content": "12.\u00a0\u00a0Holds unanimously that there has been no violation of Article 3 of the Convention, as regards the conditions of the applicant's detention on the island of \u0130mral\u0131;",
+                        "elements": []
+                    },
+                    {
+                        "content": "13.\u00a0\u00a0Holds unanimously that no separate examination is necessary of the applicant's remaining complaints under Articles 7, 8, 9, 10, 13, 14 and 18 of the Convention, taken individually or in conjunction with the aforementioned provisions of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "14.\u00a0\u00a0Holds unanimously that there has been no violation of Article 34 in fine of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "15.\u00a0\u00a0Holds unanimously that its findings of a violation of Articles 3, 5 and 6 of the Convention constitute in themselves sufficient just satisfaction for any damage sustained by the applicant;",
+                        "elements": []
+                    },
+                    {
+                        "content": "16.\u00a0\u00a0Holds unanimously",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant's lawyers in the manner set out in paragraph 217 of the present judgment, within three months, for costs and expenses, the sum of EUR 120,000 (one hundred and twenty thousand euros) to be converted into new Turkish liras or pounds sterling, depending on where payment is made, at the rate applicable at the date of settlement, plus any value-added tax that may be chargeable;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+                        "elements": []
+                    },
+                    {
+                        "content": "17.\u00a0\u00a0Dismisses unanimously the remainder of the applicant's claim for just satisfaction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English and in French, and delivered at a public hearing in the Human Rights Building, , on 12 May 2005.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In accordance with Article 45 \u00a7 2 of the Convention and Rule 74 \u00a7 2 of the Rules of Court, the following separate opinions are annexed to this judgment:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0partly concurring, partly dissenting opinion of Mr Garlicki;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0joint partly dissenting opinion of Mr Wildhaber, Mr Costa, Mr\u00a0Caflisch, Mr T\u00fcrmen, Mr Garlicki and Mr Borrego Borrego;",
+                        "elements": []
+                    },
+                    {
+                        "content": "(c)\u00a0\u00a0joint partly dissenting opinion of Mr Costa, Mr Caflisch, Mr T\u00fcrmen and Mr Borrego Borrego.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0I am writing this separate opinion because I feel that, in this case, the Court should have decided, in the operative provisions of its judgment, that Article 3 had been violated because any imposition of the death penalty represents per se inhuman and degrading treatment prohibited by the Convention. Thus, while correct, the majority's conclusion that the imposition of the death penalty following an unfair trial represents a violation of Article 3 seems to me to stop short of addressing the real problem.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0It is true that the majority's conclusion was sufficient to establish a violation in the instant case and that it was not absolutely necessary to produce any firm conclusion on the \u2013 more general \u2013 point of whether the implementation of the death penalty should now be regarded as inhuman and degrading treatment contrary to Article 3 in all circumstances. I accept that there are many virtues in judicial self-restraint, but am not persuaded that this was the best occasion to exercise it.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I am fully aware that the original text of the Convention allowed capital punishment provided the guarantees referred to in Article 2 \u00a7 1 were in place. I am also aware that in Soering v. the United Kingdom (judgment of 7\u00a0July 1989, Series A no. 161) this Court declined to hold that the new international context permitted it to conclude that the exception provided for in the second sentence of Article 2 \u00a7 1 had been abrogated. Today the Court, while agreeing that \u201cit can be said that capital punishment in peacetime has come to be regarded as an unacceptable ... form of punishment which is no longer permissible under Article 2\u201d (see paragraph 163 of the judgment), seems to be convinced that there is no room for the death penalty even within the original text of the Convention. But, at the same time, it has chosen not to express that position in a universally binding manner. In my opinion, there are some arguments suggesting that the Court could and should have gone further in this case.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0First of all, there seems to be no dispute over the substance of the problem. The Court was clearly right in observing that, over the past fifteen years, the territories encompassed by the member States of the Council of Europe have become a zone free of capital punishment and that such a development could now be taken as signalling the agreement of the Contracting States to abrogate, or at the very least to modify, the second sentence of Article 2 \u00a7 1. It is not necessary to recapitulate here all the relevant developments in Europe; it seems sufficient to quote the 2002 opinion of the Parliamentary Assembly of the Council of Europe in which it recalled that in its most recent resolutions \u201cit reaffirmed its beliefs that the application of the death penalty constitutes inhuman and degrading punishment and a violation of the most fundamental right, that to life itself, and that capital punishment has no place in civilised, democratic societies governed by the rule of law\u201d. Thus, today, in 2005, condemnation of the death penalty has become absolute and even fairness of the highest order at trial cannot legitimate the imposition of such a penalty. In other words, it is possible to conclude that the member States have agreed through their practice to modify the second sentence of Article 2 \u00a7 1. The only problem is: who shall have the power to declare, in a binding manner, that such modification has taken place? So, this is a problem not of substance, but of jurisdiction (competence). In consequence, the only question that remains is whether the Court has the power to state the obvious truth, namely that capital punishment has now become an inhuman and degrading punishment per se.",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0In answering this question, it is necessary to bear in mind that the Convention, as an international treaty, should be applied and interpreted in accordance with general rules of international law, in particular Article 39 of the Vienna Convention. This suggests that the only way to modify the Convention is to follow the \u201cnormal procedure of amendment\u201d (see paragraphs 103-04 of Soering, cited above, and paragraphs 164-65 of the present judgment).",
+                        "elements": []
+                    },
+                    {
+                        "content": "But the Convention represents a very distinct form of international instrument and \u2013 in many respects \u2013 its substance and process of application are more akin to those of national constitutions than to those of \u201ctypical\u201d international treaties. The Court has always accepted that the Convention is a living instrument and must be interpreted in the light of present-day conditions. This may result (and, in fact, has on numerous occasions resulted) in judicial modifications of the original meaning of the Convention. From this perspective, the role of our Court is not very different from the role of national Constitutional Courts, whose mandate is not only to defend constitutional provisions on human rights, but also to develop them. The  has demonstrated such a creative approach to the text of the Convention many times, holding that the Convention rights and freedoms are applicable to situations which were not envisaged by the original drafters. Thus, it is legitimate to assume that, as long as the member States have not clearly rejected a particular judicial interpretation of the Convention (as occurred in relation to the expulsion of aliens, which became the subject of regulation by Protocols Nos. 4 and 7), the Court has the power to determine the actual meaning of words and phrases which were inserted into the text of the Convention more than fifty years ago. In any event, and this seems to be the situation with regard to the death penalty, the Court may so proceed when its interpretation remains in harmony with the values and standards that have been endorsed by the member States.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0This Court has never denied that the \u201cliving-instrument approach\u201d may lead to a judicial imposition of new, higher standards of human rights protection. However, with respect to capital punishment, it adopted \u2013 in Soering \u2013 \u201ca doctrine of pre-emption\u201d. As I have mentioned above, the Court found that, since the member States had decided to address the problem of capital punishment by way of formal amendments to the Convention, this matter became the \u201cpreserve\u201d of the States and the Court was prevented from applying its living-instrument doctrine.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I am not sure whether such an interpretation was correct in Soering or applicable to the present judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The judgment in Soering was based on the fact that, although Protocol No. 6 had provided for the abolition of the death penalty, several member States had yet to ratify it in 1989. Thus, it would have been premature for the Court to take any general position as to the compatibility of capital punishment with the Convention. Now, the majority raises basically the same argument with respect to Protocol No. 13, which, it is true, remains in the process of ratification.",
+                        "elements": []
+                    },
+                    {
+                        "content": "But this may only demonstrate a hesitation on the part of certain member States over the best moment to irrevocably abolish the death penalty. At the same time, it can no longer be disputed that \u2013 on the European level \u2013 there is a consensus as to the inhuman nature of the death penalty. Therefore, the fact that governments and politicians are preparing a formal amendment to the Convention may be understood more as a signal that capital punishment should no longer exist than as a decision pre-empting the Court from acting on its own initiative.",
+                        "elements": []
+                    },
+                    {
+                        "content": "That is why I am not convinced by the majority's replication of the Soering approach. I do not think that there are any legal obstacles to this Court taking a decision with respect to the nature of capital punishment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Such a decision would have universal applicability; in particular, it would prohibit any imposition of the death penalty, not only in times of peace but also in wartime or other warlike situations. But it should not stop the Court from taking this decision today. It may be true that the history of Europe demonstrates that there have been wars, like the Second World War, during which (or after which) there was justification for capital punishment. I do not think, however, that the present interpretation of the Convention should provide for such exceptions: it would be rather na\u00efve to believe that, if a war of a similar magnitude were to break out again, the Convention as a whole would be able to survive, even if concessions were made with regard to the interpretation of capital punishment. On the other hand, if there is a war or armed conflict of a local dimension only \u2013 and this has been the experience of the last five decades in Europe \u2013 the international community could and should insist on respect for basic values of humanity, inter alia, on the prohibition of capital punishment. The same reasoning should apply to other \u201cwars\u201d, like \u2013 in particular \u2013 the \u201cwar on terror\u201d, in which there is today no place for capital punishment (see Article X \u00a7 2 of the Committee of Ministers of the Council of Europe's \u201cGuidelines on human rights and the fight against terrorism\u201d issued on 11 July 2002).",
+                        "elements": []
+                    },
+                    {
+                        "content": "Furthermore, it is notable that, as the Statute of the recently established International Criminal Court shows, the international community is of the opinion that even the most dreadful crimes can be dealt with without resorting to capital punishment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0In the last fifteen years, several Constitutional Courts in Europe have been invited to take a position on capital punishment. The courts of Hungary, Lithuania, Albania and  had no hesitation in decreeing that capital punishment was no longer permitted under the Constitutions of their respective countries, even if this was not clearly stated in the written text of those documents. The Constitutional Courts have, nevertheless, adopted the position that the inability of the political branches of government to take a clear decision on the matter should not impede the judicial branch from doing so. A similar approach was taken by the Constitutional Court of South Africa.",
+                        "elements": []
+                    },
+                    {
+                        "content": "I am firmly convinced that the European Court of Human Rights should have followed the same path in the present judgment.",
+                        "elements": []
+                    },
+                    {
+                        "content": "To my regret, I cannot join the majority in finding a violation of Article 6 \u00a7 1 of the Convention on the ground that the applicant was not tried by an independent and impartial tribunal. In this respect, my views are set out in the joint partly dissenting opinion I have expressed with Mr Wildhaber, Mr\u00a0Costa, Mr Caflisch, Mr T\u00fcrmen and Mr Borrego Borrego.",
+                        "elements": []
+                    },
+                    {
+                        "content": "1.\u00a0\u00a0The majority of the Court found that in the present case the  was not an independent and impartial court, owing to the presence of a military judge on the bench. We disagree with that conclusion for the following reasons.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0 It is true that since Incal v. Turkey (judgment of 9 June 1998, Reports of Judgments and Decisions 1998-IV) the principle followed by the Court in this type of case is that an applicant has legitimate cause to doubt the independence and impartiality of a national security court when a military judge sits alongside two civilian judges. The Court was divided in Incal and decided the point by a majority of twelve to eight (see, for the opposite view, the opinion of the judges in the minority, pp. 1578-79).",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0It is equally true that the Incal precedent has since been followed in a number of judgments (including S\u00fcrek v.  (no. 1) [GC], no.\u00a026682/95, ECHR 1999IV \u2013 see Mr Wildhaber's declaration and the dissenting opinion of Mr G\u00f6l\u00e7\u00fckl\u00fc).",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0However, things have changed. Within a very short space of time, Turkey took remedial action following the judgment in Incal and did not hesitate to amend its Constitution (and subsequently its legislation) so that only civilian judges would sit in the national security courts (which have since been abolished). By 18 June 1999, the Constitution had already been amended and the legislative amendments followed just four days later, with immediate effect (see paragraphs 53 and 54 of the present judgment). It would be desirable for all States Parties to the Convention to comply with the Court's judgments within such a reasonable period.",
+                        "elements": []
+                    },
+                    {
+                        "content": "5.\u00a0\u00a0The amended legislation was immediately applied to the applicant's trial, with the third civilian judge replacing the military judge the day after it came into force. It should be noted that the replacement judge had been present throughout the proceedings and had attended all the hearings of the National Security Court from the start of the trial, that the National Security Court noted that he had read the file and the transcripts (see paragraph 44 of the judgment) and, lastly, that he was at liberty to request additional evidence or investigations.",
+                        "elements": []
+                    },
+                    {
+                        "content": "6.\u00a0\u00a0Thus the National Security Court's verdict and sentence were handed down by a court composed entirely of civilian judges, all three of whom had taken part in the entire trial. To say that the presence of a military judge, who was replaced under new rules (that were introduced to comply with the case-law of the European Court of Human Rights) made the  appear not to be independent and impartial is to take the \u201ctheory\u201d of appearances very far. That, in our opinion at least, is neither realistic, nor even fair.",
+                        "elements": []
+                    },
+                    {
+                        "content": "7.\u00a0\u00a0For this reason we consider that the Court's approach in \u0130mrek v.  ((dec.), no. 57175/00, 28 January 2003) was wiser. In that case, against the same background and in view of the Turkish authorities' positive response to the Incal line of authority, it held that the complaint was manifestly ill-founded, as the problem had been solved by the military judge's replacement by a civilian judge during the course of the trial.",
+                        "elements": []
+                    },
+                    {
+                        "content": "8.\u00a0\u00a0In addition, in Mr \u00d6calan's case, and without departing from the principles established in Incal itself, it is hard to agree with what is said in paragraph 116 of the judgment. The applicant is there described as a civilian (or equated to a civilian). However, he was accused of instigating serious terrorist crimes leading to thousands of deaths, charges which he admitted at least in part. He could equally well be described as a warlord, which goes a long way to putting into perspective the fact that at the start of his trial one of the three members of the court before which he appeared was himself from the military.",
+                        "elements": []
+                    },
+                    {
+                        "content": "9.\u00a0\u00a0Inherent in a system based on the principle of subsidiarity is loyal cooperation between a supranational judicial body, such as this Court, and the States which have adhered to the system. Imposing standards that are too high does not appear to us to be the best way of encouraging such cooperation or of expressing satisfaction to the States that provide it.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In paragraph 175 of the judgment, the majority expresses the opinion that \u201cthe imposition of the death sentence ... following an unfair trial by a court whose independence and impartiality were open to doubt amounted to inhuman treatment ...\u201d.",
+                        "elements": []
+                    },
+                    {
+                        "content": "First of all, we do not agree with the majority that the Court which sentenced Mr \u00d6calan was not independent and impartial. However, even if it had been, we do not believe that this constitutes a breach of Article 3.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The majority accepts that Article 3 cannot be interpreted as prohibiting the death penalty since that would nullify the clear wording of Article 2 (paragraph 162 of the judgment). In other words, according to the majority, while the death penalty itself does not constitute a violation of Article 3, a procedural defect in respect of impartiality and independence of the court which imposes the death penalty constitutes a violation of Article 3.",
+                        "elements": []
+                    },
+                    {
+                        "content": "According to our case-law, fear and anguish due to the impartiality and independence of a court is a question to be examined under Article 6 of the Convention rather than under Article 3.",
+                        "elements": []
+                    },
+                    {
+                        "content": "\u201c... In deciding whether there is a legitimate reason to fear that a particular court lacks independence and impartiality, the standpoint of the accused is important without being decisive\u201d (see Incal v. Turkey, judgment of 9 June 1998, Reports of Judgments and Decisions 1998IV, pp. 1572-73, \u00a7 71). \u201c... [T]he applicant could legitimately fear ... because one of the judges ... was a military judge\u201d (ibid., p. 1573, \u00a7 72). Similar sentences are contained in \u00c7\u0131raklar v. Turkey (judgment of 28 October 1998, Reports 1998-VII, pp. 3072-74, \u00a7\u00a7 38 and 40) and numerous other judgments. In all these judgments, the Court found a violation of Article 6 due to the fear created by the presence of a military judge.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Moreover, inhuman treatment within the meaning of Article 3 must attain a minimum level of severity. The applicant must show beyond reasonable doubt that he has suffered fear and anguish that reaches the threshold level required by Article 3 (see, mutatis mutandis, V. v. the United Kingdom [GC], no. 24888/94, ECHR 1999IX). In the present case, there is no evidence that the applicant has suffered fear and anguish that reaches the necessary threshold due to a lack of impartiality and independence on the part of the national security court. As stated in paragraph 39 of the judgment, during the trial the applicant accepted the main charge against him under Article 125 of the Turkish Criminal Code, that is to say having accomplished acts aimed at separating a part of the State's territory. He also accepted political responsibility for the PKK's general strategy as its leader and admitted having envisaged the establishment of a separate State on the territory of the . He knew what the charge against him was and what the penalty would be (there is only one penalty provided for in Article\u00a0125 of the Turkish Criminal Code). He also stated expressly that he accepted the National Security Court's jurisdiction.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Under such circumstances, the presence of a military judge at an early stage of the trial can hardly have caused fear and anguish reaching a threshold constituting a violation of Article 3.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Furthermore, for a threat to amount to inhuman treatment there must be a \u201creal risk\u201d. A mere possibility is not in itself sufficient (see Vilvarajah and Others v. the United Kingdom, judgment of 30 October 1991, Series A no.\u00a0215, p. 37, \u00a7 111). The threat should be \u201csufficiently real and immediate\u201d (see Campbell and Cosans v. the United Kingdom, judgment of 25 February 1982, Series A no. 48, p. 12, \u00a7 26). \u201cIt must be shown that the risk is real\u201d (H.L.R. v. France, judgment of 29 April 1997, Reports 1997-III, p. 758, \u00a7 40).",
+                        "elements": []
+                    },
+                    {
+                        "content": "In the present case, there is no ground to believe that there was a real and immediate risk that the applicant would be executed, for the following reasons.",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0In , the death penalty has not been executed since 1984.",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0The Government, by an official communication sent to the Court, accepted the Rule 39 decision of former Section 1 and stayed Mr \u00d6calan's execution (see paragraph 5 of the judgment).",
+                        "elements": []
+                    },
+                    {
+                        "content": "(c)\u00a0\u00a0In compliance with the Rule 39 decision, the Government did not send the applicant's file to Parliament for the death sentence to be approved (under the Turkish Constitution, the death penalty may be executed only after Parliament adopts a law approving the sentence). In other words, the process of execution never started. Under such circumstances, it is not possible to conclude that a real threat of execution existed for Mr \u00d6calan in the period between the Turkish court's decision and the abolition of the death penalty in .",
+                        "elements": []
+                    },
+                    {
+                        "content": "In Soering v. the United Kingdom (judgment of 7 July 1989, Series A no. 161), the Court ruled, mutatis mutandis, that there was no inhuman treatment as long as the Government complied with the interim measure indicated by the Strasbourg institutions (ibid., pp. 44-45, \u00a7 111). The same considerations apply in the present case. Since the Government agreed to comply with the Rule 39 decision, there has never been a \u201csufficiently real and immediate\u201d threat of execution for the applicant.",
+                        "elements": []
+                    },
+                    {
+                        "content": "In \u00c7\u0131nar v. Turkey (no. 17864/91, Commission decision of 5 September 1994, Decisions and Reports 79-B, p. 5), the applicant claimed that there had been a violation of Article 3 because his death sentence, which became definitive on 20 October 1987, was submitted to the Grand National Assembly for approval and the Grand National Assembly did not take any decision until 1991. He was therefore exposed to the death-row phenomenon.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The Commission rejected this claim on the ground that the death penalty had not been executed in  since 1984 and the risk of the penalty being implemented was illusory.",
+                        "elements": []
+                    },
+                    {
+                        "content": "We cannot accept that in the present case the risk of execution for the applicant was more real than that in \u00c7\u0131nar.",
+                        "elements": []
+                    },
+                    {
+                        "content": "The applicant's political background did not increase the risk of execution, as is suggested in the judgment (paragraph 172). On the contrary, it made him less vulnerable because of the political consequences his execution would have had. The fact that there has been a quasi consensus among all political parties in Parliament not to execute confirms this view. This political consensus is evident from the fact that Parliament abolished the death penalty by Law no. 4771, which was passed with a large majority and published on 9 August 2002 (see paragraph 51 of the judgment). Furthermore, on 12 November 2003  ratified Protocol No. 6.",
+                        "elements": []
+                    },
+                    {
+                        "content": "For all these reasons, we conclude that there has been no violation of Article 3 on account of the death sentence imposed by the .",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "MrL. Wildhaber",
+            "role": "president"
+        },
+        {
+            "name": "MrC.L. Rozakis",
+            "role": "judges"
+        },
+        {
+            "name": "MrJ.-P. Costa",
+            "role": "judges"
+        },
+        {
+            "name": "MrG. Ress",
+            "role": "judges"
+        },
+        {
+            "name": "SirNicolas Bratza",
+            "role": "judges"
+        },
+        {
+            "name": "MrsE. Palm",
+            "role": "judges"
+        },
+        {
+            "name": "MrL. Caflisch",
+            "role": "judges"
+        },
+        {
+            "name": "MrL. Loucaides",
+            "role": "judges"
+        },
+        {
+            "name": "MrR. T\u00fcrmen",
+            "role": "judges"
+        },
+        {
+            "name": "MrsV. Str\u00e1\u017enick\u00e1",
+            "role": "judges"
+        },
+        {
+            "name": "MrP. Lorenzen",
+            "role": "judges"
+        },
+        {
+            "name": "MrV. Butkevych",
+            "role": "judges"
+        },
+        {
+            "name": "MrJ. Hedigan",
+            "role": "judges"
+        },
+        {
+            "name": "MrM. Ugrekhelidze",
+            "role": "judges"
+        },
+        {
+            "name": "MrL. Garlicki",
+            "role": "judges"
+        },
+        {
+            "name": "MrJ. Borrego Borrego",
+            "role": "judges"
+        },
+        {
+            "name": "MrsA. Gyulumyan",
+            "role": "judges"
+        },
+        {
+            "name": "Mr P.J. Mahoney",
+            "role": "registrar"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF \u00d6CALAN v. TURKEY",
+    "doctypebranch": "GRANDCHAMBER",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "GRANDCHAMBER",
+        "ENG"
+    ],
+    "documents": [
+        "001-69022.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2005:0512JUD004622199",
+    "externalsources": [
+        "The United Nations Human Rights Committee",
+        "The Inter-American Court of Human Rights",
+        "Case-law of various national courts"
+    ],
+    "extractedappno": [
+        "46221/99",
+        "38/40",
+        "16/99",
+        "3/83",
+        "8007/77",
+        "28780/95",
+        "8916/80",
+        "10689/83",
+        "14009/88",
+        "52207/99",
+        "25642/94",
+        "20869/92",
+        "57175/00",
+        "57250/00",
+        "28135/95",
+        "39846/98",
+        "17864/91",
+        "77113/01",
+        "35763/97",
+        "25803/94",
+        "1984/50",
+        "27798/95",
+        "28341/95",
+        "30210/96",
+        "21986/93",
+        "38812/97",
+        "39042/97",
+        "25702/94",
+        "35605/97",
+        "36590/97",
+        "41340/98",
+        "41342/98",
+        "41343/98",
+        "41344/98",
+        "25498/94",
+        "46827/99",
+        "46951/99",
+        "71503/01",
+        "39221/98",
+        "41963/98",
+        "28342/95",
+        "31443/96",
+        "53431/99",
+        "67972/01",
+        "33202/96",
+        "26682/95",
+        "24888/94"
+    ],
+    "importance": "1",
+    "introductiondate": "",
+    "issue": [
+        "Article 143 of the Constitution",
+        "Article 128 \u00a7 4, Article 144 and Article 381 \u00a7 2 of the Code of Criminal Procedure",
+        "Article 125 of the Criminal Code",
+        "Law no. 4771 (2002)",
+        "Law no. 2845 (1990) on the State Security Courts",
+        "Law no. 4390 (1999)",
+        "Law no. 466 on the Payment of Compensation to Persons Unlawfully Arrested or Detained"
+    ],
+    "itemid": "001-69022",
+    "judgementdate": "12/05/2005 00:00:00",
+    "kpdate": "12/05/2005 00:00:00",
+    "kpthesaurus": [
+        "449",
+        "77",
+        "350",
+        "90",
+        "192",
+        "193",
+        "448",
+        "220",
+        "339",
+        "29",
+        "30",
+        "438",
+        "481",
+        "445",
+        "76",
+        "136",
+        "15",
+        "119",
+        "180",
+        "181",
+        "440",
+        "11",
+        "12",
+        "86",
+        "343",
+        "100",
+        "183",
+        "177",
+        "14",
+        "128",
+        "216",
+        "577",
+        "283",
+        "26",
+        "126",
+        "184",
+        "416"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "8",
+    "paragraphs": [
+        "5-1-c",
+        "6-3-c",
+        "5-4",
+        "34",
+        "6-3-b",
+        "46",
+        "35",
+        "41",
+        "46-2",
+        "2",
+        "5-3",
+        "35-1",
+        "6-3",
+        "6-1",
+        "2-1",
+        "6",
+        "3",
+        "5-1",
+        "5",
+        "14"
+    ],
+    "parties": [
+        "\u00d6CALAN",
+        "TURKEY"
+    ],
+    "rank": "518.826416015625",
+    "representedby": [
+        "KENTRIDGE, Sir Sydney",
+        "MULLER, Mark",
+        "OTTY, Timothy",
+        "TUGLUK, Aysel"
+    ],
+    "respondent": "TUR",
+    "respondentOrderEng": "47",
+    "scl": [
+        "Abbas Sertkaya v. Turkey, (dec.) no. 77113/01, 11 December 2003, p. 4",
+        "Ahmed v. Austria, judgment of 17 December 1996, Reports 1996-VI, p. 2207, \u00a7 43",
+        "Albert and Le Compte v. Belgium, judgment of 10 February 1983, Series A no. 58, p. 13, \u00a7 22",
+        "Aquilina v. Malta [GC], no. 25642/94, \u00a7 49, ECHR 1999-III",
+        "Assanidz\u00e9 v. Georgia [GC], no. 71503/01, \u00a7 202, ECHR 2004-II",
+        "Bankovic and Others v. Belgium and 16 Other Contracting States (dec.) [GC], no. 52207/99, ECHR 2001-XII",
+        "Benham v. the United Kingdom, judgment of 10 June 1996, Reports of Judgments and Decisions 1996-III, p. 753, \u00a7 41",
+        "Beyeler v. Italy (just satisfaction) [GC], no. 33202/96, 28 May 2002, \u00a7 27",
+        "Bouamar v. Belgium, judgment of 29 February 1988, Series A no. 129, p. 21, \u00a7 49",
+        "Bozano v. France, judgment of 18 December 1986, Series A no. 111, p. 23, \u00a7 54",
+        "Brandstetter v. Austria, judgment of 28 August 1991, Series A no. 211, p. 27, \u00a7\u00a7 66-67",
+        "Brannigan and McBride v. the United Kingdom, judgment of 26 May 1993, Series A no. 258-B, pp. 55-56, \u00a7\u00a7 62-63",
+        "Brogan and Others v. the United Kingdom, judgment of 29 November 1988, Series A no. 145-B, pp. 31-32, \u00a7 58",
+        "Broniowski v. Poland [GC], no. 31443/96, \u00a7 194, ECHR 2004-V",
+        "Bulut v. Austria, judgment of 22 February 1996, Reports 1996-II, pp. 380-381, \u00a7 47",
+        "Chahal v. the United Kingdom, judgment of 15 November 1996, Reports 1996-V, p. 1855, \u00a7 79 and p. 1856, \u00a7 86",
+        "Cyprus v. Turkey (no 8007/77, decision of the Commission of 17 July 1978, Decisions and Reports (D.R.) 13, p. 85",
+        "\u00c7inar v. Turkey, application no. 17864/91, decision of the Commission of 5 September 1994, D.R. 79, p. 5",
+        "\u00c7iraklar v. Turkey, judgment of 28 October 1998, Reports 1998-VII, \u00a7 39",
+        "Dikme v. Turkey, no. 20869/92, \u00a7 66, ECHR 2000-VIII",
+        "Drozd and Janousek v. France and Spain, judgment of 26 June 1992, Series A no. 240, p. 29, \u00a7 91",
+        "Freda v. Italy, no. 8916/80, decision of the Commission of 7 October 1980, D.R. 21, p. 250",
+        "Gen\u00e7el v. Turkey, no. 53431/99, \u00a7 27, 23 October 2003",
+        "G\u00f6\u00e7 v. Turkey [GC], no. 36590/97, \u00a7\u00a7 35-37, ECHR 2002-V",
+        "Guerra and Others v. Italy, judgment of 19 February 1998, Reports 1998-I, p. 223, \u00a7 44",
+        "Illich Ramirez S\u00e1nchez v. France, application no. 28780/95, decision of the Commission of 24 June 1996, D.R. 86, p. 155",
+        "Imrek v. Turkey (dec.) no. 57175/00, 28 January 2003",
+        "Incal v. Turkey, judgment of 9 June 1998, Reports 1998-IV, \u00a7 68 and \u00a7 72",
+        "Iprahim \u00dclger v. Turkey, no. 57250/00, 29 July 2004",
+        "Ireland v. the United Kingdom, judgment of 18 January 1978, Series A no. 25, p. 65, \u00a7 161 and \u00a7 162",
+        "K. and T. v. Finland [GC], no. 25702/94, \u00a7\u00a7 139-141, ECHR 2001-VII",
+        "Kamasinski v. Austria, judgment of 19 December 1989, Series A no. 168, p. 39, \u00a7 88",
+        "Kingsley v. the United Kingdom [GC], no. 35605/97, \u00a7 34, ECHR 2002-IV",
+        "Klaus Altmann (Barbie) v. France, no. 10689/83, decision of the Commission of 4 July 1984, D.R. 37, p. 225",
+        "Kremzow v. Austria, judgment of 21 September 1993, Series A no. 268-B, p. 42, \u00a7 52 and p. 44, \u00a7 63",
+        "Kudla v. Poland [GC], no. 30210/96, \u00a7 92, ECHR 2000-XI",
+        "Kuznetzov v. Ukraine, no. 39042/97, 29 April 2003",
+        "Luc Reinette v. France, no. 14009/88, decision of the Commission of 2 October 1989, D.R. 63, p. 189",
+        "Mamatkulov and Askarov v. Turkey [GC], nos. 46827/99 and 46951/99, \u00a7 128, CEDR 2005-I",
+        "Messina v. Italy (dec.), no. 25498/94, ECHR 1999-V",
+        "Ocalan v. Turkey, judgment of 12 March 2003, no. 46221/99, \u00a7\u00a7 72-74, 92, 100, 106-110, 189-196 and 201-204",
+        "Pfeifer and Plankl v. Austria, judgment of 25 February 1992, Series A no. 227, p. 16, \u00a7 37",
+        "Piersack v. Belgium of 1 October 1982, Series A no. 53, pp. 14-15, \u00a7 30",
+        "Poltoratskiy v. Ukraine, no. 38812/97, ECHR 2003-V",
+        "Raninen v. Finland, judgment of 16 December 1997, Reports 1997-VIII, pp. 2821-2822, \u00a7 55 and \u00a7 56",
+        "Refah Partysi (the welfare Party) and Others v. Turkey [GC], nos 41340/98, 41342/98, 41343/98 and 41344/98, ECHR 2003-II",
+        "Salman v. Turkey [GC], no. 21986/93, \u00a7 132, ECHR 2000-VII",
+        "Scozzari and Giunta v. Italy [GC], nos. 39221/98 and 41963/98, \u00a7 249, ECHR 2000-VIII",
+        "Brumarescu v. Romania (just satisfaction) [GC], no. 28342/95, \u00a7 20, ECHR 2001-I",
+        "Soering v. the United Kingdom, judgment of 7 July 1989, Series A no. 161, p. 34, \u00a7 88, p. 35, \u00a7 89, p. 40, \u00a7 103 and p. 41, \u00a7 104",
+        "Somogyi v. Italy, no. 67972/01, \u00a7 86, ECHR-IV",
+        "Stock\u00e9 v. Germany, judgment of 19 March 1991, Series A no. 199, 19, \u00a7 54",
+        "Stock\u00e9 v. Germany, opinion of the Commission of 12 October 1989, Series A no. 199, p. 24, \u00a7 167 and \u00a7 169",
+        "Sunday Times v. the United Kingdom, judgment of 6 November 1980 (former article 50), Series A no. 38, p. 13, \u00a7 23",
+        "Tyrer v. the United Kingdom, judgment of 25 April 1978, Series A no. 26, p. 16, \u00a7 32",
+        "Van Oosterwijck v. Belgium, judgment of 6 November 1980, Series A no. 40, pp. 18-19, \u00a7\u00a7 36-40",
+        "Wassink v. the Netherlands, judgment of 27 September 1990, Series A no. 185-A, p. 11, \u00a7 24",
+        "Weeks v. the United Kingdom, judgment of 2 February 1987, Series A no. 114, p. 30, \u00a7 61",
+        "Winterwerp v. the Netherlands, judgment of 24 October 1979, Series A no. 33, p. 24, \u00a7 60"
+    ],
+    "separateopinion": "TRUE",
+    "sharepointid": "414378",
+    "typedescription": "15"
+}

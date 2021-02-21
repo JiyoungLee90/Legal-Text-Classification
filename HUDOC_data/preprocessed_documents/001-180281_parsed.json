@@ -1,0 +1,651 @@
+{
+    "__articles": "6;6-1;13;13+6-1",
+    "__conclusion": "Violation of Article 6 - Right to a fair trial (Article 6 - Civil proceedings;Article 6-1 - Reasonable time);Violation of Article 13+6-1 - Right to an effective remedy (Article 13 - Effective remedy) (Article 6 - Right to a fair trial;Civil proceedings;Article 6-1 - Reasonable time)",
+    "applicability": "",
+    "appno": "27291/16",
+    "article": [
+        "6",
+        "13"
+    ],
+    "conclusion": [
+        {
+            "article": "6",
+            "base_article": "6",
+            "details": [
+                "Article 6 - Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "element": "Violation of Article 6 - Right to a fair trial",
+            "type": "violation"
+        },
+        {
+            "article": "6-1",
+            "base_article": "6",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        },
+        {
+            "article": "13",
+            "base_article": "13",
+            "details": [
+                "Article 13 - Effective remedy"
+            ],
+            "element": "Violation of Article 13+6-1 - Right to an effective remedy",
+            "mentions": [
+                "Article 6 - Right to a fair trial",
+                "Civil proceedings",
+                "Article 6-1 - Reasonable time"
+            ],
+            "type": "violation"
+        }
+    ],
+    "content": {
+        "001-180281.docx": [
+            {
+                "content": "PROCEDURE",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0The case originated in an application (no. 27291/16) against Ireland lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Irish national, Ms Mary Healy (\u201cthe applicant\u201d), on 12 May 2016.",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0The applicant was represented by Denis O\u2019Sullivan & Co. Solicitors, a law firm in Cork. The Irish Government (\u201cthe Government\u201d) were represented by their Agent, Mr P. White of the Department of Foreign Affairs and Trade.",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0On 29 September 2016 the application was communicated to the Government.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "procedure"
+            },
+            {
+                "content": "THE FACTS",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0THE CIRCUMSTANCES OF THE CASE",
+                        "elements": [
+                            {
+                                "content": "4.\u00a0\u00a0The applicant was born in 1946 and lives in Cork.",
+                                "elements": []
+                            },
+                            {
+                                "content": "5.\u00a0\u00a0She has been receiving treatment for a pituitary brain tumour since 1982. In that year, she underwent surgery to remove as much of the tumour as possible. In the following years she received a variety of treatments for her condition. In 1995 she became the patient of Dr B, a consultant endocrinologist. He referred her for an MRI scan of the tumour, performed that same year, and monitored her condition in the following years. In August 2000, at the request of Dr B, the applicant underwent another MRI scan. This indicated that there had in fact been no significant change since 1995, but the tumour remained large. The applicant also underwent two types of test to determine her level of growth hormone.",
+                                "elements": []
+                            },
+                            {
+                                "content": "6.\u00a0\u00a0Dr B received the result of the first test on 5 September 2000. He spoke by phone with the applicant, telling her that the tumour was very unsatisfactory. Prior to that conversation, the applicant was under the belief that the operation in 1982 had removed almost the entire tumour. She therefore understood the information given to her by Dr B about the tumour to mean that it was growing rapidly, gravely endangering her health.",
+                                "elements": []
+                            },
+                            {
+                                "content": "7.\u00a0\u00a0The applicant was prescribed a newly-available drug to treat her condition, to be injected by her general practitioner on a monthly basis from September 2000. As the drug led to severe gastrointestinal side effects within a short time, Dr B reduced the dosage by half. It appears there were no side effects following the injections of October and November 2000. At the end of the year the applicant was unwell, and was hospitalised in early January 2001 suffering from vomiting, diarrhoea, severe exhaustion, headaches, cramps and muscular spasms in her arms and legs. A blood test indicated that she was also severely hypothyroid. It was later established that this was a side-effect of the drug, not known at the time.",
+                                "elements": []
+                            },
+                            {
+                                "content": "8.\u00a0\u00a0The applicant had further discussions with Dr B about her condition and treatment. Dr B proposed to defer the next injection until the following month. The applicant received two more injections, in February and March\u00a02001. From February 2001 she became the patient of another endocrinologist.",
+                                "elements": []
+                            },
+                            {
+                                "content": "9.\u00a0\u00a0In May 2004 the applicant commenced civil proceedings in the High Court against Dr B and the hospital. Her case in negligence was that Dr\u00a0B had failed in his duty of care towards her in the prescribing of the drug and the monitoring of its administration to her. She further argued that her consent to the treatment was vitiated for lack of sufficient information, or for misinformation, about her condition and the appropriateness of the medication proposed to her.",
+                                "elements": []
+                            },
+                            {
+                                "content": "10.\u00a0\u00a0The applicant\u2019s statement of claim was served on the defendants in October 2004. Dr B entered his defence in February 2005, seeking further and better particulars from the applicant, which the applicant\u2019s solicitor provided in June 2005. The hospital entered its defence in June 2005, and also sought further and better particulars.",
+                                "elements": []
+                            },
+                            {
+                                "content": "11.\u00a0\u00a0According to the Government, between February 2005 and September 2008 eleven motions seeking various forms of interim relief were brought before the High Court and decided in relation to the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "12.\u00a0\u00a0In October 2009, the case was included in a procedure before a judge of the High Court known as a \u201cpositive callover\u201d. The purpose of this was to assign hearing dates to cases that had already been waiting for a considerable period of time. A hearing date in April 2010 was set for the case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "13.\u00a0\u00a0In January 2010 the applicant\u2019s solicitor replied to the request for further and better particulars made by the second defendant in June 2005. The hearing commenced on 13 April 2010 and took place over twelve days. Two expert witnesses appeared for the applicant and two for the defence. The hearing concluded on 7 May 2010. Judgment was given on 20\u00a0May\u00a02010.",
+                                "elements": []
+                            },
+                            {
+                                "content": "14.\u00a0\u00a0The High Court ruled against the applicant on all grounds. The judge preferred the evidence given by the witnesses appearing on behalf of the defence, deeming their qualifications to be more relevant to this specialised area than those of the experts retained by the applicant. He found that Dr B had complied with the therapeutic indications on the data sheet of the drug. The doctor\u2019s decision to place the applicant directly on the long-acting form of the drug was supported by the expert opinion given on his behalf. The judge did not accept that Dr B had failed to monitor adequately the effects of the drug on the applicant during the months that she received it. Likewise, he rejected the claim that the doctor had failed in his duty of care in the manner in which he had explained the proposed course of treatment to the applicant and the possible side effects.",
+                                "elements": []
+                            },
+                            {
+                                "content": "15.\u00a0\u00a0On the question of consent, the judge considered that while the applicant had misunderstood the exact state of her tumour, this was not to be blamed upon Dr B, who had fulfilled his legal duty by giving her accurate and appropriate information about her condition. The applicant\u2019s mistaken impression was neither caused nor contributed to by the doctor\u2019s explanations. He found that Dr B had not been aware of the applicant\u2019s misunderstanding and could not be blamed for the deficiencies in her knowledge of her condition. Moreover, he had given sufficient warning to the applicant regarding the gastro-intestinal side effects of the drug. Other potential side-effects (gallstones, hepatic dysfunction) had not been raised, but as they had not in fact materialised there were no grounds for complaint. The judge concluded that the applicant had given her valid, informed consent to the treatment.",
+                                "elements": []
+                            },
+                            {
+                                "content": "16.\u00a0\u00a0The applicant appealed against the judgment, advancing numerous grounds. The appeal was filed on 1 July 2010. It remained pending before the Supreme Court until it was transferred to the newly-established Court of Appeal on 29 October 2014. The hearing of the appeal took place on 30 July 2015.",
+                                "elements": []
+                            },
+                            {
+                                "content": "17.\u00a0\u00a0In a judgment of 17 November 2015 the Court of Appeal dismissed the appeal. The Court of Appeal addressed two issues. First, regarding the treatment of the applicant with the particular drug, it saw no basis to criticise the findings of the trial judge. His preference for the evidence of the defendants\u2019 experts was rationally grounded, and his rejection of the applicant\u2019s criticisms of Dr B was based on careful consideration of the evidence.",
+                                "elements": []
+                            },
+                            {
+                                "content": "18.\u00a0\u00a0Second, on the issue of consent, the Court of Appeal reviewed the evidence about what Dr B knew of the applicant\u2019s understanding of her condition. It rejected her claim that the High Court had made a clear error on this point. It considered that Dr B\u2019s actions had been in keeping with the relevant domestic legal principles. It noted that Dr B\u2019s opinion at the time was that the applicant had a serious condition that required treatment. As surgery was not possible, the only alternative was medication. It was, the Court of Appeal held, reasonably open to him to hold that view. He had explained to the applicant the expected benefits of the drug prescribed, as well as the unpleasant side effects. As for the argument that the doctor should have also presented a \u201cdo nothing\u201d option, the Court of Appeal described this as \u201csomewhat unreal\u201d. Where a person seeks referral from a general practitioner to a specialist, it could be reasonably assumed that they wished to receive treatment, and that they had excluded the non-treatment option.",
+                                "elements": []
+                            },
+                            {
+                                "content": "19.\u00a0\u00a0The applicant sought leave to appeal. On 8 March 2016 the Supreme Court refused.",
+                                "elements": []
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0RELEVANT DOMESTIC LAW AND PRACTICE",
+                        "elements": [
+                            {
+                                "content": "20.\u00a0\u00a0On 24 October 2016 the Supreme Court gave judgment in the case of Nash v. D.P.P. ([2016] IESC 60) in which the appellant claimed that there had been excessive delay in the criminal proceedings brought against him and sought an award of damages. While the Supreme Court rejected his claim on the facts of the case, the judgment also addressed in more general terms the possibility of claiming damages where legal proceedings, criminal or civil, are not completed within a reasonable time. The judgment referred first to the possibility of a claim under the European Convention on Human Rights Act, 2003:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c[I]t is clear that, at least at the level of principle and at least in many cases, a claim can be maintained in damages against an organ of the State (as defined in that Act) in respect of a breach of the rights conferred by the ECHR.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "21.\u00a0\u00a0However, since an award of damages under the 2003 Act may be sought only if no other remedy in damages is available (Section 3(2)), the judgment then considered the constitutional basis for such a claim. It recalled:",
+                                "elements": []
+                            },
+                            {
+                                "content": "22.\u00a0\u00a0The judgment later stated:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201c5.1\u00a0\u00a0... For the reasons already addressed it has been clear for some time that, at the level of principle, a potential claim for damages for breach of a right to a timely trial arises under the Constitution. For the reasons identified in the case law to which reference has already been made, I am satisfied that the Constitution does guarantee a right to a timely trial. There may, of course, be questions as to whether there has been a breach of that right in the circumstances of a particular case and also as to what person or body may be regarded as having contributed to the breach of the right concerned. In the party led courts system which applies in common law countries, the principal obligation for progressing proceedings lies on the parties themselves. However, the courts system provides mechanisms to enable any party who is dissatisfied with the pace of litigation to seek an appropriate intervention by the court to ensure that the litigation progresses at an appropriate pace.\u201d",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "facts"
+            },
+            {
+                "content": "THE LAW",
+                "elements": [
+                    {
+                        "content": "I.\u00a0\u00a0ADMISSIBILITY OF THE COMPLAINTS",
+                        "elements": [
+                            {
+                                "content": "23.\u00a0\u00a0The applicant complained under Article 6 \u00a7 1 that the proceedings in her case had not been completed within a reasonable time, with particular reference to the duration of the appellate stage. She further complained under the same provision that the trial of her action had not been fair. Under Article 8 she complained that by not recognising that her consent to the treatment proposed by Dr B was invalid, the domestic courts had breached her right to respect for private life. Lastly, in connection with each of the three complaints above the applicant also complained under Article 13 of the absence of remedies in the domestic system.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Article 6 \u00a7 1 (reasonable time) and Article 13 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "24.\u00a0\u00a0Article 6 \u00a7 1 of the Convention reads, in so far as relevant, as follows:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by a ... tribunal...\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "Article 13 of the Convention provides:",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "\u201cEveryone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.\u201d",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "25.\u00a0\u00a0The parties disagreed over the existence within the domestic system of remedies for complaints about the excessive length of judicial proceedings. The Government argued that the applicant had had various means at her disposal to expedite the proceedings, but that she had not made use of them. They further argued that the applicant could have sought a remedy in damages, and referred to the decision of the Supreme Court in Nash v. D.P.P.. The applicant rejected these arguments.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "26.\u00a0\u00a0Regarding the means available to expedite the proceedings, the Court recalls that this issue goes to the substance of the complaint under Article 6 \u00a7 1 (see McFarlane v. Ireland [GC], no. 31333/06, \u00a7\u00a7 126 and 152, 10 September 2010). It will therefore examine it below.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "27.\u00a0\u00a0Regarding the availability of damages, the Court notes that the Government have relied on a development in domestic case-law that occurred after this application was communicated. In these particular circumstances, and given the close affinity between the requirement under Article 35 \u00a7 1 to exhaust domestic remedies and the right under the Convention to an effective remedy (see Kud\u0142a v. Poland [GC], no.\u00a030210/96, \u00a7 152, ECHR 2000XI), the Court considers that the issue of exhaustion should be joined to the merits of the complaint under Article 13 (see also McFarlane, cited above, \u00a7 75). It further notes that these complaints are not inadmissible on any other grounds. They must therefore be declared admissible.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Article 6 \u00a7 1 (fairness) and Article 13 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "28.\u00a0\u00a0The applicant criticised the manner in which the High Court conducted the trial, complaining that the trial judge only took account of the evidence that favoured the defendants and ignored the admissions that were made by the defence witnesses during cross-examination. In this way, her right to an adversarial procedure had been nullified, as had her right to receive reasons, since the judgment did not explain how the judge had evaluated the evidence given at the trial. She also criticised the Court of Appeal for failing to address this issue, which she had expressly raised before it.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "29.\u00a0\u00a0The Court refers to the relevant principles of its case-law, as recently reiterated by the Grand Chamber (see Moreira Ferreira v. Portugal (no. 2) [GC], no. 19867/12, \u00a7 83, 11 July 2017):",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "30.\u00a0\u00a0Finding nothing arbitrary or manifestly unreasonable in the assessment of the evidence by the domestic courts, the Court considers that this complaint is manifestly illfounded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention. Likewise, there being no arguable claim in this respect, the applicant\u2019s related complaint under Article 13 is also manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention (see Boyle and Rice v. the United Kingdom, 27 April 1988, \u00a7 52, Series A no. 131).",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Article 8 and Article 13 of the Convention",
+                                "elements": [
+                                    {
+                                        "content": "31.\u00a0\u00a0The applicant argued that the respondent State was under a duty to ensure respect for the individual\u2019s personal autonomy and selfdetermination by protecting against interference with physical and psychological integrity in the form of medical treatment administered without informed consent. The domestic courts had failed to recognise that her consent to the treatment proposed by Dr B had been vitiated by her misunderstanding of the nature of her condition.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "32.\u00a0\u00a0The Court has established in its case-law that the High Contracting Parties are under a positive obligation, deriving from Article 8, to have in place regulations ensuring that medical practitioners consider the foreseeable consequences of planned medical procedures on their patients\u2019 physical integrity and inform patients of these beforehand in such a way that they are able to give informed consent (see Vasileva v. Bulgaria, no.\u00a023796/10, \u00a7 69, 17 March 2016, with further references).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "33.\u00a0\u00a0In the present case, the High Court was satisfied on the evidence that Dr B had complied with his duty to explain to the applicant the nature of her condition, the treatment proposed and the potential negative side-effects. It considered that he could not be held responsible for the error in understanding on the part of the applicant, of which he had been unaware. The Court of Appeal agreed. The Court considers that the reasoning of the domestic courts was consistent with its own case-law on the issue, and is not persuaded by the applicant\u2019s argument in favour a more exigent concept of informed consent.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "34.\u00a0\u00a0It follows that this complaint is manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "35.\u00a0\u00a0Furthermore, there being no arguable claim under Article 8, the applicant\u2019s related complaint under Article 13 is also manifestly ill-founded and must be rejected in accordance with Article 35 \u00a7\u00a7 3 (a) and 4 of the Convention (Reilly v Ireland (dec.), no. 51083/09, 23 September 2014).",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "II.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 6 \u00a7 1 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "36.\u00a0\u00a0The applicant complained about the length of the proceedings overall, with particular reference to the duration of the appellate stage. Article 6 \u00a7 1 of the Convention reads, in so far as relevant, follows:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIn the determination of his civil rights and obligations ..., everyone is entitled to a ... hearing within a reasonable time by a ... tribunal...\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "37.\u00a0\u00a0The applicant argued that the domestic courts had not decided her case within a reasonable time. She denied causing any delay in the proceedings. Regarding the delay of more than four years before replying to the second defendant\u2019s request for further and better particulars (see paragraph 13 above), she noted that the second defendant had not reiterated the initial request, nor sought an order from the High Court directing her to reply. She pointed out that in mid-2005 the second defendant changed solicitor, retaining the same firm that was already representing the first defendant. She inferred that, having already received further and better particulars in relation to the claim against the first defendant, the solicitors no longer required further details from her regarding the claim against the second defendant. It could not therefore be said that this had delayed the hearing of the case in the High Court.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "38.\u00a0\u00a0She disagreed with the Government that the setting of a date for hearing her case represented pro-active case management (see paragraph\u00a012 above); it was instead just a general check of the list of pending cases. Her legal representative had attended that day in order to confirm to the High Court that the case was still live and required a hearing date. At the appellate stage, her case had simply been caught in the backlog of the Supreme Court, where it remained completely inactive until it was transferred to the Court of Appeal. The facts of the case were not such as might have justified a request for priority treatment by the Supreme Court, as argued by the Government.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "39.\u00a0\u00a0She rejected the Government\u2019s submission that there had been a failure of diligence on her part at the appellate stage for not having filed her written submissions on the appeal earlier on. Her counsel had correctly waited until he had received a direction in this sense from the Court of Appeal, which came in February 2015.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "40.\u00a0\u00a0While the Court of Appeal had remarked critically on the number of grounds she had raised in her appeal, this was not a source of delay in the proceedings and so should not be taken into account.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "41.\u00a0\u00a0Moreover, the fact that the Court of Appeal was created could not justify the excessive length of the proceedings in her case. The authorities had been very slow to react to an obvious, systemic problem of delay, and had chosen a course of action that took many years to complete. They could have responded more quickly and effectively simply by appointing additional judges to the Supreme Court so as to immediately begin to alleviate the congestion on that court\u2019s docket, pending the establishment of the new court.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "42.\u00a0\u00a0The Government contended that the facts of the case did not disclose any breach of Article 6 of the Convention. No delays or periods of inactivity should be attributed to the domestic courts, they argued.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "43.\u00a0\u00a0Regarding the period preceding the hearing of the action, the Government noted that the High Court had dealt in a timely way with numerous motions seeking various forms of interim relief (between February 2005 and September 2008). In contrast, the applicant herself had not displayed diligence at this stage, allowing more than four years to pass (June 2005-January 2010) before providing the further and better particulars requested by the second defendant. Yet this material had been essential in order for the case to be heard, and the hearing had in fact taken place shortly after the applicant had provided it.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "44.\u00a0\u00a0The Government considered that the High Court had taken a proactive stance towards the case when it reviewed the state of proceedings in October 2009 and assigned a hearing date six months later. The trial had been conducted efficiently, and the judge had given a lengthy ruling on the case just two weeks later.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "45.\u00a0\u00a0Regarding the appeal stage, the Government criticised the applicant for failing to file written submissions with the Supreme Court, and also for failing to seek a priority hearing, which, if granted, could have taken place within a year of the lodging of the appeal.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "46.\u00a0\u00a0The Government explained that at the time this case was pending on appeal, the respondent State was in the middle of a process to address the backlog of the Supreme Court. A 2009 working group report had proposed the creation of the Court of Appeal as the best option. The working group had also given consideration to simply increasing the number of judges on the Supreme Court, but had concluded that the idea was inherently problematic. The creation of additional judicial formations in the Supreme Court could lead to judicial inconsistency and would also obscure the true role of a court of last resort. The Government of the day had accepted the report, which necessitated the organisation of a referendum to amend the Constitution, and subsequently the enactment of legislation establishing the new court. It was the first such reform in the history of the Irish State and inevitably took time to complete. The Government regarded the applicant\u2019s proposed solution as simplistic and misleading. They emphasised the right of the respondent State to carefully consider which reforms to make to its judicial system, satisfying the concerns regarding the role and functioning of the Supreme Court and the need for legal certainty.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "47.\u00a0\u00a0Following the transfer of the case to the Court of Appeal, it was dealt with within a reasonable time, the decision coming just over one year later. The last stage, before the Supreme Court, had also been free of any delay.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "48.\u00a0\u00a0The Court notes that the period to be taken into consideration began on 25 May 2004, when the applicant instituted the proceedings before the High Court, and ended on 8 March 2016 when the Supreme Court refused leave to appeal. The proceedings thus lasted for eleven years and nine months overall. The applicant complained particularly of the time taken for her appeal to be heard, which was more than five years and four months.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "1.\u00a0\u00a0General principles",
+                                        "elements": [
+                                            {
+                                                "content": "49.\u00a0\u00a0The reasonableness of the length of proceedings must be assessed in the light of the circumstances of the case, which call for an overall assessment, and having regard to the criteria laid down in the Court\u2019s caselaw, in particular the complexity of the case, the conduct of the applicant and of the relevant authorities and what was at stake for the applicant in the dispute. As the Court has often stated, it is for the Contracting States to organise their judicial systems in such a way that their courts are able to guarantee the right of everyone to obtain a final decision on disputes concerning civil rights and obligations within a reasonable time (see, among many other authorities, Frydlender v. France [GC], no.\u00a030979/96, \u00a7 43, ECHR 2000-VII, and Superwood Holdings Plc and Others v. Ireland, no. 7812/04, \u00a7 34, 8 September 2011). A temporary backlog of court business does not entail a Contracting State\u2019s international liability if it takes appropriate remedial action with the requisite promptness. However, according to the Court\u2019s established case-law, a chronic overload of cases within the domestic system cannot justify an excessive length of proceedings (Probstmeier v. Germany, 1 July 1997, \u00a7 64, Reports of Judgments and Decisions 1997IV), nor can the fact that backlog situations have become commonplace (Uni\u00f3n Alimentaria Sanders S.A. v. Spain, 7\u00a0July 1989, \u00a7 40, Series A no. 157).",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0Application to the present case",
+                                        "elements": [
+                                            {
+                                                "content": "50.\u00a0\u00a0The Court considers that the case was of some complexity, in terms of facts and evidence at least. It required twelve days of hearings in the High Court, with medical experts giving evidence on both sides. Legally speaking, however, it does not appear from the decisions of the domestic courts that the case was a complex one. As noted by the Supreme Court when it refused leave to appeal, in relation to the issue of informed consent, both the High Court and the Court of Appeal applied well-established legal principles. Accordingly, the factual and evidentiary difficulties of the case cannot alone explain or justify the duration of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "51.\u00a0\u00a0As noted by the Government, however, the proceedings before the High Court were procedurally time-consuming with a large number of motions seeking various forms of interim relief being issued and disposed of between 2005 and 2008.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "52.\u00a0\u00a0From the material placed before it, it appears to the Court that in the initial stage of the proceedings, i.e. from May 2004 to June 2005, the applicant acted with normal diligence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "53.\u00a0\u00a0At that point, however, she omitted to reply to the request of the second applicant for further and better particulars, these not being provided until almost five years later in January 2010. The parties disagreed on what significance should be accorded to this point. The applicant argued that in reality there had been no impact on the course of the proceedings, and suggested that the request had lost its relevance in view of the material she had provided to the same firm of solicitors concerning the first defendant in the case. The Government considered that this was a serious lapse of diligence that had substantially delayed the trial of the action.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "54.\u00a0\u00a0The Court is not in a position to establish the actual significance for the second defendant of the information sought from the applicant in June\u00a02005, and which was not received until January 2010, that party not being associated with the present Convention proceedings. The applicant\u2019s assertion that the information was rendered unnecessary because of the replies she provided to the first defendant is in any event speculative. The Court would nevertheless note that the request on behalf of the second defendant was made some weeks after the applicant\u2019s reply to the first defendant (3 June 2005 and 22 June 2005 respectively), i.e. when the solicitor would have been in receipt of the particulars already provided. Moreover, while some of the questions included were the same as those raised regarding the first defendant, others referred to the claims made specifically against the hospital. The fact that the applicant did eventually comply with the request, four and a half years later, suggests that the information in question was, and remained, of relevance to the defence.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "55.\u00a0\u00a0For the Court, this remarkably long delay, directly attributable to the applicant, remains without explanation. As the Supreme Court recalled in the Nash judgment (see paragraph 22 above), the principal obligation for progressing proceedings lies on the parties themselves. A similar obligation arises under Article 6 of the Convention (see Uni\u00f3n Alimentaria Sanders S.A. v. Spain, cited above, \u00a7 35). The Court considers that the applicant\u2019s conduct was, in this particular respect, at odds with her duty to diligently carry out the relevant procedural steps. The fact that the other party did not take steps to compel her to provide the particulars requested does not relieve the applicant of her duty of diligence. The applicant cannot rely, in support of her complaint, on the periods during which her actions \u2013 or inaction \u2013 caused delay (see Brennan v. Ireland [Committee] no. 44360/15, \u00a7\u00a7 49-50, 2\u00a0November 2017; see also McNamara v. the United Kingdom [Committee], no. 22510/13, 12 January 2017, \u00a7 59, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "56.\u00a0\u00a0Turning to the appellate stage, the Court notes that the applicant lodged her appeal on 1 July 2010. The Government criticised the applicant for not filing submissions once the appeal was certified as ready for hearing, or for seeking directions from the Supreme Court. The Court is not persuaded, on the basis of the information before it, that these omissions \u2013 for which the applicant has provided a reasonable explanation \u2013 had the effect of increasing the duration of this stage of the proceedings. Nor is the Court persuaded that the applicant\u2019s case, which was essentially an ordinary action in negligence (see also paragraph 63 below), would have merited priority consideration by the Supreme Court. It does not therefore discern any causative link between the absence of a request for priority treatment and the delay that occurred at the appellate stage.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "57.\u00a0\u00a0Once the case was transferred to the Court of Appeal, it seems to the Court that the applicant acted with normal diligence until the end of the proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "58.\u00a0\u00a0The Court reiterates its well-established case-law that a principle of domestic law or practice that the parties to civil proceedings are required to take the initiative with regard to the progress of the proceedings (see paragraph 55 above) does not dispense the State from complying with the requirement to deal with cases in a reasonable time (see McMullen v.\u00a0Ireland, no. 42297/98, \u00a7 38, 29 July 2004, with further references).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "59.\u00a0\u00a0Regarding the pre-trial phase, the Government indicated that between February 2005 and September 2008 there were numerous applications to the High Court in connection with the pending case, seeking various forms of relief and all dealt with in a timely manner. The applicant did not dispute this \u2013 indeed she made no reference at any point to these procedural acts. Nor did she argue or provide any material from which the Court could infer that the duration of this phase of the litigation, which was pending for more than five years when the hearing date was assigned in October 2009, was due to any failing on the part of the High Court. By the time the hearing commenced in April 2010 the proceedings had been pending for almost six years. As stated above (see paragraph 55 above), the Court considers that this delay was largely brought about by the applicant\u2019s unexplained failure to respond to the request of the second defendant to provide further and better particulars and to progress her own legal proceedings.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "60.\u00a0\u00a0Coming to the trial of the action, the Court considers that this was conducted in a very efficient manner, the judgment coming within two weeks of the close of the hearing.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "61.\u00a0\u00a0The appellate stage included a lengthy period of inactivity that lasted for more than four years (June 2010-October 2014), due to the logjam of cases pending before the Supreme Court in those years. As the Government recognised in its submissions, during those years the domestic system lacked the capacity to deal with appeals from the High Court within a reasonable timeframe. While the Supreme Court was effectively unable to deal with the applicant\u2019s case for a prolonged period, the Court should also have regard, more broadly, to the actions of the respondent State in seeking to devise a solution to the problem. It is clear that the authorities were conscious of their responsibilities in the matter (see Buchholz v.\u00a0Germany, 6\u00a0May 1981, \u00a7 61, Series A no. 42). Furthermore, the Government have explained why the option of creating a new court was preferred to that of increasing the size of the Supreme Court. The creation of the Court of Appeal represented a significant modification of the domestic legal system, involving amendment of the Constitution by referendum, the passage of legislation and the allocation of the necessary resources to the new court (see also in this respect Brennan v. Ireland, cited above, \u00a7\u00a7 54-55, and P.H.\u00a0v. Ireland (dec.) [Committee], no. 45046/16, \u00a7 33, 2 November 2017). The Court considers that once the proposal had been accepted, the respondent State proceeded to implement it without delay.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "62.\u00a0\u00a0The effect of this reform on the applicant\u2019s case was positive. Her appeal was immediately transferred to the new court. Four months later, a hearing date was assigned. The appeal was heard five months after that, and by the date the Court of Appeal gave judgment, the case had been pending before it for just over one year. While the applicant had some general criticism regarding the capacity of the Court of Appeal, the Court agrees with the Government that these remarks are not relevant to the facts of her complaint.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "63.\u00a0\u00a0The applicant referred to her age \u2013 58 years when the proceedings began, 69 when they finished \u2013 and to the state of her health. The Government did not specifically comment on this aspect. The applicant\u2019s stake in the proceedings was not limited to the possibility of compensation, but included as well a point of principle regarding the manner in which she had been treated by the doctor and the hospital. However, the Court does not discern in the case any reason of a medical nature requiring a greater degree of diligence from the authorities (see, a contrario, the cases of X\u00a0v.\u00a0France, 31 March 1992, \u00a7 47, Series A no. 234C, and A. and Others v.\u00a0Denmark, 8 February 1996, \u00a7 78, Reports of Judgments and Decisions 1996I).",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "64.\u00a0\u00a0Having examined all the materials submitted to it, and in light of the various considerations set out above, the Court cannot but find that the length of the proceedings at the appellate level was excessive. The applicant\u2019s own conduct generated most of the delay before the trial of the case but the appeal stage was clearly protracted, lasting over five years and four months. Even taking full cognizance of the serious and substantial efforts on the part of the respondent State to overcome a clear structural deficiency in its legal system, and of the positive impact of this for the applicant at a late stage, the Court must nevertheless conclude that the duration of the proceedings at the appeal stage was excessive. The Court thus finds, to this limited extent, that the proceedings failed to meet the reasonable time requirement.",
+                                                "elements": []
+                                            },
+                                            {
+                                                "content": "65.\u00a0\u00a0There has therefore been a breach of Article 6 \u00a7 1 of the Convention.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "III.\u00a0\u00a0ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "66.\u00a0\u00a0The applicant complained that she had no effective remedy in relation to the allegedly excessive duration of the proceedings in her case.",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0The parties\u2019 submissions",
+                                "elements": [
+                                    {
+                                        "content": "1.\u00a0\u00a0The applicant",
+                                        "elements": [
+                                            {
+                                                "content": "67.\u00a0\u00a0The applicant disputed the relevance of the Nash judgment referred to by the Government. She argued that any possible constitutional cause of action would not be for a breach of Article 6 \u00a7 1 of the Convention, but for a breach of a constitutional right of undefined content. The Nash judgment had not clarified the scope of any remedy for a failure to decide a case in a timely manner. Instead, it had underlined just how complex it would be to obtain a remedy in such circumstances. She objected that to require her to bring such an action at the domestic level would mean obliging her to continue with litigation towards an uncertain outcome, involving further substantial delay and major expense. She considered that the respondent State should have responded to earlier judgments against it by this Court regarding the excessive length of proceedings by introducing a statutory remedy.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": "2.\u00a0\u00a0The Government",
+                                        "elements": [
+                                            {
+                                                "content": "68.\u00a0\u00a0The Government submitted that the Nash judgment had definitively confirmed the existence of an action for constitutional damages for delay in judicial proceedings. They also referred to legislation under preparation in the respondent State to further implement this Court\u2019s McFarlane judgment.",
+                                                "elements": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0The Court\u2019s assessment",
+                                "elements": [
+                                    {
+                                        "content": "69.\u00a0\u00a0The Court recalls that as from its judgment in Doran v. Ireland, no.\u00a050389/99, ECHR 2003X (extracts) it has consistently found the domestic legal system to lack a remedy for complaints of excessive length of proceedings. The objection of non-exhaustion of domestic remedies could not therefore be raised in such cases, and the Court found a violation of Article 13 each time such a complaint was raised in conjunction with Article 6 \u00a7 1 (see as the most recent example involving civil proceedings Rooney v. Ireland, no. 32614/10, 31 October 2013). More recently again, the Court struck out an application in light of the respondent Government\u2019s acceptance, in a unilateral declaration dated 19 January 2017, that \u201cthe length of the proceedings and the lack of an effective remedy in that regard was incompatible with the reasonable time requirement contained in Article\u00a06(1) and Article 13 of the Convention\u201d (see Blehein v. Ireland (dec.) [Committee], no.\u00a014704/16, 25 April 2017). It therefore takes note with interest of this first example brought to its attention of an action in damages for excessive length of proceedings, and of the Supreme Court\u2019s analysis of this issue in light of the relevant principles of the Constitution and the Convention.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "70.\u00a0\u00a0However, it must be recalled that, according to the Court\u2019s wellestablished case-law, the effectiveness of a remedy is normally assessed with reference to the date on which the application was lodged (see\u00a0Valada Matos das Neves v. Portugal, no. 73798/13, \u00a7 102, 29\u00a0October\u00a02015, with further references). Given the close affinity between Article\u00a035\u00a0\u00a7\u00a01 and Article 13, the same approach must be taken under the latter provision (see Casse v. Luxembourg, no. 40327/02, \u00a7 66, 27\u00a0April\u00a02006).",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "71.\u00a0\u00a0The present application was introduced on 12 May 2016. It is clear that at that point in time there was no basis to reconsider the Court\u2019s conclusion regarding the inexistence of a remedy in domestic law for length of proceedings, the Supreme Court\u2019s decision in Nash coming more than five months later on 24 October 2016, and indeed following communication of the application.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "72.\u00a0\u00a0It is true that the Court has approved a number of exceptions to this rule, justified by the specific circumstances of the cases in question. This refers in particular to the enactment of new legislation by States to remedy the systemic problem of length of judicial proceedings (see the cases referred to in Valada Matos das Neves, cited above, at \u00a7 102). Where the change in domestic law comes about through case-law, the Court\u2019s approach has been, for reasons of fairness, to allow a certain time for applicants to familiarise themselves with the new jurisprudence, the exact period depending on the circumstances of each case, especially the publicity given to the decision in question (ibid., \u00a7\u00a7 104-105). Periods ranging from one and a half months (see Poulain v. France (dec.), no. 16470/15, \u00a7 29, 21\u00a0March 2017) to eight months (see Leandro Da Silva v. Luxembourg, no.\u00a030273/07, \u00a7 50, 11 February 2010) have been allowed. It follows that even were the Court to modify its assessment of the domestic system in this regard, this would not have any bearing on its conclusion on the complaint raised in the present case. Accordingly, the Court will refrain on this occasion from determining the significance of the Nash decision for the purposes of Articles 35 \u00a7 1 and 13.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "73.\u00a0\u00a0In light of the foregoing, the Court finds that there has been a violation of Article 13, in conjunction with Article 6 \u00a7 1 of the Convention, and, consequently, dismisses the Government\u2019s objection as to the applicant\u2019s failure to exhaust domestic remedies.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "content": "IV.\u00a0\u00a0APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+                        "elements": [
+                            {
+                                "content": "74.\u00a0\u00a0Article 41 of the Convention provides:",
+                                "elements": []
+                            },
+                            {
+                                "content": "\u201cIf the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.\u201d",
+                                "elements": []
+                            },
+                            {
+                                "content": "A.\u00a0\u00a0Damage",
+                                "elements": [
+                                    {
+                                        "content": "75.\u00a0\u00a0The applicant requested the Court to award her such amount as it deemed appropriate for non-pecuniary loss arising out of the violation of her rights under Articles 6 and 13.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "76.\u00a0\u00a0The Government considered that any award should be in line with the sums granted in similar cases. They pointed out that since the real delay in the proceedings occurred at the appellate stage, any award should be calculated on that basis rather than in light of the overall duration of the proceedings.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "77.\u00a0\u00a0As stated above (see paragraph 64), the violation of Article 6 \u00a7 1 pertains only to the appellate stage. Considering that the applicant must have sustained non-pecuniary damage, and ruling on an equitable basis, the Court awards award her EUR 5,000 under this head of damage.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "B.\u00a0\u00a0Costs and expenses",
+                                "elements": [
+                                    {
+                                        "content": "78.\u00a0\u00a0The applicant claimed a total of EUR 5,827 in legal fees incurred before the Court. This comprised EUR 2,875 charged by counsel for 11.5\u00a0hours of work at a rate of EUR 250 per hour. The remainder comprised EUR 2,952 charged by her solicitor, for 8 hours of work at a rate of EUR\u00a0300 per hour, plus VAT.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "79.\u00a0\u00a0The Government did not express an opinion on the matter.",
+                                        "elements": []
+                                    },
+                                    {
+                                        "content": "80.\u00a0\u00a0According to the Court\u2019s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 4,000.",
+                                        "elements": []
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "C.\u00a0\u00a0Default interest",
+                                "elements": [
+                                    {
+                                        "content": "81.\u00a0\u00a0The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+                                        "elements": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "section_name": "law"
+            },
+            {
+                "content": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+                "elements": [
+                    {
+                        "content": "1.\u00a0\u00a0Declares the complaint concerning Article 6 \u00a7 1 (reasonable time) and the related complaint under Article 13 admissible and the remainder of the application inadmissible;",
+                        "elements": []
+                    },
+                    {
+                        "content": "2.\u00a0\u00a0Holds that there has been a violation of Article 6 \u00a7 1 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "3.\u00a0\u00a0Holds that there has been a violation of Article 13 of the Convention;",
+                        "elements": []
+                    },
+                    {
+                        "content": "4.\u00a0\u00a0Holds",
+                        "elements": []
+                    },
+                    {
+                        "content": "(a)\u00a0\u00a0that the respondent State is to pay the applicant, within three months, the following amounts:",
+                        "elements": []
+                    },
+                    {
+                        "content": "(b)\u00a0\u00a0that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+                        "elements": []
+                    },
+                    {
+                        "content": "Done in English, and notified in writing on 18 January 2018, pursuant to Rule\u00a077\u00a0\u00a7\u00a7\u00a02 and 3 of the Rules of Court.",
+                        "elements": []
+                    }
+                ],
+                "section_name": "conclusion"
+            }
+        ]
+    },
+    "decision_body": [
+        {
+            "name": "Nona Tsotsoria",
+            "role": "president"
+        },
+        {
+            "name": "S\u00edofra O\u2019Leary",
+            "role": "judges"
+        },
+        {
+            "name": "L\u04d9tif H\u00fcseynov",
+            "role": "judges"
+        }
+    ],
+    "decisiondate": "",
+    "docname": "CASE OF HEALY v. IRELAND",
+    "doctypebranch": "COMMITTEE",
+    "documentcollectionid": [
+        "CASELAW",
+        "JUDGMENTS",
+        "COMMITTEE",
+        "ENG"
+    ],
+    "documents": [
+        "001-180281.docx"
+    ],
+    "ecli": "ECLI:CE:ECHR:2018:0118JUD002729116",
+    "externalsources": [],
+    "extractedappno": [
+        "27291/16",
+        "31333/06",
+        "30210/96",
+        "19867/12",
+        "23796/10",
+        "51083/09",
+        "30979/96",
+        "7812/04",
+        "44360/15",
+        "22510/13",
+        "42297/98",
+        "45046/16",
+        "50389/99",
+        "32614/10",
+        "14704/16",
+        "73798/13",
+        "40327/02",
+        "16470/15",
+        "30273/07"
+    ],
+    "importance": "4",
+    "introductiondate": "",
+    "issue": [],
+    "itemid": "001-180281",
+    "judgementdate": "18/01/2018 00:00:00",
+    "kpdate": "18/01/2018 00:00:00",
+    "kpthesaurus": [
+        "445",
+        "40",
+        "406",
+        "444",
+        "110"
+    ],
+    "languageisocode": "ENG",
+    "originatingbody": "29",
+    "paragraphs": [
+        "6",
+        "6-1",
+        "13"
+    ],
+    "parties": [
+        "HEALY",
+        "IRELAND"
+    ],
+    "rank": "2193.6357421875",
+    "representedby": [
+        "DENIS O'SULLIVAN & Co. SOLICITORS"
+    ],
+    "respondent": "IRL",
+    "respondentOrderEng": "22",
+    "scl": [],
+    "separateopinion": "FALSE",
+    "sharepointid": "471568",
+    "typedescription": "15"
+}
