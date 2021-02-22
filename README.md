@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-***
+
 
 - Developed a classifier to predict whether a particular Article of the European Convention on Human Rights has been violated, given textual evidence extracted from a case.
 
