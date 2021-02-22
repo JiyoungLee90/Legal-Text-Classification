@@ -19,7 +19,7 @@
 - Optimised and compared machine learning classification models built on different feature matrix by varing hyperparameters not only in machine learning models but also preprocessing methods, etc. 
 
 ## Code and Resources Used
-***
+
 **Packages:** pandas, numpy, sklearn, xgboost, selenium, json, os, sqlalchemy, psycopg2, nltk, scipy, gensim, requests, doxc, re, zipfile, ast 
 
 **Legal Text Classification Framework**
@@ -45,7 +45,7 @@
 https://web.archive.org/web/20160701182750/http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning
 
 ## Dataset Generation Process
-***
+
 
 The datasets based on the raw information and documents available publicaly in HUDOC database.
 
@@ -86,7 +86,7 @@ The datasets based on the raw information and documents available publicaly in H
 - Combined datasets from each Article into one dataframe to be stored in a PostgresSQL database.
 
 ## Text Preprocessing 
-***
+
 There are 3 variations of the text obtained from varying stop words treatement. 
 Following text preprocessing steps were applied:
 
@@ -105,7 +105,7 @@ Following text preprocessing steps were applied:
     
 
 ## Feature Engineering 
-***
+
 
 Pre-trained **GloVe** word embedding models were used to extract features from the text. A word embedding is a learned representation for text in an n-dimensional space where words that have the same meaning have a similar representation. In this project, this particular NLP method was employed in order to 
 
@@ -127,7 +127,7 @@ For each preprocessed judgement text in the dataset,
 Both 100 and 200 dimension of GloVe word embeddings were considered. 
 
 ## Model Building & Evaluation
-***
+
 
 ### Train-Test Split Method and Evaluation Metrics 
 
@@ -208,7 +208,7 @@ For a given Article, each version of text, and each dimensional word vectors, fo
 
 
 ## Model Performance
-***
+
 
 <img src="resources/performance.png" align = "left">
 
