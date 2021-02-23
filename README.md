@@ -16,7 +16,7 @@
 - Extracted features from the text data using pre-trained word embedding models.
 
 
-- Optimised and compared machine learning classification models built on different feature matrix by varing hyperparameters not only in machine learning models but also preprocessing methods, etc. 
+- Optimised and compared machine learning classification models built on different feature matrices resulting from varing preprocessing methods and word embedding vectors. 
 
 ## Code and Resources Used
 
