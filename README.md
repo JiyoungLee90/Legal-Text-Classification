@@ -7,16 +7,17 @@
 - Developed a classifier to predict whether a particular Article of the European Convention on Human Rights has been violated, given textual evidence extracted from a case.
 
 
-- Parsed and collected case information and judgement document for each ECHR case from HUDOC(Human Rights Documentation) API using Python.
+- Parsed and collected case information and judgement document for each ECHR case from HUDOC(Human Rights Documentation) API using Python. After filtering and cleaning the case information for each Article was stored into PostgresSQL database. 
 
 
-- Preprocessed judgement documents to generate text data and sorted them by the revelant Article. 
+- Preprocessed judgement documents to generate text data and sorted them by the revelant Article. Text dataset was stored into PostgresSQL database. 
 
 
-- Extracted features from the text data using pre-trained word embedding models.
+- Extracted features from the text data using pre-trained word embedding models (GloVe).
 
 
-- Optimised and compared machine learning classification models built on different feature matrices resulting from varing preprocessing methods and word embedding vectors. 
+- Optimised machine learning models by experimenting on building models with different feature matrices which resulted from variation in text-preprocessing method and word embeddings. 
+
 
 ## Code and Resources Used
 
