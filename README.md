@@ -48,7 +48,7 @@ https://web.archive.org/web/20160701182750/http://blog.dato.com/how-to-evaluate-
 ## Dataset Generation Process
 
 
-The datasets based on the raw information and documents available publicaly in HUDOC database.
+The datasets based on the raw information and documents available publicly in HUDOC database.
 
 ### 1. Retrieving case information from HUDOC database
 
